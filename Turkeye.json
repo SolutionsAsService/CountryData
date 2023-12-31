@@ -1,0 +1,65 @@
+{
+  "country": "Turkey",
+  "official_name": "Republic of Türkiye",
+  "native_name": "Türkiye Cumhuriyeti",
+  "anthem": "İstiklal Marşı (Independence March)",
+  "location_description": "A country in Southeast Europe and West Asia, mainly on the Anatolian Peninsula with East Thrace on the Balkan Peninsula.",
+  "borders": {
+    "north": "Black Sea",
+    "northeast": "Georgia",
+    "east": ["Armenia", "Azerbaijan", "Iran"],
+    "southeast": "Iraq",
+    "south": ["Syria", "Mediterranean Sea"],
+    "west": "Aegean Sea",
+    "northwest": ["Greece", "Bulgaria"]
+  },
+  "offshore_borders": {
+    "south": "Cyprus"
+  },
+  "capital": "Ankara",
+  "largest_city": "Istanbul",
+  "official_language": "Turkish",
+  "spoken_languages": ["Kurdish", "Zaza", "Arabic", "Circassian", "Laz", "Greek", "Armenian", "Albanian", "Bosnian", "Bulgarian", "various others"],
+  "ethnic_groups_2016": {
+    "Turks": "70–75%",
+    "Kurds": "19%",
+    "others": "6–11%"
+  },
+  "demonym": ["Turkish", "Turk"],
+  "government": "Unitary presidential constitutional republic",
+  "leaders": {
+    "President": "Recep Tayyip Erdoğan",
+    "Vice President": "Cevdet Yılmaz",
+    "Assembly Speaker": "Numan Kurtulmuş",
+    "Chief Justice": "Zühtü Arslan"
+  },
+  "legislature": "Grand National Assembly",
+  "establishment_history": {
+    "Ottoman Empire": "c. 1299",
+    "War of Independence": "19 May 1919",
+    "Government of the Grand National Assembly": "23 April 1920",
+    "Sultanate abolished": "1 November 1922",
+    "Treaty of Lausanne": "24 July 1923",
+    "Republic declared": "29 October 1923",
+    "Current constitution": "9 November 1982"
+  },
+  "area_km2": "783,562",
+  "population_december_2022_estimate": "85,279,553",
+  "population_density_per_km2": "111",
+  "gdp_ppp_2023_estimate": {
+    "total": "$3.613 trillion",
+    "per_capita": "$41,887"
+  },
+  "gdp_nominal_2023_estimate": {
+    "total": "$1.154 trillion",
+    "per_capita": "$13,383"
+  },
+  "gini_2019": "41.9 (medium)",
+  "hdi_2021": "0.838 (very high)",
+  "currency": "Turkish lira (TRY)",
+  "time_zone": "UTC+3 (TRT)",
+  "calling_code": "+90",
+  "iso_3166_code": "TR",
+  "internet_tld": ".tr",
+  "summary": "Turkey, officially the Republic of Türkiye, straddles Southeast Europe and West Asia, encompassing the rich cultural legacy of the Anatolian Peninsula and East Thrace. It's a melting pot of ethnicities, with Turks and Kurds forming major communities. Ankara serves as the capital, while Istanbul is the pulsating economic and cultural heart. Governed as a unitary presidential constitutional republic, Turkey has evolved through a complex history from the Ottoman Empire to a modern republic. Its strategic location has made it a geopolitical hub, bordered by eight countries and several seas. Turkey's blend of historical depth, cultural diversity, and economic vitality makes it a unique and dynamic nation."
+}
