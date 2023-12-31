@@ -1,0 +1,26 @@
+{
+  "territory": "Hospitaller Tripoli",
+  "time_period": "1530–1551",
+  "flag": "Flag of Hospitaller Tripoli",
+  "coat_of_arms": "Coat of arms of Hospitaller Tripoli",
+  "status": "Vassal of the Kingdom of Sicily",
+  "capital": "Tripoli",
+  "religion": "Roman Catholicism",
+  "governors": {
+    "first": {"Gaspare de Sanguessa": "1530–1531"},
+    "last": {"Gaspard de Vallier": "1551"}
+  },
+  "historical_era": "Early modern period",
+  "significant_events": {
+    "Hospitaller fief granted": "23 March 1530",
+    "Established": "25 July 1530",
+    "Ottoman conquest": "15 August 1551"
+  },
+  "maps": [
+    "Map of Hospitaller Tripoli in relation to Hospitaller Malta",
+    "Map of Tripoli dated 1561, shortly after the end of Hospitaller rule"
+  ],
+  "preceded_by": "Spanish Tripoli",
+  "succeeded_by": "Ottoman Tripolitania",
+  "summary": "Hospitaller Tripoli was a territory ruled by the Knights Hospitaller between 1530 and 1551 as a vassal of the Kingdom of Sicily. The city of Tripoli, along with the islands of Malta and Gozo, was granted to the Hospitallers by Spain. During this period, the Hospitallers faced challenges in controlling the region and debated moving their headquarters or abandoning the city. The rule ended following the Ottoman conquest in 1551, leading to a significant shift in the region's control and influence."
+}
