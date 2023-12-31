@@ -1,0 +1,59 @@
+{
+  "name": "Saudi Arabia",
+  "official_name": "Kingdom of Saudi Arabia (KSA)",
+  "motto": "لَا إِلٰهَ إِلَّا ٱلله، مُحَمَّدٌ رَسُوْلُ ٱلله (There is no god but God; Muhammad is the messenger of God.)",
+  "anthem": "National Anthem of Saudi Arabia",
+  "location": "West Asia",
+  "geographical_description": "Covers most of the Arabian Peninsula, bordered by multiple countries and the Red Sea and the Persian Gulf.",
+  "area_km2": "2,149,690",
+  "capital": "Riyadh",
+  "largest_city": "Riyadh",
+  "official_language": "Arabic",
+  "ethnic_groups_2014": {
+    "Arab": "90%",
+    "Afro-Arab": "10%"
+  },
+  "religion_2010": {
+    "Islam (official)": "93.0%",
+    "Sunni": "85–90%",
+    "Shia": "10–15%",
+    "Christianity": "4.4%",
+    "Hinduism": "1.1%",
+    "Unaffiliated": "0.7%",
+    "Buddhism": "0.3%"
+  },
+  "demonyms": ["Saudi", "Saudi Arabian"],
+  "government": "Unitary Islamic absolute monarchy",
+  "monarch": "King Salman",
+  "crown_prince": "Mohammed bin Salman",
+  "legislature": "None",
+  "establishment_history": {
+    "Emirate of Diriyah": "1727",
+    "Emirate of Nejd": "1824",
+    "Emirate of Riyadh": "13 January 1902",
+    "Unification": "23 September 1932",
+    "Admitted to the United Nations": "24 October 1945",
+    "Current constitution": "31 January 1992"
+  },
+  "population_2022_census": "32,175,224",
+  "gdp_ppp_2023_estimate": {
+    "total": "$2.246 trillion",
+    "per_capita": "$68,452"
+  },
+  "gdp_nominal_2023_estimate": {
+    "total": "$1.069 trillion",
+    "per_capita": "$32,586"
+  },
+  "gini_2013": "45.9 (medium)",
+  "hdi_2021": "0.875 (very high)",
+  "currency": "Saudi riyal (SAR)",
+  "time_zone": "UTC+3 (AST)",
+  "driving_side": "right",
+  "calling_code": "+966",
+  "iso_3166_code": "SA",
+  "internet_tld": [".sa", "السعودية"],
+  "cultural_influences": {
+    "holy_cities": ["Mecca", "Medina"],
+    "islam_significance": "Birthplace of Islam and home to its two holiest cities in Islam."
+  }
+}
