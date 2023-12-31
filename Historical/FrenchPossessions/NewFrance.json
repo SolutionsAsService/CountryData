@@ -1,0 +1,34 @@
+{
+  "territory": "New France",
+  "native_name": "Nouvelle-France (French)",
+  "time_period": "1534–1763",
+  "flag": "Flag of New France",
+  "coat_of_arms": "Coat of arms of New France",
+  "motto": "\"Montjoie Saint Denis!\" (Mountjoy Saint Denis!)",
+  "status": "Viceroyalty of the Kingdom of France",
+  "capital": "Quebec",
+  "common_language": "French",
+  "religion": "Catholicism",
+  "king_of_france": {
+    "first": {"Francis I": "1534–1547"},
+    "last": {"Louis XV": "1715–1763"}
+  },
+  "viceroys": {
+    "first": {"Jacques Cartier": "1534–1541; as Governor of New France"},
+    "last": {"Pierre de Rigaud de Vaudreuil": "1755–1760"}
+  },
+  "legislature": "Superior Council",
+  "historical_era": "Colonial/French and Indian War",
+  "significant_events": {
+    "Exploration begins with Jacques Cartier": "24 July 1534",
+    "Integration into the royal domain and new administration": "18 September 1663",
+    "Treaty of Utrecht": "11 April 1713",
+    "Treaty of Paris": "10 February 1763"
+  },
+  "area": "8,000,000 km2 (3,100,000 sq mi)",
+  "currency": "Livre tournois",
+  "preceded_by": ["Indigenous lands", "Various European explorations"],
+  "succeeded_by": ["Great Britain and Spain after the Treaty of Paris"],
+  "today_part_of": ["Canada", "United States", "Saint Pierre and Miquelon"],
+  "summary": "New France was the territory colonized by France in North America from 1534 until 1763. It began with Jacques Cartier's exploration and expanded to cover a vast area. The region was characterized by French language, Catholic religion, and a viceroyalty governance structure. It experienced significant development and conflict, including the French and Indian War. The Treaty of Utrecht and the Treaty of Paris were pivotal, leading to its cession to Great Britain and Spain. Today, its legacy continues in parts of Canada, the United States, and Saint Pierre and Miquelon."
+}
