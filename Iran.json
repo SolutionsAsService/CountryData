@@ -1,0 +1,89 @@
+{
+  "country": "Iran",
+  "also_known_as": "Persia",
+  "official_name": "Islamic Republic of Iran",
+  "motto": "Allāhu Akbar (God is the Greatest)",
+  "anthem": "National Anthem of the Islamic Republic of Iran",
+  "location": "Crossroads of West, Central, and South Asia",
+  "geographical_description": "Bordered by Iraq, Turkey, Azerbaijan, Armenia, the Caspian Sea, Turkmenistan, Afghanistan, Pakistan, the Gulf of Oman, and the Persian Gulf",
+  "capital_and_largest_city": "Tehran",
+  "official_language": "Persian",
+  "recognised_regional_languages": {
+    "Azerbaijani and other Turkic languages": "18%",
+    "Kurdish": "10%",
+    "Gilaki and Mazanderani": "7%",
+    "Luri": "6%",
+    "Balochi": "2%",
+    "Arabic": "2%",
+    "other": "2% (incl. Armenian, Assyrian, Georgian, Laki, Semnani, Talysh, Tati)"
+  },
+  "ethnic_groups_2003_estimate": {
+    "Predominantly Persians": "All",
+    "Azeris": "",
+    "Kurds": "",
+    "Mazanderanis": "",
+    "Lurs": "",
+    "Gilaks": "",
+    "Arabs": "",
+    "Armenians": "",
+    "Turkmens": "",
+    "Baloch": "",
+    "Talysh": "",
+    "Tat": ""
+  },
+  "religion_2011": {
+    "Islam": "99%",
+    "Shia Islam (official)": "90%",
+    "Sunni Islam": "9%",
+    "Baha'i Faith": "0.4%",
+    "Christianity": "0.1%",
+    "Jews": "0.01%",
+    "Others": "0.4%"
+  },
+  "demonym": "Iranian",
+  "government": "Unitary presidential theocratic Islamic republic",
+  "head_of_state": {
+    "Supreme Leader": "Ali Khamenei",
+    "President": "Ebrahim Raisi",
+    "Vice President": "Mohammad Mokhber",
+    "Speaker of the Parliament": "Mohammad Bagher Ghalibaf",
+    "Secretary of the Guardian Council": "Ahmad Jannati",
+    "Chief Justice": "Gholam-Hossein Mohseni-Eje'i"
+  },
+  "legislature": "Islamic Consultative Assembly",
+  "establishment_history": {
+    "Median Empire": "c. 678 BC",
+    "Achaemenid Empire": "550 BC",
+    "Parthian Empire": "247 BC",
+    "Sasanian Empire": "224 AD",
+    "Buyid dynasty": "934",
+    "Safavid Empire": "1501",
+    "Afsharid Iran": "1736",
+    "Zand dynasty": "1751",
+    "Qajar Iran": "1796",
+    "Pahlavi Iran": "15 December 1925",
+    "Iranian Revolution": "11 February 1979",
+    "Current constitution": "3 December 1979",
+    "Latest amendment": "28 July 1989"
+  },
+  "area_km2": "1,648,195",
+  "population_2023_estimate": "87,590,873",
+  "population_density_per_km2": "55",
+  "gdp_ppp_2023_estimate": {
+    "total": "$1.725 trillion",
+    "per_capita": "$19,942"
+  },
+  "gdp_nominal_2023_estimate": {
+    "total": "$366.438 billion",
+    "per_capita": "$4,234"
+  },
+  "gini_2019": "40.9 (medium)",
+  "hdi_2021": "0.774 (high)",
+  "currency": "Iranian rial (IRR)",
+  "time_zone": "UTC+3:30 (IRST)",
+  "date_format": "yyyy/mm/dd (SH)",
+  "driving_side": "right",
+  "calling_code": "+98",
+  "iso_3166_code": "IR",
+  "internet_tld": [".ir", ".ایران"]
+}
