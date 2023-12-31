@@ -1,0 +1,44 @@
+{
+  "territory": "Mandatory Iraq",
+  "also_known_as": "Kingdom of Iraq under British Administration",
+  "arabic_name": "الانتداب البريطاني على العراق (al-Intidāb al-Brīṭānī ‘Alá al-‘Irāq)",
+  "time_period": "1921–1932",
+  "flag": "Flag of Iraq (1924–1932)",
+  "coat_of_arms": "Coat of arms of Iraq (1931–1932)",
+  "anthem": "As-Salam al-Malaki (The Royal Salute)",
+  "status": "League of Nations mandate",
+  "capital_and_largest_city": "Baghdad",
+  "common_languages": ["Arabic", "Kurdish", "Neo-Aramaic", "English"],
+  "religions": ["Islam", "Christianity", "Judaism", "Yazidism", "Mandaeism"],
+  "demonym": "Iraqi",
+  "governance": {
+    "High Commissioner": {
+      "first": "Percy Cox (1921–1923)",
+      "last": "Francis Humphrys (1929–1932)"
+    },
+    "King": "Faisal I (1921–1932)",
+    "Prime Minister": {
+      "first": "Abd Al-Rahman Al-Gillani (1920–1922)",
+      "last": "Nuri al-Said (1930–1932)"
+    }
+  },
+  "legislature": {
+    "Upper Chamber": "Senate",
+    "Lower Chamber": "Chamber of Deputies"
+  },
+  "historical_era": "Interwar period",
+  "significant_events": {
+    "San Remo conference": "25 April 1920",
+    "Treaty of Sèvres": "23 August 1921",
+    "Coronation of Faisal I": "23 August 1921",
+    "Treaty of Lausanne": "24 July 1923",
+    "Treaty of Ankara": "5 June 1926",
+    "Anglo-Iraqi Treaty": "30 June 1930",
+    "Independence": "3 October 1932"
+  },
+  "currency": "Indian rupee",
+  "predecessor_territories": ["Baghdad Vilayet", "Basra Vilayet", "Mosul Vilayet", "Al-Muntafiq"],
+  "successor_state": "Kingdom of Iraq",
+  "today_part_of": ["Iraq", "Saudi Arabia"],
+  "summary": "Mandatory Iraq, also known as the Kingdom of Iraq under British Administration, was created following the Iraqi Revolt against the proposed British Mandate of Mesopotamia. It existed from 1921 to 1932 under the League of Nations mandate with British administration. The territory was led by High Commissioner Percy Cox, followed by Francis Humphrys, and King Faisal I. Despite British efforts, the period was marked by growing nationalist anger and an incomplete establishment of British authority, particularly in Kurdish regions. Mandatory Iraq was a precursor to the fully independent Kingdom of Iraq."
+}
