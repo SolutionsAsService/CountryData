@@ -1,0 +1,44 @@
+{
+  "territory": "French Protectorate of Tunisia",
+  "native_names": {
+    "French": "Protectorat français de Tunisie",
+    "Arabic": "الحماية الفرنسية في تونس"
+  },
+  "time_period": "1881–1956",
+  "flag": "Flag of French Tunisia",
+  "coat_of_arms": "Coat of arms of French Tunisia",
+  "anthems": ["Salam al-Bey", "La Marseillaise"],
+  "status": "Protectorate",
+  "capital": "Tunis",
+  "common_languages": ["Tunisian Arabic", "French", "Arabic"],
+  "religion": "Islam",
+  "demonym": "Tunisian",
+  "government": "Constitutional monarchy under French protection",
+  "leaders": {
+    "Beys": {
+      "first": {"Muhammad III as-Sadiq": "1859–1882"},
+      "last": {"Muhammad VIII al-Amin": "1943–1956"}
+    },
+    "Prime Ministers": {
+      "first": {"Mohamed Khaznadar": "1881–1882"},
+      "last": {"Tahar Ben Ammar": "1954–1956"}
+    },
+    "Resident-Generals": {
+      "first": {"Paul Cambon": "1885–1886"},
+      "last": {"Roger Seydoux": "1955–1956"}
+    }
+  },
+  "historical_era": "Interwar period",
+  "significant_events": {
+    "Treaty of Bardo": "12 May 1881",
+    "Independence": "20 March 1956"
+  },
+  "currency": {
+    "1881–1891": "Rial",
+    "1891–1956": "Franc"
+  },
+  "preceded_by": "Beylik of Tunis",
+  "succeeded_by": "Kingdom of Tunisia",
+  "today_part_of": "Tunisia",
+  "summary": "The French Protectorate of Tunisia, established in 1881 and lasting until 1956, was a period of French colonial rule marked by constitutional monarchy under French protection. The protectorate was established through the Treaty of Bardo and involved significant French influence on Tunisian governance and society. Tunisians retained their language and religion but were heavily influenced by French culture, administration, and economics. This era ended when Tunisia gained independence in 1956, transitioning into the Kingdom of Tunisia."
+}
