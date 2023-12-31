@@ -1,0 +1,53 @@
+{
+  "country": "Iraq",
+  "official_name": "Republic of Iraq",
+  "anthem": "Mawṭinī (My Homeland)",
+  "location": "West Asia, Middle East",
+  "geographical_description": "Bordered by Turkey, Iran, Persian Gulf, Kuwait, Saudi Arabia, Jordan, and Syria",
+  "capital_and_largest_city": "Baghdad",
+  "official_languages": ["Arabic", "Kurdish"],
+  "recognised_regional_languages": ["Suret (Assyrian)", "Turkish/Turkmen", "Armenian"],
+  "ethnic_groups_1987": {
+    "Arabs": "75–80%",
+    "Kurds": "15–20%",
+    "Turkmen": "9-13%",
+    "Others": "5% (incl. Assyrians, Yazidis, and Mandaeans)"
+  },
+  "demonym": "Iraqi",
+  "government": "Federal parliamentary republic",
+  "head_of_state": {
+    "President": "Abdul Latif Rashid",
+    "Prime Minister": "Mohammed Shia' Al Sudani",
+    "Speaker": "Mohamed al-Halbousi",
+    "Chief Justice": "Faiq Zidan"
+  },
+  "legislature": "Council of Representatives",
+  "independence_from_the_United_Kingdom": {
+    "Independence_declared": "3 October 1932",
+    "Republic_declared": "14 July 1958",
+    "Current_constitution": "15 October 2005"
+  },
+  "area_km2": "438,317",
+  "population_2023_estimate": "43,324,000",
+  "population_density_per_km2": "82.7",
+  "gdp_ppp_2023_estimate": {
+    "total": "$508.973 billion",
+    "per_capita": "$11,742"
+  },
+  "gdp_nominal_2023_estimate": {
+    "total": "$254.993 billion",
+    "per_capita": "$5,882"
+  },
+  "gini_2012": "29.5 (low)",
+  "hdi_2021": "0.686 (medium)",
+  "currency": "Iraqi dinar (IQD)",
+  "time_zone": "UTC+3 (AST)",
+  "driving_side": "right",
+  "calling_code": "+964",
+  "iso_3166_code": "IQ",
+  "internet_tld": [".iq", ".العراق"],
+  "religion": {
+    "Majority": "Muslims (Sunni and Shia)",
+    "Minorities": ["Christianity", "Yazidism", "Mandaeism", "Yarsanism", "Zoroastrianism"]
+  }
+}
