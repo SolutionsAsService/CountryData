@@ -1,0 +1,45 @@
+{
+  "designation": "Mandate for Syria and the Lebanon",
+  "french_name": "Mandat pour la Syrie et le Liban",
+  "arabic_name": "الانتداب الفرنسي على سوريا ولبنان",
+  "also_known_as": "Levant States",
+  "time_period": "1923–1946",
+  "document_details": {
+    "creation_period": "1920–1922",
+    "ratified": "1923",
+    "location": "UNOG Library; ref.: C.528. M.313. 1922. VI.",
+    "signatories": "League of Nations"
+  },
+  "purpose": "Creation of the State of Syria, Greater Lebanon, Alawite State, Jabal ad-Druze, Hatay State",
+  "background": {
+    "post_WWI": "Founded in the aftermath of the First World War and the partitioning of the Ottoman Empire.",
+    "mandate_system": "Intended as a trusteeship with the governing country acting until inhabitants were ready for self-government."
+  },
+  "territorial_control": {
+    "initial_control": "British held most of Ottoman Mesopotamia and southern part of Ottoman Syria, French controlled the rest of Ottoman Syria.",
+    "mandate_assignment": "29 September 1923 France was assigned the League of Nations mandate of Syria, including present-day Lebanon and Alexandretta."
+  },
+  "administrative_structure": {
+    "governments_and_territories": [
+      "Syrian Federation (1922–24)",
+      "State of Syria (1925–1930)",
+      "Mandatory Syrian Republic (1930–1946)",
+      "Greater Lebanon",
+      "Alawite State",
+      "Jabal Druze State"
+    ],
+    "hatay_annexation": "Hatay State was annexed by Turkey in 1939."
+  },
+  "end_of_mandate": {
+    "termination": "1946",
+    "circumstances": "French troops left Syria and Lebanon after both declared independence during World War II."
+  },
+  "significance": {
+    "mandate_system_difference": "Mandate system was supposed to differ from colonialism, with the goal of establishing sovereign states."
+  },
+  "leadership": {
+    "League_of_Nations": "Governing body under which the mandate was established"
+  },
+  "territories_involved": ["State of Syria", "Greater Lebanon", "Alawite State", "Jabal ad-Druze", "Hatay State"],
+  "summary": "The Mandate for Syria and the Lebanon was a League of Nations mandate established after World War I that included the territories of present-day Syria, Lebanon, and parts of Turkey. The mandate was intended as a temporary trusteeship until the inhabitants were ready for self-government, leading to the creation of several states. The French administered the region through various governments and territories until 1946, when the mandate ended, and Syria and Lebanon declared independence."
+}
