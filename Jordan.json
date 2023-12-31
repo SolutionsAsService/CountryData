@@ -1,0 +1,62 @@
+{
+  "name": "Jordan",
+  "official_name": "Hashemite Kingdom of Jordan",
+  "motto": "الله، الوطن، الملك (God, Country, King)",
+  "anthem": "The Royal Anthem of Jordan",
+  "location": "West Asia",
+  "geographical_description": "Situated at the crossroads of Asia, Africa, and Europe within the Levant region, on the East Bank of the Jordan River.",
+  "borders": {
+    "south_and_east": "Saudi Arabia",
+    "northeast": "Iraq",
+    "north": "Syria",
+    "west": ["Palestinian West Bank", "Israel"]
+  },
+  "coastline": "26 km on the Gulf of Aqaba's Red Sea",
+  "capital_and_largest_city": "Amman",
+  "official_language": "Arabic",
+  "ethnic_groups": {
+    "Arab": "95%",
+    "Circassian, Chechen": "3%",
+    "Armenian and others": "2%"
+  },
+  "religion": {
+    "Sunni Islam (official)": "95%",
+    "Christianity": "3%",
+    "Druze, Baháʼí": "1%",
+    "others": "1%"
+  },
+  "demonym": "Jordanian",
+  "government": "Unitary parliamentary constitutional monarchy",
+  "monarch": "Abdullah II",
+  "prime_minister": "Bisher Khasawneh",
+  "legislature": {
+    "upper_house": "Senate",
+    "lower_house": "House of Representatives"
+  },
+  "independence_from_the_United_Kingdom": {
+    "emirate": "11 April 1921",
+    "independence": "25 May 1946",
+    "current_constitution": "11 January 1952"
+  },
+  "area_km2": "89,342",
+  "population_2023_estimate": "11,484,805",
+  "population_2015_census": "9,531,712",
+  "population_density_per_km2": "114",
+  "gdp_ppp_2023_estimate": {
+    "total": "$132.092 billion",
+    "per_capita": "$12,809"
+  },
+  "gdp_nominal_2023_estimate": {
+    "total": "$50.022 billion",
+    "per_capita": "$4,850"
+  },
+  "gini_2011": "35.4 (medium)",
+  "hdi_2021": "0.720 (high)",
+  "currency": "Jordanian dinar (JOD)",
+  "time_zone": "UTC+3",
+  "driving_side": "right",
+  "calling_code": "+962",
+  "iso_3166_code": "JO",
+  "internet_tld": [".jo", ".الاردن"],
+  "official_website": "jordan.gov.jo"
+}
