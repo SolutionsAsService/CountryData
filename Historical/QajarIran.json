@@ -1,0 +1,55 @@
+{
+  "country": "Iran (Qajar Period)",
+  "also_known_as": ["Qajar Persia", "Qajar Empire", "Sublime State of Persia", "Sublime State of Iran", "Guarded Domains of Iran"],
+  "official_name": "Sublime State of Iran",
+  "persian_name": "دولت عَلیّهٔ ایران (Dowlat-e 'Aliyye-ye Irân)",
+  "time_period": "1789–1925",
+  "flag": "Flag of Qajar Iran (1906–1925)",
+  "coat_of_arms": "Coat of arms of Qajar Iran (1907–1925)",
+  "anthems": {
+    "1873–1909": "Salâm-e Shâh (Royal salute)",
+    "1909–1925": "Salamati-ye Dowlat-e 'Aliyye-ye Iran (Salute of the Sublime State of Iran)"
+  },
+  "capital": "Tehran",
+  "common_languages": ["Persian (official, administrative, cultural)", "Azerbaijani (court language, royal family)"],
+  "religion": {
+    "official": "Shia Islam",
+    "minorities": ["Sunni Islam", "Sufism", "Judaism", "Zoroastrianism", "Christianity", "Baháʼí Faith", "Mandaeism"]
+  },
+  "government": {
+    "1789–1906": "Unitary absolute monarchy",
+    "1906–1907": "Unitary parliamentary constitutional monarchy",
+    "1907–1909": "Unitary absolute monarchy",
+    "1909-1925": "Unitary parliamentary constitutional monarchy"
+  },
+  "shahs": {
+    "first": {"Agha Mohammad Khan Qajar": "1789–1797"},
+    "last": {"Ahmad Shah Qajar": "1909–1925"}
+  },
+  "prime_ministers": {
+    "first": {"Mirza Nasrullah Khan": "1906"},
+    "last": {"Reza Pahlavi": "1923–1925"}
+  },
+  "legislature": {
+    "pre_1906": "None",
+    "1906–1907": "National Consultative Assembly",
+    "1907–1909": "None",
+    "post_1909": "National Consultative Assembly"
+  },
+  "significant_events": {
+    "Establishment": "1789",
+    "Treaty of Gulistan": "24 October 1813",
+    "Treaty of Turkmenchay": "10 February 1828",
+    "Treaty of Paris": "4 March 1857",
+    "Treaty of Akhal": "21 September 1881",
+    "Persian Constitutional Revolution": "5 August 1906",
+    "Deposed by Constituent Assembly": "31 October 1925"
+  },
+  "currency": {
+    "1789–1825": "toman",
+    "1825–1925": "qiran"
+  },
+  "predecessors": ["Zand dynasty", "Kingdom of Kartli-Kakheti", "Afsharid Iran"],
+  "successor": "Pahlavi Iran",
+  "summary": "Qajar Iran, ruled by the Qajar dynasty of Turkic origin, was a significant period in Iranian history, spanning from 1789 to 1925. It began with Agha Mohammad Khan Qajar's consolidation of power and included notable events like several treaties and the Persian Constitutional Revolution. The era saw a transition from absolute to constitutional monarchy and was marked by its cultural, linguistic, and governmental developments. It ended with the rise of Reza Pahlavi and the establishment of Pahlavi Iran."
+}
