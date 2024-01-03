@@ -1,0 +1,67 @@
+{
+  "Country": "Ukraine",
+  "Local Name": "Україна",
+  "Flag": "Blue and yellow horizontal bicolor",
+  "Coat of Arms": "A trident known as the Tryzub",
+  "Anthem": "State Anthem of Ukraine",
+  "Capital": "Kyiv",
+  "Largest Cities": ["Kyiv", "Kharkiv", "Dnipro", "Odesa"],
+  "Official Language": "Ukrainian",
+  "Ethnic Groups": {
+    "Ukrainians": "78%",
+    "Russians": "17%",
+    "Others": "4.9%"
+  },
+  "Religion": {
+    "Christianity": "87.3%",
+    "No Religion": "11%",
+    "Others": "1.7%"
+  },
+  "Government": {
+    "Type": "Unitary semi-presidential republic",
+    "President": "Volodymyr Zelenskyy",
+    "Prime Minister": "Denys Shmyhal",
+    "Legislature": "Verkhovna Rada"
+  },
+  "Area": "603,628 km2",
+  "Population": {
+    "2023 Estimate": "33.2 million",
+    "Density": "60.9/km2"
+  },
+  "GDP": {
+    "PPP Total": "$474.773 billion",
+    "PPP Per Capita": "$14,303",
+    "Nominal Total": "$173.413 billion",
+    "Nominal Per Capita": "$5,224"
+  },
+  "Gini Index": "25.6",
+  "HDI": "0.773",
+  "Currency": "Hryvnia (₴)",
+  "Time Zone": "UTC+2 (EET), UTC+3 (EEST in summer)",
+  "Driving Side": "right",
+  "Calling Code": "+380",
+  "ISO 3166 Code": "UA",
+  "Internet TLD": [".ua", ".укр"],
+  "Geographical Location": "Eastern Europe",
+  "Borders": ["Russia", "Belarus", "Poland", "Slovakia", "Hungary", "Romania", "Moldova"],
+  "Coastline": ["Black Sea", "Sea of Azov"],
+  "Historical Summary": {
+    "Early History": "Settlement dates back to 32,000 BC with various ancient cultures. The area was a key centre of East Slavic culture under the state of Kievan Rus'.",
+    "Golden Age of Kyiv": "The state of Kievan Rus' reached its zenith during the 10th and 11th centuries with significant cultural and military achievements.",
+    "Foreign Domination": "The area was contested and ruled by various powers over the centuries, including the Polish–Lithuanian Commonwealth, the Ottoman Empire, and the Russian Empire.",
+    "Cossack Hetmanate": "A Cossack military quasi-state formed in the mid-17th century, experiencing significant conflict and autonomy restrictions over time.",
+    "19th and Early 20th Century": "The rise of Ukrainian nationalism and significant turmoil during World War I and the subsequent years leading to the establishment of the Ukrainian Soviet Socialist Republic as part of the Soviet Union."
+  },
+  "Recent History": {
+    "Independence": "Gained in 1991 as the Soviet Union dissolved, followed by the adoption of a new constitution in 1996.",
+    "Euromaidan and Recent Conflicts": "Mass demonstrations led to a new government in 2014. Ongoing conflict with Russia including the annexation of Crimea and war in the Donbas."
+  },
+  "Economic Overview": {
+    "Status": "Developing country, the poorest in Europe by nominal GDP per capita, but one of the largest grain exporters globally pre-war.",
+    "Corruption": "Remains a significant issue."
+  },
+  "International Relations": {
+    "Member of": ["United Nations", "Council of Europe", "World Trade Organization", "OSCE"],
+    "In Process": "Joining the European Union and NATO"
+  }
+}
