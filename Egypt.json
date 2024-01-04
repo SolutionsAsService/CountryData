@@ -1,0 +1,85 @@
+{
+  "Egypt": {
+    "official_name": "Arab Republic of Egypt",
+    "native_name": "جمهورية مصر العربية",
+    "transcription": "Jumhūrīyat Miṣr al-ʻArabīyah",
+    "geography": {
+      "location": "Transcontinental (Africa and Asia)",
+      "coordinates": "30°2′N 31°13′E",
+      "borders": [
+    "Mediterranean Sea", 
+    "Gaza Strip", 
+    "Israel", 
+    "Red Sea", 
+    "Sudan", 
+     "Libya"],
+      "Red_Sea_separates_from": ["Jordan", "Saudi Arabia"],
+      "total_area_km2": 1010408,
+      "water_percentage": 0.632
+    },
+    "demographics": {
+      "population_estimate_2023": 110000000,
+      "population_rank": 14,
+      "density_per_km2": 103.56
+    },
+    "capital_largest_city": "Cairo",
+    "major_cities": ["Alexandria"],
+    "official_language": "Arabic",
+    "national_language": "Egyptian Arabic",
+    "religion": "Predominantly Islam with a Christian minority",
+    "government": {
+      "type": "Unitary semi-presidential republic",
+      "president": "Abdel Fattah el-Sisi",
+      "prime_minister": "Moustafa Madbouly",
+      "legislature": {
+        "upper_house": "Senate",
+        "lower_house": "House of Representatives"
+      }
+    },
+    "economy": {
+      "GDP_PPP_2023_estimate": {
+        "total": "$1.809 trillion",
+        "per_capita": "$17,123"
+      },
+      "GDP_nominal_2023_estimate": {
+        "total": "$398.397 billion",
+        "per_capita": "$3,770"
+      },
+      "Gini_2017": 31.5,
+      "HDI_2021": 0.731
+    },
+    "currency": "Egyptian pound (EGP)",
+    "time_zone": "UTC+2 (EET)",
+    "driving_side": "right",
+    "calling_code": "+20",
+    "ISO_3166_code": "EG",
+    "internet_TLD": [".eg", ".مصر"],
+    "history": {
+      "early_history": "Traces back to the 6th–4th millennia BCE",
+      "ancient_civilization": "Cradle of civilization with early developments in writing, agriculture, and government",
+      "modern_history": {
+        "independence": "1922 from British Empire",
+        "post_independence": {
+          "revolution": "1952",
+          "republic_declaration": "1953",
+          "United_Arab_Republic": "1958-1961",
+          "Camp_David_Accords": "1978"
+        },
+        "Arab_Spring": "2011"
+      },
+      "current_government": "Semi-presidential republic since 2014"
+    },
+    "culture": "Rich and integral, reflecting its transcontinental location",
+    "status": {
+      "regional_power": ["North Africa", "Middle East", "Muslim world"],
+      "middle_power_worldwide": true,
+      "developing_nation": true
+    },
+    "economy_rank": {
+      "Africa": 3,
+      "world_by_nominal_GDP": 38,
+      "world_by_nominal_GDP_per_capita": 127
+    },
+    "memberships": ["United Nations", "Non-Aligned Movement", "Arab League", "African Union", "Organisation of Islamic Cooperation", "World Youth Forum"]
+  }
+}
