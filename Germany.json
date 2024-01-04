@@ -1,0 +1,96 @@
+{
+  "Country_Name": "Federal Republic of Germany",
+  "Common_Name": "Germany",
+  "Local_Name": "Bundesrepublik Deutschland (German)",
+  "Anthem": "Das Lied der Deutschen (The Song of the Germans)",
+  "Location": {
+    "Region": "Western region of Central Europe",
+    "Borders": [
+      "Denmark",
+      "Poland",
+      "Czech Republic",
+      "Austria",
+      "Switzerland",
+      "France",
+      "Luxembourg",
+      "Belgium",
+      "Netherlands"
+    ],
+    "Seas": [
+      "Baltic",
+      "North Sea"
+    ],
+    "Alps": "South"
+  },
+  "Capital_Largest_City": "Berlin",
+  "Official_Language": "German",
+  "Demonym": "German",
+  "Government": "Federal parliamentary republic",
+  "Leaders": {
+    "President": "Frank-Walter Steinmeier",
+    "Chancellor": "Olaf Scholz"
+  },
+  "Legislature": {
+    "Bundestag": null,
+    "Bundesrat": null
+  },
+  "Area_km2": 357600,
+  "Population_2023_Estimate": 84482267,
+  "GDP_PPP_2023_Estimate": {
+    "Total": "$5.537 trillion",
+    "Per_Capita": "$66,037"
+  },
+  "GDP_Nominal_2023_Estimate": {
+    "Total": "$4.462 trillion",
+    "Per_Capita": "$52,823"
+  },
+  "Gini_Index_2022": 28.8,
+  "HDI_2021": 0.942,
+  "Currency": "Euro (€) (EUR)",
+  "Time_Zone": "CET (UTC+1), CEST in summer (UTC+2)",
+  "ISO_3166_Code": "DE",
+  "Internet_TLD": ".de",
+  "Historical_Era": {
+    "Settlement_Begin": "Lower Paleolithic",
+    "Germanic_Tribes_Classical_Antiquity": null,
+    "Holy_Roman_Empire": "962",
+    "Protestant_Reformation": "16th century",
+    "German_Confederation": "1815",
+    "Unification": "18 August 1866",
+    "German_Empire": "1871",
+    "Weimar_Republic": "Post World War I",
+    "Nazi_Regime": "1933",
+    "Post_WWII": {
+      "Allied_Occupation": null,
+      "East_West_Germany": "1949",
+      "Reunification": "3 October 1990"
+    }
+  },
+  "Economy": {
+    "Ranking": {
+      "Europe": "largest",
+      "World_Nominal_GDP": "4th"
+    },
+    "Attributes": [
+      "Industrial",
+      "Scientific",
+      "Technological"
+    ],
+    "Exports_Imports": "third-largest"
+  },
+  "Social_Systems": [
+    "Social security",
+    "Universal health care",
+    "Tuition-free university education"
+  ],
+  "Memberships": [
+    "United Nations",
+    "European Union",
+    "NATO",
+    "Council of Europe",
+    "G7",
+    "G20",
+    "OECD"
+  ],
+  "UNESCO_World_Heritage_Sites": "third-greatest number"
+}&#8203;``【oaicite:0】``&#8203;.
