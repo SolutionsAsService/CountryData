@@ -1,0 +1,65 @@
+{
+  "Libya": {
+    "official_name": "State of Libya",
+    "native_name": "دولة ليبيا",
+    "transliteration": "Dawlat Lībiyā",
+    "geography": {
+      "region": "Maghreb, North Africa",
+      "Historical_Regions": ["Tripolitania", "Fezzan", "Cyrenaica"]
+      "coordinates": "32°52′N 13°11′E",
+      "borders": ["Mediterranean Sea", "Egypt", "Sudan", "Chad", "Niger", "Algeria", "Tunisia"],
+      "area_km2": 1759541,
+      "location_in_Africa": "Northern"
+    },
+    "demographics": {
+      "population_2023_estimate": 7252573,
+      "density_per_km2": 3.74
+    },
+    "capital_largest_city": "Tripoli",
+    "official_language": "Arabic",
+    "ethnic_groups": {
+      "Arabs": "92%",
+      "Berbers": "5%",
+      "Others": "3%"
+    },
+    "religion": {
+      "Islam": "99.7%",
+      "Others": "0.3%"
+    },
+    "government": {
+      "type": "Unitary republic under a provisional unity government",
+      "leaders": {
+        "Chairman_Presidential_Council": "Mohamed al-Menfi",
+        "Vice_Chairman": "Musa Al-Koni",
+        "Prime_Minister": "Abdul Hamid Dbeibeh (disputed)"
+      },
+      "legislature": "House of Representatives"
+    },
+    "history": {
+      "independence_from_Italy": "10 February 1947",
+      "kingdom_established": "24 December 1951",
+      "Gaddafi_coup_d'etat": "1 September 1969",
+      "socialist_people's_jamahiriya": "2 March 1977",
+      "first_civil_war": "17 February 2011",
+      "NATO_invasion": "19 March 2011",
+      "end_second_civil_war": "23 October 2020"
+    },
+    "economy": {
+      "GDP_PPP_2023_estimate": {
+        "total": "$166.887 billion",
+        "per_capita": "$24,381"
+      },
+      "GDP_nominal_2023_estimate": {
+        "total": "$40.194 billion",
+        "per_capita": "$5,872"
+      },
+      "HDI_2021": 0.718
+    },
+    "currency": "Libyan dinar (LYD)",
+    "time_zone": "UTC+2 (EET)",
+    "driving_side": "right",
+    "calling_code": "+218",
+    "ISO_3166_code": "LY",
+    "internet_TLD": ".ly"
+  }
+}
