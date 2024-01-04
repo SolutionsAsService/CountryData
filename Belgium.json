@@ -1,6 +1,9 @@
 {
   "Country_Name": "Belgium",
   "Official_Name": "Kingdom of Belgium",
+  "Dutch_Name": "Koninkrijk België",
+  "French_Name": "Royaume de Belgique",
+  "German_Name": "Königreich Belgien",
   "Region": "Northwestern Europe",
   "Geography": {
     "Total_Area_km2": 30689,
