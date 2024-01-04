@@ -1,0 +1,92 @@
+{
+  "Country_Name": "Belgium",
+  "Official_Name": "Kingdom of Belgium",
+  "Region": "Northwestern Europe",
+  "Geography": {
+    "Total_Area_km2": 30689,
+    "Land_Percentage": 93.5,
+    "Water_Percentage": 6.5,
+    "Highest_Point": "Signal de Botrange, 695 m",
+    "Lowest_Point": "De Moeren, -3 m",
+    "Longest_River": "Escaut, 200 km",
+    "Coastline_km": 66.5,
+    "Borders": {
+      "Total_Land_Borders_km": 1297,
+      "Countries": ["France", "Germany", "Luxembourg", "Netherlands"]
+    },
+    "Geographical_Regions": ["Coastal plain", "Central plateau", "Ardennes uplands"],
+    "Climate": "Maritime temperate, significant precipitation in all seasons"
+  },
+  "Population": {
+    "2023_Estimate": 11697557,
+    "Density_per_km2": 376
+  },
+  "Capital_Largest_City": "Brussels",
+  "Major_Cities": ["Antwerp", "Ghent", "Charleroi", "Liège", "Bruges", "Namur", "Leuven"],
+  "Official_Languages": ["Dutch", "French", "German"],
+  "Ethnic_Groups_2022": {
+    "Belgians": "66.6%",
+    "Other": "33.4%"
+  },
+  "Religion_2020": {
+    "Christianity": "63.7%",
+    "Catholicism": "60.6%",
+    "Other_Christian": "3.1%",
+    "No_Religion": "28.0%",
+    "Islam": "7.4%",
+    "Other": "0.9%"
+  },
+  "Government": {
+    "Type": "Federal parliamentary constitutional monarchy",
+    "Monarch": "Philippe",
+    "Prime_Minister": "Alexander De Croo"
+  },
+  "Legislature": {
+    "Upper_House": "Senate",
+    "Lower_House": "Chamber of Representatives"
+  },
+  "Independence": {
+    "Declared": "4 October 1830",
+    "Recognized": "19 April 1839"
+  },
+  "GDP_PPP_2023_Estimate": {
+    "Total": "$769.682 billion",
+    "Per_Capita": "$65,813"
+  },
+  "GDP_Nominal_2023_Estimate": {
+    "Total": "$627.511 billion",
+    "Per_Capita": "$53,656"
+  },
+  "Gini_Index_2022": 24.9,
+  "HDI_2021": 0.937,
+  "Currency": "Euro (EUR)",
+  "Time_Zone": "CET (UTC+1), CEST in summer (UTC+2)",
+  "ISO_3166_Code": "BE",
+  "Internet_TLD": [".be", ".eu"],
+  "Natural_Resources": ["Construction materials", "Silica sand", "Carbonates"],
+  "Environmental_Issues": {
+    "Water_Quality": "Lowest in Europe",
+    "Air_Pollution": "Significant",
+    "Governance_Challenges": "Federal and regional responsibilities"
+  },
+  "Historical_Eras": {
+    "Roman_Period": "Gallia Belgica, then part of Germania Inferior",
+    "Middle_Ages": "Under Frankish Merovingian and Carolingian rule",
+    "Burgundian_and_Habsburg_Rule": "Part of Burgundian Netherlands, then Austrian Netherlands",
+    "Modern_History": {
+      "Belgian_Revolution": "1830, leading to independence",
+      "World_Wars": "Violated neutrality in both wars, German occupation",
+      "Post_War_Era": "Economic growth, Benelux formation, EU institutions in Brussels"
+    }
+  },
+  "Contemporary_Issues": {
+    "Linguistic_Division": "Between Dutch-speaking Flanders and French-speaking Wallonia",
+    "Economic_Division": "Unequal development between Flanders and Wallonia",
+    "Political_Fragmentation": "Increasingly fragmented landscape, long government formation periods"
+  },
+  "Contributions": {
+    "European_Union": "Founding member, Brussels as de facto EU capital",
+    "International_Conflicts": "Participation in UN peacekeeping forces",
+    "Cultural_Influence": "Known as the crossroads and battlefield of Europe"
+  }
+}
