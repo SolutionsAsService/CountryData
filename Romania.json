@@ -1,0 +1,120 @@
+{
+  "Country_Name": "Romania",
+  "Local_Name": "România (Romanian)",
+  "Anthem": "Deșteaptă-te, române! (Awaken thee, Romanian!)",
+  "Location": {
+    "Continent": "Europe",
+    "Borders": [
+      "Ukraine",
+      "Hungary",
+      "Serbia",
+      "Bulgaria",
+      "Moldova",
+      "Black Sea"
+    ],
+    "Geographic_Coordinates": "44°25′N 26°06′E",
+    "Climate": "Predominantly continental"
+  },
+  "Area": {
+    "Total_km2": 238400,
+    "Rank": 81,
+    "Water_Percentage": 3
+  },
+  "Population": {
+    "2023_Estimate": 19051562,
+    "2021_Census": 19053815,
+    "Density_per_km2": 79.9
+  },
+  "GDP": {
+    "PPP_2023_Estimate": {
+      "Total": "$780.797 billion",
+      "Per_Capita": "$41,029"
+    },
+    "Nominal_2023_Estimate": {
+      "Total": "$350.414 billion",
+      "Per_Capita": "$18,413"
+    }
+  },
+  "Ethnic_Groups_2021": {
+    "Romanians": "89.3%",
+    "Hungarians": "6.0%",
+    "Romani": "3.4%",
+    "Others": "1.2%"
+  },
+  "Religion_2021": {
+    "Christianity": "84.8%",
+    "Romanian_Orthodoxy": "73.4%",
+    "Protestantism": "6.2%",
+    "Catholicism": "4.5%",
+    "Other": "0.7%",
+    "Undeclared": "9.0%"
+  },
+  "Official_Language": "Romanian",
+  "Minority_Languages": [
+    "Albanian",
+    "Armenian",
+    "Bulgarian",
+    "Croatian",
+    "Czech",
+    "German",
+    "Greek",
+    "Italian",
+    "Macedonian",
+    "Hungarian",
+    "Polish",
+    "Portuguese",
+    "Romani",
+    "Russian",
+    "Ruthenian",
+    "Serbian",
+    "Slovak",
+    "Tatar",
+    "Turkish",
+    "Ukrainian",
+    "Yiddish"
+  ],
+  "Government": "Unitary semi-presidential republic",
+  "Leaders": {
+    "President": "Klaus Iohannis",
+    "Prime_Minister": "Marcel Ciolacu"
+  },
+  "Legislature": {
+    "Upper_house": "Senate",
+    "Lower_house": "Chamber of Deputies"
+  },
+  "Independence": {
+    "From_Ottoman_Empire": "9 May 1877/1878",
+    "Great_Union": "1 December 1918/1921",
+    "Current_state_form": "27 December 1989"
+  },
+  "EU_Accession": "1 January 2007",
+  "Time_Zone": "UTC+2 (EET), Summer (DST) UTC+3 (EEST)",
+  "ISO_3166_Code": "RO",
+  "Internet_TLD": [".ro", ".eu"],
+  "Geography": {
+    "Danube_River": "Flows southeast for 2,857 km before emptying into Romania's Danube Delta",
+    "Carpathian_Mountains": "Cross Romania including Moldoveanu Peak at 2,544 m"
+  },
+  "Historical_Summary": {
+    "Early_Settlement": "Lower Paleolithic",
+    "Dacia_and_Roman_Empire": "Conquest and Romanisation during late antiquity",
+    "Modern_State_Formation": "Personal union of Moldavia and Wallachia in 1859",
+    "Independence": "From Ottoman Empire in 1877",
+    "World_War_I": "Joined Allied Powers in 1916",
+    "World_War_II": "Initially Axis side, then joined Allies in 1944",
+    "Communist_Period": "Became socialist republic and member of Warsaw Pact post-World War II",
+    "Post_1989_Revolution": "Transitioned towards democracy and market economy"
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Growth": "Among fastest growing in EU",
+    "Main_Sectors": "Services, automotive, electric energy",
+    "Notable_Companies": ["Automobile Dacia", "OMV Petrom"]
+  },
+  "Demographics": {
+    "Ethnic_Majority": "Romanians",
+    "Primary_Religion": "Eastern Orthodox Christianity",
+    "Language": "Romanian (Romance language, specifically Eastern Romance)"
+  },
+  "Membership": ["United Nations", "European Union", "NATO", "Council of Europe", "BSEC", "WTO"]
+}
