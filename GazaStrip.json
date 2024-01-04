@@ -1,0 +1,78 @@
+{
+  "Gaza_Strip": {
+    "name": "Gaza Strip",
+    "arabic_name": "قِطَاعُ غَزَّةَ",
+    "status": {
+      "under_Palestinian_National_Authority": "According to the Oslo Accords",
+      "de_facto_administered_by": "Hamas since July 2007",
+      "claimed_by": "State of Palestine",
+      "regarded_as": "Occupied territory due to the Gaza blockade according to the United Nations"
+    },
+    "geography": {
+      "location": "Eastern coast of the Mediterranean Sea",
+      "borders": {
+        "Egypt": "Southwest",
+        "Israel": "East and North"
+      },
+      "area_km2": 365,
+      "coordinates": {
+        "capital": "Gaza City",
+        "latitude": "31°30′53″N",
+        "longitude": "34°27′15″E"
+      }
+    },
+    "languages": {
+      "official": "Arabic"
+    },
+    "ethnic_groups": {
+      "primary": "Palestinian Arabs"
+    },
+    "religion": {
+      "Sunni_Islam": "99% (official)",
+      "Christianity": "<1%"
+    },
+    "demographics": {
+      "demonym": ["Gazan", "Palestinian"],
+      "population_2022_estimate": 2375259,
+      "density_per_km2": 6507
+    },
+    "economy": {
+      "currency": ["Israeli new shekel", "Egyptian pound"],
+      "unemployment_rate_overall": "46%",
+      "unemployment_rate_youth": "~70%",
+      "literacy_rate": "High"
+    },
+    "time_zone": {
+      "standard": "UTC+2 (Palestine Standard Time)",
+      "DST": "UTC+3 (Palestine Summer Time)"
+    },
+    "communication": {
+      "calling_code": "+970",
+      "ISO_3166_code": "PS"
+    },
+    "history": {
+      "early_control": "Egypt during the 1948 Arab–Israeli war",
+      "1967_capture": "Israel captured and occupied the Gaza Strip during the 1967 Six-Day War",
+      "Oslo_Accords_establishment": "Palestinian Authority to govern territories",
+      "Hamas_governance": "Took over governance of Gaza in 2007 after electoral win",
+      "Israeli_disengagement": "2005, with subsequent implementation of a blockade"
+    },
+    "current_challenges": {
+      "blockade": "Land, sea, and air blockade preventing free movement of people and goods",
+      "designation": "Often called an 'open-air prison'",
+      "call_for_blockade_lift": "By the UN and human-rights organizations",
+      "living_conditions": "Dire due to restrictions and high population density",
+      "refugee_camps": "Contains eight refugee camps"
+    },
+    "dimensions": {
+      "length": "41 kilometres (25 miles)",
+      "width_range": "6 to 12 km (3.7 to 7.5 mi)",
+      "total_area_km2": 365
+    },
+    "population_statistics": {
+      "total": "Around 2 million Palestinians",
+      "density": "One of the world's highest population densities",
+      "annual_growth_rate": "1.99% (2023 est.)"
+    }
+  }
+}
