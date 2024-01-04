@@ -15,7 +15,11 @@
     "Coastline_km": 66.5,
     "Borders": {
       "Total_Land_Borders_km": 1297,
-      "Countries": ["France", "Germany", "Luxembourg", "Netherlands"]
+      "Countries": [
+        "France", 
+        "Germany", 
+        "Luxembourg", 
+        "Netherlands"]
     },
     "Geographical_Regions": ["Coastal plain", "Central plateau", "Ardennes uplands"],
     "Climate": "Maritime temperate, significant precipitation in all seasons"
