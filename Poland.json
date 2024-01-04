@@ -1,0 +1,106 @@
+{
+  "Country_Name": "Republic of Poland",
+  "Common_Name": "Poland",
+  "Native_Name": "Rzeczpospolita Polska",
+  "Flag": "Red and white horizontal bicolour",
+  "Coat_of_Arms": "A white eagle with a golden beak and talons, wearing a golden crown, in a red shield",
+  "Anthem": "Poland Is Not Yet Lost",
+  "Geography": {
+    "Location": "Central Europe",
+    "Area_sq_km": "312,696",
+    "Terrain": "Plains, mountains (Sudetes, Carpathian), rivers (Vistula, Oder)",
+    "Climate": "Temperate transitional"
+  },
+  "Capital": "Warsaw",
+  "Major_Cities": ["Kraków", "Wrocław", "Łódź", "Poznań", "Gdańsk", "Szczecin"],
+  "Population": {
+    "Total": "38 million",
+    "Density_per_sq_km": "122",
+    "Ethnic_Groups": {
+      "Poles": "98%",
+      "Others": "2%"
+    }
+  },
+  "Religion": {
+    "Christianity": "72.2%",
+    "Catholicism": "71.3%",
+    "Other_Christian": "0.9%",
+    "No_Religion": "6.9%",
+    "Other": "0.4%",
+    "Unanswered": "20.5%"
+  },
+  "Language": {
+    "Official_Language": "Polish",
+    "Ethnologue": {
+      "Language_Family": "West Slavic",
+      "Native_Speakers": "Approximately 45 million"
+    }
+  },
+  "Government": {
+    "Type": "Unitary parliamentary republic",
+    "President": "Andrzej Duda",
+    "Prime_Minister": "Donald Tusk",
+    "Legislature": {
+      "Upper_House": "Senate",
+      "Lower_House": "Sejm"
+    }
+  },
+  "Economy": {
+    "Type": "Mixed economy with developed market",
+    "GDP_PPP_Total": "$1.712 trillion",
+    "GDP_PPP_Per_Capita": "$45,538",
+    "GDP_Nominal_Total": "$842.172 billion",
+    "GDP_Nominal_Per_Capita": "$22,393",
+    "Gini_Index": "27.2",
+    "HDI": "0.876",
+    "Currency": "Złoty (PLN)",
+    "Main_Industries": ["Machinery", "Electronic equipment", "Vehicles", "Furniture", "Plastics"],
+    "Economic_Status": {
+      "Growth_Rate": "Steady for 28 years",
+      "GDP_Increase_since_1990": "Seven-fold",
+      "Growth_During_Global_Recession": "1.6% increase in 2009"
+    }
+  },
+  "Culture": {
+    "Character": "Influenced by Germanic, Baltic, Jewish, Latinate, Byzantine, Ottoman cultures",
+    "Traditional_Art": ["Historicist painting", "Realism", "Young Poland movement"],
+    "Traditional_Food": ["Kiełbasa", "Pierogi", "Bigos", "Vodka", "Mead"],
+    "Music_and_Dance": {
+      "Composers": ["Frédéric Chopin", "Witold Lutosławski"],
+      "Dances": ["Krakowiak", "Oberek", "Polonaise", "Kujawiak", "Mazur"]
+    },
+    "Architecture": {
+      "Influences": ["Italian", "German", "Low Countries"],
+      "Notable_Structures": ["Wawel Castle", "Old Town Warsaw", "Gdańsk"]
+    }
+  },
+  "Technology_and_Innovation": {
+    "Digital_Economy": "Seen as new engine of growth in 2010s",
+    "Cloud_Technology": {
+      "Potential": "Equivalent to 4% of annual GDP by 2030",
+      "Challenges": ["Awareness", "Regulatory ambiguity", "Security concerns"],
+      "Opportunities": ["Retail", "CPG", "Transportation and logistics"]
+    }
+  },
+  "Historical_Milestones": {
+    "Establishment_of_Statehood": "966",
+    "Kingdom_of_Poland": "1025",
+    "Polish-Lithuanian_Commonwealth": "1569",
+    "Partitions_of_Poland": "1795",
+    "Second_Republic": "1918",
+    "People's_Republic": "1944",
+    "Third_Republic": "1989"
+  },
+  "International_Relations": {
+    "UN_Member": "Yes",
+    "EU_Member": "Yes",
+    "NATO_Member": "Yes",
+    "WTO_Member": "Yes"
+  },
+  "UNESCO_World_Heritage_Sites": 17,
+  "Time_Zone": "UTC+1 (CET)",
+  "Driving_Side": "right",
+  "Calling_Code": "+48",
+  "ISO_3166_Code": "PL",
+  "Internet_TLD": ".pl"
+}
