@@ -1,0 +1,63 @@
+{
+  "Country": "Hungary",
+  "NativeName": "Magyarország",
+  "Pronunciation": "ˈmɒɟɒrorsaːɡ",
+  "PoliticalSystem": {
+    "Government": "Unitary parliamentary republic",
+    "LastElection": {
+      "Date": "3 April 2022",
+      "Result": "Fidesz–KDNP alliance victory",
+      "PrimeMinister": "Viktor Orbán"
+    },
+    "Parties": ["Fidesz", "Democratic Coalition", "Our Homeland Movement", "Momentum"]
+  },
+  "Judiciary": {
+    "System": "Civil law system",
+    "BasedOn": ["German law", "Roman law"],
+    "HighestCourts": ["Kúria"],
+    "Location": "Budapest"
+  },
+  "LawEnforcement": {
+    "Agencies": ["Hungarian Police", "National Tax and Customs Administration"],
+    "PoliceDuties": ["Criminal investigation", "Patrol activity", "Traffic policing", "Border control"]
+  },
+  "ForeignPolicy": {
+    "Commitments": ["Atlantic co-operation", "European integration", "International development", "International law"],
+    "Organisations": ["United Nations", "European Union", "NATO", "OECD", "Visegrád Group", "WTO", "World Bank", "AIIB", "IMF"]
+  },
+  "Military": {
+    "ArmedForces": {
+      "Branches": ["Hungarian Ground Force", "Hungarian Air Force"],
+      "Personnel": 31080,
+      "Reserve": 50000,
+      "Spending": "$1.21 billion"
+    }
+  },
+  "AdministrativeDivisions": {
+    "Counties": 19,
+    "Capital": "Budapest",
+    "NUTSUnits": 20,
+    "Districts": 174
+  },
+  "Regions": ["Central Hungary", "Central Transdanubia", "Northern Great Plain", "Northern Hungary", "Southern Transdanubia", "Southern Great Plain", "Western Transdanubia"],
+  "Economy": {
+    "Currency": "Hungarian forint (HUF)",
+    "GDP_PPP": "$421.683 billion",
+    "GDP_Nominal": "$203.829 billion",
+    "Gini_Index": 28.3,
+    "HDI": 0.846,
+    "InflationTarget": 3
+  },
+  "ScienceAndTechnology": {
+    "RDI_Agency": "National Research, Development and Innovation (NRDI) Office"
+  },
+  "Transport": {
+    "RailwaySystem": "Hungarian State Railways",
+    "MajorTrainStations": ["Keleti", "Nyugati", "Déli"]
+  },
+  "Population": {
+    "2021": 9689000,
+    "Density_km2": 107,
+    "UrbanPopulation": "70%"
+  }
+}
