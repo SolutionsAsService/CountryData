@@ -1,0 +1,110 @@
+{
+  "Lebanon": {
+    "Common_Name": "Lebanon",
+    "official_name": "Republic of Lebanon",
+    "native_name": "الجمهورية اللبنانية",
+    "transliteration": "al-Jumhūrīyah al-Lubnānīyah",
+    "symbols": {
+      "flag": "Flag of Lebanon",
+      "anthem": {
+        "title": "كلّنا للوطن (Kullunā li-l-waṭan)",
+        "translation": "All of us, for our country!",
+        "duration": "51 seconds"
+      }
+    },
+    "geography": {
+      "region": "West Asia",
+      "area_km2": 10452,
+      "borders": ["Syria", "Israel"],
+      "coastline": "Mediterranean Sea",
+      "proximity": "Cyprus"
+    },
+    "capital": {
+      "name": "Beirut",
+      "coordinates": "33°54′N 35°32′E"
+    },
+    "languages": {
+      "official": "Arabic",
+      "vernacular": "Lebanese Arabic",
+      "foreign": ["French"]
+    },
+    "ethnic_groups": {
+      "Arab": "95%",
+      "Armenian": "4%",
+      "others": "1%"
+    },
+    "demonyms": ["Lebanese", "Chapín"],
+    "government": {
+      "type": "Unitary parliamentary republic with confessionalism",
+      "positions": {
+        "president": "Vacant",
+        "prime_minister": "Najib Mikati",
+        "speaker_of_parliament": "Nabih Berri"
+      }
+    },
+    "legislature": "Parliament",
+    "establishment": {
+      "Mount_Lebanon_Emirate": "1516",
+      "Mount_Lebanon_Mutasarrifate": "9 June 1861",
+      "Greater_Lebanon": "1 September 1920",
+      "constitution": "23 May 1926",
+      "independence_declared": "22 November 1943",
+      "French_mandate_ended": "24 October 1945",
+      "French_forces_withdrawal": "17 April 1946",
+      "Israeli_troops_withdrawn": "24 May 2000",
+      "Syrian_troops_withdrawn": "30 April 2005"
+    },
+    "population": {
+      "2022_estimate": 5296814,
+      "density_per_km2": 560
+    },
+    "economy": {
+      "GDP_PPP_2022": {
+        "total": "$78.233 billion",
+        "per_capita": "$11,793"
+      },
+      "GDP_nominal_2022": {
+        "total": "$21.780 billion",
+        "per_capita": "$3,283"
+      },
+      "Gini_index": "31.8 (2011)",
+      "HDI": "0.706 (2021)"
+    },
+    "currency": "Lebanese pound (LBP)",
+    "time_zone": "UTC+2 (EET)",
+    "driving_side": "right",
+    "calling_code": "+961",
+    "ISO_3166_code": "LB",
+    "internet_TLD": [".lb", ".لبنان"],
+    "history": {
+      "early_civilization": "Phoenicia (3200 to 539 BC)",
+      "Roman_Empire_conquest": "64 BC",
+      "Muslim_conquest": "7th century",
+      "Crusader_states": "11th century",
+      "Ottoman_rule": "1516–1918",
+      "French_mandate": "1920-1943",
+      "Lebanese_Civil_War": "1975–1990",
+      "recent_developments": "Post-war reconstruction, 2020 Beirut explosion"
+    },
+    "current_challenges": {
+      "liquidity_crisis": true,
+      "political_instability": true,
+      "resource_shortages": true,
+      "unemployment": true,
+      "poverty": true,
+      "economic_crisis_severity": "One of the worst since the 19th century"
+    },
+    "culture": {
+      "global_influence": "Renowned in the Arab world and globally",
+      "diaspora_power": "Lebanese diaspora"
+    },
+    "international_relations": {
+      "UN_founding_member": true,
+      "Arab_League_member": true,
+      "Non-Aligned_Movement_member": true,
+      "OIC_member": true,
+      "Francophonie_member": true,
+      "Group_of_77_member": true
+    }
+  }
+}
