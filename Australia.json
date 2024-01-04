@@ -1,0 +1,96 @@
+{
+  "Country_Name": "Commonwealth of Australia",
+  "Common_Name" : "Australia",
+  "Flag": "Blue field with the Union Flag, a large white seven-pointed star, and constellation of five white stars",
+  "Coat_of_Arms": "Coat of arms of Australia",
+  "Anthem": "Advance Australia Fair",
+  "Capital": "Canberra",
+  "Largest_City": {
+    "Metropolitan": "Sydney",
+    "Urban": "Melbourne"
+  },
+  "Official_Language": "None at the federal level, English is the National language",
+  "Religion_2021": {
+    "Christianity": "43.9%",
+    "No_Religion": "38.9%",
+    "Islam": "3.2%",
+    "Hinduism": "2.7%",
+    "Buddhism": "2.4%",
+    "Other": "1.7%",
+    "Unanswered": "7.2%"
+  },
+  "Government": "Federal parliamentary constitutional monarchy",
+  "Monarch": "Charles III",
+  "Governor_General": "David Hurley",
+  "Prime_Minister": "Anthony Albanese",
+  "Legislature": {
+    "Upper_House": "Senate",
+    "Lower_House": "House of Representatives"
+  },
+  "Independence": {
+    "Federation_and_Constitution": "1 January 1901",
+    "Statute_of_Westminster": "9 October 1942",
+    "Australia_Act": "3 March 1986"
+  },
+  "Area_km2": 7692024,
+  "Population_Estimate_2024": 26947600,
+  "GDP_PPP_2023_Estimate": {
+    "Total": "$1.719 trillion",
+    "Per_Capita": "$64,674"
+  },
+  "GDP_Nominal_2023_Estimate": {
+    "Total": "$1.688 trillion",
+    "Per_Capita": "$63,487"
+  },
+  "Gini_Index_2018": 32.5,
+  "HDI_2021": 0.951,
+  "Currency": "Australian dollar (AUD)",
+  "Time_Zone": "Various, UTC+8; +9.5; +10; Summer (DST) varies",
+  "Driving_Side": "left",
+  "Calling_Code": "+61",
+  "ISO_3166_Code": "AU",
+  "Internet_TLD": ".au",
+  "Indigenous_History": {
+    "Arrival": "Between 50,000 and 65,000 years ago",
+    "Lifestyle": "Hunter-gatherers with evidence of land management and agriculture",
+    "Cultural_Aspects": {
+      "Artistic_Traditions": "Among the longest surviving traditions in human history",
+      "Rock_Art": "Dated to 35,000 years ago",
+      "Spiritual_Traditions": "Complex spiritual and artistic traditions"
+    },
+    "European_Contact": {
+      "First_Contact": "1606 by Dutch navigator Willem Janszoon",
+      "James_Cook": "1770, first recorded European to explore eastern coastline",
+      "Other_Explorers": "Dutch, French and later English explorers"
+    },
+    "Post_Contact_History": "Significant changes due to disease, conflict, and land appropriation"
+  },
+  "Modern_History": {
+    "Federation": "1901 as a federation of six colonies",
+    "World_Wars": "Participated as part of British Empire and later Commonwealth",
+    "Post_War_Immigration": "More than 6.5 million migrants from every continent"
+  },
+  "Geographical_Features": {
+    "Oldest_Continent": "Australia is the oldest continent",
+    "Flattest_Continent": "Australia is the flattest continent",
+    "Driest_Inhabited_Continent": "Australia is the driest inhabited continent",
+    "Megadiverse_Country": "Wide variety of landscapes and climates"
+  },
+  "International_Standing": {
+    "Economy": "Highly developed market economy, one of the highest per capita incomes globally",
+    "Military": "World's thirteenth-highest military expenditure",
+    "Memberships": [
+      "United Nations",
+      "G20",
+      "OECD",
+      "World Trade Organization",
+      "Asia-Pacific Economic Cooperation",
+      "Pacific Islands Forum",
+      "Pacific Community",
+      "Commonwealth of Nations",
+      "ANZUS",
+      "AUKUS",
+      "Five Eyes"
+    ]
+  }
+}
