@@ -14,7 +14,13 @@
     "geography": {
       "location": "Southern portion of North America",
       "area_km2": 1972550,
-      "borders": ["United States", "Pacific Ocean", "Guatemala", "Belize", "Caribbean Sea", "Gulf of Mexico"]
+      "borders": [
+        "United States", 
+        "Pacific Ocean", 
+        "Guatemala", 
+        "Belize", 
+        "Caribbean Sea", 
+        "Gulf of Mexico"]
     },
     "capital": {
       "name": "Mexico City",
