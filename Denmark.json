@@ -1,0 +1,65 @@
+{
+  "Country_Name": "Denmark",
+  "Local_Name": "Danmark (Danish)",
+  "Motto": "Guds hjælp, folkets kærlighed, Danmarks styrke (God's help, the love of the people, Denmark's strength)",
+  "Anthem": {
+    "National": "Der er et yndigt land (There is a lovely country)",
+    "Royal": "Kong Christian stod ved højen mast (King Christian stood by the lofty mast)"
+  },
+  "Location": "Nordic country in central Northern Europe",
+  "Part_Of": "Kingdom of Denmark, including Faroe Islands and Greenland",
+  "Geographical_Details": {
+    "Position": "Southernmost of the Scandinavian countries",
+    "Borders": "Sweden, Norway, Germany",
+    "Total_Islands": 1419,
+    "Named_Islands": 443,
+    "Inhabited_Islands": 78
+  },
+  "Capital_Largest_City": "Copenhagen",
+  "Official_Language": "Danish",
+  "Regional_Languages": ["German"],
+  "Ethnic_Groups_2020": {
+    "Danish": "86.11%",
+    "Other": "13.89%"
+  },
+  "Religion_2020": {
+    "Christianity": "75.8%",
+    "Church_of_Denmark": "74.3%",
+    "Other_Christian": "1.5%",
+    "No_Religion": "19.1%",
+    "Islam": "4.4%",
+    "Other": "0.7%"
+  },
+  "Government": "Unitary parliamentary constitutional monarchy",
+  "Monarch": "Margrethe II",
+  "Prime_Minister": "Mette Frederiksen",
+  "Legislature": "Folketing",
+  "Area_km2": 43094,
+  "Population_Estimate_2023": 5935619,
+  "GDP_PPP_2023_Estimate": {
+    "Total": "$441.754 billion",
+    "Per_Capita": "$74,957"
+  },
+  "GDP_Nominal_2023_Estimate": {
+    "Total": "$420.800 billion",
+    "Per_Capita": "$71,402"
+  },
+  "Gini_Index_2022": 27.7,
+  "HDI_2021": 0.948,
+  "Currency": "Danish krone (DKK)",
+  "Time_Zone": "CET (UTC+01:00), CEST in summer (UTC+02:00)",
+  "ISO_3166_Code": "DK",
+  "Internet_TLD": ".dk",
+  "Official_Website": "denmark.dk",
+  "Historical_Era": {
+    "Consolidation": "8th century",
+    "Christianization": "c. 965",
+    "Constitutional_Act": "5 June 1849",
+    "Kalmar_Union": "1397-1523",
+    "Viking_Age": "8th-10th century",
+    "Middle_Ages": "Included Skåneland and parts of present-day Germany",
+    "Early_Modern_History": "1536-1849, included overseas colonies"
+  },
+  "Membership": ["NATO", "Nordic Council", "OECD", "OSCE", "United Nations", "Schengen Area"],
+  "Cultural_Ties": "Strong ties with Scandinavian neighbours, Danish language partially mutually intelligible with Norwegian and Swedish"&#8203;``【oaicite:0】``&#8203;.
+}
