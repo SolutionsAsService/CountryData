@@ -1,0 +1,127 @@
+{
+  "Country_Name": "Slovak Republic",
+  "Common_Name": "Slovakia",
+  "Native_Name": "Slovenská republika",
+  "Flag": "Three horizontal bands of white, blue, and red with a coat of arms on the left side",
+  "Coat_of_Arms": "A red shield with a silver double cross on a blue mount",
+  "Anthem": "Nad Tatrou sa blýska",
+  "Geography": {
+    "Location": "Central Europe",
+    "Area_sq_km": "49,035",
+    "Terrain": "Mostly mountainous",
+    "Climate": "Temperate and continental",
+    "Borders": ["Poland", "Ukraine", "Hungary", "Austria", "Czech Republic"]
+  },
+  "Capital": "Bratislava",
+  "Largest_City": "Bratislava",
+  "Second_Largest_City": "Košice",
+  "Formerly_Part_Of": "Czechoslovakia",
+  "Population": {
+    "Total": "5,460,185",
+    "Density_per_sq_km": "111",
+    "Ethnic_Groups": {
+      "Slovaks": "83.8%",
+      "Hungarians": "7.7%",
+      "Romani": "1.2%",
+      "Other": "1.9%",
+      "Unspecified": "5.4%"
+    }
+  },
+  "Religion": {
+    "Christianity": "68.8%",
+    "Catholicism": "59.8%",
+    "Protestantism": "7.6%",
+    "Other_Christian": "1.4%",
+    "No_Religion": "23.8%",
+    "Other": "0.9%",
+    "Unspecified": "6.5%"
+  },
+  "Language": {
+    "Official_Language": "Slovak",
+    "Ethnologue": {
+      "Language_Family": "West Slavic"
+    }
+  },
+  "Government": {
+    "Type": "Unitary parliamentary republic",
+    "President": "Zuzana Čaputová",
+    "Prime_Minister": "Robert Fico",
+    "Speaker_of_the_National_Council": "Peter Pellegrini",
+    "Legislature": "National Council"
+  },
+  "Economy": {
+    "Type": "High-income advanced economy",
+    "GDP_PPP_Total": "$229.584 billion",
+    "GDP_PPP_Per_Capita": "$42,228",
+    "GDP_Nominal_Total": "$133.044 billion",
+    "GDP_Nominal_Per_Capita": "$24,471",
+    "Gini_Index": "21.2",
+    "HDI": "0.848",
+    "Currency": "Euro (EUR)",
+    "Main_Industries": ["Automotive", "Electronics", "Machinery", "Chemical engineering", "Information technology"],
+    "Economic_Status": {
+      "Growth_Period": "2000-2008",
+      "Nickname": "Tatra Tiger",
+      "Privatization": "Nearly entire economy privatized",
+      "Foreign_Investment": "Significant increase in FDI",
+      "Unemployment_Rate": "5.72% (Q1 2018)"
+    }
+  },
+  "Culture": {
+    "Influences": ["Catholic culture", "Folk traditions", "Historical position within Kingdom of Hungary", "Austrian Monarchy", "Czechoslovakia", "Soviet-ruled Eastern Bloc"],
+    "Folk_Culture": ["Music", "Dance", "Festivals", "Embroidery", "Decorated pottery"],
+    "Traditional_Music_Instruments": ["Fujara", "Gajdy", "Koncovka"],
+    "Traditional_Food": ["Bryndzové halušky", "Bryndzové pirohy", "Kapustnica", "Slovak wine"],
+    "Architecture": {
+      "Influences": ["Wooden folk architecture", "Castles", "Churches", "Manor houses"],
+      "Notable_Sites": ["Vlkolínec", "Wooden churches of the Prešov Region", "Historical cities"]
+    },
+    "Art": {
+      "Forms": ["Painting", "Drawing", "Sculpture", "Photography"],
+      "Galleries": ["Slovak National Gallery", "Bratislava City Gallery", "Danubiana Art Museum"]
+    },
+    "Literature": {
+      "Medieval": "Latin, Czech and Slovakised Czech",
+      "Modern": "Works by various Slovak authors",
+      "Language_Codification": ["Anton Bernolák", "Ľudovít Štúr"]
+    }
+  },
+  "Technology_and_Innovation": {
+    "Status": "Moderate innovator",
+    "Strengths": ["Employment impacts", "Sales impacts"],
+    "Weaknesses": ["Finance and support", "Innovators and Intellectual assets"],
+    "Strategy": "Research and innovation strategy for smart specialization of the Slovak Republic (RIS3)",
+    "Challenges": ["Improving research and innovation governance", "Quality of science base", "Private innovation outputs and R&D investments", "Strengthening synergies between science and industry"]
+  },
+  "Historical_Milestones": {
+    "Arrival_of_Slavs": "5th and 6th centuries",
+    "Samo's_Empire": "7th century",
+    "Principality_of_Nitra": "9th century",
+    "Integration_into_Principality_of_Hungary": "10th century",
+    "Mongol_Invasion": "1241-1242",
+    "Establishment_of_Czechoslovakia": "1918",
+    "First_Slovak_Republic": "1939",
+    "Communist_Era": "1948-1989",
+    "Velvet_Revolution": "1989",
+    "Independence": "1 January 1993"
+  },
+  "International_Relations": {
+    "EU_Member": "Yes",
+    "Eurozone_Member": "Yes",
+    "Schengen_Area_Member": "Yes",
+    "United_Nations_Member": "Yes",
+    "NATO_Member": "Yes",
+    "CERN_Member": "Yes",
+    "OECD_Member": "Yes",
+    "WTO_Member": "Yes",
+    "Council_of_Europe_Member": "Yes",
+    "Visegrád_Group_Member": "Yes",
+    "OSCE_Member": "Yes"
+  },
+  "UNESCO_World_Heritage_Sites": 8,
+  "Time_Zone": "UTC+1 (CET)",
+  "Driving_Side": "right",
+  "Calling_Code": "+421",
+  "ISO_3166_Code": "SK",
+  "Internet_TLD": ".sk and .eu"
+}
