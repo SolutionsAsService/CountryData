@@ -1,6 +1,7 @@
 {
   "Country_Name": "Republic of the Sudan",
   "Local_Name": "Jumhūriyyat as-Sūdān",
+  "Arabic_Name" : "مهورية السودان",
   "ISO_Code": "SD",
   "Capital": "Khartoum",
   "Major_Cities": ["Omdurman", "Port Sudan", "Kassala", "Kosti", "Juba"],
