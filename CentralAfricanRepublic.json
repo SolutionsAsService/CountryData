@@ -1,0 +1,73 @@
+{
+  "Country_Name": "Central African Republic",
+  "Formerly": "Ubangi-Shari",
+  "Local_Names": {
+    "Sango": "Ködörösêse tî Bêafrîka",
+    "French": "République centrafricaine"
+  },
+  "ISO_Code": "CF",
+  "Capital": "Bangui",
+  "Coordinates": "4°22′N 18°35′E",
+  "Official_Languages": ["Sango", "French"],
+  "Ethnic_Groups": [
+    "Baggara Arabs", "Baka", "Banda", "Bayaka", "Fula", "Gula", "Gbaya", "Kara",
+    "Kresh", "Mbaka", "Mandja", "Ngbandi", "Runga", "Sara", "Vidiri", "Wodaabe",
+    "Yakoma", "Yulu", "Kanuri", "Zande", "Other"
+  ],
+  "Religion": {
+    "Christianity": "73.2%",
+    "Islam": "13.9%",
+    "Traditional_Faiths": "12.0%",
+    "Others_or_None": "0.9%"
+  },
+  "Demonym": "Central African",
+  "Government_Type": "Unitary Presidential Republic",
+  "Leaders": {
+    "President": "Faustin-Archange Touadéra",
+    "Prime_Minister": "Félix Moloua",
+    "President_of_the_National_Assembly": "Simplice Sarandji"
+  },
+  "Legislature": "National Assembly",
+  "Independence": {
+    "From_France": "13 August 1960",
+    "Central_African_Empire_Established": "4 December 1976",
+    "Coronation_of_Bokassa_I": "4 December 1977",
+    "Republic_Restored": "21 September 1979"
+  },
+  "Area_sq_km": 622984,
+  "Population": {
+    "2023_Estimate": 5552228,
+    "Density_per_sq_km": 7.1
+  },
+  "GDP": {
+    "PPP_2023_Estimate": {
+      "Total": "$5.678 billion",
+      "Per_Capita": "$1109"
+    },
+    "Nominal_2023_Estimate": {
+      "Total": "$2.760 billion",
+      "Per_Capita": "$539"
+    }
+  },
+  "Gini_Index_2008": 56.3,
+  "HDI_2021": 0.404,
+  "Currency": ["Central African CFA franc (XAF)", "Bitcoin (BTC)"],
+  "Time_Zone": "UTC+1 (WAT)",
+  "Driving_Side": "Right",
+  "Calling_Code": "+236",
+  "Internet_TLD": ".cf",
+  "Geography": {
+    "Landscape": ["Sudano-Guinean savannas", "Sahelo-Sudanian zone", "Equatorial forest zone"],
+    "River_Basins": ["Ubangi River", "Chari River"]
+  },
+  "Health": {
+    "Maternal_Mortality_Ratio": "835 deaths/100,000 live births",
+    "Infant_Mortality_Rate": "81.7 deaths/1,000 live births",
+    "Life_Expectancy": "56 years",
+    "Total_Fertility_Rate": "3.99 children born/woman",
+    "Physicians_Density": "0.07 physicians/1,000 population",
+    "Hospital_Bed_Density": "1 bed/1,000 population"
+  },
+  "Natural_Resources": ["Mineral deposits", "Uranium", "Crude oil", "Gold", "Diamonds", "Cobalt", "Lumber", "Hydropower", "Arable land"],
+  "International_Affiliations": ["United Nations", "African Union", "Economic Community of Central African States", "Organisation internationale de la Francophonie", "Non-Aligned Movement"]
+}
