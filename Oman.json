@@ -1,0 +1,83 @@
+{
+  "Country": "Sultanate of Oman",
+  "Native Name": "سلطنة عُمان",
+  "Location": "West Asia",
+  "Geographical Location": {
+    "Continent": "Asia",
+    "Situated": "Southeastern coast of the Arabian Peninsula, spanning the mouth of the Persian Gulf"
+  },
+  "Borders": {
+    "Land Borders": {
+      "Saudi Arabia": "Northwest",
+      "United Arab Emirates": "North",
+      "Yemen": "West"
+    },
+    "Maritime Borders": {
+      "Iran": "North",
+      "Pakistan": "Northeast"
+    }
+  },
+  "Capital and Largest City": {
+    "Name": "Muscat",
+    "Coordinates": "23°35′20″N 58°24′30″E"
+  },
+  "Official Language": "Arabic",
+  "Religion (2023)": {
+    "Islam (Official)": "88.9%",
+    "Sunni": "47.2%",
+    "Ibadi": "35.2%",
+    "Shia": "6.5%",
+    "Hinduism": "5.5%",
+    "Christianity": "3.6%",
+    "Others": "2.0%"
+  },
+  "Government": "Unitary Islamic absolute monarchy",
+  "Leaders": {
+    "Sultan": "Haitham bin Tariq",
+    "Crown Prince": "Theyazin bin Haitham"
+  },
+  "Legislature": {
+    "Council of Oman": {
+      "Upper House": "Council of State (Majlis al-Dawla)",
+      "Lower House": "Consultative Assembly (Majlis al-Shura)"
+    }
+  },
+  "Establishment History": {
+    "Azd Tribe Migration": 130,
+    "Al-Julanda": 629,
+    "Imamate Established": 751,
+    "Nabhani Dynasty": 1154,
+    "Portuguese Rule": "1507–1656",
+    "Yaruba Dynasty": 1624,
+    "Al Said Dynasty": 1744,
+    "Muscat and Oman": "8 January 1856",
+    "Sultanate of Oman": "9 August 1970",
+    "Basic Statute": "6 November 1996 (established); 2011 (amended); 2021 (amended)"
+  },
+  "Area": "309,500 km2",
+  "Population (2021)": "4,520,471",
+  "GDP (PPP) 2023": {
+    "Total": "$200.295 billion",
+    "Per Capita": "$39,336"
+  },
+  "GDP (Nominal) 2023": {
+    "Total": "$108.282 billion",
+    "Per Capita": "$21,265"
+  },
+  "Gini (2018)": "30.75 (Medium)",
+  "HDI (2021)": "0.816 (Very High)",
+  "Currency": "Omani rial (OMR)",
+  "Time Zone": "UTC+4",
+  "Date Format": "dd.mm.yyyy",
+  "Driving Side": "right",
+  "Calling Code": "+968",
+  "ISO 3166 Code": "OM",
+  "Internet TLD": [".om", "عمان."],
+  "Key Attributes": {
+    "Oldest Independent State in Arab World": true,
+    "Member of": ["United Nations", "Arab League", "Gulf Cooperation Council", "Non-Aligned Movement", "Organisation of Islamic Cooperation"],
+    "Oil Reserves Ranking": "22nd globally",
+    "UNDP Development Ranking (2010)": "Most improved nation in the world in terms of development over 40 years"
+  },
+  "Economic Activities": ["Tourism", "Fish Trading", "Agriculture"]
+}
