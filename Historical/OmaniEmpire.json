@@ -1,0 +1,57 @@
+{
+  "Omani Empire": {
+    "Name in Arabic": "الْإِمْبَرَاطُورِيَّة الْعُمَانِيَّة",
+    "Period": "1696–1856",
+    "Flag": "Flag of Omani Empire",
+    "Coat of Arms": "Coat of arms of Omani Empire",
+    "Capitals": {
+      "Rustaq": "1692–1792",
+      "Muscat": "1792–1832",
+      "Zanzibar": "1832–1856"
+    },
+    "Languages": {
+      "Official": "Arabic",
+      "Regional": ["Persian", "Swahili", "Balochi", "English", "French", "Malagasy"]
+    },
+    "Religion": {
+      "Dominant": "Ibadi Islam",
+      "Minor": ["Sunni Islam", "Shia Islam", "Christianity"]
+    },
+    "Demonym": "Omani",
+    "Government Type": "Monarchy",
+    "Dynasties": {
+      "Yaruba Dynasty": [
+        {"Saif bin Sultan": "1692–1711"},
+        {"Sultan bin Saif II": "1711–1718"},
+        {"Saif bin Sultan II": "1718–1719"},
+        {"Muhanna bin Sultan": "1719–1720"},
+        {"Ya'arab bin Bel'arab": "1722–1723"},
+        {"Muhammad bin Nasir": "1724–1728"},
+        {"Sultan bin Murshid": "1742–1743"},
+        {"Bal'arab bin Himyar": "1743–1749"}
+      ],
+      "Al Busaid Dynasty": [
+        {"Ahmad bin Said": "1744–1778"},
+        {"Said bin Ahmed": "1778–1783"},
+        {"Hamad bin Said": "1783–1793"},
+        {"Sultan bin Ahmed": "1792–1804"},
+        {"Badr bin Seif": "1805–1806"},
+        {"Said bin Sultan": "1806–1856"}
+      ]
+    },
+    "Significant Historical Events": {
+      "Occupation of Fort Jesus": "1696",
+      "Civil War in Oman": "1718",
+      "Persian Invasion of Sohar": "1742",
+      "Al Busaid Dynasty Rise": "1749",
+      "Treaty with United States": "1837",
+      "Division into two Sultanates": "1856"
+    },
+    "Population": {
+      "1870 Estimate": 367400
+    },
+    "Currency": ["Dirham", "Indian rupee", "Maria Theresa thaler", "Shilling"],
+    "Preceded by": "Imamate of Oman, Kathiri State of Seiyun",
+    "Succeeded by": ["Muscat and Oman", "Sultanate of Zanzibar"]
+  }
+}
