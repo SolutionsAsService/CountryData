@@ -1,0 +1,85 @@
+{
+  "Official_Name": "Federal Republic of Nigeria",
+  "Native Names": {
+    "Hausa": "Jamhuriyar Tarayyar Najeriya",
+    "Igbo": "Ọ̀hàńjíkọ̀ Ọ̀hànézè Naìjíríyà",
+    "Yoruba": "Orílẹ̀-èdè Olómìniira Àpapọ̀ Nàìjíríà"
+  },
+  "Geographical Location": "West Africa",
+  "Borders": {
+    "North": "Niger",
+    "Northeast": "Chad",
+    "East": "Cameroon",
+    "West": "Benin",
+    "South": "Gulf of Guinea (Atlantic Ocean)"
+  },
+  "Area": "923,769 km2",
+  "Population (2023)": "230,842,743",
+  "Capital": {
+    "Name": "Abuja",
+    "Coordinates": "9°4′N 7°29′E"
+  },
+  "Largest City": "Lagos",
+  "Official Language": "English",
+  "National Languages": ["Hausa", "Igbo", "Yoruba"],
+  "Ethnic Groups (2018)": {
+    "Hausa": "30%",
+    "Yoruba": "15.5%",
+    "Igbo": "15.2%",
+    "Fulani": "6%",
+    "Tiv": "2.4%",
+    "Kanuri": "2.4%",
+    "Ibibio": "1.8%",
+    "Ijaw": "1.8%",
+    "Other": "24.9%"
+  },
+  "Government Type": "Federal presidential constitutional republic",
+  "Leaders": {
+    "President": "Bola Tinubu",
+    "Vice President": "Kashim Shettima",
+    "Senate President": "Godswill Akpabio",
+    "House Speaker": "Tajudeen Abbas",
+    "Chief Justice": "Olukayode Ariwoola"
+  },
+  "Legislature": {
+    "Upper House": "Senate",
+    "Lower House": "House of Representatives"
+  },
+  "Independence History": {
+    "Northern Nigeria Protectorate": "1 January 1900",
+    "Southern Nigeria Protectorate": "1 January 1900",
+    "Unification of Nigeria": "1 January 1914",
+    "Independence from UK": "1 October 1960",
+    "Became a Republic": "1 October 1963",
+    "Current Constitution": "29 May 1999"
+  },
+  "Economy": {
+    "GDP (PPP) 2023": {
+      "Total": "$1.365 trillion",
+      "Per Capita": "$6,147"
+    },
+    "GDP (Nominal) 2023": {
+      "Total": "$390.002 billion",
+      "Per Capita": "$1,755"
+    }
+  },
+  "Gini (2020)": "35.1",
+  "HDI (2021)": "0.535",
+  "Currency": "Naira (NGN)",
+  "Time Zone": "UTC+01:00",
+  "Driving Side": "right",
+  "Calling Code": "+234",
+  "ISO 3166 Code": "NG",
+  "Internet TLD": ".ng",
+  "Cultural Diversity": {
+    "Pre-Colonial States": "Nok civilization",
+    "Ethnic Groups": "Over 250",
+    "Languages": "Over 525"
+  },
+  "Religion": {
+    "Muslims": "Mostly in the North",
+    "Christians": "Mostly in the South",
+    "Indigenous": "Minority"
+  },
+  "International Affiliations": ["African Union", "United Nations", "Commonwealth of Nations", "ECOWAS", "OIC", "OPEC"]
+}
