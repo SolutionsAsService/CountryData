@@ -1,0 +1,81 @@
+{
+  "Country": "Algeria",
+  "Official_Name": "People's Democratic Republic of Algeria",
+  "Native_Names": {
+    "Arabic": "الجمهورية الجزائرية الديمقراطية الشعبية",
+    "French": "République algérienne démocratique et populaire"
+  },
+  "Location": {
+    "Continent": "North Africa",
+    "Borders": ["Tunisia", "Libya", "Niger", "Mali", "Mauritania", "Western Sahara", "Morocco"],
+    "Coastline": "Mediterranean Sea",
+    "Geography": "Semi-arid, Sahara in the south",
+    "Area_sq_km": "2,381,741",
+    "Region": "Maghreb"
+  },
+  "Population": {
+    "2022_Estimate": "45,400,000",
+    "Density_per_sq_km": "19",
+    "Majority_Group": "Arab",
+    "Minority_Groups": ["Berbers"],
+    "Languages": {
+      "Official": ["Arabic", "Tamazight"],
+      "Other": ["Algerian Arabic", "French"]
+    },
+    "Religion": {
+      "Majority": "Sunni Islam",
+      "Minority": "Others including Christians and Jews"
+    }
+  },
+  "Government": {
+    "Type": "Unitary semi-presidential republic",
+    "President": "Abdelmadjid Tebboune",
+    "Prime_Minister": "Nadir Larbaoui",
+    "Legislature": {
+      "Upper_House": "Council of the Nation",
+      "Lower_House": "People's National Assembly"
+    },
+    "Local_Administration": {
+      "Provinces": 58,
+      "Communes": 1541
+    }
+  },
+  "Economy": {
+    "GDP_PPP_2023": "$628.990 billion",
+    "GDP_Per_Capita_PPP": "$13,681",
+    "GDP_Nominal_2023": "$224.107 billion",
+    "GDP_Per_Capita_Nominal": "$4,874",
+    "Main_Industries": ["Energy exports"],
+    "Natural_Resources": ["Oil", "Natural gas"],
+    "Oil_Reserves_Ranking": 16,
+    "Natural_Gas_Reserves_Ranking": 9
+  },
+  "Military": {
+    "Size": "One of the largest in Africa",
+    "Budget": "Largest in Africa"
+  },
+  "International_Relations": {
+    "Member_Of": ["African Union", "Arab League", "OIC", "OPEC", "United Nations", "Arab Maghreb Union"]
+  },
+  "Historical_Era": {
+    "Prehistoric": "Oldest archaeological materials in North Africa found in Ain Hanech",
+    "Ancient_History": {
+      "Phoenician": "Settlements established along the North African coast",
+      "Carthaginian": "Major influence on indigenous population",
+      "Numidian_Kingdom": "Berbers formed a significant part of Carthaginian army"
+    },
+    "Roman_Empire": {
+      "Annexation": "After Masinissa's death in 148 BC",
+      "Colonial_Activity": "Founded many colonies, major breadbasket of empire"
+    },
+    "Middle_Ages": {
+      "Muslim_Conquest": "8th century by Umayyad Caliphate",
+      "Local_Dynasties": ["Rustamids", "Aghlabids", "Fatimids", "Zirids", "Hammadids", "Almoravids", "Almohads", "Zayyanids"],
+      "Christian_Exit": "Evacuated to Sicily by Normans"
+    },
+    "Fatimid_Caliphate": "Ruled much of North Africa circa 960–1100"
+  },
+  "References": [
+    "Wikipedia": "https://en.wikipedia.org/wiki/Algeria"
+  ]
+}
