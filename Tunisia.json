@@ -1,0 +1,87 @@
+{
+  "Country_Name": "Tunisia",
+  "Official_Name": "Republic of Tunisia",
+  "Arabic_Name": "الجمهورية التونسية",
+  "Location": {
+    "Continent": "Africa",
+    "Region": "North Africa, Maghreb",
+    "Borders": ["Algeria", "Libya"],
+    "Coastline": "Mediterranean Sea",
+    "Coordinates": "36°49′N 10°11′E"
+  },
+  "Area": {
+    "Total": "163,610 km²",
+    "Land": "155,360 km²",
+    "Water": "8,250 km²",
+    "Rank": 91
+  },
+  "Climate": {
+    "North": "Temperate, mild rainy winters, hot dry summers",
+    "South": "Desert"
+  },
+  "Natural_Resources": ["Petroleum", "Phosphates", "Iron ore", "Lead", "Zinc", "Salt"],
+  "Population": {
+    "2023_Estimate": "11,976,182",
+    "Density": "71.65/km²"
+  },
+  "Ethnicity": {
+    "Arab": "98%",
+    "European": "1%",
+    "Jewish_Other": "1%"
+  },
+  "Religion": {
+    "Muslim_Sunni": "99%",
+    "Other": "<1%"
+  },
+  "Languages": {
+    "Official": "Arabic",
+    "Vernacular": "Tunisian Arabic",
+    "Foreign": ["French"]
+  },
+  "Government": {
+    "Type": "Parliamentary republic",
+    "President": "Kais Saied",
+    "Prime_Minister": "Ahmed Hachani",
+    "Legislature": {
+      "Description": "Bicameral - National Council of Regions and Districts, Assembly of Representatives of the People"
+    }
+  },
+  "Economy": {
+    "Type": "Lower middle-income",
+    "GDP_PPP": "$127.509 billion",
+    "GDP_Per_Capita": "$10,400",
+    "Industries": ["Petroleum", "Mining", "Tourism", "Textiles", "Footwear", "Agribusiness", "Beverages"],
+    "Exports": "$19.743 billion",
+    "Imports": "$24.269 billion",
+    "Trade_Partners": {
+      "Export": ["France", "Italy", "Germany"],
+      "Import": ["France", "Italy", "Germany", "China", "Algeria"]
+    },
+    "Currency": "Tunisian dinar (TND)"
+  },
+  "History_Culture": {
+    "Ancient_Influences": ["Carthaginian", "Roman", "Vandal", "Jewish", "Christian", "Arab", "Islamic", "Turkish", "French", "Amazigh"],
+    "Archaeological_Sites": ["Carthage", "El-Jem Amphitheater"],
+    "Cultural_Identity": "Strong, influenced by fight against French protectorate and modern state construction",
+    "Religious_Freedom": "Constitution provides freedom of thoughts, beliefs, and free exercise of religion"
+  },
+  "Miscellaneous": {
+    "National_Symbol": {
+      "Flag": "Predominantly red with white circle, red crescent, and five-pointed star",
+      "Motto": "حرية، نظام، عدالة (Freedom, Order, Justice)"
+    },
+    "Internet_TLD": ".tn",
+    "Drives_On": "Right"
+  },
+  "International_Relations": {
+    "Member_Of": ["United Nations", "Arab League", "African Union", "Non-Aligned Movement", "International Criminal Court"],
+    "Close_Relations": ["France", "Italy"],
+    "EU_Association": "Has association agreement",
+    "US_Relation": "Major non-NATO ally"
+  },
+  "References": [
+    "Tunisia - Wikipedia": "https://en.wikipedia.org/wiki/Tunisia",
+    "Tunisia - The World Factbook": "https://www.cia.gov/the-world-factbook/countries/tunisia/",
+    "Culture of Tunisia - Wikipedia": "https://en.wikipedia.org/wiki/Culture_of_Tunisia"
+  ]
+}
