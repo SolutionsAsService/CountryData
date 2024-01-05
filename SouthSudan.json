@@ -1,0 +1,97 @@
+{
+  "Country_Name": "Republic of South Sudan",
+  "Local_Name": "South Sudan",
+  "ISO_Code": "SS",
+  "Capital": "Juba",
+  "Official_Language": "English",
+  "Recognised_National_Languages": [
+    "Dinka", "Nuer", "Bari", "Murle", "Luo", "Ma'di", "Otuho", "Zande", "Around 60 other languages"
+  ],
+  "Spoken_Languages": [
+    "Dinka", "Bari", "Juba Arabic", "Nuer", "Zande", "Jur (Luo)", "Murle", "Shilluk", "Kanuri", "Various others"
+  ],
+  "Religion": {
+    "Christianity": "60.5%",
+    "Traditional_Faiths": "32.9%",
+    "Islam": "6.2%",
+    "Others_or_None": "0.4%"
+  },
+  "Demonym": "South Sudanese",
+  "Government_Type": "Federal Transitional Presidential Republic",
+  "Leaders": {
+    "President": "Salva Kiir Mayardit",
+    "First_Vice_President": "Riek Machar",
+    "Speaker": "Jemma Nunu Kumba",
+    "Chief_Justice": "Chan Reec Madut"
+  },
+  "Legislature": {
+    "Upper_House": "Council of States",
+    "Lower_House": "Transitional National Legislative Assembly"
+  },
+  "Independence_From_Sudan": {
+    "Autonomy_Date": "9 July 2005",
+    "Declared_and_Recognized": "9 July 2011"
+  },
+  "Area": {
+    "Total_sq_km": 644329,
+    "Ranking": 41
+  },
+  "Population": {
+    "2023_Estimate": 12118379,
+    "Ranking": 80,
+    "Density_per_sq_km": 13.33
+  },
+  "GDP": {
+    "PPP_2022_Estimate": {
+      "Total": "$13.6 billion",
+      "Per_Capita": "$934",
+      "Ranking": 157
+    },
+    "Nominal_2022_Estimate": {
+      "Total": "$4.7 billion",
+      "Per_Capita": "$326",
+      "Ranking": 164
+    }
+  },
+  "Gini_Index": {
+    "2016": 44.1,
+    "Category": "Medium"
+  },
+  "HDI": {
+    "2023": 0.379,
+    "Category": "Low",
+    "Ranking": 191
+  },
+  "Currency": "South Sudanese pound (SSP)",
+  "Time_Zone": "UTC+2 (Central Africa Time)",
+  "Date_Format": "dd/mm/yyyy",
+  "Driving_Side": "Right",
+  "Calling_Code": "+211",
+  "Internet_TLD": ".ss",
+  "Geography": {
+    "Land_Boundaries_km": 4797,
+    "Bordering_Countries": [
+      "Central African Republic", "Democratic Republic of the Congo", "Ethiopia", "Kenya", "Sudan", "Uganda"
+    ],
+    "Topography": {
+      "Imatong_Mountains": {
+        "Highest_Point": "Mount Kinyeti",
+        "Height_m": 3187
+      }
+    },
+    "Natural_Resources": [
+      "Tropical forest", "Swamps", "Grassland", "White Nile"
+    ]
+  },
+  "Disputed_Areas": ["Kafia Kingi", "Ilemi Triangle"],
+  "Economic_Overview": {
+    "Industry_Development": "Severely underdeveloped",
+    "Poverty_Rate": "66% under $2 a day",
+    "Agriculture": "Major livelihood",
+    "Oil_Production": "Significant",
+    "Infrastructure": "Limited"
+  },
+  "International_Relations": [
+    "Member of United Nations", "African Union", "East African Community", "Intergovernmental Authority on Development"
+  ]
+}
