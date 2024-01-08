@@ -1,0 +1,90 @@
+{
+  "Country": "Democratic People's Republic of Korea (DPRK)",
+  "Also_Known_As": "North Korea",
+  "Korean_Name": "조선민주주의인민공화국",
+  "Romanized_Name": "Chosŏn Minjujuŭi Inmin Konghwaguk",
+  "Geographical_Location": "East Asia",
+  "Korean_Peninsula": {
+    "Position": "Northern half",
+    "Borders": {
+      "North": ["China", "Russia"],
+      "South": "South Korea",
+      "West": "Yellow Sea",
+      "East": "Sea of Japan"
+    }
+  },
+  "Capital": "Pyongyang",
+  "Coordinates": "39°2′N 125°45′E",
+  "Official_Languages": "Korean (Munhwaŏ)",
+  "Official_Script": "Chosŏn'gŭl (Hangul)",
+  "Religion_2020": {
+    "No_Religion": "73%",
+    "Chondoism": "13%",
+    "Shamanism": "12%",
+    "Buddhism": "1.5%",
+    "Other": "0.5%"
+  },
+  "Government": {
+    "Type": "Unitary one-party socialist republic",
+    "Totalitarian_Hereditary_Dictatorship": true,
+    "Leaders": {
+      "WPK_General_Secretary": "Kim Jong Un",
+      "Premier": "Kim Tok Hun",
+      "SPA_Standing_Committee_Chairman": "Choe Ryong-hae",
+      "SPA_Chairman": "Pak In-chol"
+    },
+    "Legislature": "Supreme People's Assembly"
+  },
+  "Establishment_History": {
+    "Gojoseon": "2333 BC (Mythological)",
+    "Three_Kingdoms": "57 BC",
+    "Balhae_Silla_Kingdoms": "668",
+    "Goryeo_Dynasty": "918",
+    "Joseon_Dynasty": "17 July 1392",
+    "Korean_Empire": "12 October 1897",
+    "Japanese_Annexation": "22 August 1910",
+    "Independence_Declared": "1 March 1919",
+    "Japanese_Surrender": "2 September 1945",
+    "People's_Republic_of_Korea": "6 September 1945",
+    "Soviet_Administration": "3 October 1945",
+    "Provisional_Governments": [
+      "1st (8 February 1946)",
+      "2nd (22 February 1947)"
+    ],
+    "DPRK_Establishment": "9 September 1948",
+    "Current_Constitution": "27 December 1972"
+  },
+  "Area": "120,538 km2 (46,540 sq mi)",
+  "Population": {
+    "2023_Estimate": "26,072,217",
+    "2008_Census": "24,052,231",
+    "Density": "212/km2 (549.1/sq mi)"
+  },
+  "Economy": {
+    "GDP_PPP_2015": {
+      "Total": "$40 billion",
+      "Per_Capita": "$1,800"
+    },
+    "GDP_Nominal_2019": {
+      "Total": "$16 billion",
+      "Per_Capita": "$640"
+    }
+  },
+  "Currency": "Korean People's won (₩)",
+  "Time_Zone": "UTC+9 (Pyongyang Time)",
+  "Date_Format": ["yy, yyyy년 mm월 dd일", "yy, yyyy/mm/dd"],
+  "Driving_Side": "right",
+  "Calling_Code": "+850",
+  "ISO_3166_Code": "KP",
+  "Internet_TLD": ".kp",
+  "Military": {
+    "Policy": "Songun (Military first)",
+    "Nuclear_Weapons": true,
+    "Army_Size": "1.28 million active soldiers",
+    "Rank": "4th largest in the world"
+  },
+  "International_Relations": {
+    "United_Nations_Member": "since 1991",
+    "Other_Memberships": ["Non-Aligned Movement", "G77", "ASEAN Regional Forum"]
+  }
+}
