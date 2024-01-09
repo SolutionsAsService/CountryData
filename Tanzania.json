@@ -1,0 +1,63 @@
+{
+  "Tanzania": {
+    "GeneralInformation": {
+      "OfficialName": "United Republic of Tanzania",
+      "Motto": "Uhuru na Umoja (Freedom and Unity)",
+      "Anthem": "Mungu ibariki Afrika (God Bless Africa)",
+      "Capital": "Dodoma",
+      "LargestCity": "Dar es Salaam",
+      "OfficialLanguages": ["Swahili", "English"],
+      "EthnicGroups": "Over 100 ethnic groups",
+      "Religions": {
+        "Christianity": "63.1%",
+        "Islam": "34.1%",
+        "Other": ["No religion", "Traditional faiths", "Others"]
+      },
+      "GovernmentType": "Unitary socialist dominant-party presidential republic",
+      "Leaders": {
+        "President": "Samia Suluhu Hassan",
+        "VicePresident": "Philip Mpango",
+        "PrimeMinister": "Kassim Majaliwa"
+      },
+      "Independence": ["Tanganyika (9 December 1961)", "Zanzibar (10 December 1963)", "Merger (26 April 1964)"],
+      "Area": "947,303 km2",
+      "Population": "61,741,120 (2022 census)",
+      "GDP_PPP": {
+        "Total": "$227.725 billion",
+        "PerCapita": "$3,595"
+      },
+      "Currency": "Tanzanian shilling (TZS)",
+      "TimeZone": "UTC+3",
+      "DrivingSide": "left",
+      "CallingCode": "+255",
+      "InternetTLD": ".tz"
+    },
+    "GeographicalInformation": {
+      "Regions": {
+        "TotalNumber": 26,
+        "List": ["Shinyanga", "Mara", "Dar-es-salaam", ...]
+      },
+      "Districts": {
+        "TotalNumber": 158,
+        "Example": {
+          "Region": "Mbeya",
+          "Districts": ["Mbeya cbd", "Mbeya", "Rungwe", ...]
+        }
+      },
+      "Wards": {
+        "TotalNumber": 3964,
+        "Example": {
+          "District": "Rungwe",
+          "Wards": ["Bulyaga", "Bagamoyo", "Makandana", ...]
+        }
+      },
+      "Streets": {
+        "TotalNumber": 16741,
+        "Example": {
+          "Ward": "Kiwira",
+          "Streets": ["Mpandapanda", "Kikota", "Ibula", ...]
+        }
+      }
+    }
+  }
+}
