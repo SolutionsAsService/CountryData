@@ -2,6 +2,11 @@
   "Mozambique": {
     "General Information": {
       "Official Name": "Republic of Mozambique",
+      "PortugueseName": "Moçambique",
+      "PortugueseOfficial": "República de Moçambique",
+      "ChichewaName": "Mozambiki",
+      "SwahiliName": "Msumbiji",
+      "TsongaName": "Muzambhiki",
       "Etymology": "Named after the Island of Mozambique, derived from Arab trader Mussa Bin Bique",
       "Capital": "Maputo",
       "Coordinates": "25°57′S 32°35′E",
