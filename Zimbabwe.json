@@ -1,0 +1,81 @@
+{
+  "Country": "Republic of Zimbabwe",
+  "Geography": {
+    "Location": "Southern Africa, between the Zambezi and Limpopo Rivers",
+    "Borders": {
+      "South": "South Africa",
+      "Southwest": "Botswana",
+      "North": "Zambia",
+      "East": "Mozambique"
+    },
+    "Capital": "Harare",
+    "Largest Cities": ["Harare", "Bulawayo"],
+    "Topography": "Mostly over 1,000 feet above sea level with a broad ridge running across the country"
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 15,464,000,
+      "2022 Census": 15,178,957
+    },
+    "Ethnic Groups": {
+      "African (mainly Shona and Ndebele)": "99.38%",
+      "European": "0.22%",
+      "Coloured": "0.18%",
+      "Asian": "0.08%",
+      "Others": "0.02%",
+      "Not Stated": "0.01%"
+    },
+    "Languages": [
+      "Chewa", "Chibarwe", "English", "Kalanga", "Koisan", "Nambya", "Ndau", "Ndebele", 
+      "Shangani", "Shona", "Sotho", "Tonga", "Tswana", "Venda", "Xhosa", "Zimbabwean Sign Language"
+    ],
+    "Religions": {
+      "Christianity": "84.1%",
+      "Protestantism": "69.2%",
+      "Other Christian": "14.9%",
+      "No Religion": "10.2%",
+      "Traditional Faiths": "4.5%",
+      "Others": "1.2%"
+    }
+  },
+  "Government": {
+    "Type": "Unitary presidential republic",
+    "President": "Emmerson Mnangagwa",
+    "Vice-Presidents": ["Constantino Chiwenga", "Kembo Mohadi"],
+    "Legislature": {
+      "Senate": "Upper house",
+      "National Assembly": "Lower house"
+    },
+    "Independence": {
+      "Declared from UK": "11 November 1965",
+      "Republic": "2 March 1970",
+      "Zimbabwe Rhodesia": "1 June 1979",
+      "Independence Recognised": "18 April 1980",
+      "Current Constitution": "15 May 2013"
+    },
+    "Judicial Branch": {
+      "Highest Courts": ["Supreme Court", "Constitutional Court"],
+      "Judge Selection and Term": "Appointed by President, serve until age 65-70, Constitutional Court judges serve 15-year terms"
+    },
+    "Political Parties": [
+      "MDC Alliance", "Movement for Democratic Change - MDC-T", "National People's Party or NPP", 
+      "Zimbabwe African National Union-Patriotic Front or ZANU-PF", "Zimbabwe African Peoples Union or ZAPU"
+    ]
+  },
+  "Economy": {
+    "GDP (PPP) 2023 Estimate": "$44.448 billion",
+    "GDP (Nominal) 2023 Estimate": "$32.424 billion",
+    "Gini (2019)": "50.3",
+    "HDI (2021)": "0.593",
+    "Currency": ["Zimbabwean dollar", "U.S. dollar", "South African rand"],
+    "Key Sectors": ["Mining", "Agriculture"],
+    "Challenges": [
+      "High public and external debt burden", 
+      "Infrastructure and regulatory deficiencies",
+      "Poor investment climate"
+    ],
+    "Economic Overview": "Depends heavily on mining and agriculture. Experienced real growth post-2010, followed by a decline due to various economic challenges."
+  },
+  "History": {
+    "Early Civilizations": "Bantu people built Great Zimbabwe in the 9th century, leading to the Kingdom of Zimbabwe and later Rozvi and Mutapa empires.",
+    "Colonial History": "Rhodesia region
