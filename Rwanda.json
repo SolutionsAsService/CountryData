@@ -1,0 +1,57 @@
+{
+  "Rwanda": {
+    "GeneralInformation": {
+      "OfficialName": "Republic of Rwanda",
+      "Motto": "Ubumwe, Umurimo, Gukunda Igihugu (Unity, Work, Patriotism)",
+      "Anthem": "Rwanda Nziza (Beautiful Rwanda)",
+      "Capital": "Kigali",
+      "OfficialLanguages": ["Kinyarwanda", "French", "English", "Swahili"],
+      "EthnicGroups": {
+        "Hutu": "85%",
+        "Tutsi": "14%",
+        "Twa": "1%",
+        "Other": "1%"
+      },
+      "Religion": {
+        "Christianity": "93.8%",
+        "NoReligion": "3.0%",
+        "Islam": "2.2%",
+        "Other": "1.0%"
+      },
+      "GovernmentType": "Unitary presidential republic under an authoritarian dictatorship",
+      "Leaders": {
+        "President": "Paul Kagame",
+        "PrimeMinister": "Édouard Ngirente"
+      },
+      "Independence": "1 July 1962",
+      "Area": "26,338 km2",
+      "Population": "13,400,541 (2023 estimate)",
+      "GDP_PPP": {
+        "Total": "$42.346 billion",
+        "PerCapita": "$3,136"
+      },
+      "Currency": "Rwandan franc (RWF)",
+      "TimeZone": "UTC+2",
+      "DrivingSide": "right",
+      "CallingCode": "+250",
+      "InternetTLD": ".rw"
+    },
+    "GeographicalInformation": {
+      "Provinces": {
+        // Detailed data for each province
+      },
+      "Districts": {
+        // Detailed data for each district
+      },
+      "Sectors": {
+        // Detailed data for each sector
+      },
+      "Cells": {
+        // Detailed data for each cell
+      },
+      "Villages": {
+        // Detailed data for each village
+      }
+    }
+  }
+}
