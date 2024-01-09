@@ -1,0 +1,73 @@
+{
+  "Mozambique": {
+    "General Information": {
+      "Official Name": "Republic of Mozambique",
+      "Etymology": "Named after the Island of Mozambique, derived from Arab trader Mussa Bin Bique",
+      "Capital": "Maputo",
+      "Coordinates": "25°57′S 32°35′E",
+      "Official Language": "Portuguese",
+      "Recognised Regional Languages": ["Makhuwa", "Sena", "Tsonga", "Lomwe", "Changana"],
+      "Ethnic Groups (2017)": {
+        "Black African": "99%",
+        "Mestiço": "0.8%",
+        "Other": "0.2%"
+      },
+      "Religion (2020)": {
+        "Christianity": "55.8%",
+        "Traditional Faiths": "26.1%",
+        "Islam": "17.5%",
+        "No Religion": "0.5%",
+        "Other": "0.3%"
+      },
+      "Government Type": "Unitary dominant-party semi-presidential republic under an authoritarian government",
+      "Leaders": {
+        "President": "Filipe Nyusi",
+        "Prime Minister": "Adriano Maleiane"
+      },
+      "Independence from Portugal": "25 June 1975",
+      "UN Membership Admission": "16 September 1975",
+      "Current Constitution": "21 December 2004"
+    },
+    "Geography": {
+      "Total Area": "801,590 km2",
+      "Water Percentage": "2.2%",
+      "Location": "Southeastern Africa",
+      "Borders": ["Tanzania", "Malawi", "Zambia", "Zimbabwe", "Eswatini", "South Africa"],
+      "Coastline": "Fronting the Mozambique Channel, separating mainland Africa from Madagascar"
+    },
+    "Demographics": {
+      "Population (2023 Estimate)": "34,173,805",
+      "Density": "28.7/km2",
+      "Population Composition": "Overwhelmingly Bantu peoples"
+    },
+    "Economy": {
+      "GDP (PPP) 2023 Estimate": {
+        "Total": "$53.710 billion",
+        "Per Capita": "$1,584"
+      },
+      "GDP (Nominal) 2023 Estimate": {
+        "Total": "$21.936 billion",
+        "Per Capita": "$647"
+      },
+      "Main Economic Activities": ["Fishery", "Agriculture", "Food and Beverages Industry", "Chemical Manufacturing", "Aluminium", "Oil"],
+      "Major Trading Partners": ["South Africa", "Portugal", "Other European Markets"]
+    },
+    "Social and Cultural Aspects": {
+      "Languages": "46 languages spoken, including Mozambican Sign Language",
+      "Largest Religion": "Christianity",
+      "Significant Religious Minorities": ["Islam", "African Traditional Religions"],
+      "Membership in International Organizations": [
+        "United Nations", "African Union", "Commonwealth of Nations", "Organisation of Islamic Cooperation",
+        "Community of Portuguese Language Countries", "Non-Aligned Movement", "Southern African Development Community", 
+        "Observer at La Francophonie"
+      ]
+    },
+    "Historical Context": {
+      "Early History": "Series of Swahili port towns developed between the 7th and 11th centuries",
+      "Medieval Period": "Trade with Somalia, Ethiopia, Egypt, Arabia, Persia, and India",
+      "Portuguese Colonisation": "Began in 1505, lasting over four centuries",
+      "Independence": "Gained in 1975, followed by civil war from 1977 to 1992",
+      "Modern History": "First multiparty elections in 1994, now a relatively stable presidential republic"
+    }
+  }
+}
