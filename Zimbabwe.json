@@ -76,6 +76,78 @@
     ],
     "Economic Overview": "Depends heavily on mining and agriculture. Experienced real growth post-2010, followed by a decline due to various economic challenges."
   },
+  {
   "History": {
     "Early Civilizations": "Bantu people built Great Zimbabwe in the 9th century, leading to the Kingdom of Zimbabwe and later Rozvi and Mutapa empires.",
-    "Colonial History": "Rhodesia region
+    "Colonial History": {
+      "Rhodesia Region": "Demarcated by the British South Africa Company in 1890, covering Mashonaland and later Matabeleland.",
+      "Southern Rhodesia": "Became a self-governing British colony in 1923.",
+      "Rhodesian UDI": "White minority government declared independence in 1965 as Rhodesia."
+    },
+    "Path to Independence": {
+      "Guerrilla War": "15-year conflict with black nationalist forces.",
+      "International Recognition": "Achieved in April 1980 as Zimbabwe."
+    }
+  },
+  "Leadership": {
+    "Robert Mugabe": {
+      "Role": "Prime Minister (1980), President (1987-2017)",
+      "Regime Characteristics": "Authoritarian, human rights violations."
+    },
+    "Emmerson Mnangagwa": {
+      "Current President": "Since 2017, after a coup d'état."
+    }
+  },
+  "Economic History": {
+    "Decline and Hyperinflation": "1997-2008, decline and hyperinflation period.",
+    "Currency Adoption": "Adopted multi-currency basket in early 2009."
+  },
+  "International Relations": {
+    "Membership": ["United Nations", "Southern African Development Community", "African Union", "Common Market for Eastern and Southern Africa"],
+    "Diplomatic Ties": {
+      "US": {
+        "Ambassador": "Thomas R. Hastings (since August 2021)",
+        "Embassy Location": "Harare"
+      },
+      "Zimbabwe in US": {
+        "Ambassador": "Tadeous Tafirenyika CHIFAMBA (since 7 July 2021)",
+        "Chancery Location": "Washington, DC"
+      }
+    }
+  },
+  "Symbols": {
+    "Flag": "Seven equal horizontal bands of green, yellow, red, black, red, yellow, and green with a white triangle and Zimbabwe bird.",
+    "Coat of Arms": "Coat of arms of Zimbabwe",
+    "National Symbols": ["Zimbabwe bird", "African fish eagle", "Flame lily"],
+    "National Anthem": {
+      "Title": "Blessed be the land of Zimbabwe",
+      "Duration": "1 minute and 37 seconds"
+    }
+  },
+  "Geographical Features": {
+    "Relief": "Broad ridge running across the country",
+    "Rivers": ["Zambezi", "Limpopo"]
+  },
+  "Cultural Aspects": {
+    "Languages": "16 official languages, including English, Shona, and Ndebele",
+    "Ethnic Composition": "Majority Shona, followed by Northern Ndebele and other minorities"
+  },
+  "Economic Indicators": {
+    "GDP Growth": "6.5% in 2022, driven by agricultural production and mineral exports",
+    "Inflation": "Triple-digit inflation constraining private sector demand",
+    "Fiscal Deficit": "Contained in 2022, with increased government spending"
+  },
+  "Challenges": {
+    "Economic": "High inflation, exchange rate instability, high public and external debt",
+    "Social": "High rate of poverty and vulnerability, impacted by inflation and agricultural dependency"
+  },
+  "World Bank Involvement": {
+    "Lending Status": "Inactive due to arrears",
+    "Technical Assistance": "Provided through Trust Funds",
+    "ZIMREF": {
+      "Establishment": "2014",
+      "Funding": "$52 million"
+    },
+    "ZIMSET": "Supporting various sector-specific activities"
+  }
+}
