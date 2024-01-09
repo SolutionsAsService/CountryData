@@ -1,5 +1,7 @@
 {
-  "Country": "Republic of Zimbabwe",
+  "Zimbabwe": {
+  "Name": "Zimbabwe",
+  "FullName": "Republic of Zimbabwe",
   "Geography": {
     "Location": "Southern Africa, between the Zambezi and Limpopo Rivers",
     "Borders": {
@@ -14,8 +16,8 @@
   },
   "Demographics": {
     "Population": {
-      "2023 Estimate": 15,464,000,
-      "2022 Census": 15,178,957
+      "2023 Estimate": "15,464,000",
+      "2022 Census": "15,178,957"
     },
     "Ethnic Groups": {
       "African (mainly Shona and Ndebele)": "99.38%",
@@ -150,4 +152,5 @@
     },
     "ZIMSET": "Supporting various sector-specific activities"
   }
+}
 }
