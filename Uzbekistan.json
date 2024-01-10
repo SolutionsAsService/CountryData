@@ -1,0 +1,84 @@
+{
+  "Uzbekistan": {
+    "FullName": "Republic of Uzbekistan",
+    "UzbekName": ["O‘zbekiston Respublikasi", "Ŏzbekiston Respublikasi"],
+    "location": {
+      "continent": "Asia",
+      "region": "Central Asia",
+      "coordinates": "41°19′N, 69°16′E",
+      "border_countries": ["Kazakhstan", "Kyrgyzstan", "Tajikistan", "Afghanistan", "Turkmenistan"]
+    },
+    "political_structure": {
+      "government_type": "Unitary presidential republic",
+      "president": "Shavkat Mirziyoyev",
+      "prime_minister": "Abdulla Aripov",
+      "legislature": {
+        "upper_house": "Senate",
+        "lower_house": "Legislative Chamber"
+      },
+      "capital_city": "Tashkent"
+    },
+    "demographics": {
+      "population": 36407900,
+      "ethnic_groups": {
+        "Uzbeks": "84.5%",
+        "Tajiks": "4.8%",
+        "Kazakhs": "2.4%",
+        "Karakalpaks": "2.2%",
+        "Russians": "2.1%",
+        "Others": "4.0%"
+      },
+      "languages": {
+        "official": "Uzbek",
+        "regional": "Karakalpak",
+        "spoken": [
+          "Tajik", "Kazakh", "Turkmen", "Russian", "Koryo-mar", "Central Asian Arabic", "Ukrainian", "Azerbaijani", "Bukhori", "Uyghur"
+        ]
+      },
+      "religions": {
+        "Islam": "96.1%",
+        "Christianity": "2.2%",
+        "Others": "1.7%"
+      }
+    },
+    "economy": {
+      "GDP_PPP": "$450.646 billion",
+      "GDP_nominal": "$125.392 billion",
+      "GDP_per_capita_PPP": "$11,316",
+      "GDP_per_capita_nominal": "$3,209",
+      "main_industries": ["Cotton production", "Natural gas", "Electricity"]
+    },
+    "national_development_strategy": {
+      "goals": [
+        "Ascend to upper-middle-income country status",
+        "Create internationally-aligned systems in education, healthcare, and social protection",
+        "Environmental conservation and water resource management",
+        "Citizen-focused public administration"
+      ],
+      "implementation_period": "Until 2030"
+    },
+    "historical_background": {
+      "early_settlers": "Eastern Iranian nomads, Scythians",
+      "ancient_kingdoms": ["Khwarazm", "Bactria", "Sogdia", "Fergana", "Margiana"],
+      "empires": ["Achaemenid Empire", "Greco-Bactrian", "Parthian Empire", "Sasanian Empire"],
+      "islamic_period": ["Muslim conquest of Persia", "Samanid Empire"],
+      "modern_history": [
+        "Part of Russian Empire",
+        "Uzbek Soviet Socialist Republic in Soviet Union",
+        "Independence in 1991"
+      ]
+    },
+    "public_holidays": [
+      "New Year's Day",
+      "Day of Defenders of the Native land",
+      "International Women's Day",
+      "Nowruz",
+      "Eid al-Fitr",
+      "Day of Memory and Honour",
+      "Eid al-Adha",
+      "Independence Day",
+      "Teachers' Day",
+      "Constitution Day"
+    ]
+  }
+}
