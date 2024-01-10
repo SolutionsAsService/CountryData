@@ -1,0 +1,100 @@
+{
+  "Country": "Chile",
+  "Official_Name": "Republic of Chile",
+  "Geography": {
+    "Location": "Western South America",
+    "Features": "Stretches along a narrow strip between the Andes Mountains and the Pacific Ocean",
+    "Area_SqKm": 756102,
+    "Borders": {
+      "North": "Peru",
+      "Northeast": "Bolivia",
+      "East": "Argentina",
+      "South": "Drake Passage"
+    },
+    "Territories": [
+      "Juan Fernández",
+      "Isla Salas y Gómez",
+      "Desventuradas",
+      "Easter Island"
+    ],
+    "Antarctic_Claim": "1,250,000 SqKm"
+  },
+  "Capital_City": "Santiago",
+  "Coordinates": {
+    "Latitude": "33°26′S",
+    "Longitude": "70°40′W"
+  },
+  "Population": {
+    "2017": 17500000,
+    "2023_Estimate": 18549457,
+    "Density_per_SqKm": 24
+  },
+  "Language": "Spanish",
+  "Religion": {
+    "Christianity": 62.1,
+    "Catholicism": 52.6,
+    "Other_Christian": 9.5,
+    "No_Religion": 37.4,
+    "Other": 0.5
+  },
+  "Government": {
+    "Type": "Unitary presidential republic",
+    "President": "Gabriel Boric",
+    "Senate_President": "Juan Antonio Coloma",
+    "Chamber_of_Deputies_President": "Ricardo Cifuentes",
+    "Supreme_Court_President": "Juan Fuentes Belmar"
+  },
+  "Legislature": {
+    "National_Congress": {
+      "Upper_House": "Senate",
+      "Lower_House": "Chamber of Deputies"
+    }
+  },
+  "Independence": {
+    "From_Spain": {
+      "Government_Junta": "1810-09-18",
+      "Declared": "1818-02-12",
+      "Recognized": "1844-04-25"
+    },
+    "Current_Constitution": "1981-03-11"
+  },
+  "Economy": {
+    "GDP_PPP": {
+      "2023_Total": 597520000000,
+      "Per_Capita": 29934
+    },
+    "GDP_Nominal": {
+      "2023_Total": 344400000000,
+      "Per_Capita": 17253
+    },
+    "Gini_Index": 46,
+    "HDI": 0.855
+  },
+  "Currency": "Chilean peso (CLP)",
+  "Time_Zone": ["UTC−4", "UTC−6"],
+  "Summer_DST": ["UTC-3", "UTC−5"],
+  "Driving_Side": "right",
+  "Calling_Code": "+56",
+  "ISO_Code": "CL",
+  "Internet_TLD": ".cl",
+  "Additional_Info": {
+    "Valparaiso": "Legislature location",
+    "Antarctica_Exclusion": "Does not include claimed territory in Antarctica",
+    "History": [
+      "Spanish colonization mid-16th century",
+      "Independence from Spain in 1818",
+      "War of the Pacific (1879–83)"
+    ],
+    "Modern_Political_History": [
+      "Democratization in the 20th century",
+      "Military dictatorship under Augusto Pinochet (1973–1990)"
+    ],
+    "Economic_Status": "High-income economy, stable in South America",
+    "International_Roles": [
+      "United Nations",
+      "CELAC",
+      "Pacific Alliance",
+      "OECD member since 2010"
+    ]
+  }
+}
