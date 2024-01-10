@@ -1,6 +1,8 @@
 {
+  "Chile": {
   "Country": "Chile",
   "Official_Name": "Republic of Chile",
+  "SpanishName": "República de Chile",
   "Geography": {
     "Location": "Western South America",
     "Features": "Stretches along a narrow strip between the Andes Mountains and the Pacific Ocean",
@@ -97,4 +99,5 @@
       "OECD member since 2010"
     ]
   }
+}
 }
