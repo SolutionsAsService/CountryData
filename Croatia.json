@@ -1,0 +1,97 @@
+{
+  "Country": "Croatia",
+  "OfficialName": "Republic of Croatia",
+  "Geography": {
+    "Location": "Crossroads of Central and Southeast Europe",
+    "Borders": {
+      "Northwest": "Slovenia",
+      "Northeast": "Hungary",
+      "East": "Serbia",
+      "Southeast": ["Bosnia and Herzegovina", "Montenegro"],
+      "Maritime": "Italy"
+    },
+    "Coast": "Adriatic Sea",
+    "Capital": "Zagreb",
+    "Area": "56,594 km2",
+    "MajorCities": ["Split", "Rijeka", "Osijek"]
+  },
+  "Demographics": {
+    "Population_2023": 3823000,
+    "EthnicGroups_2021": {
+      "Croats": "91.6%",
+      "Serbs": "3.2%",
+      "Others": "5.2%"
+    },
+    "Religion_2021": {
+      "Christianity": "87.4%",
+      "Catholicism": "79.0%",
+      "Orthodoxy": "3.3%",
+      "OtherChristian": "5.1%",
+      "NoReligion": "6.4%",
+      "Other": "2.3%",
+      "Undeclared": "3.9%"
+    }
+  },
+  "Government": {
+    "Type": "Unitary parliamentary republic",
+    "President": "Zoran Milanović",
+    "PrimeMinister": "Andrej Plenković",
+    "Legislature": "Sabor"
+  },
+  "Economy": {
+    "GDP_PPP_2023": "$164.672 billion",
+    "GDP_PerCapita_PPP_2023": "$42,873",
+    "GDP_Nominal_2023": "$80.185 billion",
+    "GDP_PerCapita_Nominal_2023": "$20,877",
+    "GiniCoefficient_2020": "28.3",
+    "HDI_2021": "0.858",
+    "Currency": "Euro (EUR)",
+    "MajorSectors": ["Tourism", "Service", "Industrial", "Agriculture"],
+    "TourismRevenue_2022": "€13.1 billion",
+    "UnemploymentRate_Jan2023": "6.5%",
+    "ProjectedGrowth_2024": "1.9%",
+    "InflationRate_2024": "1.6%"
+  },
+  "Culture": {
+    "OfficialLanguage": "Croatian",
+    "WritingSystem": "Latin",
+    "Anthem": "Lijepa naša domovino ('Our Beautiful Homeland')"
+  },
+  "History": {
+    "FirstInternationalRecognition": "7 June 879",
+    "KingdomEstablished": "925",
+    "UnionWithHungary": "1102",
+    "JoinedHabsburgMonarchy": "1 January 1527",
+    "SecessionFromAustriaHungary": "29 October 1918",
+    "CreationOfYugoslavia": "4 December 1918",
+    "IndependenceDeclared": "25 June 1991"
+  },
+  "PublicHolidays_2024": [
+    "New Year's Day (January 1)",
+    "Epiphany (January 6)",
+    "Easter Day (March 31)",
+    "Easter Monday (April 1)",
+    "Labor Day (May 1)",
+    "Corpus Christi (May 30)",
+    "Day of Antifascist Struggle (June 22)",
+    "Statehood Day (June 25)",
+    "Homeland Thanksgiving Day (August 5)",
+    "Assumption of Mary (August 15)",
+    "Independence Day (October 8)",
+    "All Saints Day (November 1)",
+    "Christmas Day (December 25)",
+    "St Stephen's Day (December 26)"
+  ],
+  "Membership": {
+    "EuropeanUnion": true,
+    "Eurozone": true,
+    "SchengenArea": true,
+    "NATO": true,
+    "UnitedNations": true,
+    "CouncilOfEurope": true,
+    "OSCE": true,
+    "WorldTradeOrganization": true,
+    "UnionForTheMediterranean": true,
+    "OECD_AccessionInProgress": true
+  }
+}
