@@ -1,7 +1,9 @@
 {
   "Greece": {
-    "official_name": "Hellenic Republic",
-    "native_name": "Ελληνική Δημοκρατία",
+    "CommonName": "Greece",
+    "FullName": "Hellenic Republic",
+    "GreekName": "Ελληνική Δημοκρατία",
+    "Romanized": "Ellinikí Dimokratía",
     "flag": "Blue and white with a cross",
     "coat_of_arms": "Blue shield with a white cross",
     "motto": "Ελευθερία ή Θάνατος (Freedom or Death)",
