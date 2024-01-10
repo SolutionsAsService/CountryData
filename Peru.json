@@ -1,6 +1,11 @@
 {
+  "Peru": {
   "Country": "Peru",
+    "Names": {
   "Official Name": "Republic of Peru",
+   "SpanishName": "República del Perú",
+   "QuechuaName":	"Piruw Ripuwlika",
+   "AymaraName": "Piruwxa Ripuwlika" },
   "Flag": "Flag of Peru",
   "Coat of Arms": "Coat of arms of Peru",
   "Motto": "Firme y feliz por la unión (Firm and Happy for the Union)",
@@ -77,4 +82,6 @@
   "Recent History": "Peru has experienced periods of political and social instability, economic growth, and recent unrest.",
   "Economy": "Peru's main economic activities include mining, manufacturing, agriculture, and fishing. It is part of The Pacific Pumas and ranks high in social freedom.",
   "Culture": "Peru's diverse population results in a wide variety of cultural expressions in art, cuisine, literature, and music."
+}
+
 }
