@@ -1,0 +1,95 @@
+{
+  "Bulgaria": {
+    "Name": "Bulgaria",
+    "official_name": "Republic of Bulgaria",
+    "native_name": "Република България",
+    "flag": "Flag with white, green, and red horizontal stripes",
+    "coat_of_arms": "Lion rampant in a shield",
+    "motto": "Съединението прави силата (Unity makes strength)",
+    "national_anthem": {
+      "title": "Мила Родино (Dear Motherland)",
+      "duration": "1 minute and 27 seconds"
+    },
+    "location": {
+      "continent": "Europe",
+      "region": "Southeast Europe",
+      "coordinates": "42°41′N, 23°19′E",
+      "borders": ["Greece", "Turkey", "Serbia", "North Macedonia", "Romania"],
+      "seas": ["Black Sea"]
+    },
+    "capital_and_major_cities": {
+      "capital": "Sofia",
+      "major_cities": ["Burgas", "Plovdiv", "Varna"]
+    },
+    "demographics": {
+      "population_2022": 6447710,
+      "official_language": "Bulgarian",
+      "official_script": "Cyrillic",
+      "ethnic_groups_2021": {
+        "Bulgarians": "84.6%",
+        "Turks": "8.4%",
+        "Roma": "4.4%",
+        "Others": "2.6%"
+      }
+    },
+    "religion": {
+      "Christianity": "71.5%",
+      "Islam": "10.8%",
+      "No_Religion": "5.2%",
+      "Other": "0.1%",
+      "Unanswered": "12.4%"
+    },
+    "government": {
+      "type": "Unitary parliamentary republic",
+      "president": "Rumen Radev",
+      "vice_president": "Iliana Iotova",
+      "prime_minister": "Nikolai Denkov",
+      "chairperson_national_assembly": "Rosen Zhelyazkov",
+      "legislature": "National Assembly"
+    },
+    "historical_eras": {
+      "First_Bulgarian_Empire": "681–1018",
+      "Second_Bulgarian_Empire": "1185–1396",
+      "Ottoman_rule": "1396-1878",
+      "Third_Bulgarian_State": "Since 1878"
+    },
+    "economy": {
+      "GDP_PPP_2023": "$216.499 billion",
+      "GDP_per_capita_PPP_2023": "$33,780",
+      "GDP_nominal_2023": "$103.099 billion",
+      "GDP_per_capita_nominal_2023": "$16,086",
+      "Gini_index_2022": 38.4,
+      "HDI_2021": 0.796,
+      "currency": "Lev (BGN)"
+    },
+    "international_relations": {
+      "joined_NATO": "2004",
+      "joined_EU": "2007"
+    },
+    "public_holidays_2024": [
+      "New Year's Day",
+      "Liberation Day",
+      "Labour Day",
+      "Orthodox Easter",
+      "Armed Forces Day and Saint George's Day",
+      "Bulgarian Education and Culture, and Slavic Script Day",
+      "Unification Day",
+      "Independence Day",
+      "Day of the Bulgarian Enlighteners",
+      "Christmas Eve",
+      "Christmas Day"
+    ],
+    "significant_cultural_aspects": {
+      "early_societies": "Neolithic Karanovo culture",
+      "ancient_history": ["Thracians", "Romans", "Persians", "Celts", "Macedonians"],
+      "development_of_Cyrillic_script": true,
+      "cultural_contributions": ["Slavic cultures", "Byzantine influence"]
+    },
+    "economic_outlook_2024": {
+      "GDP_growth": "2.8%",
+      "factors_affecting_growth": ["Household credit", "EU fund investments", "Inflation rates"],
+      "inflation_rate_2023": "9.5%",
+      "inflation_rate_2024": "4.5%"
+    }
+  }
+}
