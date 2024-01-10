@@ -1,0 +1,76 @@
+{
+  "Turkmenistan": {
+  "Name": "Turkmenistan",
+  "TurkmenNams": "Türkmenistan",
+  "Flag": "Flag of Turkmenistan",
+  "Emblem": "Emblem of Turkmenistan",
+  "Motto": "Türkmenistan Bitaraplygyň watanydyr (Turkmenistan is the motherland of Neutrality)",
+  "Anthem": "Garaşsyz Bitarap Türkmenistanyň Döwlet Gimni (National Anthem of Independent Neutral Turkmenistan)",
+  "Location": {
+    "Capital": "Ashgabat",
+    "Coordinates": "37°58′N 58°20′E"
+  },
+  "Official Languages": ["Turkmen"],
+  "Ethnic Groups": {
+    "Turkmens": "85.6%",
+    "Uzbeks": "5.8%",
+    "Russians": "5.1%",
+    "Kazakhs": "0.4%",
+    "Others": "3.1%"
+  },
+  "Religion (2020)": {
+    "Islam": "93%",
+    "Christianity": "6.4%",
+    "Other": "0.6%"
+  },
+  "Demonym": ["Turkmenistani", "Turkmen", "Turkmenian"],
+  "Government": {
+    "Type": "Unitary presidential republic under a totalitarian hereditary dictatorship",
+    "President": "Serdar Berdimuhamedow",
+    "Vice President": "Raşit Meredow",
+    "Chairman of the People's Council": "Gurbanguly Berdimuhamedow",
+    "Chairperson of the Assembly": "Dünýägözel Gulmanowa",
+    "Legislature": "Assembly"
+  },
+  "Establishment": {
+    "Turkmen Soviet Socialist Republic": "13 May 1925",
+    "Declared independence from the Soviet Union": "22 August 1990",
+    "Recognized": "26 December 1991",
+    "Current constitution": "18 May 1992"
+  },
+  "Area": {
+    "Total": "491,210 km2 (189,660 sq mi)",
+    "Water": "24,069 km2 (9,293 sq mi)",
+    "Water Percentage": "4.9%"
+  },
+  "Population": {
+    "Census": "7,057,841",
+    "Density": "14.4/km2 (37.3/sq mi)"
+  },
+  "GDP (PPP) 2023 Estimate": {
+    "Total": "Increase $126.132 billion",
+    "Per Capita": "Increase $19,938"
+  },
+  "GDP (Nominal) 2023 Estimate": {
+    "Total": "Increase $81.822 billion",
+    "Per Capita": "Increase $12,934"
+  },
+  "Gini (1998)": "40.8 (medium)",
+  "HDI (2021)": {
+    "Index": "0.745 (high)",
+    "Rank": "91st"
+  },
+  "Currency": "Manat (TMT)",
+  "Time Zone": "UTC+05 (TMT)",
+  "Driving Side": "Right",
+  "Calling Code": "+993",
+  "ISO 3166 Code": "TM",
+  "Internet TLD": ".tm",
+  "History": "Turkmenistan has a rich history and was once an important stop on the Silk Road. It was annexed by the Russian Empire in 1881 and later became a constituent republic of the Soviet Union. It gained independence in 1991.",
+  "Human Rights": "The country is widely criticized for its poor human rights record, treatment of minorities, and lack of press and religious freedoms.",
+  "Leadership": "Turkmenistan has been ruled by repressive regimes, including President for Life Saparmurat Niyazov, Gurbanguly Berdimuhamedow, and his son Serdar.",
+  "Natural Resources": "Turkmenistan possesses the world's fifth-largest reserves of natural gas.",
+  "Geography": "Most of the country is covered by the Karakum Desert.",
+  "International Relations": "Turkmenistan is an observer state in the Organisation of Turkic States, the Türksoy community, and a member of the United Nations."
+}
+}
