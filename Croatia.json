@@ -1,5 +1,7 @@
 {
+  "Croatia": {
   "Country": "Croatia",
+  "CroatianName": "Republika Hrvatska",
   "OfficialName": "Republic of Croatia",
   "Geography": {
     "Location": "Crossroads of Central and Southeast Europe",
@@ -94,4 +96,5 @@
     "UnionForTheMediterranean": true,
     "OECD_AccessionInProgress": true
   }
+}
 }
