@@ -1,11 +1,13 @@
 {
   "Gaza_Strip": {
     "name": "Gaza Strip",
-    "arabic_name": "قِطَاعُ غَزَّةَ",
+    "CommonName": "Gaza",
+    "ArabicName": "قِطَاعُ غَزَّةَ",
     "status": {
       "under_Palestinian_National_Authority": "According to the Oslo Accords",
       "de_facto_administered_by": "Hamas since July 2007",
       "claimed_by": "State of Palestine",
+      "UnderNavalBlockadeBy": "Israel",
       "regarded_as": "Occupied territory due to the Gaza blockade according to the United Nations"
     },
     "geography": {
@@ -73,6 +75,10 @@
       "total": "Around 2 million Palestinians",
       "density": "One of the world's highest population densities",
       "annual_growth_rate": "1.99% (2023 est.)"
+    },
+    "International_Relations": {
+      "UN_Member": false
+      
     }
   }
 }
