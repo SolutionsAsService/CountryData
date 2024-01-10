@@ -1,0 +1,115 @@
+{
+  "country": "Argentina",
+  "official_name": "Argentine Republic",
+  "pronunciation": "[aɾxenˈtina]",
+  "names_in_other_languages": {
+    "Spanish": "Rep\u00fablica Argentina",
+    "Welsh": "Gweriniaeth yr Ariannin",
+    "Guarani": "Arahent\u00edna Tavakuairet\u00e3",
+    "Santiago_del_Estero_Quichua": "Arhintina Ripuwlika"
+  },
+  "flag": "Flag of Argentina",
+  "coat_of_arms": "Coat of arms of Argentina",
+  "motto": "En uni\u00f3n y libertad (In Unity and Freedom)",
+  "anthem": {
+    "title": "Himno Nacional Argentino (Argentine National Anthem)",
+    "duration": "3 minutes and 34 seconds"
+  },
+  "symbols": {
+    "national": "Sol de Mayo (Sun of May)"
+  },
+  "geography": {
+    "continent": "South America",
+    "area_km2": 2780400,
+    "area_rank": "8th",
+    "coordinates": "34°36′S 58°23′W",
+    "borders": ["Chile", "Bolivia", "Paraguay", "Brazil", "Uruguay"],
+    "maritime_borders": ["South Atlantic Ocean", "Drake Passage"],
+    "claimed_territories": ["Falkland Islands", "South Georgia and the South Sandwich Islands", "Southern Patagonian Ice Field", "Part of Antarctica"]
+  },
+  "capital_largest_city": "Buenos Aires",
+  "languages": {
+    "official": "Spanish",
+    "co_official": {
+      "Corrientes": "Guaran\u00ed",
+      "Santiago_del_Estero": "Quechua",
+      "Chaco": ["Qom", "Mocov\u00ed", "Wich\u00ed"],
+      "Chubut": "Welsh"
+    }
+  },
+  "religion_2022": {
+    "Christianity": "58.9%",
+    "Catholicism": "48.9%",
+    "Other_Christian": "10.0%",
+    "No_Religion": "39.8%",
+    "Other": "1.3%"
+  },
+  "demonyms": ["Argentine", "Argentinian", "Argentinean"],
+  "government": {
+    "type": "Federal presidential constitutional republic",
+    "president": "Javier Milei",
+    "vice_president": "Victoria Villarruel",
+    "cabinet_chief": "Nicol\u00e1s Posse",
+    "chamber_deputies_president": "Mart\u00edn Menem",
+    "supreme_court_president": "Horacio Rosatti"
+  },
+  "legislature": {
+    "national_congress": {
+      "upper_house": "Senate",
+      "lower_house": "Chamber of Deputies"
+    }
+  },
+  "independence": {
+    "from_Spain": {
+      "may_revolution": "25 May 1810",
+      "declared": "9 July 1816",
+      "constitution": "1 May 1853"
+    }
+  },
+  "population": {
+    "2022_census": 47327407,
+    "density_per_km2": 14.4
+  },
+  "economy": {
+    "GDP_PPP_2023_estimate": {
+      "total": "$1.239 trillion",
+      "per_capita": "$26,506"
+    },
+    "GDP_nominal_2023_estimate": {
+      "total": "$621.833 billion",
+      "per_capita": "$13,297"
+    },
+    "Gini_2020": "42.3",
+    "HDI_2021": "0.842"
+  },
+  "currency": "Argentine peso (ARS)",
+  "time_zone": "UTC−3 (ART)",
+  "date_format": "dd/mm/yyyy (CE)",
+  "driving_side": "right",
+  "calling_code": "+54",
+  "ISO_3166_code": "AR",
+  "internet_TLD": ".ar",
+  "historical_background": {
+    "early_presence": "Paleolithic period",
+    "Inca_Empire": "Pre-Columbian times",
+    "Spanish_colonization": "16th century",
+    "successor_state": "Viceroyalty of the R\u00edo de la Plata",
+    "independence_period": "1810–1818",
+    "civil_war": "until 1861",
+    "post-independence": ["European immigration", "cultural influence"]
+  },
+  "modern_history": {
+    "death_of_Juan_Per\u00f3n": "1974",
+    "Isabel_Per\u00f3n_presidency": "1974-1976",
+    "military_junta_period": "1976 onwards",
+    "Dirty_War": "state terrorism and civil unrest",
+    "democracy_restoration": "Ra\u00fal Alfons\u00edn, 1983"
+  },
+  "international_status": {
+    "regional_power": true,
+    "non_NATO_US_ally": true,
+    "HDI_ranking": "2nd in Latin America",
+    "economic_status": "Second-largest in South America",
+    "international_affiliations": ["United Nations", "World Bank", "World Trade Organization", "Mercosur", "Community of Latin American and Caribbean States", "Organization of Ibero-American States"]
+  }
+}
