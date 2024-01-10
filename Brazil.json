@@ -1,0 +1,75 @@
+{
+  "Brazil": {
+    "official_name": "Federative Republic of Brazil",
+    "native_name": "República Federativa do Brasil",
+    "flag": "Green with a yellow diamond and blue globe in the center",
+    "coat_of_arms": "Blue globe surrounded by coffee and tobacco branches",
+    "motto": "Ordem e Progresso (Order and Progress)",
+    "national_anthem": {
+      "title": "Hino Nacional Brasileiro",
+      "duration": "3 minutes and 22 seconds"
+    },
+    "location": {
+      "continent": "South America",
+      "coordinates": "Brasília: 15°47′S 47°52′W, São Paulo: 23°33′S 46°38′W",
+      "border_countries": ["Argentina", "Bolivia", "Colombia", "Guyana", "Paraguay", "Peru", "Suriname", "Uruguay", "Venezuela"],
+      "coastline": "7,491 kilometers along the Atlantic Ocean"
+    },
+    "demographics": {
+      "population_2022": 203062512,
+      "ethnic_groups": {
+        "Mixed": "45.3%",
+        "White": "43.5%",
+        "Black": "10.2%",
+        "Indigenous": "0.8%",
+        "East Asian": "0.4%"
+      },
+      "religion": {
+        "Christianity": "79.1%",
+        "Catholicism": "54.2%",
+        "Protestantism": "22.9%",
+        "Other_Christian": "2.0%",
+        "No_Religion": "17.6%",
+        "Spiritism": "2.1%",
+        "Other": "1.2%"
+      }
+    },
+    "government": {
+      "type": "Federal presidential republic",
+      "president": "Lula da Silva",
+      "vice_president": "Geraldo Alckmin",
+      "parliamentary_bodies": {
+        "Federal_Senate": "Upper house",
+        "Chamber_of_Deputies": "Lower house"
+      }
+    },
+    "economy": {
+      "GDP_PPP_2023": "$4.101 trillion",
+      "GDP_nominal_2023": "$2.126 trillion",
+      "GDP_growth_2024_forecast": "2.26%",
+      "currency": "Real (R$) (BRL)"
+    },
+   
+  "history": {
+    "pre_colonial_period": "Indigenous peoples, diverse ethnic and cultural groups",
+    "portuguese_colonization": "1500–1822",
+    "independence_from_portugal": "1822",
+    "empire_of_brazil": "1822–1889",
+    "republican_era": "1889–present",
+    "modern_developments": "20th and 21st centuries, including industrialization, democratization, and social reforms"
+  }
+
+
+    "culture": {
+      "UNESCO_World_Heritage_Sites": 13,
+      "key_contributions": ["Democracy", "Environmental preservation"],
+      "diversity": "Highly multicultural and ethnically diverse"
+    },
+    "international_relations": {
+      "UN_member": true,
+      "G20_host_2024": "Rio de Janeiro",
+      "BRICS_member": true,
+      "Mercosul_member": true
+    }
+  }
+}
