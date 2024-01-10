@@ -1,0 +1,101 @@
+{ 
+  "Montenegro":{
+  "Country": {
+    "Name": "Montenegro",
+    "LocalNames": {
+      "Montenegrin": "Crna Gora",
+      "Cyrillic": "Црна Гора",
+      "Albanian": "Mali i Zi"
+    },
+    "Description": "A country in Southeast Europe.",
+    "Geography": {
+      "Continent": "Europe",
+      "Borders": {
+        "North": "Bosnia and Herzegovina",
+        "Northeast": "Serbia",
+        "East": "Kosovo",
+        "Southeast": "Albania",
+        "Northwest": "Croatia",
+        "Coastline": "Adriatic Sea"
+      },
+      "Area": {
+        "Total": "13,812 km² (5,333 sq mi)",
+        "WaterPercentage": 2.6
+      },
+      "Location": "42°47′N 19°28′E"
+    },
+    "Capital": "Podgorica",
+    "LargestCity": "Podgorica",
+    "OfficialLanguage": "Montenegrin",
+    "LanguagesInOfficialUse": ["Albanian", "Bosnian", "Croatian", "Serbian"],
+    "EthnicGroups_2011": {
+      "Montenegrins": "45%",
+      "Serbs": "28.7%",
+      "Bosniaks": "8.6%",
+      "Albanians": "4.9%",
+      "Others": "8.7%",
+      "NoAnswer": "4.0%"
+    },
+    "Religion_2011": {
+      "Christianity": "76.0%",
+      "EasternOrthodoxy": "72.1%",
+      "OtherChristian": "3.9%",
+      "Islam": "19.1%",
+      "NoReligion": "1.3%",
+      "Others": "1.0%",
+      "NoAnswer": "2.6%"
+    },
+    "Government": {
+      "Type": "Unitary parliamentary republic",
+      "President": "Jakov Milatović",
+      "PrimeMinister": "Milojko Spajić",
+      "Speaker": "Andrija Mandić",
+      "Legislature": "Skupština"
+    },
+    "History": {
+      "EarlyMedievalPeriod": ["Duklja", "Travunia", "Rascia"],
+      "PrincipalityOfZeta": ["14th century", "15th century"],
+      "VenetianRule": ["Late 14th century", "Late 18th century"],
+      "OttomanRule": {
+        "FirstMention": "Late 15th century",
+        "SemiAutonomy": "1696"
+      },
+      "Independence": {
+        "GreatPowersRecognition": "1878",
+        "KingdomProclaimed": "1910",
+        "YugoslaviaPart": "1918",
+        "RepublicWithSerbia": "1992",
+        "IndependenceRestored": "2006"
+      }
+    },
+    "Economy": {
+      "GDP_PPP_2023": "$17.431 billion",
+      "GDP_PPP_PerCapita_2023": "$28,002",
+      "GDP_Nominal_2023": "$7.058 billion",
+      "GDP_Nominal_PerCapita_2023": "$11,338",
+      "GiniIndex_2020": "32.9",
+      "HDI_2021": "0.832"
+    },
+    "Demographics": {
+      "Population_2023": "602,445",
+      "Density": "43.6/km2 (112.9/sq mi)"
+    },
+    "Currency": "Euro (€) (EUR)",
+    "TimeZones": ["UTC+1 (CET)", "UTC+2 (CEST) in summer"],
+    "DrivingSide": "right",
+    "CallingCode": "+382",
+    "ISO3166Code": "ME",
+    "InternetTLD": ".me"
+  },
+  "Membership": {
+    "UnitedNations": true,
+    "NATO": true,
+    "WorldTradeOrganization": true,
+    "OSCE": true,
+    "CouncilOfEurope": true,
+    "CEFTA": true,
+    "UnionForTheMediterranean": true,
+    "EuropeanUnionCandidate": "2012"
+  }
+}
+}
