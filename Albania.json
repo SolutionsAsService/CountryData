@@ -1,6 +1,8 @@
 {
   "Albania": {
-    "official_name": "Republic of Albania",
+    "Name": "Albania",
+    "FullName": "Republic of Albania",
+    "AlbanianName": "Republika e Shqipërisë",
     "alternative_names": ["Shqipëri", "Shqipëria"],
     "location": {
       "continent": "Europe",
