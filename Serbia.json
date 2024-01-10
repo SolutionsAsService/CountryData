@@ -1,0 +1,107 @@
+{
+  "Country": "Serbia",
+  "OfficialName": "Republic of Serbia",
+  "Geography": {
+    "Location": "Southeast and Central Europe",
+    "Borders": {
+      "North": "Hungary",
+      "Northeast": "Romania",
+      "Southeast": "Bulgaria",
+      "South": "North Macedonia",
+      "West": ["Croatia", "Bosnia and Herzegovina"],
+      "Southwest": "Montenegro",
+      "Disputed": "Albania (through Kosovo)"
+    },
+    "Capital": {
+      "Name": "Belgrade",
+      "Coordinates": "44°48′N 20°28′E"
+    },
+    "Area": {
+      "Total": "88,499 km2",
+      "ExcludingKosovo": "77,474 km2"
+    }
+  },
+  "Demographics": {
+    "Population2022": "6,647,003 (excluding Kosovo)",
+    "EthnicGroups2022": {
+      "Serbs": "84.4%",
+      "Hungarians": "2.6%",
+      "Bosniaks": "2.2%",
+      "Roma": "1.2%",
+      "Other_Unanswered": "9.6%"
+    },
+    "Religion2022": {
+      "Christianity": "86.6%",
+      "SerbianOrthodoxy": "81.1%",
+      "Catholicism": "3.9%",
+      "OtherChristian": "1.6%",
+      "Islam": "4.2%",
+      "NoReligion": "1.1%",
+      "Other_Unanswered": "8.0%"
+    }
+  },
+  "Government": {
+    "Type": "Unitary parliamentary republic",
+    "President": "Aleksandar Vučić",
+    "PrimeMinister": "Ana Brnabić",
+    "PresidentNationalAssembly": "Vladimir Orlić",
+    "Legislature": "National Assembly"
+  },
+  "History": {
+    "Establishment": {
+      "Principality": "780",
+      "Kingdom": "1217",
+      "Empire": "1346",
+      "OttomanConquest": "1459–1804",
+      "SerbianRevolution": "1804–1835",
+      "IndependenceRecognized": "1878",
+      "KingdomOfSerbia": "1882",
+      "Yugoslavia": "1918",
+      "SerbiaAndMontenegro": "1992",
+      "IndependenceRestored": "2006"
+    }
+  },
+  "Economy": {
+    "GDP_PPP_2023": {
+      "Total": "$173.075 billion",
+      "PerCapita": "$26,074"
+    },
+    "GDP_Nominal_2023": {
+      "Total": "$75.015 billion",
+      "PerCapita": "$11,301"
+    },
+    "GiniIndex": "33.3 (2019)",
+    "HDI": "0.802 (2021)"
+  },
+  "Currency": "Serbian dinar (RSD)",
+  "Timezone": "UTC+1 (CET)",
+  "DrivingSide": "right",
+  "CallingCode": "+381",
+  "ISOCode": "RS",
+  "InternetTLD": ".rs.срб",
+  "CulturalAspects": {
+    "Anthem": "Bože pravde (God of Justice)",
+    "Flag": "Flag of Serbia",
+    "CoatOfArms": "Coat of arms of Serbia"
+  },
+  "PublicHolidays2024": [
+    "New Year's Day (January 1)",
+    "Christmas Day (January 7)",
+    "Statehood Day (February 15 and 16)",
+    "Labor Day (May 1 and 2)",
+    "Orthodox Good Friday (May 3)",
+    "Orthodox Holy Saturday (May 4)",
+    "Orthodox Easter Day (May 5)",
+    "Orthodox Easter Monday (May 6)"
+  ],
+  "SignificantEvents": {
+    "2024WorldAthleticsCrossCountryChampionships": "Serbia hosting",
+    "2024SummerOlympics": "Serbian participation"
+  },
+  "InvestmentOpportunities": [
+    "Information Technology and Innovation",
+    "Agriculture",
+    "Renewable Energy",
+    "Tourism and Hospitality"
+  ]
+}
