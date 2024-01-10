@@ -1,0 +1,110 @@
+{
+  "country": "Antigua and Barbuda",
+  "attributes": {
+    "flag_description": "Flag of Antigua and Barbuda",
+    "coat_of_arms_description": "Coat of arms of Antigua and Barbuda",
+    "motto": "Each Endeavouring, All Achieving",
+    "anthem": {
+      "title": "Fair Antigua, We Salute Thee",
+      "duration": "1 minute and 1 second"
+    },
+    "location": {
+      "region": "Caribbean",
+      "coordinates": "17°7′N 61°51′W",
+      "lies_at_conjuncture_of": ["Caribbean Sea", "Atlantic Ocean"],
+      "part_of": "Leeward Islands, Lesser Antilles"
+    },
+    "capital_and_largest_city": "St. John's",
+    "languages": {
+      "vernacular": "Antiguan and Barbudan Creole",
+      "working_language": "English"
+    },
+    "ethnic_groups": {
+      "African_Black": "87.3%",
+      "Multiracial": "4.7%",
+      "European_White": "1.7%",
+      "Other": "6.3%"
+    },
+    "religion": {
+      "Christianity": "92.7%",
+      "Protestantism": "66.6%",
+      "Other_Christian": "26.1%",
+      "Rastafari": "3.6%",
+      "No_Religion": "1.9%",
+      "Baha'i_Faith": "1.1%",
+      "Other": "0.7%"
+    },
+    "demonyms": ["Antiguan and Barbudan", "Antiguan", "Barbudan"],
+    "government": {
+      "type": "Unitary parliamentary constitutional monarchy",
+      "monarch": "Charles III",
+      "governor_general": "Sir Rodney Williams",
+      "prime_minister": "Gaston Browne",
+      "legislature": {
+        "upper_house": "Senate",
+        "lower_house": "House of Representatives"
+      }
+    },
+    "historical_events": {
+      "union_date": "23 September 1859",
+      "annexation_of_Redonda": "26 March 1872",
+      "parish_boundaries_act": "17 December 1873",
+      "associated_state": "27 February 1967",
+      "independence": "1 November 1981"
+    },
+    "geography": {
+      "total_area": "440 km2",
+      "water_percentage": "negligible",
+      "islands": [
+        "Antigua", 
+        "Barbuda", 
+        "Great Bird", 
+        "Green", 
+        "Guiana", 
+        "Long", 
+        "Maiden", 
+        "Prickly Pear", 
+        "York", 
+        "Redonda"
+      ]
+    },
+    "population": {
+      "2022_estimate": "100,772",
+      "2011_census": "84,816",
+      "density": "186/km2"
+    },
+    "economy": {
+      "GDP_PPP": {
+        "2023_estimate": {
+          "total": "$2.6 billion",
+          "per_capita": "$25,449"
+        }
+      },
+      "GDP_nominal": {
+        "2023_estimate": {
+          "total": "$1.95 billion",
+          "per_capita": "$19,068"
+        }
+      },
+      "Gini_index": "53.0",
+      "HDI": "0.778",
+      "currency": "East Caribbean dollar (XCD)"
+    },
+    "other_details": {
+      "time_zone": "UTC-4 (AST)",
+      "driving_side": "left",
+      "calling_code": "+1-268",
+      "ISO_3166_code": "AG",
+      "internet_TLD": ".ag",
+      "official_website": "ab.gov.ag"
+    },
+    "vulnerabilities": {
+      "climate_change_effects": ["sea level rise", "extreme weather events"],
+      "challenges": ["coastal erosion", "water scarcity"]
+    },
+    "additional_programs": {
+      "citizenship_by_investment": true,
+      "personal_income_tax": "no"
+    }
+  }
+}
