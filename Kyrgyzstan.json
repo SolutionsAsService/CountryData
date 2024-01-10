@@ -1,0 +1,80 @@
+{
+  "Kyrgyzstan": {
+    "official_name": "Kyrgyz Republic",
+    "alternative_names": ["Kirghizia",  "Kirgiziya"],
+    "Formerly": "Kirgiz Soviet Socialist Republic",
+    "location": {
+      "continent": "Asia",
+      "region": "Central Asia",
+      "coordinates": "42°52′N, 74°36′E",
+      "border_countries": ["Kazakhstan", "China", "Tajikistan", "Uzbekistan"],
+      "terrain": ["Tian Shan", "Pamir mountain ranges"],
+      "major_bodies_of_water": ["Lake Issyk-Kul", "Lake Song-Köl", "Naryn River", "Syr Darya"]
+    },
+    "political_structure": {
+      "government_type": "Unitary presidential republic",
+      "president": "Sadyr Japarov",
+      "prime_minister": "Akylbek Japarov",
+      "legislature": "Supreme Council",
+      "capital_city": "Bishkek"
+    },
+    "demographics": {
+      "population": 6916000,
+      "ethnic_groups": {
+        "Kyrgyz": "77.7%",
+        "Uzbeks": "14.1%",
+        "Russians": "3.9%",
+        "Dungans": "1.0%",
+        "Uyghurs": "0.5%",
+        "Others": "2.8%"
+      },
+      "languages": ["Kyrgyz", "Russian"],
+      "religions": {
+        "Islam": "90%",
+        "Christianity": "7%",
+        "Others": "3%"
+      }
+    },
+    "economy": {
+      "GDP_PPP": "$44.623 billion",
+      "GDP_nominal": "$12.681 billion",
+      "GDP_per_capita_PPP": "$6438",
+      "GDP_per_capita_nominal": "$1829",
+      "main_industries": ["Gold", "Coal", "Uranium"]
+    },
+    "development_goals_2024": [
+      "Strengthening state institutional capacity",
+      "Enhancing quality of education and healthcare",
+      "Fostering sustainable economic growth and job creation",
+      "Expanding international cooperation",
+      "Promoting environmental sustainability"
+    ],
+    "historical_milestones": {
+      "Yenisei Kyrgyz Khaganate": "693",
+      "Annexation by Russian Empire": "1876",
+      "Soviet era": ["Kara-Kirghiz AO", "Kirghiz ASSR", "Kirghiz SSR"],
+      "Declaration of Sovereignty": "1990",
+      "Independence from USSR": "1991"
+    },
+    "geographical_features": {
+      "Issyk-Kul_Region": "Second-largest saline lake",
+      "Tian_Shan_System": ["Chatkal range", "Talas range"],
+      "Alay_Valley_Pamir_Mountains": "High mountain valley"
+    },
+    "public_holidays": [
+      "New Year's Day", 
+      "Christmas", 
+      "Defender of the Fatherland Day", 
+      "International Women's Day", 
+      "Nooruz Mairamy",
+      "Day of the People's April Revolution",
+      "Orozo Ait",
+      "International Workers' Day",
+      "Constitution Day",
+      "Great Patriotic War Against Fascism Victory Day",
+      "Kurman Ait",
+      "Independence Day",
+      "Days of History and Commemoration of Ancestors"
+    ]
+  }
+}
