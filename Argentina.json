@@ -1,4 +1,5 @@
 {
+  "Argentina": {
   "country": "Argentina",
   "FullName": "Argentine Republic",
   "pronunciation": "[aɾxenˈtina]",
@@ -10,7 +11,7 @@
   },
   "flag": "Flag of Argentina",
   "coat_of_arms": "Coat of arms of Argentina",
-  "motto": "En uni\u00f3n y libertad (In Unity and Freedom)",
+  "motto": "En unión y libertad (In Unity and Freedom)",
   "anthem": {
     "title": "Himno Nacional Argentino (Argentine National Anthem)",
     "duration": "3 minutes and 34 seconds"
@@ -31,9 +32,9 @@
   "languages": {
     "official": "Spanish",
     "co_official": {
-      "Corrientes": "Guaran\u00ed",
+      "Corrientes": "Guaraní",
       "Santiago_del_Estero": "Quechua",
-      "Chaco": ["Qom", "Mocov\u00ed", "Wich\u00ed"],
+      "Chaco": ["Qom", "Mocoví", "Wichí"],
       "Chubut": "Welsh"
     }
   },
@@ -99,17 +100,19 @@
     "post-independence": ["European immigration", "cultural influence"]
   },
   "modern_history": {
-    "death_of_Juan_Per\u00f3n": "1974",
-    "Isabel_Per\u00f3n_presidency": "1974-1976",
+    "death_of_Juan_Perón": "1974",
+    "Isabel_Perón_presidency": "1974-1976",
     "military_junta_period": "1976 onwards",
     "Dirty_War": "state terrorism and civil unrest",
     "democracy_restoration": "Ra\u00fal Alfons\u00edn, 1983"
   },
   "international_status": {
+    "UN_Member": true,
     "regional_power": true,
     "non_NATO_US_ally": true,
     "HDI_ranking": "2nd in Latin America",
     "economic_status": "Second-largest in South America",
     "international_affiliations": ["United Nations", "World Bank", "World Trade Organization", "Mercosur", "Community of Latin American and Caribbean States", "Organization of Ibero-American States"]
   }
+}
 }
