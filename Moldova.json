@@ -1,0 +1,112 @@
+{
+  "Country": "Moldova",
+  "OfficialName": "Republic of Moldova",
+  "Location": {
+    "Continent": "Europe",
+    "Region": "Eastern Europe",
+    "Coordinates": "47°0′N 28°55′E",
+    "Borders": {
+      "West": "Romania",
+      "North": "Ukraine",
+      "East": "Ukraine",
+      "South": "Ukraine"
+    },
+    "Area": {
+      "Total": "33,843 km2",
+      "WaterPercentage": 1.4
+    }
+  },
+  "Demographics": {
+    "Population": {
+      "2023_Estimate": 2512758,
+      "2014_Census": 2804801,
+      "Density": "82.8/km2"
+    },
+    "EthnicGroups_2014": {
+      "Moldovans_Romanians": "82.07%",
+      "Ukrainians": "6.57%",
+      "Gagauzes": "4.57%",
+      "Russians": "4.06%",
+      "Bulgarians": "1.88%",
+      "Other": "0.85%"
+    },
+    "Languages": {
+      "Official": "Romanian",
+      "RecognisedMinorityLanguages": ["Belarusian", "Bulgarian", "Gagauz", "German", "Hebrew", "Polish", "Romani", "Russian", "Ukrainian"]
+    },
+    "Religion_2014": {
+      "Christianity": "91.8%",
+      "EasternOrthodoxy": "90.1%",
+      "OtherChristian": "1.7%",
+      "OtherReligions": "0.3%",
+      "NoReligion": "5.5%",
+      "Unspecified": "2.4%"
+    }
+  },
+  "Government": {
+    "Type": "Unitary parliamentary republic",
+    "President": "Maia Sandu",
+    "PrimeMinister": "Dorin Recean",
+    "PresidentOfParliament": "Igor Grosu",
+    "Legislature": "Parliament"
+  },
+  "Economy": {
+    "GDP_PPP_2023": {
+      "Total": "$42.217 billion",
+      "PerCapita": "$16,915"
+    },
+    "GDP_Nominal_2023": {
+      "Total": "$16.000 billion",
+      "PerCapita": "$6,410"
+    },
+    "GiniCoefficient_2019": "26.0",
+    "HDI_2021": "0.767",
+    "Currency": "Moldovan leu (MDL)",
+    "Budget_2024": {
+      "Revenues": "66.6 billion lei",
+      "Expenditures": "82 billion lei",
+      "Deficit": "15.6 billion lei",
+      "Deficit_PercentageOfGDP": "4.6%"
+    }
+  },
+  "SocialIssues": {
+    "Poverty": "Second poorest country in Europe by GDP per capita",
+    "Development": "One of the lowest HDIs in Europe",
+    "Innovation": "60th in Global Innovation Index 2023"
+  },
+  "CulturalAspects": {
+    "Anthem": "Limba noastră",
+    "Flag": "Flag of Moldova",
+    "CoatOfArms": "Coat of arms of Moldova",
+    "NationalHolidays": [
+      "New Year's Day",
+      "Orthodox Christmas Day",
+      "International Women's Day",
+      "Labour Day",
+      "Orthodox Easter",
+      "Victory Day",
+      "Independence Day",
+      "Romanian Language Day",
+      "Catholic Christmas"
+    ],
+    "Participation": [
+      "Eurovision Song Contest 2024"
+    ]
+  },
+  "ExternalRelations": {
+    "UN_Member": true,
+    "CouncilOfEurope_Member": true,
+    "WTO_Member": true,
+    "OSCE_Member": true,
+    "GUAM_Member": true,
+    "BlackSeaEconomicCooperation_Member": true,
+    "AssociationTrio_Member": true
+  },
+  "HistoricalContext": {
+    "MoldavianPrincipality_Origin": "1346",
+    "UnionWithRomania": "9 April 1918",
+    "MoldavianSSR_Establishment": "2 August 1940",
+    "IndependenceFromSovietUnion": "27 August 1991",
+    "ConstitutionAdopted": "29 July 1994"
+  }
+}
