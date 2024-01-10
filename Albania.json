@@ -1,0 +1,67 @@
+{
+  "Albania": {
+    "official_name": "Republic of Albania",
+    "alternative_names": ["Shqipëri", "Shqipëria"],
+    "location": {
+      "continent": "Europe",
+      "region": "Southeast Europe",
+      "coordinates": "41°19′N, 19°49′E",
+      "border_countries": ["Montenegro", "Kosovo", "North Macedonia", "Greece"]
+    },
+    "geography": {
+      "area_sq_km": 28748,
+      "landscape": ["Albanian Alps", "Korab Mountains", "Skanderbeg Mountains", "Pindus Mountains", "Ceraunian Mountains", "Adriatic Sea coast", "Ionian Sea coast"],
+      "climate": "Varied"
+    },
+    "capital_and_major_cities": {
+      "capital": "Tirana",
+      "major_cities": ["Durrës", "Vlorë", "Shkodër"]
+    },
+    "demographics": {
+      "population_2022": 2793592,
+      "ethnic_groups": ["Albanians"],
+      "official_language": "Albanian",
+      "minority_languages": ["Greek", "Aromanian", "Macedonian"]
+    },
+    "religion": {
+      "Islam": "59%",
+      "Christianity": "17%",
+      "No Religion": "9%",
+      "Undeclared": "15%"
+    },
+    "government": {
+      "type": "Unitary parliamentary republic",
+      "president": "Bajram Begaj",
+      "prime_minister": "Edi Rama",
+      "parliament_speaker": "Lindita Nikolla",
+      "legislature": "Kuvendi"
+    },
+    "economy": {
+      "GDP_PPP_2024": "$59.099 billion",
+      "GDP_nominal_2024": "$25.297 billion",
+      "GDP_per_capita_PPP_2024": "$20739",
+      "GDP_per_capita_nominal_2024": "$8877",
+      "main_sectors": ["Service", "Manufacturing"],
+      "currency": "Lek (ALL)"
+    },
+    "historical_background": {
+      "ancient": ["Illyrians", "Epirotes", "Greek colonies"],
+      "medieval": ["Arbanon", "Kingdom of Albania", "Princedom of Albania", "Albania Veneta"],
+      "modern": ["Ottoman rule", "Independence in 1912", "Italian and German occupation in WWII", "People's Socialist Republic", "Current Republic"]
+    },
+    "public_holidays": [
+      "New Year holidays", "Day of Summer", "Nowruz Day", "Catholic Easter Sunday", "Eid al-Fitr", "Labour Day", "Orthodox Easter", "The Day of Kurban Bayram", "Saint Teresa's Consecration Day", "Flag and Independence Day", "Liberation Day", "National Youth Day", "Christmas Day"
+    ],
+    "economic_outlook_2024": {
+      "growth_rate": "3.8%",
+      "focus_areas": ["Tourism", "Agriculture", "Digitization"],
+      "environmental_initiatives": true,
+      "NATO_commitments": "2% of GDP",
+      "local_governance_funding": "Increase of 10.4%"
+    },
+    "international_relations": {
+      "EU_candidate": true,
+      "membership": ["UN", "World Bank", "UNESCO", "NATO", "WTO", "COE", "OSCE", "OIC"]
+    }
+  }
+}
