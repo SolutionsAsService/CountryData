@@ -1,11 +1,11 @@
 {
   "country": "Argentina",
-  "official_name": "Argentine Republic",
+  "FullName": "Argentine Republic",
   "pronunciation": "[aɾxenˈtina]",
-  "names_in_other_languages": {
-    "Spanish": "Rep\u00fablica Argentina",
+  "OtherNames": {
+    "Spanish": "República Argentina",
     "Welsh": "Gweriniaeth yr Ariannin",
-    "Guarani": "Arahent\u00edna Tavakuairet\u00e3",
+    "Guarani": "Arahentína Tavakuairetã",
     "Santiago_del_Estero_Quichua": "Arhintina Ripuwlika"
   },
   "flag": "Flag of Argentina",
