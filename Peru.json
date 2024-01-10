@@ -1,0 +1,80 @@
+{
+  "Country": "Peru",
+  "Official Name": "Republic of Peru",
+  "Flag": "Flag of Peru",
+  "Coat of Arms": "Coat of arms of Peru",
+  "Motto": "Firme y feliz por la unión (Firm and Happy for the Union)",
+  "Anthem": "Himno Nacional del Perú (National Anthem of Peru)",
+  "Duration of Anthem": "3 minutes and 10 seconds",
+  "March": "Marcha de Banderas (March of Flags)",
+  "Duration of March": "1 minute and 43 seconds",
+  "National Seal": "Gran Sello del Estado (Great Seal of the State)",
+  "Location": {
+    "Capital": "Lima",
+    "Coordinates": "12°2.6′S 77°1.7′W"
+  },
+  "Official Languages": ["Spanish"],
+  "Co-official Languages": ["Quechua", "Aymara", "Other Indigenous languages"],
+  "Ethnic Groups (2017)": {
+    "Mestizo": "60.2%",
+    "Indigenous": "25.8%",
+    "White": "5.9%",
+    "Black": "3.6%",
+    "Nikkei (Japanese) or Tusán (Chinese)": "0.2%",
+    "Other": "1.0%",
+    "No Answer": "3.3%"
+  },
+  "Religion (2017)": {
+    "Christianity": "94.5%",
+    "Catholicism": "76.0%",
+    "Other Christian": "18.5%",
+    "No Religion": "5.1%",
+    "Other": "0.4%"
+  },
+  "Demonym": "Peruvian",
+  "Government": {
+    "Type": "Unitary presidential republic",
+    "President": "Dina Boluarte",
+    "First Vice President": "Vacant",
+    "Prime Minister": "Alberto Otárola",
+    "President of Congress": "Alejandro Soto Reyes",
+    "Legislature": "Congress of the Republic"
+  },
+  "Independence from Spain": {
+    "Declared": "28 July 1821",
+    "Consolidated": "9 December 1824",
+    "Recognized": "14 August 1879"
+  },
+  "Area": {
+    "Total": "1,285,216 km2 (496,225 sq mi)",
+    "Water Percentage": "0.41"
+  },
+  "Population (2023 estimate)": {
+    "Total": "34,352,720",
+    "Density": "23/km2 (59.6/sq mi)"
+  },
+  "GDP (PPP) 2023 Estimate": {
+    "Total": "Increase $548.465 billion",
+    "Per Capita": "Increase $15,893"
+  },
+  "GDP (Nominal) 2023 Estimate": {
+    "Total": "Increase $264.636 billion",
+    "Per Capita": "Increase $7,668"
+  },
+  "Gini (2019)": "Positive decrease 41.5 (medium)",
+  "HDI (2021)": {
+    "Index": "0.762 (high)",
+    "Rank": "84th"
+  },
+  "Currency": "Peruvian sol (PEN)",
+  "Time Zone": "UTC−5 (PET)",
+  "Date Format": "dd/mm/yyyy (CE)",
+  "Driving Side": "Right",
+  "Calling Code": "+51",
+  "ISO 3166 Code": "PE",
+  "Internet TLD": ".pe",
+  "History": "Peru has a rich history dating back to the 10th millennium BCE, with notable pre-colonial cultures such as the Inca Empire. It proclaimed independence in 1821 and completed it in 1824.",
+  "Recent History": "Peru has experienced periods of political and social instability, economic growth, and recent unrest.",
+  "Economy": "Peru's main economic activities include mining, manufacturing, agriculture, and fishing. It is part of The Pacific Pumas and ranks high in social freedom.",
+  "Culture": "Peru's diverse population results in a wide variety of cultural expressions in art, cuisine, literature, and music."
+}
