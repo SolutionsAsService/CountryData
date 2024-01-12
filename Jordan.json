@@ -1,8 +1,11 @@
 {
+  "Jordan":{
   "name": "Jordan",
-  "official_name": "Hashemite Kingdom of Jordan",
+  "FullName": "Hashemite Kingdom of Jordan",
+  "ArabicName": "المملكة الأردنية الهاشمية",
   "motto": "الله، الوطن، الملك (God, Country, King)",
-  "anthem": "The Royal Anthem of Jordan",
+  "Anthem": "السلام الملكي الأردني",
+  "AnthemLit": "The Royal Anthem of Jordan",
   "location": "West Asia",
   "geographical_description": "Situated at the crossroads of Asia, Africa, and Europe within the Levant region, on the East Bank of the Jordan River.",
   "borders": {
@@ -59,4 +62,5 @@
   "iso_3166_code": "JO",
   "internet_tld": [".jo", ".الاردن"],
   "official_website": "jordan.gov.jo"
+}
 }
