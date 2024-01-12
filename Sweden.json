@@ -1,0 +1,95 @@
+{
+  "Sweden": {
+    "officialName": "Kingdom of Sweden",
+    "localName": "Konungariket Sverige",
+    "flag": "Flag of Sweden",
+    "coatOfArms": "Coat of arms of Sweden",
+    "anthems": {
+      "nationalAnthem": "Du gamla, du fria",
+      "royalAnthem": "Kungssången"
+    },
+    "geography": {
+      "location": "Scandinavian Peninsula, Northern Europe",
+      "borders": ["Norway", "Finland"],
+      "connection": "Bridge-tunnel across the Öresund to Denmark",
+      "capitalAndLargestCity": "Stockholm",
+      "coordinates": "59°21′N 18°4′E",
+      "totalArea": 450295,
+      "waterPercentage": 8.97,
+      "landscape": {
+        "dominatedBy": ["forests", "lakes"],
+        "majorRivers": "Scandes range tributaries to the Baltic Sea",
+        "coastline": "Extensive",
+        "climate": ["Temperate in south", "Subarctic in north"]
+      }
+    },
+    "demographics": {
+      "population": {
+        "2023Estimate": 10540886,
+        "density": 25,
+        "urbanPopulationPercentage": 88.7
+      },
+      "languages": {
+        "officialLanguage": "Swedish",
+        "nationalMinorityLanguages": ["Sámi", "Finnish", "Meänkieli", "Romani", "Yiddish"]
+      },
+      "religion": {
+        "Christianity": 61.4,
+        "NoReligion": 36.0,
+        "Islam": 2.3
+      }
+    },
+    "government": {
+      "type": "Unitary parliamentary constitutional monarchy",
+      "monarch": "Carl XVI Gustaf",
+      "riksdagSpeaker": "Andreas Norlén",
+      "primeMinister": "Ulf Kristersson",
+      "legislature": "Riksdag"
+    },
+    "economy": {
+      "GDP_PPP_2023": {
+        "total": 715995000000,
+        "perCapita": 66209
+      },
+      "GDP_Nominal_2023": {
+        "total": 597110000000,
+        "perCapita": 55215
+      },
+      "GiniIndex": 27.6,
+      "HDI": 0.947,
+      "currency": "Swedish krona (SEK)"
+    },
+    "miscellaneous": {
+      "timeZone": ["UTC+1 (CET)", "UTC+2 (CEST)"],
+      "driveSide": "right",
+      "isoCode": "SE",
+      "internetTLD": ".se",
+      "officialWebsite": "sweden.se"
+    },
+    "socialWelfareSystem": {
+      "healthCare": "Universal",
+      "education": "Tertiary education for citizens"
+    },
+    "internationalAffiliations": [
+      "European Union",
+      "United Nations",
+      "Nordic Council",
+      "Schengen Area",
+      "Council of Europe",
+      "World Trade Organization",
+      "Organisation for Economic Co-operation and Development (OECD)"
+    ],
+    "environmentalConcerns": {
+      "issues": ["Marine pollution", "Acid rain", "Air pollution", "Timber harvesting practices"],
+      "agreements": [
+        "Air Pollution",
+        "Climate Change",
+        "Desertification",
+        "Endangered Species",
+        "Law of the Sea",
+        "Ozone Layer Protection",
+        "Wetlands"
+      ]
+    }
+  }
+}
