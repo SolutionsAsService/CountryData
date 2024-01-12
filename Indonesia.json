@@ -13,6 +13,9 @@
       "majorIslands": ["Sumatra", "Java", "Sulawesi", "Borneo", "New Guinea"],
       "area": 1904569,
       "coordinates": "6°10′S 106°49′E"
+      "Borders":{
+        "Land": ["Papua New Guinea", "East Timor", "Malaysia (east)"], 
+        "Maritime": ["Singapore", "Vietnam", "Thailand", "Philippines", "Australia", "Palau", "India"]
     },
     "capital": "Jakarta",
     "largestCity": "Jakarta",
