@@ -1,4 +1,5 @@
 {
+  "Cameroon":{
   "Country": "Republic of Cameroon",
   "Native Name": "République du Cameroun",
   "Location": "Central Africa",
@@ -74,4 +75,5 @@
     "Nickname": "Africa in miniature"
   },
   "International Affiliations": ["African Union", "United Nations", "Organisation Internationale de la Francophonie", "Commonwealth of Nations", "Non-Aligned Movement", "Organisation of Islamic Cooperation"]
+}
 }
