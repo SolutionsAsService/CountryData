@@ -1,4 +1,5 @@
 {
+  "Belgium": {
   "Country_Name": "Belgium",
   "Official_Name": "Kingdom of Belgium",
   "Dutch_Name": "Koninkrijk België",
@@ -96,4 +97,5 @@
     "International_Conflicts": "Participation in UN peacekeeping forces",
     "Cultural_Influence": "Known as the crossroads and battlefield of Europe"
   }
+}
 }
