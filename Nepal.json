@@ -1,0 +1,64 @@
+{
+  "Country": "Nepal",
+  "OfficialName": "Federal Democratic Republic of Nepal",
+  "Geography": {
+    "Region": "South Asia",
+    "Terrain": "Himalayas, Indo-Gangetic Plain",
+    "Features": [
+      "Eight of the world's ten tallest mountains",
+      "Mount Everest - the highest point on Earth"
+    ],
+    "Borders": {
+      "North": "Tibet Autonomous Region of China",
+      "SouthEastWest": "India",
+      "CloseProximity": ["Bangladesh", "Bhutan"]
+    }
+  },
+  "Capital": "Kathmandu",
+  "OfficialLanguages": ["Nepali"],
+  "RecognisedNationalLanguages": "All mother-tongues",
+  "EthnicGroups_2011": {
+    "KhasArya": "31.25%",
+    "Chhetri": "16.6%",
+    "Bahun": "12.2%",
+    "Other": "Various"
+  },
+  "Religion_2021": {
+    "Hinduism": "81.19%",
+    "Buddhism": "8.21%",
+    "Islam": "5.09%",
+    "Others": "Various"
+  },
+  "Government": {
+    "Type": "Federal parliamentary republic",
+    "Leaders": {
+      "President": "Ram Chandra Poudel",
+      "PrimeMinister": "Pushpa Kamal Dahal"
+    }
+  },
+  "Economy": {
+    "GDP_PPP_2023": "$150.800 billion",
+    "GDP_Nominal_2023": "$41.339 billion",
+    "MainSectors": ["Agriculture", "Services", "Tourism"]
+  },
+  "Culture": {
+    "MusicAndDance": "Diverse, influenced by altitude and ethnicity",
+    "Languages": "123 spoken, including Nepali, Maithili, Bhojpuri",
+    "Religions": "Hinduism, Buddhism, Islam, Indigenous Kirant",
+    "Festivals": ["Dashain", "Tihar", "Chhath", "Buddha Jayanti"]
+  },
+  "HistoricalContext": {
+    "Ancient": "Vedic period, Birthplace of Gautama Buddha",
+    "Medieval": "Newar confederacy, Silk Road trade",
+    "Modern": {
+      "Unification": "1768",
+      "Constitution": "2015 - Secular federal parliamentary republic"
+    }
+  },
+  "EnvironmentalIssues": "High pollution levels",
+  "InternationalRelations": {
+    "UN_Member": "1955",
+    "Treaties": ["India", "China"],
+    "SAARC_FoundingMember": true
+  }
+}
