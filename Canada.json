@@ -1,0 +1,92 @@
+{
+  "Canada": {
+    "officialName": "Canada",
+    "flag": "Vertical triband design (red, white, red) with a red maple leaf in the centre",
+    "coatOfArms": "St. Edward's Crown with a crowned gold lion holding a maple leaf, flanked by an English lion and a Scottish unicorn",
+    "motto": "A mari usque ad mare ('From Sea to Sea')",
+    "anthems": {
+      "nationalAnthem": "O Canada",
+      "royalAnthem": "God Save the King"
+    },
+    "geography": {
+      "location": "North America",
+      "totalArea": 9984670,
+      "waterPercentage": 11.76,
+      "landArea": 9093507,
+      "longestCoastline": true,
+      "borders": {
+        "longestLandBorder": "United States"
+      }
+    },
+    "capital": "Ottawa",
+    "largestCity": "Toronto",
+    "officialLanguages": ["English", "French"],
+    "demographics": {
+      "population2023Estimate": 40528396,
+      "census2021": 36991981,
+      "density": 4.2
+    },
+    "government": {
+      "type": "Federal parliamentary constitutional monarchy",
+      "monarch": "Charles III",
+      "governorGeneral": "Mary Simon",
+      "primeMinister": "Justin Trudeau",
+      "legislature": {
+        "upperHouse": "Senate",
+        "lowerHouse": "House of Commons"
+      }
+    },
+    "economy": {
+      "GDP_PPP_2023": {
+        "total": 2379000000000,
+        "perCapita": 59813
+      },
+      "GDP_Nominal_2023": {
+        "total": 2118000000000,
+        "perCapita": 53247
+      },
+      "GiniIndex": 30.3,
+      "HDI": 0.936
+    },
+    "currency": "Canadian dollar (CAD)",
+    "timeZone": ["UTC−3.5 to −8", "UTC−2.5 to −7 (DST)"],
+    "internetTLD": ".ca",
+    "historicalContext": {
+      "indigenousPeoples": "Inhabited for thousands of years",
+      "colonialHistory": {
+        "BritishAndFrench": "Explored and settled along the Atlantic coast since the 16th century",
+        "Confederation": "July 1, 1867"
+      },
+      "increasingAutonomy": {
+        "StatuteOfWestminster": "1931",
+        "Patriation": "April 17, 1982"
+      }
+    },
+    "sociopolitical": {
+      "democracyType": "Parliamentary democracy",
+      "bilingual": true,
+      "multicultural": true,
+      "relationshipWithUS": "Significant impact on history, economy, and culture"
+    },
+    "naturalResources": "Abundant, chief driver of economy",
+    "internationalRole": {
+      "middlePower": true,
+      "peacekeepingInfluence": true,
+      "internationalInstitutions": ["United Nations", "Commonwealth realms", "Other major international and intergovernmental institutions"]
+    },
+    "currentEconomicOutlook": {
+      "growthForecast": "Modest growth expected by late 2024",
+      "comparisonWithUS": "Expected to trail behind the U.S. over the next 18 months",
+      "consumerSpending": "Relatively strong despite inflation and higher interest rates",
+      "unemploymentRate": "Historically low but with some increase",
+      "interestRate": {
+        "current": "5%",
+        "forecast": "2.5% to 3% eventual settling range"
+      },
+      "inflation": {
+        "currentRate": "Just under 4%",
+        "expectedDecline": "To comfortable level by late 2024"
+      }
+    }
+  }
+}
