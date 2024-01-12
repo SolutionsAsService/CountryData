@@ -1,0 +1,80 @@
+{
+  "Malaysia": {
+    "officialName": "Malaysia",
+    "flagDescription": "Blue rectangle with a gold star and crescent in the canton, 14 horizontal red and white stripes",
+    "coatOfArmsDescription": "Shield showing symbols of Malaysian states with star and crescent, supported by two tigers",
+    "motto": "Bersekutu Bertambah Mutu ('Unity is Strength')",
+    "anthem": "Negaraku ('My Country')",
+    "geography": {
+      "regions": ["Peninsular Malaysia", "East Malaysia"],
+      "totalArea": 330803,
+      "capital": "Kuala Lumpur",
+      "administrativeCenter": "Putrajaya",
+      "borders": {
+        "landAndMaritime": ["Thailand", "Singapore", "Vietnam", "Indonesia", "Brunei", "Philippines"]
+      }
+    },
+    "demographics": {
+      "population2023Estimate": 33200000,
+      "ethnicGroups": {
+        "Bumiputera": 69.7,
+        "Chinese": 22.9,
+        "Indian": 6.6
+      },
+      "religion": {
+        "SunniIslam": 63.5,
+        "Buddhism": 18.7,
+        "Christianity": 9.1,
+        "Hinduism": 6.1
+      }
+    },
+    "government": {
+      "type": "Federal parliamentary constitutional elective monarchy",
+      "monarch": "Abdullah",
+      "primeMinister": "Anwar Ibrahim",
+      "legislature": {
+        "upperHouse": "Dewan Negara (Senate)",
+        "lowerHouse": "Dewan Rakyat (House of Representatives)"
+      }
+    },
+    "economy": {
+      "GDP_PPP_2023Estimate": {
+        "total": 1225000000000,
+        "perCapita": 37082
+      },
+      "GDP_Nominal_2023Estimate": {
+        "total": 430895000000,
+        "perCapita": 13034
+      },
+      "GiniIndex": 41.2,
+      "HDI": 0.803
+    },
+    "currency": "Malaysian ringgit (MYR)",
+    "timeZone": "UTC+8",
+    "drivingSide": "left",
+    "callingCode": "+60",
+    "isoCode": "MY",
+    "internetTLD": ".my",
+    "origin": {
+      "BritishEmpire": "18th century onwards",
+      "JapaneseOccupation": "World War Two",
+      "Independence": "31 August 1957"
+    },
+    "socioPoliticalContext": {
+      "multiethnicSociety": true,
+      "officialLanguage": "Malay",
+      "englishProficiency": "Widely spoken",
+      "legalSystem": "Based on common law",
+      "headOfState": "Elected monarch",
+      "headOfGovernment": "Prime minister",
+      "economicDrivers": ["Natural resources", "Commerce", "Tourism", "Medical tourism"],
+      "internationalAffiliations": ["OIC", "EAS", "ASEAN", "NAM", "Commonwealth", "APEC"]
+    },
+    "humanRightsIssues": {
+      "freedomOfSpeech": "Challenges with censorship",
+      "religiousFreedom": "Restrictions on non-Sunni branches of Islam",
+      "LGBTQRights": "State-sponsored discrimination",
+      "women'sRights": "Ongoing efforts to amend citizenship laws"
+    }
+  }
+}
