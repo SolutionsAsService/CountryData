@@ -1,6 +1,8 @@
 {
-  "country": "El Salvador",
-  "official_name": "Republic of El Salvador",
+  "El Salvador": {
+  "Name": "El Salvador",
+  "FullName": "Republic of El Salvador",
+  "SpanishName": "República de El Salvador",
   "pronunciation": "[ɛl ˈsælvədɔːr]",
   "flag_description": "Flag of El Salvador",
   "coat_of_arms_description": "Coat of arms of El Salvador",
@@ -76,4 +78,5 @@
     "electoral_changes": "Reduction of municipalities and assembly seats",
     "allegations": ["Negotiations with gangs", "Corruption"]
   }
+}
 }
