@@ -11,7 +11,12 @@
       "capital": "Kuala Lumpur",
       "administrativeCenter": "Putrajaya",
       "borders": {
-        "landAndMaritime": ["Thailand", "Singapore", "Vietnam", "Indonesia", "Brunei", "Philippines"]
+         "Peninsular Malaysia":{ 
+           "landmaritime": "Thailand", 
+            "maritime": ["Singapore", "Vietnam", "Indonesia"], },
+          "East Malaysia":{
+            "landmaritime": [ "Brunei", "Indonesia"],
+            "maritime": ["Philippines", "Vietnam"]
       }
     },
     "demographics": {
