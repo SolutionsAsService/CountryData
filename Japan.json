@@ -1,0 +1,50 @@
+{
+  "Country": "Japan",
+  "OfficialName": "Nippon-koku or Nihon-koku",
+  "Geography": {
+    "Region": "East Asia",
+    "Location": "Northwest Pacific Ocean",
+    "MainIslands": ["Hokkaido", "Honshu", "Shikoku", "Kyushu", "Okinawa"],
+    "TotalIslands": 14,125,
+    "RingOfFire": true
+  },
+  "Capital": "Tokyo",
+  "OfficialLanguage": "Japanese",
+  "Government": {
+    "Type": "Unitary parliamentary constitutional monarchy",
+    "Emperor": "Naruhito",
+    "PrimeMinister": "Fumio Kishida"
+  },
+  "Legislature": {
+    "UpperHouse": "House of Councillors",
+    "LowerHouse": "House of Representatives"
+  },
+  "History": {
+    "FirstInhabitants": "Paleolithic period, 38-39,000 years ago",
+    "ImperialDynasty": "Established 539 AD",
+    "Periods": ["Heian", "Kamakura", "Edo", "Meiji", "Taisho", "Showa", "Heisei"],
+    "ModernEra": {
+      "MeijiRestoration": "1868",
+      "WorldWarII": "1937-1945",
+      "Constitution": "Adopted May 3, 1947"
+    }
+  },
+  "Area": "377,975 km2",
+  "Population_2023": "124,285,000",
+  "Economy": {
+    "GDP_PPP_2023": "$6.495 trillion",
+    "GDP_Nominal_2023": "$4.231 trillion",
+    "Industries": ["Automotive", "Robotics", "Electronics"]
+  },
+  "Culture": {
+    "TraditionalArts": ["Bonsai", "Ikebana", "Tea Ceremony"],
+    "ModernCulture": ["Manga", "Anime", "Video Games"],
+    "Music": ["J-pop", "Anison", "Kayōkyoku"],
+    "Cinema": "Internationally recognized"
+  },
+  "EnvironmentalConcerns": "Pollution and natural disasters due to location in the Ring of Fire",
+  "InternationalInfluence": {
+    "GlobalLeader": ["Technology", "Economy", "Culture"],
+    "UNPeacekeeping": "Active contributor"
+  }
+}
