@@ -1,0 +1,79 @@
+{
+  "country": "El Salvador",
+  "official_name": "Republic of El Salvador",
+  "pronunciation": "[ɛl ˈsælvədɔːr]",
+  "flag_description": "Flag of El Salvador",
+  "coat_of_arms_description": "Coat of arms of El Salvador",
+  "motto": "Dios, Unión, Libertad (God, Union, Liberty)",
+  "anthem": {
+    "title": "Himno Nacional de El Salvador (National Anthem of El Salvador)",
+    "duration": "1 minute and 29 seconds"
+  },
+  "capital_and_largest_city": "San Salvador",
+  "official_language": "Spanish",
+  "ethnic_groups": {
+    "Mestizo": "86.3%",
+    "White": "12.7%",
+    "Indigenous": "0.2%",
+    "Black": "0.1%",
+    "Other": "0.6%"
+  },
+  "religion_2017": {
+    "Christianity": "84.1%",
+    "Roman_Catholic": "44.9%",
+    "Protestant": "37.1%",
+    "Other_Christian": "2.1%",
+    "No_Religion": "15.2%",
+    "Other": "0.7%"
+  },
+  "government": {
+    "type": "Unitary presidential republic",
+    "president": "Nayib Bukele",
+    "vice_president": "Félix Ulloa",
+    "legislature": "Legislative Assembly"
+  },
+  "independence": {
+    "from_Spain": "15 September 1821",
+    "from_First_Mexican_Empire": "1 July 1823",
+    "from_Federal_Republic_of_Central_America": "12 June 1824",
+    "international_recognition": "18 February 1841"
+  },
+  "area_km2": 21041,
+  "population_2023_estimate": 6602370,
+  "density_per_km2": 324.4,
+  "GDP_PPP_2023_estimate": {
+    "total": "$74.505 billion",
+    "per_capita": "$11,717"
+  },
+  "GDP_nominal_2023_estimate": {
+    "total": "$35.339 billion",
+    "per_capita": "$5,557"
+  },
+  "Gini_2019": "38.8",
+  "HDI_2021": "0.675",
+  "currency": ["United States dollar (USD)", "Bitcoin (BTC)"],
+  "time_zone": "UTC−6",
+  "driving_side": "right",
+  "calling_code": "+503",
+  "ISO_3166_code": "SV",
+  "internet_TLD": ".sv",
+  "historical_background": {
+    "Mesoamerican_control": ["Lenca", "Mayans", "Cuzcatlecs"],
+    "Spanish_conquest": "16th century",
+    "independence_from_Spain": "1821",
+    "union_with_Central_America": "1823",
+    "sovereign_state": "1841",
+    "Greater_Republic_of_Central_America": "1895-1898",
+    "Civil_War": "1979-1992"
+  },
+  "economic_history": {
+    "agricultural_focus": ["cacao", "balsam", "indigo", "coffee"],
+    "modern_economy": "Diversified with manufacturing sector"
+  },
+  "political_climate": {
+    "presidency_of_Nayib_Bukele": "Noted for authoritarian tendencies",
+    "re-election_bid": "Controversial and criticized",
+    "electoral_changes": "Reduction of municipalities and assembly seats",
+    "allegations": ["Negotiations with gangs", "Corruption"]
+  }
+}
