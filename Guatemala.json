@@ -1,6 +1,8 @@
 {
+  "Guatemala":{
   "country": "Guatemala",
   "official_name": "Republic of Guatemala",
+  "SpanishName": "República de Guatemala",
   "pronunciation": "[ˌɡwɑːtəˈmɑːlə] GWAH-tə-MAH-lə",
   "flag_description": "Flag of Guatemala",
   "coat_of_arms_description": "Coat of arms of Guatemala",
@@ -93,4 +95,28 @@
   },
   "demographics": {
     "life_expectancy": "70.15 years",
-    "infant_mortality
+        "infant_mortality": "20.6 (per 1,000 live births)",
+    "deaths_under_age_5": "24.9 (per 1,000 live births)",
+    "median_age": "23.2 years",
+    "population_by_age": {
+      "adults_over_18": "Significant portion of the population"
+    }
+  },
+  "culture": {
+    "multiethnic": true,
+    "influences": "Indigenous and Spanish"
+  },
+  "challenges": {
+    "food_insecurity": "4.6 million facing due to global crises",
+    "biodiversity": "Part of Mesoamerican Biological Corridor"
+  },
+  "political_climate": {
+    "corruption": "High levels and declining ability to prevent",
+    "judicial_independence": "Significant issues with accountability",
+    "freedom_of_expression": "Hostile environment for journalists and media",
+    "attacks_on_human_rights_defenders": "Increased incidents",
+    "women_and_girls_rights": "High incidence of gender-based violence and femicides",
+    "sexual_orientation_and_gender_identity": "Lack of adequate protection"
+  }
+}
+}
