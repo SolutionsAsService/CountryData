@@ -1,0 +1,84 @@
+{
+  "Indonesia": {
+    "officialName": "Republic of Indonesia",
+    "localName": "Republik Indonesia",
+    "flag": "Red and white horizontal bands",
+    "nationalEmblem": "Garuda Pancasila",
+    "motto": "Bhinneka Tunggal Ika ('Unity in Diversity')",
+    "anthem": "Indonesia Raya ('Indonesia the Great')",
+    "nationalIdeology": "Pancasila",
+    "geography": {
+      "location": "Southeast Asia and Oceania",
+      "islandsCount": 17000,
+      "majorIslands": ["Sumatra", "Java", "Sulawesi", "Borneo", "New Guinea"],
+      "area": 1904569,
+      "coordinates": "6°10′S 106°49′E"
+    },
+    "capital": "Jakarta",
+    "largestCity": "Jakarta",
+    "officialLanguage": "Indonesian",
+    "regionalLanguages": "Over 700 languages",
+    "ethnicGroups": "Over 1,300 ethnic groups",
+    "religion": {
+      "Islam": 87,
+      "Christianity": 10.5,
+      "Hinduism": 1.7,
+      "Buddhism": 0.7,
+      "Other": 0.1
+    },
+    "government": {
+      "type": "Unitary presidential constitutional republic",
+      "president": "Joko Widodo",
+      "vicePresident": "Ma'ruf Amin",
+      "houseSpeaker": "Puan Maharani",
+      "chiefJustice": "Muhammad Syarifuddin",
+      "legislature": {
+        "upperHouse": "Regional Representative Council (DPD)",
+        "lowerHouse": "People's Representative Council (DPR)"
+      }
+    },
+    "independence": {
+      "proclaimed": "1945-08-17",
+      "recognised": "1949-12-27",
+      "constitutionalAmendments": "1999-10-14 to 2002-08-01"
+    },
+    "demographics": {
+      "population2023Estimate": 279118866,
+      "census2020": 270203917,
+      "density": 143
+    },
+    "economy": {
+      "GDP_PPP_2024Estimate": {
+        "total": 4715000000000,
+        "perCapita": 16843
+      },
+      "GDP_Nominal_2024Estimate": {
+        "total": 1542000000000,
+        "perCapita": 5509
+      },
+      "GiniIndex2022": 37.9,
+      "HDI2021": 0.705
+    },
+    "currency": "Indonesian rupiah (IDR)",
+    "timeZone": ["UTC+7 to +9"],
+    "dateFormat": "DD/MM/YYYY",
+    "drivingSide": "left",
+    "callingCode": "+62",
+    "isoCode": "ID",
+    "internetTLD": ".id",
+    "provinces": 38,
+    "borders": {
+      "landBorders": ["Papua New Guinea", "East Timor", "Malaysia"],
+      "maritimeBorders": ["Singapore", "Vietnam", "Thailand", "Philippines", "Australia", "Palau", "India"]
+    },
+    "tradeHistory": {
+      "significantEras": ["Srivijaya Kingdom", "Majapahit Kingdom", "Age of Discovery"],
+      "colonialHistory": "Dutch colonialism"
+    },
+    "culturalDiversity": {
+      "ethnicGroups": "Javanese (largest)",
+      "mottoInterpretation": "Unity in Diversity"
+    },
+    "internationalAffiliations": ["United Nations", "World Trade Organization", "G20", "Non-Aligned Movement", "ASEAN", "East Asia Summit", "D-8", "Organisation of Islamic Cooperation"]
+  }
+}
