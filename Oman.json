@@ -1,6 +1,7 @@
 {
-  "Country": "Sultanate of Oman",
-  "Native Name": "سلطنة عُمان",
+  "Oman": {
+  "FullName": "Sultanate of Oman",
+  "ArabicName": "سلطنة عُمان",
   "Location": "West Asia",
   "Geographical Location": {
     "Continent": "Asia",
@@ -80,4 +81,5 @@
     "UNDP Development Ranking (2010)": "Most improved nation in the world in terms of development over 40 years"
   },
   "Economic Activities": ["Tourism", "Fish Trading", "Agriculture"]
+}
 }
