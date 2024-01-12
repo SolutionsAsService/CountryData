@@ -1,7 +1,7 @@
 {
   "Central African Republic": {
-  "Country_Name": "Central African Republic",
-  "Formerly": "Ubangi-Shari",
+  "FullName": "Central African Republic",
+  "FormerName": "Ubangi-Shari",
   "Local_Names": {
     "Sango": "Ködörösêse tî Bêafrîka",
     "French": "République centrafricaine"
@@ -72,4 +72,5 @@
   },
   "Natural_Resources": ["Mineral deposits", "Uranium", "Crude oil", "Gold", "Diamonds", "Cobalt", "Lumber", "Hydropower", "Arable land"],
   "International_Affiliations": ["United Nations", "African Union", "Economic Community of Central African States", "Organisation internationale de la Francophonie", "Non-Aligned Movement"]
+}
 }
