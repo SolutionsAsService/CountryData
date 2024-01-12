@@ -1,0 +1,97 @@
+{
+  "NewZealand": {
+    "officialName": "New Zealand",
+    "MaoriName": "Aotearoa",
+    "geography": {
+      "location": "Southwestern Pacific Ocean",
+      "mainLandmasses": ["North Island (Te Ika-a-Māui)", "South Island (Te Waipounamu)"],
+      "smallerIslandsCount": 700,
+      "proximity": {
+        "eastOf": "Australia",
+        "southOf": ["New Caledonia", "Fiji", "Tonga"]
+      },
+      "topography": "Varied, including Southern Alps",
+      "totalArea": 268,021
+    },
+    "demographics": {
+      "population2024": 5269938,
+      "ethnicGroups": {
+        "European": 70.2,
+        "Maori": 16.5,
+        "Asian": 15.1,
+        "PacificPeoples": 8.1,
+        "MELAAfrican": 1.5,
+        "Other": 1.2
+      },
+      "religions": {
+        "noReligion": 48.2,
+        "Christianity": 36.5,
+        "Hinduism": 2.7,
+        "Islam": 1.3,
+        "Buddhism": 1.1,
+        "MaoriReligions": 1.3,
+        "Other": 1.9,
+        "Unanswered": 6.7
+      }
+    },
+    "government": {
+      "type": "Unitary parliamentary constitutional monarchy",
+      "monarch": "Charles III",
+      "governorGeneral": "Cindy Kiro",
+      "primeMinister": "Christopher Luxon",
+      "legislature": "Parliament (House of Representatives)",
+      "independenceStages": {
+        "TreatyOfWaitangi": "1840-02-06",
+        "ResponsibleGovernment": "1856-05-07",
+        "Dominion": "1907-09-26",
+        "StatuteOfWestminsterAdopted": "1947-11-25",
+        "ConstitutionAct": "1987-01-01"
+      }
+    },
+    "economy": {
+      "GDP_PPP_2023": {
+        "total": 279183000000,
+        "perCapita": 53809
+      },
+      "GDP_Nominal_2023": {
+        "total": 249415000000,
+        "perCapita": 48071
+      },
+      "GiniIndex": {
+        "year2022": 30.0
+      },
+      "HDI": {
+        "year2021": 0.937
+      },
+      "currency": "New Zealand dollar (NZD)"
+    },
+    "culture": {
+      "primaryInfluences": ["Maori", "British settlers"],
+      "officialLanguages": ["English", "Maori", "NZ Sign Language"],
+      "uniqueTraits": {
+        "firstToIntroduceMinimumWage": true,
+        "firstToGiveWomenRightToVote": true
+      }
+    },
+    "miscellaneous": {
+      "capital": "Wellington",
+      "largestCity": "Auckland",
+      "timeZone": ["UTC+12 (NZST)", "UTC+13 (NZDT)"],
+      "driveSide": "left",
+      "callingCode": "+64",
+      "ISO3166Code": "NZ",
+      "internetTLD": ".nz"
+    },
+    "internationalRelations": {
+      "memberOf": ["United Nations", "Commonwealth of Nations", "ANZUS", "UKUSA", "OECD", "ASEAN Plus Six", "Asia-Pacific Economic Cooperation", "Pacific Community", "Pacific Islands Forum"],
+      "closeRelations": ["United States", "United Kingdom", "Australia"]
+    },
+    "significantEvents2024": [
+      {"event": "Hokitika Wildfoods Festival", "date": "2024-03-09"},
+      {"event": "World of Music, Arts and Dance", "location": "New Plymouth", "date": "2024-03-15"},
+      {"event": "King's Birthday Honours Announced", "date": "2024-06-03"},
+      {"event": "Tauranga City Council Elections", "date": "2024-07"},
+      {"event": "Royal Visit by King Charles III and Queen Camilla", "date": "2024-10"}
+    ],
+    "publicHolidays2024": [
+      "New Year's Day", "Day after New Year's Day", "Waitangi Day", "Good Friday",
