@@ -1,10 +1,12 @@
 {
+  "Central African Republic": {
   "Country_Name": "Central African Republic",
   "Formerly": "Ubangi-Shari",
   "Local_Names": {
     "Sango": "Ködörösêse tî Bêafrîka",
     "French": "République centrafricaine"
   },
+  "Abbreviation": "CAR",
   "ISO_Code": "CF",
   "Capital": "Bangui",
   "Coordinates": "4°22′N 18°35′E",
