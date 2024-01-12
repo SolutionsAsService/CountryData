@@ -13,7 +13,7 @@
       "borders": {
          "Peninsular Malaysia":{ 
            "landmaritime": "Thailand", 
-            "maritime": ["Singapore", "Vietnam", "Indonesia"], },
+            "maritime": ["Singapore", "Vietnam", "Indonesia"] },
           "East Malaysia":{
             "landmaritime": [ "Brunei", "Indonesia"],
             "maritime": ["Philippines", "Vietnam"]
