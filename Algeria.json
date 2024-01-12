@@ -1,6 +1,7 @@
 {
-  "Country": "Algeria",
-  "Official_Name": "People's Democratic Republic of Algeria",
+  "Algeria":{
+  "Name": "Algeria",
+  "FullName": "People's Democratic Republic of Algeria",
   "Native_Names": {
     "Arabic": "الجمهورية الجزائرية الديمقراطية الشعبية",
     "French": "République algérienne démocratique et populaire"
@@ -78,4 +79,5 @@
   "References": [
     "Wikipedia": "https://en.wikipedia.org/wiki/Algeria"
   ]
+}
 }
