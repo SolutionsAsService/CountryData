@@ -1,6 +1,12 @@
 {
-  "Country": "Nepal",
-  "OfficialName": "Federal Democratic Republic of Nepal",
+  "Nepal":{
+  "Name": "Nepal",
+  "FullName": "Federal Democratic Republic of Nepal",
+  "NepaliName": "सङ्घीय लोकतान्त्रिक गणतन्त्र नेपाल",
+
+"Motto": "जननी जन्मभूमिश्च स्वर्गादपि गरीयसी (Sanskrit)",
+"MottoRomanized": "Janani Janmabhumishcha Swargadapi Gariyasi",
+"MottoLit.": "Mother and Motherland are Greater Than Heaven",
   "Geography": {
     "Region": "South Asia",
     "Terrain": "Himalayas, Indo-Gangetic Plain",
