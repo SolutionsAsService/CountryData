@@ -1,8 +1,8 @@
 {
   "Belize":{
-  "country": "Belize",
+  "Name": "Belize",
   "pronunciation": "[bɪˈliːz, bɛ-]",
-  "local_name": "Bileez (Belize Kriol English)",
+  "CreoleName": "Bileez",
   "geography": {
     "continent": "Central America",
     "coast": "North-eastern",
