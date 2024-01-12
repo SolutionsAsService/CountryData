@@ -1,0 +1,78 @@
+{
+  "Honduras": {
+    "FullName": "Republic of Honduras",
+    "Local_Name": "República de Honduras",
+    "Capital": "Tegucigalpa",
+    "Coordinates": "14°6′N 87°13′W",
+    "Area": {
+      "Total_km2": "112,492",
+      "Rank": 101
+    },
+    "Population": {
+      "Estimate_2023": "9,744,000",
+      "Density_per_km2": "85",
+      "Rank": 95
+    },
+    "Languages": {
+      "Official": "Spanish",
+      "Ethnic_Groups_2016": {
+        "Mestizo": "90%",
+        "Indigenous": "7%",
+        "Black": "2%",
+        "White": "1%"
+      }
+    },
+    "Religion_2020": {
+      "Christianity": "75.7%",
+      "Catholicism": "38.1%",
+      "Protestantism": "37.6%",
+      "No_Religion": "16.2%",
+      "Other": "8.1%"
+    },
+    "Government": {
+      "Type": "Unitary presidential republic",
+      "President": "Xiomara Castro",
+      "Vice_Presidents": ["Salvador Nasralla", "Doris Gutiérrez", "Renato Florentino"],
+      "Legislature": "National Congress"
+    },
+    "Independence": {
+      "From_Spain": "15 September 1821",
+      "From_First_Mexican_Empire": "1 July 1823",
+      "As_Honduras": "5 November 1838"
+    },
+    "Economy": {
+      "GDP_PPP_2023_Estimate": {
+        "Total": "$75.030 billion",
+        "Per_Capita": "$7,162"
+      },
+      "GDP_Nominal_2023_Estimate": {
+        "Total": "$33.992 billion",
+        "Per_Capita": "$3,245"
+      }
+    },
+    "Healthcare": {
+      "Life_Expectancy_2023": "71.9 years",
+      "Infant_Mortality_Rate_2023": "15.4 deaths/1,000 live births",
+      "Health_Expenditure_of_GDP_2020": "9%"
+    },
+    "Education": {
+      "Expenditures_of_GDP_2020": "6.4%",
+      "Literacy_Rate_2019": "88.5%"
+    },
+    "Geography": {
+      "Topographical_Regions": ["Interior plateau of hills and mountains", "Caribbean lowlands", "Pacific lowlands"],
+      "Highest_Point": "Cerro Las Minas, 2,870 m (9,420 ft)"
+    },
+    "International_Relations": {
+      "Climate": "Subtropical in lowlands, temperate in mountains",
+      "Major_Environmental_Issues": ["Deforestation", "Soil erosion", "Pollution of water sources"],
+      "International_Agreements": ["Biodiversity", "Climate Change", "Paris Agreement"]
+    },
+    "Miscellaneous": {
+      "Currency": "Lempira (HNL)",
+      "Time_Zone": "UTC−6",
+      "Internet_TLD": ".hn",
+      "ISO_3166_Code": "HN"
+    }
+  }
+}
