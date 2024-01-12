@@ -1,6 +1,9 @@
 {
   "Vietnam": {
     "officialName": "Socialist Republic of Vietnam",
+    "VietnameseName": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+    "KnownAs": "Việt Nam",
+    "Abbreviation": "SRV",
     "flag": "Red with a gold star",
     "emblem": "Rice sheaves, gear, and red star",
     "motto": "Độc lập – Tự do – Hạnh phúc ('Independence – Freedom – Happiness')",
