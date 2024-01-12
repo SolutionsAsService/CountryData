@@ -1,4 +1,5 @@
 {
+  "Belize":{
   "country": "Belize",
   "pronunciation": "[bɪˈliːz, bɛ-]",
   "local_name": "Bileez (Belize Kriol English)",
@@ -84,4 +85,40 @@
   },
   "visa_information": {
     "visa_free_countries": ["EU", "Switzerland", "Iceland", "Norway", "USA", "British Commonwealth nations", "CARICOM countries", "Chile", "Costa Rica", "Guatemala", "Mexico", "South Africa", "Tunisia", "Uruguay"],
-    "visa_required_for": ["Bangladesh", "Cameroon", "Chad", "Ghana", "India", "Malawi", "Mozambique", "Namibia", "Nauru", "Nigeria", "Pakistan", "Seychelles", "Si
+      "visa_required_for": ["Bangladesh", "Cameroon", "Chad", "Ghana", "India", "Malawi", "Mozambique", "Namibia", "Nauru", "Nigeria", "Pakistan", "Seychelles", "Sierra Leone"],
+    "visa_extension": "Renewable every 30 days up to a year",
+    "permanent_residency": "After one year",
+    "entry_exit_fees": {
+      "exit_tax": "$20 to $57.50",
+      "varies_by": ["air travel", "land/maritime border"]
+    }
+  },
+  "tourism": {
+    "peak_season": "mid-November to April",
+    "dry_season": "late November to early April",
+    "rainy_season": "June to early November",
+    "activities": ["Eco-Tourism", "Archaeological Tours", "Wellness", "Nature Adventures", "Cultural Immersion", "Aquatic Adventures", "Culinary Experiences"]
+  },
+  "development": {
+    "growth": "Rapid development of international hotels and resorts",
+    "increasing_air_travel": "More flights and airlines",
+    "second_international_airport": "In development on Ambergris Caye",
+    "sustainability": "Host of World Sustainable Travel and Hospitality Awards in 2024"
+  },
+  "expatriate_and_retiree_appeal": {
+    "official_language": "English",
+    "diverse_friendly_population": true,
+    "stable_government": "Based on British parliamentary system",
+    "residency_and_tax_benefits": {
+      "Qualified_Retired_Persons": "Tax-free life in Belize",
+      "exemption": "All taxes on income and receipts outside Belize"
+    },
+    "attractions": ["Diverse ecosystem", "Beaches", "Scuba-diving spots", "Mayan ruins"]
+  },
+  "economy_and_currency": {
+    "stability": "Low unemployment rate",
+    "currency_pegged_to_USD": "2:1"
+  },
+  "emergency_preparedness": "Climate Resilient Infrastructure project for future emergencies"
+}
+}
