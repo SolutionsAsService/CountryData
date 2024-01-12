@@ -1,0 +1,85 @@
+{
+  "Vietnam": {
+    "officialName": "Socialist Republic of Vietnam",
+    "flag": "Red with a gold star",
+    "emblem": "Rice sheaves, gear, and red star",
+    "motto": "Độc lập – Tự do – Hạnh phúc ('Independence – Freedom – Happiness')",
+    "anthem": "Tiến Quân Ca ('Army March')",
+    "geography": {
+      "area": 331700,
+      "location": "Eastern edge of mainland Southeast Asia",
+      "borders": {
+        "land": ["China", "Laos", "Cambodia"],
+        "maritime": ["Thailand", "Philippines", "Indonesia", "Malaysia"]
+      }
+    },
+    "capital": "Hanoi",
+    "largestCity": "Ho Chi Minh City",
+    "officialLanguage": "Vietnamese",
+    "ethnicGroups": {
+      "KinhVietnamese": 85.32,
+      "Other": 14.68
+    },
+    "religion": {
+      "NoReligionFolk": 73.7,
+      "Buddhism": 14.9,
+      "Christianity": 8.5,
+      "Hoahaoism": 1.5,
+      "Caodaism": 1.2
+    },
+    "government": {
+      "type": "Socialist republic",
+      "generalSecretary": "Nguyễn Phú Trọng",
+      "president": "Võ Văn Thưởng",
+      "primeMinister": "Phạm Minh Chính",
+      "nationalAssemblyChairman": "Vương Đình Huệ"
+    },
+    "historicalTimeline": {
+      "IndependenceFromChina": 939,
+      "FirstKingdom": 968,
+      "RegainingIndependence": 1428,
+      "NguyễnUnification": 1802,
+      "ProtectorateTreaty": "25 August 1883",
+      "DeclarationOfIndependence": "2 September 1945",
+      "NorthSouthDivision": "21 July 1954",
+      "EndOfVietnamWar": "30 April 1975",
+      "Reunification": "2 July 1976",
+      "ĐổiMới": "18 December 1986",
+      "CurrentConstitution": "28 November 2013"
+    },
+    "population": {
+      "2023Estimate": 100000000,
+      "2019Census": 96208984,
+      "density": 295.0
+    },
+    "economy": {
+      "GDP_PPP_2023Estimate": {
+        "total": 1434000000000,
+        "perCapita": 14285
+      },
+      "GDP_Nominal_2023Estimate": {
+        "total": 433356000000,
+        "perCapita": 4316
+      },
+      "GiniIndex": 35.7,
+      "HDI": 0.703
+    },
+    "currency": "Vietnamese đồng (VND)",
+    "timeZone": "UTC+07:00",
+    "drivingSide": "right",
+    "callingCode": "+84",
+    "isoCode": "VN",
+    "internetTLD": ".vn",
+    "socioeconomicStatus": {
+      "lowerMiddleIncome": true,
+      "challenges": ["Corruption", "Censorship", "Environmental issues", "Human rights record"],
+      "civilLibertiesRanking": "Low"
+    },
+    "internationalAffiliations": ["ASEAN", "APEC", "CPTPP", "Non-Aligned Movement", "OIF", "WTO"],
+    "UNSecurityCouncil": "Twice membership",
+    "economicOutlook2024": {
+      "GDPGrowthForecast": 6.0,
+      "InflationAverage": 3.5,
+      "KeySectors": ["Exports", "FDI", "Tech", "Agriculture"],
+      "GlobalEconomicRelations": ["US", "China", "ASEAN countries"]
+    }
