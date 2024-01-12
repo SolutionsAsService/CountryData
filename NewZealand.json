@@ -11,7 +11,7 @@
         "southOf": ["New Caledonia", "Fiji", "Tonga"]
       },
       "topography": "Varied, including Southern Alps",
-      "totalArea": 268,021
+      "totalArea": "268,021"
     },
     "demographics": {
       "population2024": 5269938,
@@ -93,5 +93,79 @@
       {"event": "Tauranga City Council Elections", "date": "2024-07"},
       {"event": "Royal Visit by King Charles III and Queen Camilla", "date": "2024-10"}
     ],
-    "publicHolidays2024": [
-      "New Year's Day", "Day after New Year's Day", "Waitangi Day", "Good Friday",
+    
+  "publicHolidays2024": [
+    "New Year's Day",
+    "Day after New Year's Day",
+    "Waitangi Day",
+    "Good Friday",
+    "Easter Monday",
+    "Anzac Day",
+    "King's Birthday",
+    "Matariki",
+    "Labour Day",
+    "Christmas Day",
+    "Boxing Day"
+  ],
+  "historicalContext": {
+    "initialSettlement": {
+      "period": "1280-1350",
+      "settlers": "Polynesians"
+    },
+    "firstEuropeanContact": {
+      "year": 1642,
+      "explorer": "Abel Tasman"
+    },
+    "TreatyOfWaitangi": {
+      "date": "1840-02-06",
+      "significance": "British sovereignty established"
+    },
+    "colonialStatus": {
+      "yearEstablished": 1841,
+      "conflicts": "Colonial government vs Maori tribes"
+    },
+    "statusChanges": {
+      "Dominion": 1907,
+      "FullStatutoryIndependence": 1947
+    },
+    "populationComposition": {
+      "majority": "European descent",
+      "largestMinority": "Maori",
+      "others": ["Asians", "Pacific Islanders"]
+    }
+  },
+  "geologicalFeatures": {
+    "majorMountainRanges": ["Southern Alps"],
+    "notableGeologicalProcesses": ["Tectonic uplift", "Volcanic eruptions"]
+  },
+  "economicTransformations": {
+    "1980s": "From protectionist to liberalised free-trade economy",
+    "dominantSectors": ["Services", "Industry", "Agriculture"],
+    "tourism": "Significant source of revenue"
+  },
+  "administrativeDivisions": {
+    "regionalCouncils": 11,
+    "territorialAuthorities": 67
+  },
+  "externalTerritories": {
+    "Tokelau": "Dependent territory",
+    "CookIslands": "Self-governing in free association",
+    "Niue": "Self-governing in free association",
+    "RossDependency": "Territorial claim in Antarctica"
+  },
+  "internationalAffiliations": [
+    "United Nations",
+    "Commonwealth of Nations",
+    "ANZUS",
+    "UKUSA",
+    "OECD",
+    "ASEAN Plus Six",
+    "Asia-Pacific Economic Cooperation",
+    "Pacific Community",
+    "Pacific Islands Forum"
+  ],
+  "diplomaticRelations": {
+    "closeRelationsWith": ["United States", "United Kingdom", "Australia"],
+    "sharedIdentity": "Trans-Tasman with Australia"
+  }
+}
