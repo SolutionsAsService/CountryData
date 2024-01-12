@@ -1,5 +1,8 @@
 {
+  "Nicaragua":{
   "Country": "Nicaragua",
+  "FullName": "Republic of Nicaragua",
+   "SpanishName": "República de Nicaragua",
   "Geography": {
     "Location": "Central America",
     "Borders": ["Honduras", "Caribbean", "Costa Rica", "Pacific Ocean"],
