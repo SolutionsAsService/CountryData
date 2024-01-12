@@ -1,0 +1,87 @@
+{
+  "country": "Belize",
+  "pronunciation": "[bɪˈliːz, bɛ-]",
+  "local_name": "Bileez (Belize Kriol English)",
+  "geography": {
+    "continent": "Central America",
+    "coast": "North-eastern",
+    "area_km2": 22970,
+    "mainland_length_km": {"long": 290, "wide": 110},
+    "borders": ["Mexico", "Guatemala"],
+    "water_boundaries": ["Caribbean Sea", "Honduras"]
+  },
+  "demographics": {
+    "population_2022": 441471,
+    "density_per_km2": 17.79,
+    "growth_rate": "1.87% per year (2018 estimate)"
+  },
+  "capital": "Belmopan",
+  "largest_city": "Belize City",
+  "languages": {
+    "official": "English",
+    "vernacular": "Belizean Creole",
+    "minority_languages": ["Spanish", "Mayan", "German", "Garifuna", "Chinese"]
+  },
+  "ethnic_groups_2020": {
+    "Mestizo": "52.9%",
+    "Creole": "25.9%",
+    "Maya": "11.3%",
+    "Garifuna": "6.1%",
+    "Indian": "3.9%",
+    "Mennonite": "3.6%",
+    "White": "1.2%",
+    "Chinese": "1.0%",
+    "Other": "1.5%"
+  },
+  "religion_2020": {
+    "Christianity": "87.6%",
+    "No_religion": "9.7%",
+    "Folk_religions": "1.5%",
+    "Other": "1.2%"
+  },
+  "government": {
+    "type": "Unitary parliamentary constitutional monarchy",
+    "monarch": "Charles III",
+    "governor_general": "Dame Froyla Tzalam",
+    "prime_minister": "Johnny Briceño",
+    "legislature": {
+      "upper_house": "Senate",
+      "lower_house": "House of Representatives"
+    }
+  },
+  "independence": {
+    "from_UK": "21 September 1981",
+    "self_governance": "January 1964"
+  },
+  "economy": {
+    "GDP_PPP_2023_estimate": {
+      "total": "$5.032 billion",
+      "per_capita": "$11,166"
+    },
+    "GDP_nominal_2023_estimate": {
+      "total": "$3.218 billion",
+      "per_capita": "$7,141"
+    },
+    "Gini_2013": "53.1",
+    "HDI_2021": "0.683"
+  },
+  "currency": "Belize dollar (BZD)",
+  "time_zone": "UTC-6",
+  "ISO_3166_code": "BZ",
+  "internet_TLD": ".bz",
+  "history": {
+    "Maya_civilization": "1500 BC to AD 300",
+    "European_contact": "1502-04",
+    "English_settlers": "1638",
+    "Battle_of_St_Georges_Caye": "1798",
+    "British_colony": "1840",
+    "Crown_colony": "1862"
+  },
+  "society": {
+    "characteristics": ["Diverse cultures and languages", "Caribbean influence"],
+    "official_language": "English",
+    "multilingual_population": true
+  },
+  "visa_information": {
+    "visa_free_countries": ["EU", "Switzerland", "Iceland", "Norway", "USA", "British Commonwealth nations", "CARICOM countries", "Chile", "Costa Rica", "Guatemala", "Mexico", "South Africa", "Tunisia", "Uruguay"],
+    "visa_required_for": ["Bangladesh", "Cameroon", "Chad", "Ghana", "India", "Malawi", "Mozambique", "Namibia", "Nauru", "Nigeria", "Pakistan", "Seychelles", "Si
