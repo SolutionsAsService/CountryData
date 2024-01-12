@@ -82,4 +82,37 @@
       "InflationAverage": 3.5,
       "KeySectors": ["Exports", "FDI", "Tech", "Agriculture"],
       "GlobalEconomicRelations": ["US", "China", "ASEAN countries"]
+    },
+
+    "socialAspects": {
+      "culturalHeritage": "Rich in history with influences from Chinese, French colonial, and American involvement",
+      "tourism": "Known for its beaches, rivers, Buddhist pagodas, and bustling cities",
+      "cuisine": "Famous for pho, banh mi, and spring rolls"
+    },
+    "environment": {
+      "geography": "Diverse, from mountains in the north to coastal areas in the south",
+      "climate": "Varies from tropical in the south to monsoonal in the north",
+      "biodiversity": "One of the most biodiverse countries, with several national parks and reserves"
+    },
+    "technologyAndInnovation": {
+      "focusAreas": ["Electronics manufacturing", "Software development", "Telecommunications"],
+      "growthInTechSector": "Significant, with investments from multinational corporations",
+      "digitalTransformation": "Rapid, particularly in government services and banking"
+    },
+    "educationAndHealth": {
+      "educationSystem": "State-operated system of public and private schools",
+      "healthcare": "Universal healthcare system, ongoing improvements in facilities and services"
+    },
+    "internationalRelations": {
+      "regionalRole": "Active member in ASEAN and significant role in regional diplomacy",
+      "globalPartnerships": ["Strategic partnerships with major economies", "Active participation in international forums"]
+    },
+    "challengesAndOpportunities": {
+      "economicChallenges": ["Balancing rapid growth with environmental sustainability", "Reducing dependence on foreign investment"],
+      "socialChallenges": ["Improving human rights record", "Addressing income inequality and rural poverty"],
+      "opportunities": ["Emerging as a regional leader in Southeast Asia", "Expanding tourism and tech industries"]
     }
+  }
+}
+
+    
