@@ -1,0 +1,79 @@
+{
+  "Laos": {
+    "officialName": "Lao People's Democratic Republic",
+    "flagDescription": "Red and blue with a white circle in the center",
+    "emblemDescription": "A circle depicting hydroelectric dam, roads, rice fields, forests, and a gear",
+    "motto": "Peace, Independence, Democracy, Unity and Prosperity",
+    "anthem": "Pheng Xat Lao ('Hymn of the Lao People')",
+    "geography": {
+      "location": "Indochinese Peninsula, Southeast Asia",
+      "area": 236800,
+      "landlocked": true,
+      "borders": ["Myanmar", "China", "Vietnam", "Cambodia", "Thailand"]
+    },
+    "capital": "Vientiane",
+    "officialLanguage": "Lao",
+    "ethnicGroups": {
+      "Lao": 53.2,
+      "Khmu": 11,
+      "Hmong": 9.2,
+      "Phu Thai": 3.4,
+      "Tai": 3.1,
+      "Makong": 2.5,
+      "Katang": 2.2,
+      "Lue": 2.0,
+      "Akha": 1.8,
+      "Others": 11.6
+    },
+    "religion": {
+      "Buddhism": 66.0,
+      "TaiFolkReligion": 30.7,
+      "Christianity": 1.5,
+      "Others_None": 1.8
+    },
+    "government": {
+      "type": "Unitary Marxist-Leninist one-party socialist republic",
+      "president": "Thongloun Sisoulith",
+      "vicePresidents": ["Bounthong Chitmany", "Pany Yathotou"],
+      "primeMinister": "Sonexay Siphandone",
+      "nationalAssemblyPresident": "Saysomphone Phomvihane"
+    },
+    "economy": {
+      "GDP_PPP_2023Estimate": {
+        "total": 74205000000,
+        "perCapita": 9787
+      },
+      "GDP_Nominal_2023Estimate": {
+        "total": 14244000000,
+        "perCapita": 1878
+      },
+      "GiniIndex": 36.4,
+      "HDI": 0.607
+    },
+    "currency": "Kip (LAK)",
+    "timeZone": "UTC+7",
+    "drivingSide": "right",
+    "callingCode": "+856",
+    "isoCode": "LA",
+    "internetTLD": ".la",
+    "historicalContext": {
+      "LanXangKingdom": "13th to 18th century",
+      "FrenchProtectorate": "1893 to 1953",
+      "Independence": "1953",
+      "CommunistRuleEstablished": "1975",
+      "CurrentConstitution": "1991"
+    },
+    "socioeconomicChallenges": {
+      "economicGrowthRate": "4 percent in 2024",
+      "inflationRateReduction": "From 40.30 percent to 24.3 percent",
+      "centralBankGoals": "Reducing inflation to single digits by end of 2024",
+      "ASEANChairmanship": "2024",
+      "tourismDevelopment": "Visit Laos Year 2024 campaign"
+    },
+    "culturalAspects": {
+      "ethnicDiversity": "Multiple ethnic groups with distinct cultures",
+      "touristAttractions": "Natural landscapes, temples, and historical sites",
+      "traditionalCuisine": "Known for its unique flavors and dishes"
+    }
+  }
+}
