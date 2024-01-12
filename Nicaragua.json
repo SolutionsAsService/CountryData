@@ -1,0 +1,75 @@
+{
+  "Country": "Nicaragua",
+  "Geography": {
+    "Location": "Central America",
+    "Borders": ["Honduras", "Caribbean", "Costa Rica", "Pacific Ocean"],
+    "Capital": "Managua",
+    "SignificantFeatures": ["Largest in Central America", "Land of lakes and volcanoes"]
+  },
+  "History": {
+    "PreColonial": "Diverse indigenous cultures",
+    "SpanishConquest": {
+      "InitialDiscovery": "1502 by Christopher Columbus",
+      "Conquest": "1522 by Gil González Dávila",
+      "Colonization": {
+        "PermanentSettlements": "1524",
+        "MajorCities": ["Granada", "León"]
+      }
+    },
+    "Independence": {
+      "FromSpain": "1821",
+      "MosquitoCoast": {
+        "ColonizedBy": "England",
+        "AutonomousTerritory": "1860"
+      }
+    },
+    "ModernEra": {
+      "PoliticalUnrest": ["Nicaraguan Revolution", "Contra War"],
+      "CulturalDiversity": ["Folklore", "Cuisine", "Music", "Literature"]
+    }
+  },
+  "Demographics": {
+    "Population": "6,804,000 (2023 est.)",
+    "EthnicGroups": {
+      "Mestizo": "69%",
+      "White": "17%",
+      "Black": "9%",
+      "Indigenous": "5%"
+    },
+    "Languages": ["Spanish", "Indigenous Languages", "English"],
+    "Religion": {
+      "Christianity": "84.4%",
+      "NoReligion": "14.7%",
+      "Other": "0.9%"
+    }
+  },
+  "Government": {
+    "Type": "Unitary presidential republic",
+    "CurrentLeaders": {
+      "President": "Daniel Ortega",
+      "VicePresident": "Rosario Murillo"
+    },
+    "Legislature": "National Assembly"
+  },
+  "Economy": {
+    "MainSectors": ["Light manufacturing", "Services", "Agriculture"],
+    "GDP": {
+      "PPP": "$51.022 billion (2023)",
+      "Nominal": "$17.353 billion (2023)"
+    },
+    "Currency": "Córdoba (NIO)"
+  },
+  "Education": {
+    "System": ["Free and compulsory elementary education", "Higher education variety"],
+    "LiteracyCampaigns": ["1980 campaign reduced illiteracy significantly"]
+  },
+  "Culture": {
+    "Influences": ["Indigenous", "Spanish"],
+    "Music": ["Marimba", "Dance music on Caribbean coast"],
+    "Festivals": ["La Purísima", "Palo de Mayo"]
+  },
+  "InternationalRelations": {
+    "UN_FoundingMember": true,
+    "Membership": ["Non-Aligned Movement", "Bolivarian Alliance", "Community of Latin American and Caribbean States"]
+  }
+}
