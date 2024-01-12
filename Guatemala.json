@@ -1,0 +1,96 @@
+{
+  "country": "Guatemala",
+  "official_name": "Republic of Guatemala",
+  "pronunciation": "[ˌɡwɑːtəˈmɑːlə] GWAH-tə-MAH-lə",
+  "flag_description": "Flag of Guatemala",
+  "coat_of_arms_description": "Coat of arms of Guatemala",
+  "motto": "Libre Crezca Fecundo (Grow Free and Fertile)",
+  "anthem": {
+    "title": "Himno Nacional de Guatemala (National Anthem of Guatemala)",
+    "duration": "1 minute and 38 seconds"
+  },
+  "march": {
+    "title": "La Granadera (The Song of the Grenadier)",
+    "duration": "1 minute and 46 seconds"
+  },
+  "location": "Central America",
+  "borders": ["Mexico", "Belize", "Honduras", "El Salvador"],
+  "maritime_borders": ["Pacific Ocean", "Gulf of Honduras"],
+  "capital_and_largest_city": "Guatemala City (Nueva Guatemala de la Asunción)",
+  "official_language": "Spanish",
+  "ethnic_groups_2018": {
+    "Ladino_Mestizo": "56.01%",
+    "Maya": "41.66%",
+    "Xinca": "1.77%",
+    "Afro-Guatemalan": "0.19%",
+    "Garifuna": "0.13%",
+    "Other": "0.24%"
+  },
+  "religion_2017": {
+    "Christianity": "88%",
+    "Roman_Catholic": "45%",
+    "Protestant": "42%",
+    "Other_Christian": "1%",
+    "No_Religion": "11%",
+    "Other": "1%"
+  },
+  "government": {
+    "type": "Unitary presidential republic",
+    "president": "Alejandro Giammattei",
+    "vice_president": "Guillermo Castillo",
+    "president_of_congress": "Shirley Rivera"
+  },
+  "legislature": "Congress of the Republic",
+  "independence": {
+    "from_Spanish_Empire": "15 September 1821",
+    "from_First_Mexican_Empire": "1 July 1823",
+    "from_Federal_Republic_of_Central_America": "17 April 1839",
+    "current_constitution": "31 May 1985"
+  },
+  "area_km2": 108889,
+  "population_2023_estimate": 17980803,
+  "density_per_km2": 129,
+  "GDP_PPP_2023_estimate": {
+    "total": "$201.365 billion",
+    "per_capita": "$10,595"
+  },
+  "GDP_nominal_2023_estimate": {
+    "total": "$102.765 billion",
+    "per_capita": "$5,407"
+  },
+  "Gini_2014": "48.3",
+  "HDI_2021": "0.627",
+  "currency": "Quetzal (GTQ)",
+  "time_zone": "UTC−6",
+  "driving_side": "right",
+  "calling_code": "+502",
+  "ISO_3166_code": "GT",
+  "internet_TLD": ".gt",
+  "historical_background": {
+    "Maya_civilization": "16th century",
+    "Spanish_conquest": "16th century",
+    "independence": "1821",
+    "civil_war": "1960 to 1996",
+    "peace_accord": "Negotiated by United Nations"
+  },
+  "current_challenges": {
+    "corruption": "Significant issue",
+    "judicial_independence": "Compromised",
+    "freedom_of_expression": "Hostile environment for journalists",
+    "human_rights": "Increased abuses against defenders",
+    "women_and_girls_rights": "High levels of gender-based violence",
+    "sexual_orientation_and_gender_identity": "Lack of protection for LGBT people"
+  },
+  "urban_population": {
+    "Guatemala_City": "2.45 million",
+    "Villa_Nueva": "1.5 million",
+    "Mixco": "690,000",
+    "San_Miguel_Petapa": "180,000"
+  },
+  "population_growth": {
+    "2024_forecast": 18358430,
+    "2025_forecast": 18636532
+  },
+  "demographics": {
+    "life_expectancy": "70.15 years",
+    "infant_mortality
