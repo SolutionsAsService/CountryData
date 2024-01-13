@@ -1,7 +1,8 @@
 {
   "North Macedonia": {
-  "country_name": "Republic of North Macedonia",
-  "alternate_names": ["Macedonia", "Makedonija", "Republika Makedonija", "The Former Yugoslav Republic of Macedonia"],
+  "FullName": "Republic of North Macedonia",
+  "FormerName": "The Former Yugoslav Republic of Macedonia",
+  "alternate_names": ["Macedonia", "Makedonija", "Republika Makedonija"],
   "location": {
     "continent": "Europe",
     "coordinates": "42°0′N 21°26′E",
