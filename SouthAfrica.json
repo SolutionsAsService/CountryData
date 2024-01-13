@@ -1,0 +1,143 @@
+{
+  "country_name": "Republic of South Africa",
+  "alternate_names": [
+    "Union of South Africa"
+  ],
+  "location": {
+    "continent": "Africa",
+    "coordinates": "29°00′S 24°00′E",
+    "borders": [
+      {"Namibia": "north"},
+      {"Botswana": "north"},
+      {"Zimbabwe": "north"},
+      {"Mozambique": "east"},
+      {"Eswatini": "east"},
+      {"Lesotho": "enclave"}
+    ],
+    "coastline": "2,798 kilometers"
+  },
+  "capitals": {
+    "executive": "Pretoria",
+    "legislative": "Cape Town",
+    "judicial": "Bloemfontein"
+  },
+  "largest_city": "Johannesburg",
+  "official_languages": [
+    "Afrikaans", "English", "Ndebele", "Sepedi", "Sesotho", "Setswana", "South African Sign Language", "Swazi", "Tshivenda", "Xhosa", "Xitsonga", "Zulu"
+  ],
+  "ethnic_groups": {
+    "2022_statistics": {
+      "Black": "81.4%",
+      "Coloured": "8.2%",
+      "White": "7.3%",
+      "Asian": "2.7%"
+    }
+  },
+  "religion": {
+    "2016_statistics": {
+      "Christianity": "78.0%",
+      "Protestantism": "58.3%",
+      "Other_Christian": "19.7%",
+      "No_Religion": "10.9%",
+      "Traditional_Faiths": "4.4%",
+      "Islam": "1.7%",
+      "Hinduism": "1.0%",
+      "Other": "2.7%",
+      "Undetermined": "1.4%"
+    }
+  },
+  "government": {
+    "type": "Unitary parliamentary republic with an executive presidency",
+    "president": "Cyril Ramaphosa",
+    "deputy_president": "Paul Mashatile",
+    "chairperson_national_council": "Amos Masondo",
+    "speaker_national_assembly": "Nosiviwe Mapisa-Nqakula",
+    "chief_justice": "Raymond Zondo"
+  },
+  "legislature": {
+    "upper_house": "National Council",
+    "lower_house": "National Assembly"
+  },
+  "independence": {
+    "from_United_Kingdom": {
+      "union": "31 May 1910",
+      "statute_of_westminster": "11 December 1931",
+      "republic": "31 May 1961",
+      "democratisation": "27 April 1994"
+    }
+  },
+  "area": {
+    "total": "1,221,037 km²",
+    "rank": "24th"
+  },
+  "population": {
+    "2022_census": "62,027,503",
+    "rank": "23rd",
+    "density": "50.8/km²"
+  },
+  "economy": {
+    "classification": "Middle income country",
+    "natural_resources": "Abundant",
+    "stock_exchange": "Top twenty globally",
+    "challenges": {
+      "electricity_supply_shortages": {
+        "start_year": 2007,
+        "daily_duration": "up to 9 hours",
+        "impacts": ["economic activity", "operating costs"]
+      },
+      "structural_growth_weakness": true,
+      "COVID-19_impact": true,
+      "unemployment_rate": "Not fully recovered since pandemic",
+      "inequality": "Among highest globally",
+      "poverty_rate": "Estimated 63% in 2022"
+    },
+    "GDP_growth": {
+      "2022": "2%",
+      "2021": "4.9%"
+    },
+    "key_sectors": ["services", "mining", "manufacturing"],
+    "agriculture": {
+      "status": "Net exporter",
+      "focus": ["Wine production", "subsistence farming"],
+      "reforms": ["land reform", "market deregulation"]
+    }
+  },
+  "demographics": {
+    "diversity": "Multiethnic society",
+    "major_ethnic_groups": ["Basotho", "Xhosa", "Zulu", "Bapedi", "Venda", "Tsonga", "Tswana", "Swazi", "Ndebele"],
+    "white_population_origin": ["Dutch", "Portuguese", "Flemish", "Norwegian", "German", "Greek", "English", "French Huguenot", "Polish", "Italian", "Irish", "Welsh", "Scottish"],
+    "language_divisions": {
+      "Afrikaans_speakers": "Mostly Coloured and White South Africans",
+      "English_speakers": "Common in public and commercial life"
+    }
+  },
+  "geography": {
+    "coastline_length": "2,500 km",
+    "highest_peak": "Njesuthi, 3,408 meters",
+    "climate_zones": {
+      "deserts": "Northwest",
+      "subtropical": "East",
+      "Mediterranean-like": "Southwest"
+    },
+    "landscapes": {
+      "Highveld_plateau": "Central",
+      "Bushveld": "North of Johannesburg",
+      "Lowveld": "Towards Indian Ocean"
+    },
+    "Drakensberg_Mountains": {
+      "skiing_opportunities": "Limited",
+      "Prince_Edward_Islands": "Only possession"
+    }
+  },
+  "flora_fauna": {
+    "plant_diversity": "Over 20,000 different plants",
+    "dominant_biome": "Grassland",
+    "fynbos_biome": {
+      "location": "Western Cape",
+      "floral_diversity": "One of the richest"
+    },
+    "forested_area": "Only 1%",
+    "wildlife": ["lions", "leopards", "kudus", "blue wildebeest", "white rhinos", "impalas", "hyenas", "hippopotamus", "giraffes"],
+    "conservation_areas": ["Kruger National Park", "Mala Mala Reserve"]
+  }
+}
