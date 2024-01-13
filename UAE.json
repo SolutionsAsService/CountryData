@@ -1,0 +1,81 @@
+{
+  "UAE": {
+    "CommonName": "Emirates",
+    "Name": "United Arab Emirates",
+    "Local_Name": "Al-Imārāt al-ʿArabiyyah al-Muttaḥidah",
+    "Geography": {
+      "Location": "Eastern end of the Arabian Peninsula",
+      "Area": "83,600 sq km",
+      "Climate": "Desert; cooler in eastern mountains",
+      "Elevation_Extremes": {
+        "Lowest_Point": "Sea level",
+        "Highest_Point": "Jebel Jais, 1,934 metres"
+      },
+      "Coastline": "Extended due to land reclamation projects"
+    },
+    "Demographics": {
+      "Population": "9,282,410 (2020 estimate)",
+      "Ethnic_Groups": {
+        "South_Asian": "59.4%",
+        "Emirati_Arab": "11.6%",
+        "Egyptian": "10.2%",
+        "Filipino": "6.1%",
+        "Other": "12.8%"
+      },
+      "Religions": {
+        "Islam": "76%",
+        "Christianity": "9%",
+        "Hinduism": "6%",
+        "Others": "8%"
+      },
+      "Languages": {
+        "Official": "Arabic",
+        "Common": ["Gulf Arabic", "English"]
+      },
+      "Literacy_Rate": {
+        "Overall": "97.6%",
+        "Male": "98%",
+        "Female": "96.9%"
+      },
+      "Life_Expectancy": "79.37 years (2021 estimate)"
+    },
+    "Economy": {
+      "GDP_PPP_2023_Estimate": "$895.166 billion",
+      "Per_Capita_PPP": "$88,961",
+      "GDP_Nominal_2023_Estimate": "$509.179 billion",
+      "Per_Capita_Nominal": "$50,602",
+      "Non-Oil_Foreign_Trade_2021": "AED 1.9 trillion",
+      "Main_Industries": ["Oil and Natural Gas", "Tourism", "Business"]
+    },
+    "Government": {
+      "Type": "Federal Islamic semi-constitutional monarchy",
+      "President": "Mohamed bin Zayed Al Nahyan",
+      "Prime_Minister": "Mohammed bin Rashid Al Maktoum",
+      "Legislature": "Federal Supreme Council",
+      "Independence_Date": "2 December 1971"
+    },
+    "Culture_and_S
+"Culture_and_Society": {
+"Heritage": "Rich blend of traditional Arabic culture and modernity",
+"National_Symbol": "Falcon, with falconry being a major tradition",
+"Man-Made_Islands": ["Palm Jumeirah", "Yas Island"],
+"Tallest_Building": "Burj Khalifa, 828m tall",
+"Innovations": ["World's first 3D-printed commercial building", "Robotic police force initiative"]
+},
+"Health": {
+"Health_Expenditure": "4.2% of GDP (2018)",
+"Physicians_Density": "2.53 physicians/1,000 population (2018)",
+"Hospital_Bed_Density": "1.4 beds/1,000 population (2017)"
+},
+"Environmental_Issues": {
+"Current_Issues": ["Air pollution", "Water scarcity", "Desertification", "Waste generation"],
+"International_Agreements": ["Biodiversity", "Climate Change", "Ozone Layer Protection"]
+},
+"Miscellaneous": {
+"Time_Zone": "UTC+04:00",
+"Driving_Side": "Right",
+"ISO_Code": "AE",
+"Internet_TLD": ".ae"
+}
+}
+}
