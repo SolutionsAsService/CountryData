@@ -1,6 +1,6 @@
 {
   "Indonesia": {
-    "officialName": "Republic of Indonesia",
+    "FullName": "Republic of Indonesia",
     "localName": "Republik Indonesia",
     "flag": "Red and white horizontal bands",
     "nationalEmblem": "Garuda Pancasila",
@@ -9,6 +9,7 @@
     "nationalIdeology": "Pancasila",
     "geography": {
       "location": "Southeast Asia and Oceania",
+      "Type": "Archipelagic state",
       "islandsCount": 17000,
       "majorIslands": ["Sumatra", "Java", "Sulawesi", "Borneo", "New Guinea"],
       "area": 1904569,
@@ -43,6 +44,7 @@
     "independence": {
       "proclaimed": "1945-08-17",
       "recognised": "1949-12-27",
+      "From": ["Nederlands", "Japanese occupation"],
       "constitutionalAmendments": "1999-10-14 to 2002-08-01"
     },
     "demographics": {
