@@ -1,0 +1,97 @@
+{
+  "Bangladesh":{
+  "FullName": "People's Republic of Bangladesh",
+  "bengali_name": "গণপ্রজাতন্ত্রী বাংলাদেশ",
+  "flag": "National Flag of Bangladesh",
+  "emblem": "National Emblem of Bangladesh",
+  "anthem": {
+    "title": "Amar Shonar Bangla",
+    "english_translation": "My Golden Bengal",
+    "duration": "2 minutes and 15 seconds"
+  },
+  "march": {
+    "title": "Notuner Gaan",
+    "english_translation": "The Song of Youth"
+  },
+  "slogan": {
+    "bengali": "জয় বাংলা",
+    "english": "Victory to Bengal"
+  },
+  "seal": "Official Seal of the Government of Bangladesh",
+  "capital": "Dhaka",
+  "coordinates": {
+    "latitude": "23°45′50″N",
+    "longitude": "90°23′20″E"
+  },
+  "official_language": "Bengali",
+  "minority_languages": [
+    "Atong", "Bawm", "Bishnupriya Manipuri", "Chakma", "Garo", "Hajong", "Hakha-Chin", 
+    "Kharia", "Khasi", "Khumi", "Koch", "Koda", "Kokborok", "Kol", "Kurukh", 
+    "Lyngngam", "Manipuri", "Marma", "Megam", "Mizo", "Mru", "Mundari", "Odia", 
+    "Oraon Sadri", "Pangkhua", "Pnar", "Rakhine", "Riang", "Rohingya", "Santali", 
+    "Sauria Paharia", "Tangchangya", "Telugu", "Tippera", "Urdu", "Usoi", "War"
+  ],
+  "ethnic_groups": {
+    "2022": {
+      "bengali": "98.2-99%",
+      "others": "1-1.8%"
+    }
+  },
+  "religion": {
+    "2022_census": {
+      "islam": "91.04%",
+      "hinduism": "7.95%",
+      "buddhism": "0.61%",
+      "christianity": "0.30%",
+      "other": "0.12%"
+    }
+  },
+  "demonym": "Bangladeshi",
+  "government_type": "Unitary parliamentary republic",
+  "leaders": {
+    "president": "Mohammed Shahabuddin",
+    "prime_minister": "Sheikh Hasina",
+    "speaker_of_parliament": "Shirin Sharmin Chaudhury",
+    "chief_justice": "Obaidul Hassan"
+  },
+  "legislature": "Jatiya Sangsad",
+  "independence": {
+    "declaration": "26 March 1971",
+    "victory": "16 December 1971",
+    "current_constitution": "16 December 1972"
+  },
+  "geography": {
+    "total_area_km2": 148460,
+    "land_area_km2": 130170,
+    "water_area_km2": 18290,
+    "water_percentage": 6.4,
+    "population": {
+      "2024_census": 170000000,
+      "density_per_km2": 1165
+    }
+  },
+  "economy": {
+    "gdp_ppp": {
+      "2023_estimate": {
+        "total": "$1.617 trillion",
+        "per_capita": "$9,399"
+      }
+    },
+    "gdp_nominal": {
+      "2023_estimate": {
+        "total": "$469.346 billion",
+        "per_capita": "$2,728"
+      }
+    },
+    "gini_index": {
+      "2022": 49.9
+    },
+    "hdi": {
+      "2021": 0.661
+    }
+  },
+  "currency": "Taka (৳) (BDT)",
+  "time_zone": "UTC+6",
+  "driving_side": "left",
+  "calling_code": "+880",
+  "iso_3166_code": "BD",
