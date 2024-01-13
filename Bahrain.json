@@ -1,0 +1,68 @@
+{
+  "Bahrain": {
+    "Name": "Kingdom of Bahrain",
+    "Local_Name": "Mamlakat al-Baḥrayn",
+    "ArabicName": "مملكة البحرين",
+    "Geography": {
+      "Location": "Persian Gulf",
+      "Area": "786.5 sq km",
+      "Climate": "Arid; mild winters, very hot summers",
+      "Islands": "50 natural, 33 artificial",
+      "Notable_Bridge": "King Fahd Causeway"
+    },
+    "Demographics": {
+      "Population": "1,501,635 (2023 est.)",
+      "Ethnic_Groups": {
+        "Arabs": "53.2%",
+        "Asians": "43.4%",
+        "Others": "3.4%"
+      },
+      "Religions": {
+        "Islam": "80.6%",
+        "Christianity": "12.1%",
+        "Hinduism": "6.4%"
+      },
+      "Languages": {
+        "Official": "Arabic",
+        "Common": ["English"]
+      },
+      "Literacy_Rate": {
+        "Total": "97.5%",
+        "Male": "99.9%",
+        "Female": "94.9%"
+      }
+    },
+    "Economy": {
+      "GDP_PPP_2023_Estimate": "$95.973 billion",
+      "Per_Capita_PPP": "$60,715",
+      "GDP_Nominal_2023_Estimate": "$44.994 billion",
+      "Per_Capita_Nominal": "$28,464",
+      "Primary_Exports": ["Crude oil", "Petroleum products"],
+      "Oil_Production": "40,000 barrels/day"
+    },
+    "Government": {
+      "Type": "Unitary Islamic parliamentary semi-constitutional monarchy",
+      "Monarch": "Hamad bin Isa Al Khalifa",
+      "Prime_Minister": "Salman bin Hamad Al Khalifa",
+      "Legislature": {
+        "Upper_House": "Consultative Council",
+        "Lower_House": "Council of Representatives"
+      },
+      "Independence": {
+        "Declared": "14 August 1971",
+        "From_United_Kingdom": "15 August 1971",
+        "UN_Admission": "21 September 1971"
+      }
+    },
+    "Culture_and_Society": {
+      "Historical_Empire": "Dilmun",
+      "Modern_History": ["Portuguese rule (1521-1602)", "British protectorate (1892-1971)"],
+      "Formula_1": "Hosted Middle East’s first Grand Prix in 2004",
+      "Famous_Tree": "Tree of Life"
+    },
+    "Environmental_Issues": {
+      "Major_Issues": ["Desertification", "Water scarcity", "Coastal degradation"],
+      "Freshwater_Sources": "Groundwater, seawater (desalination)"
+    }
+  }
+}
