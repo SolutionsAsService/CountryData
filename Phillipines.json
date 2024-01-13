@@ -1,5 +1,6 @@
 {
-  "country_name": "Republic of the Philippines",
+  "Phillipines":{
+  "FullName": "Republic of the Philippines",
   "native_name": "Republika ng Pilipinas",
   "location": {
     "continent": "Asia",
@@ -34,8 +35,8 @@
     },
     "currency": "Philippine peso (₱) (PHP)"
   },
-  "ethnic_groups": {
-    "2010_statistics": [
+  "Ethnic": {
+    "2010": [
       {"Visayan": "33.7%"},
       {"Tagalog": "24.4%"},
       {"Ilocano": "8.4%"},
@@ -88,4 +89,5 @@
     "public_school_system": "Well-established with high literacy rates",
     "focus": "Cultural unity and socioeconomic progress"
   }
+}
 }
