@@ -1,7 +1,10 @@
 {
-
+  "Singapore": {
   "FullName": "Republic of Singapore",
-  "Etymology": {
+  "MalayName":	"Republik Singapura",
+   "MandarinName":	"新加坡共和国",
+  "TamilName":	"சிங்கப்பூர் குடியரசு",
+   "Etymology": {
     "EnglishName": "Singapore",
     "LocalName": "Singapura",
     "Meaning": "Lion City",
@@ -68,4 +71,5 @@
     "World Trade Organization",
     "Commonwealth of Nations"
   ]
+}
 }
