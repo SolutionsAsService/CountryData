@@ -1,6 +1,8 @@
 {
-  "country": "Bolivia",
-  "official_name": "Plurinational State of Bolivia",
+  "Bolivia":{
+  "CommonName": "Bolivia",
+  "FullName": "Plurinational State of Bolivia",
+  "SpanishName": "Estado Plurinacional de Bolivia",
   "location": {
     "continent": "South America",
     "borders": ["Brazil", "Paraguay", "Argentina", "Chile", "Peru"]
@@ -28,9 +30,6 @@
       "per_capita": 10340,
       "year": 2023
     },
-    "GDP_nominal":
-json
-Copy code
     "GDP_nominal": {
       "total": 46796000000,
       "per_capita": 3857,
@@ -38,7 +37,7 @@ Copy code
     },
     "currency": "Boliviano (BOB)"
   },
-  "ethnic_groups": {
+  "Ethnic": {
     "mestizo": 68,
     "indigenous": 20,
     "white": 5,
