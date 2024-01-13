@@ -1,0 +1,71 @@
+{
+
+  "FullName": "Republic of Singapore",
+  "Etymology": {
+    "EnglishName": "Singapore",
+    "LocalName": "Singapura",
+    "Meaning": "Lion City",
+    "DerivedFrom": "Sanskrit Siṃhapura"
+  },
+  "History": {
+    "EarlyHistory": "Maritime emporium, known as Temasek",
+    "BritishColonisation": "1819, by Stamford Raffles",
+    "WWII": "Occupied by Japan in 1942",
+    "Independence": "1965, from Malaysia"
+  },
+  "Geography": {
+    "Location": "Southeast Asia",
+    "Coordinates": "1°17′N 103°50′E",
+    "Area": "734.3 km2",
+    "MainIsland": "Singapore Island",
+    "TotalIslands": "63+ satellite islands and islets"
+  },
+  "Demographics": {
+    "Population": {
+      "2023Estimate": "5,917,600",
+      "Density": "7,804/km2"
+    },
+    "EthnicGroups": {
+      "Chinese": "74.3%",
+      "Malay": "13.5%",
+      "Indian": "9.0%",
+      "Others": "3.2%"
+    },
+    "Languages": {
+      "Official": ["English", "Malay", "Mandarin", "Tamil"],
+      "National": "Malay"
+    },
+    "Religion": {
+      "Buddhism": "31.1%",
+      "NoReligion": "20.0%",
+      "Christianity": "18.9%",
+      "Islam": "15.6%",
+      "Others": ["Taoism", "Hinduism"]
+    }
+  },
+  "Government": {
+    "Type": "Unitary dominant-party parliamentary republic",
+    "President": "Tharman Shanmugaratnam",
+    "PrimeMinister": "Lee Hsien Loong"
+  },
+  "Economy": {
+    "GDP_PPP_2023": "$753.273 billion",
+    "GDP_Nominal_2023": "$497.347 billion",
+    "GDP_PerCapita_PPP": "$133,107",
+    "GDP_PerCapita_Nominal": "$87,884",
+    "GiniIndex": "45.9 (2017)",
+    "HDI": "0.939 (2021)"
+  },
+  "Culture": {
+    "CulturalSymbols": ["Merlion", "Gardens by the Bay"],
+    "Housing": "92% home ownership rate",
+    "Education": "Top in global math-and-science-education ranking",
+    "UniqueLaws": ["Ban on chewing gum", "Urine Detection Device in elevators"]
+  },
+  "InternationalAffiliations": [
+    "ASEAN",
+    "United Nations",
+    "World Trade Organization",
+    "Commonwealth of Nations"
+  ]
+}
