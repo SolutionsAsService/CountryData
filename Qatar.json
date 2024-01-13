@@ -1,0 +1,94 @@
+{
+  "Qatar": {
+    "FullName": "State of Qatar",
+    "ArabicName": "دولة قطر",
+    "Local_Name": "Dawlat Qatar",
+    "Etymology": "Derived from the name of a prominent local settlement, evolved through variations like 'Katr', 'Kattar', and 'Guttur'",
+    "Geography": {
+      "Location": "West coast of the Arabian Gulf",
+      "Area": "11,627 sq km",
+      "Climate": "Arid, with hot summers and mild winters",
+      "Land_Use": {
+        "Agricultural_Land": "5.6%",
+        "Forest": "0%",
+        "Other": "94.4%"
+      },
+      "Major_Aquifer": "Arabian Aquifer System"
+    },
+    "Demographics": {
+      "Population": "3,210,000 (2023 est.)",
+      "Urbanization": "99.4%",
+      "Ethnic_Groups": {
+        "Arab": "40%",
+        "South_Asian": "36%",
+        "Other": "24%"
+      },
+      "Languages": {
+        "Official": "Arabic",
+        "Common": "English"
+      },
+      "Religion": {
+        "Islam": "65.5%",
+        "Hinduism": "15.1%",
+        "Christianity": "14.2%",
+        "Other": "5.2%"
+      }
+    },
+    "Economy": {
+      "
+"GDP": {
+"PPP_2023_Estimate": "$328.134 billion",
+"Per_Capita_PPP": "$114,210",
+"Nominal_2023_Estimate": "$235.500 billion",
+"Per_Capita_Nominal": "$81,968"
+},
+"Resources": {
+"Natural_Gas": "World's third-largest reserves",
+"Oil": "Significant reserves"
+},
+"Exports": "Liquefied natural gas, petroleum products"
+},
+"Government": {
+"Type": "Unitary authoritarian parliamentary semi-constitutional monarchy",
+"Head_Of_State": "Emir Tamim bin Hamad",
+"Head_Of_Government": "Prime Minister Mohammed bin Abdulrahman",
+"Legislature": "Consultative Assembly",
+"Independence": {
+"Day": "September 3, 1971",
+"From": "United Kingdom"
+}
+},
+"Culture_and_Society": {
+"Heritage": "Blend of traditional and modern elements",
+"Sports": "Hosted FIFA Men’s World Cup 2022",
+"Media": {
+"Al_Jazeera": "Global media influence",
+"Domestic_Media": "Limited criticism of state and government"
+},
+"Tourism": "Cultural sites, sports events, desert safaris"
+},
+"Environmental_Issues": {
+"Current_Issues": "Air, land, water pollution, limited freshwater resources",
+"Climate_Change_Efforts": "Party to various international agreements"
+},
+"Health_and_Education": {
+"Literacy_Rate": {
+"Total": "93.5%",
+"Male": "92.4%",
+"Female": "94.7%"
+},
+"School_Life_Expectancy": {
+"Total": "13 years",
+"Male": "12 years",
+"Female": "15 years"
+},
+"Education_Expenditures": "3.2% of GDP"
+},
+"Miscellaneous": {
+"Time_Zone": "UTC+3",
+"Driving_Side": "Right",
+"ISO_Code": "QA",
+"Internet_TLD": ".qa"
+}
+}
+}
