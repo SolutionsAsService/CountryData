@@ -95,3 +95,60 @@
   "driving_side": "left",
   "calling_code": "+880",
   "iso_3166_code": "BD",
+
+    {
+  "internet_tld": [".bd", ".বাংলা"],
+  "historical_background": {
+    "ancient_bengal": "Known as Gangaridai, a bastion of pre-Islamic kingdoms.",
+    "muslim_conquests": "After 1204, led to the sultanate and Mughal periods.",
+    "bengal_sultanate": "An independent Bengal Sultanate was established.",
+    "mughal_bengal": "Wealthy Mughal Bengal, important in regional affairs, trade, and diplomacy.",
+    "british_era": {
+      "bengal_presidency": "Bengal's administrative jurisdiction reached its greatest extent.",
+      "eastern_bengal_and_assam": "Creation in 1905 set a precedent for Bangladesh's emergence."
+    },
+    "partition_of_bengal": "Bengal was divided during the Partition of India in 1947.",
+    "dominion_of_pakistan": {
+      "east_bengal": "Became East Pakistan in 1947.",
+      "dhaka_legislative_capital": "Dhaka became the legislative capital."
+    },
+    "liberation_war": "In 1971, led to the independence of Bangladesh.",
+    "bangladesh_genocide": "Massacre of pro-independence Bengali civilians."
+  },
+  "current_status": {
+    "secular_state": "First constitutionally secular state in South Asia in 1972.",
+    "islam_state_religion": "Islam declared state religion in 1988.",
+    "supreme_court_reaffirmation": "In 2010, the Supreme Court reaffirmed secular principles."
+  },
+  "international_role": {
+    "middle_power": "A middle power in the Indo-Pacific.",
+    "language_significance": "Home to the sixth-most spoken language in the world.",
+    "muslim_population": "Third-largest Muslim-majority population in the world.",
+    "economy": "Second-largest economy in South Asia.",
+    "military": "Third-largest military in the region.",
+    "un_peacekeeping": "Largest contributor of personnel to UN peacekeeping operations."
+  },
+  "political_structure": "Unitary parliamentary republic based on the Westminster system.",
+  "demographics": {
+    "bengali_population": "Bengalis make up 99% of the total population."
+  },
+  "administrative_divisions": {
+    "total": "Eight divisions, 64 districts, 495 subdistricts.",
+    "largest_mangrove_forest": "Hosts the world's largest mangrove forest."
+  },
+  "refugee_population": "Hosts one of the largest refugee populations due to the Rohingya genocide.",
+  "challenges": [
+    "Corruption",
+    "Political instability",
+    "Overpopulation",
+    "Climate change effects"
+  ],
+  "leadership_in_climate_vulnerable_forum": "Bangladesh has been a leader within the Climate Vulnerable Forum.",
+  "international_affiliations": [
+    "Headquarters of BIMSTEC",
+    "Founding member of SAARC",
+    "Member of the Organization of Islamic Cooperation",
+    "Member of the Commonwealth of Nations"
+  ]
+}
+}
