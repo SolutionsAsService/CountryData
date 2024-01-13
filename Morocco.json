@@ -1,0 +1,93 @@
+{
+  "Morocco":{
+  "CommonName": "Morocco",
+  "Official_Name": "Kingdom of Morocco",
+  "Location": {
+    "Region": "North Africa",
+    "Borders": {
+      "North": "Mediterranean Sea",
+      "West": "Atlantic Ocean",
+      "East": "Algeria",
+      "South": "Western Sahara"
+    },
+    "Claims": ["Ceuta", "Melilla", "Peñón de Vélez de la Gomera", "Spanish-controlled islands"]
+  },
+   "Geography": {
+  "Terrain": ["Mountainous country", "Atlas Mountains"],
+  "Climate": ["Mediterranean climate in north", "Semi-arid climate towards interior"]
+},
+  "Area": {
+    "Total": "446,550 km² (excluding disputed territories)",
+    "Including_Claimed_Territories": "712,550 km²"
+  },
+  "Population": {
+    "2023_Estimate": "36,459,000",
+    "2022_Estimate": "37,984,655",
+    "2014_Census": "33,848,242",
+    "Density": "50.0/km²"
+  },
+  "Government": {
+    "Type": "Unitary parliamentary semi-constitutional monarchy",
+    "King": "Mohammed VI",
+    "Prime_Minister": "Aziz Akhannouch",
+    "Legislature": {
+      "Upper_House": "House of Councillors",
+      "Lower_House": "House of Representatives"
+    }
+  },
+  "Historical_Eras": {
+    "Paleolithic_Era": "Over 300,000 years ago",
+    "First_Moroccan_State": "788",
+    "Almoravid_and_Almohad_Dynasties": "11th and 12th centuries",
+    "Independence": "1956"
+  },
+  "Economy": {
+    "GDP_PPP_2023_Estimate": {
+      "Total": "$385.337 billion",
+      "Per_Capita": "$10,408"
+    },
+    "GDP_Nominal_2023_Estimate": {
+      "Total": "$147.343 billion",
+      "Per_Capita": "$3,979"
+    },
+    "Gini_Index": "40.3 (2015)",
+    "HDI": "0.683 (2021)"
+  },
+  "Culture_and_Society": {
+    "Religion": {
+      "Islam": "99.6%",
+      "Sunni": "99.23%",
+      "Shia": "0.45%",
+      "Others": "0.3%"
+    },
+    "Languages": ["Arabic", "Berber (Tamazight)", "French", "Moroccan Arabic"],
+    "Identity": "Mix of Arab, Berber, African, and European cultures"
+  },
+  "Demographics": {
+    "Age_Structure": {
+      "0-14_Years": "26.01%",
+      "15-64_Years": "65.92%",
+      "65_Years_and_Over": "8.06%"
+    },
+    "Median_Age": "30.2 years (2023 est.)",
+    "Birth_Rate": "17.1 births/1,000 population (2023 est.)",
+    "Death_Rate": "6.6 deaths/1,000 population (2023 est.)",
+    "Net_Migration_Rate": "-1.7 migrant(s)/1,000 population (2023 est.)"
+  },
+  "Health": {
+    "Current_Health_Expenditure": "6% of GDP (2020)",
+    "Physicians_Density": "0.73 physicians/1,000 population (2017)",
+    "Hospital_Bed_Density": "1 beds/1,000 population (2017)",
+    "Maternal_Mortality_Ratio": "72 deaths/100,000 live births (2020 est.)"
+  },
+   "Education": {
+   "Primary_Languages": ["Arabic", "French"],
+    "Challenges": ["Diverse linguistic landscape", "Regional disparities in access and quality"]
+   },
+    "International_Relations": {
+      "Membership": ["Arab League", "Arab Maghreb Union", "Union for the Mediterranean", "African Union"],
+      "Role": "Middle power in global affairs",
+      "Disputed_Territories": ["Western Sahara"]
+ }
+}
+}
