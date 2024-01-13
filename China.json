@@ -2,14 +2,131 @@
   "China": {
     "officialName": "People's Republic of China",
     "Abbreviation": "PRC",
+    "ChineseName": "中华人民共和国",
     "flagDescription": "Red with a large gold star and four smaller gold stars in the canton",
     "emblemDescription": "Tiananmen, gears, wheat, and five stars",
     "anthem": "Yìyǒngjūn Jìnxíngqǔ ('March of the Volunteers')",
     "geography": {
       "area": 9596961,
       "timeZone": "UTC+8",
-      "borders": {
-        "land": 14,
+      "borders":  {
+     "Countries": [
+      {
+        "Name": "North Korea",
+        "Length": {
+          "Kilometers": 1416,
+          "Miles": 879
+        },
+        "Notes": ""
+      },
+      {
+        "Name": "Russia",
+        "Length": {
+          "Kilometers": 3645,
+          "Miles": 2264
+        },
+        "Notes": ""
+      },
+      {
+        "Name": "Mongolia",
+        "Length": {
+          "Kilometers": 4677,
+          "Miles": 2906
+        },
+        "Notes": ""
+      },
+      {
+        "Name": "Kazakhstan",
+        "Length": {
+          "Kilometers": 1533,
+          "Miles": 952
+        },
+        "Notes": ""
+      },
+      {
+        "Name": "Kyrgyzstan",
+        "Length": {
+          "Kilometers": 858,
+          "Miles": 533
+        },
+        "Notes": ""
+      },
+      {
+        "Name": "Tajikistan",
+        "Length": {
+          "Kilometers": 414,
+          "Miles": 257
+        },
+        "Notes": ""
+      },
+      {
+        "Name": "Afghanistan",
+        "Length": {
+          "Kilometers": 76,
+          "Miles": 47
+        },
+        "Notes": ""
+      },
+      {
+        "Name": "Pakistan",
+        "Length": {
+          "Kilometers": 596,
+          "Miles": 370
+        },
+        "Notes": "Disputed; depends on the resolution of territorial conflicts between India and China, and between India and Pakistan"
+      },
+      {
+        "Name": "India",
+        "Length": {
+          "Kilometers": 3488,
+          "Miles": 2167
+        },
+        "Notes": "Disputed; in three sections, separated by Nepal and Bhutan; depends on the resolution of territorial conflicts between India and China, and between India and Pakistan"
+      },
+      {
+        "Name": "Nepal",
+        "Length": {
+          "Kilometers": 1440,
+          "Miles": 895
+        },
+        "Notes": ""
+      },
+      {
+        "Name": "Bhutan",
+        "Length": {
+          "Kilometers": 470,
+          "Miles": 292
+        },
+        "Notes": "Disputed; depends on the resolution of various territorial conflicts between Bhutan and China"
+      },
+      {
+        "Name": "Myanmar",
+        "Length": {
+          "Kilometers": 2185,
+          "Miles": 1357
+        },
+        "Notes": ""
+      },
+      {
+        "Name": "Laos",
+        "Length": {
+          "Kilometers": 423,
+          "Miles": 262
+        },
+        "Notes": ""
+      },
+      {
+        "Name": "Vietnam",
+        "Length": {
+          "Kilometers": 1283,
+          "Miles": 795
+        },
+        "Notes": ""
+      }
+    ]
+  },
+
+
         "timeZones": 5
       },
       "capital": "Beijing",
