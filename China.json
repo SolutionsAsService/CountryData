@@ -1,5 +1,86 @@
 {
   "China": {
+    "officialName": "People's Republic of China",
+    "Abbreviation": "PRC",
+    "flagDescription": "Red with a large gold star and four smaller gold stars in the canton",
+    "emblemDescription": "Tiananmen, gears, wheat, and five stars",
+    "anthem": "Yìyǒngjūn Jìnxíngqǔ ('March of the Volunteers')",
+    "geography": {
+      "area": 9596961,
+      "timeZone": "UTC+8",
+      "borders": {
+        "land": 14,
+        "timeZones": 5
+      },
+      "capital": "Beijing",
+      "largestCity": "Shanghai"
+    },
+    "demographics": {
+      "population2023Estimate": 1411750000,
+      "ethnicGroups": {
+        "HanChinese": 91.1,
+        "Others": 8.9
+      },
+      "religion": {
+        "NoReligionFolk": 74.5,
+        "Buddhism": 18.3,
+        "Christianity": 5.2,
+        "Islam": 1.6
+      }
+    },
+    "government": {
+      "type": "Unitary Marxist–Leninist one-party socialist republic",
+      "leaders": {
+        "CCPGeneralSecretary": "Xi Jinping",
+        "President": "Xi Jinping",
+        "VicePresident": "Han Zheng",
+        "Premier": "Li Qiang"
+      },
+      "legislature": "National People's Congress"
+    },
+    "economy": {
+      "GDP_PPP_2023Estimate": {
+        "total": 32898000000000,
+        "perCapita": 23309
+      },
+      "GDP_Nominal_2023Estimate": {
+        "total": 17701000000000,
+        "perCapita": 12541
+      },
+      "GiniIndex": 37.1,
+      "HDI": 0.768
+    },
+    "currency": "Renminbi (CNY)",
+    "drivingSide": "right (mainland)",
+    "callingCode": "+86",
+    "isoCode": "CN",
+    "internetTLD": [".cn", ".中国", ".中國"],
+    "historicalContext": {
+      "earliestDynasties": ["Shang", "Zhou"],
+      "unification": "221 BCE",
+      "imperialDynasties": ["Han", "Tang", "Yuan", "Ming", "Qing"],
+      "republicEstablishment": "1 January 1912",
+      "communistTakeover": "1 October 1949"
+    },
+    "internationalAffiliations": ["UN Security Council", "BRICS", "G20", "APEC", "SCO", "East Asia Summit"],
+    "modernChallenges": {
+      "transparency": "Low",
+      "humanRights": {
+        "pressFreedom": "Low",
+        "religiousFreedom": "Restricted",
+        "ethnicEquality": "Challenged"
+      },
+      "economicGrowth": "Slowing in 2020s",
+      "technology": "Major global player in manufacturing and exporting"
+    },
+    "2024EconomicOutlook": {
+      "realGDPGrowthForecast": 4.3,
+      "exportsGrowth": "Driven by semiconductors and electronics",
+      "deflationaryPressures": "Persistent due to weak domestic demand"
+    },
+  
+
+
     "2024EconomicOutlook": {
       "exportsPerformance": {
         "growth": 2.3,
