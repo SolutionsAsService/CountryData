@@ -1,5 +1,6 @@
 {
-  "Country": "Republic of Haiti",
+  "Haiti":{
+  "FullName": "Republic of Haiti",
   "Official_Names": {
     "French": "République d'Haïti",
     "Haitian_Creole": "Repiblik d Ayiti"
@@ -53,7 +54,7 @@
     "Recognized": "17 April 1825",
     "Key_Historical_Events": [
       "Haitian Revolution (1791–1804)",
-      "US Occupation (1915–1934)",
+      {"Name":"US Occupation", "Years":"1915–1934",
       "Duvalier Era (1957–1986)"
     ]
   },
@@ -83,4 +84,5 @@
     "Natural_Disasters": ["Earthquakes", "Hurricanes"],
     "Health_Issues": ["Dengue Fever", "Malaria"]
   }
+}
 }
