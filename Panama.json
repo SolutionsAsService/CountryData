@@ -21,7 +21,8 @@
     "2023_Estimate": "4,462,000",
     "Density": "56/km²"
   },
-  "Capital_And_Largest_City": "Panama City",
+  "Capital": "Panama City",
+  "LargestCity": "Panama City",
   "Government": {
     "Type": "Unitary presidential republic",
     "President": "Laurentino Cortizo",
@@ -77,4 +78,5 @@
   "International_Relations": {
     "Membership": ["United Nations", "OAS", "LAIA", "G77", "WHO", "NAM"]
   }
+}
 }
