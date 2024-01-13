@@ -1,0 +1,86 @@
+{
+  "Country": "Republic of Haiti",
+  "Official_Names": {
+    "French": "République d'Haïti",
+    "Haitian_Creole": "Repiblik d Ayiti"
+  },
+  "Geography": {
+    "Location": "Western third of Hispaniola, Caribbean Sea",
+    "Area": "27,750 sq km",
+    "Key_Features": {
+      "Largest_Lake": "Étang Saumâtre (Lake Azuéi)",
+      "Longest_River": "Artibonite River",
+      "Gulf": "Gulf of Gonâve"
+    },
+    "Departments": [
+      "Artibonite", "Centre", "Grand’Anse", "Nippes", "Nord", "Nord-Est", "Nord-Ouest",
+      "Ouest", "Sud", "Sud-Est"
+    ],
+    "Capital": "Port-au-Prince"
+  },
+  "Demographics": {
+    "Population": "12,257,000 (2023 est.)",
+    "Ethnic_Groups": {
+      "Black": "95%",
+      "Mixed_or_White": "5%"
+    },
+    "Languages": {
+      "Official": ["French", "Haitian Creole"]
+    },
+    "Religion": {
+      "Christianity": "87.0%",
+      "No_Religion": "10.7%",
+      "Folk_Religions": "2.1%",
+      "Others": "0.2%"
+    }
+  },
+  "Government": {
+    "Type": "Unitary semi-presidential republic under interim government",
+    "President": "Ariel Henry (acting)",
+    "Prime_Minister": "Ariel Henry (acting)",
+    "Legislature": {
+      "Senate": "30 seats",
+      "Chamber_of_Deputies": "99 seats"
+    }
+  },
+  "Economy": {
+    "GDP_PPP": "$38.952 billion (2023 est.)",
+    "GDP_Per_Capita_PPP": "$3,185 (2023 est.)",
+    "Currency": "Gourde (G) (HTG)"
+  },
+  "History": {
+    "Independence_from_France": "1 January 1804",
+    "Recognized": "17 April 1825",
+    "Key_Historical_Events": [
+      "Haitian Revolution (1791–1804)",
+      "US Occupation (1915–1934)",
+      "Duvalier Era (1957–1986)"
+    ]
+  },
+  "Healthcare": {
+    "Physicians_Density": "0.23 physicians/1,000 population (2018)",
+    "Hospital_Bed_Density": "0.7 beds/1,000 population (2013)"
+  },
+  "Environment": {
+    "Current_Issues": [
+      "Deforestation", 
+      "Soil Erosion", 
+      "Water and Sanitation issues",
+      "Natural Disasters"
+    ]
+  },
+  "Education": {
+    "Expenditures": "1.4% of GDP (2020 est.)",
+    "Literacy_Rate": {
+      "Total": "61.7%",
+      "Male": "65.3%",
+      "Female": "58.3%"
+    }
+  },
+  "Challenges": {
+    "Political_Instability": "Acting government",
+    "Economic_Hardships": "High food prices, fuel shortage",
+    "Natural_Disasters": ["Earthquakes", "Hurricanes"],
+    "Health_Issues": ["Dengue Fever", "Malaria"]
+  }
+}
