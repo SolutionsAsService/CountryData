@@ -8,6 +8,11 @@
     "coordinates": "13°00'N 122°00'E",
     "archipelago": "More than 7,000 islands",
     "maritime_borders": ["Taiwan", "Japan", "Palau", "Indonesia", "Malaysia", "Vietnam", "China"]
+    "seaborders": [
+      {"South China Sea": "west"},
+      {"Philippine Sea": "east"},
+      {"Celebes Sea": "south"}
+    ]
   },
   "capital_city": "Manila",
   "largest_city": "Quezon City",
