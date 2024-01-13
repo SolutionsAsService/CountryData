@@ -1,0 +1,75 @@
+{
+  "Country": "Commonwealth of The Bahamas",
+  "Geography": {
+    "Location": "Lucayan Archipelago, West Indies, Atlantic Ocean",
+    "Area": "13,878 sq km",
+    "Highest Point": "Cat Island, 63m above sea level",
+    "Climate": "Tropical marine, moderated by Gulf Stream",
+    "Land Use": {
+      "Agricultural Land": "1.4%",
+      "Forest": "51.4%",
+      "Other": "47.2%"
+    },
+    "Environment Issues": "Coral reef decay, solid waste disposal"
+  },
+  "Demographics": {
+    "Population": "389,482",
+    "Urbanization": "83.6%",
+    "Ethnic Groups": {
+      "Black": "90.6%",
+      "White": "4.7%",
+      "Mixed": "2.1%",
+      "Other": "1.9%",
+      "Unspecified": "0.7%"
+    },
+    "Languages": {
+      "Official": "English",
+      "Vernacular": "Bahamian Creole"
+    },
+    "Religion": {
+      "Christianity": "93.0%",
+      "Protestantism": "75.1%",
+      "Other Christian": "17.9%",
+      "No Religion": "4.5%",
+"Folk Religions": "1.9%",
+"Other": "0.6%"
+}
+},
+"Government": {
+"Type": "Parliamentary democracy under a constitutional monarchy",
+"Monarch": "Charles III",
+"Governor-General": "Cynthia A. Pratt",
+"Prime Minister": "Philip Davis",
+"Legislature": {
+"Senate": "16 seats",
+"House of Assembly": "39 seats"
+},
+"Independence": "10 July 1973 (from the UK)"
+},
+"Economy": {
+"GDP (PPP)": "$18.146 billion",
+"GDP Per Capita (PPP)": "$44,949",
+"GDP (Nominal)": "$13.876 billion",
+"GDP Per Capita (Nominal)": "$34,370",
+"Main Industries": "Tourism, offshore finance"
+},
+"Culture": {
+"National Anthem": "March On, Bahamaland",
+"Royal Anthem": "God Save the King",
+"Motto": "Forward, Upward, Onward, Together"
+},
+"Miscellaneous": {
+"Time Zone": "UTC−5 (EST), UTC−4 (EDT in summer)",
+"Driving Side": "Left",
+"Calling Code": "+1 242",
+"ISO 3166 Code": "BS",
+"Internet TLD": ".bs",
+"Currency": "Bahamian dollar (BSD), United States dollar (USD)"
+},
+"Historical Overview": {
+"Original Inhabitants": "Arawak, Lucayans (Taíno)",
+"European Discovery": "Christopher Columbus, 1492",
+"British Colony Era": "1718-1973",
+"Post-Independence": "Since 1973"
+}
+}
