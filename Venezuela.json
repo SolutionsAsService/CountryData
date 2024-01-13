@@ -1,0 +1,118 @@
+{
+  "Venezuela":{
+  "CommonName": "Venezuela",
+  "FullName": "Bolivarian Republic of Venezuela",
+  "SpanishName": "República Bolivariana de Venezuela",
+  "location": {
+    "continent": "South America",
+    "coordinates": "10°30′N 66°55′W",
+    "borders": ["Caribbean Sea", "Atlantic Ocean", "Guyana", "Brazil", "Colombia"]
+  },
+  "capital_city": "Caracas",
+  "area": {
+    "total": 912050,
+    "land": 882050,
+    "water": 30000,
+    "units": "sq km"
+  },
+  "population": {
+    "2023_estimate": 30518260,
+    "density": 33.74,
+    "density_unit": "per km2"
+  },
+  "government": {
+    "type": "Federal presidential republic under a centralized authoritarian state",
+    "president": "Nicolás Maduro",
+    "vice_president": "Delcy Rodríguez",
+    "legislature": "National Assembly"
+  },
+  "economy": {
+    "GDP_PPP": {
+      "total": 211926000000,
+      "per_capita": 7985,
+      "year": 2023
+    },
+    "GDP_nominal": {
+      "total": 92210000000,
+      "per_capita": 3474,
+      "year": 2023
+    },
+    "currency": "Venezuelan bolívar (official), United States dollar (de-facto recognized, unofficial)"
+  },
+  "natural_resources": ["petroleum", "natural gas", "iron ore", "gold", "bauxite", "other minerals", "hydropower", "diamonds"],
+  "Ethnic": {
+    "multiracial": 51.6,
+    "white": 43.6,
+    "afro_venezuelan": 3.6,
+    "others": 1.2
+  },
+  "languages": ["Spanish (official)", "numerous indigenous dialects"],
+  "Religion": {
+    "christianity": 92.6,
+    "roman_catholic": 80.5,
+    "protestant": 11.2,
+    "other_christian": 0.9,
+    "no_religion": 5.5,
+    "spiritism": 1.1,
+    "others": 0.8
+  },
+  "human_rights_issues": {
+    "attacks_on_civil_society": true,
+    "repression_of_media": true,
+    "targeting_trade_unions": true,
+    "legislation_limiting_NGOs": true,
+    "arbitrary_detentions": true,
+    "threats_against_protestors": true,
+    "poor_working_conditions": true,
+    "media_censorship": true,
+    "extrajudicial_executions":
+},
+  "human_rights_issues": {
+    "attacks_on_civil_society": true,
+    "repression_of_media": true,
+    "targeting_trade_unions": true,
+    "legislation_limiting_NGOs": true,
+    "arbitrary_detentions": true,
+    "threats_against_protestors": true,
+    "poor_working_conditions": true,
+    "media_censorship": true,
+    "extrajudicial_executions": true,
+    "discrimination_against_indigenous_peoples": true
+  },
+  "climate": "Tropical; hot, humid; more moderate in highlands",
+  "geographical_features": {
+    "Andean_mountain_chains": true,
+    "interior_highlands": true,
+    "Orinoco_River_basin": true,
+    "Llanos": true,
+    "Lake_Maracaibo": true,
+    "Angel_Falls": true
+  },
+  "historical_background": {
+    "colonization_year": 1522,
+    "independence_declaration_year": 1811,
+    "sovereignty_year": 1830,
+    "19th_century_political_turmoil": true,
+    "democratic_governments_since": 1958,
+    "economic_shocks": ["1980s", "1990s"],
+    "Bolivarian_Revolution_start": 1998,
+    "oil_prices_impact": true,
+    "poverty_increase_in_2010s": true
+  },
+  "economic_challenges": {
+    "worlds_largest_oil_reserves": true,
+    "economy_collapse": true,
+    "hyperinflation": true,
+    "basic_goods_shortages": true,
+    "unemployment": true,
+    "poverty": true,
+    "disease": true,
+    "high_child_mortality": true,
+    "malnutrition": true,
+    "severe_crime": true,
+    "corruption": true,
+    "refugee_crisis": true,
+    "debt_default": true
+  }
+}
+}
