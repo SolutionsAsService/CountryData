@@ -90,6 +90,55 @@
       "factors_affecting_growth": ["Household credit", "EU fund investments", "Inflation rates"],
       "inflation_rate_2023": "9.5%",
       "inflation_rate_2024": "4.5%"
+    },
+  "government": {
+    "type": "Unitary parliamentary republic",
+    "president": "Rumen Radev",
+    "prime_minister": "Nikolai Denkov",
+    "legislature": "National Assembly"
+  },
+  
+  "Ethnic": {
+    "bulgarians": 84.6,
+    "turks": 8.4,
+    "roma": 4.4,
+    "other": 2.6
+  },
+  "languages": ["Bulgarian"],
+  "religions": {
+    "christianity": 71.5,
+    "islam": 10.8,
+    "no_religion": 5.2,
+    "other": 0.1,
+    "unanswered": 12.4
+  },
+  "health": {
+    "life_expectancy": 71.5,
+    "infant_mortality_rate": 6.5,
+    "maternal_mortality_ratio": 161,
+    "physicians_density": 1.03,
+    "hospital_bed_density": 1.3
+  },
+  "education": {
+    "expenditures": 4,
+    "literacy": {
+      "total": 98.4,
+      "male": 98.7,
+      "female": 98.2
+    },
+    "school_life_expectancy": {
+      "total": 14,
+      "male": 13,
+      "female": 14
     }
+  },
+  "environmental_issues": {
+    "air_pollution": true,
+    "water_pollution": true,
+    "deforestation": true,
+    "acid_rain": true,
+    "soil_contamination": true
+  }
+
   }
 }
