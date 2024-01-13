@@ -1,0 +1,95 @@
+{
+  "Dominican Republic":{
+  "FullName": "Dominican Republic",
+  "SpanishName": "República Dominicana",
+  "Geography": {
+    "Location": "Eastern two-thirds of Hispaniola, Caribbean Sea",
+    "Area": "48,671 sq km",
+    "Major Features": {
+      "Highest Point": "Pico Duarte",
+      "Largest Lake": "Lake Enriquillo",
+      "Lowest Point": "Lake Enriquillo, 40m below sea level",
+      "Major River": "Yaque del Norte"
+    },
+    "Provinces": [
+      "Azua", "Baoruco", "Barahona", "Dajabon", "Duarte", "Elias Pina", "El Seibo", 
+      "Espaillat", "Hato Mayor", "Hermanas Mirabal", "Independencia", "La Altagracia", 
+      "La Romana", "La Vega", "Maria Trinidad Sanchez", "Monsenor Nouel", "Monte Cristi", 
+      "Monte Plata", "Pedernales", "Peravia", "Puerto Plata", "Samana", "Sanchez Ramirez", 
+      "San Cristobal", "San Jose de Ocoa", "San Juan", "San Pedro de Macoris", "Santiago", 
+      "Santiago Rodriguez", "Santo Domingo", "Valverde"
+    ],
+    "Capital": "Santo Domingo"
+  },
+  "Demographics": {
+    "Population": "11,434,005 (2024 est.)",
+    "Urban Population": "83.2%",
+    "Major Cities": ["Santo Domingo (3,523,890)", "Santiago (688,927)"],
+    "Ethnic Groups": {
+      "Mixed": "73.9%",
+      "White": "17.8%",
+      "Black": "7.8%",
+      "Other": "3.2%"
+    },
+    "Languages": {
+      "Official": "Spanish",
+      "Other": ["Haitian Creole", "Samaná English"]
+    },
+    "Religion": {
+      "Christianity": "66.7%",
+      "Catholicism": "44.3%",
+      "Protestantism": "21.3%",
+      "Other Christian": "1.1%",
+      "No Religion": "29.6%",
+      "Other": "1.7%",
+      "Unspecified": "2.0%"
+    }
+  },
+  "Government": {
+    "Type": "Unitary presidential republic",
+    "President": "Luis Abinader",
+    "Vice President": "Raquel Peña de Antuña",
+    "Legislature": {
+      "Upper House": "Senate",
+      "Lower House": "Chamber of Deputies"
+    }
+  },
+  "Economy": {
+    "GDP (PPP)": "$294.562 billion (2024 est.)",
+    "GDP Per Capita (PPP)": "$27,231 (2024 est.)",
+    "Main Industries": ["Construction", "Manufacturing", "Tourism", "Mining"],
+    "Currency": "Dominican peso (DOP)"
+  },
+  "Culture": {
+    "Motto": "Dios, Patria, Libertad",
+    "Anthem": "¡Quisqueyanos Valientes!",
+    "Historical Significance": {
+      "Independence": {
+        "From Spain": "November 1821",
+        "Annexed by Haiti": "February 1822",
+        "Final Independence": "1844"
+      },
+      "Significant Events": [
+        "Dominican War of Independence (1844)",
+        "Dominican War of Restoration (1863-1865)",
+        "US Occupation (1916-1924)",
+        "Trujillo Dictatorship (1930-1961)",
+        "Civil War (1965)"
+      ]
+    }
+  },
+  "Natural Features": {
+    "Climate": "Tropical",
+    "Average Temperature": "26 °C (78.8 °F)",
+    "Biological Diversity": "High"
+  },
+  "Historic Sites": [
+    "First Cathedral in the Americas",
+    "First Castle",
+    "First Monastery",
+    "First Fortress",
+    "Colonial Zone - World Heritage Site"
+  ],
+  "Vulnerability": "Highly vulnerable to natural disasters"
+}
+}
