@@ -1,0 +1,94 @@
+{
+  "North Macedonia": {
+  "country_name": "Republic of North Macedonia",
+  "alternate_names": ["Macedonia", "Makedonija", "Republika Makedonija", "The Former Yugoslav Republic of Macedonia"],
+  "location": {
+    "continent": "Europe",
+    "coordinates": "42°0′N 21°26′E",
+    "borders": [
+      {"Kosovo": "northwest"},
+      {"Serbia": "north"},
+      {"Bulgaria": "east"},
+      {"Greece": "south"},
+      {"Albania": "west"}
+    ]
+  },
+  "capital_city": "Skopje",
+  "population": {
+    "2023_estimate": 1820000,
+    "ethnic_composition": [
+      {"Macedonians": "58.4%"},
+      {"Albanians": "24.3%"},
+      {"Turks": "3.9%"},
+      {"Roma": "2.5%"},
+      {"Serbs": "1.3%"},
+      {"Bosniaks": "0.9%"},
+      {"Aromanians": "0.5%"},
+      {"Others": "1.0%"},
+      {"Unspecified": "7.2%"}
+    ]
+  },
+  "government": {
+    "type": "Unitary parliamentary republic",
+    "president": "Stevo Pendarovski",
+    "prime_minister": "Dimitar Kovačevski",
+    "legislature": "Assembly"
+  },
+  "economy": {
+    "GDP_PPP": {
+      "2023_estimate_total": "$44.055 billion",
+      "per_capita": "$21,391"
+    },
+    "GDP_nominal": {
+      "2023_estimate_total": "$15.801 billion",
+      "per_capita": "$7,672"
+    },
+    "currency": "Macedonian denar (MKD)"
+  },
+  "education": {
+    "expenditure_per_pupil": {
+      "primary_school": "$995",
+      "secondary_school": "$1,355",
+      "universities": "$1,198"
+    },
+    "educational_attainment": [
+      {"No schooling": "0.582%"},
+      {"Basic education": "2.051%"},
+      {"Primary education": "16.818%"},
+      {"Secondary education": "55.930%"},
+      {"Higher education": "24.616%"}
+    ]
+  },
+  "history": {
+    "ancient_period": [
+      {"Kingdom of Paeonia": "6th century BC"},
+      {"Achaemenid Empire": "Late 6th century BC"},
+      {"Kingdom of Macedonia": "4th century BC"},
+      {"Roman Republic": "2nd century BC"}
+    ],
+    "medieval_period": [
+      {"Byzantine Empire": "5th century onwards"},
+      {"Slavic tribes": "6th century"}
+    ],
+    "modern_period": [
+      {"Ottoman Empire": "Mid-14th to early 20th century"},
+      {"Kingdom of Serbs, Croats and Slovenes": "Post WWI"},
+      {"Communist Yugoslavia": "1945-1991"},
+      {"Independence": "1991"}
+    ]
+  },
+  "international_relations": {
+    "member_of": [
+      "United Nations",
+      "NATO",
+      "Council of Europe",
+      "World Bank",
+      "OSCE",
+      "CEFTA",
+      "BSEC",
+      "WTO"
+    ],
+    "EU_candidate": true
+  }
+}
+}
