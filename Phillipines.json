@@ -1,0 +1,91 @@
+{
+  "country_name": "Republic of the Philippines",
+  "native_name": "Republika ng Pilipinas",
+  "location": {
+    "continent": "Asia",
+    "region": "Southeast Asia",
+    "coordinates": "13°00'N 122°00'E",
+    "archipelago": "More than 7,000 islands",
+    "maritime_borders": ["Taiwan", "Japan", "Palau", "Indonesia", "Malaysia", "Vietnam", "China"]
+  },
+  "capital_city": "Manila",
+  "largest_city": "Quezon City",
+  "area": "300,000 km2",
+  "population": {
+    "2023_estimate": 114755000
+  },
+  "government": {
+    "type": "Unitary presidential constitutional republic",
+    "president": "Ferdinand Marcos Jr.",
+    "vice_president": "Sara Duterte",
+    "legislature": {
+      "upper_house": "Senate",
+      "lower_house": "House of Representatives"
+    }
+  },
+  "economy": {
+    "GDP_PPP": {
+      "2023_estimate_total": "$1.278 trillion",
+      "per_capita": "$11,326"
+    },
+    "GDP_nominal": {
+      "2023_estimate_total": "$435.675 billion",
+      "per_capita": "$3,859"
+    },
+    "currency": "Philippine peso (₱) (PHP)"
+  },
+  "ethnic_groups": {
+    "2010_statistics": [
+      {"Visayan": "33.7%"},
+      {"Tagalog": "24.4%"},
+      {"Ilocano": "8.4%"},
+      {"Bicolano": "6.8%"},
+      {"Other": "26.2%"}
+    ]
+  },
+  "languages": {
+    "official": ["Filipino", "English"],
+    "recognized_regional": ["19 languages"],
+    "other_recognized": ["Spanish", "Arabic"]
+  },
+  "religion": {
+    "2015_statistics": [
+      {"Christianity": "90.1%", "Catholicism": "80.6%", "Other Christian": "9.5%"},
+      {"Islam": "6.4%"},
+      {"Other / None": "3.5%"}
+    ]
+  },
+  "history": {
+    "early_inhabitants": "Negritos",
+    "influences": ["Animism", "Hinduism", "Islam"],
+    "colonial_period": ["Spanish", "American"],
+    "independence": "1946",
+    "recent": "Transition from agricultural to service and manufacturing economy"
+  },
+  "geography": {
+    "island_groups": ["Luzon", "Visayas", "Mindanao"],
+    "notable_islands": ["Luzon", "Mindanao", "Palawan", "Negros", "Cebu"],
+    "highest_point": "Mount Apo",
+    "natural_disasters": ["Earthquakes", "Typhoons"]
+  },
+  "Culture": {
+    "diversity": "Unique blend of diversity and homogeneity",
+    "influences": ["European", "American", "Asian"],
+    "food": ["Rice", "Meat", "Fruits", "Vegetables"],
+    "traditional_attire": ["Barong", "Terno", "Malong"],
+    "arts": "Influence of Spanish, American, and indigenous cultures",
+    "family_structure": "Extended family, including godparents in Catholic families"
+  },
+  "international_relations": {
+    "memberships": ["United Nations", "World Trade Organization", "ASEAN", "Asia-Pacific Economic Cooperation", "East Asia Summit", "Non-Aligned Movement"],
+    "relationship_with_usa": "Major non-NATO ally"
+  },
+  "environmental_challenges": {
+    "degradation": "Severe environmental degradation in late 20th century",
+    "conservation_efforts": "Efforts in education, health, and infrastructure for sustainable growth"
+  },
+  "educational_system": {
+    "public_school_system": "Well-established with high literacy rates",
+    "focus": "Cultural unity and socioeconomic progress"
+  }
+}
