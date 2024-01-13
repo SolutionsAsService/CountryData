@@ -1,0 +1,159 @@
+{
+  "Republic of Maldives": {
+    "local_name": "ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ",
+    "romanized_name": "Dhivehi Raajjeyge Jumhooriyyaa",
+    "pronunciation": "[diʋehi ɾaːd͡ʒːeːge d͡ʒumhuːɾijjaː]",
+    "description": "Country and archipelagic state in South Asia, situated in the Indian Ocean.",
+    "location": {
+      "relative": "Southwest of Sri Lanka and India",
+      "distance_from_mainland": "750 kilometres (470 miles; 400 nautical miles)"
+    },
+    "atolls": "26",
+    "atoll_range": {
+      "north": "Ihavandhippolhu Atoll",
+      "south": "Addu Atoll"
+    },
+    "symbols": {
+      "flag": "Flag of Maldives",
+      "emblem": "Emblem of Maldives",
+      "motto": {
+        "language": "Arabic",
+        "text": "الدولة المحلديبية",
+        "translation": "State of the Mahal Dibiyat"
+      },
+      "anthem": {
+        "title": "Qaumee Salaam",
+        "language": "Dhivehi",
+        "translation": "National Salute",
+        "duration": "1 minute and 9 seconds"
+      }
+    },
+    "capital": {
+      "name": "Malé",
+      "coordinates": "4°10′31″N 73°30′32″E"
+    },
+    "languages": {
+      "official": "Dhivehi",
+      "common": "English"
+    },
+    "ethnicity": {
+      "2022": [
+        {
+          "ethnicity": "Maldivians",
+          "percentage": 100
+        }
+      ]
+    },
+    "religion": "Islam (official)",
+    "government": {
+      "type": "Unitary presidential constitutional republic",
+      "president": "Mohamed Muizzu",
+      "vice_president": "Hussain Mohamed Latheef",
+      "speaker_of_majlis": "Mohamed Aslam",
+      "chief_justice": "Ahmed Muthasim Adnan",
+      "cabinet": "Cabinet Ministers",
+      "legislature": "People's Majlis",
+      "independence": {
+        "from_UK": "26 July 1965",
+        "republic_proclaimed": "11 November 1968",
+        "current_constitution": "7 August 2008"
+      }
+    },
+    "area": {
+      "total_sq_km": 298,
+      "rank": 187
+    },
+    "population": {
+      "2022_census": 515132,
+      "rank": 167,
+      "density_per_sq_km": 1728.63
+    },
+    "economy": {
+      "GDP_PPP": {
+        "2023_estimate": {
+          "total": "$14.740 billion",
+          "per_capita": "$37,093",
+          "rank": 157
+        },
+        "GDP_nominal": {
+          "2023_estimate": {
+            "total": "$6.977 billion",
+            "per_capita": "$17,558",
+            "rank": 161
+          }
+        },
+        "gini": {
+          "year": 2017,
+          "value": 31.3,
+          "category": "medium"
+    },
+    "HDI": {
+      "year": 2021,
+      "value": 0.747,
+      "category": "high",
+      "rank": 90
+    }
+  }
+},
+"currency": [
+  "Maldivian rufiyaa (MVR)",
+  "United States dollar (USD, used in Maldivian resort islands)"
+],
+"miscellaneous": {
+  "time_zone": "UTC+5 (Maldives Time)",
+  "date_format": "dd/mm/yyyy",
+  "driving_side": "left",
+  "calling_code": "+960",
+  "ISO_3166_code": "MV",
+  "internet_TLD": ".mv"
+},
+"geography": {
+  "territory_span": "90,000 square kilometres (35,000 sq mi) including the sea",
+  "land_area_sq_km": 298,
+  "description": "Smallest country in Asia and one of the world's most geographically dispersed sovereign states.",
+  "elevation": {
+    "average": "1.5 metres (4 ft 11 in) above sea level",
+    "highest_point": {
+      "name": "Mount Villingili",
+      "height": "2.4 metres (7 ft 10 in)"
+    }
+  },
+  "archipelago_location": "Chagos–Laccadive Ridge"
+},
+"history": {
+  "inhabitation": "Over 2,500 years",
+  "first_contact": {
+    "year": 947,
+    "with": "Arab travellers"
+  },
+  "islam_arrival": "12th century",
+  "sultanate_establishment": "Soon after Islam arrival",
+  "european_colonial_influence": "Mid-16th century onwards",
+  "british_protectorate": "1887",
+  "independence_from_UK": "1965",
+  "republic_establishment": "1968"
+},
+"international_affiliations": [
+  "United Nations",
+  "Commonwealth of Nations",
+  "Organisation of Islamic Cooperation",
+  "Non-Aligned Movement",
+  "South Asian Association for Regional Cooperation",
+  "Dialogue Partner of the Shanghai Cooperation Organisation"
+],
+"economic_sectors": {
+  "dominant": "Fishing",
+  "growing": "Tourism"
+},
+"HDI_status": {
+  "rating": "High",
+  "per_capita_income": "Higher than other SAARC nations"
+},
+"commonwealth_membership": {
+  "initial_membership": "July 1982",
+  "withdrawal": "October 2016",
+  "reason_for_withdrawal": "Protest against allegations of human rights abuses and failing democracy",
+  "rejoining": "1 February 2020"
+}
+}
+}
