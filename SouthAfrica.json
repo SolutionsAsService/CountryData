@@ -1,7 +1,19 @@
 {
-  "country_name": "Republic of South Africa",
-  "alternate_names": [
-    "Union of South Africa"
+  "South Africa": {
+  "CommonName": "South Africa",
+  "FullName": "Republic of South Africa",
+  "OtherName": [
+  {"Union of South Africa"},
+  { "Zulu":	"iRiphabhuliki yaseNingizimu Afrika"},
+  {"Xhosa": "iRiphabhlikhi yoMzantsi Afrika"},
+  {"Afrikaans: "Republiek van Suid-Afrika"},
+  {"Pedi": "Repabliki ya Afrika-Borwa"},
+  {"Southern Sotho":	"Rephaboliki ya Afrika Borwa"},
+  {"Tswana":	"Rephaboliki ya Aforika Borwa",
+  {"Tsonga":	"Riphabliki ya Afrika Dzonga",
+  {"Swati": "iRiphabhulikhi yaseNingizimu-Afrika",
+  {"Venda": "Riphabuḽiki ya Afurika Tshipembe",
+  {"Southern Ndebele":	"iRiphabliki yeSewula Afrika",
   ],
   "location": {
     "continent": "Africa",
@@ -140,4 +152,5 @@
     "wildlife": ["lions", "leopards", "kudus", "blue wildebeest", "white rhinos", "impalas", "hyenas", "hippopotamus", "giraffes"],
     "conservation_areas": ["Kruger National Park", "Mala Mala Reserve"]
   }
+}
 }
