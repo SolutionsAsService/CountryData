@@ -1,4 +1,5 @@
 {
+  "Panama":{
   "Country": "Panama",
   "Official_Name": "Republic of Panama",
   "Location": {
@@ -45,7 +46,7 @@
     "Gini_Index": "49.9 (2017)",
     "HDI": "0.805 (2021)"
   },
-  "Culture_and_Society": {
+   "Culture_and_Society": {
     "Ethnic_Groups": {
       "Mestizo": "65.0%",
       "Indigenous": "12.3%",
