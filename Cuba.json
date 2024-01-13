@@ -1,0 +1,136 @@
+{
+  "Cuba":{
+  "country": "Cuba",
+  "official_name": "Republic of Cuba",
+  "location": {
+    "continent": "North America",
+    "coordinates": "23°8′N 82°23′W",
+    "surrounding_areas": {
+      "north": ["Gulf of Mexico", "Atlantic Ocean"],
+      "east": "Hispaniola (Haiti/Dominican Republic)",
+      "south": ["Jamaica", "Cayman Islands"],
+      "west": "Yucatán Peninsula (Mexico)"
+    }
+  },
+  "capital_city": "Havana",
+  "major_cities": ["Santiago de Cuba", "Camagüey"],
+  "area": {
+    "total": 110860,
+    "land_area": 109884,
+    "water_area": 0.94,
+    "units": "km2"
+  },
+  "population": {
+    "2023_estimate": 10985974,
+    "2022_census": 11089511,
+    "density": 101.8,
+    "density_unit": "per km2"
+  },
+  "government": {
+    "type": "Unitary Marxist–Leninist one-party socialist republic",
+    "president": "Miguel Díaz-Canel",
+    "vice_president": "Salvador Valdés Mesa",
+    "prime_minister": "Manuel Marrero Cruz",
+    "legislature": "National Assembly of People's Power"
+  },
+  "economy": {
+    "GDP_PPP": {
+      "total": 254865000000,
+      "per_capita": 22237,
+      "year": 2015
+    },
+    "GDP_nominal": {
+      "total": 126694000000,
+      "per_capita": 11255,
+      "year": 2021
+    },
+    "currency": "Cuban peso (CUP)"
+  },
+  "health": {
+    "hospital_bed_density": 5.3,
+    "major_infectious_diseases": ["bacterial diarrhea", "hepatitis A", "dengue fever"],
+    "obesity_adult_prevalence_rate": 24.6,
+    "tobacco_use": {
+      "total": 17.9,
+      "male": 25.5,
+      "female": 10.3
+    },
+    "children_under_5_underweight": 2.4
+  },
+  "education": {
+    "expenditures": "NA",
+    "literacy": {
+      "total": 99.7,
+      "male": 99.6,
+      "female": 99.7
+    },
+    "school_life_expectancy": {
+      "total": 14,
+      "male": 13,
+      "female": 15
+    }
+  },
+  "environment": {
+    "current_issues": ["soil degradation", "desertification", "biodiversity loss", "deforestation", "air and water pollution"],
+    "climate": "tropical; moderated by trade winds",
+    "land_use": {
+      "agricultural_land": 60.3,
+      "arable_land": 33.8,
+      "permanent_crops": 3.6,
+      "permanent_pasture": 22.9,
+      "forest": 27.3,
+      "other": 12.4},
+  
+  "urbanization": {
+    "urban_population_percentage": 77.5,
+    "urban_population_growth_rate": 0.19,
+    "period": "2020-2025"
+  },
+  "environmental_aspects": {
+    "forest_resource_revenue": 0.06,
+    "coal_revenue": 0,
+    "climate": "Tropical, moderated by trade winds",
+    "dry_season": "November to April",
+    "rainy_season": "May to October",
+    "land_use": {
+      "agricultural": 60.3,
+      "arable": 33.8,
+      "permanent_crops": 3.6,
+      "permanent_pasture": 22.9,
+      "forest": 27.3,
+      "other": 12.4
+    },
+    "major_issues": ["soil degradation", "desertification", "biodiversity loss", "deforestation", "air and water pollution"],
+    "international_environmental_agreements": [
+      "Antarctic Treaty", "Biodiversity", "Climate Change", 
+      "Climate Change-Kyoto Protocol", "Climate Change-Paris Agreement", 
+      "Comprehensive Nuclear Test Ban", "Desertification", 
+      "Endangered Species", "Environmental Modification", 
+      "Hazardous Wastes", "Law of the Sea", "Marine Dumping-London Convention", 
+      "Ozone Layer Protection", "Ship Pollution", "Wetlands"
+    ]
+  },
+  "historical_background": {
+    "early_inhabitants": ["Guanahatabey", "Taíno"],
+    "spanish_colonization_year": 1492,
+    "slavery_abolition_year": 1886,
+    "spanish_american_war_year": 1898,
+    "independence_year": 1902,
+    "cuban_revolution_period": "1953-1959",
+    "leadership": ["Fidel Castro", "Raúl Castro", "Miguel Díaz-Canel"],
+    "soviet_union_relationship": "Close during Cold War",
+    "economic_downfall_period": "1990s",
+    "modern_political_system": "Marxist–Leninist one-party socialist state"
+  },
+  "economic_challenges": {
+    "planned_economy_stagnation": true,
+    "venezuela_oil_dependency": true,
+    "covid_impact_on_tourism": true,
+    "inflation_rate": "Approx. 200%",
+    "food_import_dependency": "Approx. 70%",
+    "dual_currency_system_ending": 2021,
+    "emigration_issue": true,
+    "political_dissent_criminalization": true
+  }
+}
+}
