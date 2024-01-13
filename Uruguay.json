@@ -1,0 +1,95 @@
+{
+  "Uruguay":{
+  "CommonName": "Uruguay",
+  "Official_Name": "Oriental Republic of Uruguay",
+  "Location": {
+    "Continent": "South America",
+    "Borders": {
+      "West_and_Southwest": "Argentina",
+      "North_and_Northeast": "Brazil",
+      "South": "Río de la Plata",
+      "Southeast": "Atlantic Ocean"
+    },
+    "Region": "Southern Cone"
+  },
+  "Area": {
+    "Total": "176,215 km²",
+    "Rank": 89
+  },
+  "Population": {
+    "2023_Estimate": "3,444,263",
+    "Density": "19.5/km²",
+    "Urban_Population": "95.8%"
+  },
+  "Capital": "Montevideo",
+  "Government": {
+    "Type": "Unitary presidential republic",
+    "President": "Luis Lacalle Pou",
+    "Vice_President": "Beatriz Argimón",
+    "Legislature": {
+      "Upper_House": "Senate",
+      "Lower_House": "Chamber of Representatives"
+    }
+  },
+  "Independence": {
+    "Declared": "25 August 1825",
+    "Recognized": "27 August 1828",
+    "Current_Constitution": "15 February 1967"
+  },
+  "Economy": {
+    "GDP_PPP_2023_Estimate": {
+      "Total": "$103.372 billion",
+      "Per_Capita": "$28,983"
+    },
+    "GDP_Nominal_2023_Estimate": {
+      "Total": "$76.244 billion",
+      "Per_Capita": "$21,377"
+    },
+    "Gini_Index": "40.8 (2021)",
+    "HDI": "0.809 (2021)"
+  },
+  "Culture_and_Society": {
+    "Ethnic_Groups": {
+      "White": "87.7%",
+      "Black": "4.6%",
+      "Indigenous": "2.4%",
+      "East_Asian": "0.2%",
+      "Other_Unspecified": "5.1%"
+    },
+    "Religion": {
+      "Christianity": "54.3%",
+      "Catholicism": "44.8%",
+      "Other_Christian": "9.5%",
+      "No_Religion": "44.5%",
+      "Other_Unspecified": "1.2%"
+    },
+    "Languages": ["Spanish", "Uruguayan Sign Language"],
+    "Demonym": "Uruguayan"
+  },
+  "Health_and_Education": {
+    "Life_Expectancy": "78.7 years",
+    "Literacy_Rate": "98.8%",
+    "Education_Expenditures": "4.6% of GDP"
+  },
+  "Environmental_Factors": {
+    "Climate": "Warm temperate",
+    "Major_Environmental_Issues": ["Water pollution", "Heavy metal pollution", "Inadequate waste disposal", "Deforestation"]
+  },
+  "International_Relations": {
+    "MemberOf": ["United Nations", "OAS", "Mercosur"],
+    "Democracy_Ranking": "First in the Americas",
+    "Peace_Index": "First in Latin America",
+    "Low_Perception_of_Corruption": true,
+    "E-Government": "Top rank in Latin America",
+    "Social_Progressiveness": "High in Latin America",
+    "LGBT_Community_Acceptance": true,
+ "Legal_Stances": {
+ "Cannabis": "Legalized",
+ "Same-Sex_Marriage": "Legalized",
+"Prostitution": "Legalized",
+"Abortion": "Legalized"
+}
+},
+"FoundingMemeber": ["United Nations", "OAS", "Mercosur"]
+}
+}
