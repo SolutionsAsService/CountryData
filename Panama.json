@@ -1,0 +1,79 @@
+{
+  "Country": "Panama",
+  "Official_Name": "Republic of Panama",
+  "Location": {
+    "Continent": "Central America",
+    "Borders": {
+      "West": "Costa Rica",
+      "Southeast": "Colombia",
+      "North": "Caribbean Sea",
+      "South": "Pacific Ocean"
+    },
+    "Region": "Transcontinental (Central and South America)"
+  },
+  "Area": {
+    "Total": "75,417 km²",
+    "Rank": 116,
+    "Water_Percentage": 2.9
+  },
+  "Population": {
+    "2023_Estimate": "4,462,000",
+    "Density": "56/km²"
+  },
+  "Capital_And_Largest_City": "Panama City",
+  "Government": {
+    "Type": "Unitary presidential republic",
+    "President": "Laurentino Cortizo",
+    "Vice_President": "José Gabriel Carrizo",
+    "Legislature": "National Assembly"
+  },
+  "Independence": {
+    "From_Spanish_Empire": "November 28, 1821",
+    "Union_With_Gran_Colombia": "December 1821",
+    "From_Republic_of_Colombia": "November 3, 1903",
+    "Current_Constitution": "October 11, 1972"
+  },
+  "Economy": {
+    "GDP_PPP_2023_Estimate": {
+      "Total": "$190.306 billion",
+      "Per_Capita": "$42,738"
+    },
+    "GDP_Nominal_2023_Estimate": {
+      "Total": "$82.348 billion",
+      "Per_Capita": "$18,493"
+    },
+    "Gini_Index": "49.9 (2017)",
+    "HDI": "0.805 (2021)"
+  },
+  "Culture_and_Society": {
+    "Ethnic_Groups": {
+      "Mestizo": "65.0%",
+      "Indigenous": "12.3%",
+      "Black": "9.2%",
+      "Mulatto": "6.8%",
+      "White": "6.7%"
+    },
+    "Religion": {
+      "Christianity": "91.5%",
+      "Roman_Catholic": "63.2%",
+      "Protestant": "25.0%",
+      "Other_Christian": "3.3%",
+      "No_Religion": "7.6%",
+      "Other": "0.9%"
+    },
+    "Languages": ["Spanish"],
+    "Demonym": "Panamanian"
+  },
+  "Health_and_Education": {
+    "Life_Expectancy": "78.4 years",
+    "Literacy_Rate": "95.7%",
+    "Education_Expenditures": "3.9% of GDP"
+  },
+  "Environmental_Factors": {
+    "Climate": "Tropical maritime",
+    "Major_Environmental_Issues": ["Water pollution", "Deforestation", "Land degradation", "Air pollution in urban areas", "Mining impacts"]
+  },
+  "International_Relations": {
+    "Membership": ["United Nations", "OAS", "LAIA", "G77", "WHO", "NAM"]
+  }
+}
