@@ -1,0 +1,138 @@
+{
+  "Fiji": {
+    "Name": "Republic of Fiji",
+    "Official_Languages": ["iTaukei (Fijian)", "English", "Fiji Hindi"],
+    "Capital": "Suva",
+    "Coordinates": {
+      "Latitude": "18°10′S",
+      "Longitude": "178°27′E"
+    },
+    "Area": "18,274 km2",
+    "Population": {
+      "2018_Estimate": 926276,
+      "Density": "46.4/km2"
+    },
+    "Government": {
+      "Type": "Unitary parliamentary republic",
+      "President": "Wiliame Katonivere",
+      "Prime_Minister": "Sitiveni Rabuka",
+      "Chief_Justice": "Salesi Temo (acting)",
+      "Legislature": "Parliament"
+    },
+    "Independence": {
+      "From_United_Kingdom": "10 October 1970",
+      "Republic_Declaration": "6 October 1987",
+      "Current_Constitution": "6 September 2013"
+    },
+    "Economy": {
+      "GDP_PPP_2023_Estimate": {
+        "Total": "$15.152 billion",
+        "Per_Capita": "$16,563"
+      },
+      "GDP_Nominal_2023_Estimate": {
+        "Total": "$5.511 billion",
+        "Per_Capita": "$6,024"
+      },
+      "Gini_Index": "36.4",
+      "HDI": "0.730"
+    },
+    "Currency": "Fijian dollar (FJD)",
+    "Time_Zone": "UTC+12 (FJT)",
+    "Driving_Side": "left",
+    "Calling_Code": "+679",
+    "ISO_3166_Code": "FJ",
+    "Internet_TLD": ".fj",
+    "Geography": {
+      "Archipelago": "More than 330 islands",
+      "Inhabited_Islands": "About 110",
+      "Islets": "More than 500",
+      "Outlying_Island_Group": "Ono-i-Lau"
+    },
+    "Demographics": {
+      "Major_Islands": ["Viti Levu", "Vanua Levu"],
+      "Ethnic_Groups": {
+        "Indigenous_Fijians": "56.8%",
+        "Indo-Fijians": "37.5%",
+        "Rotumans": "1.2%",
+        "Others": "4.5%"
+      },
+      "Religion": {
+        "Christianity": "64.4%",
+        "Methodism": "34.6%",
+        "Other_Christian": "29.8%",
+        "Hinduism": "27.9%",
+        "Islam": "6.3%"
+      }
+    },
+    "Economic_Sectors": {
+      "Agriculture_and_Forestry": {
+        "Sugarcane_Production": "Main agricultural product",
+        "Other_Products": ["Coconuts", "Copra", "Ginger", "Cassava", "Bananas", "Rice", "Sweet Potatoes", "Taro", "Kava", "Pineapples", "Plantains"],
+        "Livestock": ["Cattle", "Pigs", "Goats"],
+        "Forestry_Products": ["Lumber"]
+      },
+      "Fishing": "Important for economy",
+      "Tourism": "Major source of foreign exchange",
+      "Garment_Manufacturing": "Significant commercial sector"
+    },
+    "History": {
+      "Early_Settlement": "Second millennium BC",
+      "European_Contact": "17th century",
+      "British_Colony": "1874",
+      "Independence": "1970",
+      "Recent_Political_Developments": "Democratic elections in 2014, FijiFirst party wins"
+    },
+    "Current_Political_Landscape": {
+      "Recent_Elections": {
+        "2014": "FijiFirst party won",
+        "2018": "FijiFirst party won narrowly",
+        "2022": "People’s Alliance party won, led by Sitiveni Rabuka"
+      },
+      "Political_Changes": {
+        "2021": "Wiliame Katonivere elected as President",
+        "2022": "Major shift in political power"
+      },
+      "Constitutional_Framework": "Adopted in 2013"
+    },
+    "Culture_and_Society": {
+      "Cultural_Influences": ["Polynesian", "Melanesian"],
+      "Cultural_Practices": ["Yaqona ceremony", "Masi cloth making"],
+      "Traditional_Structures": ["Bure and Vale housing"],
+      "Currency_System": {
+        "Historical": "Tabua (sperm whale teeth)",
+        "Current": "Fijian dollar (FJD)"
+      }
+    },
+    "Economy": {
+      "Main_Sectors": ["Tourism", "Agriculture", "Fishing", "Garment Manufacturing"],
+      "Agricultural_Products": ["Sugarcane", "Coconuts", "Ginger", "Cassava", "Bananas", "Rice", "Sweet Potatoes", "Taro", "Kava", "Pineapples", "Plantains"],
+      "Forestry_Products": ["Lumber"],
+      "Fishing": "Significant part of economy"
+    },
+    "History": {
+      "Early_History": "Inhabited since the second millennium BC",
+      "European_Contact": "17th century",
+      "British_Colony": "Became a British colony in 1874",
+      "Independence": "Achieved in 1970",
+      "Recent_History": {
+        "1987": "Declared a republic",
+        "2006": "Military coup",
+        "2013": "New constitution adopted",
+        "2014": "Democratic elections held"
+      }
+    },
+    "Geography": {
+      "Location": "Melanesia, Oceania, South Pacific Ocean",
+      "Distance_from_New_Zealand": "1,100 nautical miles north-northeast",
+      "Total_Land_Area": "18,300 square kilometres",
+      "Major_Islands": ["Viti Levu", "Vanua Levu"],
+      "Archipelago": "More than 330 islands and 500 islets",
+      "Terrain": "Volcanic, mountainous"
+    },
+    "Environment": {
+      "Geothermal_Activity": "Present on Vanua Levu and Taveuni islands",
+      "Climate": "Tropical marine",
+      "Biodiversity": "Rich in marine and terrestrial species"
+    }
+  }
+}
