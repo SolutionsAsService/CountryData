@@ -1,0 +1,77 @@
+{
+  "Cambodia": {
+  "FullName": "Kingdom of Cambodia",
+  "Native_Names": {
+    "Khmer": "ព្រះរាជាណាចក្រកម្ពុជា",
+    "UNGEGN": "Preăh Réachéanachâkr Kâmpŭchéa"
+  },
+  "Flag_Description": "Blue, red and white with Angkor Wat symbol",
+  "Royal_Arms_Description": "Two lions holding a shield with Angkor Wat",
+  "Motto": "ជាតិ សាសនា មហាក្សត្រ (Chéatĕ, Sasânéa, Môhaksâtr) - 'Nation, Religion, Monarch'",
+  "Anthem": {
+    "Title": "Nôkôr Réach",
+    "English_Title": "Majestic Kingdom",
+    "Duration": "1 minute and 31 seconds"
+  },
+  "Geography": {
+    "Location": "Mainland Southeast Asia",
+    "Area_Sq_Km": 181035,
+    "Borders": ["Thailand", "Laos", "Vietnam", "Gulf of Thailand"],
+    "Capital": {
+      "Name": "Phnom Penh",
+      "Coordinates": "11.57°N 104.91°E"
+    }
+  },
+  "Demographics": {
+    "Population_2022": 16713015,
+    "Ethnic_Groups": {
+      "Khmer": "95.6%",
+      "Cham": "2.4%",
+      "Chinese": "1.5%",
+      "Vietnamese": "0.2%",
+      "Others": "0.3%"
+    },
+    "Religions": {
+      "Buddhism": "97.1%",
+      "Islam": "2.0%",
+      "Christianity": "0.3%",
+      "Others": "0.5%"
+    }
+  },
+  "Government": {
+    "Type": "Unitary parliamentary constitutional monarchy",
+    "Monarch": "Norodom Sihamoni",
+    "Prime_Minister": "Hun Manet",
+    "Legislature": {
+      "Upper_House": "Senate",
+      "Lower_House": "National Assembly"
+    },
+    "Historical_Periods": ["Funan", "Chenla", "Khmer Empire", "Middle period", "French protectorate", "Independence from France"]
+  },
+  "Economy": {
+    "GDP_PPP_2024": {
+      "Total": "$106.714 billion",
+      "Per_Capita": "$6,541"
+    },
+    "GDP_Nominal_2024": {
+      "Total": "$33.233 billion",
+      "Per_Capita": "$2,037"
+    },
+    "Main_Sectors": ["Agriculture", "Textiles", "Construction", "Garments", "Tourism"]
+  },
+  "Culture": {
+    "Historical_Influence": "Indianised kingdom, spread of Hinduism and Buddhism",
+    "Languages": ["Khmer"],
+    "Cultural_Heritage": ["Angkor Wat", "Traditional dances", "Khmer cuisine"]
+  },
+  "Additional_Information": {
+    "Time_Zone": "UTC+07:00 (ICT)",
+    "Driving_Side": "right",
+    "Calling_Code": "+855",
+    "ISO_Code": "KH",
+    "Internet_TLD": ".kh",
+    "UN_Status": "Least developed country",
+    "International_Affiliations": ["United Nations", "ASEAN", "RCEP", "East Asia Summit", "WTO", "Non-Aligned Movement", "La Francophonie", "Dialogue partner of Shanghai Cooperation Organisation"]
+  }
+}
+}
