@@ -1,0 +1,92 @@
+{
+  "East Timor":{
+  "Country": "Democratic Republic of Timor-Leste",
+  "Native_Names": {
+    "Portuguese": "República Democrática de Timor-Leste",
+    "Tetum": "Repúblika Demokrátika de Timór-Leste"
+  },
+  "Flag_Description": "Red, black, yellow, and white with a black star",
+  "Emblem_Description": "Rice stalks surrounding a traditional house",
+  "Motto": {
+    "Portuguese": "Unidade, Acção, Progresso",
+    "English": "Unity, Action, Progress"
+  },
+  "Anthem": {
+    "Portuguese": "Pátria",
+    "English": "Fatherland",
+    "Duration": "2 minutes and 10 seconds"
+  },
+  "Geography": {
+    "Location": "Southeast Asia",
+    "Area_Sq_Km": 14874,
+    "Coastline": "Surrounded by the Timor Sea and the Ombai Strait",
+    "Capital": {
+      "Name": "Dili",
+      "Coordinates": "8.55°S 125.56°E"
+    },
+    "Major_Islands": ["Timor", "Oecusse", "Atauro", "Jaco"]
+  },
+  "Demographics": {
+    "Population_2021": 1340513,
+    "Religions": {
+      "Christianity": "99.53%",
+      "Catholicism": "97.57%",
+      "Protestantism": "1.96%",
+      "Islam": "0.24%",
+      "Other": "0.23%"
+    },
+    "Languages": {
+      "Official": ["Portuguese", "Tetum"],
+      "National": [
+        "Atauru", "Baikeno", "Bekais", "Bunak", "Fataluku", "Galoli", "Habun", 
+        "Idalaka", "Kawaimina", "Kemak", "Makalero", "Makasae", "Makuva", 
+        "Mambai", "Tokodede"
+      ],
+      "Working": ["English", "Indonesian"]
+    }
+  },
+  "Government": {
+    "Type": "Unitary semi-presidential republic",
+    "President": "José Ramos-Horta",
+    "Prime_Minister": "Xanana Gusmão",
+    "Legislature": "National Parliament",
+    "Independence": {
+      "From_Portugal": "28 November 1975",
+      "Annexation_by_Indonesia": "17 July 1976",
+      "Administered_by_UNTAET": "25 October 1999",
+      "Independence_Restored": "20 May 2002"
+    }
+  },
+  "Economy": {
+    "GDP_PPP_2023": {
+      "Total": "$5 billion",
+      "Per_Capita": "$3,747"
+    },
+    "GDP_Nominal_2023": {
+      "Total": "$2 billion",
+      "Per_Capita": "$1,497"
+    },
+    "Currency": "United States Dollar and East Timor Centavo (USD)",
+    "Main_Exports": ["Oil", "Coffee"]
+  },
+  "Culture": {
+    "Ethnic_Composition": "Austronesian and Papuan peoples",
+    "Linguistic_Diversity": "30 indigenous languages",
+    "Religious_Influence": "Majority Catholic with local traditions",
+    "Internet_Access": "27% of population (2017)",
+    "Democracy_Ranking": "Fully free and fair democracy in Southeast Asia"
+  },
+  "Additional_Information": {
+    "Time_Zone": "UTC+9 (Timor-Leste Time)",
+    "Driving_Side": "left",
+    "Calling_Code": "+670",
+    "ISO_Code": "TL",
+    "Internet_TLD": ".tl",
+    "International_Relations": [
+      "Community of Portuguese Language Countries", 
+      "Pacific Islands Forum (observer)", 
+      "ASEAN (applicant)"
+    ]
+  }
+}
+}
