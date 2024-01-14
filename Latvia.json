@@ -1,0 +1,109 @@
+{
+  "Latvia":{
+  "Country": "Latvia",
+  "Official_Name": "Republic of Latvia",
+  "Native_Name": {
+    "Latvian": "Latvijas Republika",
+    "Latgalian": "Latvejas Republika",
+    "Livonian": "Lețmō Vabāmō"
+  },
+  "Flag": "Three horizontal bands of maroon (top and bottom) and white (middle)",
+  "Anthem": "Dievs, svētī Latviju! (God Bless Latvia!)",
+  "Capital": "Riga",
+  "Coordinates": "56°57′N 24°6′E",
+  "Official_Languages": "Latvian",
+  "Recognized_Languages": ["Livonian", "Latgalian"],
+  "Ethnic_Groups": {
+    "2022": {
+      "Latvians": 63.0,
+      "Russians": 24.2,
+      "Belarusians": 3.1,
+      "Ukrainians": 2.2,
+      "Poles": 1.9,
+      "Lithuanians": 1.1,
+      "Roma": 0.3,
+      "Jews": 0.2,
+      "Others_Unspecified": 4.0
+    }
+  },
+  "Religion": {
+    "2018": {
+      "Christianity_Total": 64,
+      "Lutheranism": 36,
+      "Catholicism": 17,
+      "Orthodoxy": 9,
+      "Other_Christian": 2,
+      "No_Religion": 35,
+      "Others": 1
+    }
+  },
+  "Government": {
+    "Type": "Unitary parliamentary republic",
+    "President": "Edgars Rinkēvičs",
+    "Prime_Minister": "Evika Siliņa",
+    "Speaker_of_Saeima": "Daiga Mieriņa"
+  },
+  "Legislature": "Saeima",
+  "Independence": {
+    "Declared": "18 November 1918",
+    "Recognised": "26 January 1921",
+    "Constitution_Adopted": "7 November 1922",
+    "Restored": "21 August 1991",
+    "EU_Joined": "1 May 2004"
+  },
+  "Area": {
+    "Total": "64,589 km2",
+    "Rank": 122,
+    "Water_Percentage": 2.09
+  },
+  "Population": {
+    "2022_Estimate": "1,842,226",
+    "Density": "29.6/km2"
+  },
+  "GDP": {
+    "PPP_2023_Estimate": {
+      "Total": "$76.550 billion",
+      "Per_Capita": "$40,891"
+    },
+    "Nominal_2023_Estimate": {
+      "Total": "$46.668 billion",
+      "Per_Capita": "$24,929"
+    }
+  },
+  "Gini_Index": {
+    "2021": 35.7
+  },
+  "HDI": {
+    "2021": 0.863
+  },
+  "Currency": "Euro (€) (EUR)",
+  "Time_Zone": "UTC+2 (EET)",
+  "Summer_DST": "UTC+3 (EEST)",
+  "Driving_Side": "right",
+  "Calling_Code": "+371",
+  "ISO_Code": "LV",
+  "Internet_TLD": ".lv",
+  "Geography": {
+    "Location": "Baltic region of Northern Europe",
+    "Climate": "Maritime; wet, moderate winters",
+    "Land_Use": {
+      "Agricultural_Land_Percentage": 29.2,
+      "Forest_Percentage": 54.1
+    },
+    "Bordering_Countries": ["Russia", "Belarus", "Estonia", "Lithuania"],
+    "Maritime_Borders": ["Sweden"]
+  },
+  "Culture_and_History": {
+    "Art_Nouveau_Architecture": "Riga has the finest collection in Europe",
+    "Unique_Facts": [
+      "Home to a large variety of deciduous and coniferous tree species",
+      "High rates of fashion models",
+      "Shortage of women compared to men"
+    ]
+  },
+  "Environmental_Aspects": {
+    "Forest_Coverage": "Approximately 56%",
+    "Rivers": "Around 12,500 rivers, streams and large ditches"
+  }
+}
+}
