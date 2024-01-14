@@ -1,0 +1,68 @@
+{
+  "Historical_Entity": "Đại Việt",
+  "Alternate_Names": ["Annam", "Đại Cồ Việt"],
+  "Period": {
+    "Start": "10th century AD",
+    "End": "Early 19th century"
+  },
+  "Location": {
+    "Center": "Region of present-day Hanoi, Northern Vietnam",
+    "Territorial_Expansion": "South China Sea, Gulf of Tonkin to Gulf of Thailand"
+  },
+  "Capitals": {
+    "Hoa_Lư": "968–1010",
+    "Thăng_Long": "1010–1398, 1428–1789",
+    "Tây_Đô": "1398-1400",
+    "Phú_Xuân": "1789–1804"
+  },
+  "Official_Languages": "Vietnamese",
+  "Văn_ngôn": "Official script since 1174",
+  "Common_Languages": ["Viet–Muong", "Kra–Dai", "Other Southeast Asian Languages"],
+  "Religion": {
+    "Buddhism": "State religion from 968 to 1400",
+    "Confucianism": true,
+    "Taoism": true,
+    "Đạo_Lương": true,
+    "Hinduism": true,
+    "Islam": true,
+    "Catholicism": true
+  },
+  "Government_Form": {
+    "Early_Period": "Absolute monarchy",
+    "Later_Period": "Monarchic feudal military dictatorship"
+  },
+  "Emperors": {
+    "First_Emperor": {
+      "Name": "Đinh Bộ Lĩnh",
+      "Reign": "968–980"
+    },
+    "Last_Emperor": {
+      "Name": "Gia Long",
+      "Reign": "1802–1804"
+    }
+  },
+  "Military_Dictators": {
+    "First": "Nguyễn Kim, 1533–1545",
+    "Last": "Nguyễn Huệ, 1786–1788"
+  },
+  "Dynasties": {
+    "Đinh": "968–980",
+    "Early_Lê": "980–1009",
+    "Lý": "1009–1226",
+    "Trần": "1226–1400",
+    "Hồ": "1400–1407",
+    "Later_Lê": "1428–1789",
+    "Mạc": "1527–1677",
+    "Tây_Sơn": "1778–1802"
+  },
+  "Population_Estimates": {
+    "1200": "1,200,000",
+    "1400": "1,600,000",
+    "1539": "5,625,000"
+  },
+  "Currency": "Vietnamese văn, banknote",
+  "Succession": {
+    "Preceded_By": "Tĩnh Hải quân",
+    "Succeeded_By": "Việt Nam under the Nguyễn dynasty"
+  },
+ 
