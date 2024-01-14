@@ -1,0 +1,93 @@
+{
+  "USA":{
+  "Country": "United States of America",
+  "Alias": "America",
+   "Abbreviation": ["USA", "U.S.", ],
+  "Geography": {
+    "Location": "North America",
+    "Borders": {
+      "Land": ["Canada (North)", "Mexico (South)"],
+      "Maritime": "Various countries"
+    },
+    "Area": {
+      "Total": "3,796,742 sq mi",
+      "Land": "3,531,905 sq mi",
+      "WaterPercentage": 4.66
+    },
+    "MajorLandforms": ["50 states", "Federal district", "Unincorporated territories", "Minor Outlying Islands", "Indian reservations"]
+  },
+  "Demographics": {
+    "Population": {
+      "2023Estimate": 334,914,895,
+      "2020Census": 331,449,281,
+      "Density": "87/sq mi"
+    },
+    "Ethnicity": {
+      "White": "61.6%",
+      "Black": "12.4%",
+      "Asian": "6.0%",
+      "NativeAmerican": "1.1%",
+      "PacificIslander": "0.2%",
+      "TwoOrMoreRaces": "10.2%",
+      "Other": "8.4%"
+    },
+    "Origin": {
+      "NonHispanicOrLatino": "81.3%",
+      "HispanicOrLatino": "18.7%"
+    },
+    "Religion": {
+      "Christianity": "70%",
+      "Unaffiliated": "21%",
+      "Judaism": "2%",
+      "OtherReligions": "6%",
+      "NoAnswer": "1%"
+    }
+  },
+  "Government": {
+    "Type": "Federal presidential constitutional republic",
+    "President": "Joe Biden",
+    "VicePresident": "Kamala Harris",
+    "HouseSpeaker": "Mike Johnson",
+    "ChiefJustice": "John Roberts",
+    "Legislature": {
+      "UpperHouse": "Senate",
+      "LowerHouse": "House of Representatives"
+    },
+    "Independence": {
+      "Declaration": "July 4, 1776",
+      "Constitution": "June 21, 1788",
+      "LastAmendment": "May 5, 1992"
+    }
+  },
+  "Economy": {
+    "GDP_PPP_2023": {
+      "Total": "$26.950 trillion",
+      "PerCapita": "$80,412"
+    },
+    "GDP_Nominal_2023": {
+      "Total": "$26.950 trillion",
+      "PerCapita": "$80,412"
+    },
+    "GiniIndex": "39.4 (2020)",
+    "HDI": "0.921 (2021)"
+  },
+  "Miscellaneous": {
+    "Currency": "U.S. dollar (USD)",
+    "TimeZone": "UTC−4 to −12, +10, +11",
+    "SummerDST": "UTC−4 to −10",
+    "DateFormat": "mm/dd/yyyy",
+    "DrivingSide": "right",
+    "CallingCode": "+1",
+    "ISOCode": "US",
+    "InternetTLD": ".us"
+  },
+  "HistoricalEvents": [
+    "American Revolution",
+    "American Civil War",
+    "World War II",
+    "Cold War",
+    "Space Race",
+    "Moon Landing 1969"
+  ]
+}
+}
