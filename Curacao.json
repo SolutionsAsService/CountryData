@@ -1,0 +1,87 @@
+{
+  "Curaçao": {
+    "General": {
+      "OfficialName": "Country of Curaçao",
+      "Status": { "Constituent country":"Kingdom of the Netherlands" },
+      "Languages": ["Papiamentu", "Dutch", "English"],
+      "Capital": "Willemstad",
+      "Location": "Southern Caribbean Sea, 60 km north of the Venezuelan coast",
+      "Area": "444 km2",
+      "Climate": "Hot semi-arid",
+      "Timezone": "UTC−4:00"
+    },
+    "History": {
+      "OriginalInhabitants": ["Arawak", "Caquetio Amerindians"],
+      "EuropeanDiscovery": 1499,
+      "ColonialEra": {
+        "Spanish": "First European settlers",
+        "Dutch": "Gained control in 1634"
+      },
+      "RoleInSlaveTrade": "Major centre in the Atlantic slave trade",
+      "ModernHistory": "Became a self-governing country within the Kingdom of the Netherlands in 2010"
+    },
+    "Government": {
+      "Type": "Parliamentary representative democracy within a constitutional monarchy",
+      "Monarch": "Willem-Alexander",
+      "Governor": "Lucille George-Wout",
+      "PrimeMinister": "Gilmar Pisas",
+      "Legislature": "Parliament of Curaçao"
+    },
+    "Economy": {
+      "GDP_PPP": {
+        "2021": "$5.5 billion"
+      },
+json
+Copy code
+      "GDP_PerCapita": {
+        "2021": "$35,484"
+      },
+      "Industries": ["Oil refining", "Shipping services", "International trade", "Financial services", "Tourism"]
+    },
+    "Demographics": {
+      "Population": {
+        "2023Estimate": 147,300
+      },
+      "EthnicGroups": {
+        "Curaçaoan": "75.4%",
+        "Dutch": "9%",
+        "Dominican": "3.6%",
+        "Colombian": "3%",
+        "Haitian": "1.2%",
+        "Surinamese": "1.2%",
+        "Venezuelan": "1.1%",
+        "Aruban": "1.1%",
+        "Other": "6%",
+        "Unspecified": "0.9%"
+      },
+      "Religion": {
+        "Christianity": "90%",
+        "NoReligion": "6%",
+        "Hinduism": "2%",
+        "Islam": "0.5%",
+        "Judaism": "0.2%",
+        "Other": "0.8%",
+        "NotStated": "0.6%"
+      }
+    },
+    "Geography": {
+      "Terrain": "Shrublands, Cacti, Watapana and Evergreen Trees",
+      "Wildlife": ["Terns", "Herons", "Flamingos", "Orioles", "
+json
+Copy code
+        "Hummingbirds", "Bananaquits", "Trupial", "Mockingbirds", "Cormorants", "Gulls"],
+      "MarineLife": ["Various species of sea turtles"]
+    },
+    "Culture": {
+      "SignificantInfluence": ["Sephardic Jews from the 17th century"],
+      "HistoricalSites": ["Willemstad", "Fort Amsterdam"],
+      "CulturalHeritage": "Oldest active Jewish congregation in the Americas, dating to 1651"
+    },
+    "AdditionalInformation": {
+      "HistoricalRole": "Center of the Caribbean slave trade",
+      "StatusChange": "Part of Curaçao and Dependencies colony (1815-1954), then Netherlands Antilles (1954-2010)",
+      "GeographicalFeatures": "Part of the southwestern arc of the Lesser Antilles",
+      "HDI_2012": "0.811 (very high)"
+    }
+  }
+}
