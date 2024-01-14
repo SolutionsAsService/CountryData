@@ -1,0 +1,108 @@
+{
+  "Swedish_Empire": {
+    "official_name": "Kingdom of Sweden",
+    "local_name": "Konungariket Sverige",
+    "period": "1611-1721",
+    "royal_coat_of_arms": "1654-1720",
+    "geography": {
+      "capital": "Stockholm",
+      "territorial_extent_1658": "including overseas possessions"
+    },
+    "languages": {
+      "official": ["Swedish", "Finnish", "Low German", "Latin", "Estonian", "Latvian", "French"],
+      "common": ["Norwegian", "Sami languages", "Livonian", "Danish", "Russian", "Karelian", "Votic", "Yiddish", "Romani"]
+    },
+    "religion": {
+      "official": "Church of Sweden"
+    },
+    "government": {
+      "constitutional_monarchy": {
+        "period": "1611-1680, 1719-1721"
+      },
+      "absolute_monarchy": {
+        "period": "1680-1719"
+      },
+      "monarchs": [
+        {"name": "Gustavus Adolphus", "reign": "1611-1632"},
+        {"name": "Christina", "reign": "1632-1654"},
+        {"name": "Charles X Gustav", "reign": "1654-1660"},
+        {"name": "Charles XI", "reign": "1660-1697"},
+        {"name": "Charles XII", "reign": "1697-1718"},
+        {"name": "Ulrika Eleonora", "reign": "1718-1720"},
+        {"name": "Frederick I", "reign": "1720-1721"}
+      ],
+      "lord_high_chancellors": [
+        {"name": "Axel Oxenstierna", "period": "1612-1654"},
+        {"name": "Erik Oxenstierna", "period":
+"1654-1656"},
+{"name": "M.G. de la Gardie", "period": "1660-1680"}
+],
+"legislature": {
+"Riksdag": {},
+"Council_of_the_Realm": "Riksrådet"
+}
+},
+"historical_era": "Early Modern",
+"significant_events": {
+"Gustavus_Adolphus_crowned": "1611",
+"Peace_of_Westphalia": "1648",
+"Treaty_of_Oliva": "1660",
+"Absolute_monarchy_established": "1680",
+"End_of_absolutism": "1719",
+"Treaty_of_Nystad": "1721"
+},
+"population_17th_century": "~2,500,000",
+"currency": "Riksdaler",
+"preceded_by": "Kingdom of Sweden (1523–1611)",
+"succeeded_by": "Kingdom of Sweden (Age of Liberty)",
+"military": {
+"organization": {
+"regimental_system": "Every province maintained one regiment",
+"standing_army":
+json
+Copy code
+        "total": "19,584 men",
+        "cavalry": "3,250 cavalrymen",
+        "field_regiments": "1,176 men in eight companies"
+      },
+      "equipment_and_tactics": {
+        "leather_cannon": "Lightweight, fast-firing artillery",
+        "infantry": {
+          "musketeers": "Armed with flintlock musket, rapier sword, and shortened spear",
+          "pikemen": "Equipped with 4 to 6 meters long pikes"
+        },
+        "cavalry": "Armed with broadswords, flintlock carbine, and flintlock pistols"
+      },
+      "navy": {
+        "main_challenge": "Danish dominance in the Baltic Sea",
+        "notable_ships": ["Vasa"],
+        "strategic_alliances": ["England", "Dutch Republic"]
+      },
+      "campaigns": {
+        "Thirty_Years_War": {
+          "Swedish_intervention": "Defending Lutheran faith against Catholics",
+          "significant_battles": ["Battle of Breitenfeld"]
+        },
+        "Second_Northern_War": {}
+      },
+      "reforms": {
+        "Karl_XI": {
+          "allotment_system": "Implemented during Queen Kristina's rule, effective in Karl XI's reign"
+        }
+      }
+    },
+    "cultural_aspect": {
+      "overseas_colonies": [
+        {"name": "New Sweden", "location": "Delaware River valley"},
+        {"Caribbean_islands": {}}
+      ],
+      "high_nobility_influence": {
+        "Oxenstierna_family": {},
+        "conflict_with_uniformity_policy": {}
+      },
+      "great_reduction": "1680"
+    },
+    "demise": {
+      "decline": "Post-Charles XII's reign",
+      "loss_of_territories": "1721, following the Great Northern War",
+      "end_as_great_power": "1809,
