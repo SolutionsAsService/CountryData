@@ -1,0 +1,97 @@
+{
+  "Lithuania": {
+  "CommonName": "Lithuania",
+  "Official_Name": "Republic of Lithuania",
+  "Lithuanian_Name": "Lietuvos Respublika",
+  "Location": {
+    "Region": "Baltic region of Europe",
+    "Borders": [
+      "Latvia",
+      "Belarus",
+      "Poland",
+      "Russia"
+    ],
+    "Maritime_Border": "Sweden",
+    "Geographic_Coordinates": "54°41′N 25°19′E"
+  },
+  "Area": {
+    "Total_km2": 65300,
+    "Rank": 121,
+    "Water_Percentage": 1.98
+  },
+  "Population": {
+    "2024_Estimate": 2870191,
+    "Density_per_km2": 44
+  },
+  "Capital": "Vilnius",
+  "Major_Cities": ["Kaunas", "Klaipėda", "Šiauliai", "Panevėžys"],
+  "Official_Language": "Lithuanian",
+  "Ethnic_Groups": {
+    "2023": {
+      "Lithuanians": "83.6%",
+      "Poles": "6.4%",
+      "Russians": "5.1%",
+      "Belarusians": "1.7%",
+      "Ukrainians": "1.6%",
+      "Others": "1.6%"
+    }
+  },
+  "Religion": {
+    "2021": {
+      "Christianity": "79.4%",
+      "Catholicism": "74.2%",
+      "Other_Christian": "5.2%",
+      "No_Religion": "6.1%",
+      "Others": "0.8%",
+      "No_Answer": "13.7%"
+    }
+  },
+  "Government": {
+    "Type": "Unitary semi-presidential republic",
+    "President": "Gitanas Nausėda",
+    "Prime_Minister": "Ingrida Šimonytė",
+    "Seimas_Speaker": "Viktorija Čmilytė-Nielsen"
+  },
+  "Economy": {
+    "GDP_PPP": {
+      "2023_Estimate_Total": "$137.328 billion",
+      "Per_Capita": "$49,244"
+    },
+    "GDP_Nominal": {
+      "2023_Estimate_Total": "$79.427 billion",
+      "Per_Capita": "$28,481"
+    }
+  },
+  "HDI": {
+    "2021": "0.875",
+    "Rank": 35
+  },
+  "Currency": "Euro (€) (EUR)",
+  "Time_Zone": {
+    "Standard": "UTC+2 (EET)",
+    "DST": "UTC+3 (EEST)"
+  },
+  "Internet_TLD": ".lt",
+  "National_Symbols": {
+    "Flag": "Flag of Lithuania",
+    "Coat_of_Arms": "Coat of arms of Lithuania",
+    "Anthem": "Tautiška giesmė",
+    "Anthem_Duration": "1 minute and 48 seconds"
+  },
+  "Historical_Events": {
+    "First_Mentioned": "9 March 1009",
+    "Grand_Duchy": "1236",
+    "Coronation_of_Mindaugas": "6 July 1253",
+    "Union_with_Poland": "2 February 1386",
+    "Commonwealth_Created": "1 July 1569",
+    "Partitioned": "24 October 1795",
+    "Independence_Reinstated": "16 February 1918",
+    "Independence_Restored": "11 March 1990",
+    "Joined_EU": "1 May 2004"
+  },
+  "Geography": {
+    "Climate": "Humid continental",
+    "Terrain": "Gently rolling hills, forests, rivers, lakes"
+  }
+}
+}
