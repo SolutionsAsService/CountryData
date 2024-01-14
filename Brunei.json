@@ -1,7 +1,9 @@
 {
-  "Brunei":{
-  "Country": "Brunei Darussalam",
+  "Brunei": {
+  "FullName": "Brunei Darussalam",
   "Local_Name": "Negara Brunei Darussalam",
+  "lit.": "State of Brunei, the Abode of Peace'",
+  "JawiName": "نݢارا بروني دارالسلام‎",
   "Flag_Description": "Yellow with a white and black stripe and a red crest",
   "Emblem_Description": "Crest with hands, wings, crescent, and parasol",
   "Motto": "الدائمون المحسنون بالهدى (Sentiasa membuat kebajikan dengan petunjuk Allah) - 'Always in service with God's guidance'",
