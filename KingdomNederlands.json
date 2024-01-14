@@ -1,0 +1,106 @@
+{
+  "KingdomOfTheNetherlands": {
+    "TotalArea": "42,531 km²",
+    "LandArea": "34,467 km²",
+    "ConstituentCountries": ["Netherlands", "Aruba", "Curaçao", "Sint Maarten"],
+    "PublicBodies": ["Bonaire", "Sint Eustatius", "Saba"],
+    "Capital": {
+      "Netherlands": "Amsterdam",
+      "Aruba": "Oranjestad",
+      "Curaçao": "Willemstad",
+      "Sint Maarten": "Philipsburg"
+    },
+    "OfficialLanguages": {
+      "Netherlands": ["Dutch", "West Frisian"],
+      "Aruba": ["Dutch", "Papiamento"],
+      "Curaçao": ["Dutch", "Papiamento", "English"],
+      "Sint Maarten": ["Dutch", "English"],
+      "Bonaire": ["Dutch", "Papiamento"],
+      "Sint Eustatius": ["Dutch", "English"],
+      "Saba": ["Dutch", "English"]
+    },
+    "Currency": {
+      "Netherlands": "Euro (EUR)",
+      "Aruba": "Aruban florin (AWG)",
+      "Curaçao": "Netherlands Antillean guilder (ANG)",
+      "Sint Maarten": "Netherlands Antillean guilder (ANG)",
+      "Bonaire": "US Dollar (USD)",
+      "Sint Eustatius": "US Dollar (USD)",
+      "Saba": "US Dollar (USD)"
+    },
+    "GeographicalFeatures": {
+      "Netherlands": ["Below sea level areas", "Vaalserberg"],
+      "CaribbeanIslands": {
+        "LeewardIslands": ["Saba", "Sint Eustatius", "Sint Maarten"],
+        "LeewardAntilles": ["Aruba", "Bonaire", "Curaçao"]
+      }
+    },
+    "Population": {
+      "Netherlands": "Approx. 18 million (2024 estimate)",
+      "Aruba": "112,309 (2019)",
+      "Curaçao": "158,665 (2019)",
+      "Sint Maarten": "41,486 (2016)",
+      "Bonaire": "20,104 (2019)",
+      "Sint Eustatius": "3,138 (2019)",
+      "Saba": "1,915 (2019)"
+    },
+    "History": {
+      "SpanishNetherlands": "Before independence",
+      "ActOfAbjuration": "26 July 1581",
+      "PeaceOfMünster": "30 January 1648",
+     
+"KingdomEstablished": "16 March 1815",
+"LiberationDay": "5 May 1945",
+"KingdomCharter": "15 December 1954",
+"CaribbeanReorganisation": "10 October 2010"
+},
+"Government": {
+"Type": "Parliamentary constitutional monarchy",
+"Monarch": "Willem-Alexander",
+"PrimeMinister": "Mark Rutte",
+"Legislature": {
+"UpperHouse": "Senate",
+"LowerHouse": "House of Representatives"
+}
+},
+"Economy": {
+"GDP_PPP_2023": "$1.297 trillion",
+"GDP_Nominal_2023": "$1.09 trillion",
+"HDI_2021": "0.941 (very high)"
+},
+"Geography": {
+"EuropeanNetherlands": {
+"Location": "Northwestern Europe",
+"Borders": ["Germany", "Belgium", "France (Saint Martin)"],
+"Coastline": "North Sea"
+},
+"CaribbeanTerritories": {
+"Climate": "Tropical",
+"GeographicOrigin": ["Volcanic (Leeward Islands)", "Non-volcanic (Leeward Antilles)"]
+}
+},
+"Demographics": {
+"EthnicGroups_2022": {
+"Dutch": "74.0%",
+"OtherEuropean": "8.4%",
+"Turkish": "2.4%",
+"Moroccan": "2.4%",
+"Indonesian": "2.1%",
+"Surinamese": "2.1%",
+"DutchCaribbean": "1.1%",
+"Other": "7.6%"
+},
+"Religion_2020": {
+"NoReligion": "55.4%",
+"Christianity": "34.2%",
+"Islam": "5.2%",
+"Other": "5.1%"
+}
+},
+"Culture": {
+"DutchGoldenAge": "1588-1702",
+"Influence": ["Political", "Economic", "Cultural"],
+"TradingCompanies": ["Dutch East India Company", "Dutch West India Company"]
+}
+}
+}
