@@ -1,0 +1,88 @@
+{
+  "Ireland":{
+  "CommonName": "Ireland",
+  "IrishName": "Éire",
+  "FullName": "Republic of Ireland",
+  "Flag_Description": "Green with a golden harp",
+  "Coat_of_Arms_Description": "Azure, with a golden harp crowned with a golden crown",
+  "Anthem": {
+    "Title": "Amhrán na bhFiann",
+    "English_Title": "The Soldiers' Song",
+    "Duration": "1 minute and 0 seconds"
+  },
+  "Geography": {
+    "Location": "North-western Europe",
+    "Area_Sq_Km": 70273,
+    "Coastline": "Atlantic Ocean, Celtic Sea, St George's Channel, Irish Sea",
+    "Capital": {
+      "Name": "Dublin",
+      "Coordinates": "53°20.65′N 6°16.05′W"
+    }
+  },
+  "Demographics": {
+    "Population_2022": 5281600,
+    "Ethnic_Groups": {
+      "White_Irish": "76.6%",
+      "Other_White": "10.8%",
+      "Asian": "3.3%",
+      "Black": "1.5%",
+      "Other": "1.7%",
+      "Not_Stated": "6.2%"
+    },
+    "Religion": {
+      "Christianity": "75.7%",
+      "Catholicism": "69.1%",
+      "Anglicanism": "2.5%",
+      "Other_Christian": "4.1%",
+      "No_Religion": "14.5%",
+      "Other": "3.1%",
+      "Not_Stated": "6.7%"
+    },
+    "Languages": {
+      "Official": ["Irish", "English"]
+    }
+  },
+  "Government": {
+    "Type": "Unitary parliamentary republic",
+    "President": "Michael D. Higgins",
+    "Taoiseach": "Leo Varadkar",
+    "Tánaiste": "Micheál Martin",
+    "Chief_Justice": "Donal O'Donnell",
+    "Legislature": {
+      "Upper_House": "Seanad",
+      "Lower_House": "Dáil"
+    },
+    "Independence_From_UK": {
+      "Proclamation": "24 April 1916",
+      "Declaration": "21 January 1919",
+      "Anglo-Irish_Treaty": "6 December 1921",
+      "1922_Constitution": "6 December 1922",
+      "1937_Constitution": "29 December 1937",
+      "Republic_Act": "18 April 1949"
+    }
+  },
+  "Economy": {
+    "GDP_PPP_2023": {
+      "Total": "$722.929 billion",
+      "Per_Capita": "$137,638"
+    },
+    "GDP_Nominal_2023": {
+      "Total": "$589.569 billion",
+      "Per_Capita": "$112,247"
+    },
+    "Currency": "Euro (EUR)"
+  },
+  "Culture": {
+    "Historical_Influence": "Celtic, Norman, English",
+    "Military_Neutrality": "Non-aligned, not a NATO member",
+    "Economic_Period": "Celtic Tiger period (1995-2007)"
+  },
+  "Additional_Information": {
+    "Time_Zone": "UTC (GMT), UTC+1 (IST in summer)",
+    "Driving_Side": "left",
+    "Calling_Code": "+353",
+    "ISO_Code": "IE",
+    "Internet_TLD": ".ie",
+    "Membership": ["United Nations", "European Union", "Council of Europe", "OECD"]
+  }
+}
