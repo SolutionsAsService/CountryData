@@ -1,0 +1,93 @@
+{
+  "Estonia":{
+  "CommonName": "Estonia",
+  "Official_Name": "Republic of Estonia",
+  "Native_Name": "Eesti Vabariik",
+  "Flag": "Three equal horizontal bands of blue (top), black, and white",
+  "Anthem": "Mu isamaa, mu õnn ja rõõm",
+  "Capital": "Tallinn",
+  "Coordinates": "59°26′N 24°43′E",
+  "Area": {
+    "Total": "45,227 sq km",
+    "Land": "42,388 sq km",
+    "Water": "2,840 sq km"
+  },
+  "Population": {
+    "2024_Estimate": "1,373,101",
+    "2021_Census": "1,331,824",
+    "Density": "30.3/km2"
+  },
+  "Official_Language": "Estonian",
+  "Ethnic_Groups": {
+    "2023": {
+      "Estonians": 67.8,
+      "Russians": 22.0,
+      "Others": 10.2
+    }
+  },
+  "Religion": {
+    "2021": {
+      "No_Religion": 58.4,
+      "Christianity": 26.7,
+      "Undeclared": 12.7,
+      "Other": 2.2
+    }
+  },
+  "Government": {
+    "Type": "Unitary parliamentary republic",
+    "President": "Alar Karis",
+    "Prime_Minister": "Kaja Kallas",
+    "President_of_Parliament": "Lauri Hussar"
+  },
+  "Legislature": "Riigikogu",
+  "Independence": {
+    "Declaration": "23–24 February 1918",
+    "Restored": "20 August 1991",
+    "EU_Joined": "1 May 2004"
+  },
+  "GDP": {
+    "PPP_2023_Estimate": {
+      "Total": "$60.997 billion",
+      "Per_Capita": "$45,235"
+    },
+    "Nominal_2023_Estimate": {
+      "Total": "$41.799 billion",
+      "Per_Capita": "$30,998"
+    }
+  },
+  "Gini_Index": {
+    "2021": 30.6
+  },
+  "HDI": {
+    "2021": 0.890
+  },
+  "Currency": "Euro (€) (EUR)",
+  "Time_Zone": "UTC+02:00 (EET)",
+  "Summer_DST": "UTC+03:00 (EEST)",
+  "Driving_Side": "right",
+  "Calling_Code": "+372",
+  "ISO_Code": "EE",
+  "Internet_TLD": ".ee",
+  "Geographical_Location": {
+    "Bordering_Countries": ["Russia", "Latvia"],
+    "Maritime_Borders": ["Finland", "Sweden"],
+    "Major_Lakes": ["Lake Peipus", "Lake Võrtsjärv"],
+    "Climate": "Maritime; wet, moderate winters, cool summers"
+  },
+  "Administrative_Divisions": {
+    "Counties": ["Harju", "Hiiu", "Ida-Viru", "Jarva", "Jogeva", "Laane", "Laane-Viru", "Parnu", "Polva", "Rapla", "Saare", "Tartu", "Valga", "Viljandi", "Voru"]
+  },
+  "Culture_and_Society": {
+    "Education": "Best in Europe according to OECD’s PISA results",
+    "Folk_Songs": "133,000 documented",
+    "Famous_Composer": "Arvo Pärt",
+    "Technological_Advancements": ["Skype", "TransferWise", "GrabCAD", "Starship robots"],
+    "Cultural_Consumption": {
+      "Museum_Visits": "3.4 million",
+      "Cinema_Visits": "3.5 million",
+      "Concert_Visits": "2 million",
+      "Theatre_Visits": "1.2 million"
+    }
+  }
+}
+}
