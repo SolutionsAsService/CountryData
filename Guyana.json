@@ -1,0 +1,84 @@
+{
+  "Country": "Co-operative Republic of Guyana",
+  "Flag_Description": "Green with a red triangle and yellow arrowhead",
+  "Coat_of_Arms_Description": "A shield with a jaguar and Victoria amazonica lily",
+  "Motto": "One People, One Nation, One Destiny",
+  "Anthem": {
+    "Title": "Dear Land of Guyana, of Rivers and Plains",
+    "Duration": "54 seconds"
+  },
+  "Geography": {
+    "Location": "Northern mainland of South America",
+    "Area_Sq_Km": 215000,
+    "Borders": ["Atlantic Ocean", "Brazil", "Venezuela", "Suriname"],
+    "Capital": {
+      "Name": "Georgetown",
+      "Coordinates": "6°48′21″N 58°9′3″W"
+    },
+    "Territorial_Claim": "Contested areas with Venezuela"
+  },
+  "Demographics": {
+    "Population_2022": 795408,
+    "Ethnic_Groups": {
+      "Indian": "39.8%",
+      "African": "29.3%",
+      "Multiracial": "19.9%",
+      "Indigenous": "10.5%",
+      "White": "0.3%",
+      "Chinese": "0.2%"
+    },
+    "Religions": {
+      "Christianity": "54.2%",
+      "Hinduism": "31.0%",
+      "Islam": "7.5%",
+      "No_Religion": "4.2%",
+      "Others": "3.1%"
+    },
+    "Languages": {
+      "Official": "English",
+      "Recognised_Regional": ["Akawaio", "Macushi", "Waiwai", "Arawak", "Patamona", "Warao", "Carib", "Wapishana", "Pemon", "Mawayana"],
+      "Vernacular": "Guyanese Creole",
+      "Other": ["Guyanese Hindustani", "Portuguese", "Dutch", "Spanish", "Chinese"]
+    }
+  },
+  "Government": {
+    "Type": "Unitary assembly-independent republic",
+    "President": "Irfaan Ali",
+    "First_Vice_President": "Mark Phillips",
+    "Vice_President": "Bharrat Jagdeo",
+    "Legislature": "National Assembly",
+    "Independence": "26 May 1966 from the United Kingdom",
+    "Republic_Declaration": "23 February 1970",
+    "Constitution": "Adopted 6 October 1980"
+  },
+  "Economy": {
+    "GDP_PPP_2023": {
+      "Total": "$48.514 billion",
+      "Per_Capita": "$61,098"
+    },
+    "GDP_Nominal_2023": {
+      "Total": "$16.329 billion",
+      "Per_Capita": "$20,564"
+    },
+    "Main_Industries": ["Bauxite Mining", "Gold Mining", "Agriculture", "Timber"],
+    "Oil_Reserves": "Over 11 billion barrels",
+    "Economic_Growth": "World's fastest-growing economy as of 2020"
+  },
+  "Culture": {
+    "Cultural_Heritage": "Influenced by Indian, African, Indigenous, Chinese, Portuguese, European, and multiracial groups",
+  "Lingua_Franca": "Guyanese Creole",
+  "Unique_Features": ["Diverse society with no ethnic majority", "Rich biodiversity and natural habitats"],
+   "Cultural_Ties": "Strong ties with the Anglophone Caribbean and CARICOM"
+    },
+    "Additional_Information": {
+     "Time_Zone": "UTC-4 (AST)",
+     "Driving_Side": "left",
+      "Calling_Code": "+592",
+     "ISO_Code": "GY",
+     "Internet_TLD": ".gy",
+      "International_Affiliations": ["Caribbean Community (CARICOM)", "United Nations", "Union of South American Nations"],
+      "Poverty_Rate": "41% below poverty line as of 2017",
+      "Human_Development_Index": "High, ranked 108th in 2021",
+      "Environmental_Aspects": ["Low population density", "One of the least densely populated countries on Earth"]
+  }
+}
