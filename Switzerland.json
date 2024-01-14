@@ -1,0 +1,166 @@
+{
+  "Country": {
+    "OfficialName": "Swiss Confederation",
+    "NativeNames": {
+      "German": "Schweizerische Eidgenossenschaft",
+      "French": "Confédération suisse",
+      "Italian": "Confederazione Svizzera",
+      "Romansh": "Confederaziun svizra",
+      "Latin": "Confoederatio Helvetica"
+    },
+    "Flag": "Flag of Switzerland",
+    "CoatOfArms": "Coat of arms of Switzerland",
+    "Motto": "Unus pro omnibus, omnes pro uno (One for all, all for one)",
+    "Anthem": "Swiss Psalm",
+    "Location": {
+      "Continent": "Europe",
+      "Coordinates": "46°57′N 7°27′E",
+      "BorderingCountries": ["Italy", "France", "Germany", "Austria", "Liechtenstein"]
+    },
+    "Geography": {
+      "Regions": ["Swiss Plateau", "Alps", "Jura"],
+      "TotalArea": "41,285 km2",
+      "WaterPercentage": "4.34% (2015)"
+    },
+    "Population": {
+      "2023Estimate": "8,902,308",
+      "Density": "207 per km2"
+    },
+    "Capital": {
+      "DeJure": "None",
+      "DeFacto": "Bern"
+    },
+    "LargestCity": "Zürich",
+    "OfficialLanguages": ["German", "French", "Italian", "Romansh"],
+    "Religion": {
+      "Christianity": "62.6%",
+      "Catholicism": "34.4%",
+      "SwissReformed": "22.5%",
+      "OtherChristian": "5.7%",
+      "NoReligion": "29.4%",
+      "Islam": "5.4%",
+      "Hinduism": "0.6%",
+      "Other": "0.9%",
+      "Unanswered": "1.1%"
+    },
+    "Government": {
+      "Type": "Federal assembly-independent directorial republic",
+      "FederalCouncil": [
+        "Viola Amherd",
+        "Karin Keller-Sutter",
+        "Guy Parmelin",
+        "Ignazio Cassis",
+        "Albert Rösti",
+        "Élisabeth Baume-Schneider",
+        "Beat Jans"
+      ],
+      "FederalChancellor": "Viktor Rossi",
+      "Legislature": {
+        "UpperHouse": "Council of States",
+        "LowerHouse": "National Council"
+      }
+    },
+    "Economy": {
+      "GDP_PPP": {
+        "2023Total": "$788.335 billion",
+        "PerCapita": "$89,537"
+      },
+      "GDP_Nominal": {
+        "2023Total": "$905.684 billion",
+        "PerCapita": "$102,865"
+      },
+      "Gini
+Continuing the JSON schema for Switzerland:
+
+json
+Copy code
+{
+  "Gini": {
+    "2018Score": "29.7",
+    "Category": "Low"
+  },
+  "HDI": {
+    "2021Score": "0.962",
+    "Rank": "1st",
+    "Category": "Very high"
+  },
+  "Currency": "Swiss Franc (CHF)",
+  "TimeZone": {
+    "Standard": "UTC+1 (CET)",
+    "SummerDST": "UTC+2 (CEST)"
+  },
+  "DateFormat": "dd.mm.yyyy",
+  "DrivingSide": "Right",
+  "CallingCode": "+41",
+  "ISO3166Code": "CH",
+  "InternetTLD": [".ch", ".swiss"],
+  "HistoricalContext": {
+    "Foundation": "1 August 1291",
+    "IndependenceRecognised": "24 October 1648 (Peace of Westphalia)",
+    "FederalStateFormation": "12 September 1848"
+  },
+  "EnvironmentalConcerns": {
+    "Issues": [
+      "Air pollution from vehicle emissions",
+      "Water pollution from agricultural fertilizers",
+      "Soil contamination and erosion",
+      "Loss of biodiversity"
+    ],
+    "InternationalAgreements": [
+      "Air Pollution treaties",
+      "Biodiversity",
+      "Climate Change-Paris Agreement",
+      "Endangered Species",
+      "Ozone Layer Protection"
+    ]
+  },
+  "HealthAndSocialMetrics": {
+    "ObesityAdultPrevalenceRate": "19.5% (2016)",
+    "AlcoholConsumptionPerCapita": "9.41 liters (2019)",
+    "TobaccoUse": "25.5% (2020)",
+    "EducationExpenditures": "5.2% of GDP (2020)",
+    "SchoolLifeExpectancy": "17 years (2020)"
+  },
+  "Demographics": {
+    "UrbanPopulation": "74.2% (2023)",
+    "MajorCities": [
+      {"Zürich": "1,431,538"},
+      {"Genève": "632,830"},
+      {"Basel": "570,433"},
+      {"Lausanne": "459,885"},
+      {"Bern": "440,889"}
+    ],
+    "Languages": [
+      "German",
+      "French",
+      "Italian",
+      "Romansh"
+    ]
+  },
+  "CulturalIdentity": {
+    "NationalIdentity": "Willensnation (nation of volition)",
+    "Symbolism": "Alpine symbolism",
+    "LinguisticDiversity": [
+      "Schweiz (German)",
+      "Suisse (French)",
+      "Svizzera (Italian)",
+      "Svizra (Romansh)"
+    ],
+    "AlternateNames": "Helvetia (on coins and stamps)"
+  },
+  "InternationalRole": {
+    "OrganizationsHosted": [
+      "Red Cross",
+      "WTO",
+      "WHO",
+      "ILO",
+      "FIFA",
+      "United Nations"
+    ],
+    "Membership": [
+      "European Free Trade Association",
+      "United Nations"
+    ],
+    "NeutralityPolicySince": "16th century"
+  }
+}
