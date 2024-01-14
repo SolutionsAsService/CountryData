@@ -1,0 +1,80 @@
+{
+  "Country": "Republic of Suriname",
+  "Flag_Description": "Green with a red band and yellow star in the center",
+  "Coat_of_Arms_Description": "Two Amerindians holding a shield with a ship, tree, and diamond",
+  "Motto": "Justitia – Pietas – Fides (Justice – Piety – Trust)",
+  "Anthem": {
+    "Title": "God zij met ons Suriname",
+    "English_Title": "God be with our Suriname",
+    "Duration": "54 seconds"
+  },
+  "Geography": {
+    "Location": "Northern South America",
+    "Area_Sq_Km": 163820,
+    "Borders": ["Atlantic Ocean", "French Guiana", "Guyana", "Brazil"],
+    "Capital": {
+      "Name": "Paramaribo",
+      "Coordinates": "5°50′N 55°10′W"
+    }
+  },
+  "Demographics": {
+    "Population_2022": 632638,
+    "Ethnic_Groups": {
+      "Indian": "27.4%",
+      "Maroon-Bushinengue": "21.7%",
+  "Creole": "15.7%",
+  "Javanese": "13.7%",
+  "Multiracial": "13.4%",
+  "Indigenous": "3.8%",
+  "Chinese": "1.5%",
+  "European": "0.3%",
+  "Others": "1.9%"
+},
+"Religions": {
+  "Christianity": "52.3%",
+  "Hinduism": "18.8%",
+  "Islam": "14.3%",
+  "No_Religion": "6.2%",
+  "Folk_Religions": "5.6%",
+  "Others": "2.8%"
+}
+},
+"Government": {
+"Type": "Unitary assembly-independent republic",
+"President": "Chan Santokhi",
+"Vice_President": "Ronnie Brunswijk",
+"Legislature": "National Assembly",
+"Independence_From_Netherlands": "25 November 1975"
+},
+"Economy": {
+"GDP_PPP_2023": {
+"Total": "$11.435 billion",
+"Per_Capita": "$18,311"
+},
+"GDP_Nominal_2023": {
+"Total": "$3.539
+billion",
+"Per_Capita": "$5,667"
+},
+"Main_Resources": ["Bauxite", "Gold", "Petroleum", "Agricultural Products"]
+},
+"Culture": {
+"Languages": {
+"Official": "Dutch",
+"Regional": ["Akurio", "Arawak-Lokono", "Carib-Kari'nja", "Sikiana-Kashuyana", "Tiro-Tiriyó", "Waiwai", "Warao", "Wayana"],
+"Other": ["Sarnami Hindustani", "Ndyuka", "Saramaccan", "Matawai", "Aluku", "Paramaccan", "Kwinti", "Javanese", "Chinese", "English", "French", "Portuguese", "Spanish"]
+},
+"Cultural_Influences": ["Dutch colonial", "African", "Asian"],
+"Society": "Highly diverse with no ethnic majority",
+"Lingua_Franca": "Sranan Tongo"
+},
+"Additional_Information": {
+"Time_Zone": "UTC-3 (SRT)",
+"Driving_Side": "left",
+"Calling_Code": "+597",
+"ISO_Code": "SR",
+"Internet_TLD": ".sr",
+"International_Affiliations": ["Caribbean Community (CARICOM)", "United Nations", "Organisation of Islamic Cooperation"],
+"Population_Distribution": "Most people live along the northern coast"
+}
+}
