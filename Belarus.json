@@ -1,0 +1,92 @@
+{
+  "Country": "Belarus",
+  "Official_Name": "Republic of Belarus",
+  "Belarusian_Name": "Рэспубліка Беларусь",
+  "Russian_Name": "Республика Беларусь",
+  "Location": {
+    "Region": "Eastern Europe",
+    "Borders": [
+      "Russia",
+      "Ukraine",
+      "Poland",
+      "Lithuania",
+      "Latvia"
+    ],
+    "Geographic_Coordinates": "53°55′N 27°33′E"
+  },
+  "Area": {
+    "Total_km2": 207595,
+    "Rank": 84,
+    "Water_Percentage": 1.4
+  },
+  "Population": {
+    "2022_Estimate": 9255524,
+    "Density_per_km2": 45.8
+  },
+  "Capital_Largest_City": "Minsk",
+  "Official_Languages": ["Belarusian", "Russian"],
+  "Ethnic_Groups": {
+    "2019": {
+      "Belarusians": "84.9%",
+      "Russians": "7.5%",
+      "Poles": "3.1%",
+      "Ukrainians": "1.7%",
+      "Others": "2.8%"
+    }
+  },
+  "Religion": {
+    "2020": {
+      "Christianity": "91.0%",
+      "Eastern_Orthodoxy": "83.3%",
+      "Other_Christian": "7.7%",
+      "No_Religion": "7.8%",
+      "Other": "1.2%"
+    }
+  },
+  "Government": {
+    "Type": "Unitary presidential republic under a dictatorship",
+    "President": "Alexander Lukashenko",
+    "Prime_Minister": "Roman Golovchenko"
+  },
+  "Legislature": {
+    "Upper_House": "Council of the Republic",
+    "Lower_House": "House of Representatives"
+  },
+  "Historical_Events": {
+    "Kievan_Rus": "882",
+    "Belarusian_Democratic_Republic": "25 March 1918",
+    "Socialist_Soviet_Republic": "1 January 1919",
+    "Byelorussian_SSR": "31 July 1920",
+    "Declaration_of_State_Sovereignty": "27 July 1990",
+    "Declaration_of_Independence": "25 August 1991",
+    "Current_Constitution": "15 March 1994",
+    "Formation_of_Union_State": "8 December 1999"
+  },
+  "Economy": {
+    "GDP_PPP": {
+      "2023_Estimate_Total": "$221.186 billion",
+      "Per_Capita": "$24,016"
+    },
+    "GDP_Nominal": {
+      "2023_Estimate_Total": "$68.864 billion",
+      "Per_Capita": "$7,477"
+    }
+  },
+  "HDI": {
+    "2021": "0.808",
+    "Rank": 60
+  },
+  "Currency": "Belarusian ruble (BYN)",
+  "Time_Zone": "UTC+3 (MSK)",
+  "Internet_TLD": [".by", ".бел"],
+  "National_Symbols": {
+    "Flag": "Flag of Belarus",
+    "Emblem": "Emblem of Belarus",
+    "Anthem": "State Anthem of the Republic of Belarus",
+    "Anthem_Duration": "3 minutes and 32 seconds"
+  },
+  "Geography": {
+    "Climate": "Hemiboreal",
+    "Terrain": "Hilly lowland, forests, swamps, rivers, lakes"
+  }
+}
