@@ -1,0 +1,80 @@
+{
+  "Myanmar": {
+  "FullName": "Republic of the Union of Myanmar",
+  "AlsoKnownAs": "Burma",
+  "Geography": {
+    "Location": "Southeast Asia",
+    "Area": {
+      "Total": "676,579 km²",
+      "WaterPercentage": 3.06
+    },
+    "Borders": ["Bangladesh", "India", "China", "Laos", "Thailand"],
+    "Coastline": "1,384 mi",
+    "Capital": "Naypyidaw",
+    "LargestCity": "Yangon",
+    "Climate": {
+      "Lowlands": "Tropical monsoon",
+      "Highlands": {
+        "Subtropical": "Around 2,500 m",
+        "Temperate": "3,000 m",
+        "Alpine": "Above 3,500 m"
+      }
+    }
+  },
+  "Demographics": {
+    "Population2022Estimate": 57,526,449,
+    "Density": "76.0/km²",
+    "EthnicGroups": {
+      "Bamar": "68%",
+      "Shan": "9%",
+      "Karen": "7%",
+      "Rakhine": "4%",
+      "Chinese": "3%",
+      "Indian": "2%",
+      "Mon": "2%",
+      "Other": "5%"
+    },
+    "Religion": {
+      "Buddhism": "87.9%",
+      "Christianity": "6.2%",
+      "Islam": "4.3%",
+      "Other": "1.6%"
+    }
+  },
+  "Government": {
+    "Type": "Unitary assembly-independent republic under a military junta",
+    "President": "Myint Swe (acting)",
+    "SACChairmanAndPrimeMinister": "Min Aung Hlaing",
+    "SACViceChairmanAndDeputyPrimeMinister": "Soe Win",
+    "Legislature": "State Administration Council"
+  },
+  "Economy": {
+    "GDP_PPP_2023Estimate": {
+      "Total": "$277.767 billion",
+      "PerCapita": "$5,124"
+    },
+    "GDP_Nominal_2023Estimate": {
+      "Total": "$74.861 billion",
+      "PerCapita": "$1,381"
+    },
+    "GiniIndex": "30.7 (2017)",
+    "HDI": "0.585 (2021)"
+  },
+  "Currency": "Kyat (MMK)",
+  "Timezone": "UTC+06:30",
+  "DrivingSide": "right",
+  "CallingCode": "+95",
+  "ISO3166Code": "MM",
+  "InternetTLD": ".mm",
+  "History": [
+    "Pagan Kingdom (849 AD)",
+    "Toungoo Dynasty (1510 AD)",
+    "Konbaung Dynasty (1752 AD)",
+    "Annexation by Britain (1886)",
+    "Independence from UK (1948)",
+    "1962 Coup d'état",
+    "Renamed from Burma to Myanmar (1989)",
+    "2021 Coup d'état"
+  ]
+}
+}
