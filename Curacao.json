@@ -31,8 +31,6 @@
       "GDP_PPP": {
         "2021": "$5.5 billion"
       },
-json
-Copy code
       "GDP_PerCapita": {
         "2021": "$35,484"
       },
@@ -66,9 +64,7 @@ Copy code
     },
     "Geography": {
       "Terrain": "Shrublands, Cacti, Watapana and Evergreen Trees",
-      "Wildlife": ["Terns", "Herons", "Flamingos", "Orioles", "
-json
-Copy code
+      "Wildlife": ["Terns", "Herons", "Flamingos", "Orioles", 
         "Hummingbirds", "Bananaquits", "Trupial", "Mockingbirds", "Cormorants", "Gulls"],
       "MarineLife": ["Various species of sea turtles"]
     },
