@@ -1,6 +1,8 @@
 {
   "Costa Rica": {
+    "Lit": "Rich Coast",
     "Name": "Republic of Costa Rica",
+    "SpanishName": "República de Costa Rica",
     "Location": "Central America",
     "Coordinates": {
       "Latitude": "9°56′N",
