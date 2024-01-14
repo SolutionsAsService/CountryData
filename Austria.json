@@ -1,0 +1,91 @@
+{
+  "Austria": {
+  "CommonName": "Austria",
+  "FullName": "Republic of Austria",
+  "GermanName": "Republik Österreich",
+  "Capital": "Vienna",
+  "Coordinates": "48°12′N 16°21′E",
+  "Area": {
+    "Total": "83,879 km2",
+    "Rank": 113,
+    "Land_Percentage": 99.16,
+    "Water_Percentage": 0.84
+  },
+  "Population": {
+    "Estimate_2022": "9,027,999",
+    "Density": "107.6/km2",
+    "Rank": 98
+  },
+  "Official_Languages": "German",
+  "National_Language": "Austrian German",
+  "Regional_Languages": ["Hungarian", "Slovene", "Burgenland Croatian"],
+  "Ethnic_Groups": {
+    "Austrians": 75.6,
+    "Others": 24.4
+  },
+  "Religion": {
+    "Christianity": 64.1,
+    "Catholicism": 55.2,
+    "Orthodoxy": 5.1,
+    "Other_Christian": 3.8,
+    "No_Religion": 26.4,
+    "Islam": 8.3,
+    "Other": 1.2
+  },
+  "Government": {
+    "Type": "Federal parliamentary republic",
+    "President": "Alexander Van der Bellen",
+    "Chancellor": "Karl Nehammer"
+  },
+  "Legislature": {
+    "Upper_House": "Federal Council",
+    "Lower_House": "National Council"
+  },
+  "Economy": {
+    "GDP_PPP_2023": "$626.458 billion",
+    "GDP_Nominal_2023": "$526.182 billion",
+    "GDP_Per_Capita_PPP": "$69,069",
+    "GDP_Per_Capita_Nominal": "$58,013",
+    "Gini_Index": 26.7,
+    "HDI": 0.916
+  },
+  "Currency": "Euro (€) (EUR)",
+  "Time_Zone": "UTC+1 (CET)",
+  "Driving_Side": "right",
+  "Calling_Code": "+43",
+  "ISO_Code": "AT",
+  "Internet_TLD": ".at",
+  "History": {
+    "First_Recorded_Name_Date": "1 November 996",
+    "Archduchy_Date": "6 January 1453",
+    "Empire_Date": "11 August 1804",
+    "Austria_Hungary": "30 March 1867",
+    "Republic_of_German_Austria": "12 November 1918",
+    "First_Republic": "10 September 1919",
+    "Federal_State": "1 May 1934",
+    "Anschluss": "13 March 1938",
+    "Second_Republic": "27 April 1945",
+    "State_Treaty": "27 July 1955",
+    "EU_Joining_Date": "1 January 1995"
+  },
+  "Geography": {
+    "Lowest_Point": "Lake Neusiedl, 115.45 m",
+    "Highest_Point": "Grossglockner, 3,798 m",
+    "Largest_Lake": "Lake Constance, 540 sq km",
+    "Major_Rivers": ["Danube", "Rhine-Maas"],
+    "Land_Use": {
+      "Agricultural_Land_Percentage": 38.4,
+      "Forest_Percentage": 47.2
+    }
+  },
+  "Culture": {
+    "National_Anthem": "Bundeshymne der Republik Österreich",
+    "Famous_Museums": ["The Albertina Museum", "Kunsthalle Wien", "Österreichische Nationalbibliothek"],
+    "Historic_Sites": ["Palace Schönbrunn", "Tiergarten Schönbrunn"]
+  },
+  "Environmental_Aspects": {
+    "Climate": "Temperate; continental",
+    "Major_Environmental_Issues": ["Forest degradation", "Soil pollution", "Air pollution", "Water pollution"]
+  }
+}
+}
