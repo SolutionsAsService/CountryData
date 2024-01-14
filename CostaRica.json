@@ -1,0 +1,134 @@
+{
+  "Costa Rica": {
+    "Name": "Republic of Costa Rica",
+    "Location": "Central America",
+    "Coordinates": {
+      "Latitude": "9°56′N",
+      "Longitude": "84°5′W"
+    },
+    "Borders": {
+      "North": "Nicaragua",
+      "Northeast": "Caribbean Sea",
+      "Southeast": "Panama",
+      "Southwest": "Pacific Ocean",
+      "MaritimeSouth": "Ecuador"
+    },
+    "Area": "51,060 km2",
+    "Population": {
+      "2023_Estimate": 5264000,
+      "Capital": {
+        "Name": "San José",
+        "Population": 333980
+      },
+      "Metropolitan_Area": {
+        "Population": 2000000
+      }
+    },
+    "Government": {
+      "Type": "Unitary presidential constitutional republic",
+      "President": "Carlos Andrés Alvarado Quesada",
+      "Legislature": "Legislative Assembly"
+    },
+    "Independence": {
+      "From_Spain": "15 September 1821",
+      "From_Mexican_Empire": "1 July 1823",
+      "From_Federal_Republic_of_Central_America": "14 November 1838",
+      "Recognized_by_Spain": "10 May 1850"
+    },
+    "Economy": {
+      "GDP_PPP_2023_Estimate": {
+        "Total": "$141.527 billion",
+        "Per_Capita": "$26,809"
+      },
+      "GDP_Nominal_2023_Estimate": {
+        "Total": "$85.590 billion",
+        "Per_Capita": "$16,213"
+      },
+      "Gini_Index": "47.2",
+      "HDI": "0.809"
+    },
+    "Currency": "Costa Rican colón (CRC)",
+    "Time_Zone": "UTC−6",
+    "Driving_Side": "right",
+    "Calling_Code": "+506",
+    "ISO_3166_Code": "CR",
+    "Internet_TLD": [".cr", ".co.cr"],
+    "Education": {
+      "Expenditures": "6.7% of GDP",
+      "Literacy_Rate": "98%",
+      "School_Life_Expectancy": "17 years"
+    },
+    "Health": {
+      "Malaria_Eradication": "virtually eliminated",
+      "Social_Security_Institute": "model for Latin America",
+      "Human_Rights_Agencies": "based in San José"
+    },
+    "Demographics": {
+      "Ethnic_Groups": {
+        "White_or_Mestizo": "83.6%",
+        "Mulatto": "6.7%",
+        "Indigenous": "2.4%",
+        "Black": "1.1%",
+        "Others": "6.2%"
+      },
+      "Religion": {
+        "Christianity": "72.6%",
+        "Roman_Catholic": "47.5%",
+        "Protestant": "22.5%",
+        "Other_Christian": "2.6%",
+        "No_Religion": "27.0%"
+      }
+    },
+    "Environment": {
+      "Issues": [
+        "deforestation",
+        "soil erosion",
+        "coastal marine pollution",
+        "fisheries protection",
+        "solid waste management",
+        "air pollution"
+      ],
+      "International_Agreements": [
+        "Biodiversity",
+        "Climate Change",
+        "Kyoto Protocol",
+        "Paris Agreement",
+        "Desertification",
+        "Endangered Species",
+        "Environmental Modification",
+        "Hazardous Wastes",
+        "Law of the Sea",
+        "Marine Dumping-London Convention",
+        "Nuclear Test Ban",
+        "Ozone Layer Protection",
+        "Tropical Timber 2006",
+        "Wetlands",
+        "Whaling"
+      ]
+    },
+    "Culture": {
+      "Influences": "European immigration",
+      "Historical_Influences": ["German", "Italian", "British"]
+    },
+    "Politics": {
+      "Recent_Elections": {
+        "2010": "Laura Chinchilla",
+        "2014": "Luis Guillermo Solís",
+        "2018": "Carlos Alvarado",
+        "2022": "Rodrigo Chaves"
+      },
+      "Political_Challenges": ["Public debt", "Budget deficit"]
+    },
+    "Geography": {
+      "Climate": "Tropical and subtropical",
+      "Land_Use": {
+        "Agricultural_Land": "37.1%",
+        "Forest": "51.5%"
+      },
+      "Urbanization": {
+        "Urban_Population": "82.6%",
+        "Rate_of_Urbanization": "1.5% annual rate"
+      }
+    }
+  }
+}
