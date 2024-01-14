@@ -1,0 +1,80 @@
+{
+  "Country": "Kingdom of Thailand",
+  "Historical_Name": "Siam",
+  "Flag_Description": "Horizontal red, white, and blue stripes",
+  "Emblem_Description": "Garuda, a mythical bird-like creature",
+  "Anthem": {
+    "Title": "Phleng Chat Thai",
+    "English_Title": "Thai National Anthem",
+    "Duration": "45 seconds"
+  },
+  "Royal_Anthem": {
+    "Title": "Sansoen Phra Barami",
+    "English_Title": "Glorify His Prestige",
+    "Duration": "1 minute and 8 seconds"
+  },
+  "Geography": {
+    "Location": "Southeast Asia, Indochinese Peninsula",
+    "Area_Sq_Km": 513120,
+    "Borders": ["Myanmar", "Laos", "Cambodia", "Malaysia"],
+    "Maritime_Borders": ["Vietnam", "Indonesia", "India"],
+    "Capital": {
+      "Name": "Bangkok",
+      "Coordinates": "13°45′N 100°29′E"
+    }
+  },
+  "Demographics": {
+    "Population_2022": 69648117,
+    "Ethnic_Groups": {
+      "Thai": "80%",
+      "Thai_Chinese": "10%",
+      "Khmer": "3%",
+      "Malays": "7%",
+      "Others": "Variable"
+    },
+    "Religions": {
+      "Buddhism": "90%",
+      "Islam": "4%",
+      "Christianity": "3%",
+      "No_Religion": "1%",
+      "Undeclared": "1%"
+    }
+  },
+  "Government": {
+    "Type": "Unitary parliamentary constitutional monarchy",
+    "Monarch": "Vajiralongkorn (Rama X)",
+    "Prime_Minister": "Srettha Thavisin",
+    "Legislature": {
+      "Upper_House": "Senate",
+      "Lower_House": "House of Representatives"
+    },
+    "Historical_Kingdoms": ["Sukhothai", "Ayutthaya", "Thonburi", "Rattanakosin"]
+  },
+  "Economy": {
+    "GDP_PPP_2023": {
+      "Total": "$1.578 trillion",
+      "Per_Capita": "$22,490"
+    },
+    "GDP_Nominal_2023": {
+      "Total": "$512.193 billion",
+      "Per_Capita": "$7,297"
+    },
+    "Main_Sectors": ["Manufacturing", "Agriculture", "Tourism"]
+  },
+  "Culture": {
+    "Languages": ["Thai", "Isan", "Lanna", "Karen", "Pattani Malay"],
+    "Cultural_Heritage":
+    ["Thai cuisine", "Traditional dances", "Buddhist architecture"],
+     "Influences": ["Indianized kingdoms", "Mon", "Khmer Empire", "Malay states"]
+},
+   "Additional_Information": {
+"Time_Zone": "UTC+7 (ICT)",
+     "Driving_Side": "left",
+     "Calling_Code": "+66",
+"ISO_Code": "TH",
+"Internet_TLD": [".th", ".ไทย"],
+"International_Affiliations": ["ASEAN", "United Nations"],
+"Human_Development_Index": "Very high",
+"Economic_Status": ["Middle power", "Newly industrialised economy"]
+}
+}
