@@ -1,0 +1,88 @@
+{
+  "Italy": {
+    "FullName": "Italian Republic",
+    "ItalianName": "Repubblica Italiana",
+    "Flag": "Flag of Italy",
+    "Emblem": "Emblem of Italy",
+    "Anthem": "Il Canto degli Italiani",
+    "Location": {
+      "Continent": "Europe",
+      "Coordinates": "41°54′N 12°29′E",
+      "BorderingCountries": ["France", "Switzerland", "Austria", "Slovenia", "Vatican City", "San Marino"],
+      "Exclaves": ["Campione"],
+      "Archipelago": "Pelagie Islands"
+    },
+    "Geography": {
+      "Area": "301,340 km2",
+      "Climate": "Predominantly Mediterranean",
+      "MajorRivers": ["Po"],
+      "LandUse": {
+        "AgriculturalLand": "47.1%",
+        "Forest": "31.4%",
+        "Other": "21.5%"
+      }
+    },
+    "Population": {
+      "2022Estimate": "58,853,482",
+      "Density": "201.3 per km2"
+    },
+    "Capital": "Rome",
+    "LargestCities": ["Rome", "Milan", "Naples", "Turin", "Palermo"],
+    "OfficialLanguage": "Italian",
+    "Religion": {
+      "Christianity": "84.4%",
+      "NoReligion": "11.6%",
+      "Islam": "1.0%",
+      "Other": "3.0%"
+    },
+    "Government": {
+      "Type": "Unitary parliamentary republic",
+      "President": "Sergio Mattarella",
+      "PrimeMinister": "Giorgia Meloni"
+    },
+    "Economy": {
+      "GDP_PPP": {
+        "2023Total": "$3.193 trillion",
+        "PerCapita": "$54,258"
+      },
+      "GDP_Nominal": {
+        "2023Total": "$2.186 trillion",
+        "PerCapita": "$37,146"
+      },
+      "Currency": "Euro (EUR)"
+    },
+    "HealthAndSocialMetrics": {
+      "CurrentHealthExpenditure": "9.6% of GDP",
+      "PhysiciansDensity": "3.95 per 1,000 population",
+      "HospitalBedDensity": "3.1 per 1,000 population",
+      "ObesityAdultPrevalenceRate": "19.9%",
+      "EducationExpenditures": "4.3% of GDP",
+      "LiteracyRate": "99.2%"
+    },
+    "EnvironmentalConcerns": {
+      "Issues": [
+        "Air pollution from industrial emissions",
+        "Coastal and inland river pollution",
+        "Acid rain damage",
+        "Inadequate industrial waste treatment"
+      ]
+    },
+    "HistoricalContext": {
+      "Unification": "1861",
+      "IndustrializationPeriod": "Late 19th to early 20th century",
+      "WWI": "1915-1918",
+      "FascistDictatorship": "1922",
+      "WWII": "1940-1945",
+      "RepublicEstablishment": "Post WWII"
+    },
+    "CulturalIdentity": {
+      "CulturalSuperpower": true,
+      "WorldHeritageSites": 58,
+      "GlobalInfluence": ["Art", "Music", "Literature", "Cuisine", "Fashion"]
+    },
+    "Regions": {
+      "Total": 20,
+      "Names": ["Abruzzo", "Basilicata", "Calabria", "Campania", "Emilia-Romagna", "Lazio", "Liguria", "Lombardia", "Marche", "Molise", "Piemonte", "Puglia", "Toscana", "Umbria", "Veneto", "Friuli Venezia Giulia", "Sardegna", "Sicilia", "Trentino-Alto Adige", "Valle d'Aosta"]
+    }
+  }
+}
