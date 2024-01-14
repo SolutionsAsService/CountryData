@@ -1,0 +1,69 @@
+{
+  "Brunei":{
+  "Country": "Brunei Darussalam",
+  "Local_Name": "Negara Brunei Darussalam",
+  "Flag_Description": "Yellow with a white and black stripe and a red crest",
+  "Emblem_Description": "Crest with hands, wings, crescent, and parasol",
+  "Motto": "الدائمون المحسنون بالهدى (Sentiasa membuat kebajikan dengan petunjuk Allah) - 'Always in service with God's guidance'",
+  "Anthem": {
+    "Title": "Allah Peliharakan Sultan",
+    "Duration": "1 minute and 5 seconds"
+  },
+  "Geography": {
+    "Location": "Southeast Asia, northern coast of Borneo",
+    "Area_Sq_Km": 5765,
+    "Coastline": "South China Sea",
+    "Borders": "Surrounded by Malaysian state of Sarawak",
+    "Capital": {
+      "Name": "Bandar Seri Begawan",
+      "Coordinates": "4°53.417′N 114°56.533′E"
+    }
+  },
+  "Demographics": {
+    "Population_2020": 460345,
+    "Ethnic_Groups": {
+      "Malays": "70%",
+      "Chinese": "9.6%",
+      "Others": "20.4%"
+    },
+    "Religions": {
+      "Sunni_Islam": "80.9%",
+      "Christianity": "7.1%",
+      "Buddhism": "7%",
+      "Other": "5%"
+    }
+  },
+  "Government": {
+    "Type": "Unitary Islamic absolute monarchy",
+    "Monarch_and_Prime_Minister": "Hassanal Bolkiah",
+    "Crown_Prince": "Al-Muhtadee Billah",
+    "Legislature": "Legislative Council of Brunei",
+    "Independence_From_UK": "1 January 1984"
+  },
+  "Economy": {
+    "GDP_PPP_2023": {
+      "Total": "$32.000 billion",
+      "Per_Capita": "$72,609"
+    },
+    "GDP_Nominal_2023": {
+      "Total": "$15.153 billion",
+      "Per_Capita": "$34,383"
+    },
+    "Main_Resources": ["Petroleum", "Natural Gas"]
+  },
+  "Culture": {
+    "Languages": ["Malay", "Brunei Malay", "Tutong", "Kedayan", "Belait", "Chinese dialects", "Indigenous languages"],
+    "Cultural_Heritage": ["Islamic traditions", "Royal ceremonies"],
+    "Influences": ["Malay", "Islamic"]
+  },
+  "Additional_Information": {
+    "Time_Zone": "UTC+8 (Brunei Darussalam Time)",
+    "Driving_Side": "left",
+    "Calling_Code": "+673",
+    "ISO_Code": "BN",
+    "Internet_TLD": ".bn",
+    "Historical_Empire": "Bruneian Empire",
+    "IMF_Economic_Ranking": "Fifth in the world by GDP per capita (PPP)"
+  }
+}
+}
