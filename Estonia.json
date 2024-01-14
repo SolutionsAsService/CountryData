@@ -68,9 +68,9 @@
   "Calling_Code": "+372",
   "ISO_Code": "EE",
   "Internet_TLD": ".ee",
-  "Geographical_Location": {
-    "Bordering_Countries": ["Russia", "Latvia"],
-    "Maritime_Borders": ["Finland", "Sweden"],
+  "Geography": {
+    "Borders": ["Russia", "Latvia"],
+    "MaritimeBorders": ["Finland", "Sweden"],
     "Major_Lakes": ["Lake Peipus", "Lake Võrtsjärv"],
     "Climate": "Maritime; wet, moderate winters, cool summers"
   },
