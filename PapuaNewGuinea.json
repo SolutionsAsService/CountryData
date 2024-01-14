@@ -1,0 +1,94 @@
+{
+  "Papua New Guinea": {
+  "FullName": "Independent State of Papua New Guinea",
+  "TokPisinName": "Independen Stet bilong Papua Niugini",
+  "HiriMotuName": "Independen Stet bilong Papua Niu Gini",
+  "Abbreviation": "PNG",
+  "location": {
+    "continent": "Oceania",
+    "coordinates": "09°28′44″S 147°08′58″E",
+    "borders": ["Indonesia to the west"],
+    "maritime_borders": ["Australia to the south", "Solomon Islands to the east"]
+  },
+  "capital_city": "Port Moresby",
+  "area": {
+    "total_km2": 462840,
+    "rank": 54
+  },
+  "population": {
+    "2023_estimate": 9507000,
+    "2011_census": 7257324,
+    "density_per_km2": 15
+  },
+  "government": {
+    "type": "Unitary parliamentary constitutional monarchy",
+    "monarch": "Charles III",
+    "governor_general": "Bob Dadae",
+    "prime_minister": "James Marape",
+    "legislature": "National Parliament"
+  },
+  "independence": {
+    "from_Australia": {
+      "Papua_and_New_Guinea_Act": "1 July 1949",
+      "declared_and_recognised": "16 September 1975"
+    }
+  },
+  "Language": {
+    "official": ["English", "Hiri Motu", "PNG Sign Language", "Tok Pisin"],
+    "indigenous": 851
+  },
+  "ethnic_groups": ["Papuan"],
+  "religion": {
+    "Christianity": "95.5%",
+    "Protestantism": "64.3%",
+    "Catholicism": "26.0%",
+    "Other_Christian": "5.2%",
+    "Unspecified": "3.1%",
+    "Others_None": "1.4%"
+  },
+  "economy": {
+    "GDP_PPP": {
+      "2023_estimate_total": "$41.785 billion",
+      "per_capita": "$3,403"
+    },
+    "GDP_nominal": {
+      "2023_estimate_total": "$31.692 billion",
+      "per_capita": "$2,581"
+    },
+    "sectors": {
+      "agricultural_forestry_fishing": "majority labor force",
+      "minerals_energy_extraction": "most export earnings and GDP"
+    }
+  },
+  "demographics": {
+    "life_expectancy": 69.7,
+    "fertility_rate": 3.85,
+    "literacy_rate": 64.2
+  },
+  "administrative_divisions": {
+    "regions": 4,
+    "provinces": 22,
+    "districts": "multiple",
+    "local_level_governments": "multiple"
+  },
+  "geography": {
+    "island_country": true,
+    "major_islands": ["New Britain", "New Ireland", "Bougainville", "600 smaller islands and atolls"],
+    "exclusive_economic_zone_km2": 2402288
+  },
+  "international_relations": {
+    "UN_Member": true,
+    "commonwealth_member": true,
+    "ASEAN_observer_state": true
+  },
+  "environmental_issues": [
+    "rain forest loss",
+    "soil erosion",
+    "water quality degradation",
+    "biodiversity loss",
+    "mining impact",
+    "drought",
+    "inappropriate farming practices"
+  ]
+}
+}
