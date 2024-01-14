@@ -1,0 +1,76 @@
+{
+  "Great Britain": {
+  "Country": "United Kingdom of Great Britain and Northern Ireland",
+  "Common_Names": ["United Kingdom", "UK", "Britain"],
+  "Flag_Description": "A red cross edged in white and superimposed on a red saltire, also edged in white, superimposed on a white saltire on a blue background",
+  "Anthem": {
+    "Title": "God Save the King",
+    "Duration": "1 minute and 4 seconds"
+  },
+  "Geography": {
+    "Location": "Northwestern Europe",
+    "Area_Sq_Km": 243610,
+    "Coastline": "Atlantic Ocean, North Sea, English Channel, Celtic Sea, Irish Sea",
+    "Capital": {
+      "Name": "London",
+      "Coordinates": "51°30′N 0°7′W"
+    },
+    "Major_Islands": ["Great Britain", "Northern Ireland", "British Isles"],
+    "Borders": ["Republic of Ireland"]
+  },
+  "Demographics": {
+    "Population_2022": 66971395,
+    "Ethnic_Groups": {
+      "White": "87.1%",
+      "Asian": "7.0%",
+      "Black": "3.0%",
+      "Mixed": "2.0%",
+      "Other": "0.9%"
+    },
+    "Languages": {
+      "Official": "English",
+      "Regional": ["Scots", "Ulster Scots", "Welsh", "Cornish", "Scottish Gaelic", "Irish", "British Sign Language"]
+    }
+  },
+  "Government": {
+    "Type": "Unitary parliamentary constitutional monarchy",
+    "Monarch": "Charles III",
+    "Prime_Minister": "Rishi Sunak",
+    "Legislature": {
+      "Upper_House": "House of Lords",
+      "Lower_House": "House of Commons"
+    },
+    "Formation": {
+      "Laws_in_Wales_Acts": "1535 and 1542",
+      "Union_of_the_Crowns": "24 March 1603",
+      "Treaty_of_Union": "22 July 1706",
+      "Acts_of_Union_England_Scotland": "1 May 1707",
+      "Acts_of_Union_Great_Britain_Ireland": "1 January 1801",
+      "Irish_Free_State_Constitution_Act": "5 December 1922"
+    }
+  },
+  "Economy": {
+    "GDP_PPP_2023": {
+      "Total": "$3.872 trillion",
+      "Per_Capita": "$56,836"
+    },
+    "GDP_Nominal_2023": {
+      "Total": "$3.332 trillion",
+      "Per_Capita": "$48,913"
+    },
+    "Currency": "Pound sterling (GBP)"
+  },
+  "Culture": {
+    "Influences": "Literature, language, music, sport",
+    "Legal_Jurisdictions": ["England and Wales", "Scotland", "Northern Ireland"]
+  },
+  "Additional_Information": {
+    "Time_Zone": "UTC+0 (GMT), UTC+1 (BST in summer)",
+    "Driving_Side": "left",
+    "Calling_Code": "+44",
+    "ISO_Code": "GB",
+    "Internet_TLD": ".uk",
+    "UN_Security_Council": "Permanent member"
+  }
+}
+}
