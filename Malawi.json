@@ -1,0 +1,158 @@
+{
+  "Malawi": {
+    "officialName": "Republic of Malawi",
+    "formerName": "Nyasaland",
+    "location": {
+      "region": "Southeastern Africa",
+      "landlocked": true,
+      "borders": {
+        "Zambia": "west",
+        "Tanzania": "north and northeast",
+        "Mozambique": "east, south, southwest"
+      }
+    },
+    "capitalAndLargestCity": "Lilongwe",
+    "otherMajorCities": ["Blantyre", "Mzuzu", "Zomba"],
+    "officialLanguage": "English",
+    "recognisedRegionalLanguages": [
+      "Chewa", "Tumbuka", "Yao", "Tonga", "Sena", "Lomwe", "Ngonde", "Lambya"
+    ],
+    "ethnicGroups2018": {
+      "Chewa": "25.2%",
+      "Tumbuka": "20.4%",
+      "Lomwe": "17.9%",
+      "Yao": "15.3%",
+      "Ngoni": "5.4%",
+      "Sena": "4.8%",
+      "Mang'anja": "3.2%",
+      "Nyanja": "1.9%",
+      "Tonga": "1.8%",
+      "Ngonde": "1.0%",
+      "Lambya": "0.6%",
+      "Sukwa": "0.5%",
+      "Other": "1.1%"
+    },
+    "religion2018": {
+      "Christianity": "82.3%",
+      "Protestantism": "58.5%",
+      "Catholicism": "17.2%",
+      "OtherChristian": "6.6%",
+      "Islam": "13.8%",
+      "TraditionalFaiths": "2.1%",
+      "None": "1.6%",
+      "Other": "0.6%"
+    },
+    "demonym": "Malawian",
+    "government": {
+      "type": "Unitary presidential republic",
+      "president": "Lazarus Chakwera",
+      "vicePresident": "Saulos Chilima",
+      "houseSpeaker": "Catherine Gotani Hara",
+      "chiefJustice": "Rizine Mzikamanda"
+    },
+    "legislature": "National Assembly",
+    "independence": {
+      "fromUnitedKingdom": "6 July 1964",
+      "republicDeclaration": "6 July 1966"
+    },
+    "area": {
+      "total": "118,484 km2",
+      "waterPercentage": "20.6%"
+    },
+    "population2020": {
+      "estimate": "20,091,635",
+      "census2018": "17,563,749",
+      "density": "153.1/km2"
+    },
+    "economy": {
+      "GDP_PPP_2023": {
+        "total": "$37.919 billion",
+        "perCapita": "$1,668"
+      },
+      "GDP_Nominal_2023": {
+        "total": "$13.176 billion",
+        "perCapita": "$579"
+      },
+      "Gini2016": "44.7",
+      "HDI2021": "0.512"
+    },
+    "currency": "Malawian kwacha (MWK)",
+    "timeZone": "UTC+2 (CAT)",
+    "dateAndDriving": {
+      "dateFormat": "dd/mm/yyyy",
+      "drivingSide": "left"
+    },
+    "communication": {
+      "callingCode": "+265",
+      "ISO3166Code": "MW",
+      "internetTLD": ".mw"
+    },
+    "geography": {
+      "features": "Landlocked, diverse terrain",
+      "climate": "Subtropical"
+    },
+    "history": {
+      "earlySettlement": "10th century by migrating Bantu groups",
+      "britishColonization": "1891 as British Central African Protectorate",
+      "federationOfRhodesiaAndNyasaland": "1953-1963",
+      "independence": "1964",
+      "postIndependence": {
+        "initialPrimeMinister": "Hastings Banda",
+        "onePartyState":"1966-1993",
+        "multipartySystem": "Introduced in 1993",
+        "democraticElections": "Since 1994"
+      }
+    },
+    "governmentAndPolitics": {
+      "politicalStructure": "Democratic multi-party republic",
+      "currentLeaders": {
+        "president": "Lazarus Chakwera",
+        "vicePresident": "Saulos Chilima"
+      },
+      "internationalAffiliations": ["UN", "Commonwealth", "SADC", "COMESA", "AU"]
+    },
+    "economy": {
+      "mainSectors": ["Agriculture", "Tourism", "Manufacturing"],
+      "keyChallenges": ["Economic expansion", "Education", "Healthcare", "Environmental protection"],
+      "developmentAid": "Dependence on outside aid",
+      "unemploymentIssues": true,
+      "policiesForImprovement": {
+        "economicPolicies": true,
+        "educationReforms": true,
+        "healthcareImprovements": true
+      }
+    },
+    "demographics": {
+      "populationGrowth": "Rapidly growing",
+      "urbanization": "Concentration in Lilongwe and other major cities",
+      "ruralPopulation": "Predominantly rural"
+    },
+    "culture": {
+      "linguisticDiversity": "Multiple local languages",
+      "religiousBeliefs": "Diverse",
+      "nationalIdentity": "Malawian nationality",
+      "ethnicUnity": true
+    },
+    "scienceAndTechnology": {},
+    "womenInMalawi": {
+      "genderEquality": "Efforts towards improvement",
+      "womenInLeadership": "Increasing representation"
+    },
+    "military": {
+      "defenseForces": {
+        "army": true,
+        "navy": false,
+        "airWing": true
+      },
+      "foreignPolicy": "Pro-Western"
+    },
+    "motto": "\"Unity and Freedom\"",
+    "anthem": {
+      "title": "Mlungu dalitsani Malaŵi",
+      "duration": "0:52",
+      "translation": "O God Bless Our Land of Malawi"
+    },
+    "flag": "Flag of Malawi",
+    "coatOfArms": "Coat of arms of Malawi"
+  }
+}
