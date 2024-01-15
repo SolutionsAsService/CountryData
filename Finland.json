@@ -1,0 +1,175 @@
+{
+  "Finland": {
+    "officialNames": {
+      "Finnish": "Suomen tasavalta",
+      "Swedish": "Republiken Finland"
+    },
+    "symbols": {
+      "flag": "Flag of Finland",
+      "coatOfArms": "Coat of arms of Finland",
+      "anthem": {
+        "Finnish": "Maamme",
+        "Swedish": "Vårt land",
+        "English": "Our Land",
+        "duration": "0:47"
+      }
+    },
+    "location": {
+      "inEurope": true,
+      "inEuropeanUnion": true,
+      "coordinates": "60°10′15″N 24°56′15″E",
+      "borders": {
+        "Sweden": "northwest",
+        "Norway": "north",
+        "Russia": "east"
+      },
+      "gulfs": ["Gulf of Bothnia", "Gulf of Finland"]
+    },
+    "capitalAndLargestCity": "Helsinki",
+    "officialLanguages": ["Finnish", "Swedish"],
+    "recognizedNationalLanguages": ["Sami", "Karelian", "Finnish Kalo", "Finnish Sign Language", "Finland-Swedish Sign Language"],
+    "ethnicGroups2021": {
+      "Finns": "91.5%",
+      "Others": "8.5%"
+    },
+    "religion2021": {
+      "Christianity": "68.6%",
+      "Lutheranism": "66.6%",
+      "Orthodoxy": "1.1%",
+      "OtherChristian": "0.9%",
+      "NoReligion": "30.6%",
+      "Other": "0.8%"
+    },
+    "government": {
+      "type": "Unitary parliamentary republic",
+      "president": "Sauli Niinistö",
+      "primeMinister": "Petteri Orpo",
+      "speakerOfParliament": "Jussi Halla-aho",
+      "legislature": "Parliament"
+    },
+    "independence": {
+      "fromRussia": {
+        "establishmentOfGrandDuchy": "29 March 1809",
+        "declaration": "6 December 1917",
+        "civilWar": "January – May 1918",
+        "constitution": "17 July 1919"
+      },
+      "wars": {
+        "winterWar": "30 November 1939 – 13 March 1940",
+        "continuationWar": "25 June 1941 – 19 September 1944"
+      },
+    
+      "EU_JoinDate": "1 January 1995",
+      "NATO_JoinDate": "4 April 2023"
+    },
+    "area": {
+      "total": "338,145 sq km",
+      "waterPercentage": "9.71%"
+    },
+    "population": {
+      "2023Estimate": "5,614,571",
+      "density": "16.4/km2"
+    },
+    "economy": {
+      "GDP_PPP_2023": {
+        "total": "$335.760 billion",
+        "perCapita": "$59,869"
+      },
+      "GDP_Nominal_2023": {
+        "total": "$305.689 billion",
+        "perCapita": "$54,507"
+      },
+      "GiniIndex2022": "26.6",
+      "HDI_2021": "0.940",
+      "currency": "Euro (EUR)",
+      "economicModel": "Nordic model",
+      "industrializationEra": "Post-WWII",
+      "neutralityPolicy": "During Cold War"
+    },
+    "timeZone": {
+      "standard": "UTC+2 (EET)",
+      "daylightSaving": "UTC+3 (EEST)"
+    },
+    "dateAndDriving": {
+      "dateFormat": "dd.mm.yyyy",
+      "drivingSide": "right"
+    },
+    "communication": {
+      "callingCode": "+358",
+      "ISO3166Code": "FI",
+      "internetTLDs": [".fi", ".ax", ".eu"]
+    },
+    "history": {
+      "initialSettlement": "circa 9000 BC",
+      "stoneAgeCultures": true,
+      "bronzeAndIronAges": "Contacts with Fennoscandia and Baltic region",
+      "swedishEmpirePeriod": "Late 13th century",
+      "grandDuchyUnderRussia": "1809",
+      "independenceMovements": "Post 1809",
+      "suffrageMilestones": "1906",
+      "postRussianRevolution": "Independence in 1917"
+    },
+    "geography": {
+      "climate": {
+        "south": "Humid continental",
+        "north": "Boreal"
+      },
+      "landCover": "Boreal forest biome",
+      "lakes": "Over 180,000 recorded"
+    },
+    "governmentAndPolitics": {},
+    "demographics": {
+      "populationTrends": {
+        "2023Estimate": "5.6 million",
+        "ethnic": {
+          "finns": "91.5%",
+          "minorities": "8.5%"
+        },
+        "religiousComposition": {
+          "christianityMajority": "68.6%",
+          "noReligion": "30.6%",
+          "islamAndOther": "0.8%"
+        }
+      }
+    },
+    "culture": {
+      "officialLanguages": ["Finnish", "Swedish"],
+      "ethnicIdentity": "Finnish and Swedish",
+      "artAndIndependence": "Flourished during autonomy under Russia",
+      "suffrageHistory": {
+        "firstEuropeanStateForUniversalSuffrage": true,
+        "firstInWorldForFullAdultCitizenshipRights": true
+      },
+      "worldWarII": {
+        "winterWarWithSovietUnion": true,
+        "continuationWar": true,
+        "laplandWarWithNaziGermany": true
+      },
+      "postWarEra": {
+        "agriculturalToIndustrialShift": "1950s",
+        "welfareStateDevelopment": true,
+        "highPerCapitaIncome": true
+      },
+      "modernEra": {
+        "EU_Membership": "1995",
+        "Eurozone_Membership": "1999",
+        "NATO_Membership": "2023"
+      },
+      "internationalRelations": {
+        "UN": "member",
+        "NordicCouncil": "member",
+        "SchengenArea": "member",
+        "CouncilOfEurope": "member",
+        "WTO": "member",
+        "OECD": "member"
+      },
+      "nationalPerformanceMetrics": {
+        "education": "High performance",
+        "economicCompetitiveness": "High",
+        "civilLiberties": "Strong",
+        "qualityOfLife": "High",
+        "humanDevelopment": "Very high"
+      }
+    }
+  }
+}
