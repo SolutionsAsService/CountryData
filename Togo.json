@@ -1,0 +1,112 @@
+{
+  "Togo": {
+    "officialName": "Togolese Republic",
+    "location": {
+      "region": "West Africa",
+      "borders": {
+        "Ghana": "west",
+        "Benin": "east",
+        "Burkina Faso": "north"
+      },
+      "proximity": "Gulf of Guinea"
+    },
+    "capitalAndLargestCity": "Lomé",
+    "area": {
+      "total": "57,000 km2",
+      "landWidth": "less than 115 km"
+    },
+    "population": {
+      "2023Estimate": "8,703,961",
+      "2022Census": "8,095,498",
+      "density": "125.9/km2"
+    },
+    "officialLanguage": "French",
+    "spokenLanguages": [
+      "Ewe", "Gbe", "Gur", "Kwa", "Kabiye", "Talensi", "Wasa", "Aguna", "Aja", "Ngangam", "Ntcham", "Tammari", "Tem", "Ifè", "Yoruba"
+    ],
+    "ethnicGroups": {
+      "WestAfrican": "94.4%",
+      "Other": "5.6%"
+    },
+    "religion2020": {
+      "Christianity": "47.8%",
+      "TraditionalFaiths": "33.0%",
+      "Islam": "18.4%",
+      "BahaiFaith": "0.5%",
+      "OthersNone": "0.3%"
+    },
+    "government": {
+      "type": "Unitary presidential republic under an authoritarian dictatorship",
+      "president": "Faure Gnassingbé",
+      "primeMinister": "Victoire Tomegah Dogbé"
+    },
+    "legislature": "National Assembly",
+    "independence": {
+      "fromGermanyAndFrance": true,
+      "date": "27 April 1960"
+    },
+    "economy": {
+      "GDP_PPP_2023": {
+        "total": "$25.103 billion",
+        "perCapita": "$2,767"
+      },
+      "GDP_Nominal_2023": {
+        "total": "$9.111 billion",
+        "perCapita": "$1,004"
+      },
+      "GiniIndex2015": "43.1",
+      "HDI_2021": "0.539",
+      "mainSectors": ["Agriculture"]
+    },
+    "currency": "West African CFA franc (XOF)",
+    "timeZone": "UTC (GMT)",
+    "dateAndDriving": {
+      "dateFormat": "dd/mm/yyyy",
+      "drivingSide": "right"
+    },
+    "communication": {
+      "callingCode": "+228",
+      "ISO3166Code": "TG",
+      "internetTLD": ".tg"
+    },
+    "history": {
+      "earlySettlements": "11th to 16th centuries",
+      "slaveTradeEra": "16th to 18th centuries",
+      "germanProtectorate": "1884",
+      "postWWIRule": "Transferred to France",
+      "independenceFromFrance": "1960",
+      "EyademaEra": "1967-2005",
+      "postEyadema": "Faure Gnassingbé presidency"
+    },
+    "geography": {
+      "climate": "Tropical, sub-Saharan",
+      "landFeatures": "Small, tropical country"
+    },
+    "demographics": {
+      "populationGrowth": "Approximately 8 million",
+      "ethnicDiversity": "Predominantly West African groups"
+    },
+    "culture": {
+      "majorReligion": "Christianity",
+      "linguisticDiversity": "Multiple local languages",
+      "internationalAffiliations": [
+        "United Nations",
+        "African Union",
+        "Organisation of Islamic Cooperation",
+        "South Atlantic Peace and Cooperation Zone",
+        "Francophonie",
+        "Commonwealth",
+        "Economic Community of West African States"
+      ]
+    },
+    "transport": {},
+    "motto": "\"Travail, Liberté, Patrie\" (Work, Liberty, Homeland)",
+    "anthem": {
+      "title": "Terre de nos aïeux",
+      "duration": "0:53",
+      "translation": "Land of our ancestors"
+    },
+    "flag": "Flag of Togo",
+    "coatOfArms": "Coat of arms of Togo"
+  }
+}
