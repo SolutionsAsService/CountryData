@@ -1,6 +1,8 @@
 {
   "Vanuatu": {
-    "official_name": "Republic of Vanuatu",
+    "FullName": "Republic of Vanuatu",
+     "BislamaName":"Ripablik blong Vanuatu"
+   "French":"République de Vanuatu"
     "pronunciation": {
       "English": "/ˌvɑːnuˈɑːtuː/, /vænˈwɑːtuː/",
       "Bislama_French": "[vanuatu]"
@@ -111,7 +113,11 @@
         "founding_of_republic": "1980"
       },
       "international_relations": {
-        "member_of": ["United Nations", "Commonwealth of Nations", "Organisation internationale de la Francophonie", "Pacific Islands Forum"]
+        "member_of": [
+          "United Nations",
+          "Commonwealth of Nations", 
+          "Organisation internationale de la Francophonie", 
+          "Pacific Islands Forum"]
       }
     }
   }
