@@ -1,0 +1,143 @@
+{
+  "Zambia": {
+    "officialName": "Republic of Zambia",
+    "localNames": {
+      "Bemba": "Icalo ca Zambia",
+      "Tonga": "Cisi ca Zambia",
+      "Tumbuka": "Chalo cha Zambia",
+      "Lozi": "Naha ya Zambia",
+      "Chichewa": "Dziko la Zambia"
+    },
+    "location": {
+      "region": "South-Central Africa",
+      "borders": {
+        "north": "Democratic Republic of the Congo, Tanzania",
+        "south": "Zimbabwe, Botswana",
+        "west": "Angola"
+      },
+      "landlocked": true
+    },
+    "capitalAndLargestCity": "Lusaka",
+    "officialLanguage": "English",
+    "recognisedRegionalLanguages": [
+      "Bemba", "Nyanja", "Tonga", "Tumbuka", "Lozi", "Chewa", "Nsenga", "Lunda", "Kaonde", "Lala", "Lamba", "Luvale", "Mambwe", "Lenje", "Namwanga", "Bisa", "Ushi", "Ila", "Mbunda", "Ngoni", "Senga", "Lungu", "Toka-Leya", "others"
+    ],
+    "ethnicGroups2010": {
+      "Bemba": "19.0%",
+      "Tonga": "13.6%",
+      "Tumbuka": "7.5%",
+      "Chewa": "6.0%",
+      "Lozi": "5.7%",
+      "Nsenga": "5.3%",
+      "others": "42.9%"
+    },
+    "religion": "Christianity (official)",
+    "demonym": "Zambian",
+    "government": {
+      "type": "Unitary presidential republic",
+      "president": "Hakainde Hichilema",
+      "vicePresident": "Mutale Nalumango"
+    },
+    "legislature": "National Assembly",
+    "independence": {
+      "fromUnitedKingdom": "24 October 1964",
+      "historicalEntities": [
+        "North-Western Rhodesia", "Barotziland-North-Western Rhodesia", "North-Eastern Rhodesia", "Northern Rhodesia"
+      ],
+      "currentConstitution": "5 January 2016"
+    },
+    "area": {
+      "total": "752,617 km2",
+      "waterPercentage": "1%"
+    },
+    "population2023": {
+      "estimate": "20,216,029",
+      "density": "17.2/km2"
+    },
+    "economy": {
+      "GDP_PPP_2023": {
+        "total": "$83.687 billion",
+        "perCapita": "$4,068"
+      },
+      "GDP_Nominal_2023": {
+        "total": "$29.536 billion",
+        "perCapita": "$1,435"
+      },
+      "Gini2015": "57.1",
+      "HDI2019": "0.584"
+    },
+    "currency": "Zambian kwacha (ZMW)",
+    "timeZone": "UTC+2 (CAT)",
+    "dateAndDriving": {
+      "dateFormat": "dd/mm/yyyy
+json
+Copy code
+      ",
+      "drivingSide": "left"
+    },
+    "communication": {
+      "callingCode": "+260",
+      "ISO3166Code": "ZM",
+      "internetTLD": ".zm"
+    },
+    "history": {
+      "earlyInhabitants": "Khoisan peoples",
+      "bantuExpansion": "13th century",
+      "europeanExploration": "18th century",
+      "britishColonization": {
+        "protectorates": ["Barotziland–North-Western Rhodesia", "North-Eastern Rhodesia"],
+        "amalgamation": "1911",
+        "northernRhodesia": true
+      },
+      "independence": "24 October 1964",
+      "postIndependence": {
+        "initialPresident": "Kenneth Kaunda",
+        "socialistPeriod": "1964-1991",
+        "multiPartyDemocracy": "Post-1991"
+      }
+    },
+    "geography": {
+      "features": "Landlocked, diverse landscapes",
+      "climate": "Tropical"
+    },
+    "demographics": {
+      "populationDistribution": {
+        "lomé": "South-central part",
+        "copperbeltProvince": "North"
+      },
+      "ethnicDiversity": true,
+      "mainLanguages": "Multiple local languages"
+    },
+json
+Copy code
+    "economy": {
+      "naturalResources": ["Minerals", "Wildlife", "Forestry", "Freshwater", "Arable land"],
+      "economicDevelopment": "Fast-growing as per World Bank 2010",
+      "regionalHeadquarters": "COMESA in Lusaka"
+    },
+    "culture": {
+      "majorReligion": "Christianity",
+      "ethnicCulturalDiversity": true,
+      "motto": "\"One Zambia, One Nation\""
+    },
+    "anthem": {
+      "title": "Stand and Sing of Zambia, Proud and Free",
+      "duration": "1:53"
+    },
+    "flag": "Flag of Zambia",
+    "coatOfArms": "Coat of arms of Zambia",
+    "notablePeople": {},
+    "name": {
+      "etymology": {},
+      "alternativeNames": []
+    },
+    "politics": {
+      "politicalHistory": {
+        "KaundaEra": "Key role in regional diplomacy",
+        "onePartyState": "1972-1991",
+        "multiPartyEra": "Since 1991"
+      },
+      "currentPoliticalClimate": {}
+    }
+  }
+}
