@@ -1,0 +1,125 @@
+{
+  "Barbados": {
+    "officialName": "Barbados",
+    "location": {
+      "region": "Lesser Antilles, West Indies",
+      "geographicPosition": "Most easterly of the Caribbean islands",
+      "boundary": "South American and Caribbean Plates"
+    },
+    "symbols": {
+      "flag": "Flag of Barbados",
+      "coatOfArms": "Coat of arms of Barbados",
+      "motto": "Pride and Industry",
+      "anthem": {
+        "title": "In Plenty and In Time of Need",
+        "duration": "1:19"
+      }
+    },
+    "capitalAndLargestCity": "Bridgetown",
+    "officialLanguage": "English",
+    "vernacularLanguage": "Bajan",
+    "ethnicGroups2020": {
+      "Black": "92.4%",
+      "Multiracial": "3.1%",
+      "White": "2.7%",
+      "Indian": "1.3%",
+      "Others": "0.3%"
+    },
+    "religion2020": {
+      "Christianity": "75.6%",
+      "NoReligion": "20.6%",
+      "Baha'iFaith": "2.0%",
+      "Hinduism": "1.1%",
+      "Others": "0.7%"
+    },
+    "demonym": ["Barbadian", "Bajan"],
+    "government": {
+      "type": "Unitary parliamentary republic",
+      "president": "Sandra Mason",
+      "primeMinister": "Mia Mottley"
+    },
+    "legislature": {
+      "upperHouse": "Senate",
+      "lowerHouse": "House of Assembly"
+    },
+    "independence": {
+      "fromUK": "30 November 1966",
+      "UNAdmission": "7 December 1966",
+      "CARICOMJoinDate": "1 August 1973",
+      "republicEstablishment": "30 November 2021"
+    },
+    "area": {
+      "total": "439 km2",
+      "waterPercentage": "Negligible"
+    },
+    "population2023": {
+      "estimate": "281,998",
+      "density": "660/km2"
+    },
+    "economy2023": {
+      "GDP_PPP": {
+        "total": "$5.436 billion",
+        "perCapita": "$18,738"
+      },
+      "GDP_Nominal": {
+        "total": "$6.220 billion",
+        "perCapita": "$21,442"
+      },
+      "HDI_2021": "0.790"
+    },
+    "currency": "Barbadian dollar (BBD)",
+    "timeZone": "UTC−4 (AST)",
+    "dateAndDriving": {
+      "dateFormat": "dd/mm/yyyy",
+      "drivingSide": "left"
+    },
+    "communication": {
+      "callingCode": "+1-246",
+      "ISO3166Code": "BB",
+      "internetTLD": ".bb"
+    },
+    "history": {
+      "earlyInhabitants": "Kalinago people, other Amerindians",
+      "colonialHistory": {
+        "SpanishPossession": "Late 15th century",
+        "PortugueseClaim": "1532-1536",
+        "EnglishSettlement": "1625",
+        "PermanentSettlement": "1627"
+      },
+      "slaveryPeriod": "Until 1833",
+      "independenceFromUK": "30 November 1966",
+      "republicTransition": "30 November 2021"
+    },
+    "geographyAndClimate": {
+      "islandStatus": "Atlantic island",
+      "climate": "Tropical",
+      "tourismImportance": "Leading destination in the Caribbean"
+    },
+    "demographics": {
+      "populationAfricanAncestry": "Predominantly",
+      "technicalPosition": "Atlantic island",
+      "caribbeanAssociation": "Closely associated"
+    },
+    "governmentAndPolitics": {
+      "parliamentarySystem": true,
+      "politicalStructure": "Unitary parliamentary republic"
+    },
+    "economy": {
+      "mainSectors": ["Tourism", "Industrial"],
+      "currency": "Barbadian dollar",
+      "economicStatus": "Developing"
+    },
+    "health": {},
+    "education": {},
+    "culture": {
+      "diverseInfluences": true,
+      "culturalIdentity": "African and other influences"
+    },
+    "sports": {},
+    "transport": {
+      "drivingSide": "left",
+      "transportInfrastructure": "Developed"
+    },
+    "etymology": {}
+  }
+}
