@@ -1,0 +1,121 @@
+{
+  "Grenada": {
+    "Introduction": {
+      "Name": "Grenada",
+      "Alternate Names": {
+        "Grenadian Creole French": "Gwenad",
+        "Pronunciation": "/ɡrəˈneɪdə/ grə-NAY-də"
+      },
+      "Description": "An island nation in the West Indies, located in the eastern Caribbean Sea. It's the southernmost of the Windward Islands, south of Saint Vincent and the Grenadines, and north of Trinidad.",
+      "Known as": "Island of Spice",
+      "Reason for Nickname": "Due to its production of nutmeg and mace crops."
+    },
+    "Geography": {
+      "Location": {
+        "Coordinates": "12°07′N 61°40′W",
+        "Area": "348.5 square kilometers",
+        "Includes": ["Grenada Island", "Carriacou", "Petite Martinique", "Several small islands"]
+      },
+      "Capital": "St. George's",
+      "Climate": "Tropical with consistent temperatures throughout the year, daily maximum around 31°C and minimum around 23°C."
+    },
+    "History": {
+      "Early Inhabitants": "Indigenous peoples from South America",
+      "European Arrival": "Christopher Columbus in 1498",
+      "Colonial History": {
+        "French Colonization": "Started in 1649",
+        "British Rule": "1763 to 1974, with a brief French takeover between 1779 and 1783"
+      },
+      "Independence": "7 February 1974"
+    },
+    "Population": {
+      "Estimate": "124,523 (as of 2021)",
+      "Ethnic Groups": {
+        "African": "82.4%",
+        "Mixed": "13.3%",
+        "Indian": "2.2%",
+        "Other": "1.3%",
+        "Unspecified": "0.9%"
+      }
+    },
+    "Language": {
+      "Official": "English",
+      "Recognised Regional": ["Grenadian Creole English", "Grenadian Creole French"]
+    },
+    "Economy": {
+      "GDP (PPP)": {
+        "Total": "$2.3 billion (2023 estimate)",
+        "Per Capita": "$20,195 (2023 estimate)"
+      },
+      "GDP (Nominal)": {
+        "Total": "$1.3 billion (2023 estimate)",
+        "Per Capita": "$11,437 (2023 estimate)"
+      },
+      "Currency": "East Caribbean dollar (XCD)"
+    },
+    "Government": {
+      "Type": "Unitary parliamentary constitutional monarchy",
+      "Monarch": "Charles III",
+      "Governor-General": "Dame Cécile La Grenade",
+      "Prime Minister": "Dickon Mitchell",
+      "Legislature": {
+        "Upper House": "Senate",
+        "Lower House": "House of Representatives"
+      }
+    },
+    "Culture": {
+      "Religion": {
+        "Christianity": "96.6%",
+        "Hinduism": "1.3%",
+      "Rastafari": "0.7%",
+     "No Religion": "1.0%",
+  "Other": "0.4%"
+      },
+      "Festivals": {
+        "Spice Mas": "Annual cultural festival featuring music, dance, and traditional masquerades."
+      },
+      "Cuisine": {
+        "Signature Dish": "Oil Down - a dish with breadfruit, meat, salted fish, vegetables, callaloo, coconut milk, and turmeric."
+      }
+    },
+    "Human Rights and Community": {
+      "Commitment": "Grenada is committed to rebuilding and rehabilitation post natural disasters, promoting peace, democracy, equality, and good governance."
+    },
+    "Sports": {
+      "Commonwealth Games Participation": "Since 1970, with one medal won.",
+      "Major Sports": ["Cricket", "Football", "Athletics"]
+    },
+    "Education": {
+      "System": "Influenced by the British model, with primary, secondary, and tertiary levels."
+    },
+    "Transport": {
+      "Driving Side": "Left",
+      "Main Airport": "Maurice Bishop International Airport"
+    },
+    "Demographics": {
+      "Urbanization Rate": "0.86% annual rate (2020-25 est.)"
+    },
+    "Environmental Data": {
+      "Air Pollutants": {
+        "Particulate Matter Emissions": "10.08 micrograms per cubic meter (2019 est.)",
+        "Carbon Dioxide Emissions": "0.27 megatons (2016 est.)",
+        "Methane Emissions": "2.04 megatons (2020 est.)"
+      },
+      "Total Water Withdrawal": {
+        "Municipal": "10 million cubic meters (2020 est.)",
+        "Agricultural": "2.1 million cubic meters (2017 est.)"
+      },
+      "Total Renewable Water Resources": "200 million cubic meters (2020 est.)"
+    },
+    "Tourism": {
+      "Attractions": {
+        "Underwater Sculpture Park": "World's first, offering unique diving experiences.",
+        "Historical Forts": "Numerous forts with rich history."
+      }
+    },
+    "International Relations": {
+      "Commonwealth Membership": "Since 1974",
+      "Participation in International Organizations": "Grenada participates in various international law organizations and has dual citizenship recognition."
+    }
+  }
+}
