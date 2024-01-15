@@ -1,0 +1,138 @@
+{
+  "Angola": {
+    "officialName": "Republic of Angola",
+    "localNames": {
+      "Portuguese": "República de Angola",
+      "Kongo": "Ngola"
+    },
+    "location": {
+      "region": "West-central coast of Southern Africa",
+      "borders": {
+        "Namibia": "south",
+        "DemocraticRepublicOfTheCongo": "north",
+        "Zambia": "east",
+        "AtlanticOcean": "west"
+      },
+      "exclaveProvince": "Cabinda",
+      "proximityToZimbabwe": "Less than 200 metres from Botswana's border"
+    },
+    "capitalAndLargestCity": "Luanda",
+    "officialLanguage": "Portuguese",
+    "nationalLanguages": [
+      "Kimbundu", "Umbundu", "Chokwe", "Kikongo", "Khoekhoegowab", "Oshiwambo", "RuKwangali", "Setswana", "siLozi", "Afrikaans", "German"
+    ],
+    "ethnicGroups2021": {
+      "Ovimbundu": "37%",
+      "Ambundu": "25%",
+      "Bakongo": "13%",
+      "OtherAfrican": "21%",
+      "Mestiço": "2%",
+      "Asian": "2%",
+      "European": "1%"
+    },
+    "religion2020": {
+      "Christianity": "92.9%",
+      "Catholicism": "53.9%",
+      "Protestantism": "27.4%",
+      "OtherChristian": "11.6%",
+      "TraditionalFaiths": "5.1%",
+      "Islam": "1.1%",
+      "OtherNone": "0.9%"
+    },
+    "demonym": "Angolan",
+    "government": {
+      "type": "Unitary parliamentary republic with an executive presidency",
+      "president": "João Lourenço",
+      "vicePresident": "Esperança da Costa"
+    },
+    "legislature": {
+      "nationalAssembly": "National Assembly"
+    },
+    "independence": {
+      "fromPortugal": "11 November 1975",
+      "UNMembership": "22 November 1976",
+      "currentConstitution": "21 January 2010"
+    },
+    "area": {
+      "total": "1,246,700 km2",
+      "waterPercentage": "negligible"
+    },
+    "population2023": {
+      "estimate": "35,981,281",
+      "density": "24.97/km2"
+    },
+    "economy": {
+      "GDP_PPP_2023": {
+        "total": "$260.323 billion",
+        "perCapita": "$7,077"
+      },
+      "GDP_Nominal_2023": {
+        "total": "$93.796 billion",
+        "perCapita": "$2,550"
+      },
+      "Gini2018": "51.3",
+      "HDI2021": "0.588"
+    },
+    "currency": {
+      "primary": "Angolan kwanza (AOA)"
+    },
+    "timeZone": "UTC+1 (WAT)",
+    "dateAndDriving": {
+      "dateFormat": "dd/mm/yyyy",
+      "drivingSide": "right"
+    },
+    "communication": {
+      "callingCode": "+244",
+      "ISO3166Code": "AO",
+      "internetTLD": ".ao"
+    },
+    "geography": {
+      "features": "Coastal country with diverse landscapes",
+      "climate": "Tropical and subtropical"
+    },
+    "history": {
+      "earlyInhabitants": ["San", "Damara", "Nama"],
+      "bantuArrival": "14th century",
+      "germanColonization": "19th century",
+      "portugueseColony": "16th century onwards",
+      "independence": "1975",
+      "civilWar": "1975-2002",
+      "postCivilWar": "Stabilization and growth"
+    },
+    "governmentAndPolitics": {
+      "politicalStructure": "Semi-presidential republic",
+      "currentLeaders": {
+        "president": "João Lourenço",
+        "vicePresident": "Esperança da Costa"
+      },
+      "internationalAffiliations": ["UN", "African Union", "Community of Portuguese Language Countries", "SADC"]
+    },
+    "economy": {
+      "mainSectors": ["Mining", "Petroleum"],
+      "keyResources": ["Diamonds", "Oil"],
+      "economicGrowth": "Fast-growing post-civil war",
+      "wealthDistribution": "Highly uneven"
+    },
+    "energy": {
+      "resources": "Petroleum and mineral reserves",
+      "exportStatus": "Major exporter"
+    },
+    "demographics": {
+      "populationEstimate": "Approximately 36 million",
+      "ethnicDiversity": "Multicultural and multiethnic",
+      "languageDiversity": "Portuguese and several African languages"
+    },
+    "culture": {
+      "influences": "Portuguese and indigenous customs",
+      "religion": "Predominantly Christian",
+      "traditionalAndModernMix": true
+    },
+    "motto": "Virtus Unita Fortior ('Virtue is stronger when united')",
+    "anthem": {
+      "title": "Angola Avante ('Onwards Angola')",
+      "duration": "1:22"
+    },
+    "flag": "Flag of Angola",
+    "emblem": "Emblem of Angola"
+  }
+}
