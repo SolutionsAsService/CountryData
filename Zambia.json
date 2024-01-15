@@ -69,10 +69,7 @@
     "currency": "Zambian kwacha (ZMW)",
     "timeZone": "UTC+2 (CAT)",
     "dateAndDriving": {
-      "dateFormat": "dd/mm/yyyy
-json
-Copy code
-      ",
+      "dateFormat": "dd/mm/yyyy",
       "drivingSide": "left"
     },
     "communication": {
@@ -108,8 +105,6 @@ Copy code
       "ethnicDiversity": true,
       "mainLanguages": "Multiple local languages"
     },
-json
-Copy code
     "economy": {
       "naturalResources": ["Minerals", "Wildlife", "Forestry", "Freshwater", "Arable land"],
       "economicDevelopment": "Fast-growing as per World Bank 2010",
