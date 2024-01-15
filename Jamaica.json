@@ -1,0 +1,88 @@
+{
+  "Country": "Jamaica",
+  "Native_Name": "Jumieka",
+  "Coordinates": {
+    "Latitude": "17°58′17″N",
+    "Longitude": "76°47′35″W"
+  },
+  "Area_Square_Kilometers": 10990,
+  "Population": {
+    "2019_Estimate": 2734092,
+    "2011_Census": 2697983,
+    "Density_Per_SqKm": 266
+  },
+  "Government": {
+    "Type": "Unitary parliamentary constitutional monarchy",
+    "Monarch": "Charles III",
+    "Governor_General": "Patrick Allen",
+    "Prime_Minister": "Andrew Holness",
+    "Legislature": {
+      "Upper_House": "Senate",
+      "Lower_House": "House of Representatives"
+    }
+  },
+  "Independence": {
+    "From_United_Kingdom": "6 August 1962"
+  },
+  "Economy": {
+    "GDP_PPP": {
+      "Total": "$35.690 billion",
+      "Per_Capita": "$12,994"
+    },
+    "GDP_Nominal": {
+      "Total": "$18.761 billion",
+      "Per_Capita": "$6,830"
+    },
+    "Currency": "Jamaican dollar (JMD)"
+  },
+  "Geography": {
+    "Capital": "Kingston",
+    "Major_Islands": ["Cuba", "Hispaniola", "Cayman Islands"],
+    "Time_Zone": "UTC-5"
+  },
+  "Demographics": {
+    "Ethnic_Groups": {
+      "Afro_Jamaicans": "92.1%",
+      "Mixed": "6.1%",
+      "Indian": "0.8%",
+      "Other": "0.4%",
+      "Unspecified": "0.7%"
+    },
+    "Religion": {
+      "Christianity": "68.9%",
+      "Protestantism": "64.8%",
+      "Other_Christian": "4.1%",
+      "No_Religion": "21.3%",
+      "Rastafarianism": "1.1%",
+      "Others": "6.5%",
+      "Not_Stated": "2.3%"
+    }
+  },
+  "Languages": {
+    "Official": "English",
+    "National": "Jamaican Patois"
+  },
+  "Symbols": {
+    "Flag": "Flag of Jamaica",
+    "Coat_of_Arms": "Coat of arms of Jamaica",
+    "Motto": "\"Out of Many, One People\"",
+    "National_Anthem": "Jamaica, Land We Love",
+    "Royal_Anthem": "God Save the King"
+  },
+  "History": {
+    "Early_Inhabitants": "Taíno peoples",
+    "Spanish_Rule": "1494-1655",
+    "British_Rule": "1655-1962",
+    "Independence": "6 August 1962"
+  },
+  "Cultural_Influence": {
+    "Music": ["Reggae", "Dub", "Ska", "Dancehall"],
+    "Sports": ["Cricket", "Sprinting", "Athletics"],
+    "Religion": ["Rastafari"]
+  },
+  "International_Influence": "World's least populous cultural superpower",
+  "Tourism": "Average of 4.3 million tourists per year",
+  "Education": "System and Institutions",
+  "Science_and_Technology": "Developments and Contributions",
+  "Infrastructure": "Transportation, Utilities, and Communication"
+}
