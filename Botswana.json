@@ -1,0 +1,135 @@
+{
+  "Botswana": {
+    "officialName": "Republic of Botswana",
+    "localName": "Lefatshe la Botswana",
+    "description": {
+      "landlocked": true,
+      "topography": "Flat, 70 percent Kalahari Desert"
+    },
+    "location": {
+      "region": "Southern Africa",
+      "borders": {
+        "SouthAfrica": "south and southeast",
+        "Namibia": "west and north",
+        "Zimbabwe": "northeast"
+      },
+      "connectionToZambia": "Kazungula Bridge"
+    },
+    "capitalAndLargestCity": "Gaborone",
+    "officialLanguages": ["English", "Setswana"],
+    "ethnicGroups2012": {
+      "Tswana": "79%",
+      "Kalanga": "11%",
+      "San": "2%",
+      "Others": "8%"
+    },
+    "religion2021": {
+      "Christianity": "79.1%",
+      "Protestantism": "70.2%",
+      "OtherChristian": "8.9%",
+      "NoReligion": "15.2%",
+      "Badimo": "4.1%",
+      "Others": "1.4%"
+    },
+    "demonym": {
+      "plural": "Batswana",
+      "singular": "Motswana"
+    },
+    "government": {
+      "type": "Unitary dominant-party parliamentary republic with an executive presidency",
+      "president": "Mokgweetsi Masisi",
+      "vicePresident": "Slumber Tsogwane",
+      "nationalAssemblySpeaker": "Phandu Skelemani"
+    },
+    "legislature": "Parliament (National Assembly)",
+    "independence": {
+      "fromUnitedKingdom": "30 September 1966"
+    },
+    "area": {
+      "total": "581,730 km2",
+      "waterPercentage": "2.7%"
+    },
+    "population2023": {
+      "estimate": "2,675,352",
+      "density": "4.6/km2"
+    },
+    "economy": {
+      "GDP_PPP_2023": {
+        "total": "$51.886 billion",
+        "perCapita": "$19,394"
+      },
+      "GDP_Nominal_2023": {
+        "total": "$20.756 billion",
+        "perCapita": "$7,757"
+      },
+      "Gini2015": "53.3",
+      "HDI2021": "0.693"
+    },
+    "currency": "Pula (BWP)",
+    "timeZone": "UTC+2 (Central Africa Time)",
+    "dateAndDriving": {
+      "dateFormat": "dd/mm/yyyy",
+      "drivingSide": "left"
+    },
+    "communication": {
+      "callingCode": "+267",
+      "ISO3166Code": "BW",
+      "internetTLD": ".bw",
+      "officialWebsite": "www.gov.bw"
+    },
+    "history": {
+      "earlyInhabitants": "Khoisan peoples",
+      "bantuMigration": "13th century",
+      "europeanExploration": "18th century",
+      "britishProtectorate": "Bechuanaland",
+      "independence": "30 September 1966",
+      "postIndependence": {
+        "economicTransformation": "Late 1960s onwards",
+        "democraticElections": true,
+        "corruptionRanking": "Lowest in Africa since 1998"
+      }
+    },
+    "geography": {
+      "features": "Landlocked, predominantly desert",
+      "climate": "Subtropical"
+    },
+    "demographics": {
+      "populationSize": "Over 2.3 million",
+      "capitalPopulation": "11.6%",
+      "ethnicMajority": "Tswana"
+    },
+    "economy": {
+      "dominantSectors": ["Mining", "Tourism"],
+      "GDPGrowth": "Fastest-growing economies",
+      "diamondProduction": "World's biggest producer",
+      "incomeLevel": "Upper-middle-income",
+      "HDI": "High in Sub-Saharan Africa"
+    },
+    "culture": {
+      "languages": "Setswana and English",
+      "ethnicity": "Predominantly Tswana",
+      "notableEvents": ["Forbes 30 Under 30", "Netball World Youth Cup"]
+    },
+    "education": {},
+    "infrastructure": {
+      "HIVPrograms": {
+        "ARVTreatment": "Since 2002",
+        "educationEfforts": true,
+        "recentProgress": "Combating HIV/AIDS"
+      }
+    },
+    "motto": "Pula ('Let There Be Rain')",
+    "anthem": {
+      "title": "Fatshe leno la rona ('Blessed Be This Noble Land')",
+      "duration": "0:57"
+    },
+    "flag": "Flag of Botswana",
+    "coatOfArms": "Coat of arms of Botswana",
+    "membership": {
+      "SACU": true,
+      "SADC": true,
+      "Commonwealth": true,
+      "UN": true
+    }
+  }
+}
