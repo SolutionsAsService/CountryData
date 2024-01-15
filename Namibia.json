@@ -1,0 +1,146 @@
+{
+  "Namibia": {
+    "officialName": "Republic of Namibia",
+    "namesInNationalLanguages": {
+      "Afrikaans": "Republiek van Namibië",
+      "German": "Republik Namibia",
+      "Khoekhoegowab": "Republiki Namibiab dib",
+      "Otjiherero": "Orepublika yaNamibia",
+      "Oshiwambo": "Orepublika yaNamibia",
+      "RuKwangali": "Republika zaNamibia",
+      "Setswana": "Rephaboliki ya Namibia",
+      "siLozi": "Namibia ye Lukuluhile"
+    },
+    "location": {
+      "region": "Southern Africa",
+      "borders": {
+        "AtlanticOcean": "west",
+        "ZambiaAngola": "north",
+        "Botswana": "east",
+        "SouthAfrica": "south and east",
+        "Zimbabwe": "northeast"
+      },
+      "landmark": "Kazungula Bridge to Zambia"
+    },
+    "capitalAndLargestCity": "Windhoek",
+    "officialLanguage": "English",
+    "recognisedNationalLanguages": [
+      "Otjiherero", "Khoekhoegowab", "Oshiwambo", "RuKwangali", "Setswana", "siLozi", "Afrikaans", "German"
+    ],
+    "recognisedRegionalLanguages": [
+      "!Kung", "Gciriku", "Thimbukushu"
+    ],
+    "ethnicGroups2014": {
+      "Ovambo": "49%",
+      "Kavango": "9.2%",
+      "White": "8.0%",
+      "Coloured": "8.0%",
+      "Herero": "7.0%",
+      "Damara": "7.0%",
+      "Nama": "4.7%",
+      "Lozi": "3.5%",
+      "San": "3.0%",
+      "Tswana": "0.6%",
+      "Others": "0.5%"
+    },
+    "religion2013": {
+      "Christianity": "87.9%",
+      "Lutheranism": "43.7%",
+      "Catholicism": "22.8%",
+      "Anglicanism": "17.0%",
+      "OtherChristian": "4.4%",
+      "TraditionalFaiths": "10.2%",
+      "NoReligion": "1.6%",
+      "Others": "0.3%"
+    },
+    "demonym": "Namibian",
+    "government": {
+      "type": "Unitary semi-presidential republic",
+      "president": "Hage Geingob",
+      "vicePresident": "Nangolo Mbumba",
+      "primeMinister": "Saara Kuugongelwa",
+      "deputyPrimeMinister": "Netumbo Nandi-Ndaitwah",
+      "chiefJustice": "Peter Shivute"
+    },
+    "legislature": {
+      "upperHouse": "National Council",
+      "lowerHouse": "National Assembly"
+    },
+    "independence": {
+      "fromSouthAfrica": "21 March 1990",
+      "constitutionDate": "9 February 1990"
+    },
+    "area": {
+      "total": "825615 km2",
+      "waterPercentage": "negligible"
+    },
+    "population2023": {
+      "estimate": "2,777,232",
+      "density": "3.2/km2"
+    },
+    "economy": {
+      "GDP_PPP_2023": {
+        "total": "$30.663 billion",
+        "perCapita": "$11,603"
+      },
+      "GDP_Nominal_2023": {
+        "total": "$12.647 billion",
+        "perCapita": "$4,786"
+      },
+      "Gini2015": "59.1",
+      "HDI2021": "0.615"
+    },
+    "currency": {
+      "primary": "Namibian dollar (NAD)",
+      "secondary": "South African rand (ZAR)"
+    },
+    "timeZone": "UTC+2 (CAT)",
+    "dateAndDriving": {
+      "dateFormat": "dd/mm/yyyy",
+      "drivingSide": "left"
+    },
+    "communication": {
+      "callingCode": "+264",
+      "ISO3166Code": "NA",
+      "internetTLD": ".na"
+    },
+    "geography": {
+      "description": "Driest country in sub-Saharan Africa",
+      "mainFeatures": ["Desert landscapes", "Varied wildlife"]
+    },
+    "history": {
+      "earlyInhabitants": ["San", "Damara", "Nama"],
+      "bantuArrival": "14th century",
+      "germanColony": "1884-1915",
+      "hereroAndNamaGenocide": "1904-1908",
+      "southAfricanRule": "1915-1990",
+      "independence": "21 March 1990"
+    },
+    "governmentAndPolitics": {
+      "politicalStructure": "Parliamentary democracy",
+      "currentLeaders": {
+        "president": "Hage Geingob",
+        "vicePresident": "Nangolo Mbumba"
+      },
+      "internationalAffiliations": ["UN", "SADC", "AU", "Commonwealth"]
+    },
+    "economy": {
+      "sectors": ["Agriculture", "Tourism", "Mining"],
+      "keyResources": ["Diamonds", "Uranium", "Gold", "Silver"],
+      "manufacturingSector": "Small but growing"
+    },
+    "culture": {
+      "ethnicDiversity": true,
+      "languages": "Multiple local and European languages",
+      "motto": "\"Unity, Liberty, Justice\"",
+      "anthem": "Namibia, Land of the Brave"
+    },
+    "flag": "Flag of Namibia",
+    "coatOfArms": "Coat of arms of Namibia",
+    "motto": "\"Unity, Liberty, Justice\"",
+    "anthem": {
+      "title": "Namibia, Land of the Brave",
+      "duration": "1:30"
+    }
+  }
+}
