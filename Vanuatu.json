@@ -1,0 +1,118 @@
+{
+  "Vanuatu": {
+    "official_name": "Republic of Vanuatu",
+    "pronunciation": {
+      "English": "/ˌvɑːnuˈɑːtuː/, /vænˈwɑːtuː/",
+      "Bislama_French": "[vanuatu]"
+    },
+    "description": "Island country in Melanesia, South Pacific Ocean, of volcanic origin.",
+    "location": {
+      "relative_position": {
+        "east_of_northern_Australia": "1,750 km",
+        "northeast_of_New_Caledonia": "540 km",
+        "east_of_New_Guinea": true,
+        "southeast_of_Solomon_Islands": true,
+        "west_of_Fiji": true
+      }
+    },
+    "capital_and_largest_city": "Port Vila",
+    "coordinates": "-17°S 168°E",
+    "official_languages": ["Bislama", "English", "French"],
+    "ethnic_groups_2020": {
+      "Ni-Vanuatu": "98.5%",
+      "others": "1.5%"
+    },
+    "religion_2020": {
+      "Christianity": "93.4%",
+      "Protestantism": "75.1%",
+      "Catholicism": "13.5%",
+      "other_Christian": "4.8%",
+      "Animism": "4.6%",
+      "Baha'i_faith": "1.4%",
+      "other_none": "0.6%"
+    },
+    "demonym": ["Ni-Vanuatu", "Vanuatuan"],
+    "government": {
+      "type": "Unitary parliamentary republic",
+      "president": "Nikenike Vurobaravu",
+      "prime_minister": "Charlot Salwai",
+      "legislature": "Parliament"
+    },
+    "independence": {
+      "from_United_Kingdom_and_France": "30 July 1980",
+      "admitted_to_UN": "15 September 1981"
+    },
+    "area": "12,189 km2",
+    "population_estimates": {
+      "2023": "335,908",
+      "2020_census": "300,019",
+      "density": "27.6/km2"
+    },
+    "GDP": {
+      "PPP_2023_estimate": {
+        "total": "$1.064 billion",
+        "per_capita": "$3,001"
+      },
+      "nominal_2023_estimate": {
+        "total": "$1.002 billion",
+        "per_capita": "$3,188"
+      "Gini_2010": "37.6",
+      "HDI_2021": {
+        "value": "0.607",
+        "rank": "142nd"
+      },
+      "currency": "Vatu (VUV)",
+      "time_zone": "UTC+11 (VUT)",
+      "driving_side": "right",
+      "calling_code": "+678",
+      "ISO_3166_code": "VU",
+      "Internet_TLD": ".vu",
+      "geography": {
+        "archipelago": "Y-shaped chain of four main islands and 80 smaller islands",
+        "largest_island": "Espiritu Santo",
+        "total_land_area": "12,189 km²",
+        "highest_point": "Mount Tabwemasana, 1,879 m"
+      },
+      "demographics": {
+        "population_2013_estimate": "252,000",
+        "major_cities": ["Port Vila", "Luganville"],
+        "youth_population": "62% below 24 years of age",
+        "languages": ["Bislama", "English", "French", "over 100 local languages"]
+      },
+      "culture_and_society": {
+        "social_structure": "highly-structured, hierarchical, village-based",
+        "cultural_diversity": "113 distinct languages and innumerable dialects",
+        "public_holidays": [
+          "New Year",
+          "Fr. Walter.H.Lini Day",
+          "Chief's Day",
+          "Good Friday",
+          "Easter Monday",
+          "Labour Day",
+          "Ascension Day",
+          "Children's Day",
+          "Independence Day",
+          "Assumption Day",
+          "Constitution Day",
+          "Unity Day",
+          "Christmas Day",
+          "Family Day"
+        ]
+      },
+      "history": {
+        "first_inhabitants": "Melanesian people",
+        "first_European_contact": {
+          "year": 1606,
+          "navigator": "Fernandes de Queirós",
+          "claimed_for": "Spain"
+        },
+        "Anglo-French_colonial_period": "1880s to 1980",
+        "independence_movement": "1970s",
+        "founding_of_republic": "1980"
+      },
+      "international_relations": {
+        "member_of": ["United Nations", "Commonwealth of Nations", "Organisation internationale de la Francophonie", "Pacific Islands Forum"]
+      }
+    }
+  }
+}
