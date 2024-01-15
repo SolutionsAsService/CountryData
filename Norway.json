@@ -1,0 +1,168 @@
+{
+  "Norway": {
+    "officialNames": {
+      "Bokmal": "Kongeriket Norge",
+      "Nynorsk": "Kongeriket Noreg",
+      "NorthernSami": "Norgga gonagasriika",
+      "LuleSami": "Vuona gånågisrijkka",
+      "SouthernSami": "Nöörjen gånkarïjhke",
+      "Kven": "Norjan kuninkhaanvaltakunta"
+    },
+    "symbols": {
+      "flag": "Flag of Norway",
+      "coatOfArms": "Coat of arms of Norway",
+      "nationalAnthem": {
+        "title": "Ja, vi elsker dette landet",
+        "duration": "1:03",
+        "translation": "Yes, we love this country"
+      },
+      "royalAnthem": {
+        "title": "Kongesangen",
+        "duration": "1:18",
+        "translation": "King's Song"
+      }
+    },
+    "location": {
+      "continent": "Europe",
+      "coordinates": "59°56′N 10°41′E",
+      "territories": ["Svalbard", "Jan Mayen", "Bouvet Island"],
+      "antarcticClaims": ["Peter I Island", "Queen Maud Land"]
+    },
+    "capital": "Oslo",
+    "officialLanguages": ["Norwegian", "Sami"],
+    "recognisedNationalLanguages": ["Kven", "Romani", "Scandoromani", "Norwegian Sign Language"],
+    "ethnicGroups2021": {
+      "Norwegian": "81.5%",
+      "NonNorwegian": "18.5%"
+    },
+    "religion2021": {
+      "Christianity": "74.9%",
+      "NoReligion": "21.2%",
+      "Islam": "3.1%",
+      "Other": "0.8%"
+    },
+    "government": {
+      "type": "Unitary parliamentary constitutional monarchy",
+      "monarch": "Harald V",
+      "primeMinister": "Jonas Gahr Støre",
+      "presidentOfStorting": "Masud Gharahkhani",
+      "chiefJustice": "Toril Marie Øie",
+      "legislature": "Storting"
+    },
+    "historicalTimeline": {
+      "StateEstablished": "872",
+      "OldKingdomPeak": "1263",
+      "KalmarUnion": "1397",
+      "DenmarkNorway": "1524",
+      "ReEstablishedState": "25 February 1814",
+      "Constitution": "17 May 1814",
+      "UnionWithSweden": "4 November 1814",
+      "DissolutionUnionWithSweden": "7 June 1905"
+    },
+    "geography": {
+      "totalArea": "385,207 km2",
+      "waterPercentage": "5.32%",
+      "populationEstimate2023": "5,488,984",
+      "populationDensity": "14.3/km2"
+    },
+    "economy":
+      {
+        "GDP_PPP_2023": {
+          "total": "$452.964 billion",
+          "perCapita": "$82,236"
+        },
+        "GDP_Nominal_2023": {
+          "total": "$546.768 billion",
+          "perCapita": "$99,266"
+        },
+        "GiniIndex2020": "25.3",
+        "HDI_2021": "0.961",
+        "currency": "Norwegian krone (NOK)",
+        "mainIndustries": {
+          "petroleum": "25% of GDP",
+          "naturalGas": "World's largest producer outside Middle East",
+          "otherResources": ["minerals", "lumber", "seafood", "fresh water"]
+        },
+        "sovereignWealthFundValue": "US$1.3 trillion"
+      }
+    },
+    "demographics": {
+      "dateFormat": "dd.mm.yyyy",
+      "drivingSide": "right",
+      "callingCode": "+47",
+      "ISO3166Code": "NO",
+      "internetTLD": ".no",
+      "additionalTLDs": [".sj", ".bv"]
+    },
+    "culture": {
+      "welfareModel": "Nordic welfare model",
+      "values": "Egalitarian ideals",
+      "selfDetermination": {
+        "SamiParliament": true,
+        "FinnmarkAct": true
+      },
+      "internationalRelations": {
+        "UN": "founding member",
+        "NATO": "member",
+        "EFTA": "member",
+        "CouncilOfEurope": "member",
+        "AntarcticTreaty": "member",
+        "NordicCouncil": "member",
+        "EEA": "member",
+        "WTO": "member",
+        "OECD": "member",
+        "SchengenArea": "part of"
+      },
+      "unofficialMotto": "Enige og tro inntil Dovre faller (United and loyal until Dovre falls)"
+    },
+    "etymology": {},
+    "history": {},
+    "geography": {
+      "neighbors": ["Sweden", "Finland", "Russia"],
+      "borders": {
+        "easternBorderWithSweden": true,
+        "bordersWithFinlandAndRussia": true,
+        "skagerrakStraitToTheSouth": true
+      },
+      "coastline": {
+        "facingNorthAtlanticOcean": true,
+        "facingBarentsSea": true
+      }
+    },
+    "politicsAndGovernment": {},
+    "economy": {
+      "nordicWelfareModel": true,
+      "universalHealthCare": true,
+      "comprehensiveSocialSecuritySystem": true,
+      "ownershipInIndustrialSectors": true,
+      "naturalResources": {
+        "petroleum": true,
+        "naturalGas": true,
+        "minerals": true,
+        "lumber": true,
+        "seafood": true,
+        "freshWater": true
+      },
+      "worldRankings": {
+        "perCapitaIncome": "4th highest",
+        "oilAndNaturalGasProducer": "largest outside Middle East"
+      }
+    },
+    "demographics": {
+      "populationTrends": {
+        "2023Estimate": "5,488,984",
+        "populationDensity": "14.3/km2"
+      },
+      "ethnicComposition": {
+        "norwegianMajority": "81.5%",
+        "nonNorwegianMinority": "18.5%"
+      },
+      "religiousComposition": {
+        "christianityMajority": "74.9%",
+        "noReligion": "21.2%",
+        "islam": "3.1%",
+        "otherReligions": "0.8%"
+      }
+    }
+  }
+}
