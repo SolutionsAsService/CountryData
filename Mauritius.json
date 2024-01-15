@@ -1,5 +1,9 @@
 {
-  "country": "Republic of Mauritius",
+  "Mauritius": {
+  "French": "Maurice"
+  "Proninciatuon": ["mɔʁis", "moʁis"] ,
+  "MauritianCreole": "Moris",
+  "FullName": "Republic of Mauritius",
   "alternative_names": {
     "French": "République de Maurice",
     "Mauritian_Creole": "Repiblik Moris"
@@ -78,7 +82,7 @@
     "Tromelin": "Disputed with France"
  
 },
-"languages_spoken_at_home": {
+   "languages_spoken_at_home": {
 "Mauritian_Creole": "90.0%",
 "Bhojpuri": "5.1%",
 "French": "4.4%",
@@ -122,5 +126,6 @@
 "calling_code": "+230",
 "internet_tld": ".mu",
 "iso_code": "MU"
+}
 }
 }
