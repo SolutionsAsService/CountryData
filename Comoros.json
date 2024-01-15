@@ -1,0 +1,115 @@
+{
+  "Comoros": {
+    "official_name": "Union of the Comoros",
+    "native_names": {
+      "Ngazidja_Comorian": "Udzima wa Komori",
+      "French": "Union des Comores",
+      "Arabic": "جمهورية القمر المتحدة"
+    },
+    "symbols": {
+      "flag": "Flag of Comoros",
+      "seal": "Seal of Comoros",
+      "motto": {
+        "French": "Unité – Solidarité – Développement",
+        "Arabic": "وحدة، تضامن، تنمية",
+        "English_translation": "Unity – Solidarity – Development"
+      },
+      "anthem": {
+        "title": "Udzima wa ya Masiwa",
+        "English_translation": "The Unity of the Great Islands",
+        "duration": "1 minute and 37 seconds"
+      }
+    },
+    "location": {
+      "general": "Southeastern Africa, northern end of the Mozambique Channel in the Indian Ocean",
+      "coordinates": {
+        "latitude": "11.69°S",
+        "longitude": "43.26°E"
+      }
+    },
+    "capital": "Moroni",
+    "official_languages": ["Comorian", "French", "Arabic"],
+    "ethnic_groups_2000": {
+      "Comorians": "97.1%",
+      "Makua": "1.6%",
+      "Others": "1.3%"
+    },
+    "demonym": "Comorian",
+    "government": {
+      "type": "Federal presidential republic",
+      "president": "Azali Assoumani",
+      "president_of_assembly": "Moustadroine Abdou",
+      "legislature": "Assembly of the Union"
+    },
+    "historical_events": {
+      "discovery_by_portuguese": "1503",
+      "colony_of_mayotte": "25 April 1841",
+      "french_protectorate": "1886",
+      "colony_of_mayotte_and_dependencies": "9 April 1908",
+      "province_of_colony_of_madagascar_and_dependencies": "31 March 1914",
+      "french_overseas_territory": "27 October 1946",
+      "internal_autonomy": "22 December 1961",
+      "independence_from_france": "6 July 1975",
+      "federal_islamic_republic_of_comoros": "1 October 1978",
+      "current_constitution": "23 December 2001, revised February 2018"
+    },
+    "geographical_statistics": {
+      "total_area_km2": "2235",
+      "total_area_sq_mi": "863",
+      "rank_by_area": "170th",
+      "water_percentage": "negligible"
+    },
+    "population_statistics": {
+      "2019_estimate": "850886",
+      "rank_by_population": "160th",
+      "density_per_km2": "457",
+      "density_per_sq_mi": "1183.6"
+    },
+    "economic_statistics": {
+      "GDP_PPP": {
+        "2019_total": "$2.446 billion",
+        "2019_per_capita": "$2799",
+        "rank": "178th"
+      },
+      "GDP_nominal": {
+        "2019_total": "$1.179 billion",
+        "2019_per_capita": "$1349",
+        "rank": "182nd"
+      }
+    },
+    "socioeconomic_indicators": {
+      "Gini_index_2013": "45.0",
+      "HDI_2021":
+      "HDI_2021": "0.558",
+      "HDI_rank": "156th"
+    },
+    "currency": "Comorian franc (KMF)",
+    "time_zone": "UTC+3 (EAT)",
+    "driving_side": "right",
+    "calling_code": "+269",
+    "ISO_3166_code": "KM",
+    "Internet_TLD": ".km",
+    "size_rank": "third-smallest African country",
+    "sovereign_state": "three major islands and numerous smaller islands",
+    "exception": "Mayotte administered by France",
+    "UN_security_council_resolutions": "vetoed by France regarding Mayotte",
+    "Mayotte_status": "overseas department and region of France since 2011",
+    "early_settlements": ["Austronesian/Malagasy peoples", "Bantu speakers from East Africa", "Arab traders"],
+    "colonial_history": "French colonial empire in 19th century",
+    "post_independence": {
+      "independence_year": "1975",
+      "coups_and_attempts": "more than 20",
+      "political_instability": "various heads of state assassinated"
+    },
+    "social_issues": {
+      "income_inequality": "one of the worst levels",
+      "HDI_ranking": "lowest quartile",
+      "poverty_line_below": "half the population below US$1.25 a day (2008)"
+    },
+    "additional_notes": {
+      "note_1": "Comoros is an archipelagic country",
+      "note_2": "Only country in the Arab world entirely in the Southern Hemisphere",
+      "membership": ["Arab League", "African Union", "Organisation internationale de la Francophonie", "Organisation of Islamic Co-operation", "Indian Ocean Commission"]
+    }
+  }
+}
