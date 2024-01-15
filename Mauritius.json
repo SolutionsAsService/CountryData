@@ -1,0 +1,126 @@
+{
+  "country": "Republic of Mauritius",
+  "alternative_names": {
+    "French": "République de Maurice",
+    "Mauritian_Creole": "Repiblik Moris"
+  },
+  "location": {
+    "region": "Indian Ocean",
+    "proximity": "Southeastern coast of East Africa, East of Madagascar",
+    "coordinates": "20.2°S 57.5°E"
+  },
+  "area": {
+    "total_sq_km": 2040,
+    "total_sq_mi": 790,
+    "water_percentage": 0.07,
+    "exclusive_economic_zone_sq_km": 2300000
+  },
+  "population": {
+    "2019_estimate": 1265475,
+    "2011_census": 1235260,
+    "density_per_sq_km": 618.24
+  },
+  "government": {
+    "type": "Unitary parliamentary republic",
+    "president": "Prithvirajsing Roopun",
+    "vice_president": "Eddy Boissézon",
+    "prime_minister": "Pravind Jugnauth",
+    "legislature": "National Assembly"
+  },
+  "independence": {
+    "from_United_Kingdom": "12 March 1968",
+    "republic_declaration": "12 March 1992"
+  },
+  "economic_data": {
+    "GDP_PPP": {
+      "total_2023_estimate": "$37.012 billion",
+      "per_capita_2023_estimate": "$29,349"
+    },
+    "GDP_nominal": {
+      "total_2023_estimate": "$14.819 billion",
+      "per_capita_2023_estimate": "$11,751"
+    }
+  },
+  "social_indices": {
+    "Gini_index_2017": 36.8,
+    "HDI_2021": 0.802
+  },
+  "currency": "Mauritian rupee (MUR)",
+  "official_languages": {
+    "de_jure": "None",
+    "de_facto": ["English", "French"]
+  },
+  "ethnic_groups": {
+    "Indian": "67%",
+    "Creoles": "28%",
+    "Chinese": "3%",
+    "French": "2%"
+  },
+  "religions": {
+    "Hinduism": "48.54%",
+    "Christianity": "32.71%",
+    "Islam": "17.30%",
+    "Others_None": "1.45%"
+  },
+  "symbols": {
+    "flag": "Flag of Mauritius",
+    "coat_of_arms": "Coat of arms of Mauritius",
+    "national_anthem": "Motherland",
+    "motto": "Stella Clavisque Maris Indici - Star and Key of the Indian Ocean"
+  },
+  "islands": {
+    "main_island": "Mauritius",
+    "other_islands": ["Rodrigues", "Agaléga", "St. Brandon"],
+    "Mascarene_Islands": ["Mauritius", "Rodrigues", "Réunion"]
+  },
+  "territorial_disputes": {
+    "Chagos_Archipelago": "Claimed by Mauritius",
+    "Tromelin": "Disputed with France"
+ 
+},
+"languages_spoken_at_home": {
+"Mauritian_Creole": "90.0%",
+"Bhojpuri": "5.1%",
+"French": "4.4%",
+"English": "0.6%"
+},
+"historical_background": {
+"early_discovery": "Arab sailors (circa 975 AD)",
+"portuguese_visit": "1507",
+"dutch_settlement": "1598",
+"french_control": "1715",
+"british_rule": "1810",
+"independence": "1968",
+"chagos_archipelago_issue": {
+"separation": "1965",
+"current_status": "Disputed, claimed by Mauritius"
+}
+},
+"demographics": {
+"ethnic_composition": {
+"Indo-Mauritians": "Majority",
+"Creoles": "Significant minority",
+"Sino-Mauritians": "Minority",
+"Franco-Mauritians": "Minority"
+},
+"religious_diversity": "Hinduism as major religion"
+},
+"governance": {
+"political_system": "Westminster parliamentary system",
+"democracy_status": "Full democracy",
+"human_development_index": "Very high",
+"economic_classification": "High-income economy"
+},
+"culture": {
+"influences": "Diverse due to colonialism",
+"known_for": "Biodiverse flora and fauna, home of the extinct dodo"
+},
+"miscellaneous": {
+"time_zone": "UTC+4",
+"date_format": "dd/mm/yyyy",
+"driving_side": "left",
+"calling_code": "+230",
+"internet_tld": ".mu",
+"iso_code": "MU"
+}
+}
