@@ -1,0 +1,95 @@
+{
+  "SierraLeone": {
+    "type": [ "Country", "Republic"],
+    "properties": {
+      "officialName": "Republic of Sierra Leone",
+      "location": "Southwest coast of West Africa",
+      "borders": {
+        "southeast": "Liberia",
+        "north": "Guinea"
+      },
+      "area": {
+        "total": "71,740 km2",
+        "waterPercentage": 1.1
+      },
+      "climate": "Tropical",
+      "environments": ["Savanna", "Rainforests"],
+      "population": {
+        "2015Census": 7092113,
+        "2023Estimate": 8908040
+      },
+      "capital": {
+        "name": "Freetown",
+        "coordinates": "08°30′00″N 12°06′00″W"
+      },
+      "officialLanguage": "English",
+      "nationalLanguages": ["Krio"],
+      "ethnicGroups": [
+        {"Mende": 35.5},
+        {"Temne": 33.2},
+        {"Limba": 6.4},
+        // Other groups...
+      ],
+      "government": {
+        "type": "Unitary presidential republic",
+        "president": "Julius Maada Bio",
+        "vicePresident": "Mohamed Juldeh Jalloh",
+        "chiefMinister": "David Sengeh",
+        "speakerOfParliament": "Abass Chernor Bundu",
+        "legislature": "Parliament"
+      },
+      "independence": {
+        "fromUK": {
+          "dominion": "27 April 1961",
+          "republic": "19 April 1971"
+        }
+      },
+      "GDP": {
+        "PPP": {
+          "2023Estimate": {
+            "total": "$17.784 billion",
+            "perCapita": "$2,097"
+          }
+        },
+        "nominal": {
+          "2023Estimate": {
+            "total": "$3.519 billion",
+            "perCapita": "$414"
+          }
+        }
+      },
+      "Gini": {
+        "2018": 35.7
+      },
+      "HDI": {
+        "2021": 0.477
+      },
+      "currency": "Leone (SLL)",
+      "timeZone": "UTC (GMT)",
+      "drivingSide": "right",
+      "callingCode": "+232",
+      "ISO3166Code": "SL",
+      "internetTLD": ".sl",
+      "historicalContext": {
+        "colonialEra": "British Sierra Leone",
+        "civilWar": "1991 - 2002",
+        "majorEthnicGroups": ["Temne", "Mende"]
+      },
+      "culture": {
+        "religions": {
+          "Muslims": "75%",
+          "Christians": "influential minority"
+        },
+        "languages": "Krio spoken by 97%",
+        "naturalResources": ["Diamond", "Gold", "Bauxite", "Aluminium"]
+      },
+      "memberships": [
+        "United Nations",
+        "African Union",
+        "ECOWAS",
+        "Commonwealth of Nations"
+        // Other memberships...
+      ]
+    }
+  }
+}
