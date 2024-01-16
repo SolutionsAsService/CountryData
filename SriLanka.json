@@ -56,14 +56,14 @@
         "Rajarata_established": "437 BCE",
         "various_kingdoms": [
           {"Name": "Kingdom of Anuradhapura", "Year":"437 BCE–1017 CE" },
-          {"Name":"Chola Empire (1017–1070)",
-          {"Name":"Kingdom of Polonnaruwa": "1070–1236"
-          {"Name":"Kingdom of Jaffna": "1215–1619"
-          {"Name":"Kingdom of Dambadeniya": "1220–1341"
-          {"Name":"Kingdom of Gampola": "1341–1412"
-          {"Kingdom of Kotte": "1412–1597"
-          {"Kingdom of Sitawaka": "1521–1593"
-          {"Kingdom of Kandy": "1469–1815"
+          {"Name":"Chola Empire", "Year": "1017–1070"},
+          {"Name":"Kingdom of Polonnaruwa", "Year":"1070–1236"},
+          {"Name":"Kingdom of Jaffna", "Year":"1215–1619"},
+          {"Name":"Kingdom of Dambadeniya","Year":"1220–1341"},
+          {"Name":"Kingdom of Gampola","Year":"1341–1412"},
+          {"Name":"Kingdom of Kotte","Year":"1412–1597"},
+          {"Name":"Kingdom of Sitawaka": "Year":"1521–1593"},
+          {"Name":"Kingdom of Kandy": "Year":"1469–1815"}
         ],
         "colonial_period": [
           "Portuguese Ceylon (1597–1658)",
