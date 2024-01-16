@@ -1,0 +1,104 @@
+{
+  "Federated_States_of_Micronesia": {
+    "basic_information": {
+      "official_name": "The Federated States of Micronesia",
+      "abbreviation": "FSM",
+      "motto": "Peace, Unity, Liberty",
+      "anthem": "Patriots of Micronesia",
+      "duration_of_anthem": "2 minutes and 3 seconds",
+      "capital": "Palikir",
+      "coordinates_of_capital": "6°55′N 158°11′E",
+      "largest_town": "Weno",
+      "official_language": "English",
+      "recognized_regional_languages": ["Chuukese", "Kosraean", "Pohnpeian", "Yapese"],
+      "flag_description": "Flag of the Federated States of Micronesia",
+      "seal_description": "Seal of the Federated States of Micronesia",
+      "internet_TLD": ".fm",
+      "website": "FSMGov.org"
+    },
+    "demographics": {
+      "ethnic_groups": {
+        "Chuukese": "48.8%",
+        "Pohnpeian": "24.2%",
+        "Kosraean": "6.2%",
+        "Yapese": "5.2%",
+        "Outer_Yapese": "4.5%",
+        "Asian": "1.8%",
+        "Polynesian": "1.5%",
+        "other": "6.4%",
+        "unknown": "1.4%"
+      },
+      "religion": {
+        "Christianity": {
+          "total": "95.3%",
+          "Roman_Catholic": "52.6%",
+          "Protestant": "41.7%",
+          "other_Christian": "1.0%"
+        },
+        "folk_religions": "4.1%",
+        "none_other": "0.6%"
+      },
+      "population_estimate_2019": "104,468",
+      "population_density": "158.1/km2"
+    },
+    "government": {
+      "type": "Federal assembly-independent republic under a non-partisan democracy",
+      "president": "Wesley Simina",
+      "vice_president": "Aren Palik",
+      "legislature": "Congress",
+      "independence_from_USA": {
+        "republic_proclaimed": "May 10, 1979",
+        "compact_of_free_association": "November 3, 1986"
+      }
+    },
+    "geography": {
+      "total_area": "702 km2",
+      "water_percentage": "negligible",
+      "number_of_islands": "approximately 607",
+      "main_islands": ["Yap", "Chuuk", "Pohnpei", "Kosrae"],
+      "location": {
+        "longitude_range": "approximately 2,700 km",
+        "position": ["north of the equator", "northeast of Indonesia and Papua New Guinea", "south of Guam and the Marianas", "west of Nauru and the Marshall Islands", "east of Palau and the Philippines"],
+        "proximity_to_other_countries": ["2,900 km north of eastern Australia", "3,400 km southeast of Japan", "4,000 km southwest of the Hawaiian Islands"]
+      },
+      "exclusive_economic_zone": "nearly 3 million km2"
+    },
+    "economy": {
+      "GDP_PPP_2019_estimate": {
+        "total": "$367 million",
+        "per_capita": "$3,584"
+      },
+      "GDP_nominal_2019_estimate": {
+        "total": "$383 million",
+        "per_capita": "$3,735"
+      },
+      "Gini_index_2013": "40.1 (medium)",
+      "HDI_2021": "0.628 (medium, 134th)",
+      "currency": "United States dollar (USD)"
+    },
+    "society": {
+      "education": {},
+      "healthcare": {},
+      "media": {},
+      "cultural_practices": {}
+    },
+    "transportation": {
+      "infrastructure": {},
+      "public_transport": {},
+      "airports": {},
+      "ports_and_harbors": {}
+    },
+    "sports": {},
+    "culture": {
+      "traditional_cultural_practices": {},
+      "arts_and_music": {},
+      "cuisine": {},
+      "festivals": {}
+    },
+    "history": {
+      "pre_colonial_period": {},
+      "colonial_history": {},
+      "post_independence": {}
+    }
+  }
+}
