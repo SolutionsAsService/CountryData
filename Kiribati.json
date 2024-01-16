@@ -1,0 +1,112 @@
+{
+  "Kiribati": {
+    "official_name": "Republic of Kiribati",
+    "local_name": "Kiribati (Gilbertese)",
+    "description": "An island country in the Micronesia subregion of Oceania in the central Pacific Ocean.",
+    "population": {
+      "2020_census": "over 119,000",
+      "2021_estimate": "121,388",
+      "major_population_center": "South Tarawa on Tarawa atoll"
+    },
+    "geographical_details": {
+      "total_land_area": "811 km2",
+      "total_ocean_area": "3,441,810 km2",
+      "location": "Straddles the equator and the 180th meridian",
+      "time_zone_extremes": "UTC+12, +13, +14"
+    },
+    "flag": "URL_to_flag_image",
+    "coat_of_arms": "URL_to_coat_of_arms_image",
+    "motto": "Te Mauri, te Raoi ao te Tabomoa (Health, Peace and Prosperity)",
+    "anthem": {
+      "title": "Kunan Kiribati",
+      "translation": "Song of Kiribati",
+      "duration": "45 seconds"
+    },
+    "capital": {
+      "name": "South Tarawa",
+      "coordinates": "1°28′N 173°2′E"
+    },
+    "official_languages": ["English", "Gilbertese"],
+    "ethnic_groups": {
+      "2020_census": {
+        "Gilbertese": "95.7%",
+        "Other": "4.3%"
+      }
+    },
+    "religion": {
+      "2020_census": {
+        "Christianity": "96.2%",
+        "Roman_Catholic": "58.9%",
+        "Uniting_Church": "21.2%",
+        "Other_Christian": "16.1%",
+        "Baháʼí_Faith": "2.1%",
+        "Other_none": "1.7%"
+      }
+    },
+    "government": {
+      "type": "Unitary parliamentary republic with an executive presidency",
+      "current_leaders": {
+        "President": "Taneti Maamau",
+        "Vice-President": "Teuea Toatu"
+      },
+      "legislature": "House of Assembly",
+      "independence": {
+        "from_UK_and_US": "12 July 1979",
+        "Treaty_of_Tarawa": "20 September 1979"
+      }
+    },
+    "economy": {
+      "GDP_PPP": {
+        "2023_estimate": {
+          "total": "$297 million",
+          "per_capita": "$2,381"
+        }
+      },
+      "GDP_nominal": {
+        "2023_estimate": {
+          "total": "$248 million",
+          "per_capita": "$1,989"
+        }
+      },
+      "HDI": "0.624 (2021, medium · 136th)"
+    },
+    "currency": "Australian dollar (AUD)",
+    "driving_side": "left",
+    "calling_code": "+686",
+    "ISO_3166_code": "KI",
+    "internet_TLD": ".ki",
+    "historical_overview": {
+      "initial_inhabitation": "Over 2,500 years ago",
+      "phosphate_export": "Prior to independence",
+      "independence": "1979 from the UK and US"
+    },
+    "economic_activities": {
+      "current_main_activities": ["Fisheries", "Export of copra"],
+      "aid_dependency": "Highly dependent on international aid"
+    },
+    "international_affiliations": [
+      "Pacific Community",
+      "Commonwealth of Nations",
+      "International Monetary Fund",
+      "World Bank",
+      "Organisation of African, Caribbean and Pacific States",
+      "United Nations (since 1999)"
+    ],
+    "environmental_challenges": {
+      "vulnerabilities": ["Climate change", "Tsunamis"],
+      "policy
+_focus": "Addressing climate change as part of the Alliance of Small Island States"
+},
+"communications_and_media": {
+// This section can include details about Kiribati's communication infrastructure, media landscape, internet access, etc.
+},
+"culture": {
+// This section can detail Kiribati's cultural aspects, traditions, festivals, arts, and crafts.
+},
+"pronunciation_and_etymology": {
+"pronunciation": "KIRR-ih-BASS",
+"meaning": {
+etymology of the name 'Kiribati'.
+}
+}
+}
