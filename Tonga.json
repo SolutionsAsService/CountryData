@@ -1,0 +1,106 @@
+{
+  "Tonga": {
+    "official_name": "Kingdom of Tonga",
+    "local_name": "Puleʻanga Fakatuʻi ʻo Tonga",
+    "description": "An island country in Polynesia, part of Oceania.",
+    "island_details": {
+      "total_islands": 171,
+      "inhabited_islands": 45,
+      "total_surface_area": "750 km2",
+      "area_covered": "700,000 km2 in the southern Pacific Ocean"
+    },
+    "population": {
+      "2021_estimate": "104,494",
+      "majority_resides": "Tongatapu island",
+      "2021_census": "100,209"
+    },
+    "location": {
+      "coordinates": "21°08′S 175°12′W",
+      "proximity": [
+        {"Fiji and Wallis and Futuna (France)": "Northwest"},
+        {"Samoa": "Northeast"},
+        {"New Caledonia (France) and Vanuatu": "West"},
+        {"Niue": "East"},
+        {"Kermadec (New Zealand)": "Southwest"}
+      ],
+      "distance_from_New_Zealand": "1,800 km"
+    },
+    "flag": "URL_to_flag_image",
+    "coat_of_arms": "URL_to_coat_of_arms_image",
+    "motto": "Ko e ʻOtua mo Tonga ko hoku tofiʻa (God and Tonga are my inheritance)",
+    "anthem": {
+      "title": "Ko e fasi ʻo e tuʻi ʻo e ʻOtu Tonga",
+      "translation": "Song of the King of the Tongan Islands",
+      "duration": "1 minute and 5 seconds"
+    },
+    "capital_and_largest_city": "Nukuʻalofa",
+    "official_languages": ["Tongan", "English"],
+    "ethnic_groups": {
+      "2018_statistics": {
+        "Tongan": "97%",
+        "Euronesians": "0.7%",
+        "Others": "2.3%"
+      }
+    },
+    "religion": {
+      "2016_statistics": {
+        "Christianity": "96.9%",
+        "Methodism": "53.7%",
+        "Mormonism": "18.6%",
+        "Catholicism": "14.2%",
+        "Other_Christian": "10.4%",
+        "Baha'i_faith": "2.2%",
+        "No_religion": "0.5%",
+        "Other_religions": "0.3%"
+      }
+    },
+    "government": {
+      "type": "Unitary parliamentary semi-constitutional monarchy",
+      "monarch": "Tupou VI",
+      "prime_minister": "Siaosi Sovaleni",
+      "assembly_speaker": "Fatafehi Fakafanua",
+      "legislature": "Legislative Assembly",
+      "independence_from_UK": "4 June 1970"
+    },
+    "geographical_data": {
+      "total_area": "748 km2",
+      "water_percentage": "4.0",
+      "population_density": "139/km2"
+    },
+    "economy": {
+      "GDP_PPP": {
+        "2019_estimate": {
+          "total": "$655 million",
+          "per_capita": "$6,496"
+        }
+      },
+      "GDP_nominal": {
+        "2019_estimate": {
+          "total": "$493 million",
+          "per_capita": "$4,888"
+        }
+      },
+      "Gini_index": "37.6 (2015)",
+      "HDI": "0.745 (2021, high)"
+    },
+    "currency": "Paʻanga (TOP)",
+    "time_zone": "UTC+13",
+    "driving_side": "left",
+    "calling_code": "+676",
+    "ISO_3166_code": "TO",
+    "internet_TLD": ".to",
+    "historical_overview": {
+      "initial_inhabitation": "2,500 years ago by the Lapita civilization",
+      "tongan_expansion": "Tuʻi Tonga Empire period",
+      "European_discovery": "1616",
+      "British_protected_state": "1900-1970",
+      "semi_constitutional_monarchy_since": "2010"
+    },
+    "cultural_identity": {
+      "ethnic_identity": "Tongan people",
+      "language": "Tongan",
+      "notable_periods": ["Tuʻi Tonga Empire", "Post-Samoan revolution"]
+    },
+    "international_affiliations": ["Commonwealth member"]
+  }
+}
