@@ -1,0 +1,188 @@
+{
+  "Solomon_Islands": {
+    "name": "Solomon Islands",
+    "local_name": "Solomon Aelan",
+    "flag": "Flag of Solomon Islands",
+    "coat_of_arms": "Coat of arms of Solomon Islands",
+    "motto": "To Lead is to Serve",
+    "anthem": "God Save Our Solomon Islands",
+    "capital": "Honiara",
+    "coordinates": "9°25′55″S 159°57′20″E",
+    "official_languages": ["English", "Pijin"],
+    "ethnic_groups": {
+      "Melanesian": "95.3%",
+      "Polynesian": "3.1%",
+      "Micronesian": "1.2%",
+      "Others": "0.4%"
+    },
+    "religion": {
+      "Christianity": "97.4%",
+      "Protestantism": "76.6%",
+      "Catholicism": "19.0%",
+      "Other_Christian": "1.8%",
+      "Folk_religions": "1.2%",
+      "Others_or_none": "1.4%"
+    },
+    "demonym": "Solomon Islander",
+    "government_type": "Unitary parliamentary constitutional monarchy",
+    "monarch": "Charles III",
+    "governor_general": "Sir David Vunagi",
+    "prime_minister": "Manasseh Sogavare",
+    "legislature": "National Parliament",
+    "independence": "7 July 1978",
+    "area": {
+      "total_km2": 30407,
+      "land_km2": 27986,
+      "water_percent": 3.2
+    },
+    "population": {
+      "estimate_2023": 734887,
+      "census_2019": 720956,
+      "density_per_km2": 24.2
+    },
+    "gdp": {
+      "ppp_total_2019": "$1.479 billion",
+      "ppp_per_capita_2019": "$2,307",
+      "nominal_total_2019": "$1.511 billion",
+      "nominal_per_capita_2019": "$2,357"
+    },
+    "gini": {
+      "year": 2013,
+      "index": 37.1
+    },
+    "hdi": {
+      "year": 2021,
+      "index": 0.564,
+      "rank": 155
+    },
+    "currency": "Solomon Islands dollar (SBD)",
+    "time_zone": "UTC+11",
+    "driving_side": "left",
+    "calling_code": "+677",
+    "iso_3166_code": "SB",
+    "internet_tld": ".sb",
+    "geography": {
+      "total_area_sq_km": 28496,
+      "landmass_area_sq_km": 10938,
+      "major_islands": ["Choiseul", "New Georgia", "Santa Isabel", "Guadalcanal", "Malaita", "Makira"],
+      "terrain": "Mostly rugged mountains with some low coral atolls",
+      "highest_poin
+{
+  "Solomon_Islands": {
+    "name": "Solomon Islands",
+    "local_name": "Solomon Aelan",
+    "flag": "Flag of Solomon Islands",
+    "coat_of_arms": "Coat of arms of Solomon Islands",
+    "motto": "To Lead is to Serve",
+    "anthem": "God Save Our Solomon Islands",
+    "capital": "Honiara",
+    "coordinates": "9°25′55″S 159°57′20″E",
+    "official_languages": ["English", "Pijin"],
+    "ethnic_groups": {
+      "Melanesian": "95.3%",
+      "Polynesian": "3.1%",
+      "Micronesian": "1.2%",
+      "Others": "0.4%"
+    },
+    "religion": {
+      "Christianity": "97.4%",
+      "Protestantism": "76.6%",
+      "Catholicism": "19.0%",
+      "Other_Christian": "1.8%",
+      "Folk_religions": "1.2%",
+      "Others_or_none": "1.4%"
+    },
+    "demonym": "Solomon Islander",
+    "government_type": "Unitary parliamentary constitutional monarchy",
+    "monarch": "Charles III",
+    "governor_general": "Sir David Vunagi",
+    "prime_minister": "Manasseh Sogavare",
+    "legislature": "National Parliament",
+    "independence": "7 July 1978",
+    "area": {
+      "total_km2": 30407,
+      "land_km2": 27986,
+      "water_percent": 3.2
+    },
+    "population": {
+      "estimate_2023": 734887,
+      "census_2019": 720956,
+      "density_per_km2": 24.2
+    },
+    "gdp": {
+      "ppp_total_2019": "$1.479 billion",
+      "ppp_per_capita_2019": "$2,307",
+      "nominal_total_2019": "$1.511 billion",
+      "nominal_per_capita_2019": "$2,357"
+    },
+    "gini": {
+      "year": 2013,
+      "index": 37.1
+    },
+    "hdi": {
+      "year": 2021,
+      "index": 0.564,
+      "rank": 155
+    },
+    "currency": "Solomon Islands dollar (SBD)",
+    "time_zone": "UTC+11",
+    "driving_side": "left",
+    "calling_code": "+677",
+    "iso_3166_code": "SB",
+    "internet_tld": ".sb",
+    "geography": {
+      "total_area_sq_km": 28496,
+      "landmass_area_sq_km": 10938,
+      "major_islands": ["Choiseul", "New Georgia", "Santa Isabel", "Guadalcanal", "Malaita", "Makira"],
+      "terrain": "Mostly rugged mountains with some low coral atolls",
+      "highest_point": "Mount Popomanaseu",
+      "highest_point_altitude_m": 2332,
+      "climate": "Tropical monsoon",
+      "average_temperature_range_deg_c": {
+        "mean_daily_max": 27.4,
+        "mean_daily_min": 23.6
+      },
+      "average_annual_precipitation_mm": 3669
+    },
+    "economy": {
+      "main_industries": ["Fishing", "Forestry"],
+      "agricultural_land_percent": 3.9,
+      "forest_area_percent": 78.9,
+      "natural_resources": ["Fish", "Forests"],
+      "education_expenditure_percent_of_gdp": 12.8,
+      "revenue_from_forest_resources_percent_of_gdp": 20.27
+    },
+    "demographics": {
+      "urban_population_percent": 26,
+      "adult_obesity_rate_percent": 22.5,
+      "tobacco_use_percent": 36.5,
+      "children_under_5_underweight_percent": 16.2,
+      "currently_married_women_percent": 64.1
+    },
+    
+
+    "environment": {
+      "current_issues": ["Deforestation", "Soil erosion", "Coral reef damage"],
+      "carbon_dioxide_emissions_megatons": 0.17,
+      "methane_emissions_megatons": 0.43,
+      "particulate_matter_emissions_micrograms_per_cubic_meter": 7.83,
+      "total_renewable_water_resources_billion_cubic_meters": 44.7
+    },
+    "history": {
+      "first_settlement_period": "30,000 - 28,800 BC",
+      "significant_migration": "Lapita people",
+      "first_european_contact": "1568 by Álvaro de Mendaña",
+      "british_protectorate_establishment": "1893",
+      "world_war_ii_significance": ["Solomon Islands campaign", "Battle of Guadalcanal"],
+      "post_war_developments": ["Maasina Ruru movement", "Moro Movement"],
+      "independence_from_United_Kingdom": "1978",
+      "recent_developments": ["Tribal hostilities in 1998", "RAMSI intervention in 2003"]
+    },
+    "culture": {
+      "dominant_religions": ["Church of Melanesia (Anglican) 29%", "Roman Catholic 19%"],
+      "communal_family_structure": "Strong ties with extended family",
+      "language_group_term": "Wantok",
+      "traditional_practices": ["Pottery", "Weaving", "Wood carving"]
+    }
+  }
+}
