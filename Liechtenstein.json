@@ -1,6 +1,7 @@
 {
     "Liechtenstein": {
         "Official Names": {
+            "English": "Principality of Liechtenstein",
             "German": "Fürstentum Liechtenstein"
         },
         "Symbols": {
@@ -19,6 +20,8 @@
                 "Switzerland": "West and South",
                 "Austria": "East and North"
             },
+            "Landlocked": true,
+            "DoubleLandlocked": true,
             "Capital": "Vaduz",
             "Largest Municipality": "Schaan",
             "Coordinates": "47°10′00″N 9°30′35″E"
