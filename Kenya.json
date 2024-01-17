@@ -1,0 +1,73 @@
+{
+  "Country": "Republic of Kenya",
+  "Official_Languages": {
+    "Primary": "Swahili",
+    "Secondary": "English"
+  },
+  "Geography": {
+    "Location": "East Africa",
+    "Borders": {
+      "Northwest": "South Sudan",
+      "North": "Ethiopia",
+      "East": "Somalia",
+      "West": "Uganda",
+      "South": "Tanzania",
+      "Southeast": "Indian Ocean"
+    },
+    "Capital": "Nairobi",
+    "Major_Cities": ["Mombasa", "Kisumu", "Nakuru"],
+    "Area": "580,367 km2",
+    "Climate": "Varies from cold mountain tops to temperate and arid areas"
+  },
+  "History": {
+    "Early_Inhabitants": "Hunter-gatherers, Cushitic speakers, Nilotic pastoralists",
+    "European_Contact": "Began in 1500 AD with the Portuguese Empire",
+    "Colonial_Era": "British protectorate established in 1895",
+    "Independence": "From the United Kingdom in 1963"
+  },
+  "Government": {
+    "Type": "Unitary presidential republic",
+    "President": "William Ruto",
+    "Legislature": {
+      "Upper_House": "Senate",
+      "Lower_House": "National Assembly"
+    },
+    "Judicial_Branch": {
+      "Superior_Courts": ["Supreme Court", "High Court", "Court of Appeal"],
+      "Subordinate_Courts": ["Magistrates' Courts", "Kadhi Courts", "Courts-Martial"],
+      "Chief_Justice": "Martha Koome"
+    },
+    "Administrative_Divisions": "47 counties"
+  },
+  "Economy": {
+    "GDP_PPP": "$338.964 billion (2023 estimate)",
+    "Per_Capita_Income_PPP": "$6,576 (2023 estimate)",
+    "Major_Sectors": ["Agriculture", "Services", "Tourism"],
+    "Currency": "Kenyan shilling (KES)"
+  },
+  "Demographics": {
+    "Population_Estimate": "51,526,000 (2023)",
+    "Ethnic_Groups": ["Kikuyu", "Luhya", "Kalenjin", "Luo", "Kamba", "Somali", "Kisii", "Mijikenda", "Meru", "Maasai"],
+    "Religions": {
+      "Christianity": "85.5%",
+      "Islam": "11%",
+      "Others": "3.5%"
+    }
+  },
+  "Culture": {
+    "Music": "Diverse, influenced by multiple ethnic groups",
+    "Art": "Rich in traditional and modern forms",
+    "Cuisine": "Includes local and international dishes"
+  },
+  "Infrastructure": {
+    "Transportation": {
+      "Railways": "Extensive network",
+      "Highways": "Well-developed",
+      "Airports": "Multiple, including international airports"
+    },
+    "Communications": {
+      "Internet_Users": "Growing rapidly",
+      "Telecommunication": "Well-developed sector"
+    }
+  }
+}
