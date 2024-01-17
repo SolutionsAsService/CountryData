@@ -1,0 +1,79 @@
+{
+  "Country": "Republic of Uganda",
+  "Official_Languages": {
+    "Primary": "English",
+    "Secondary": "Swahili"
+  },
+  "Geography": {
+    "Location": "East Africa",
+    "Borders": {
+      "East": "Kenya",
+      "North": "South Sudan",
+      "West": "Democratic Republic of the Congo",
+      "South-West": "Rwanda",
+      "South": "Tanzania"
+    },
+    "Capital": "Kampala",
+    "Area": "241,038 km2",
+    "Major_Lakes": ["Victoria", "Albert", "Kyoga"],
+    "Climate": "Varied, generally equatorial"
+  },
+  "History": {
+    "Early_History": "Inhabited by Bantu-speaking peoples around 500 B.C.",
+    "Colonial_Era": {
+      "Exploration": "Explored by Europeans and Arabs in 1844",
+      "British_Protectorate": "1894",
+      "Independence": "9 October 1962"
+    },
+    "Post_Independence": {
+      "Amin_Era": "1971-1979, marked by human rights violations",
+      "Obote_Era": "Two terms, noted for political turmoil",
+      "Museveni_Era": "From 1986, noted for economic recovery and political stability"
+    }
+  },
+  "Government": {
+    "Type": "Unitary dominant-party presidential republic",
+    "President": "Yoweri Museveni",
+    "Vice_President": "Jessica Alupo",
+    "Prime_Minister": "Robinah Nabbanja"
+  },
+  "Economy": {
+    "GDP_PPP": "$145.157 billion (2023 estimate)",
+    "Per_Capita_Income_PPP": "$3,222 (2023 estimate)",
+    "Major_Sectors": ["Agriculture", "Forestry", "Fishing", "Services"],
+    "Currency": "Ugandan shilling (UGX)"
+  },
+  "Demographics": {
+    "Population_Estimate": "47,729,952 (2023)",
+    "Ethnic_Groups": ["Baganda", "Banyankole", "Basoga", "Bakiga", "Iteso", "Langi", "Acholi", "Bagisu"],
+    "Religions": {
+      "Christianity": "82%",
+      "Islam": "14%",
+      "Others": "4%"
+    }
+  },
+  "Culture": {
+    "Music": "Diverse, including traditional and modern styles",
+    "Art": "Rich in handicrafts like weaving, pottery, and wood carving",
+    "Cuisine": "Varied, with staples like matoke (plantain bananas), posho (cornmeal), and luwombo (stew)"
+  },
+  "Infrastructure": {
+    "Transportation": {
+      "Railways": "1,244 km",
+      "Roadways": "20,000 km",
+      "Airports": "47"
+    },
+    "Communications": {
+      "Internet_Users": "3.2 million (2009)",
+      "Telephones": {
+        "Main_Lines": "315,000 (2012)",
+        "Mobile_Cellular": "16.355 million (2012)"
+      }
+    }
+  },
+  "Science_and_Technology": {
+    "Innovation_Hubs": ["Hive Colab", "CURAD"],
+    "Research_Development": "0.48% of GDP (2010)",
+    "Key_Projects": ["Kiira EV car", "Makapads"]
+  }
+}
