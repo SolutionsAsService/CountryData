@@ -1,0 +1,101 @@
+{
+    "Monaco": {
+        "Official Names": {
+            "Local": "Principauté de Monaco",
+            "Monégasque": "Prinçipatu de Mùnegu"
+        },
+        "Symbols": {
+            "Flag": "Flag of Monaco",
+            "Coat of Arms": "Coat of arms of Monaco",
+            "Motto": "Deo Juvante (With God's Help)",
+            "Anthem": {
+                "Title": "Hymne Monégasque",
+                "English Translation": "Hymn of Monaco",
+                "Duration": "1 minute and 18 seconds"
+            }
+        },
+        "Location": {
+            "Continent": "Europe",
+            "Borders": {
+                "France": "North, East, and West",
+                "Mediterranean Sea": "South"
+            },
+            "Capital": "Monaco (city-state)",
+            "Largest Quarter": "Monte Carlo",
+            "Coordinates": "43°43′52″N 07°25′12″E"
+        },
+        "Demographics": {
+            "Population": {
+                "2022 Estimate": "39,050",
+                "Density": "18,774 per km2"
+            },
+            "Ethnic Groups": ["Monégasques", "French", "Italians", "Occitans"],
+            "Religion": {
+                "Christianity": "86.0%",
+                "Catholicism": "80.9%",
+                "Other Christian": "5.1%",
+                "No Religion": "11.7%",
+                "Judaism": "1.7%",
+                "Others": "0.6%"
+            },
+            "Languages": {
+                "Official": "French",
+                "Common": ["Italian", "Ligurian"]
+            }
+        },
+        "Government": {
+            "Type": "Unitary parliamentary semi-constitutional monarchy",
+            "Monarch": "Albert II",
+            "Minister of State": "Pierre Dartout",
+            "Legislature": "National Council"
+        },
+        "Independence and Sovereignty": {
+            "House of Grimaldi": "Since 8 January 1297",
+            "Independence from French Empire": "17 May 1814",
+            "Franco-Monégasque Treaty": "2 February 1861",
+            "Constitution": "5 January 1911"
+        },
+        "Geography and Climate": {
+            "Total Area": "2.08 square kilometers",
+            "Climate": "Mediterranean",
+            "Land Reclamation": "Expanded by 20% since 1861"
+        },
+        "Economy": {
+            "GDP (PPP) 2015 Estimate": {
+                "Total": "$7.672 billion",
+                "Per Capita": "$115,700"
+            },
+            "GDP (Nominal) 2019 Estimate": {
+                "Total": "$7.424 billion",
+                "Per Capita": "$190,513"
+            },
+            "Economic Characteristics": "Banking, Tourism, Real Estate",
+            "Tax Haven Status": "No personal income tax",
+            "Wealth": "Over 30% residents are millionaires"
+        },
+        "Population Characteristics": {
+            "Densely Populated": "Most densely-populated sovereign state",
+            "Land Border": "5.47 km",
+            "Shortest Coastline": "Approximately 3.83 km"
+        },
+        "Sports and Culture": {
+            "Formula One": "Monaco Grand Prix",
+            "Football": "AS Monaco in French Ligue 1",
+            "Basketball": "EuroLeague participation",
+            "Marine Conservation": "Oceanographic Museum",
+            "Cultural Events": ["Monte Carlo Rally", "International Circus Festival"]
+        },
+        "Education": "Information not provided",
+        "Flag Description": "Red and white horizontal bands",
+        "Transport": {
+            "Public Transport": "Information not provided",
+            "Traffic": "Right-hand driving"
+        },
+        "International Relations": {
+            "United Nations Member": "Since 1993",
+            "Council of Europe": "Member",
+            "European Union Relations": "Uses Euro, part of Schengen Area",
+            "Francophonie": "Member"
+        }
+    }
+}
