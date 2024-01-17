@@ -1,0 +1,102 @@
+{
+    "Liechtenstein": {
+        "Official Names": {
+            "German": "Fürstentum Liechtenstein"
+        },
+        "Symbols": {
+            "Flag": "Flag of Liechtenstein",
+            "Coat of Arms": "Coat of arms of Liechtenstein",
+            "Motto": "Für Gott, Fürst und Vaterland (For God, Prince and Fatherland)",
+            "Anthem": {
+                "Title": "Oben am jungen Rhein",
+                "English Translation": "High on the Young Rhine",
+                "Duration": "1 minute and 25 seconds"
+            }
+        },
+        "Location": {
+            "Continent": "Europe",
+            "Borders": {
+                "Switzerland": "West and South",
+                "Austria": "East and North"
+            },
+            "Capital": "Vaduz",
+            "Largest Municipality": "Schaan",
+            "Coordinates": "47°10′00″N 9°30′35″E"
+        },
+        "Demographics": {
+            "Population": {
+                "2023 Estimate": "39,584",
+                "Density": "237 per km2"
+            },
+            "Ethnic Groups (2017)": {
+                "Liechtensteiners": "66.2%",
+                "Swiss": "9.5%",
+                "Austrians": "5.8%",
+                "Germans": "4.2%",
+                "Italians":"3.1%",
+                 "Portuguese": "1.9%",
+                 "Turks": "1.6%",
+                 "Kosovar Albanians": "1.1%",
+                 "Spaniards": "1.0%",
+                  "Others": "5.6%"
+           },
+"Religion (2015)": {
+"Christianity": "83.2%",
+"Catholicism": "73.4%",
+"Other Christian": "9.8%",
+"No Religion": "7.0%",
+"Islam": "5.9%",
+"Others": "3.9%"
+}
+},
+"Government": {
+"Type": "Unitary parliamentary semi-constitutional monarchy with elements of a direct democracy",
+"Monarch": "Hans-Adam II",
+"Regent": "Alois",
+"Prime Minister": "Daniel Risch",
+"Legislature": "Landtag",
+"Independence as Principality": {
+"Union between Vaduz and Schellenberg": "23 January 1719",
+"Treaty of Pressburg": "12 July 1806",
+"Separation from German Confederation": "23 August 1866"
+}
+},
+"Geography": {
+"Total Area": "160 square kilometers",
+"Water Percentage": "2.7%"
+},
+"Economy": {
+"GDP (PPP) 2013 Estimate": {
+"Total": "$5.3 billion",
+"Per Capita": "$98,432"
+},
+"GDP (Nominal) 2020 Estimate": {
+"Total": "$6.872 billion",
+"Per Capita": "$180,000"
+},
+"HDI (2021)": "0.935"
+},
+"Currency": "Swiss franc (CHF)",
+"Time Zone": "UTC+01:00 (CET)",
+"Driving Side": "right",
+"Calling Code": "+423",
+"ISO 3166 Code": "LI",
+"Internet TLD": ".li",
+"Education": "Information not provided",
+"Transport": "Information not provided",
+"Culture": {
+"Winter Sport Destination": "Due to its mountainous terrain",
+"Former Billionaire Tax Haven": "No longer on any official blacklists of uncooperative tax haven countries"
+},
+"Media": "Information not provided",
+"Sports": "Information not provided",
+"Security and Defense": {
+"Military Status": "Liechtenstein does not have a military",
+"International Affiliations": ["United Nations", "European Free Trade Association", "Council of Europe"],
+"EU Relations": {
+"Non-EU Member": "Participates in the Schengen Area and the European Economic Area",
+"Customs Union": "With Switzerland"
+}
+}
+}
+}
