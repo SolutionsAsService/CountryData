@@ -1,0 +1,71 @@
+{
+  "Country": "Republic of Chad",
+  "Names": {
+    "Arabic": "جمهورية تشاد",
+    "French": "République du Tchad"
+  },
+  "Symbols": {
+    "Flag": "Flag of Chad",
+    "CoatOfArms": "Coat of arms of Chad",
+    "Motto": {
+      "French": "Unité, Travail, Progrès",
+      "Arabic": "الاتحاد، العمل، التقدم",
+      "English": "Unity, Work, Progress"
+    },
+    "Anthem": {
+      "Title": "La Tchadienne (The Song of Chad)",
+      "Duration": "1 minute and 2 seconds"
+    }
+  },
+  "Geography": {
+    "Location": "North-Central Africa",
+    "Area": "1,284,000 km2",
+    "Terrain": "Shallow basin, rimmed by mountains including Tibesti Massif, Djourab Depression",
+    "Climate": "Varies from desert in the north to tropical in the south",
+    "MajorRivers": ["Chari", "Logone"]
+  },
+  "Demographics": {
+    "Population2023Estimate": 18523000,
+    "Capital": "N'Djamena",
+    "EthnicGroups": {
+      "Sara": "26.6%",
+      "Arab": "12.9%",
+      "Others": "60.5%"
+    },
+    "Religions": {
+      "Islam": "52.1%",
+      "Protestant": "23.9%",
+      "RomanCatholic": "20%",
+      "Other": "4%"
+    },
+    "Languages": {
+      "Official": ["Arabic", "French"],
+      "Other": ["Sara", "Fula", "Arabic dialects"]
+    }
+  },
+  "Government": {
+    "Type": "Presidential Republic",
+    "President": "Mahamat Idriss Déby",
+    "PrimeMinister": "Succès Masra",
+    "Legislature": "National Transitional Council"
+  },
+  "Economy": {
+    "GDP_PPP_2021": "$24.49 billion",
+    "GDP_PerCapita_2021": "$1,400",
+    "MajorIndustries": ["Oil", "Cotton textiles", "Brewing", "Agriculture"],
+    "Currency": "Central African CFA franc (XAF)"
+  },
+  "AdditionalInformation": {
+    "TimeZone": "UTC+1 (WAT)",
+    "DrivingSide": "right",
+    "CallingCode": "+235",
+    "ISOCode": "TD",
+    "InternetTLD": ".td",
+    "Challenges": {
+      "Economic": "High poverty, dependence on oil, environmental issues",
+      "Social": "High maternal and infant mortality rates, low literacy and education levels",
+      "Political": "Authoritarian governance, political instability"
+    },
+    "Membership": ["African Union", "United Nations"]
+  }
+}
