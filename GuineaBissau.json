@@ -1,0 +1,111 @@
+{
+    "Guinea-Bissau": {
+        "Official Names": {
+            "Portuguese": "República da Guiné-Bissau",
+            "Fula": "𞤘𞤭𞤲𞤫 𞤄𞤭𞤧𞤢𞥄𞤱𞤮",
+            "Mandinka": "ߖߌߣߍ ߺ ߓߌߛߊߥߏ߫"
+        },
+        "Symbols": {
+            "Flag": "Flag of Guinea-Bissau",
+            "Emblem": "Emblem of Guinea-Bissau",
+            "Motto": "Unidade, Luta, Progresso (Unity, Struggle, Progress)",
+            "Anthem": {
+                "Title": "Esta É a Nossa Pátria Bem Amada",
+                "Translation": "This is Our Beloved Homeland",
+                "Duration": "1 minute and 1 second"
+            }
+        },
+        "Location": {
+            "Continent": "West Africa",
+            "Borders": {
+                "North": "Senegal",
+                "Southeast": "Guinea"
+            },
+            "Capital and Largest City": "Bissau",
+            "Coordinates": "11°52′N 15°36′W"
+        },
+        "Demographics": {
+            "Population": {
+                "2023 Estimate": "2,078,820",
+                "Density": "46.9 per km2"
+            },
+            "Ethnic Groups (2019)": {
+                "Balanta": "30%",
+                "Fula": "30%",
+                "Manjak": "14%",
+                "Mandinka": "13%",
+                "Papel": "7%",
+                "Unspecified": "6%"
+            },
+            "Religion (2020)": {
+                "Islam": "46.1%",
+                "Traditional Faiths": "30.6%",
+                "Christianity": "18.9%",
+                "Others / None": "4.4%"
+            },
+            "Languages": {
+                "Official": "Portuguese",
+                "Spoken": ["Guinea-Bissau Creole", "English", "French", "Arabic", "Balanta", "Hassaniya", "Jola-Fonyi", "Mandinka", "Mandjak", "Mankanya", "Noon", "Pulaar", "Serer", "Soninke"]
+            }
+        },
+        "Government": {
+            "Type": "Unitary semi-presidential republic",
+            "President": "Umaro Sissoco Embaló",
+            "Prime Minister": "Rui Duarte de Barros",
+            "Legislature": "National People's Assembly",
+            "Independence": {
+                "Declared": "24 September 1973",
+                "Recognized": "10 September 1974"
+            }
+        },
+        "Geography": {
+            "Total Area": "36,125 square kilometers",
+            "Water Percentage": "22.4%"
+        },
+        "Economy": {
+            "GDP (PPP) 2023 Estimate": {
+                "Total": "$6 billion",
+                "Per Capita": "$3,088"
+            },
+            "GDP (Nominal) 2023 Estimate": {
+                "Total": "$2 billion",
+                "Per Capita": "$1,028"
+            },
+            "Gini Index (2010)": "50.7",
+            "HDI (2021)": "0.483"
+        },
+        "Infrastructure": {
+            "Currency": "West African CFA franc (XOF)",
+            "Time Zone": "UTC (GMT)",
+            "Driving Side": "right",
+            "Calling Code": "+245",
+            "ISO 3166 Code": "GW",
+            "Internet TLD": ".gw"
+        },
+        "Society": {
+            "Languages Spoken": [
+             { "Portuguese Creole as First Language": "54%"}, 
+             {  "Portuguese (as Second Language)": "33%"},
+             {  "Native African Languages": "Various"}
+            ]
+            
+},
+"Per-Capita GDP": "One of the lowest in the world",
+"Religious Diversity": "Islam, Christianity, and traditional faiths without a single majority"
+},
+"Culture": {
+"Historical Background": {
+"Kingdom of Kaabu": "Part of the Mali Empire",
+"Portuguese Empire Rule": "Since the 16th century",
+"Portuguese Guinea": "Colonised in the 19th century",
+"Independence": {
+"Declared": "1973",
+"Recognised": "1974",
+"Capital Name Added": "To avoid confusion with Guinea"
+}
+},
+"Linguistic Unity": "Guinea-Bissau Creole as the national language and language of unity"
+},
+"International Affiliations": ["United Nations", "African Union", "Economic Community of West African States", "Organisation of Islamic Cooperation", "Community of Portuguese Language Countries", "Organisation internationale de la Francophonie", "South Atlantic Peace and Cooperation Zone", "Latin Union (defunct)"]
+}
+}
