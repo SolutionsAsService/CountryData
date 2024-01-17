@@ -1,0 +1,96 @@
+{
+  "Country": "Republic of Djibouti",
+  "OfficialNames": {
+    "Arabic": "جمهورية جيبوتي",
+    "French": "République de Djibouti",
+    "Somali": "Jamhuuriyadda Jabuuti",
+    "Afar": "Gabuutih Ummuuno"
+  },
+  "Symbols": {
+    "Flag": "Flag of Djibouti",
+    "Emblem": "Emblem of Djibouti",
+    "Motto": {
+      "Somali": "Midnimo, Sinnaan, Nabad",
+      "Afar": "Inkittiino, Qeedala, Wagari",
+      "French": "Unité, Égalité, Paix",
+      "Arabic": "اتحاد، مساواة، سلام",
+      "English": "Unity, Equality, Peace"
+    },
+    "Anthem": {
+      "Name": "Djibouti",
+      "Duration": "48 seconds"
+    }
+  },
+  "Geography": {
+    "Location": "Horn of Africa",
+    "Borders": {
+      "Somalia": "south",
+      "Ethiopia": "southwest",
+      "Eritrea": "north",
+      "Red Sea": "east",
+      "Gulf of Aden": "east"
+    },
+    "Area": "23,200 km2",
+    "Climate": "Sub-tropical desert",
+    "Terrain": {
+      "CoastalPlain": "Along Red Sea and Gulf of Aden",
+      "CentralMountainRange": "Separates interior plateau from coastal plain",
+      "ElevationRange": "From Lac Assal to Moussa Ali"
+    },
+    "NaturalResources": {
+      "Minerals": ["Gold", "Granite", "Limestone", "Marble"],
+      "Energy": ["Petroleum exploration potential", "Geothermal energy potential"]
+    }
+  },
+  "Demographics": {
+    "Population2023Estimate": 976143,
+    "Capital": "Djibouti",
+    "EthnicGroups": {
+      "Somalis": "60%",
+      "Afar": "35%",
+      "Arabs": "5%"
+    },
+    "Languages": {
+      "Official": ["Arabic", "French"],
+      "National": ["Somali", "Afar"]
+    },
+    "Religion": {
+      "Islam": "94%",
+      "Christianity": "6%"
+    }
+  },
+  "Government": {
+    "Type": "Unitary presidential republic under a dictatorship",
+    "President": "Ismaïl Omar Guelleh",
+    "PrimeMinister": "Abdoulkader Kamil Mohamed",
+    "Legislature": "National Assembly",
+    "Independence": {
+      "FromFrance": "27 June 1977",
+      "UNAdmission": "20 September 1977"
+    },
+    "Constitution": "4 September 1992"
+  },
+  "Economy": {
+    "GDP_PPP_2023": "$7.193 billion",
+    "GDP_PPP_PerCapita_2023": "$6,985",
+    "GDP_Nominal_2023": "$3.873 billion",
+    "GDP_Nominal_PerCapita_2023": "$3,761",
+    "GiniIndex_2017": "41.6",
+    "HDI_2021": "0.509",
+    "Currency": "Djiboutian franc (DJF)"
+  },
+  "AdditionalInformation": {
+    "TimeZone": "UTC+3 (EAT)",
+    "DrivingSide": "right",
+    "CallingCode": "+253",
+    "ISOCode": "DJ",
+    "InternetTLD": ".dj",
+    "StrategicLocation": "Near busy shipping lanes, control of access to Red Sea and Indian Ocean",
+    "PortImportance": "Key refueling and transshipment center, principal maritime port for Ethiopia",
+    "HistoricalSignificance": "Part of Land of Punt in antiquity, seat of Adal and Ifat Sultanates in medieval times",
+    "Challenges": {
+      "Economic": "Dependent on foreign assistance, high unemployment, vulnerable to global price shocks",
+      "Environmental": "Water scarcity, limited arable land, desertification"
+    }
+  }
+}
