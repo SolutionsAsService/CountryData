@@ -9,4 +9,71 @@
   "Geography": {
     "Location": "Horn of Africa, Eastern Africa",
     "Area": "117,600 square kilometres",
-  
+    "Terrain": {
+      "EasternLowlands": "Danakil Depression, coastal desert",
+      "WesternLowlands": "Fertile plains and rolling hills",
+      "Gash-Barka": "Blends highlands and western lowlands"
+    },
+    "Climate": "Hot, dry desert strip along Red Sea coast; cooler and wetter in the central highlands",
+    "Borders": [
+      "Ethiopia",
+      "Sudan",
+      "Djibouti"
+    ]
+  },
+  "Demographics": {
+    "Population2023Estimate": 6275000,
+    "Capital": "Asmara",
+    "EthnicGroups": {
+      "Tigrinya": "50%",
+      "Tigre": "30%",
+      "Others": "20%"
+    },
+    "Languages": {
+      "RecognisedNational": [
+        "Tigrinya",
+        "Beja",
+        "Tigre",
+        "Kunama",
+        "Saho",
+        "Bilen",
+        "Nara",
+        "Afar"
+      ],
+      "Working": ["Tigrinya", "Arabic", "English"]
+    },
+    "Religions": "Christianity and Islam predominant"
+  },
+  "Government": {
+    "Type": "Unitary one-party presidential republic under a totalitarian dictatorship",
+    "President": "Isaias Afwerki",
+    "Legislature": "National Assembly"
+  },
+  "History": {
+    "Ancient": "Part of Aksumite empire, early adoption of Christianity",
+    "Modern": "Italian and British occupation, federation and annexation by Ethiopia, independence in 1993"
+  },
+  "Economy": {
+    "Type": "Command economy",
+    "MajorSectors": ["Agriculture", "Subsistence farming"],
+    "GDP_PPP_2019": "$6.42 billion",
+    "GDP_Nominal_2019": "$1.98 billion",
+    "Currency": "Nakfa (ERN)"
+  },
+  "Society": {
+    "UrbanizationRate": "43.3%",
+    "MajorUrbanAreas": ["Asmara"],
+    "LifeExpectancy": "67.2 years",
+    "LiteracyRate": "76.6%",
+    "HealthExpenditure": "4.1% of GDP"
+  },
+  "EnvironmentalConcerns": ["Deforestation", "Desertification", "Soil erosion", "Overgrazing"],
+  "InternationalRelations": {
+    "Memberships": ["African Union", "United Nations", "Intergovernmental Authority on Development", "Arab League (observer)"]
+  },
+  "Challenges": {
+    "Political": "Lack of elections, human rights concerns",
+    "Economic": "One of the least developed countries",
+    "Social": ["Limited press freedom", "Population distribution issues"]
+  }
+}
