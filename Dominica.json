@@ -1,0 +1,72 @@
+{
+  "Country": "Commonwealth of Dominica",
+  "Pronunciation": "/ˌdɒmɪˈniːkə/ dom-in-EE-kə",
+  "Geography": {
+    "Location": "Caribbean",
+    "Capital": "Roseau",
+    "Coordinates": "15°18′N 61°23′W",
+    "Area": "750 km2",
+    "Highest_Point": "Morne Diablotins, 1,447 m",
+    "Natural_Features": {
+      "Rainforests": true,
+      "Volcanic_Activity": true,
+      "Hot_Spring": "Boiling Lake",
+      "Flora_and_Fauna": "Diverse, including Sisserou parrot"
+    },
+    "Climate": "Tropical; heavy rainfall in interior, dryer at west coast"
+  },
+  "History": {
+    "First_Inhabitants": "Arawak, then Kalinago",
+    "European_Discovery": "Christopher Columbus, 1493",
+    "Colonization": {
+      "French": "1690s-1763",
+      "British": "Post 1763",
+      "Independence": "1978"
+    }
+  },
+  "Government": {
+    "Type": "Unitary parliamentary republic",
+    "President": "Charles Savarin",
+    "Prime_Minister": "Roosevelt Skerrit",
+    "Legislature": "House of Assembly",
+    "Political_Parties": "Multiple",
+    "Legal_System": "Based on English common law"
+  },
+  "Economy": {
+    "GDP_PPP": "$1.015 billion (2013 est.)",
+    "Per_Capita_Income": "$14,300 (2013 est.)",
+    "Industries": ["Tourism", "Soap", "Coconut Oil", "Agriculture"],
+    "Exports": ["Bananas", "Soap", "Vegetables"],
+    "Imports": ["Manufactured goods", "Machinery", "Food"]
+  },
+  "Demographics": {
+    "Population": "73,449 (2014 est.)",
+    "Ethnic_Groups": {
+      "African": "86.8%",
+      "Multiracial": "8.9%",
+      "Kalinago": "2.9%",
+      "European": "0.8%"
+    },
+    "Languages": ["English", "French Patois"],
+    "Religions": {
+      "Christianity": "82%",
+      "Other": "18%"
+    }
+  },
+  "Culture": {
+    "National_Bird": "Sisserou parrot",
+    "Cuisine": "Creole, influenced by African, European, and Carib cuisines",
+    "Music": "Includes Calypso, Reggae, and traditional folk styles"
+  },
+  "Infrastructure": {
+    "Transportation": {
+      "Roadways": "780 km (2002)",
+      "Airports": "2 (2013 est.)",
+      "Ports": ["Roseau", "Portsmouth"]
+    },
+    "Telecommunications": {
+      "Internet_Users": "28,000 (2009)",
+      "Telephone_Lines": "14,600 (2012)"
+    }
+  }
+}
