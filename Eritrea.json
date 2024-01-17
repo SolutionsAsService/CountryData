@@ -1,4 +1,5 @@
 {
+  "Eritrea": {
   "Country": "State of Eritrea",
   "TigrinyaName": "ኤርትራ",
   "Symbols": {
@@ -27,7 +28,13 @@
     "EthnicGroups": {
       "Tigrinya": "50%",
       "Tigre": "30%",
-      "Others": "20%"
+      "Saho": "4%",
+       "Afar": "4%",
+      "Kunama": "4%",
+       "Bilen": "3%",
+       "Beja": "2%" ,
+        "Nara": "2%",
+        "Rashaida": "1%",
     },
     "Languages": {
       "RecognisedNational": [
@@ -76,4 +83,5 @@
     "Economic": "One of the least developed countries",
     "Social": ["Limited press freedom", "Population distribution issues"]
   }
+}
 }
