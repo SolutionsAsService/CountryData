@@ -1,6 +1,7 @@
 {
     "Azerbaijan": {
         "Official Names": {
+            "English": "Republic of Azerbaijan",
             "Local": "Azərbaycan Respublikası",
             "Azerbaijani": "Azərbaycan"
         },
@@ -38,7 +39,7 @@
                 "Russian": "0.7%",
                 "Others": "1.9%"
             },
-            "Religion": "See religion in Azerbaijan",
+            "Religion": "Primarily nominally muslim, no state religon",
             "Languages": {
                 "Official": "Azerbaijani",
                 "Minority Languages": "See full list"
