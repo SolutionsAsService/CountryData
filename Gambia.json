@@ -1,0 +1,112 @@
+
+    "The Gambia": {
+        "Official Names": {
+            "Local": "Republic of The Gambia",
+            "Short": "The Gambia"
+        },
+        "Symbols": {
+            "Flag": "Flag of The Gambia",
+            "Coat of Arms": "Coat of arms of The Gambia",
+            "Motto": "Progress, Peace, and Prosperity",
+            "Anthem": {
+                "Title": "For The Gambia Our Homeland",
+                "Duration": "1 minute and 20 seconds"
+            }
+        },
+        "Location": {
+            "Continent": "Africa",
+            "Borders": {
+                "Surrounded": "By Senegal, except for western coast on the Atlantic Ocean"
+            },
+            "Capital": "Banjul",
+            "Largest Metropolitan Area": "Serekunda",
+            "Coordinates": "13°28′N 16°36′W"
+        },
+        "Demographics": {
+            "Population": {
+                "2023 Estimate": "2,468,569",
+                "Density": "176.1 per km2"
+            },
+            "Ethnic Groups (2013 Census)": {
+                "Mandinka": "34.4%",
+                "Fula": "24.1%",
+                "Wolof": "14.8%",
+                "Jola": "10.5%",
+                "Soninke": "8.2%",
+                "Serer": "3.1%",
+                "Manjago": "1.9%",
+                "Bambara": "1.3%",
+                "Aku": "0.5%",
+                "Other": "1.5%"
+            },
+            "Religion (2023)": {
+                "Islam": "96.4%",
+                "Christianity": "3.5%",
+                "Others": "0.1%"
+            },
+            "Languages": {
+                "Official": "English",
+                "National": ["Mandinka", "Pulaar", "Wolof", "Serer", "Jola", "Balanta", "Hassaniya Arabic", "Jola-Fonyi", "Mandjak", "Mankanya", "Noon", "Dyula", "Soninke", "Fula", "Karon", "Kassonke", "Cangin", "Gambian Sign Language"]
+            }
+        },
+        "Government": {
+            "Type": "Unitary presidential republic",
+            "President": "Adama Barrow",
+            "Vice President": "Muhammad B.S. Jallow",
+            "Speaker of the National Assembly": "Fabakary Jatta",
+            "Chief Justice": "Hassan Bubacar Jallow",
+            "Legislature": "National Assembly",
+            "Independence from the United Kingdom": "18 February 1965",
+            "Dissolution of the Senegambia Confederation": "30 September 1989"
+        },
+        "Geography": {
+            "Total Area": "11,300 square kilometers",
+            "Water Percentage": "11.5%"
+        },
+        "Economy": {
+            "GDP (PPP) 2023 Estimate": {
+                "Total": "$7.502 billion",
+                "Per Capita": "$2,837"
+            },
+            "GDP (Nominal) 2023 Estimate": {
+                "Total": "$2.388 billion
+",
+"Per Capita": "$903"
+},
+"Gini Index (2015)": "35.9",
+"HDI (2021)": "0.500"
+},
+"Currency": "Gambian dalasi (GMD)",
+"Time Zone": "UTC (GMT)",
+"Driving Side": "right",
+"Calling Code": "+220",
+"ISO 3166 Code": "GM",
+"Internet TLD": ".gm",
+"Transportation": {
+"Modes": "Information not provided",
+"Infrastructure": "Information not provided"
+},
+"Demographics": {
+"Population Poverty (2015)": "48.6% living in poverty",
+"Rural Poverty": "Almost 70% in rural areas"
+},
+"Culture": {
+"Historical Trade": "Arab Muslim merchants in 9th and 10th centuries, Portuguese in 1455",
+"British Colonial Period": "Region part of British Empire in 1765",
+"Independence": "1965 under leadership of Dawda Jawara",
+"Recent Political History": {
+"Yahya Jammeh's Rule": "1994 coup to 2017",
+"Adama Barrow's Presidency": "Since January 2017"
+}
+},
+"International Affiliations": ["Economic Community of West African States member since 1975", "Commonwealth member"],
+"Economy Characteristics": {
+"Dominance": "Farming, fishing, and tourism",
+"Former Tax Haven Status": "No longer on any blacklists"
+},
+"Education": "Information not provided",
+"Media": "Information not provided",
+"Sports": "Information not provided",
+"Security and Defense": "Information not provided"
+}
+}
