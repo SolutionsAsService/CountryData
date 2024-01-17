@@ -19,7 +19,8 @@
     "Borders": [
       "Ethiopia",
       "Sudan",
-      "Djibouti"
+      "Djibouti",
+      "Red Sea"
     ]
   },
   "Demographics": {
@@ -37,6 +38,7 @@
         "Rashaida": "1%",
     },
     "Languages": {
+      "Official": "None",
       "RecognisedNational": [
         "Tigrinya",
         "Beja",
