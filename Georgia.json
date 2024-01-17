@@ -1,0 +1,115 @@
+{
+    "Georgia": {
+        "Official Names": {
+            "Georgian": "საქართველო",
+            "Romanized": "sakartvelo"
+        },
+        "Symbols": {
+            "Flag": "Flag of Georgia",
+            "Coat of Arms": "Coat of arms of Georgia",
+            "Motto": "ძალა ერთობაშია (Strength is in Unity)",
+            "Anthem": {
+                "Title": "თავისუფლება (Tavisupleba)",
+                "Translation": "Freedom",
+                "Duration": "1 minute and 21 seconds"
+            }
+        },
+        "Location": {
+            "Continent": "Transcontinental (Eastern Europe and West Asia)",
+            "Borders": {
+                "Black Sea": "West",
+                "Russia": "North and Northeast",
+                "Turkey": "Southwest",
+                "Armenia": "South",
+                "Azerbaijan": "Southeast"
+            },
+            "Capital and Largest City": "Tbilisi",
+            "Coordinates": "41°43′N 44°47′E"
+        },
+        "Demographics": {
+            "Population": {
+                "2022 Estimate": "3,688,647",
+                "Density": "57.6 per km2"
+            },
+            "Ethnic Groups (2014)": {
+                "Georgians": "86.8%",
+                "Azerbaijanis": "6.2%",
+                "Armenians": "4.5%",
+                "Russians": "0.7%",
+                "Other": "2.1%"
+            },
+            "Religion (2014)": {
+                "Christianity": "87.3%",
+                "Georgian Orthodoxy": "83.4%",
+                "Other Christian": "3.9%",
+                "Islam": "10.7%",
+                "Other / None": "2%"
+            },
+            "Languages": {
+                "Official": "Georgian",
+                "Recognised Regional": "Abkhaz"
+            }
+        },
+        "Government": {
+            "Type": "Unitary parliamentary republic",
+            "President": "Salome Zourabichvili",
+            "Prime Minister": "Irakli Garibashvili",
+            "Chairperson of the Parliament": "Shalva Papuashvili",
+            "Legislature": "Parliament",
+            "Independence History": {
+                "Colchis and Iberia": "13th c. BC – 580 AD",
+                "Unification": "1008",
+                "Russian Annexation": "12 September 1801",
+                "Independence from Russian Empire": "26 May 1918",
+                "Red Army Invasion": "25 February 1921",
+                "Independence from Soviet Union": "9 April 1991",
+                "Current Constitution": "24 August 1995"
+            }
+        },
+        "Geography": {
+            "Total Area": "69,700 square kilometers"
+        },
+        "Economy": {
+            "GDP (PPP) 2023 Estimate": {
+                "Total": "$82.210 billion",
+                "Per Capita": "$22,357"
+            },
+            "GDP (Nominal) 2023 Estimate": {
+                "Total": "$30.023 billion",
+                "Per Capita": "$8,165"
+            },
+            "Gini Index (2021)": "34.2",
+            "HDI (2021)": "0.802"
+        },
+        "Currency": "Georgian lari (₾) (GEL)",
+        "Time Zone": "UTC+4 (Georgia Time GET)",
+        "Infrastructure": {
+            "Driving Side": "right",
+            "Calling Code": "+995",
+            "ISO 3166 Code": "GE",
+            "Internet TLD": [".ge", ".გე"]
+        },
+        "Transport": {
+            "Major Modes": "Road, Rail, Air, and Sea transport",
+            "Key Transport Hubs": "Tbilisi, Batumi, Poti"
+        },
+        "Demographics": {
+            "Official Languages": "Georgian",
+            "Recognised Regional Languages": "Abkhaz",
+            "Literacy Rate": "Information not provided"
+        },
+        "Culture": {
+            "Wine Production": "Earliest known location of winemaking in the world (since 6,000 BC)",
+            "Historical Kingdoms": ["Colchis", "Iberia"],
+            "Adoption of Christianity": "Early 4th century",
+            "Golden Age": ["King David IV", "Queen Tamar"],
+            "Cultural Decline": "Under regional powers' hegemony",
+            "Modern Era": {
+                "Independence Movement": "1980s",
+                "Rose Revolution": "2003",
+                "Russo-Georgian War": "2008"
+            }
+        },
+        "International Affiliations": ["United Nations", "Council of Europe", "Eurocontrol", "BSEC", "GUAM", "Energy Community", "Association Trio", "EU Candidate Country"]
+    }
+}
