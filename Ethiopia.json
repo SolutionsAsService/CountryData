@@ -1,0 +1,90 @@
+{
+  "Country": "Federal Democratic Republic of Ethiopia",
+  "AmharicName": "የኢትዮጵያ ፌደራላዊ ዴሞክራሲያዊ ሪፐብሊክ",
+  "Symbols": {
+    "Flag": "Flag of Ethiopia",
+    "Emblem": "Emblem of Ethiopia",
+    "Anthem": "ወደፊት ገስግሺ ፣ ውድ እናት ኢትዮጵያ ('March Forward, Dear Mother Ethiopia')"
+  },
+  "Geography": {
+    "Location": "Horn of Africa, East Africa",
+    "Area": "1,112,000 square kilometres",
+    "Terrain": {
+      "EasternHighlands": "Peaks higher than 4,000 m",
+      "EasternLowlands": "Ogaden Desert and Hawd",
+      "DrainageSystems": [
+        "Genale and Shebele Rivers",
+        "Rift Valley internal drainage system",
+        "Baro, Tekeze, and the Blue Nile Rivers"
+      ]
+    },
+    "Borders": [
+      "Eritrea",
+      "Djibouti",
+      "Somalia",
+      "Kenya",
+      "South Sudan",
+      "Sudan"
+    ]
+  },
+  "Demographics": {
+    "Population2023Estimate": 127955823,
+    "Capital": "Addis Ababa",
+    "EthnicGroups": {
+      "Oromo": "34.5%",
+      "Amhara": "26.9%",
+      "Somali": "6.2%",
+      "Tigrayan": "6.1%",
+      "Others": "26.3%"
+    },
+    "Religions": {
+      "Christianity": "67.3%",
+      "Islam": "31.3%"
+    },
+    "Languages": ["Afar", "Amharic", "Oromo", "Somali", "Tigrinya"],
+    "AgeStructure": {
+      "0-14Years": "38.91%",
+      "15-64Years": "57.55%",
+      "65YearsAndOver": "3.54%"
+    },
+    "Urbanization": "23.2%"
+  },
+  "Government": {
+    "Type": "Federal parliamentary republic",
+    "President": "Sahle-Work Zewde",
+    "PrimeMinister": "Abiy Ahmed",
+    "Legislature": {
+      "UpperHouse": "House of Federation",
+      "LowerHouse": "House of Peoples' Representatives"
+    }
+  },
+  "Economy": {
+    "GDP_PPP_2023": "$393.297 billion",
+    "GDP_PPP_PerCapita_2023": "$3,719",
+    "GDP_Nominal_2023": "$155.804 billion",
+    "GDP_Nominal_PerCapita_2023": "$1,473",
+    "MajorIndustries": ["Agriculture", "Textiles", "Leather"],
+    "Currency": "Birr (ETB)"
+  },
+  "AdditionalInformation": {
+    "TimeZone": "UTC+3 (EAT)",
+    "DrivingSide": "right",
+    "CallingCode": "+251",
+    "ISOCode": "ET",
+    "InternetTLD": ".et",
+    "HistoricalSignificance": "Over 3000 years of history, origin of anatomically modern humans",
+    "Challenges": {
+      "PopulationGrowth": "Rapid, with 40% under age 15",
+      "Environmental": "Expanding degradation and food shortages",
+      "Political": "Ethnic-based violence and political repression"
+    },
+    "Membership": [
+      "United Nations",
+      "Group of 24",
+      "Non-Aligned Movement",
+      "Group of 77",
+      "Organisation of African Unity",
+      "BRICS"
+    ]
+  }
+}
