@@ -1,0 +1,131 @@
+{
+    "Republic of Burundi": {
+        "Official Names": {
+            "Kirundi": "Repuburika y’Uburundi",
+            "French": "République du Burundi",
+            "English": "Republic of Burundi"
+        },
+        "Symbols": {
+            "Flag": "Flag of Burundi",
+            "Coat of Arms": "Coat of arms of Burundi",
+            "Motto": {
+                "Kirundi": "Ubumwe, Ibikorwa, Amajambere",
+                "French": "Unité, Travail, Progrès",
+                "English": "Union, Work, Progress"
+            },
+            "Anthem": {
+                "Title": "Burundi Bwacu",
+                "Language": "Kirundi",
+                "Translation": "Our Burundi",
+                "Duration": "2 minutes and 9 seconds"
+            }
+        },
+        "Location": {
+            "Continent": "Africa",
+            "Region": "Great Rift Valley, junction between African Great Lakes and East Africa",
+            "Borders": {
+                "North": "Rwanda",
+                "East and Southeast": "Tanzania",
+                "West": "Democratic Republic of the Congo",
+                "Southwest": "Lake Tanganyika"
+            },
+            "Capital Cities": {
+                "Political": "Gitega",
+                "Economic": "Bujumbura"
+            },
+            "Coordinates": "3°30′S 30°00′E"
+        },
+        "Demographics": {
+            "Largest City": "Bujumbura",
+            "Official Languages": ["Kirundi", "French", "English"],
+            "Ethnic Groups": {
+                "1980 Census": {
+                    "Barundi": "99%",
+                    "Hutu": "85%",
+                    "Tutsi": "14%",
+                    "Twa": "1%",
+                    "Europeans": "~3,000",
+                    "South Asians": "~2,000"
+                }
+            },
+            "Religion": {
+                "2020 Statistics": {
+                    "Christianity": "93.4%",
+                    "Catholicism": "63.7%",
+                    "Protestantism": "25.2%",
+                    "Other Christian": "4.5%",
+                    "Traditional Faiths": "4.3%",
+                    "Islam": "2.1%",
+                    "Others / None": "0.2%"
+                }
+            },
+            "Population": {
+                "2023 Estimate": "13,162,952",
+                "Density": "473 per km2"
+            }
+        },
+        "Government": {
+            "Type": "Unitary dominant-party presidential republic under an authoritarian state",
+            "President": "Évariste Ndayishimiye",
+            "Vice President": "Prosper Bazombanza",
+            "Prime Minister": "Gervais Ndirakobuca",
+            "Legislature": {
+                "Upper House": "Senate",
+                "Lower House": "National Assembly"
+            },
+            "Establishment History": {
+                "Kingdom of Urundi": "1680–1966",
+                "Part of German East Africa": "1890–1916",
+                "Part of Ruanda-Urundi": "1916–1962",
+                "Independence from Belgium": "1 July 1962",
+                "Republic": "28 November 1966",
+                "Current Constitution": "17 May 2018"
+            }
+        },
+        "Geography": {
+            "Total Area": "27,834 km2",
+            "Water Percentage": "10%"
+        },
+        "Economy": {
+            "GDP (PPP) 2023 Estimate": {
+                "Total": "$11.551 billion",
+                "Per Capita": "$890"
+            },
+            "GDP (Nominal) 2023 Estimate": {
+                "Total": "$3.190 billion",
+                "Per Capita": "$245"
+            },
+            "Gini Index (2013)": "39.2",
+            "HDI (2021)": "0.426"
+        },
+        "Currency": "Burundian franc (FBu)",
+        "Time Zone": "UTC+2 (CAT)",
+        "Driving Side": "right",
+        "ISO 3166 Code": "BI",
+        "Internet TLD": ".bi",
+        "Urbanization": {
+            "2019 Statistics": "13.4% of the population living in urban areas"
+        },
+        "Ethnic Composition": {
+            "Hutu": "85%",
+            "Tutsi": "15%",
+            "Twa": "<1%"
+        },
+        "Official Languages Recognition": {
+            "Kirundi": "sole national language",
+            "English Official Since": "2014"
+        },
+        "Environmental Concerns": {
+            "Deforestation Rate as of 2005": "Almost completely deforested",
+            "Tree Coverage": "Less than 6%",
+            "Habitat Loss": "Significant"
+        },
+        "Social Challenges": {
+            "Economic Status": "Poorest country by nominal GDP per capita",
+            "Development Level": "One of the least developed countries",
+            "Major Issues": ["Poverty", "Corruption", "Instability", "Authoritarianism", "Illiteracy"],
+            "World Happiness Report 2018": "Ranked least happy (156th)"
+        },
+        "International Affiliations": ["African Union", "Common Market for Eastern and Southern Africa", "United Nations", "East African Community (EAC)", "Non-Aligned Movement"]
+    }
+}
