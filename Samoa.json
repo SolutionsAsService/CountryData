@@ -2,6 +2,7 @@
   "Samoa": {
     "General_Information": {
         "Name":{
+        "Common": "Samoa",
         "Official": "Independent State of Samoa",
         "Samoan": "Malo Saʻoloto Tutoʻatasi o Sāmoa",
         "Former": "Western Samoa",
@@ -21,10 +22,10 @@
           "Tonga": {"Distance": "889 km (552 mi)", "Direction": "northeast" },
           "Fiji": {"Distance": "1,152 km (716 mi)", "Direction": "northeast" }, 
           "Wallis and Futuna": {"Distance": "483 km (300 mi)", "Direction": "east"}, 
-          "Tuvalu": 1,151 km (715 mi) southeast ,
-          "Tokelau": 519 km (322 mi) south , 
-          "Hawaii": 4,190 km (2,600 mi) southwest,
-          "Niue": 610 km (380 mi) northwest .
+          "Tuvalu": {"Distance": "1,151 km (715 mi)", "Direction": "southeast" } ,
+          "Tokelau": {"Distance": "519 km (322 mi)", "Direction": "south"} , 
+          "Hawaii": {"Distance": "4,190 km (2,600 mi)", "Direction": "southwest"},
+          "Niue": {"Distance":"610 km (380 mi)", "Direction": "northwest"} ,
       "Map": "Map of Samoa",
           },
       "Capital_and_Largest_City": {
