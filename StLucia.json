@@ -13,11 +13,18 @@
   "Motto": "The Land, The People, The Light",
   "Anthem": "Sons and Daughters of Saint Lucia",
   "Royal_Anthem": "God Save the King",
-  "Location": "Eastern Caribbean, Windward Islands",
+  "Location": {
+      "PartOf": ["Windward Islands", "Lesser Antilles" ],
+       "north/northeast": "Saint Vincent", 
+       "northwest": "Barbados" 
+       "south": "Martinique"
+       "Near": "Eastern Caribbean, Windward Islands",
+  },
   "Capital": "Castries",
   "Coordinates": {
     "Latitude": "13°53′00″N",
     "Longitude": "60°58′00″W"
+  }
   },
   "Official_Language": "English",
   "Vernacular_Language": "Saint Lucian Creole",
