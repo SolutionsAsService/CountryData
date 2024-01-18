@@ -15,7 +15,13 @@
           "Duration": "1 minute and 4 seconds"
         }
       },
-      "Location": "Eastern Caribbean, Lesser Antilles, West Indies",
+      "Location":{
+       "General":"Eastern Caribbean", 
+       "Chain":"Lesser Antilles, West Indies",
+        "north": "Saint Lucia", 
+        "east": "Barbados", 
+        "Grenada": "south"
+      },
       "Capital_and_Largest_City": {
         "Name": "Kingstown",
         "Coordinates": "13°10′N 61°14′W"
@@ -97,6 +103,7 @@
     "Geography": {
       "Description": "Island country in the southeast Windward Islands of the Lesser Antilles",
       "Climate": "Tropical climate, part of Hurricane Alley"
+      "Islands": 33,
     },
     "Government_and_Politics": {
       "System": "Unitary parliamentary constitutional monarchy",
