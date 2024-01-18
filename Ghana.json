@@ -1,0 +1,105 @@
+{
+    "Ghana": {
+        "Name": {
+            "Full": "Republic of Ghana",
+            "Common": "Ghana",
+            "Twi": "Gaana", 
+            "Ewe": "Gana", 
+            "Dagbani": "Gana"
+        },
+        "Symbols": {
+            "Flag": "Flag of Ghana",
+            "Coat of Arms": "Coat of arms of Ghana",
+            "Motto": "Freedom and Justice",
+            "Anthem": {
+                "Title": "God Bless Our Homeland Ghana",
+                "Duration": "58 seconds"
+            }
+        },
+        "Location": {
+            "Region": "West Africa",
+            "Borders": {
+                "Gulf of Guinea": "South",
+                "Ivory Coast": "West",
+                "Burkina Faso": "North",
+                "Togo": "East"
+            },
+            "Capital and Largest City": "Accra",
+            "Coordinates": "05°33′18″N 00°11′33″W"
+        },
+        "Demographics": {
+            "Population": {
+                "2023 Estimate": "34,237,620",
+                "Density": "101.5 per km2"
+            },
+            "Ethnic Groups (2021 Census)": {
+                "Akans": "45.7%",
+                "Mole-Dagbon": "18.5%",
+                "Ewe": "12.8%",
+                "Ga-Adangbe": "7.1%",
+                "Gurma": "6.4%",
+                "Guan": "3.2%",
+                "Gurunsi": "2.7%",
+                "Mande": "2.0%",
+                "Other / Unspecified": "1.6%"
+            },
+            "Religion (2021 Census)": {
+                "Christianity": "71.3%",
+                "Protestantism": "49.0%",
+                "Other Christian": "22.3%",
+                "Islam": "19.9%",
+                "Traditional Faiths": "3.2%",
+                "No Religion": "1.1%",
+                "Other / Unspecified": "4.5%"
+            },
+            "Languages": {
+                "Official": "English",
+                "National Languages": "See full list"
+            }
+        },
+        "Government": {
+            "Type": "Unitary presidential republic",
+            "President": "Nana Akufo-Addo",
+            "Vice-President": "Mahamudu Bawumia",
+            "Speaker of Parliament": "Alban Bagbin",
+            "Chief Justice": "Gertrude Tokornoo",
+            "Legislature": "Parliament",
+            "Independence from the United Kingdom": "6 March 1957"
+        },
+        "Geography": {
+            "Total Area": "239,567 square kilometers",
+            "Biomes": "Coastal savannas to tropical rainforests",
+            "Water Percentage": "4.61%"
+        },
+        "Economy": {
+            "GDP (PPP) 2023 Estimate": {
+                "Total": "$227.189 billion",
+                "Per Capita": "$6,905"
+            },
+            "GDP (Nominal) 2023 Estimate": {
+                "Total": "$76.628 billion",
+                "Per Capita": "$2,328"
+            },
+            "Gini Index (2016)": "43.5",
+            "HDI (2021)": "0.632",
+            "Currency": "Cedi (GHS)"
+        },
+        "Culture": {
+            "Ethnic and Religious Diversity": true,
+            "Influence": "Significant in West Africa and Africa",
+            "International Affairs": ["Non-Aligned Movement", "African Union", "ECOWAS", "Group of 24", "Commonwealth of Nations"]
+        },
+        "International Relations": {
+            "Global Role": "Active in international affairs",
+            "Membership": ["United Nations", "African Union", "ECOWAS"]
+        },
+        "Historical Kingdoms": ["Kingdom of Dagbon", "Bono state", "Ashanti Empire"],
+        "Colonial History": {
+            "Portuguese": "15th century",
+            "British Control": "19th century",
+            "Independence": "1957"
+        },
+        "Education": "Information not provided",
+        "Transport": "Information not provided"
+    }
+}
