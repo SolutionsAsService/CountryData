@@ -1,0 +1,78 @@
+{
+  "country": "Democratic Republic of the Congo",
+  "official_name": "République démocratique du Congo",
+  "aliases": ["Congo-Kinshasa", "DRC", "DR Congo", "Congo", "Zaire"],
+  "area": {
+    "total_km2": 2345409,
+    "rank": 11,
+    "water_percentage": 3.32
+  },
+  "population": {
+    "estimate_2023": 111859928,
+    "rank": 14,
+    "density_per_km2": 46.3
+  },
+  "capital": "Kinshasa",
+  "coordinates": {
+    "latitude": "4°19'S",
+    "longitude": "15°19'E"
+  },
+  "languages": {
+    "official": "French",
+    "national": ["Kituba", "Lingala", "Swahili", "Tshiluba"]
+  },
+  "religion": {
+    "Christianity": 95.4,
+    "Traditional_faiths": 2.6,
+    "Islam": 1.5,
+    "Others": 0.5
+  },
+  "government": {
+    "type": "Unitary semi-presidential republic",
+    "president": "Félix Tshisekedi",
+    "prime_minister": "Sama Lukonde",
+    "legislature": {
+      "upper_house": "Senate",
+      "lower_house": "National Assembly"
+    }
+  },
+  "independence": {
+    "from_Belgium": {
+      "declared": "1960-06-30",
+      "recognized_UN_membership": "1960-09-20"
+    },
+    "constitution_effective": "2006-02-18"
+  },
+  "economy": {
+    "GDP_PPP_2023": 150883000000,
+    "GDP_nominal_2023": 67512000000,
+    "GDP_per_capita": 675,
+    "GDP_rank": 86
+  },
+  "currency": "Congolese franc",
+  "time_zone": ["WAT", "CAT"],
+  "internet_TLD": ".cd",
+  "geography": {
+    "region": "Central Africa",
+    "terrain": ["Congo Basin", "High mountains", "Rainforests"]
+  },
+  "history": {
+    "early_inhabitants": "Central African foragers around 90,000 years ago",
+    "Bantu_expansion": "3,000 years ago",
+    "colonial_period": {
+      "Congo_Free_State": "1885-07-01",
+      "Belgian_Congo": "1908-11-15"
+    },
+    "post_independence": {
+      "name_change_to_Zaire": "1971-10-27",
+      "name_reverted": "1997-05-17",
+      "civil_war": "1998-2003"
+    }
+  },
+  "human_development_index": {
+    "HDI_2021": 0.479,
+    "rank": 179
+  },
+  "challenges": ["Political instability", "Conflict", "Human rights issues"],
+  "international_membership": ["United Nations", "African Union"]
+}
