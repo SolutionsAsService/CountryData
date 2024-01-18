@@ -1,0 +1,93 @@
+{
+    "Czech Republic": {
+        "Official Names": {
+            "Czech": "Česká republika",
+            "English": "Czech Republic",
+            "Short Form": "Czechia"
+        },
+        "Symbols": {
+            "Flag": "Flag of Czechia",
+            "Coat of Arms": "Coat of arms of Czechia",
+            "Motto": "Pravda vítězí (Truth prevails)",
+            "Anthem": {
+                "Title": "Kde domov můj",
+                "English Translation": "Where My Home Is",
+                "Duration": "1 minute and 13 seconds"
+            }
+        },
+        "Location": {
+            "Region": "Central Europe",
+            "Coordinates": "50°05′N 14°28′E",
+            "Borders": ["Austria", "Germany", "Poland", "Slovakia"]
+        },
+        "Language": "Czech",
+        "Ethnic Groups (2021)": {
+            "Czechs": "89%",
+            "Moravians": "3.3%",
+            "Slovaks": "0.9%",
+            "Ukrainians": "0.7%",
+            "Others": "2.1%",
+            "Two Nationalities": "4.0%"
+        },
+        "Religion (2021)": {
+            "No Religion": "56.9%",
+            "Christianity": "11.7%",
+            "Catholicism": "9.3%",
+            "Other Christian": "2.4%",
+            "Other": "1.2%",
+            "Unanswered": "30.1%"
+        },
+        "Government": {
+            "Type": "Unitary parliamentary republic",
+            "President": "Petr Pavel",
+            "Prime Minister": "Petr Fiala",
+            "Legislature": {
+                "Upper House": "Senate",
+                "Lower House": "Chamber of Deputies"
+            }
+        },
+        "Historical Development": {
+            "Duchy of Bohemia": "c. 870",
+            "Kingdom of Bohemia": "1198",
+            "Czechoslovakia": "28 October 1918",
+            "Independence as Czech Republic": "1 January 1993"
+        },
+        "Geography": {
+            "Total Area": "78,871 square kilometers",
+            "Landscape": "Hilly",
+            "Climate": "Temperate continental and oceanic"
+        },
+        "Population": {
+            "2023 Estimate": "10,827,529",
+            "2021 Census": "10,524,167",
+            "Density": "133 per km2"
+        },
+        "Economy": {
+            "GDP (PPP) 2023 Estimate": {
+                "Total": "$539.318 billion",
+                "Per Capita": "$49,025"
+            },
+            "GDP (Nominal) 2023 Estimate": {
+                "Total": "$335.243 billion",
+                "Per Capita": "$30,474"
+            },
+            "Gini (2020)": "24.2",
+            "HDI (2021)": "0.889",
+            "Currency": "Czech koruna (CZK)"
+        },
+        "Demographics": {
+            "Major Cities": ["Prague", "Brno", "Ostrava", "Plzeň", "Liberec"],
+            "Language": "Czech",
+            "Ethnic Composition": "Primarily Czech, with Moravian and Slovak minorities"
+        },
+        "Culture": {
+            "Historical Influence": "Bohemian heritage",
+            "Cultural Heritage": "Rich in music, literature, and architecture",
+            "European Integration": "Member of EU and other international organizations"
+        },
+        "Historical Overview": {
+            "Medieval History": "Duchy and Kingdom of Bohemia",
+            "Modern History": "Part of Czechoslovakia, Velvet Revolution, division into Czech Republic and Slovakia"
+        }
+    }
+}
