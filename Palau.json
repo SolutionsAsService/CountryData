@@ -12,10 +12,17 @@
       "Seal": "URL to Seal Image",
       "Capital": "Ngerulmud",
       "Largest City": "Koror",
+     "Location": {
+      "maritimeBoundaries":{
+         "international waters": "north", 
+          "Federated States of Micronesia": "east", 
+          "Indonesia": "south", 
+          "Philippines": "northwest"
       "Coordinates": {
         "Capital": "7°30′N 134°37′E",
         "Largest City": "7°20′N 134°29′E"
-      },
+      }
+    },
       "Official Languages": ["Palauan", "English"],
       "Recognized Regional Languages": ["Japanese", "Sonsorolese", "Tobian"],
       "Area": "459 square kilometers",
