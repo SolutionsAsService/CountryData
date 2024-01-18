@@ -1,0 +1,86 @@
+{
+    "Equatorial Guinea": {
+        "Official Names": {
+            "Spanish": "República de Guinea Ecuatorial",
+            "French": "République de Guinée équatoriale",
+            "Portuguese": "República da Guiné Equatorial"
+        },
+        "Flag": "Described Image",
+        "Coat of Arms": "Described Image",
+        "Motto": "Unidad, Paz, Justicia ('Unity, Peace, Justice')",
+        "Anthem": "Caminemos pisando las sendas de nuestra inmensa felicidad",
+        "Capital": {
+            "Current": "Malabo",
+            "Under Construction": "Ciudad de la Paz",
+            "Coordinates": "3°45′N 8°47′E"
+        },
+        "Largest City": "Bata",
+        "Official Languages": ["Spanish", "French", "Portuguese"],
+        "Recognised Regional Languages": ["Fang", "Bube", "Annobonese Creole", "Kombe", "Kwasio"],
+        "Ethnic Groups": {
+            "Fang": "85.7%",
+            "Bubi": "6.5%",
+            "Ndowe": "3.6%",
+            "Annobon": "1.6%",
+            "Bujeba": "1.1%",
+            "Other": "1.1%"
+        },
+        "Religion": {
+            "Christianity": "88.7%",
+            "No Religion": "5.0%",
+            "Islam": "4.0%",
+            "Traditional Faiths": "1.7%",
+            "Others": "0.6%"
+        },
+        "Government": {
+            "Type": "Unitary dominant-party presidential republic under a dictatorship",
+            "President": "Teodoro Obiang Nguema Mbasogo",
+            "Vice President": "Teodoro Nguema Obiang Mangue",
+            "Prime Minister": "Manuela Roka Botey"
+        },
+        "Legislature": {
+            "Upper House": "Senate",
+            "Lower House": "Chamber of Deputies"
+        },
+        "Independence": "12 October 1968 from Spain",
+        "Area": "28,050 square kilometers",
+        "Population": {
+            "2022 Estimate": "1,679,172",
+            "Density": "60 per square kilometer"
+        },
+        "Economy": {
+            "GDP (PPP, 2023)": {
+                "Total": "$28.356 billion",
+                "Per Capita": "$18,362"
+            },
+            "GDP (Nominal, 2023)": {
+                "Total": "$10.041 billion",
+                "Per Capita": "$6,502"
+            }
+        },
+        "HDI": "0.596 (medium, 145th)",
+        "Currency": "Central African CFA franc (XAF)",
+        "Time Zone": "UTC+1 (WAT)",
+        "Date Format": "dd/mm/yyyy",
+        "Driving Side": "right",
+        "Calling Code": "+240",
+        "ISO 3166 Code": "GQ",
+        "Internet TLD": ".gq",
+        "Geography": {
+            "Regions": ["Bioko Island", "Annobón Island", "Río Muni"],
+            "Bordered By": ["Cameroon", "Gabon"],
+            "Main Cities": ["Malabo", "Bata", "Ciudad de la Paz"]
+        },
+        "Membership": ["African Union", "Francophonie", "OPEC", "CPLP"],
+        "Human Rights Record": "Noted as poor by various international organizations",
+        "Languages": {
+            "Spanish": "87.7% good command",
+            "French and Portuguese": "Official alongside Spanish"
+        },
+        "Historical Overview": {
+            "Independence from Spain": "1968",
+            "Current President": "Teodoro Obiang Nguema Mbasogo",
+            "Oil Production": "Major factor in economy since mid-1990s"
+        }
+    }
+}
