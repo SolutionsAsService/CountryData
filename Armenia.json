@@ -1,7 +1,10 @@
 {
     "Armenia": {
-        "Official Name": "Republic of Armenia",
-        "Armenian Name": "Հայաստանի Հանրապետություն",
+        "Name": {
+        "Official": "Republic of Armenia",
+        "Armenian": "Հայաստանի Հանրապետություն",
+        "Romanized": "Hayastani Hanrapetut'yun"
+    },
         "Symbols": {
             "Flag": "Flag of Armenia",
             "Coat of Arms": "Coat of arms of Armenia",
