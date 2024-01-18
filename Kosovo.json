@@ -1,0 +1,101 @@
+{
+    "Kosovo": {
+        "Official Names": {
+            "Local": "Republika e Kosovës",
+            "Serbian": "Република Косово / Republika Kosovo",
+            "English": "Republic of Kosovo"
+        },
+        "Symbols": {
+            "Flag": "Flag of Kosovo",
+            "Coat of Arms": "Coat of arms of Kosovo",
+            "Anthem": {
+                "Title": "Himni i Republikës së Kosovës",
+                "English Translation": "Anthem of the Republic of Kosovo",
+                "Duration": "58 seconds"
+            }
+        },
+        "Location": {
+            "Region": "Southeast Europe",
+            "Borders": {
+                "Serbia": "North and East",
+                "North Macedonia": "Southeast",
+                "Albania": "Southwest",
+                "Montenegro": "West"
+            },
+            "Capital and Largest City": "Pristina",
+            "Coordinates": "42°40′N 21°10′E"
+        },
+        "Status": {
+            "Diplomatic Recognition": "Recognised by 102 out of 193 member states of the United Nations",
+            "Claimed by": "Serbia as the Autonomous Province of Kosovo and Metohija"
+        },
+        "Demographics": {
+            "Population": {
+                "2022 Estimate": "1,761,985",
+                "Density": "162 per km2"
+            },
+            "Ethnic Groups (2019)": {
+                "Albanians": "92%",
+                "Serbs": "4%",
+                "Bosniaks": "2%",
+                "Turks": "1%",
+                "Romani": "1%",
+                "Others": "See full list"
+            },
+            "Religion (2020)": {
+                "Islam": "93%",
+                "Christianity": "6%",
+                "No Religion": "<1%",
+                "Others": "<1%"
+            },
+            "Languages": {
+                "Official": ["Albanian", "Serbian"],
+                "Regional": ["Bosnian", "Turkish", "Romani"]
+            }
+        },
+        "Government": {
+            "Type": "Unitary parliamentary republic",
+            "President": "Vjosa Osmani",
+            "Prime Minister": "Albin Kurti",
+            "Chairman of the Assembly": "Glauk Konjufca",
+            "Legislature": "Assembly"
+        },
+        "Geography": {
+            "Total Area": "10,887 square kilometers",
+            "Terrain": {
+                "Plains and Fields": "Metohija and the Kosovo field",
+                "Mountains": ["Accursed Mountains", "Šar Mountains"]
+            }
+        },
+        "Economy": {
+            "GDP (PPP) 2024 Estimate": {
+                "Total": "$29.629 billion",
+                "Per Capita": "$16,760"
+            },
+            "GDP (Nominal) 2024 Estimate": {
+                "Total": "$11.226 billion",
+                "Per Capita": "$6,337"
+            },
+            "Gini Index (2017)": "29.0",
+            "HDI (2021)": "0.762",
+            "Currency": "Euro (€) (EUR)"
+        },
+        "Infrastructure": "Information not provided",
+        "Culture": {
+            "Cultural Diversity": true,
+            "Official Language": "Albanian and Serbian",
+            "Major Religions": ["Islam", "Christianity"]
+        },
+        "International Relations": {
+            "UN Status": "Non-member",
+            "IMF, World Bank, EBRD Member": true,
+            "EU Application": "Filed in December 2022"
+        },
+        "Historical Overview": {
+            "Ancient History": ["Kingdom of Dardania", "Roman Empire", "Byzantine Empire"],
+            "Medieval History": ["Serbian medieval state", "Ottoman Empire"],
+            "Modern History": ["Autonomous Province within Yugoslavia", "Kosovo War", "UN Administration"],
+            "Independence": "Declared on 17 February 2008"
+        }
+    }
+}
