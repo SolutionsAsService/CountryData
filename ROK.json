@@ -1,0 +1,83 @@
+{
+    "South Korea": {
+        "Official Name": "Republic of Korea",
+        "Local Name": "대한민국 (Daehanminguk)",
+        "Flag": "Centered taegeuk on a white rectangle with four black trigrams",
+        "Emblem": "Centered taegeuk on a hibiscus syriacus surrounded by five stylized petals and a ribbon",
+        "Anthem": "Aegukga ('The Patriotic Song')",
+        "Location": {
+            "Continent": "East Asia",
+            "Capital": "Seoul",
+            "Coordinates": "37°33′N 126°58′E"
+        },
+        "Languages": {
+            "Official": "Korean (Pyojuneo)",
+            "Official Script": "Hangul",
+            "Sign Language": "Korean Sign Language"
+        },
+        "Ethnic Groups": {
+            "Korean": "95.1%",
+            "Other": "4.9%"
+        },
+        "Religion": {
+            "No Religion": "56.1%",
+            "Christianity": "27.6%",
+            "Buddhism": "15.5%",
+            "Other": "0.8%"
+        },
+        "Government": {
+            "Type": "Unitary presidential constitutional republic",
+            "President": "Yoon Suk Yeol",
+            "Prime Minister": "Han Duck-soo",
+            "Speaker of the National Assembly": "Kim Jin-pyo",
+            "Chief Justice of the Supreme Court": "Cho Hee-dae",
+            "President of the Constitutional Court": "Lee Jongseok"
+        },
+        "Establishment History": {
+            "Gojoseon": "2333 BCE",
+            "Three Kingdoms": "57 BCE",
+            "Balhae and Silla Kingdoms": "668",
+            "Goryeo Dynasty": "918",
+            "Joseon Dynasty": "July 17, 1392",
+            "Korean Empire": "October 12, 1897",
+            "Japanese Annexation": "August 22, 1910",
+            "Independence Declared": "March 1, 1919",
+            "Provisional Government": "April 11, 1919",
+            "Surrender of Japan": "September 2, 1945",
+            "US Administration": "September 8, 1945",
+            "ROK Established": "August 15, 1948",
+            "Current Constitution": "February 25, 1988"
+        },
+        "Area": {
+            "Total": "100,410 square kilometers",
+            "Water Percentage": "0.3%"
+        },
+        "Population": {
+            "2023 Estimate": "51,966,948",
+            "Density": "507 per square kilometer"
+        },
+        "Economy": {
+            "GDP (PPP, 2023)": {
+                "Total": "$2.924 trillion",
+                "Per Capita": "$56,708"
+            },
+            "GDP (Nominal, 2023)": {
+                "Total": "$1.709 trillion",
+                "Per Capita": "$33,147"
+            },
+            "Gini Index": "33.3",
+            "HDI": "0.925"
+        },
+        "Currency": "Korean Republic won (₩) (KRW)",
+        "Time Zone": "UTC+9 (Korea Standard Time)",
+        "Date Format": "yyyy년 m월 d일",
+        "Driving Side": "right",
+        "Calling Code": "+82",
+        "ISO 3166 Code": "KR",
+        "Internet TLD": ".kr .한국",
+        "Cultural Significance": {
+            "Korean Wave": "Globally influential pop culture",
+            "Memberships": ["OECD", "G20", "IPEF", "Paris Club"]
+        }
+    }
+}
