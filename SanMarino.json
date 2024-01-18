@@ -1,0 +1,81 @@
+{
+    "San Marino": {
+        "Official Names": {
+            "Italian": "Repubblica di San Marino",
+            "English": "Republic of San Marino"
+        },
+        "Symbols": {
+            "Flag": "Flag of San Marino",
+            "Coat of Arms": "Coat of arms of San Marino",
+            "Motto": "Libertas (Freedom)",
+            "Anthem": {
+                "Title": "Inno Nazionale della Repubblica",
+                "English Translation": "National Anthem of the Republic",
+                "Duration": "1 minute and 35 seconds"
+            }
+        },
+        "Location": {
+            "Region": "Europe",
+            "Coordinates": "43°56′N 12°26′E",
+            "Largest Settlement": "Dogana",
+            "Proximity": "Northeastern end near Rimini on the Adriatic coast"
+        },
+        "Languages": {
+            "Official": "Italian",
+            "Other": "Romagnol"
+        },
+        "Religion": {
+            "Christianity": "91.5%",
+            "Agnosticism": "5.6%",
+            "Atheism": "1.9%",
+            "Other": "1%"
+        },
+        "Government": {
+            "Type": "Unitary parliamentary diarchic directorial republic",
+            "Captains Regent": ["Filippo Tamagnini", "Gaetano Troina"],
+            "Secretary for Foreign and Political Affairs": "Luca Beccari",
+            "Legislature": "Grand and General Council"
+        },
+        "Independence": {
+            "From Roman Empire": "3 September 301",
+            "From Papal States": "1291",
+            "Constitution": {
+                "Statutes": "8 October 1600",
+                "Declaration of Citizen Rights": "12 July 1978"
+            }
+        },
+        "Geography": {
+            "Total Area": "61.2 square kilometers",
+            "Location": "Landlocked within Italy",
+            "Landmarks": ["Monte Titano", "City of San Marino"]
+        },
+        "Population": {
+            "2022 Estimate": "33,660",
+            "Density": "520 per km2"
+        },
+        "Economy": {
+            "GDP (PPP) 2023 Estimate": {
+                "Total": "$2.872 billion",
+                "Per Capita": "$84,135"
+            },
+            "GDP (Nominal) 2023 Estimate": {
+                "Total": "$1.998 billion",
+                "Per Capita": "$58,540"
+            },
+            "HDI (2021)": "0.853",
+            "Currency": "Euro (€) (EUR)",
+            "Main Sectors": ["Finance", "Industry", "Services", "Retail", "Tourism"]
+        },
+        "Transport": "Information not provided",
+        "Culture": {
+            "National Heritage": "Founded by Saint Marinus",
+            "Constitutional Practice": "Captains Regent elected every six months",
+            "Healthcare System": "Ranked third by the World Health Organization"
+        },
+        "Historical Overview": {
+            "Oldest Sovereign State": true,
+            "Oldest Constitutional Republic": true,
+            "Founder": "Saint Marinus, 301 AD"
+        }
+    }
+}
