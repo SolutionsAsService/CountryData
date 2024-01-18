@@ -1,6 +1,10 @@
 {
-  "Country": "Portugal",
-  "Official_Name": "Portuguese Republic",
+  "Portugal": {
+    "Name":{
+  "Common": "Portugal",
+  "Official": "Portuguese Republic",
+  "Portuguese": "República Portuguesa"
+    },
   "Flag_URL": "https://upload.wikimedia.org/wikipedia/en/5/5c/Flag_of_Portugal.svg",
   "Coat_of_Arms_URL": "https://upload.wikimedia.org/wikipedia/commons/7/73/Coat_of_arms_of_Portugal.svg",
   "Anthem": "A Portuguesa",
@@ -73,4 +77,5 @@
     "Cuisine": ["Bacalhau", "Pastel de nata"],
     "Music": ["Fado"]
   }
+}
 }
