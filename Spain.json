@@ -2,7 +2,11 @@
     "Spain": {
         "Official Names": {
             "English": "Kingdom of Spain",
-            "Spanish": "Reino de España"
+            "Spanish": "Reino de España",
+            "Catalan": "Regne d'Espanya",
+             "Basque":	"Espainiako Erresuma",
+             "Galician": "Reino de España"
+             "Occitan": "Reiaume d'Espanha"
         },
         "Flag": "Described Image",
         "Coat of Arms": "Described Image",
