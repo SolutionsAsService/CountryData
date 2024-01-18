@@ -1,6 +1,14 @@
 {
-  "Country": "Mali",
-  "Official_Name": "Republic of Mali",
+  "Mali": {
+    "Name":{
+    "Common": "Mali",
+    "Official": "Republic of Mali",
+    "Bambara": "Mali ka Fasojamana",
+    "Fula": "Republik bu Maali",
+    "Hassaniyya":	"جُمْهُورِيَّةْ مَالِي (Jumhūriyyet Māli)",
+    "Soninke":	"Mali Tɔgɔbadugu",
+     "Tamasheq":	"ⵜⴰⴳⴷⵓⴷⴰ ⵏ ⵎⴰⵍⵉ (Tagduda n Mali)"
+    },
   "Flag_URL": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
   "Coat_of_Arms_URL": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Coat_of_arms_of_Mali.svg",
   "Anthem": "Le Mali",
