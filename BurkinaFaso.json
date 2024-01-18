@@ -1,0 +1,107 @@
+{
+    "Burkina Faso": {
+        "Official Names": {
+            "Local": "Burkina Faso",
+            "French": "République du Burkina Faso"
+        },
+        "Symbols": {
+            "Flag": "Flag of Burkina Faso",
+            "Coat of Arms": "Coat of arms of Burkina Faso",
+            "Motto": "Unité–Progrès–Justice (Unity–Progress–Justice)",
+            "Anthem": {
+                "Title": "Une Seule Nuit / Ditanyè",
+                "English Translation": "One Single Night / Hymn of Victory",
+                "Duration": "1 minute and 48 seconds"
+            }
+        },
+        "Location": {
+            "Region": "West Africa",
+            "Borders": {
+                "Mali": "Northwest",
+                "Niger": "Northeast",
+                "Benin": "Southeast",
+                "Togo": "South",
+                "Ghana": "South",
+                "Ivory Coast": "Southwest"
+            },
+            "Capital and Largest City": "Ouagadougou",
+            "Coordinates": "12°22′N 1°32′W"
+        },
+        "Demographics": {
+            "Population": {
+                "2023 Estimate": "22,489,126",
+                "Density": "64 per km2"
+            },
+            "Ethnic Groups (2010 Estimate)": {
+                "Mossi": "52%",
+                "Fula": "8.4%",
+                "Gurma": "7%",
+                "Bobo": "4.9%",
+                "Gurunsi": "4.6%",
+                "Senufo": "4.5%",
+                "Lobi": "2.4%",
+                "Tuareg": "1.9%",
+                "Dyula": "0.8%",
+                "Other": "See full list"
+            },
+            "Religion (2021)": {
+                "Islam": "63.8%",
+                "Christianity": "26.3%",
+                "Other / Unspecified": "See full list"
+            },
+            "Languages": {
+                "Official": "French",
+                "National Languages": "Over 60 including Mooré"
+            }
+        },
+        "Government": {
+            "Type": "Unitary republic under a military junta",
+            "Interim President": "Ibrahim Traoré",
+            "Prime Minister": "Apollinaire Joachim Kyélem de Tambèla",
+            "Legislature": "Transitional Legislative Assembly"
+        },
+        "Geography": {
+            "Total Area": "274,223 square kilometers",
+            "Landlocked": true,
+            "Water Percentage": "0.146%"
+        },
+        "Economy": {
+            "GDP (PPP) 2023 Estimate": {
+                "Total": "$62.788 billion",
+                "Per Capita": "$2,682"
+            },
+            "GDP (Nominal) 2023 Estimate": {
+                "Total": "$20.785 billion",
+                "Per Capita": "$888"
+            },
+            "Gini Index (2020)": "38.9",
+            "HDI (2021)": "0.449",
+            "Currency": "West African CFA franc (XOF)"
+        },
+        "Food Insecurity": "Information not provided",
+        "Infrastructure and Services": {
+            "Development": "Information not provided",
+            "Utilities": "Information not provided"
+        },
+        "Science and Technology": "Information not provided",
+        "Culture": {
+            "Artistic Heritage": "Renowned for orthodox style",
+            "Cultural Diversity": true,
+            "Religious Practices": "Various"
+        },
+        "International Relations": {
+            "UN Membership": true,
+            "La Francophonie": "Member",
+            "OIC": "Member",
+            "Current Status": "Suspended from ECOWAS and African Union"
+        },
+        "Historical Overview": {
+            "Early Kingdoms": ["Mossi", "Ouagadougou", "Tenkodogo", "Yatenga"],
+            "Colonial Period": "French colonization in 1896",
+            "Independence": "From France in 1960",
+            "Recent Coups": ["January 2022", "September 2022"]
+        },
+        "Education": "Information not provided",
+        "Transport": "Information not provided"
+    }
+}
