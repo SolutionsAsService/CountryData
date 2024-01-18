@@ -1,7 +1,12 @@
 {
     "Mauritania": {
-        "Official Name": "Islamic Republic of Mauritania",
-        "Arabic": "الجمهورية الإسلامية الموريتانية",
+        "Name": {
+            "Common": "Mauritania",
+            "Official": "Islamic Republic of Mauritania",
+           "Arabic": "الجمهورية الإسلامية الموريتانية",
+            "Romanized": "al-Jumhūrīyah al-Islāmīyah al-Mūrītānīyah"
+
+        },
         "Flag": "Described Image",
         "Seal": "Described Image",
         "Motto": "Honour, Fraternity, Justice",
