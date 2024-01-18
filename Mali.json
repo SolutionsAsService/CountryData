@@ -13,6 +13,15 @@
   "Coat_of_Arms_URL": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Coat_of_arms_of_Mali.svg",
   "Anthem": "Le Mali",
   "Capital": "Bamako",
+    "Location":{
+      "General": "West Africa",
+      "border":{ 
+        "north": "Algeria", 
+        "east": "Niger", 
+        "northwest": "Mauritania",
+        "south": ["Burkina Faso", "Côte d'Ivoire" ]
+        "west" by Guinea and Senegal
+    },
   "Official_Languages": ["Bambara", "Bobo", "Bozo", "Dogon", "Fula", "Hassaniyya", "Kassonke", "Maninke", "Minyanka", "Senufo", "Songhay", "Soninke", "Tamasheq"],
   "Working_Language": "French",
   "Ethnic_Groups_2023": {
