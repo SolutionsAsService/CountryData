@@ -1,0 +1,84 @@
+{
+    "Bhutan": {
+        "Official Names": {
+            "Dzongkha": "འབྲུག་རྒྱལ་ཁབ་ (Druk Gyal Khap)"
+        },
+        "Flag": "Described Image",
+        "Emblem": "Described Image",
+        "Anthem": "Druk Tsenden ('The Thunder Dragon Kingdom')",
+        "Capital": {
+            "Name": "Thimphu",
+            "Coordinates": "27°28.0′N 89°38.5′E"
+        },
+        "Official Language": "Dzongkha",
+        "Religion": {
+            "Buddhism": "72.9% (official)",
+            "Hinduism": "22.6%",
+            "Bon": "3.2%",
+            "Christianity": "0.7%",
+            "Others": "0.5%"
+        },
+        "Demonym": "Bhutanese",
+        "Government": {
+            "Type": "Unitary parliamentary semi-constitutional monarchy",
+            "Druk Gyalpo": "Jigme Khesar Namgyel Wangchuck",
+            "Prime Minister": "Chogyal Dago Rigdzin"
+        },
+        "Legislature": {
+            "National Council": "Upper house",
+            "National Assembly": "Lower house"
+        },
+        "Independence": {
+            "Unification of Bhutan": "1616–1634",
+            "Wangchuck dynasty": "17 December 1907",
+            "Constitutional Monarchy": "18 July 2008"
+        },
+        "Area": "38,394 square kilometers",
+        "Population": {
+            "2021 Estimate": "777,486",
+            "2022 Census": "727,145",
+            "Density": "19.3 per square kilometer"
+        },
+        "Economy": {
+            "GDP (PPP, 2023)": {
+                "Total": "$10.969 billion",
+                "Per Capita": "$14,296"
+            },
+            "GDP (Nominal, 2023)": {
+                "Total": "$2.686 billion",
+                "Per Capita": "$3,500"
+            }
+        },
+        "Gini Coefficient": "28.5 (low)",
+        "HDI": "0.666 (medium, 127th)",
+        "Currency": {
+            "Ngultrum": "BTN",
+            "Indian Rupee": "INR"
+        },
+        "Time Zone": "UTC+06 (BTT)",
+        "Date Format": "YYYY-MM-DD",
+        "Driving Side": "left",
+        "Calling Code": "+975",
+        "ISO 3166 Code": "BT",
+        "Internet TLD": ".bt",
+        "Geography": {
+            "Region": "Eastern Himalayas",
+            "Borders": ["China", "India"],
+            "Major Cities": ["Thimphu", "Paro", "Punakha"]
+        },
+        "Membership": ["United Nations", "SAARC", "WHO"],
+        "Human Development": {
+            "Peace Index": "Most peaceful in South Asia",
+            "Climate Change Concerns": "Melting glaciers"
+        },
+        "Cultural Heritage": {
+            "Buddhism Influence": "Vajrayana school",
+            "Festivals": ["Tshechu"],
+            "National Dress": ["Gho", "Kira"]
+        },
+        "Environmental Concerns": {
+            "Hydropower Potential": "Significant",
+            "Climate Vulnerability": "Melting glaciers due to climate change"
+        }
+    }
+}
