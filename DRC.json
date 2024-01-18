@@ -1,12 +1,19 @@
 {
-  "country": "Democratic Republic of the Congo",
-  "official_name": "République démocratique du Congo",
-  "aliases": ["Congo-Kinshasa", "DRC", "DR Congo", "Congo", "Zaire"],
-  "area": {
+  "Name":{
+  "Full": "Democratic Republic of the Congo",
+  "French": "République démocratique du Congo",
+     "aliases": ["Congo-Kinshasa", "DRC", "DR Congo", "Congo", "Zaire"],
+  },
+the Republic of the Congo, Central African Republic, South Sudan, Uganda, Rwanda, Burundi, Tanzania (across Lake Tanganyika), Zambia, Angola, the Cabinda exclave of Angola and the South Atlantic Ocean.
+
+    "Location":{
+      
+    "area": {
     "total_km2": 2345409,
     "rank": 11,
     "water_percentage": 3.32
   },
+    },
   "population": {
     "estimate_2023": 111859928,
     "rank": 14,
