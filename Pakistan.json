@@ -1,6 +1,11 @@
 {
     "Pakistan": {
-        "Official Name": "Islamic Republic of Pakistan",
+        "Name": {
+        "Official": "Islamic Republic of Pakistan",
+         "Common":"Pakistan",
+        "Urdu": "اسلامی جمہوریہ پاكستان",
+        "Romanization":"Islāmī Jumhūriyah Pākistān"
+        },
         "Flag": "Described Image",
         "State Emblem": "Described Image",
         "Motto": "Faith, Unity, Discipline",
