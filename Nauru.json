@@ -1,8 +1,12 @@
 {
   "Nauru": {
     "General_Information": {
-      "Official_Name": "Republic of Nauru",
-      "Local_Name": "Repubrikin Naoero",
+        "Name":{
+        "Common": "Nauru",
+        "Official": "Republic of Nauru",
+        "Local": "Repubrikin Naoero",
+        },
+      "Type": "Micronation",
       "Flag": "Flag of Nauru",
       "Coat_of_Arms": "Coat of arms of Nauru",
       "Motto": "God's will first",
