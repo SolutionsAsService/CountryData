@@ -1,8 +1,11 @@
 {
   "Palau": {
     "General Information": {
-      "Official Name": "Republic of Palau",
-      "Local Name": "Beluu er a Palau",
+       "Name": {
+        "Common": "Palau"
+        "Official": "Republic of Palau",
+        "Local": "Beluu er a Palau",
+       },
       "Anthem": "Belau rekid",
       "National Name": "Beluu er a Belau",
       "Flag": "URL to Flag Image",
