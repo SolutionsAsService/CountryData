@@ -1,0 +1,73 @@
+{
+  "Country": "Mali",
+  "Official_Name": "Republic of Mali",
+  "Flag_URL": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
+  "Coat_of_Arms_URL": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Coat_of_arms_of_Mali.svg",
+  "Anthem": "Le Mali",
+  "Capital": "Bamako",
+  "Official_Languages": ["Bambara", "Bobo", "Bozo", "Dogon", "Fula", "Hassaniyya", "Kassonke", "Maninke", "Minyanka", "Senufo", "Songhay", "Soninke", "Tamasheq"],
+  "Working_Language": "French",
+  "Ethnic_Groups_2023": {
+    "Bambara": "33.3%",
+    "Fula": "13.3%",
+    "Soninke": "9.6%",
+    "Senufo_Bwa": "9.6%",
+    "Malinke": "8.8%",
+    "Dogon": "8.7%",
+    "Songhai": "5.9%",
+    "Tuareg": "3.5%",
+    "Bobo": "2.1%",
+    "Others": "4.5%"
+  },
+  "Religion_2021": {
+    "Islam": "95%",
+    "Others": "5%"
+  },
+  "Government_Type": "Unitary presidential republic under a military junta",
+  "Leaders": {
+    "President_Interim": "Assimi Goïta",
+    "Prime_Minister_Interim": "Choguel Kokalla Maïga"
+  },
+  "Legislature": "National Assembly",
+  "Formation_and_Independence": {
+    "Sudanese_Republic_Establishment": "24 November 1958",
+    "Mali_Federation_Merger": "4 April 1959",
+    "Independence_From_France": "20 June 1960",
+    "Mali_Federation_Dissolution": "20 August 1960",
+    "Republic_Declaration": "22 September 1960"
+  },
+  "Geographical_Details": {
+    "Total_Area": "1,241,238 km2",
+    "Population_2023": "21,359,722",
+    "Population_Density": "11.7/km2"
+  },
+  "Economic_Indicators": {
+    "GDP_PPP_2023_Total": "$61.625 billion",
+    "GDP_PPP_Per_Capita": "$2,639",
+    "GDP_Nominal_2023_Total": "$21.309 billion",
+    "GDP_Nominal_Per_Capita": "$912"
+  },
+  "Gini_Index": "33.0",
+  "HDI": "0.428",
+  "Currency": "West African CFA franc (XOF)",
+  "Time_Zone": "UTC (GMT)",
+  "ISO_3166_Code": "ML",
+  "Internet_TLD": ".ml",
+  "Cultural_Aspects": {
+    "National_Languages": ["Bambara", "Fula", "Soninke", "Tamasheq"],
+    "Major_Cities": ["Bamako", "Sikasso", "Mopti"],
+    "Cuisine": ["Jollof rice", "Maafe"],
+    "Music": ["Kora music", "Malian blues"],
+    "Art": ["Bogolanfini textiles", "Wooden sculptures"]
+  },
+  "Historical_Background": {
+    "Early_Empires": ["Ghana Empire", "Mali Empire", "Songhai Empire"],
+    "Colonial_History": "Part of French West Africa",
+    "Post-Colonial_Developments": "Independence in 1960, followed by political instability"
+  },
+  "International_Relations": {
+    "United_Nations": true,
+    "African_Union": true,
+    "Economic_Community_of_West_African_States": true
+  }
+}
