@@ -1,0 +1,100 @@
+{
+  "Country": "Liberia",
+  "Official_Name": "Republic of Liberia",
+  "Flag_URL": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+  "Coat_of_Arms_URL": "https://upload.wikimedia.org/wikipedia/commons/0/01/Coat_of_arms_of_Liberia.svg",
+  "Motto": "The Love of Liberty Brought Us Here",
+  "Anthem": "All Hail, Liberia, Hail!",
+  "Location": "West African coast",
+  "Capital": "Monrovia",
+  "Coordinates": {
+    "Latitude": "6°19′N",
+    "Longitude": "10°48′W"
+  },
+  "Official_Language": "English",
+  "Ethnic_Groups": {
+    "Kpelle": "20.3%",
+    "Bassa": "13.4%",
+    "Grebo": "10%",
+    "Dan": "8%",
+    "Mano": "7.9%",
+    "Kru": "6%",
+    "Lorma": "5.1%",
+    "Kissi": "4.8%",
+    "Gola": "4.4%",
+    "Krahn": "4%",
+    "Vai": "4%",
+    "Mandinka": "3.2%",
+    "Gbandi": "3%",
+    "Mende": "1.3%",
+    "Sapo": "1.2%",
+    "Belle": "0.8%",
+    "Dey": "0.3%",
+    "Other_Liberian": "0.6%",
+    "Other_African": "1.4%",
+    "Non_African": "0.1%"
+  },
+  "Religion": {
+    "Christianity": "85.1%",
+    "Protestantism": "76.3%",
+    "Catholicism": "7.2%",
+    "Other_Christian": "1.6%",
+    "Islam": "12.2%",
+    "No_Religion": "1.4%",
+    "Other": "1.3%"
+  },
+  "Government_Type": "Unitary presidential constitutional republic",
+  "Leaders": {
+    "President": "George Weah",
+    "Vice_President": "Jewel Taylor",
+    "House_Speaker": "Bhofal Chambers",
+    "Chief_Justice": "Sie-A-Nyene Yuoh"
+  },
+  "Legislature": {
+    "Senate": "Upper house",
+    "House_of_Representatives": "Lower house"
+  },
+  "Independence": {
+    "From_American_Colonization_Society": {
+      "Settlement": "January 7, 1822",
+      "Declared": "July 26, 1847",
+      "Republic_of_Maryland_Annexed": "March 18, 1857",
+      "US_Recognition": "February 5, 1862",
+      "UN_Membership": "November 2, 1945",
+      "Current_Constitution": "January 6, 1986"
+    }
+  },
+  "Area_sq_mi": 43000,
+  "Population": {
+    "2023_Estimate": 5506280,
+    "Density_per_sq_mi": 92.0
+  },
+  "GDP": {
+    "PPP_2023_Total_Billion": 9.718,
+    "PPP_2023_Per_Capita": 1789,
+    "Nominal_2023_Total_Billion": 4.347,
+    "Nominal_2023_Per_Capita": 800
+  },
+  "Gini_Index": 35.3,
+  "HDI": 0.481,
+  "Currency": "Liberian dollar (LRD)",
+  "Time_Zone": "UTC (GMT)",
+  "Date_Format": "mm/dd/yyyy",
+  "Driving_Side": "right",
+  "Calling_Code": "+231",
+  "ISO_3166_Code": "LR",
+  "Internet_TLD": ".lr",
+  "Official_Website": "www.emansion.gov.lr",
+  "Geographical_Features": {
+    "Borders": ["Sierra Leone", "Guinea", "Ivory Coast", "Atlantic Ocean"],
+    "Major_Cities": ["Monrovia", "Ganta", "Buchanan"],
+    "Major_Rivers": ["Saint Paul River", "Cavalla River"],
+    "Climate": "Tropical"
+  },
+  "Cultural_Aspects": {
+    "Languages": ["English", "Over 20 indigenous languages"],
+    "Ethnic_Diversity": "High",
+    "Music_And_Arts": ["Traditional music", "Dance", "Crafts"],
+    "Cuisine": ["Rice-based dishes", "Fufu", "Palm butter"]
+  }
+}
