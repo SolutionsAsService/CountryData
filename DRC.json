@@ -1,8 +1,10 @@
 {
+  "DRC":{
   "Name":{
   "Full": "Democratic Republic of the Congo",
   "French": "République démocratique du Congo",
-     "aliases": ["Congo-Kinshasa", "DRC", "DR Congo", "Congo", "Zaire"],
+  "aliases": ["Congo-Kinshasa", "DRC", "DR Congo", "Congo"],
+  "Former": "Zaire"
   },
     "Location":{
       "Border": ["Republic of the Congo", "Central African Republic", "South Sudan", "Uganda", "Rwanda", "Burundi", { "Tanzania":"across Lake Tanganyika"}, "Zambia", "Angola", "Cabinda exclave of Angola", "South Atlantic Ocean"],
@@ -10,7 +12,7 @@
     "total_km2": 2345409,
     "rank": 11,
     "water_percentage": 3.32
-  },"
+  },
     },
   "population": {
     "estimate_2023": 111859928,
@@ -79,5 +81,9 @@
     "rank": 179
   },
   "challenges": ["Political instability", "Conflict", "Human rights issues"],
-  "international_membership": ["United Nations", "African Union"]
+  "international_membership": [
+    {"United Nations": true },
+      "African Union": true }
+      ]
+}
 }
