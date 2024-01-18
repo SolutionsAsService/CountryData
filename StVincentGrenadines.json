@@ -1,0 +1,129 @@
+{
+  "Saint_Vincent_and_the_Grenadines": {
+    "General_Information": {
+      "Official_Name": "Saint Vincent and the Grenadines",
+      "Flag": "Flag of Saint Vincent and the Grenadines",
+      "Coat_of_Arms": "Coat of arms of Saint Vincent and the Grenadines",
+      "Motto": "Pax et Justitia (Latin for Peace and Justice)",
+      "Anthem": {
+        "National": {
+          "Title": "Saint Vincent, Land so Beautiful",
+          "Duration": "52 seconds"
+        },
+        "Royal": {
+          "Title": "God Save the King",
+          "Duration": "1 minute and 4 seconds"
+        }
+      },
+      "Location": "Eastern Caribbean, Lesser Antilles, West Indies",
+      "Capital_and_Largest_City": {
+        "Name": "Kingstown",
+        "Coordinates": "13°10′N 61°14′W"
+      },
+      "Official_Language": "English",
+      "Vernacular_Language": "Vincentian Creole",
+      "Ethnic_Groups_2020": {
+        "Black_African": "66%",
+        "Mixed": "19%",
+        "Indian": "6%",
+        "European": "4%",
+        "Kalinago": "2%",
+        "Others": "3%"
+      },
+      "Religion_2020": {
+        "Christianity": "88.6%",
+        "Hinduism": "3.4%",
+        "No_Religion": "2.5%",
+        "Rastafari": "1.8%",
+        "Baha'i_Faith": "1.6%",
+        "Islam": "1.5%",
+        "Other": "0.6%"
+      },
+      "Demonym": ["Vincentian", "Grenadinian", "Vincy (colloquial)"],
+      "Government_Type": "Unitary parliamentary constitutional monarchy",
+      "Monarch": "Charles III",
+      "Governor_General": "Susan Dougan",
+      "Prime_Minister": "Ralph Gonsalves",
+      "Legislature": "House of Assembly",
+      "Independence": {
+        "Associated_State": "27 October 1969",
+        "From_United_Kingdom": "27 October 1979"
+      },
+      "Area": {
+        "Total": "389 km2",
+        "Rank": "184th",
+        "Water_Percentage": "negligible"
+      },
+      "Population": {
+        "2022_Estimate": "110,872",
+        "2012_Census": "109,991",
+        "Density": "307/km2"
+      },
+      "GDP_PPP_2023_Estimate": {
+        "Total": "$2 billion",
+        "Per_Capita": "$17,840"
+      },
+      "GDP_Nominal_2023_Estimate": {
+        "Total": "$1 billion",
+        "Per_Capita": "$9,360"
+      },
+      "HDI_2021": {
+        "Score": "0.751",
+        "Rank": "89th"
+      },
+      "Currency": "E.C dollar (XCD)",
+      "Time_Zone": "UTC-4 (AST)",
+      "Driving_Side": "left",
+      "Calling_Code": "+1 784",
+      "ISO_3166_Code": "VC",
+      "Internet_TLD": ".vc",
+      "Territory": "Main island of Saint Vincent and two-thirds of the northern part of the Grenadines",
+      "Inhabited_Islands": ["Bequia", "Mustique", "Union Island", "Canouan", "Petit Saint Vincent", "Palm Island", "Mayreau", "Young Island"],
+      "Uninhabited_Islands": ["Tobago Cays", "Baliceaux", "Battowia", "Quatre", "Petite Mustique", "Savan", "Petit Nevis"],
+      "Location_in_Hurricane_Alley": true,
+      "Neighboring_Countries": {
+        "North": "Saint Lucia",
+        "East": "Barbados",
+        "South": "Grenada"
+      }
+    },
+    "Etymology": {
+      "Description": "The origin and meaning of the name 'Saint Vincent and the Grenadines'"
+    },
+    "History": {
+      "Colonial_History": "British colonial history",
+      "Membership": ["Organisation of Eastern Caribbean States", "CARICOM", "Commonwealth of Nations", "Bolivarian Alliance for the Americas", "CELAC (Community of Latin American and Caribbean States)"]
+    },
+    "Geography": {
+      "Description": "Island country in the southeast Windward Islands of the Lesser Antilles",
+      "Climate": "Tropical climate, part of Hurricane Alley"
+    },
+    "Government_and_Politics": {
+      "System": "Unitary parliamentary constitutional monarchy",
+      "International_Relations": "Participation in various regional and international organizations"
+    },
+    "Economy": {
+      "Economic_Status": {
+        "GDP_PPP": "$2 billion",
+        "GDP_Nominal": "$1 billion"
+      },
+      "Main_Industries": "Information about the primary industries and economic activities"
+    },
+    "Demographics": {
+      "Population": "Approximately 110,872",
+      "Ethnic_Composition": "Detailed breakdown of ethnic groups",
+      "Religious_Composition": "Detailed breakdown of religious affiliations"
+    },
+    "Culture": {
+      "Influences": "Cultural influences and heritage",
+      "Local_Customs": "Unique customs and traditions"
+    },
+    "Environmental_Events": {
+      "La_Soufriere_Volcano_Eruption": {
+        "Date": "April 2021",
+        "Impact": "Evacuation of 16,000 residents, international assistance",
+        "World_Bank_Funding": "$20 million announced on 13 April 2021"
+      }
+    }
+  }
+}
