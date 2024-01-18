@@ -1,0 +1,61 @@
+{
+    "Mauritania": {
+        "Official Name": "Islamic Republic of Mauritania",
+        "Arabic": "الجمهورية الإسلامية الموريتانية",
+        "Flag": "Described Image",
+        "Seal": "Described Image",
+        "Motto": "Honour, Fraternity, Justice",
+        "Anthem": "Land of the Proud, Guided by Noblemen",
+        "Capital and Largest City": "Nouakchott",
+        "Official Language": "Arabic",
+        "Recognised National Languages": ["Pulaar", "Soninke", "Wolof"],
+        "Ethnic Groups": {
+            "Haratin": "40%",
+            "Arab-Berber": "30%",
+            "Halpulaar, Fulani, Mande, and Wolof": "30%"
+        },
+        "Religion": "Sunni Islam (official)",
+        "Government": {
+            "Type": "Unitary presidential Islamic republic",
+            "President": "Mohamed Ould Ghazouani",
+            "Prime Minister": "Mohamed Ould Bilal",
+            "National Assembly President": "Mohamed Ould Meguett"
+        },
+        "Independence": {
+            "Republic Established": "28 November 1958",
+            "From France": "28 November 1960",
+            "Constitution": "12 July 1991"
+        },
+        "Area": "1,030,000 square kilometers",
+        "Population": {
+            "2023 Estimate": "4,244,878",
+            "Density": "3.4 per square kilometer"
+        },
+        "Economy": {
+            "GDP (PPP, 2023)": "$33.414 billion",
+            "Per Capita (PPP)": "$7,542",
+            "GDP (Nominal, 2023)": "$10.357 billion",
+            "Per Capita (Nominal)": "$2,337"
+        },
+        "Gini Coefficient": "32.6 (medium)",
+        "HDI": "0.556 (medium, 158th)",
+        "Currency": "Ouguiya (MRU)",
+        "Time Zone": "UTC (GMT)",
+        "Driving Side": "right",
+        "ISO 3166 Code": "MR",
+        "Internet TLD": ".mr",
+        "Historical Context": {
+            "Early Settlement": "Berber kingdom of Mauretania",
+            "Arab Conquest": "Umayyad Caliphate in 7th century",
+            "French Colonization": "Early 20th century",
+            "Independence": "1960",
+            "Recent Political History": "Military coups and dictatorship"
+        },
+        "Cultural Aspects": {
+            "Arab Identity": "Part of Arab world",
+            "Ethnic Composition": "Bidhan, Haratin, Sub-Saharan groups",
+            "Natural Resources": ["Iron ore", "Petroleum"],
+            "Human Rights Issues": "Perpetuation of slavery"
+        }
+    }
+}
