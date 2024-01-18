@@ -1,0 +1,89 @@
+{
+    "Luxembourg": {
+        "Official Name": "Grand Duchy of Luxembourg",
+        "Local Names": {
+            "Luxembourgish": "Groussherzogtum Lëtzebuerg",
+            "French": "Grand-Duché de Luxembourg",
+            "German": "Großherzogtum Luxemburg"
+        },
+        "Symbols": {
+            "Flag": "Flag of Luxembourg",
+            "Coat of Arms": "Coat of arms of Luxembourg",
+            "Motto": "Mir wëlle bleiwe wat mir sinn ('We want to remain what we are')",
+            "Anthem": "Ons Heemecht ('Our Homeland')",
+            "Royal Anthem": "De Wilhelmus"
+        },
+        "Location": {
+            "Continent": "Europe",
+            "Capital": "Luxembourg City",
+            "Coordinates": "49°48′52″N 06°07′54″E"
+        },
+        "Languages": {
+            "National Language": "Luxembourgish",
+            "Administrative Languages": ["Luxembourgish", "French", "German"]
+        },
+        "Nationality": {
+            "2023 Composition": {
+                "Luxembourgers": "52.8%",
+                "Portuguese": "14.5%",
+                "French": "7.6%",
+                "Italians": "3.7%",
+                "Others": "21.4%"
+            }
+        },
+        "Religion": {
+            "Christianity": "73.2%",
+            "Catholicism": "63.8%",
+            "Other Christian": "9.4%",
+            "No Religion": "23.4%",
+            "Other Religions": "3.2%"
+        },
+        "Government": {
+            "Type": "Unitary parliamentary constitutional monarchy",
+            "Grand Duke": "Henri",
+            "Prime Minister": "Luc Frieden",
+            "Deputy Prime Minister": "Xavier Bettel",
+            "Speaker": "Claude Wiseler",
+            "Legislature": "Chamber of Deputies"
+        },
+        "Independence and Historical Key Events": {
+            "From French Empire": "15 March 1815",
+            "Treaty of London": ["19 April 1839", "11 May 1867"],
+            "End of Personal Union with Netherlands": "23 November 1890",
+            "World War I and II": ["1 August 1914", "1944/1945"],
+            "United Nations Admission": "24 October 1945",
+            "EEC Founding": "1 January 1958"
+        },
+        "Area": {
+            "Total": "2,586.4 square kilometers",
+            "Water Percentage": "0.23%"
+        },
+        "Population": {
+            "2023 Estimate": "660,809",
+            "2021 Census": "643,941",
+            "Density": "255 per square kilometer"
+        },
+        "Economy": {
+            "GDP (PPP, 2023)": {
+                "Total": "$94.152 billion",
+                "Per Capita": "$143,303"
+            },
+            "GDP (Nominal, 2023)": {
+                "Total": "$89.095 billion",
+                "Per Capita": "$135,605"
+            },
+            "Gini Index": "32.3",
+            "HDI": "0.930"
+        },
+        "Currency": "Euro (€) (EUR)",
+        "Time Zone": "CET (UTC+1), CEST (UTC+2 in summer)",
+        "Date Format": "dd.mm.yyyy",
+        "Driving Side": "right",
+        "Calling Code": "+352",
+        "ISO 3166 Code": "LU",
+        "Internet TLD": ".lu",
+        "UNESCO World Heritage Site": "City of Luxembourg",
+        "International Memberships": ["European Union", "OECD", "United Nations", "NATO", "Benelux"],
+        "UN Security Council": "2013 and 2014"
+    }
+}
