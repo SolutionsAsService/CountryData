@@ -18,7 +18,11 @@
       "Location":{
         "General": "Micronesia, Central Pacific",
         "nearest neighbour": {"Banaba of Kiribati": { "Distance": "300 km (190 mi)", "Direction": "east" }},
-        "northwest": "Tuvalu":{ 1,300 km (810 mi) northeast of the Solomon Islands,[14] east-northeast of Papua New Guinea, southeast of the Federated States of Micronesia and south of the Marshall Islands. 
+        "northwest": "Tuvalu":{ "Distance":"1,300 km (810 mi)", "Direction": "northwest"
+        "northeast": "Solomon Islands",
+        "east-northeast": "Papua New Guinea", 
+        "southeast": "Federated States of Micronesia",
+        "south" "Marshall Islands",
       "Capital": {
         "Name": "Yaren",
         "Coordinates": "0°31′39″S 166°56′06″E"
