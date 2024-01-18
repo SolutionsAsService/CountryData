@@ -1,8 +1,12 @@
 {
   "Gabon": {
     "General_Information": {
-      "Official_Name": "Gabonese Republic",
-      "French_Name": "République gabonaise",
+      "Name": {
+         "Common": "Gabon",
+         "Official": "Gabonese Republic",
+         "French": "République gabonaise",
+         "Sangu": "Ngabu"
+      },
       "Flag": "Flag of Gabon",
       "Coat_of_Arms": "Coat of arms of Gabon",
       "Motto": "Union, Travail, Justice (Union, Work, Justice)",
