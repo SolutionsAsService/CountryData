@@ -1,0 +1,79 @@
+{
+    "Spain": {
+        "Official Names": {
+            "English": "Kingdom of Spain",
+            "Spanish": "Reino de España"
+        },
+        "Flag": "Described Image",
+        "Coat of Arms": "Described Image",
+        "Motto": "Plus ultra ('Further Beyond')",
+        "Anthem": "Marcha Real ('Royal March')",
+        "Capital": "Madrid",
+        "Official Language": "Spanish",
+        "Nationality": {
+            "Spanish": "87.1%",
+            "Foreigners": "12.9%"
+        },
+        "Religion": {
+            "Roman Catholicism": "56.0%",
+            "Non-practicing Catholic": "37.5%",
+            "Atheist": "14.9%",
+            "Agnostic": "12.6%",
+            "Indifferent or No Religion": "12.3%",
+            "Other Religion": "2.7%"
+        },
+        "Demonym": "Spaniard, Spanish",
+        "Government": {
+            "Type": "Unitary parliamentary constitutional monarchy",
+            "Monarch": "Felipe VI",
+            "Prime Minister": "Pedro Sánchez"
+        },
+        "Legislature": {
+            "Upper House": "Senate",
+            "Lower House": "Congress of Deputies"
+        },
+        "Independence and Formation": {
+            "Dynastic Union": "20 January 1479",
+            "Sole Sovereign": "14 March 1516",
+            "Centralized State": "9 June 1715",
+            "First Constitution": "19 March 1812",
+            "Current Constitution": "29 December 1978",
+            "EEC Accession": "1 January 1986"
+        },
+        "Area": "505,994 square kilometers",
+        "Population": {
+            "2023 Estimate": "48,446,594",
+            "Density": "94 per square kilometer"
+        },
+        "Economy": {
+            "GDP (PPP, 2023)": "$2.413 trillion",
+            "Per Capita GDP (PPP)": "$50,471",
+            "GDP (Nominal, 2023)": "$1.582 trillion",
+            "Per Capita GDP (Nominal)": "$33,090"
+        },
+        "Gini Coefficient": "32.0 (medium)",
+        "HDI": "0.905 (very high, 27th)",
+        "Currency": "Euro (€) (EUR)",
+        "Time Zone": "UTC±0 to +1 (WET and CET)",
+        "Driving Side": "right",
+        "Calling Code": "+34",
+        "ISO 3166 Code": "ES",
+        "Internet TLD": ".es",
+        "Geographical Features": {
+            "Location": "Southwestern Europe",
+            "Borders": ["France", "Andorra", "Bay of Biscay", "Mediterranean Sea", "Gibraltar", "Portugal"],
+            "Territories": ["Canary Islands", "Balearic Islands", "Ceuta", "Melilla"]
+        },
+        "Historical Context": {
+            "Early Inhabitants": ["Iberian and Celtic tribes"],
+            "Roman and Islamic Rule": ["Hispania", "Umayyad Caliphate", "Al-Andalus"],
+            "Reconquista and Unification": ["Catholic Monarchs", "1492 Granada conquest"]
+        },
+        "Cultural Aspects": {
+            "Influence": ["Age of Discovery", "Spanish Empire", "Siglo de Oro"],
+            "Language": "Spanish (2nd most spoken native language worldwide)",
+            "UNESCO World Heritage": "Numerous sites",
+            "Cuisine and Arts": "Influential globally"
+        }
+    }
+}
