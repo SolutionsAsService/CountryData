@@ -1,0 +1,80 @@
+{
+    "Afghanistan": {
+        "Official Name": "Islamic Emirate of Afghanistan",
+        "Native Names": {
+            "Pashto": "د افغانستان اسلامي امارت",
+            "Dari": "امارت اسلامی افغانستان"
+        },
+        "Symbols": {
+            "Flag": "Flag of Afghanistan",
+            "Coat of Arms": "Emblem of the Islamic Emirate",
+            "Motto": "لا إله إلا الله، محمد رسول الله ('There is no god but God; Muhammad is the messenger of God.')",
+            "Anthem": "دا د باتورانو کور ('This Is the Home of the Brave')"
+        },
+        "Location": {
+            "Region": "Crossroads of Central Asia and South Asia",
+            "Borders": ["Pakistan", "Iran", "Turkmenistan", "Uzbekistan", "Tajikistan", "China"],
+            "Capital": "Kabul"
+        },
+        "Languages and Ethnic Groups": {
+            "Official Languages": ["Pashto", "Dari"],
+            "Ethnic Groups (2019 estimates)": {
+                "Pashtun": "42%",
+                "Tajik": "27%",
+                "Hazara": "9%",
+                "Uzbek": "9%",
+                "Others": "13%"
+            }
+        },
+        "Religion": {
+            "Primary": "Islam (99.7%)",
+            "Minorities": "0.3% others"
+        },
+        "Government": {
+            "Type": "Unitary totalitarian provisional theocratic Islamic emirate",
+            "Supreme Leader": "Hibatullah Akhundzada",
+            "Prime Minister": "Hasan Akhund (acting)"
+        },
+        "Historical Periods": {
+            "Hotak Dynasty": "1709–1738",
+            "Durrani Empire": "1747–1823",
+            "Modern State Formation": "19th-20th Century",
+            "Recent History": "Soviet Invasion, Civil War, Taliban Rule, US Invasion, and Current Taliban Rule"
+        },
+        "Geography": {
+            "Total Area": "652,867 square kilometers",
+            "Terrain": "Mountainous with plains in north and southwest",
+            "Climate": "Mostly arid to semi-arid"
+        },
+        "Population": {
+            "2023 Estimate": "39,232,003",
+            "Density": "48.08 per square kilometer"
+        },
+        "Economy": {
+            "GDP (PPP) 2020 Estimate": {
+                "Total": "$81.007 billion",
+                "Per Capita": "$2,459"
+            },
+            "GDP (Nominal) 2020 Estimate": {
+                "Total": "$20.136 billion",
+                "Per Capita": "$611"
+            },
+            "Natural Resources": ["Lithium", "Iron", "Zinc", "Copper"],
+            "Agricultural Products": ["Cannabis resin", "Saffron", "Cashmere"]
+        },
+        "Currency": "Afghani (AFN)",
+        "International Relations": {
+            "UN Membership": "Member state",
+            "Regional Associations": ["SAARC", "OIC"]
+        },
+        "Social Issues": {
+            "Challenges": ["Terrorism", "Poverty", "Child malnutrition"],
+            "Human Development Index": "180th"
+        },
+        "Cultural Aspects": {
+            "Heritage": "Rich in history with diverse cultural influences",
+            "Languages": "Pashto, Dari, and minor languages",
+            "Religious Influence": "Predominantly Islamic"
+        }
+    }
+}
