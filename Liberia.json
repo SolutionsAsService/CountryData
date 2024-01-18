@@ -1,18 +1,24 @@
 {
-  "Country": "Liberia",
-  "Official_Name": "Republic of Liberia",
+  "Liberia": {
+     "Name": {
+  "Common": "Liberia",
+  "Officia": "Republic of Liberia",
+     },
   "Flag_URL": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
   "Coat_of_Arms_URL": "https://upload.wikimedia.org/wikipedia/commons/0/01/Coat_of_arms_of_Liberia.svg",
   "Motto": "The Love of Liberty Brought Us Here",
   "Anthem": "All Hail, Liberia, Hail!",
-  "Location": "West African coast",
-  "Capital": "Monrovia",
+      "Capital": "Monrovia",
+  "Location": {
+    "General": "West African coast",
+     "Borders": ["Sierra Leone", "Guinea", "Ivory Coast", "Atlantic Ocean"],
   "Coordinates": {
     "Latitude": "6°19′N",
     "Longitude": "10°48′W"
+  }
   },
   "Official_Language": "English",
-  "Ethnic_Groups": {
+  "Ethnic": {
     "Kpelle": "20.3%",
     "Bassa": "13.4%",
     "Grebo": "10%",
@@ -86,7 +92,6 @@
   "Internet_TLD": ".lr",
   "Official_Website": "www.emansion.gov.lr",
   "Geographical_Features": {
-    "Borders": ["Sierra Leone", "Guinea", "Ivory Coast", "Atlantic Ocean"],
     "Major_Cities": ["Monrovia", "Ganta", "Buchanan"],
     "Major_Rivers": ["Saint Paul River", "Cavalla River"],
     "Climate": "Tropical"
@@ -97,4 +102,5 @@
     "Music_And_Arts": ["Traditional music", "Dance", "Crafts"],
     "Cuisine": ["Rice-based dishes", "Fufu", "Palm butter"]
   }
+}
 }
