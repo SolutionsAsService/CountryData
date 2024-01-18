@@ -19,8 +19,8 @@
         "several smaller, uninhabited islands": ["Aleipata Islands": ["Nu'utele", "Nu'ulua", "Fanuatapu", "Namua"],
          "American Samoa": { "Distance": "64 km (40 mi)", "Direction": "west" },
           "Tonga": {"Distance": "889 km (552 mi)", "Direction": "northeast" },
-          "Fiji": 1,152 km (716 mi) northeast  
-          "Wallis and Futuna": 483 km (300 mi) east of , 
+          "Fiji": {"Distance": "1,152 km (716 mi)", "Direction": "northeast" }, 
+          "Wallis and Futuna": {"Distance": "483 km (300 mi)", "Direction": "east"}, 
           "Tuvalu": 1,151 km (715 mi) southeast ,
           "Tokelau": 519 km (322 mi) south , 
           "Hawaii": 4,190 km (2,600 mi) southwest,
