@@ -1,0 +1,99 @@
+{
+    "Benin": {
+        "Official Names": {
+            "Local": "République du Bénin",
+            "Former Name": "Dahomey"
+        },
+        "Symbols": {
+            "Flag": "Flag of Benin",
+            "Coat of Arms": "Coat of arms of Benin",
+            "Motto": "Fraternité, Justice, Travail (Fraternity, Justice, Labour)",
+            "Anthem": {
+                "Title": "L'Aube nouvelle",
+                "English Translation": "The Dawn of a New Day",
+                "Duration": "1 minute and 8 seconds"
+            }
+        },
+        "Location": {
+            "Region": "West Africa",
+            "Borders": {
+                "Togo": "West",
+                "Nigeria": "East",
+                "Burkina Faso": "North-west",
+                "Niger": "North-east"
+            },
+            "Capital": "Porto-Novo",
+            "Largest City": "Cotonou",
+            "Coordinates": "6°28′N 2°36′E"
+        },
+        "Demographics": {
+            "Population": {
+                "2022 Estimate": "13,754,688",
+                "Density": "94.8 per km2"
+            },
+            "Ethnic Groups (2020)": {
+                "Fon": "38.4%",
+                "Adja & Mina": "15.1%",
+                "Yoruba": "12%",
+                "Bariba": "9.6%",
+                "Fula": "8.6%",
+                "Others": "See full list"
+            },
+            "Religion (2020)": {
+                "Christianity": "52.2%",
+                "Islam": "24.6%",
+                "Traditional Faiths": "17.9%",
+                "No Religion": "5.2%",
+                "Others": "0.1%"
+            },
+            "Languages": {
+                "Official": "French",
+                "National": "See full list"
+            }
+        },
+        "Government": {
+            "Type": "Unitary presidential republic",
+            "President": "Patrice Talon",
+            "Vice President": "Mariam Chabi Talata",
+            "Legislature": "National Assembly",
+            "Independence from France": "1 August 1960"
+        },
+        "Geography": {
+            "Total Area": "114,763 square kilometers",
+            "Coastline": "Bight of Benin, Gulf of Guinea"
+        },
+        "Economy": {
+            "GDP (PPP) 2023 Estimate": {
+                "Total": "$59.241 billion",
+                "Per Capita": "$4,305"
+            },
+            "GDP (Nominal) 2023 Estimate": {
+                "Total": "$19.940 billion",
+                "Per Capita": "$1,449"
+            },
+            "Gini Index (2015)": "47.8",
+            "HDI (2021)": "0.525",
+            "Currency": "West African CFA franc (XOF)"
+        },
+        "Culture": {
+            "Cultural Diversity": true,
+            "Languages": ["French", "Fon", "Bariba", "Yoruba", "Dendi"],
+            "Religious Practices": ["Christianity", "Islam", "Traditional faiths"]
+        },
+        "International Relations": {
+            "UN Membership": true,
+            "African Union": "Member",
+            "ECOWAS": "Member",
+            "OIC": "Member",
+            "Francophonie": "Member"
+        },
+        "Historical Overview": {
+            "Kingdom of Dahomey": "17th to 19th century",
+            "Colonial Era": "French Dahomey",
+            "Independence": "1960",
+            "People's Republic": "1975 to 1990"
+        },
+        "Administrative Divisions": "Information not provided",
+        "Transport": "Information not provided"
+    }
+}
