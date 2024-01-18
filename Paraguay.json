@@ -1,6 +1,13 @@
 {
-  "Country": "Republic of Paraguay",
+  "Paraguay": {
+    "Name":{
+       "Full": "Republic of Paraguay",
+       "Spanish": "República del Paraguay",
+       "Guarani":"Paraguái Tavakuairetã"
+    },
   "Capital": "Asunción",
+  "Location": {
+    
   "Coordinates": {
     "Latitude": "25°16′S",
     "Longitude": "57°40′W"
