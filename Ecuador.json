@@ -1,10 +1,12 @@
 {
   "Ecuador": {
     "General_Information": {
-      "Official_Name": "Republic of Ecuador",
-      "Spanish_Name": "República del Ecuador",
-      "Quechua_Name": "Ikwayur Ripuwlika",
-      "Shuar_Name": "Ekuatur Nunka",
+        "Name": {
+       "Official": "Republic of Ecuador",
+       "Spanish": "República del Ecuador",
+       "Quechua": "Ikwayur Ripuwlika",
+       "Shuar": "Ekuatur Nunka"
+        },
       "Flag": "Flag of Ecuador",
       "Coat_of_Arms": "Coat of arms of Ecuador",
       "Motto": {
@@ -22,6 +24,7 @@
         "Coordinates": "00°13′12″S 78°30′43″W"
       },
       "Largest_City": "Guayaquil",
+      
       "Official_Languages": "Spanish",
       "Recognized_Regional_Languages": ["Kichwa (Quechua)", "Shuar and others"],
       "Ethnic_Groups_2022": {
