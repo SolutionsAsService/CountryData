@@ -14,7 +14,15 @@
   "Capital": "Astana",
   "Largest_City": "Almaty",
     "Location":{
-
+      landlocked 
+    "Region": ["Central Asia", "small part in Eastern Europe"],
+    "border":{
+      "Russia":[ "north","west"],
+      "China": "east", 
+      "Kyrgyzstan": "southeast",
+      "Uzbekistan": "south", 
+      "Turkmenistan": "southwest",
+      "coastline": "Caspian Sea."
     },
   "Official_Languages": ["Kazakh", "Russian"],
   "Ethnic_Groups_2023": {
