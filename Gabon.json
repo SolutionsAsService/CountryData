@@ -1,0 +1,118 @@
+{
+  "Gabon": {
+    "General_Information": {
+      "Official_Name": "Gabonese Republic",
+      "French_Name": "République gabonaise",
+      "Flag": "Flag of Gabon",
+      "Coat_of_Arms": "Coat of arms of Gabon",
+      "Motto": "Union, Travail, Justice (Union, Work, Justice)",
+      "Anthem": {
+        "Title": "La Concorde",
+        "Translation": "The Concord",
+        "Duration": "1 minute and 45 seconds"
+      },
+      "Capital_and_Largest_City": {
+        "Name": "Libreville",
+        "Coordinates": "0°23′N 9°27′E"
+      },
+      "Official_Language": "French",
+      "Regional_Languages": ["Fang", "Mbete", "Myene", "Nzebi", "Punu", "Teke", "Vili"],
+      "Ethnic_Groups": {
+        "Fang": "Punu",
+        "Nzebi": "Teke",
+        "Myene": "Kota",
+        "Vili": "Mbama",
+        "Other": "42 others"
+      },
+      "Religion_2020": {
+        "Christianity": "75.6%",
+        "Islam": "12.2%",
+        "No_Religion": "5.9%",
+        "Traditional_Faiths": "5.7%",
+        "Others": "0.6%"
+      },
+      "Demonym": ["Gabonese", "Gabonaise"],
+      "Government_Type": "Unitary presidential republic under a military junta",
+      "Leaders": {
+        "Transitional_President": "Brice Oligui Nguema",
+        "Transitional_Vice_President": "Joseph Owondault Berre",
+        "Interim_Prime_Minister": "Raymond Ndong Sima"
+      },
+      "Legislature": "Parliament of Gabon (suspended)",
+      "Independence_from_France": {
+        "Republic_Established": "28 November 1958",
+        "Granted": "16–17 August 1960",
+        "2023_Coup_d'état": "30 August 2023"
+      },
+      "Area": {
+        "Total": "267,668 km2",
+        "Water_Percentage": "3.76%"
+      },
+      "Population_2023": {
+        "Estimate": "2,397,368",
+        "Density": "7.9/km2"
+      },
+      "GDP_PPP_2023_Estimate": {
+        "Total": "$41.922 billion",
+        "Per_Capita": "$19,165"
+      },
+      "GDP_Nominal_2023_Estimate": {
+        "Total": "$19.319 billion",
+        "Per_Capita": "$8,831"
+      },
+      "Gini_2017": "38 medium",
+      "HDI_2021": {
+        "Score": "0.706",
+        "Rank": "112th"
+      },
+      "Currency": "Central African CFA franc (XAF)",
+      "Time_Zone": "UTC+1 (WAT)",
+      "Date_Format": "dd/mm/yyyy",
+      "Driving_Side": "right",
+      "Calling_Code": "+241",
+      "ISO_3166_Code": "GA",
+      "Internet_TLD": ".ga",
+      "Location": "Central Africa, on the equator",
+      "Borders": {
+        "Northwest": "Equatorial Guinea",
+        "North": "Cameroon",
+        "East_South": "Republic of the Congo",
+        "West": "Gulf of Guinea"
+      }
+    },
+    "History": {
+      "Early_Inhabitants": "Pygmy peoples",
+      "Bantu_Migration": "Settled in the 14th century",
+      "Colonial_History": "French colony until independence in 1960"
+    },
+    "Politics": {
+      "System": "Unitary presidential republic",
+      "Party_Dominance": "Gabonese Democratic Party (PDG)"
+    },
+    "Geography": {
+      "Description": "Coastal plains, mountains, savanna",
+      "Major_Features": ["Cristal Mountains", "Chaillu Massif"]
+    },
+    "Economy": {
+      "Status": "Developing country",
+      "Income_Inequality": "Large parts of the population are very poor",
+      "Economic_Drivers": ["Petroleum", "Foreign private investment"]
+    },
+    "Energy": {
+      "Description": "Details of Gabon's energy sector"
+    },
+    "Transport": {
+      "Infrastructure": "Details of transportation networks in Gabon"
+    },
+    "Demographics": {
+      "Population_Composition": "Bantu ethnic groups, diverse minorities",
+      "Language": "French as the official language, Bantu languages widely spoken"
+    },
+    "Culture": {
+      "Influences": "Blend of indigenous, French, and African cultures"
+    },
+    "Wildlife_of_Gabon": {
+      "Biodiversity": "Details of endemic species and conservation efforts"
+    }
+  }
+}
