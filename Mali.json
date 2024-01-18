@@ -15,12 +15,12 @@
   "Capital": "Bamako",
     "Location":{
       "General": "West Africa",
-      "border":{ 
+      "Border":{ 
         "north": "Algeria", 
         "east": "Niger", 
         "northwest": "Mauritania",
         "south": ["Burkina Faso", "Côte d'Ivoire" ]
-        "west" by Guinea and Senegal
+        "west": ["Guinea", "Senegal"]
     },
   "Official_Languages": ["Bambara", "Bobo", "Bozo", "Dogon", "Fula", "Hassaniyya", "Kassonke", "Maninke", "Minyanka", "Senufo", "Songhay", "Soninke", "Tamasheq"],
   "Working_Language": "French",
