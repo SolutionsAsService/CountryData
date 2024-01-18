@@ -1,0 +1,111 @@
+{
+  "Nauru": {
+    "General_Information": {
+      "Official_Name": "Republic of Nauru",
+      "Local_Name": "Repubrikin Naoero",
+      "Flag": "Flag of Nauru",
+      "Coat_of_Arms": "Coat of arms of Nauru",
+      "Motto": "God's will first",
+      "Anthem": {
+        "Title": "Nauru Bwiema",
+        "Translation": "Nauru, our homeland",
+        "Duration": "1 minute and 19 seconds"
+      },
+      "Location": "Micronesia, Central Pacific",
+      "Capital": {
+        "Name": "Yaren",
+        "Coordinates": "0°31′39″S 166°56′06″E"
+      },
+      "Largest_City": "Denigomodu",
+      "Official_Languages": ["Nauruan", "English"],
+      "Demonym": "Nauruan",
+      "Government_Type": "Unitary parliamentary republic with an executive presidency under a non-partisan democracy",
+      "President": "David Adeang",
+      "Speaker_of_Parliament": "Marcus Stephen",
+      "Independence_Date": "31 January 1968",
+      "Area": {
+        "Total": "21 km2",
+        "Rank": "193rd",
+        "Water_Percentage": "0.57"
+      },
+      "Population": {
+        "2020_Estimate": "10,834",
+        "2011_Census": "10,084",
+        "Density": "480/km2"
+      },
+      "GDP_PPP": {
+        "2021_Estimate": {
+          "Total": "$132 million",
+          "Per_Capita": "$9,995"
+        }
+      },
+      "GDP_Nominal": {
+        "2021_Estimate": {
+          "Total": "$133 million",
+          "Per_Capita": "$10,125"
+        }
+      },
+      "Currency": "Australian dollar (AUD)",
+      "Time_Zone": "UTC+12",
+      "Driving_Side": "left",
+      "Calling_Code": "+674",
+      "ISO_3166_Code": "NR",
+      "Internet_TLD": ".nr",
+      "Settlement_History": "Settled by people from Micronesia circa 1000 BCE"
+    },
+    "History": {
+      "Colonial_Period": "Annexed by the German Empire in the late 19th century",
+      "Post_World_War_I": "League of Nations mandate administered by Australia, New Zealand, and the United Kingdom",
+      "World_War_II": "Occupied by Japanese troops",
+      "Post_World_War_II": "Entered into United Nations trusteeship",
+      "Independence": "Gained in 1968"
+    },
+    "Geography": {
+      "Description": "Island country and microstate in Oceania",
+      "Nearest_Neighbour": "Banaba of Kiribati",
+      "Geographical_Position": {
+        "Northwest_of": "Tuvalu",
+        "Northeast_of": "Solomon Islands",
+        "East_Northeast_of": "Papua New Guinea",
+        "Southeast_of": "Federated States of Micronesia",
+        "South_of": "Marshall Islands"
+      }
+    },
+    "Politics": {
+      "Government_System": "Unitary parliamentary republic with an executive presidency",
+      "Political_Status": "Non-partisan democracy",
+      "International_Relations": "Member of the United Nations, Commonwealth of Nations, Organization of African, Caribbean, and Pacific States"
+    },
+    "Economy": {
+      "Main_Industry": "Phosphate-rock mining",
+      "Economic_Challenges": "Resource curse, exhaustion of phosphate reserves",
+      "Economic_Aid": "Dependence on Australian aid"
+    },
+    "Demographics": {
+      "Population_Size": "Approximately 10,800",
+      "Ranking": "World's third-smallest population"
+    },
+    "Culture": {
+      "Influences": "Micronesian heritage",
+      "Local_Customs": "Unique customs and traditions of Nauruan people"
+    },
+    "Public_Services": {
+      "Healthcare": "Local healthcare facilities and services",
+      "Education": "Schools and educational institutions"
+    },
+    "Transport": {
+      "Modes_of_Transport": "Road, air, and sea transport facilities"
+    },
+    "Resources": {
+      "Primary_Resource": "Phosphate rock",
+      "Mining_History": "Over a century of strip mining operations"
+    },
+    "Environmental_Impact": {
+      "Damage": "Severe harm to the environment due to phosphate mining"
+    },
+    "Asylum_Seeker_Detention_Centre": {
+      "Establishment": "Hosts the Nauru Regional Processing Centre",
+      "Controversy": "Controversial offshore Australian immigration detention facility"
+    }
+  }
+}
