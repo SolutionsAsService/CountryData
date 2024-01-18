@@ -1,0 +1,80 @@
+{
+  "Madagascar": {
+    "General Information": {
+      "Official Name": "Republic of Madagascar",
+      "Local Names": ["Repoblikan'i Madagasikara (Malagasy)", "République de Madagascar (French)"],
+      "Motto": {
+        "Malagasy": "Fitiavana, Tanindrazana, Fandrosoana",
+        "French": "Amour, Patrie, Progrès",
+        "English": "Love, Fatherland, Progress"
+      },
+      "Anthem": "Ry Tanindrazanay malala ô!",
+      "Capital and Largest City": "Antananarivo",
+      "Coordinates": "18°55′S 47°31′E",
+      "Official Languages": ["Malagasy", "French"],
+      "Currency": "Ariary (MGA)",
+      "Time Zone": "UTC+3",
+      "Date Format": "dd/mm/yyyy",
+      "Driving Side": "right",
+      "Calling Code": "+261",
+      "ISO 3166 Code": "MG",
+      "Internet TLD": ".mg"
+    },
+    "Geography": {
+      "Location": "Southeastern coast of Africa",
+      "Area": "587,041 sq km",
+      "Climate": "Subtropical to tropical maritime",
+      "Topography": "Low-lying coastal area, central plateau"
+    },
+    "History": {
+      "Settlement": "First settled by Austronesian peoples",
+      "Kingdoms": ["Kingdom of Madagascar", "French Colony", "Independence from France on 26 June 1960"],
+      "Historical Events": [
+        "First European sighting by Captain Diago Diaz in 1500",
+        "Deposition of Ranavalona III in 1897"
+      ]
+    },
+    "Government": {
+      "Type": "Unitary semi-presidential republic",
+      "President": "Andry Rajoelina",
+      "Prime Minister": "Christian Ntsay",
+      "Legislature": {
+        "Upper House": "Senate",
+        "Lower House": "National Assembly"
+      },
+      "Independence Day": "26 June"
+    },
+    "Economy": {
+      "GDP (PPP) 2023": "$56.754 billion",
+      "GDP (Nominal) 2023": "$15.763 billion",
+      "Gini (2012)": "42.6",
+      "HDI (2021)": "0.501"
+    },
+    "Demographics": {
+      "Population Estimate 2023": "28,812,195",
+      "Ethnic Groups": [
+        "26% Merina",
+        "15% Betsimisaraka",
+        "12% Betsileo",
+        "7% Tsimihety",
+        "6% Sakalava",
+        "5% Antaisaka",
+        "5% Antandroy",
+        "24% others"
+      ],
+      "Religions": {
+        "Christianity": "84.7%",
+        "Protestantism": "45.8%",
+        "Catholicism": "38.1%",
+        "Traditional Faiths": "4.7%",
+        "Islam": "3.1%"
+      }
+    },
+    "Culture": {
+      "Garment": "Lamba",
+      "National Animal": "Ring-tailed lemur",
+      "National Dish": "Romazava",
+      "Highest Mountain": "Maromokotro, 2876 meters"
+    }
+  }
+}
