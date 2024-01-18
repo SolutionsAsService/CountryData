@@ -1,0 +1,102 @@
+{
+    "Niger": {
+        "Official Names": {
+            "Local": "République du Niger",
+            "English": "Republic of the Niger"
+        },
+        "Symbols": {
+            "Flag": "Flag of Niger",
+            "Coat of Arms": "Coat of arms of Niger",
+            "Motto": "Fraternité, Travail, Progrès (Fraternity, Work, Progress)",
+            "Anthem": {
+                "Title": "L'Honneur de la Patrie",
+                "English Translation": "The Honour of the Fatherland",
+                "Duration": "0 seconds"
+            }
+        },
+        "Location": {
+            "Region": "West Africa",
+            "Borders": {
+                "Libya": "Northeast",
+                "Chad": "East",
+                "Nigeria": "South",
+                "Benin": "Southwest",
+                "Burkina Faso": "Southwest",
+                "Mali": "West",
+                "Algeria": "Northwest"
+            },
+            "Capital and Largest City": "Niamey",
+            "Coordinates": "13°32′N 2°05′E"
+        },
+        "Demographics": {
+            "Population": {
+                "2023 Estimate": "25,396,840",
+                "Density": "12.1 per km2"
+            },
+            "Ethnic Groups (2021)": {
+                "Hausa": "53.1%",
+                "Zarma & Songhay": "21.2%",
+                "Tuareg": "11.0%",
+                "Fulani": "6.5%",
+                "Kanuri": "5.9%",
+                "Others": "See full list"
+            },
+            "Religion (2012)": {
+                "Islam": "99.3%",
+                "Christianity": "0.3%",
+                "Animism": "0.2%",
+                "Irreligion": "0.1%"
+            },
+            "Languages": {
+                "Official": "French",
+                "National": "See full list"
+            }
+        },
+        "Government": {
+            "Type": "Unitary republic under a military junta",
+            "CNSP President": "Abdourahamane Tchiani",
+            "CNSP Vice President": "Salifou Modi",
+            "Prime Minister": "Ali Lamine Zeine",
+            "Legislature": "National Council for the Safeguard of the Homeland",
+            "Independence from France": "3 August 1960",
+            "2023 Coup d'état": "26 July 2023"
+        },
+        "Geography": {
+            "Total Area": "1,267,000 square kilometers",
+            "Landlocked": true,
+            "Sahara Desert": "Over 80% of land"
+        },
+        "Economy": {
+            "GDP (PPP) 2023 Estimate": {
+                "Total": "$42.739 billion",
+                "Per Capita": "$1,579"
+            },
+            "GDP (Nominal) 2023 Estimate": {
+                "Total": "$17.073 billion",
+                "Per Capita": "$630"
+            },
+            "Gini Index (2014)": "34.0",
+            "HDI (2021)": "0.400",
+            "Currency": "West African CFA franc (XOF)",
+            "Economic Challenges": ["Landlocked position", "Desert terrain", "Low literacy rate", "Insurgencies", "High fertility rates"]
+        },
+        "Culture": {
+            "Ethnic Diversity": true,
+            "Official Language": "French",
+            "National Languages": "See full list"
+        },
+        "International Relations": {
+            "UN Membership": true,
+            "African Union": "Member",
+            "ECOWAS": true
+        },
+        "Historical Overview": {
+            "Pre-colonial States": ["Kanem–Bornu Empire", "Mali Empire", "Sultanate of Agadez", "Songhai Empire"],
+            "Colonial Era": "Part of French West Africa",
+            "Post-independence": "Periods of military rule and coups",
+            "Recent Constitution": "Enacted in 2010"
+        },
+        "Education": "Information not provided",
+        "Transport": "Information not provided"
+    }
+}
