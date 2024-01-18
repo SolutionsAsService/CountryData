@@ -1,0 +1,105 @@
+{
+  "Palau": {
+    "General Information": {
+      "Official Name": "Republic of Palau",
+      "Local Name": "Beluu er a Palau",
+      "Anthem": "Belau rekid",
+      "National Name": "Beluu er a Belau",
+      "Flag": "URL to Flag Image",
+      "Seal": "URL to Seal Image",
+      "Capital": "Ngerulmud",
+      "Largest City": "Koror",
+      "Coordinates": {
+        "Capital": "7°30′N 134°37′E",
+        "Largest City": "7°20′N 134°29′E"
+      },
+      "Official Languages": ["Palauan", "English"],
+      "Recognized Regional Languages": ["Japanese", "Sonsorolese", "Tobian"],
+      "Area": "459 square kilometers",
+      "Population": {
+        "2021 Estimate": "18,024",
+        "2020 Census": "17,614"
+      },
+      "Government Type": "Presidential republic in free association with the US",
+      "Demonym": "Palauan",
+      "Independence": {
+        "From the United States": "1 October 1994",
+        "Constitution Adopted": "2 April 1979"
+      },
+      "Time Zone": "UTC+9",
+      "Currency": "United States Dollar (USD)",
+      "Internet TLD": ".pw",
+      "Calling Code": "+680",
+      "ISO 3166 Code": "PW",
+      "Driving Side": "right",
+      "Date Format": "DD-MM-YYYY"
+    },
+    "Etymology": {
+      "Local Name": "Belau",
+      "Derived From": "Palauan word for 'village', beluu",
+      "Alternate Names": ["Los Palaos", "Pelew Islands"]
+    },
+    "History": {
+      "First Settlement": "Around 2,000 years ago",
+      "Matrilineal Society": "Established by A.D. 600",
+      "European Contact": "First conscious discovery in December 1696",
+      "Colonial History": [
+        "Part of Spanish East Indies in 1885",
+        "Sold to Germany in 1899",
+        "Japanese-ruled South Seas Mandate after WWI"
+      ],
+      "Independence": "Gained in 1994"
+    },
+    "Politics and Government": {
+      "Political System": "Presidential republic",
+      "President": "Surangel Whipps Jr.",
+      "Vice President": "Uduch Sengebau Senior",
+      "Legislature": "Palau National Congress",
+      "Judiciary": {
+        "Supreme Court": {},
+        "National Court": {},
+        "Court of Common Pleas": {}
+      },
+      "Military": {
+        "Defense": "Responsibility of the United States",
+        "Compact of Free Association": "50 years"
+      }
+    },
+    "Geography": {
+      "Location": "Micronesia, western Pacific Ocean",
+      "Islands Count": "Approximately 340",
+      "Climate": "Tropical, hot and humid"
+    },
+    "Economy": {
+      "GDP (PPP) 2018": {
+        "Total": "$300 million",
+        "Per Capita": "$16,296"
+      },
+      "GDP (Nominal) 2018": {
+        "Total": "$322 million",
+        "Per Capita": "$17,438"
+      },
+      "HDI (2021)": "0.767 (high)",
+      "Main Industries": ["Tourism", "Subsistence agriculture", "Fishing"],
+      "Foreign Aid": "Significant part of GNP"
+    },
+    "Demographics": {
+      "Ethnic Groups": {
+        "Palauan": "65.2%",
+        "Asian": "31.6%",
+        "Carolinian": "1.2%",
+        "European": "1.0%"
+      },
+      "Religions": {
+        "Christianity": "78.7%",
+        "No Religion": "10.1%",
+        "Modekngei": "5.1%",
+        "Islam": "4.9%"
+      }
+    },
+    "Culture": {
+      "Influences": ["Micronesian", "Melanesian", "Asian", "Western"],
+      "Descent": ["Micronesian", "Melanesian", "Austronesian"]
+    }
+  }
+}
