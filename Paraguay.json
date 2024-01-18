@@ -1,0 +1,88 @@
+{
+  "Country": "Republic of Paraguay",
+  "Capital": "Asunción",
+  "Coordinates": {
+    "Latitude": "25°16′S",
+    "Longitude": "57°40′W"
+  },
+  "Area": "406,752 km2",
+  "Population": {
+    "2022 Census": "6,109,644",
+    "Density": "15/km2"
+  },
+  "Official Languages": ["Spanish", "Guarani"],
+  "Religion": {
+    "Christianity": "96.1%",
+    "Catholicism": "88.3%",
+    "Other Christian": "7.8%",
+    "No Religion": "2.6%",
+    "Other": "0.4%",
+    "Unspecified": "0.8%"
+  },
+  "Government": {
+    "Type": "Unitary presidential constitutional republic",
+    "President": "Santiago Peña",
+    "Vice President": "Pedro Alliana",
+    "Legislature": {
+      "Congress": {
+        "Upper House": "Senate",
+        "Lower House": "Chamber of Deputies"
+      }
+    }
+  },
+  "Independence": {
+    "Declared": "14 May 1811",
+    "Recognized": "25 November 1842",
+    "Current Constitution": "20 June 1992"
+  },
+  "GDP (PPP)": {
+    "2023 Estimate": {
+      "Total": "$117.349 billion",
+      "Per Capita": "$19,809"
+    }
+  },
+  "GDP (Nominal)": {
+    "2023 Estimate": {
+      "Total": "$44.142 billion",
+      "Per Capita": "$7,243"
+    }
+  },
+  "Gini (2020)": "43.5",
+  "HDI (2021)": "0.717",
+  "Currency": "Guaraní (PYG)",
+  "Time Zone": "UTC–4 (PYT), UTC–3 (PYST in Summer)",
+  "Driving Side": "right",
+  "Calling Code": "+595",
+  "ISO 3166 Code": "PY",
+  "Internet TLD": ".py",
+  "Ethnic Groups": {
+    "Mestizo": "95%"
+  },
+  "Natural Resources": ["Hydroelectric sites", "forests"],
+  "Main Industries": ["Sugar", "cement", "textiles", "beverages", "wood products", "steel", "metallurgic", "electric power"],
+  "Export Commodities": ["Electricity", "soybeans", "livestock feed", "cotton", "meat", "edible oils", "wood", "leather"],
+  "Import Commodities": ["Road vehicles", "consumer goods", "tobacco", "petroleum products", "pesticides", "electrical machinery", "tractors", "chemicals", "vehicle parts"],
+  "Export Partners": {
+    "Brazil": "31.7%",
+    "Russia": "9.1%",
+    "Chile": "7.1%",
+    "Argentina": "7%"
+  },
+  "Import Partners": {
+    "Brazil": "25.4%",
+    "China": "23.7%",
+    "Argentina": "14.8%",
+    "USA": "7.9%"
+  },
+  "Literacy Rate": "91.6%",
+  "Key Historical Points": {
+    "Spanish Conquest": "1524",
+    "Asunción Established": "1537",
+    "Jesuit Missions": "17th century",
+    "Independence from Spain": "Early 19th century",
+    "Paraguayan War": "1864–1870",
+    "Chaco War": "1932–1935",
+    "Stroessner Regime": "1954-1989",
+    "Democratic Era": "Post-1989"
+  }
+}
