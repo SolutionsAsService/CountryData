@@ -1,0 +1,128 @@
+{
+  "France": {
+    "General_Information": {
+      "Official_Name": "French Republic",
+      "French_Name": "République française",
+      "Flag": "Flag of France",
+      "Coat_of_Arms": "Coat of arms of France",
+      "Motto": "Liberté, égalité, fraternité (Liberty, Equality, Fraternity)",
+      "Anthem": {
+        "Title": "La Marseillaise",
+        "Duration": "1 minute and 20 seconds"
+      },
+      "Map": "Metropolitan France in Europe and overseas territories",
+      "Capital_and_Largest_City": {
+        "Name": "Paris",
+        "Coordinates": "48°51′N 2°21′E"
+      },
+      "Official_Language": "French",
+      "Nationality_2021": {
+        "French": "92.2%",
+        "Other": "7.8%"
+      },
+      "Religion_2020": {
+        "No_Religion": "53%",
+        "Christianity": "34%",
+        "Islam": "11%",
+        "Judaism": "0.5%",
+        "Buddhism": "0.5%",
+        "Other": "1%"
+      },
+      "Demonym": "French",
+      "Government_Type": "Unitary semi-presidential republic",
+      "Leaders": {
+        "President": "Emmanuel Macron",
+        "Prime_Minister": "Gabriel Attal",
+        "President_of_the_Senate": "Gérard Larcher",
+        "President_of_the_National_Assembly": "Yaël Braun-Pivet"
+      },
+      "Legislature": {
+        "Upper_House": "Senate",
+        "Lower_House": "National Assembly"
+      },
+      "Establishment": {
+        "Kingdom_of_the_West_Franks": "10 August 843",
+        "Kingdom_of_France": "3 July 987",
+        "French_Republic": "22 September 1792",
+        "EEC_Foundation": "1 January 1958",
+        "French_Fifth_Republic": "4 October 1958"
+      },
+      "Area": {
+        "Total": "643,801 km2",
+        "Metropolitan_France_IGN": "551,695 km2",
+        "Metropolitan_France_Cadastre": "543,940.9 km2",
+        "Water_Percentage": "0.86"
+      },
+      "Population_2023": {
+        "Total": "68,042,591",
+        "Metropolitan_France": "65,834,837",
+        "Density_Total": "105.4627/km2",
+        "Density_Metropolitan": "121/km2"
+      },
+      "GDP_PPP_2023_Estimate": {
+        "Total": "$3.868 trillion",
+        "Per_Capita": "$58,765"
+      },
+      "GDP_Nominal_2023_Estimate": {
+        "Total": "$3.049 trillion",
+        "Per_Capita": "$46,315"
+      },
+      "Gini_2022": "29.8 low",
+      "HDI_2021": {
+        "Score": "0.903",
+        "Rank": "28th"
+      },
+      "Currency": ["Euro (€) (EUR)", "CFP franc (XPF)"],
+      "Time_Zone": "UTC+1 (Central European Time)",
+      "Summer_DST": "UTC+2 (Central European Summer Time)",
+      "Date_Format": "dd/mm/yyyy (AD)",
+      "Driving_Side": "right",
+      "Calling_Code": "+33",
+      "ISO_3166_Code": "FR",
+      "Internet_TLD": ".fr",
+      "Overseas_Territories": ["French Guiana", "Saint Pierre and Miquelon", "French West Indies", "Oceania and Indian Ocean islands"]
+    },
+    "Etymology_and_Pronunciation": {
+      "Description": "Origin and meaning of the name 'France'"
+    },
+    "History": {
+      "Ancient_History": "Settlement by Celtic Gauls, Roman annexation",
+      "Early_Middle_Ages": "Formation of the Kingdom of Francia",
+      "High_Middle_Ages": "Feudal kingdom, Hundred Years' War with England",
+      "French_Renaissance": "Cultural flourish, colonial empire",
+      "Modern_History": {
+        "French_Revolution": "1789, Declaration of the Rights of Man",
+        "Napoleonic_Era": "Early 19th century, First French Empire",
+        "Post-Napoleon": "Period of decline, formation of Third Republic",
+        "20th_Century": "World Wars, Fourth and Fifth Republics"
+      }
+    },
+    "Geography": {
+      "Description": "Located primarily in Western Europe",
+      "Borders": ["Belgium", "Luxembourg", "Germany", "Switzerland", "Italy", "Monaco", "Andorra", "Spain", "United Kingdom (maritime)"],
+      "Geographical_Area": "From the Rhine to the Atlantic, Mediterranean to English Channel"
+    },
+    "Government_and_Politics": {
+      "Political_System": "Unitary semi-presidential republic",
+      "International_Relations": "Key member of the EU, UN, NATO, OECD, and Francophonie"
+    },
+    "Economy": {
+      "Economic_Status": {
+        "GDP_PPP": "$3.868 trillion",
+        "GDP_Nominal": "$3.049 trillion"
+      },
+      "Economic_Power": "One of the largest economies in the world, advanced economy",
+      "Economic_Organizations": ["European Union", "eurozone", "Group of Seven"]
+    },
+    "Demographics": {
+      "Population_Growth": "Steady increase to 68 million by 2023",
+      "Ethnic_Composition": "Primarily French with diverse minorities",
+      "Religious_Composition": "Majority non-religious, followed by Christianity and Islam"
+    },
+    "Culture": {
+      "Influences": "Global centre of art, science, and philosophy",
+      "UNESCO_World_Heritage_Sites": "Third-largest number worldwide",
+      "Tourism": "World's leading tourist destination"
+    }
+  }
+}
