@@ -1,8 +1,12 @@
 {
     "Burkina Faso": {
-        "Official Names": {
+        "Name": {
             "Local": "Burkina Faso",
             "French": "République du Burkina Faso"
+             "Fula": "𞤄𞤵𞤪𞤳𞤭𞤲𞤢 𞤊𞤢𞤧𞤮",
+            "Mossi": "Burkĩna Faso",
+             "Dyula": "ߓߎߙߞߌߣߊ ߝߊߛߏ",
+            "Previous": "Republic pf Upper Volta"
         },
         "Symbols": {
             "Flag": "Flag of Burkina Faso",
