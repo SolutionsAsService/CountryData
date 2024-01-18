@@ -1,11 +1,21 @@
 {
-  "Country": "Kazakhstan",
+  "Kazakhstan": {
+    "Name": {
+  "Common": "Kazakhstan",
   "Official_Name": "Republic of Kazakhstan",
+   "Kazakh": "Қазақстан Республикасы",
+   "Romanized": "Qazaqstan Respublikasy",
+    "Russian": "Республика Казахстан",
+    "Roman": "Respublika Kazakhstan"
+  },
   "Flag_URL": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg",
   "Emblem_URL": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Emblem_of_Kazakhstan.svg",
   "Anthem": "Menıñ Qazaqstanym",
   "Capital": "Astana",
   "Largest_City": "Almaty",
+    "Location":{
+
+    },
   "Official_Languages": ["Kazakh", "Russian"],
   "Ethnic_Groups_2023": {
     "Kazakh": "70.7%",
