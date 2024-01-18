@@ -1,0 +1,75 @@
+{
+    "Transnistria": {
+        "Official Name": "Pridnestrovian Moldavian Republic",
+        "Alternate Names": {
+            "Russian": "Приднестро́вская Молда́вская Респу́блика",
+            "Romanian": "Republica Moldovenească Nistreană",
+            "Ukrainian": "Придністро́вська Молда́вська Респу́бліка"
+        },
+        "Symbols": {
+            "Flag": "Flag of Transnistria",
+            "Coat of Arms": "Coat of arms of Transnistria",
+            "Anthem": "Мы славим тебя, Приднестровье ('We Sing the Praises of Transnistria')"
+        },
+        "Location": {
+            "Region": "Eastern Europe",
+            "Capital": "Tiraspol",
+            "Geographical Description": "Narrow strip of land between the Dniester river and the Moldova–Ukraine border"
+        },
+        "Languages": {
+            "Official": ["Russian", "Moldovan (Romanian)", "Ukrainian"],
+            "Interethnic": "Russian"
+        },
+        "Ethnic Composition (2015)": {
+            "Russians": "29.1%",
+            "Moldovans / Romanians": "28.6%",
+            "Ukrainians": "22.9%",
+            "Others": "19.4%"
+        },
+        "Government": {
+            "Type": "Unitary presidential republic",
+            "President": "Vadim Krasnoselsky",
+            "Prime Minister": "Aleksandr Rozenberg",
+            "Legislature": "Supreme Council"
+        },
+        "Status": "Unrecognised state",
+        "Establishment": {
+            "Independence Declared from SSR of Moldova": "2 September 1990",
+            "Independence Declared from Soviet Union": "25 August 1991",
+            "Transnistria War": "2 March – 1 July 1992"
+        },
+        "Area": {
+            "Total": "4,163 square kilometers",
+            "Water Percentage": "2.35%"
+        },
+        "Population": {
+            "2023 Estimate": "364,986 (Moldovan estimate)",
+            "2015 Census": "475,373",
+            "Density": "73.5 per square kilometer"
+        },
+        "Economy": {
+            "GDP (Nominal, 2021 Estimate)": {
+                "Total": "$1.201 billion",
+                "Per Capita": "$2,584"
+            },
+            "Currency": "Transnistrian ruble (PRB)"
+        },
+        "Time Zone": "EET (UTC+2), EEST (UTC+3 in summer)",
+        "Calling Code": "+373",
+        "Toponymy": "The region's historical ties to Moldova and Ukraine",
+        "Historical Background": "From Moldavian ASSR to the current status",
+        "Political Status": "Internationally unrecognized, de facto independent state",
+        "International Relations": {
+            "Recognition": "Recognised only by Abkhazia and South Ossetia",
+            "Conflict Status": "Post-Soviet 'frozen conflict' zone"
+        },
+        "Demographics": {
+            "Major Ethnic Groups": ["Russians", "Moldovans/Romanians", "Ukrainians"],
+            "Religion": "Predominantly Christian"
+        },
+        "Cultural Aspects": {
+            "Languages": "Russian, Moldovan, Ukrainian",
+            "Influence": "Mix of Slavic and Romanian cultures"
+        }
+    }
+}
