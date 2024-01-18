@@ -1,7 +1,10 @@
 {
     "Bhutan": {
-        "Official Names": {
-            "Dzongkha": "འབྲུག་རྒྱལ་ཁབ་ (Druk Gyal Khap)"
+        "Name": {
+            "Commom": "Bhutan",
+            "Official": "Kingdom of Bhutan",
+            "Dzongkha": "འབྲུག་རྒྱལ་ཁབ་",
+            "Romanized": "Druk Gyal Khap"
         },
         "Flag": "Described Image",
         "Emblem": "Described Image",
