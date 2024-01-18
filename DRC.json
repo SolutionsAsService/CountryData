@@ -4,15 +4,13 @@
   "French": "République démocratique du Congo",
      "aliases": ["Congo-Kinshasa", "DRC", "DR Congo", "Congo", "Zaire"],
   },
-the Republic of the Congo, Central African Republic, South Sudan, Uganda, Rwanda, Burundi, Tanzania (across Lake Tanganyika), Zambia, Angola, the Cabinda exclave of Angola and the South Atlantic Ocean.
-
     "Location":{
-      
+      "Border": ["Republic of the Congo", "Central African Republic", "South Sudan", "Uganda", "Rwanda", "Burundi", { "Tanzania":"across Lake Tanganyika"}, "Zambia", "Angola", "Cabinda exclave of Angola", "South Atlantic Ocean"],
     "area": {
     "total_km2": 2345409,
     "rank": 11,
     "water_percentage": 3.32
-  },
+  },"
     },
   "population": {
     "estimate_2023": 111859928,
