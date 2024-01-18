@@ -24,10 +24,17 @@
         "Coordinates": "00°13′12″S 78°30′43″W"
       },
       "Largest_City": "Guayaquil",
-      
+       "Location":{
+         "General": "northwestern South America", 
+          "border": { 
+            "Colombia": "north", 
+            "Peru": ["east", "south"], 
+            "Pacific Ocean": "west" },
+            "includes": { "the Galápagos Islands in the Pacific": "Distance": "1,000 kilometers (621 mi)", "Direction":"west" }
+       },
       "Official_Languages": "Spanish",
       "Recognized_Regional_Languages": ["Kichwa (Quechua)", "Shuar and others"],
-      "Ethnic_Groups_2022": {
+      "Ethnic2022": {
         "Mestizo": "77.5%",
         "Montubio": "7.8%",
         "Indigenous": "7.6%",
