@@ -1,8 +1,13 @@
 {
   "Madagascar": {
     "General Information": {
-      "Official Name": "Republic of Madagascar",
-      "Local Names": ["Repoblikan'i Madagasikara (Malagasy)", "République de Madagascar (French)"],
+       "Name":{
+        "Common": "Madagascar",
+      "Official": "Republic of Madagascar",
+      "Local": {
+         "Malagasy": "Repoblikan'i Madagasikara",
+         "French": "République de Madagascar" }
+       },
       "Motto": {
         "Malagasy": "Fitiavana, Tanindrazana, Fandrosoana",
         "French": "Amour, Patrie, Progrès",
