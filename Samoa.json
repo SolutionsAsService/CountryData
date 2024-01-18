@@ -1,0 +1,115 @@
+{
+  "Samoa": {
+    "General_Information": {
+      "Official_Name": "Independent State of Samoa",
+      "Samoan_Name": "Malo Saʻoloto Tutoʻatasi o Sāmoa",
+      "Former_Name": "Western Samoa",
+      "Flag": "Flag of Samoa",
+      "Coat_of_Arms": "Coat of arms of Samoa",
+      "Motto": "Faʻavae i le Atua Sāmoa ('Samoa is founded on God')",
+      "Anthem": {
+        "Title": "O Le Fuʻa o le Saʻolotoga o Samoa ('The Banner of Freedom')",
+        "Duration": "1 minute and 14 seconds"
+      },
+      "Map": "Map of Samoa",
+      "Capital_and_Largest_City": {
+        "Name": "Apia",
+        "Coordinates": "13°50′00″S 171°45′44″W"
+      },
+      "Official_Languages": ["Samoan", "English"],
+      "Ethnic_Groups_2021": {
+        "Samoans": "92.6%",
+        "Euronesians": "7.0%",
+        "Europeans": "0.3%",
+        "Others": "0.1%"
+      },
+      "Religion_2021": {
+        "Christianity": "97.9%",
+        "Protestantism": "54.9%",
+        "Catholicism": "18.8%",
+        "Mormonism": "16.9%",
+        "Other_Christian": "7.3%",
+        "No_Religion": "1.7%",
+        "Others": "0.4%"
+      },
+      "Demonym": "Samoan",
+      "Government_Type": "Unitary parliamentary republic",
+      "Leaders": {
+        "President": "Tuimalealiʻifano Vaʻaletoʻa Sualauvi II",
+        "Prime_Minister": "Fiamē Naomi Mataʻafa",
+        "Assembly_Speaker": "Papali’i Li’o Taeu Masipau"
+      },
+      "Legislature": "Legislative Assembly",
+      "Independence": {
+        "Treaty_of_Berlin": "14 June 1889",
+        "Tripartite_Convention": "16 February 1900",
+        "Colonisation_by_Germany": "1 March 1900",
+        "Occupied_by_New_Zealand": "30 August 1914",
+        "League_Mandate": "17 December 1920",
+        "UN_Trusteeship": "13 December 1946",
+        "Western_Samoa_Act_1961": "1 January 1962",
+        "UN_Admission": "15 December 1976",
+        "Name_Change": "4 July 1997"
+      },
+      "Area": {
+        "Total": "2,831 km2",
+        "Water_Percentage": "0.3"
+      },
+      "Population_2021": {
+        "Census": "205,557",
+        "Density": "70/km2"
+      },
+      "GDP_PPP_2018_Estimate": {
+        "Total": "$1.188 billion",
+        "Per_Capita": "$5,962"
+      },
+      "GDP_Nominal_2018_Estimate": {
+        "Total": "$881 million",
+        "Per_Capita": "$4,420"
+      },
+      "Gini_2013": "38.7 medium",
+      "HDI_2021": {
+        "Score": "0.707",
+        "Rank": "111th"
+      },
+      "Currency": "Tālā (WS$) (WST)",
+      "Time_Zone": "UTC+13 (WST)",
+      "Date_Format": "dd/mm/yyyy",
+      "Driving_Side": "left",
+      "Calling_Code": "+685",
+      "ISO_3166_Code": "WS",
+      "Internet_TLD": ".ws",
+      "Major_Islands": ["Savai'i", "Upolu", "Manono", "Apolima"],
+      "Smaller_Islands": ["Aleipata Islands", "Nu'utele", "Nu'ulua", "Fanuatapu", "Namua"]
+    },
+    "History": {
+      "Prehistoric_Settlement": "Lapita people discovered and settled the Samoan Islands around 3,500 years ago",
+      "European_Explorers": "Referred to as the 'Navigator Islands'",
+      "Colonial_History": "German colony, then under British and New Zealand administration",
+      "Independence": "Became independent in 1962"
+    },
+    "Government_and_Politics": {
+      "System": "Unitary parliamentary democracy",
+      "Administrative_Divisions": "11 administrative divisions",
+      "International_Status": "Member of the Commonwealth of Nations"
+    },
+    "Geography": {
+      "Description": "Polynesian island country in the South Pacific Ocean",
+      "Location": "Near American Samoa, Tonga, Fiji, Wallis and Futuna, Tuvalu, Tokelau, Hawaii, Niue"
+    },
+    "Economy": {
+      "Status": "Details of Samoa's economy, major industries, and trade"
+    },
+    "Demographics": {
+      "Population_Composition": "Primarily Samoan with Euronesian and European minorities",
+      "Language": "Samoan and English as official languages"
+    },
+    "Education": {
+      "System": "Details of the education system in Samoa"
+    },
+    "Culture": {
+      "Influences": "Rich Samoan cultural identity and traditions",
+      "Significance": "Developed a unique Samoan language and cultural identity"
+    }
+  }
+}
