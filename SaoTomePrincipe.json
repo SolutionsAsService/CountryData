@@ -1,0 +1,81 @@
+{
+    "São Tomé and Príncipe": {
+        "Official Names": {
+            "Portuguese": "República Democrática de São Tomé e Príncipe",
+            "English": "Democratic Republic of São Tomé and Príncipe"
+        },
+        "Symbols": {
+            "Flag": "Flag of São Tomé and Príncipe",
+            "Coat of Arms": "Coat of arms of São Tomé and Príncipe",
+            "Motto": "Unidade, Disciplina, Trabalho (Unity, Discipline, Labour)",
+            "Anthem": {
+                "Title": "Independência total",
+                "English Translation": "Total Independence",
+                "Duration": "2 minutes and 5 seconds"
+            }
+        },
+        "Location": {
+            "Region": "Gulf of Guinea, Central Africa",
+            "Coordinates": {
+                "Capital": "0°20′N 6°44′E",
+                "Largest Settlement": "Dogana"
+            }
+        },
+        "Languages": {
+            "Official": "Portuguese",
+            "Recognised Regional": ["Forro", "Angolar", "Principense"]
+        },
+        "Religion": {
+            "Christianity": "81.1%",
+            "No Religion": "13.2%",
+            "Folk Religions": "3.1%",
+            "Others": "2.4%"
+        },
+        "Government": {
+            "Type": "Unitary semi-presidential republic",
+            "President": "Carlos Vila Nova",
+            "Prime Minister": "Patrice Trovoada",
+            "Legislature": "National Assembly"
+        },
+        "Independence": {
+            "From Portugal": "12 July 1975"
+        },
+        "Geography": {
+            "Total Area": "964 square kilometers",
+            "Archipelagos": ["São Tomé", "Príncipe"],
+            "Location": "Approximately 250 and 225 km off the coast of Gabon"
+        },
+        "Population": {
+            "2023 Estimate": "220,372",
+            "Density": "199.7 per km2"
+        },
+        "Economy": {
+            "GDP (PPP) 2023 Estimate": {
+                "Total": "$962 million",
+                "Per Capita": "$4,146"
+            },
+            "GDP (Nominal) 2023 Estimate": {
+                "Total": "$674 million",
+                "Per Capita": "$2,904"
+            },
+            "Gini (2017)": "56.3",
+            "HDI (2021)": "0.618",
+            "Currency": "Dobra (STN)"
+        },
+        "Demographics": {
+            "Ethnicity": "African and mestiço descent",
+            "Major Religion": "Christianity"
+        },
+        "Culture": {
+            "Influences": "Portuguese rule",
+            "Music": "Fusion of European and African influences",
+            "Language Community": "Community of Portuguese Language Countries"
+        },
+        "Historical Overview": {
+            "Discovery": "1470 by Portuguese explorers",
+            "Colonization": "16th century",
+            "Independence": "1975",
+            "Post-Independence": "Stable and democratic country"
+        }
+    }
+}
