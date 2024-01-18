@@ -1,0 +1,89 @@
+{
+    "Tajikistan": {
+        "Official Names": {
+            "Tajik": "Ҷумҳурии Тоҷикистон",
+            "Russian": "Республика Таджикистан"
+        },
+        "Flag": "Described Image",
+        "Emblem": "Described Image",
+        "Motto": "Istiqlol, Ozodí, Vatan ('Independence, Freedom, Homeland')",
+        "Anthem": "Surudi Milli ('National Anthem')",
+        "Capital": "Dushanbe",
+        "Official Languages": {
+            "National": "Persian",
+            "Interethnic": "Russian"
+        },
+        "Spoken Languages": [
+            "Persian", "Russian", "Uzbek", "Kyrgyz", "Turkmen", 
+            "Shughni", "Rushani", "Yaghnobi", "Bartangi", 
+            "Sanglechi-Ishkashimi", "Central Asian Arabic", 
+            "Parya", "Bukhori", "Tatar", "Wakhiothers"
+        ],
+        "Ethnic Groups": {
+            "Tajiks": "84.3%",
+            "Uzbeks": "12.2%",
+            "Kyrgyz": "0.8%",
+            "Pamiris": "0.4%",
+            "East Slavs": "0.5%",
+            "Others": "2.2%"
+        },
+        "Religion": {
+            "Islam": "96.4%",
+            "Christianity": "1.8%",
+            "Irreligion": "1.5%",
+            "Others": "0.3%"
+        },
+        "Demonym": ["Tajikistani", "Tajik"],
+        "Government": {
+            "Type": "Unitary presidential republic under an authoritarian dictatorship",
+            "President": "Emomali Rahmon",
+            "Prime Minister": "Kokhir Rasulzoda"
+        },
+        "Legislature": {
+            "Upper House": "National Assembly",
+            "Lower House": "Assembly of Representatives"
+        },
+        "Independence": {
+            "Declared": "9 September 1991",
+            "Recognized": "26 December 1991",
+            "Current Constitution": "6 November 1994"
+        },
+        "Area": "142,326 square kilometers",
+        "Population": {
+            "2023 Estimate": "10,077,600",
+            "Density": "48.6 per square kilometer"
+        },
+        "Economy": {
+            "GDP (PPP, 2023)": {
+                "Total": "$53.679 billion",
+                "Per Capita": "$5,360"
+            },
+            "GDP (Nominal, 2023)": {
+                "Total": "$11.816 billion",
+                "Per Capita": "$1,180"
+            }
+        },
+        "Gini Coefficient": "34 (medium)",
+        "HDI": "0.685 (medium, 122nd)",
+        "Currency": "Somoni (TJS)",
+        "Time Zone": "UTC+5 (TJT)",
+        "Driving Side": "right",
+        "Calling Code": "+992",
+        "ISO 3166 Code": "TJ",
+        "Internet TLD": ".tj",
+        "Geographical Features": {
+            "Location": "Central Asia",
+            "Borders": ["Afghanistan", "Uzbekistan", "Kyrgyzstan", "China"],
+            "Topography": "Predominantly mountainous"
+        },
+        "Historical Context": {
+            "Ancient Cultures": ["Sarazm", "Achaemenid Empire", "Sasanian Empire"],
+            "Modern History": ["Part of Russian Empire", "Soviet Republic", "Independence from USSR"]
+        },
+        "Cultural Aspects": {
+            "Languages Diversity": "Multiple languages in Gorno-Badakhshan oblast",
+            "Economic Dependence": ["Remittances", "Aluminium", "Cotton production"],
+            "International Relations": ["Member of UN", "CIS", "OSCE", "OIC", "ECO", "SCO", "CSTO"]
+        }
+    }
+}
