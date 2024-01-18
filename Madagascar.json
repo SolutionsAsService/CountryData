@@ -15,7 +15,11 @@
       },
       "Anthem": "Ry Tanindrazanay malala ô!",
       "Capital and Largest City": "Antananarivo",
-      "Coordinates": "18°55′S 47°31′E",
+       "Location": {
+        "Coordinates": "18°55′S 47°31′E",
+        "OffOf": "eastern coast of Southern Africa", 
+        "east": "Mozambique"
+       },
       "Official Languages": ["Malagasy", "French"],
       "Currency": "Ariary (MGA)",
       "Time Zone": "UTC+3",
