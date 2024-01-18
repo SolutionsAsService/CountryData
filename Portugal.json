@@ -1,0 +1,76 @@
+{
+  "Country": "Portugal",
+  "Official_Name": "Portuguese Republic",
+  "Flag_URL": "https://upload.wikimedia.org/wikipedia/en/5/5c/Flag_of_Portugal.svg",
+  "Coat_of_Arms_URL": "https://upload.wikimedia.org/wikipedia/commons/7/73/Coat_of_arms_of_Portugal.svg",
+  "Anthem": "A Portuguesa",
+  "Location": "Iberian Peninsula, Southwestern Europe",
+  "Capital": "Lisbon",
+  "Coordinates": {
+    "Latitude": "38°46′N",
+    "Longitude": "9°9′W"
+  },
+  "Official_Language": "Portuguese",
+  "Recognised_Regional_Languages": "Mirandese",
+  "Nationality": {
+    "Portuguese_Nationals": "92.5%",
+    "Resident_Foreigners": "7.5%"
+  },
+  "Religion": {
+    "Christianity": "85%",
+    "Catholicism": "80%",
+    "Other_Christian": "4.6%",
+    "No_Religion": "14%",
+    "Other": "1.1%"
+  },
+  "Government_Type": "Unitary semi-presidential constitutional republic",
+  "President": "Marcelo Rebelo de Sousa",
+  "Prime_Minister": "António Costa",
+  "Legislature": "Assembly of the Republic",
+  "Establishment": {
+    "First_County": "868",
+    "Second_County": "1095",
+    "Sovereignty": "24 June 1128",
+    "Kingdom": "25 July 1139",
+    "Treaty_of_Zamora": "5 October 1143",
+    "Restoration": "1 December 1640",
+    "First_Constitution": "23 September 1822",
+    "Republic": "5 October 1910",
+    "Democratization": "25 April 1974",
+    "Current_Constitution": "25 April 1976",
+    "EEC_Accession": "1 January 1986"
+  },
+  "Area_sq_km": 92230,
+  "Population": {
+    "2022_Estimate": 10467366,
+    "2021_Census": 10343066,
+    "Density_per_sq_km": 113.5
+  },
+  "GDP_PPP": {
+    "2023_Estimate_Total_Billion": 465.1,
+    "2023_Estimate_Per_Capita": 45227
+  },
+  "GDP_Nominal": {
+    "2023_Estimate_Total_Billion": 276.4,
+    "2023_Estimate_Per_Capita": 26879
+  },
+  "Gini_Index": 32.0,
+  "HDI": 0.866,
+  "Currency": "Euro (€) (EUR)",
+  "Time_Zone": ["UTC (WET)", "UTC−1 (Atlantic/Azores)"],
+  "Summer_DST": ["UTC+1 (WEST)", "UTC (Atlantic/Azores)"],
+  "Calling_Code": "+351",
+  "Internet_TLD": ".pt",
+  "Geographical_Features": {
+    "Westernmost_Point": "Cabo da Roca",
+    "Major_Rivers": ["Tagus", "Douro", "Guadiana"],
+    "Highest_Point": "Mount Pico (2,351m)"
+  },
+  "Cultural_Aspects": {
+    "Languages": ["Portuguese", "Mirandese"],
+    "Famous_Cities": ["Lisbon", "Porto", "Algarve"],
+    "Cultural_Influences": ["Celtic", "Roman", "Moorish"],
+    "Cuisine": ["Bacalhau", "Pastel de nata"],
+    "Music": ["Fado"]
+  }
+}
