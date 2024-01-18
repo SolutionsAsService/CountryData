@@ -1,0 +1,73 @@
+{
+  "Country": "Saint Lucia",
+  "Flag_URL": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Saint_Lucia.svg",
+  "Coat_of_Arms_URL": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Coat_of_arms_of_Saint_Lucia.svg",
+  "Motto": "The Land, The People, The Light",
+  "Anthem": "Sons and Daughters of Saint Lucia",
+  "Royal_Anthem": "God Save the King",
+  "Location": "Eastern Caribbean, Windward Islands",
+  "Capital": "Castries",
+  "Coordinates": {
+    "Latitude": "13°53′00″N",
+    "Longitude": "60°58′00″W"
+  },
+  "Official_Language": "English",
+  "Vernacular_Language": "Saint Lucian Creole",
+  "Ethnic_Groups": {
+    "Black": "85.3%",
+    "Mixed": "10.9%",
+    "Indian": "2.2%",
+    "Other_Unspecified": "1.6%"
+  },
+  "Religion": {
+    "Christianity": "90.3%",
+    "No_Religion": "2.6%",
+    "Rastafari": "1.9%",
+    "Hinduism": "1.4%",
+    "Other": "0.5%"
+  },
+  "Government_Type": "Unitary parliamentary constitutional monarchy",
+  "Monarch": "Charles III",
+  "Governor_General": "Errol Charles (acting)",
+  "Prime_Minister": "Philip J. Pierre",
+  "Legislature": {
+    "Upper_House": "Senate",
+    "Lower_House": "House of Assembly"
+  },
+  "Independence": {
+    "Associated_Statehood": "1 March 1967",
+    "Full_Independence": "22 February 1979"
+  },
+  "Area_sq_km": 617,
+  "Water_Percentage": 1.6,
+  "Population": {
+    "2018_Estimate": 178696,
+    "2010_Census": 165595,
+    "Density_per_sq_km": 299.4
+  },
+  "GDP_PPP": {
+    "2023_Estimate_Total_Billion": 3.452,
+    "2023_Estimate_Per_Capita": 18972
+  },
+  "GDP_Nominal": {
+    "2023_Estimate_Total_Billion": 2.469,
+    "2023_Estimate_Per_Capita": 13572
+  },
+  "Gini_Index": 51.2,
+  "HDI": 0.715,
+  "Currency": "Eastern Caribbean Dollar (XCD)",
+  "Time_Zone": "UTC−4",
+  "Driving_Side": "left",
+  "Calling_Code": "+1 758",
+  "ISO_3166_Code": "LC",
+  "Internet_TLD": ".lc",
+  "Geographical_Features": {
+    "Major_Mountain_Ranges": ["Gros Piton", "Petit Piton"],
+    "Highest_Peak": "Mount Gimie (950m)"
+  },
+  "Cultural_Aspects": {
+    "Languages": ["English", "Saint Lucian French Creole"],
+    "Influences": ["African", "Indian", "French", "British"],
+    "Unique_Facts": ["Only sovereign nation named for a woman", "World's happiest place in 2017 Positive Experience Index"]
+  }
+}
