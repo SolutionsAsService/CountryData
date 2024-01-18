@@ -14,9 +14,9 @@
   "Capital": "Astana",
   "Largest_City": "Almaty",
     "Location":{
-      landlocked 
+    "landlocked": true,
     "Region": ["Central Asia", "small part in Eastern Europe"],
-    "border":{
+    "Border":{
       "Russia":[ "north","west"],
       "China": "east", 
       "Kyrgyzstan": "southeast",
