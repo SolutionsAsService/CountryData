@@ -1,0 +1,93 @@
+{
+    "The Marshall Islands": {
+        "Official Names": {
+            "Marshallese": "Aolepān Aorōkin Ṃajeḷ",
+            "English": "Republic of the Marshall Islands"
+        },
+        "Symbols": {
+            "Flag": "Flag of the Marshall Islands",
+            "Seal": "Seal of the Marshall Islands",
+            "Motto": "Jepilpilin ke ejukaan (Accomplishment through joint effort)",
+            "Anthem": {
+                "Title": "Forever Marshall Islands",
+                "Duration": "2 minutes and 19 seconds"
+            }
+        },
+        "Location": {
+            "Region": "Micronesia, Northwestern Pacific Ocean",
+            "Capital": "Majuro",
+            "Coordinates": "7°7′N 171°4′E",
+            "Territory": {
+                "Atolls": "29 coral atolls",
+                "Islands": "5 islands",
+                "Island Chains": ["Ratak", "Ralik"]
+            },
+            "Maritime Boundaries": ["Wake Island", "Kiribati", "Nauru", "Federated States of Micronesia"]
+        },
+        "Demographics": {
+            "Population": {
+                "2021 Census": "42,418",
+                "Density": "233 per km2"
+            },
+            "Ethnic Groups (2021)": {
+                "Marshallese": "95.6%",
+                "Filipino": "1.1%",
+                "Others": "3.3%"
+            },
+            "Religion (2021)": {
+                "Christianity": "96.2%",
+                "Protestantism": "79.9%",
+                "Catholicism": "9.3%",
+                "Other Christian": "7.0%",
+                "No Religion": "1.1%",
+                "Others": "2.7%"
+            },
+            "Languages": {
+                "Official": ["Marshallese", "English"],
+                "Others": "See full list"
+            }
+        },
+        "Government": {
+            "Type": "Unitary parliamentary republic with an executive presidency",
+            "President": "Hilda Heine",
+            "Speaker": "Brenson Wase",
+            "Legislature": "Nitijela",
+            "Independence from the United States": {
+                "Self-government": "May 1, 1979",
+                "Compact of Free Association": "October 21, 1986"
+            }
+        },
+        "Geography": {
+            "Total Area": "181.43 square kilometers",
+            "Water Proportion": "97.87%"
+        },
+        "Economy": {
+            "GDP (PPP) 2019 Estimate": {
+                "Total": "$215 million",
+                "Per Capita": "$3,789"
+            },
+            "GDP (Nominal) 2019 Estimate": {
+                "Total": "$220 million",
+                "Per Capita": "$3,866"
+            },
+            "Currency": "United States dollar (USD)",
+            "Economic Sectors": ["Service", "Fishing", "Agriculture"],
+            "Aid": "Significant part of GDP from U.S. aid"
+        },
+        "Education": "Information not provided",
+        "Transportation": {
+            "Modes": "Information not provided",
+            "Infrastructure": "Information not provided"
+        },
+        "Culture": {
+            "Traditions": "Austronesian heritage",
+            "Religious Practice": ["United Church of Christ", "Assemblies of God"]
+        },
+        "Sports": "Information not provided",
+        "Media and Communications": "Information not provided",
+        "International Relations": {
+            "United Nations Membership": "Since 1991",
+            "Pacific Community Membership": "Since 1983"
+        }
+    }
+}
