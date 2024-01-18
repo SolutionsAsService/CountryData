@@ -1,0 +1,98 @@
+{
+    "Slovenia": {
+        "Official Names": {
+            "Slovene": "Republika Slovenija",
+            "English": "Republic of Slovenia",
+            "Abbreviation": "RS"
+        },
+        "Symbols": {
+            "Flag": "Flag of Slovenia",
+            "Coat of Arms": "Coat of arms of Slovenia",
+            "Motto": "Virtus Unita Fortior ('United virtue is stronger')",
+            "Anthem": {
+                "Title": "Zdravljica ('A Toast')",
+                "Duration": "57 seconds"
+            }
+        },
+        "Location": {
+            "Region": "Southern Central Europe",
+            "Coordinates": "46°03′05″N 14°30′22″E",
+            "Borders": ["Italy", "Austria", "Hungary", "Croatia", "Adriatic Sea"]
+        },
+        "Language": {
+            "Official": "Slovene",
+            "Regional": ["Italian", "Hungarian"]
+        },
+        "Ethnic Groups (2002)": {
+            "Slovenes": "83.1%",
+            "Serbs": "2.0%",
+            "Croats": "1.8%",
+            "Bosniaks": "1.6%",
+            "Romani": "0.4%",
+            "Hungarians": "0.3%",
+            "Italians": "0.1%",
+            "Others": "2.2%",
+            "Unspecified": "8.9%"
+        },
+        "Religion (2018)": {
+            "Christianity": "77.8%",
+            "Catholicism": "73.4%",
+            "Orthodoxy": "3.7%",
+            "Other Christian": "0.7%",
+            "No Religion": "18.3%",
+            "Other": "3.9%"
+        },
+        "Government": {
+            "Type": "Unitary parliamentary republic",
+            "President": "Nataša Pirc Musar",
+            "Prime Minister": "Robert Golob",
+            "Legislature": {
+                "Upper House": "National Council",
+                "Lower House": "National Assembly"
+            }
+        },
+        "Establishment": {
+            "State of Slovenes, Croats, and Serbs": "29 October 1918",
+            "Kingdom of Yugoslavia": "1 December 1918",
+            "Independence from Yugoslavia": "25 June 1991"
+        },
+        "Geography": {
+            "Total Area": "20,271 square kilometers",
+            "Terrain": "Mountainous and forested",
+            "Climate": "Temperate continental and sub-mediterranean",
+            "Highest Point": "Triglav"
+        },
+        "Population": {
+            "2022 Estimate": "2,120,937",
+            "2002 Census": "1,964,036",
+            "Density": "103 per km2"
+        },
+        "Economy": {
+            "GDP (PPP) 2023 Estimate": {
+                "Total": "$108.683 billion",
+                "Per Capita": "$51,406"
+            },
+            "GDP (Nominal) 2023 Estimate": {
+                "Total": "$68.394 billion",
+                "Per Capita": "$32,350"
+            },
+            "Gini (2020)": "23.5",
+            "HDI (2021)": "0.918",
+            "Currency": "Euro (€)"
+        },
+        "Demographics": {
+            "Major Cities": ["Ljubljana", "Maribor", "Kranj", "Celje", "Koper"],
+            "Official Language": "Slovene",
+            "Ethnic Composition": "Primarily Slovene, with Italian and Hungarian minorities"
+        },
+        "Culture": {
+            "Historical Influence": "Slavic, Germanic, and Romance",
+            "Cultural Highlights": "Rich in literature, music, and cuisine",
+            "European Integration": "EU, Eurozone, Schengen, OSCE, OECD, NATO member"
+        },
+        "Historical Overview": {
+            "Medieval History": "Part of Holy Roman Empire, Habsburg Monarchy",
+            "Modern History": "Part of Yugoslavia, Independence in 1991"
+        }
+    }
+}
