@@ -1,0 +1,93 @@
+{
+  "Country": "Kazakhstan",
+  "Official_Name": "Republic of Kazakhstan",
+  "Flag_URL": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg",
+  "Emblem_URL": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Emblem_of_Kazakhstan.svg",
+  "Anthem": "Menıñ Qazaqstanym",
+  "Capital": "Astana",
+  "Largest_City": "Almaty",
+  "Official_Languages": ["Kazakh", "Russian"],
+  "Ethnic_Groups_2023": {
+    "Kazakh": "70.7%",
+    "Russian": "15.2%",
+    "Uzbek": "3.3%",
+    "Ukrainian": "1.9%",
+    "Uyghur": "1.5%",
+    "German": "1.1%",
+    "Tatar": "1.1%",
+    "Others": "5.2%"
+  },
+  "Religion_2021": {
+    "Islam": "69.3%",
+    "Christianity": "17.2%",
+    "No_Response": "11.0%",
+    "Atheism": "2.3%",
+    "Others": "0.2%"
+  },
+  "Government_Type": "Unitary semi-presidential republic",
+  "Leaders": {
+    "President": "Kassym-Jomart Tokayev",
+    "Prime_Minister": "Älihan Smaiylov"
+  },
+  "Legislature": {
+    "Senate": "Upper house",
+    "Majilis": "Lower house"
+  },
+  "Historical_Formations": {
+    "Kazakh_Khanate": 1465,
+    "Alash_Autonomy": "13 December 1917",
+    "Kirghiz_ASSR": "26 August 1920",
+    "Kazakh_ASSR": "19 June 1925",
+    "Kazakh_SSR": "5 December 1936",
+    "Sovereignty_Declaration": "25 October 1990",
+    "Republic_Reconstitution": "10 December 1991",
+    "Independence": "16 December 1991",
+    "Independence_Recognition": "26 December 1991",
+    "Current_Constitution": "30 August 1995"
+  },
+  "Geographical_Details": {
+    "Total_Area": "2,724,900 km2",
+    "Water_Percentage": "1.7%",
+    "Population_2023": "20,000,000",
+    "Population_Density": "7/km2"
+  },
+  "Economic_Indicators": {
+    "GDP_PPP_2023_Total": "$654.050 billion",
+    "GDP_PPP_Per_Capita": "$32,712",
+    "GDP_Nominal_2023_Total": "$259.292 billion",
+    "GDP_Nominal_Per_Capita": "$12,968"
+  },
+  "Gini_Index": "27.8",
+  "HDI": "0.811",
+  "Currency": "Tenge (KZT)",
+  "Time_Zone": "UTC+5 / +6",
+  "ISO_3166_Code": "KZ",
+  "Internet_TLD": [".kz", ".қаз"],
+  "Historical_Background": {
+    "Early_Inhabitants": "Paleolithic era",
+    "Ancient_Civilizations": ["Saka", "Massagetae", "Scythians"],
+    "Mongol_Empire": "13th century",
+    "Kazakh_Khanate_Establishment": "15th century",
+    "Russian_Empire_Annexation": "18th century",
+    "Soviet_Union_Period": "1936-1991",
+    "Independence": "1991"
+  },
+  "Cultural_Aspects": {
+    "Traditional_Culture": ["Nomadic heritage", "Horse culture"],
+    "Cuisine": ["Beshbarmak", "Kumis"],
+    "Music_And_Arts": ["Kazakh folk music", "Yurt craftsmanship"],
+    "Languages": ["Kazakh", "Russian", "Minority languages"]
+  },
+  "International_Relations": {
+    "United_Nations": true,
+    "WTO": true,
+    "CIS": true,
+    "SCO": true,
+    "EAEU": true,
+    "CSTO": true,
+    "OSCE": true,
+    "OIC": true,
+    "Organization_of_Turkic_States": true,
+    "International_Organization_of_Turkic_Culture": true
+  }
+}
