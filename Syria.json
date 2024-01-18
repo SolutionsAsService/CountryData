@@ -1,0 +1,72 @@
+{
+    "Syria": {
+        "Official Names": {
+            "Arabic": "الجمهورية العربية السورية",
+            "English": "Syrian Arab Republic"
+        },
+        "Flag": "Described Image",
+        "Coat of Arms": "Described Image",
+        "Motto": "Waḥda, Ḥurriyya, Ishtirākiyya ('Unity, Freedom, Socialism')",
+        "Anthem": "Ḥumāt ad-Diyār ('Guardians of the Homeland')",
+        "Capital": "Damascus",
+        "Official Language": "Arabic",
+        "Ethnic Groups": {
+            "Arabs": "74–75%",
+            "Kurds": "9.5–10%",
+            "Others": "15–16.5%"
+        },
+        "Religion": {
+            "Islam": "77%",
+            "Christianity": "10%",
+            "Druze": "<3%"
+        },
+        "Demonym": "Syrian",
+        "Government": {
+            "Type": "Unitary presidential republic under a totalitarian hereditary dictatorship",
+            "President": "Bashar al-Assad",
+            "Vice President": "Najah al-Attar",
+            "Prime Minister": "Hussein Arnous"
+        },
+        "Legislature": "People's Assembly",
+        "Independence": {
+            "Arab Kingdom of Syria": "8 March 1920",
+            "Syrian Republic": "14 May 1930",
+            "De jure Independence": "24 October 1945",
+            "De facto Independence": "17 April 1946",
+            "Current Constitution": "27 February 2012"
+        },
+        "Area": "185,180 square kilometers",
+        "Population": {
+            "2023 Estimate": "22,933,531",
+            "Density": "118.3 per square kilometer"
+        },
+        "Economy": {
+            "GDP (PPP, 2015)": "$50.28 billion",
+            "GDP (Nominal, 2020)": "$11.08 billion",
+            "Per Capita GDP": "$533"
+        },
+        "Gini Coefficient": "55.8 (high)",
+        "HDI": "0.577 (medium, 150th)",
+        "Currency": "Syrian pound (SYP)",
+        "Time Zone": "UTC+3 (Arabia Standard Time)",
+        "Driving Side": "right",
+        "Calling Code": "+963",
+        "ISO 3166 Code": "SY",
+        "Internet TLD": ".sy",
+        "Geographical Features": {
+            "Location": "West Asia",
+            "Borders": ["Mediterranean Sea", "Turkey", "Iraq", "Jordan", "Israel", "Lebanon"],
+            "Topography": "Fertile plains, high mountains, deserts"
+        },
+        "Historical Context": {
+            "Ancient Kingdoms": ["Eblan civilization"],
+            "Islamic Era": ["Umayyad Caliphate", "Mamluk Sultanate"],
+            "Modern State": ["Mid-20th century", "French mandate", "Post-independence conflicts"]
+        },
+        "Cultural Aspects": {
+            "Ethnic Diversity": ["Arabs", "Kurds", "Turkmens", "Assyrians", "Others"],
+            "Religious Diversity": ["Muslims", "Christians", "Alawites", "Druze"],
+            "Largest Cities": ["Damascus", "Aleppo", "Homs"]
+        }
+    }
+}
