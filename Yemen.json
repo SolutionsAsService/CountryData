@@ -1,0 +1,81 @@
+{
+    "Yemen": {
+        "Official Names": {
+            "Arabic": "الجمهورية اليمنية (al-Jumhūriyyatu l-Yamaniyyatu)"
+        },
+        "Flag": "Described Image",
+        "Emblem": "Described Image",
+        "Motto": "Allāhu, thumma l-Waṭanu, ath-Thawratu, al-Waḥdatu ('God, then Country, Revolution, Unity')",
+        "Anthem": "al-Jumhūriyyatu l-Muttaḥidatu ('United Republic')",
+        "Capital": "Sanaa",
+        "Capital-in-exile": "Aden",
+        "Official Language": "Arabic",
+        "Ethnic Groups": {
+            "Yemenis": "92.8%",
+            "Somalis": "3.7%",
+            "Other": "3.5%"
+        },
+        "Religion": {
+            "Islam": "99.1% (65% Sunni, 35% Shia)",
+            "Other": "0.9%"
+        },
+        "Demonym": "Yemeni, Yemenite",
+        "Government": "Unitary provisional republic",
+        "Leadership": {
+            "Chairman": "Rashad al-Alimi (disputed)",
+            "Prime Minister": "Maeen Abdulmalik Saeed (disputed)"
+        },
+        "Legislature": {
+            "Shura Council": "Upper house",
+            "House of Representatives": "Lower house"
+        },
+        "Establishment": {
+            "Mutawakkilite Kingdom of Yemen": "30 October 1918",
+            "Unification": "22 May 1990"
+        },
+        "Area": "530,000 square kilometers",
+        "Population": {
+            "2023 Estimate": "34,449,825",
+            "Density": "65.0 per square kilometer"
+        },
+        "Economy": {
+            "GDP (PPP, 2023)": {
+                "Total": "$69.963 billion",
+                "Per Capita": "$2,053"
+            },
+            "GDP (Nominal, 2023)": {
+                "Total": "$21.045 billion",
+                "Per Capita": "$617"
+            }
+        },
+        "Gini Coefficient": "36.7 (medium)",
+        "HDI": "0.455 (low, 183rd)",
+        "Currency": "Yemeni rial (YER, ﷼)",
+        "Time Zone": "UTC+3 (AST)",
+        "Driving Side": "right",
+        "Calling Code": "+967",
+        "ISO 3166 Code": "YE",
+        "Internet TLD": ".ye",
+        "Historical Context": {
+            "Ancient Times": "Home of the Sabaeans",
+            "Judaism Influence": "275 AD",
+            "Early Islamic Conquests": "7th century",
+            "Various Dynasties": "9th to 16th centuries"
+        },
+        "Humanitarian Crisis": {
+            "Civil War": "Since 2011",
+            "Humanitarian Situation": "Severe crisis with widespread criticism",
+            "International Aid": "Highest number of people in need globally"
+        },
+        "Geographical Features": {
+            "Location": "Southern end of the Arabian Peninsula",
+            "Borders": ["Saudi Arabia", "Oman"],
+            "Maritime Borders": ["Eritrea", "Djibouti", "Somalia"]
+        },
+        "Cultural Aspects": {
+            "Traditional Practices": "Described",
+            "Languages": ["Arabic"],
+            "Cuisine": "Traditional Yemeni dishes"
+        }
+    }
+}
