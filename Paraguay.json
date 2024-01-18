@@ -7,12 +7,18 @@
     },
   "Capital": "Asunción",
   "Location": {
-    
-  "Coordinates": {
+    "Landlocked": true,
+    "Borders":{
+    {"Argentina": ["southwest","south"] },
+    {"Brazil": ["east", "northeast"] },
+    {"Bolivia": "northwest"}
+       },
+    "Coordinates": {
     "Latitude": "25°16′S",
     "Longitude": "57°40′W"
-  },
-  "Area": "406,752 km2",
+     },
+    "Area": "406,752 km2",
+},
   "Population": {
     "2022 Census": "6,109,644",
     "Density": "15/km2"
