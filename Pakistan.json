@@ -1,0 +1,65 @@
+{
+    "Pakistan": {
+        "Official Name": "Islamic Republic of Pakistan",
+        "Flag": "Described Image",
+        "State Emblem": "Described Image",
+        "Motto": "Faith, Unity, Discipline",
+        "Anthem": "The National Anthem",
+        "Capital": "Islamabad",
+        "Largest City": "Karachi",
+        "Official Languages": ["Urdu", "English"],
+        "Native Languages": "Over 77 languages",
+        "Ethnic Groups": "Varied",
+        "Religion": {
+            "Islam": "96.5%",
+            "Hinduism": "2.1%",
+            "Christianity": "1.3%",
+            "Other": "0.1%"
+        },
+        "Demonym": "Pakistani",
+        "Government": {
+            "Type": "Federal Islamic parliamentary republic",
+            "President": "Arif Alvi",
+            "Prime Minister": "Anwaar ul Haq Kakar (caretaker)",
+            "Senate Chairman": "Sadiq Sanjrani",
+            "National Assembly Speaker": "Raja Pervaiz Ashraf",
+            "Chief Justice": "Qazi Faez Isa"
+        },
+        "Independence from the United Kingdom": {
+            "Declaration": "23 March 1940",
+            "Recognized Dominion": "14 August 1947",
+            "Republic": "23 March 1956",
+            "Current Constitution": "14 August 1973"
+        },
+        "Area": "881,913 square kilometers",
+        "Population": {
+            "2023 Census": "241,499,431",
+            "Density": "273.8 per square kilometer"
+        },
+        "Economy": {
+            "GDP (PPP, 2023)": "$1.568 trillion",
+            "Per Capita (PPP)": "$6,773",
+            "GDP (Nominal, 2023)": "$340.636 billion",
+            "Per Capita (Nominal)": "$1,471"
+        },
+        "Gini Coefficient": "31.6 (medium)",
+        "HDI": "0.544 (low, 161st)",
+        "Currency": "Pakistani rupee (PKR)",
+        "Time Zone": "UTC+05:00",
+        "Driving Side": "left",
+        "Calling Code": "+92",
+        "ISO 3166 Code": "PK",
+        "Internet TLD": ".pk",
+        "Historical Context": {
+            "Ancient Civilizations": ["Mehrgarh", "Indus Valley", "Gandhara"],
+            "Imperial History": ["Achaemenid", "Maurya", "Mughals", "British Raj"],
+            "Independence and Partition": "1947",
+            "Post-Independence": "Military and democratic governments"
+        },
+        "Cultural Aspects": {
+            "Diverse Ethnic Groups": "Various ethnicities",
+            "Languages": "Over 77 languages",
+            "Rich Cultural Heritage": "Music, literature, sports, cuisine"
+        }
+    }
+}
