@@ -50,6 +50,7 @@
     "geography": {
       "total_area_km2": 103125,
       "water_percentage": "2.07",
+      "island": true,
       "climate": "Temperate, influenced by Gulf Stream",
       "geologic_activity": ["Geysers", "Volcanic eruptions"],
       "landscape": ["Volcanic plateau", "Sand and lava fields", "Mountains", "Glaciers", "Glacial rivers"]
