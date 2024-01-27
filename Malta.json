@@ -1,0 +1,95 @@
+{
+  "Malta": {
+    "general_information": {
+      "official_name": "Republic of Malta",
+      "maltese_name": "Repubblika ta' Malta",
+      "flag": "Flag of Malta",
+      "coat_of_arms": "Coat of arms of Malta",
+      "motto": "Virtute et constantia",
+      "anthem": "L-Innu Malti",
+      "location": "Southern Europe, Mediterranean Sea",
+      "coordinates": {
+        "capital": {
+          "Valletta": "35°54′N 14°31′E"
+        }
+      },
+      "largest_administrative_unit": "St. Paul's Bay",
+      "official_languages": ["Maltese", "English"],
+      "ethnic_groups": {
+        "Maltese": "77.8%",
+        "Non-Maltese": "22.2%"
+      },
+      "religion": {
+        "Christianity": "88.5%",
+        "Catholicism": "82.6%",
+        "Other_Christian": "5.9%",
+        "No_religion": "5.1%",
+        "Islam": "3.9%",
+        "Hinduism": "1.4%",
+        "Other": "1.1%"
+      },
+      "demonym": "Maltese"
+    },
+    "government": {
+      "type": "Unitary parliamentary republic",
+      "president": "George Vella",
+      "prime_minister": "Robert Abela",
+      "legislature": "Parliament of Malta"
+    },
+    "independence": {
+      "from_UK": "21 September 1964",
+      "republic": "13 December 1974",
+      "EU_membership": "1 May 2004"
+    },
+    "geography": {
+      "total_area_km2": 316,
+      "water_percentage": 0.001,
+      "location_relative": {
+        "Sicily": "80 km south",
+        "Tunisia": "284 km east",
+        "Libya": "333 km north"
+      }
+    },
+    "economy": {
+      "currency": "Euro (€) (EUR)",
+      "GDP_PPP": {
+        "total": "$33.303 billion",
+        "per_capita": "$63,481"
+      },
+      "GDP_nominal": {
+        "total": "$20.311 billion",
+        "per_capita": "$38,715"
+      },
+      "Gini_index": "28.0 (Low)",
+      "HDI": "0.918 (Very High)"
+    },
+    "demographics": {
+      "population_2021": 519562,
+      "density_per_km2": 1649,
+      "urban_area_population": 480134
+    },
+    "infrastructure": {
+      "time_zone": "UTC+1 (CET)",
+      "summer_DST": "UTC+2 (CEST)",
+      "driving_side": "left",
+      "iso_code": "MT",
+      "internet_TLD": [".mt", ".eu"]
+    },
+    "culture": {
+      "state_religion": "Catholicism",
+      "freedom_of_religion": true,
+      "tourism_focus": "Mediterranean tourist destination",
+      "UNESCO_World_Heritage_Sites": ["Ħal Saflieni Hypogeum", "Valletta", "Megalithic Temples"],
+      "influence": "Historically and culturally tied to Italy and Sicily",
+      "Italian_language_proficiency": "62 to 66 percent"
+    },
+    "history": {
+      "inhabitation_since": "Approximately 5900 BC",
+      "strategic_importance": "Naval base in the Mediterranean",
+      "succession_of_powers": ["Phoenicians", "Carthaginians", "Greeks", "Romans", "Arabs", "Normans", "Aragonese", "Knights of St. John", "French", "British"],
+      "British_colony": "1813",
+      "WWII_significance": "Allied base for operations in North Africa and the Mediterranean",
+      "independence_act": "1964"
+    }
+  }
+}
