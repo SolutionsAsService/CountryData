@@ -1,0 +1,93 @@
+{
+  "Iceland": {
+    "general_information": {
+      "official_name": "Iceland",
+      "native_name": "Ísland",
+      "flag": "Flag of Iceland",
+      "coat_of_arms": "Coat of arms of Iceland",
+      "anthem": "Lofsöngur",
+      "location": "Nordic island country, North Atlantic and Arctic Oceans",
+      "coordinates": {
+        "capital": "Reykjavík",
+        "latitude": "64°08′N",
+        "longitude": "21°56′W"
+      },
+      "largest_city": "Reykjavík",
+      "official_language": "Icelandic",
+      "ethnic_groups": {
+        "Icelandic": "86%",
+        "Polish": "6%",
+        "Lithuanian": "1%",
+        "Other": "7%"
+      },
+      "religion": {
+        "Christianity": "72.4%",
+        "Church_of_Iceland": "60.9%",
+        "Other_Christian": "11.5%",
+        "No_religion": "25.2%",
+        "Ásatrúarfélagið": "1.5%",
+        "Other": "0.9%"
+      },
+      "demonym": ["Icelander", "Icelandic"]
+    },
+    "government": {
+      "type": "Unitary parliamentary republic",
+      "president": "Guðni Th. Jóhannesson",
+      "prime_minister": "Katrín Jakobsdóttir",
+      "legislature": "Althing"
+    },
+    "historical_formation": {
+      "settlement": "9th century",
+      "commonwealth": "930–1262",
+      "union_with_Norway": "1262–1397",
+      "Kalmar_Union": "1397–1523",
+      "Denmark–Norway": "1523–1814",
+      "Treaty_of_Kiel": "14 January 1814",
+      "constitution_and_home_rule": "1874",
+      "sovereignty": "1 December 1918",
+      "republic_establishment": "17 June 1944"
+    },
+    "geography": {
+      "total_area_km2": 103125,
+      "water_percentage": "2.07",
+      "climate": "Temperate, influenced by Gulf Stream",
+      "geologic_activity": ["Geysers", "Volcanic eruptions"],
+      "landscape": ["Volcanic plateau", "Sand and lava fields", "Mountains", "Glaciers", "Glacial rivers"]
+    },
+    "economy": {
+      "currency": "Icelandic króna (ISK)",
+      "GDP_PPP": {
+        "total": "$27.078 billion",
+        "per_capita": "$69,833"
+      },
+      "GDP_nominal": {
+        "total": "$30.570 billion",
+        "per_capita": "$78,836"
+      },
+      "Gini_index": "23.2 (Low)",
+      "HDI": "0.959 (Very High)"
+    },
+    "demographics": {
+      "population_estimate_2022": 376248,
+      "census_2024": 399189,
+      "density_per_km2": 3.66
+    },
+    "culture": {
+      "heritage": "Scandinavian",
+      "language": "Icelandic (North Germanic)",
+      "literature": "Icelandic sagas",
+      "cuisine": "Traditional Icelandic cuisine",
+      "nato_membership": "Smallest population of any NATO member",
+      "armed_forces": "No standing army, only a lightly armed coast guard"
+    },
+    "etymology": {
+      "description": "Details of etymology to be provided"
+    },
+    "history": {
+      "initial_settlement": "874 AD",
+      "settler": "Norwegian chieftain Ingólfr Arnarson",
+      "Althing": "One of the world's oldest functioning legislative assemblies",
+      "post-medieval_period": "Details of post-medieval history to be provided"
+    }
+  }
+}
