@@ -1,0 +1,99 @@
+{
+  "Eswatini": {
+    "general_information": {
+      "official_name": "Kingdom of Eswatini",
+      "former_name": "Swaziland",
+      "flag": "Flag of Eswatini",
+      "coat_of_arms": "Coat of arms of Eswatini",
+      "motto": "Siyinqaba",
+      "anthem": "Nkulunkulu Mnikati wetibusiso temaSwati",
+      "location": "Southern Africa, landlocked",
+      "coordinates": {
+        "capital_executive": "Mbabane",
+        "capital_legislative": "Lobamba",
+        "coordinates": "26°30′S 31°30′E"
+      },
+      "largest_city": "Mbabane",
+      "official_languages": ["Swazi", "English"],
+      "ethnic_groups": {
+        "Swazi": "84%",
+        "Zulu": "10%",
+        "Others": "6%"
+      },
+      "religion": {
+        "Christianity": "89.3%",
+        "Protestantism": "88.8%",
+        "Other_Christian": "0.5%",
+        "No_religion": "7.4%",
+        "Traditional_faiths": "2.5%",
+        "Others": "0.8%"
+      },
+      "demonym": "Swazi",
+      "government": "Unitary absolute monarchy",
+      "leaders": {
+        "iNgwenyama": "Mswati III",
+        "Ndlovukati": "Ntfombi",
+        "Prime_Minister": "Russell Dlamini",
+        "Chief_Justice": "Bheki Maphalala"
+      }
+    },
+    "legislature": {
+      "type": "Bicameral",
+      "upper_house": "Senate",
+      "lower_house": "House of Assembly"
+    },
+    "independence": {
+      "from_UK": "6 September 1968",
+      "UN_membership": "24 September 1968",
+      "current_constitution": "2005",
+      "renaming": "19 April 2018"
+    },
+    "geography": {
+      "total_area_km2": 17364,
+      "water_percentage": 0.9,
+      "climate_and_topography": "Diverse, ranging from cool and mountainous highveld to hot and dry lowveld"
+    },
+    "economy": {
+      "currency": ["Lilangeni (SZL)", "South African rand (ZAR)"],
+      "GDP_PPP": {
+        "total": "$13.797 billion",
+        "per_capita": "$11,858"
+      },
+      "GDP_nominal": {
+        "total": "$4.648 billion",
+        "per_capita": "$3,995"
+      },
+      "Gini_index": "54.6 (High)",
+      "HDI": "0.597 (Medium)"
+    },
+    "demographics": {
+      "population_estimate_2023": 1236126,
+      "census_2017": 1093238,
+      "density_per_km2": 66.8,
+      "major_health_issues": ["HIV/AIDS", "Tuberculosis"],
+      "HIV_positive_adult_population": "28%",
+      "life_expectancy": "58 years",
+      "youth_population_percentage": "35%",
+      "median_age": "22 years"
+    },
+    "culture": {
+      "important_events": ["Umhlanga (Reed Dance)", "Incwala (Kingship Dance)"],
+      "language": "siSwati",
+      "country_name_in_native": "eSwatini"
+    },
+    "history": {
+      "establishment_of_kingdom": "Mid-18th century",
+      "namesake": "Mswati II",
+      "British_high_commission_territory": "1903-1968"
+    },
+    "politics": {
+      "government_type": "Absolute monarchy",
+      "current_monarch": "Mswati III",
+      "election_cycle": "Every 5 years",
+      "constitution_adoption": "2005"
+    },
+    "administrative_divisions": {
+      "description": "Details of administrative divisions to be provided"
+    }
+  }
+}
