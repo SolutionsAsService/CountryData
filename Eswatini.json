@@ -54,6 +54,7 @@
     "geography": {
       "total_area_km2": 17364,
       "water_percentage": 0.9,
+      "landlocked": true,
       "climate_and_topography": "Diverse, ranging from cool and mountainous highveld to hot and dry lowveld"
     },
     "economy": {
