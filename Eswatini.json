@@ -1,8 +1,11 @@
 {
   "Eswatini": {
     "general_information": {
+      "Name": {
       "official_name": "Kingdom of Eswatini",
       "former_name": "Swaziland",
+      "Swazi": "Umbuso weSwatini"
+          },
       "flag": "Flag of Eswatini",
       "coat_of_arms": "Coat of arms of Eswatini",
       "motto": "Siyinqaba",
