@@ -13,7 +13,7 @@
   {"Tsonga":	"Riphabliki ya Afrika Dzonga",
   {"Swati": "iRiphabhulikhi yaseNingizimu-Afrika",
   {"Venda": "Riphabuḽiki ya Afurika Tshipembe",
-  {"Southern Ndebele":	"iRiphabliki yeSewula Afrika",
+  {"Southern Ndebele":	"iRiphabliki yeSewula Afrika"
   ],
   "location": {
     "continent": "Africa",
@@ -28,25 +28,26 @@
     ],
     "coastline": "2,798 kilometers"
   },
-  "capitals": {
-    "executive": "Pretoria",
-    "legislative": "Cape Town",
-    "judicial": "Bloemfontein"
+  "CapitalCity": {
+    "Number": 3,
+    "Executive": "Pretoria",
+    "Legislative": "Cape Town",
+    "Judicial": "Bloemfontein"
   },
   "largest_city": "Johannesburg",
   "official_languages": [
     "Afrikaans", "English", "Ndebele", "Sepedi", "Sesotho", "Setswana", "South African Sign Language", "Swazi", "Tshivenda", "Xhosa", "Xitsonga", "Zulu"
   ],
-  "ethnic_groups": {
-    "2022_statistics": {
+  "Ethnic": {
+    "2022": {
       "Black": "81.4%",
       "Coloured": "8.2%",
       "White": "7.3%",
       "Asian": "2.7%"
     }
   },
-  "religion": {
-    "2016_statistics": {
+  "Religion": {
+    "2016": {
       "Christianity": "78.0%",
       "Protestantism": "58.3%",
       "Other_Christian": "19.7%",
@@ -58,8 +59,9 @@
       "Undetermined": "1.4%"
     }
   },
-  "government": {
+  "Government": {
     "type": "Unitary parliamentary republic with an executive presidency",
+    "Classification": "One Party Dominant - ANC",
     "president": "Cyril Ramaphosa",
     "deputy_president": "Paul Mashatile",
     "chairperson_national_council": "Amos Masondo",
@@ -101,7 +103,14 @@
       "COVID-19_impact": true,
       "unemployment_rate": "Not fully recovered since pandemic",
       "inequality": "Among highest globally",
-      "poverty_rate": "Estimated 63% in 2022"
+      "poverty_rate": "Estimated 63% in 2022",
+      "Corruption": true,
+      "InfrastructureDecay": {
+           "IndustialCargoByRoad": "70 percent",
+           "Transnet2022Loss; "306,000,000",
+           "WastewaterPlantFalure: "2/3",
+           
+      }
     },
     "GDP_growth": {
       "2022": "2%",
