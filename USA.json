@@ -1,93 +1,150 @@
 {
-  "USA":{
-  "Country": "United States of America",
-  "Alias": "America",
-   "Abbreviation": ["USA", "U.S.", ],
-  "Geography": {
-    "Location": "North America",
-    "Borders": {
-      "Land": ["Canada (North)", "Mexico (South)"],
-      "Maritime": "Various countries"
+    "USA": {
+    "Country": "United States of America",
+    "Alias": "America",
+    "Abbreviation": ["USA", "U.S." ],
+    "Geography": {
+      "Location": "North America",
+      "Borders": {
+        "Land": ["Canada (North)", "Mexico (South)"],
+        "Maritime": "Various countries"
+      },
+      "Area": {
+        "Total": "3,796,742 sq mi",
+        "Land": "3,531,905 sq mi",
+        "WaterPercentage": 4.66
+      },
+      "MajorLandforms": ["50 states", "Federal district", "Unincorporated territories", "Minor Outlying Islands", "Indian reservations"],
+      "Territories": [
+        {
+          "name": "American Samoa",
+          "abbreviation": "AS",
+          "location": "Polynesia (South Pacific)",
+          "area": "197.1 km2 (76 sq mi)",
+          "population": 49710,
+          "capital": "Pago Pago",
+          "largestTown": "Tafuna",
+          "status": "Unincorporated, unorganized",
+          "acquired": "April 17, 1900"
+        },
+        {
+          "name": "Guam",
+          "abbreviation": "GU",
+          "location": "Micronesia (North Pacific)",
+          "area": "543 km2 (210 sq mi)",
+          "population": 153836,
+          "capital": "Hagåtña",
+          "largestTown": "Dededo",
+          "status": "Unincorporated, organized",
+          "acquired": "April 11, 1899"
+        },
+        {
+          "name": "Northern Mariana Islands",
+          "abbreviation": "MP",
+          "location": "Micronesia (North Pacific)",
+          "area": "463.63 km2 (179 sq mi)",
+          "population": 47329,
+          "capital": "Saipan",
+          "largestTown": "Saipan",
+          "status": "Unincorporated, organized (Commonwealth)",
+          "acquired": "November 4, 1986"
+        },
+        {
+          "name": "Puerto Rico",
+          "abbreviation": "PR",
+          "location": "Caribbean (North Atlantic)",
+          "area": "9,104 km2 (3,515 sq mi)",
+          "population": 3285874,
+          "capital": "San Juan",
+          "largestTown": "San Juan",
+          "status": "Unincorporated, organized (Commonwealth)",
+          "acquired": "April 11, 1899"
+        },
+        {
+          "name": "U.S. Virgin Islands",
+          "abbreviation": "VI",
+          "location": "Caribbean (North Atlantic)",
+          "area": "346.36 km2 (134 sq mi)",
+          "population": 87146,
+          "capital": "Charlotte Amalie",
+          "largestTown": "Charlotte Amalie",
+          "status": "Unincorporated, organized",
+          "acquired": "March 31, 1917"
+        }
+      ]
     },
-    "Area": {
-      "Total": "3,796,742 sq mi",
-      "Land": "3,531,905 sq mi",
-      "WaterPercentage": 4.66
+    "Demographics": {
+      "Population": {
+        "2023Estimate": "334,914,895",
+        "2020Census": "331,449,281",
+        "Density": "87/sq mi"
+      },
+      "Ethnicity": {
+        "White": "61.6%",
+        "Black": "12.4%",
+        "Asian": "6.0%",
+        "NativeAmerican": "1.1%",
+        "PacificIslander": "0.2%",
+        "TwoOrMoreRaces": "10.2%",
+        "Other": "8.4%"
+      },
+      "Origin": {
+        "NonHispanicOrLatino": "81.3%",
+        "HispanicOrLatino": "18.7%"
+      },
+      "Religion": {
+        "Christianity": "70%",
+        "Unaffiliated": "21%",
+        "Judaism": "2%",
+        "OtherReligions": "6%",
+        "NoAnswer": "1%"
+      }
     },
-    "MajorLandforms": ["50 states", "Federal district", "Unincorporated territories", "Minor Outlying Islands", "Indian reservations"]
-  },
-  "Demographics": {
-    "Population": {
-      "2023Estimate": 334,914,895,
-      "2020Census": 331,449,281,
-      "Density": "87/sq mi"
+    "Government": {
+      "Type": "Federal presidential constitutional republic",
+      "President": "Joe Biden",
+      "VicePresident": "Kamala Harris",
+      "HouseSpeaker": "Mike Johnson",
+      "ChiefJustice": "John Roberts",
+      "Legislature": {
+        "UpperHouse": "Senate",
+        "LowerHouse": "House of Representatives"
+      },
+      "Independence": {
+        "Declaration": "July 4, 1776",
+        "Constitution": "June 21, 1788",
+        "LastAmendment": "May 5, 1992"
+      }
     },
-    "Ethnicity": {
-      "White": "61.6%",
-      "Black": "12.4%",
-      "Asian": "6.0%",
-      "NativeAmerican": "1.1%",
-      "PacificIslander": "0.2%",
-      "TwoOrMoreRaces": "10.2%",
-      "Other": "8.4%"
+    "Economy": {
+      "GDP_PPP_2023": {
+        "Total": "$26.950 trillion",
+        "PerCapita": "$80,412"
+      },
+      "GDP_Nominal_2023": {
+        "Total": "$26.950 trillion",
+        "PerCapita": "$80,412"
+      },
+      "GiniIndex": "39.4 (2020)",
+      "HDI": "0.921 (2021)"
     },
-    "Origin": {
-      "NonHispanicOrLatino": "81.3%",
-      "HispanicOrLatino": "18.7%"
+    "Miscellaneous": {
+      "Currency": "U.S. dollar (USD)",
+      "TimeZone": "UTC−4 to −12, +10, +11",
+      "SummerDST": "UTC−4 to −10",
+      "DateFormat": "mm/dd/yyyy",
+      "DrivingSide": "right",
+      "CallingCode": "+1",
+      "ISOCode": "US",
+      "InternetTLD": ".us"
     },
-    "Religion": {
-      "Christianity": "70%",
-      "Unaffiliated": "21%",
-      "Judaism": "2%",
-      "OtherReligions": "6%",
-      "NoAnswer": "1%"
-    }
-  },
-  "Government": {
-    "Type": "Federal presidential constitutional republic",
-    "President": "Joe Biden",
-    "VicePresident": "Kamala Harris",
-    "HouseSpeaker": "Mike Johnson",
-    "ChiefJustice": "John Roberts",
-    "Legislature": {
-      "UpperHouse": "Senate",
-      "LowerHouse": "House of Representatives"
-    },
-    "Independence": {
-      "Declaration": "July 4, 1776",
-      "Constitution": "June 21, 1788",
-      "LastAmendment": "May 5, 1992"
-    }
-  },
-  "Economy": {
-    "GDP_PPP_2023": {
-      "Total": "$26.950 trillion",
-      "PerCapita": "$80,412"
-    },
-    "GDP_Nominal_2023": {
-      "Total": "$26.950 trillion",
-      "PerCapita": "$80,412"
-    },
-    "GiniIndex": "39.4 (2020)",
-    "HDI": "0.921 (2021)"
-  },
-  "Miscellaneous": {
-    "Currency": "U.S. dollar (USD)",
-    "TimeZone": "UTC−4 to −12, +10, +11",
-    "SummerDST": "UTC−4 to −10",
-    "DateFormat": "mm/dd/yyyy",
-    "DrivingSide": "right",
-    "CallingCode": "+1",
-    "ISOCode": "US",
-    "InternetTLD": ".us"
-  },
-  "HistoricalEvents": [
-    "American Revolution",
-    "American Civil War",
-    "World War II",
-    "Cold War",
-    "Space Race",
-    "Moon Landing 1969"
-  ]
-}
-}
+    "HistoricalEvents": [
+      "American Revolution",
+      "American Civil War",
+      "World War II",
+      "Cold War",
+      "Space Race",
+      "Moon Landing 1969"
+    ]
+  }
+  }
