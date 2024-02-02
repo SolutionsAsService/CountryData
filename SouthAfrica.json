@@ -15,10 +15,13 @@
   {"Venda": "Riphabuḽiki ya Afurika Tshipembe",
   {"Southern Ndebele":	"iRiphabliki yeSewula Afrika"
   ],
-  "location": {
-    "continent": "Africa",
+  "Type": {
+    "Status": [ "Post Colonial", "Failed State" ],
+  },
+  "Location": {
+    "Continent": "Africa",
     "coordinates": "29°00′S 24°00′E",
-    "borders": [
+    "Border": [
       {"Namibia": "north"},
       {"Botswana": "north"},
       {"Zimbabwe": "north"},
@@ -109,6 +112,7 @@
            "IndustialCargoByRoad": "70 percent",
            "Transnet2022Loss; "306,000,000",
            "WastewaterPlantFalure: "2/3",
+      
            
       }
     },
