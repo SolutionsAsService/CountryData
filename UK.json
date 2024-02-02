@@ -1,76 +1,256 @@
 {
-  "Great Britain": {
-  "Country": "United Kingdom of Great Britain and Northern Ireland",
-  "Common_Names": ["United Kingdom", "UK", "Britain"],
-  "Flag_Description": "A red cross edged in white and superimposed on a red saltire, also edged in white, superimposed on a white saltire on a blue background",
-  "Anthem": {
-    "Title": "God Save the King",
-    "Duration": "1 minute and 4 seconds"
-  },
-  "Geography": {
-    "Location": "Northwestern Europe",
-    "Area_Sq_Km": 243610,
-    "Coastline": "Atlantic Ocean, North Sea, English Channel, Celtic Sea, Irish Sea",
-    "Capital": {
-      "Name": "London",
-      "Coordinates": "51°30′N 0°7′W"
+    "Great Britain": {
+    "Country": "United Kingdom of Great Britain and Northern Ireland",
+    "Common_Names": ["United Kingdom", "UK", "Britain"],
+    "Flag_Description": "A red cross edged in white and superimposed on a red saltire, also edged in white, superimposed on a white saltire on a blue background",
+    "Anthem": {
+      "Title": "God Save the King",
+      "Duration": "1 minute and 4 seconds"
     },
-    "Major_Islands": ["Great Britain", "Northern Ireland", "British Isles"],
-    "Borders": ["Republic of Ireland"]
-  },
-  "Demographics": {
-    "Population_2022": 66971395,
-    "Ethnic_Groups": {
-      "White": "87.1%",
-      "Asian": "7.0%",
-      "Black": "3.0%",
-      "Mixed": "2.0%",
-      "Other": "0.9%"
-    },
-    "Languages": {
-      "Official": "English",
-      "Regional": ["Scots", "Ulster Scots", "Welsh", "Cornish", "Scottish Gaelic", "Irish", "British Sign Language"]
+    "Geography": {
+      "Location": "Northwestern Europe",
+      "Area_Sq_Km": 243610,
+      "Coastline": "Atlantic Ocean, North Sea, English Channel, Celtic Sea, Irish Sea",
+      "Capital": {
+        "Name": "London",
+        "Coordinates": "51°30′N 0°7′W"
+      },
+      "Major_Islands": ["Great Britain", "Northern Ireland", "British Isles"],
+      "Borders": ["Republic of Ireland"],
+     "Territories": 
+     [
+      {
+        "name": "Anguilla",
+        "location": "Caribbean, North Atlantic Ocean",
+        "motto": "Unity, Strength and Endurance",
+        "area": "91 km2 (35.1 sq mi)",
+        "population": "14,869 (2019 estimate)",
+        "capital": "The Valley",
+        "gdpNominal": "$299 million",
+        "gdpPerCapitaNominal": "$20,307",
+        "notes": ""
+      },
+      {
+        "name": "Bermuda",
+        "location": "North Atlantic Ocean between the Azores, the Caribbean, Cape Sable Island in Canada, and Cape Hatteras in the United States",
+        "motto": "\"Quo fata ferunt\" (Latin; \"Whither the Fates carry [us]\")",
+        "area": "54 km2 (20.8 sq mi)",
+        "population": "62,506 (2019 estimate)",
+        "capital": "Hamilton",
+        "gdpNominal": "$6.464 billion",
+        "gdpPerCapitaNominal": "$102,987",
+        "notes": ""
+      },
+      {
+        "name": "British Antarctic Territory",
+        "location": "Antarctica",
+        "motto": "Research and discovery",
+        "area": "1,709,400 km2 (660,000 sq mi)",
+        "population": "50 non-permanent in winter, over 400 in summer (research personnel)",
+        "capital": "Rothera (main base)",
+        "gdpNominal": "",
+        "gdpPerCapitaNominal": "",
+        "notes": "Subject to the Antarctic Treaty System."
+      },
+      {
+        "name": "British Indian Ocean Territory",
+        "location": "Indian Ocean",
+        "motto": "\"In tutela nostra Limuria\" (Latin; \"Limuria is in our charge\")",
+        "area": "60 km2 (23 sq mi)",
+        "population": "0\n3,000 non-permanent (UK and US military and staff personnel; estimate)",
+        "capital": "Naval Support Facility Diego Garcia (base)",
+        "gdpNominal": "",
+        "gdpPerCapitaNominal": "",
+        "notes": "Claimed by Mauritius. Includes seven atolls of the Chagos Archipelago and the island of Diego Garcia."
+      },
+      {
+        "name": "British Virgin Islands",
+        "location": "Caribbean, North Atlantic Ocean",
+        "motto": "\"Vigilate\" (Latin; \"Be watchful\")",
+        "area": "153 km2 (59 sq mi)",
+        "population": "31,758 (2018 census)",
+        "capital": "Road Town",
+        "gdpNominal": "$1.05 billion",
+        "gdpPerCapitaNominal": "$48,511",
+        "notes": "Tortola, Virgin Gorda, Anegada, Jost Van Dyke."
+      },
+      {
+        "name": "Cayman Islands",
+        "location": "Caribbean",
+        "motto": "\"He hath founded it upon the seas\"",
+        "area": "264 km2 (101.9 sq mi)",
+        "population": "78,554 (2022 report)",
+        "capital": "George Town",
+        "gdpNominal": "$4.298 billion",
+        "gdpPerCapitaNominal": "$85,474",
+        "notes": "Grand Cayman, Cayman Brac, and Little Cayman."
+      },
+      {
+        "name": "Falkland Islands",
+        "location": "South Atlantic Ocean",
+        "motto": "\"Desire the right\"",
+        "area": "12,173 km2 (4,700 sq mi)",
+        "population": "3,377 (2019 estimate)\n1,350 non-permanent (UK military personnel; 2012 estimate)",
+        "capital": "Stanley",
+        "gdpNominal": "$164.5 million",
+        "gdpPerCapitaNominal": "$70,800",
+        "notes": "Claimed by Argentina. In 1982 the Falklands War was fought over control of the islands. Includes East Falkland, West Falkland and over 700 other islands."
+      },
+      {
+        "name": "Gibraltar",
+        "location": "Iberian Peninsula, Continental Europe",
+        "motto": "\"Nulli expugnabilis hosti\" (Latin; \"No enemy shall expel us\")",
+        "area": "6.5 km2 (2.5 sq mi)",
+        "population": "33,701 (2019 estimate)\n1,250 non-permanent (UK military personnel; 2012 estimate)",
+        "capital": "Gibraltar",
+        "gdpNominal": "$3.08 billion",
+        "gdpPerCapitaNominal": "$92,843",
+        "notes": "Claimed by Spain."
+      },
+      {
+        "name": "Montserrat",
+        "location": "Caribbean, North Atlantic Ocean",
+        "motto": "\"A people of excellence, moulded by nature, nurtured by God\"",
+        "area": "101 km2 (39 sq mi)",
+        "population": "5,215 (2019 census)",
+        "capital": "Plymouth (de jure, but abandoned due to Soufrière Hills volcanic eruption. De facto capital is Brades)",
+        "gdpNominal": "$61 million",
+        "gdpPerCapitaNominal": "$12,181",
+        "notes": ""
+      },
+      {
+        "name": "Pitcairn Islands",
+        "location": "Pacific Ocean",
+        "motto": "",
+        "area": "47 km2 (18 sq mi)",
+        "population": "50 (2018 estimate)\n6 non-permanent (2014 estimate)",
+        "capital": "Adamstown",
+        "gdpNominal": "$144,715",
+        "gdpPerCapitaNominal": "$2,894",
+        "notes": "Pitcairn, Henderson, Ducie and Oeno."
+      },
+      {
+        "name": "Saint Helena, Ascension and Tristan da Cunha",
+        "location": "South Atlantic Ocean",
+        "motto": "",
+        "area": "420 km2 (162 sq mi)",
+        "population": "5,633 (total; 2016 census)",
+        "capital": "Jamestown",
+        "gdpNominal": "$55.7 million",
+        "gdpPerCapitaNominal": "$12,230",
+        "notes": "",
+        "subTerritories": [
+          {
+            "name": "Saint Helena",
+            "motto": "Loyal and Unshakeable",
+            "population": "4,349 (2019 census)"
+          },
+          {
+            "name": "Ascension Island",
+            "population": "880 (estimate)\n1,000 non-permanent (UK military personnel; estimate)"
+          },
+          {
+            "name": "Tristan da Cunha",
+            "motto": "Our faith is our strength",
+            "population": "300 (estimate)\n9 non-permanent (weather personnel)"
+          }
+        ]
+      },
+      {
+        "name": "South Georgia and the South Sandwich Islands",
+        "location": "South Atlantic Ocean",
+        "motto": "\"Leo terram propriam protegat\" (Latin; \"Let the lion protect his own land\")",
+        "area": "3,903 km2 (1,507 sq mi)",
+        "population": "0\n99 non-permanent (officials and research personnel)",
+        "capital": "King Edward Point",
+        "gdpNominal": "",
+        "gdpPerCapitaNominal": "",
+        "notes": "Claimed by Argentina. The islands were occupied by Argentina during the Falklands War in 1982. Consists of South Georgia and a chain of smaller islands known as the South Sandwich Islands."
+      },
+      {
+        "name": "Akrotiri and Dhekelia",
+        "location": "Cyprus, Mediterranean Sea",
+        "motto": "",
+        "area": "255 km2 (98 sq mi)",
+        "population": "7,700 (Cypriots; estimate)\n8,000 non-permanent (UK military personnel and their families; estimate)",
+        "capital": "Episkopi Cantonment",
+        "gdpNominal": "",
+        "gdpPerCapitaNominal": "",
+        "notes": "Full sovereignty (beyond that of any other military base) disputed by Cyprus."
+      },
+      {
+        "name": "Turks and Caicos Islands",
+        "location": "Lucayan Archipelago, North Atlantic Ocean",
+        "motto": "",
+        "area": "948 km2 (366 sq mi)",
+        "population": "38,191 (2019 estimate)",
+        "capital": "Cockburn Town",
+        "gdpNominal": "$1.077 billion",
+        "gdpPerCapitaNominal": "£28,589",
+        "notes": "Includes Grand Turk Island."
     }
-  },
-  "Government": {
-    "Type": "Unitary parliamentary constitutional monarchy",
-    "Monarch": "Charles III",
-    "Prime_Minister": "Rishi Sunak",
-    "Legislature": {
-      "Upper_House": "House of Lords",
-      "Lower_House": "House of Commons"
-    },
-    "Formation": {
-      "Laws_in_Wales_Acts": "1535 and 1542",
-      "Union_of_the_Crowns": "24 March 1603",
-      "Treaty_of_Union": "22 July 1706",
-      "Acts_of_Union_England_Scotland": "1 May 1707",
-      "Acts_of_Union_Great_Britain_Ireland": "1 January 1801",
-      "Irish_Free_State_Constitution_Act": "5 December 1922"
+    ],
+        "overall": {
+            "area": "c. 1,727,415 km2\n(18,105 km2 excl. BAT)",
+            "population": "c. 272,256",
+             "gdpNominal": "c. $16.55 billion"
     }
-  },
-  "Economy": {
-    "GDP_PPP_2023": {
-      "Total": "$3.872 trillion",
-      "Per_Capita": "$56,836"
+      
     },
-    "GDP_Nominal_2023": {
-      "Total": "$3.332 trillion",
-      "Per_Capita": "$48,913"
+    "Demographics": {
+      "Population_2022": 66971395,
+      "Ethnic_Groups": {
+        "White": "87.1%",
+        "Asian": "7.0%",
+        "Black": "3.0%",
+        "Mixed": "2.0%",
+        "Other": "0.9%"
+      },
+      "Languages": {
+        "Official": "English",
+        "Regional": ["Scots", "Ulster Scots", "Welsh", "Cornish", "Scottish Gaelic", "Irish", "British Sign Language"]
+      }
     },
-    "Currency": "Pound sterling (GBP)"
-  },
-  "Culture": {
-    "Influences": "Literature, language, music, sport",
-    "Legal_Jurisdictions": ["England and Wales", "Scotland", "Northern Ireland"]
-  },
-  "Additional_Information": {
-    "Time_Zone": "UTC+0 (GMT), UTC+1 (BST in summer)",
-    "Driving_Side": "left",
-    "Calling_Code": "+44",
-    "ISO_Code": "GB",
-    "Internet_TLD": ".uk",
-    "UN_Security_Council": "Permanent member"
+    "Government": {
+      "Type": "Unitary parliamentary constitutional monarchy",
+      "Monarch": "Charles III",
+      "Prime_Minister": "Rishi Sunak",
+      "Legislature": {
+        "Upper_House": "House of Lords",
+        "Lower_House": "House of Commons"
+      },
+      "Formation": {
+        "Laws_in_Wales_Acts": "1535 and 1542",
+        "Union_of_the_Crowns": "24 March 1603",
+        "Treaty_of_Union": "22 July 1706",
+        "Acts_of_Union_England_Scotland": "1 May 1707",
+        "Acts_of_Union_Great_Britain_Ireland": "1 January 1801",
+        "Irish_Free_State_Constitution_Act": "5 December 1922"
+      }
+    },
+    "Economy": {
+      "GDP_PPP_2023": {
+        "Total": "$3.872 trillion",
+        "Per_Capita": "$56,836"
+      },
+      "GDP_Nominal_2023": {
+        "Total": "$3.332 trillion",
+        "Per_Capita": "$48,913"
+      },
+      "Currency": "Pound sterling (GBP)"
+    },
+    "Culture": {
+      "Influences": "Literature, language, music, sport",
+      "Legal_Jurisdictions": ["England and Wales", "Scotland", "Northern Ireland"]
+    },
+    "Additional_Information": {
+      "Time_Zone": "UTC+0 (GMT), UTC+1 (BST in summer)",
+      "Driving_Side": "left",
+      "Calling_Code": "+44",
+      "ISO_Code": "GB",
+      "Internet_TLD": ".uk",
+      "UN_Security_Council": "Permanent member"
+    }
   }
-}
-}
+  }
+  
