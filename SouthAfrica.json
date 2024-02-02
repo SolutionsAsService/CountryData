@@ -18,6 +18,9 @@
   "Type": {
     "Status": [ "Post Colonial", "Failed State" ],
   },
+    "History": {
+      "PostColonial": ["Dutch", "British"]
+    },
   "Location": {
     "Continent": "Africa",
     "coordinates": "29°00′S 24°00′E",
