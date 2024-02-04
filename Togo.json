@@ -1,6 +1,10 @@
 {
   "Togo": {
-    "officialName": "Togolese Republic",
+    "Name": {
+    "official": "Togolese Republic",
+    "common": "Togo"
+    },
+    "Status": ["Islamic Insurgency"],
     "location": {
       "region": "West Africa",
       "borders": {
