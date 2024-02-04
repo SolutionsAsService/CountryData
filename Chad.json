@@ -1,9 +1,11 @@
 {
+  "Chad": {
   "Country": "Republic of Chad",
   "Names": {
     "Arabic": "جمهورية تشاد",
     "French": "République du Tchad"
   },
+  "Status": ["Islamic Insurgency"],
   "Symbols": {
     "Flag": "Flag of Chad",
     "CoatOfArms": "Coat of arms of Chad",
@@ -68,4 +70,5 @@
     },
     "Membership": ["African Union", "United Nations"]
   }
+}
 }
