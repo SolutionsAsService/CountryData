@@ -1,6 +1,8 @@
 {
+  "Ethiopia": {
   "Country": "Federal Democratic Republic of Ethiopia",
   "AmharicName": "የኢትዮጵያ ፌደራላዊ ዴሞክራሲያዊ ሪፐብሊክ",
+    "Status": ["Civil Conflict"],
   "Symbols": {
     "Flag": "Flag of Ethiopia",
     "Emblem": "Emblem of Ethiopia",
@@ -87,4 +89,5 @@
       "BRICS"
     ]
   }
+}
 }
