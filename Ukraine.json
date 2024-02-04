@@ -1,6 +1,8 @@
 {
+  "Ukraine": {
   "Country": "Ukraine",
   "Local Name": "Україна",
+    "Status": ["Post-Soviet", "Proxy State"],
   "Flag": "Blue and yellow horizontal bicolor",
   "Coat of Arms": "A trident known as the Tryzub",
   "Anthem": "State Anthem of Ukraine",
@@ -64,4 +66,5 @@
     "Member of": ["United Nations", "Council of Europe", "World Trade Organization", "OSCE"],
     "In Process": "Joining the European Union and NATO"
   }
+}
 }
