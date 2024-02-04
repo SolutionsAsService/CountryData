@@ -1,7 +1,9 @@
 {
+  "Sudan": {
   "Country_Name": "Republic of the Sudan",
   "Local_Name": "Jumhūriyyat as-Sūdān",
   "Arabic_Name" : "مهورية السودان",
+  "Status": ["Civil War"],
   "ISO_Code": "SD",
   "Capital": "Khartoum",
   "Major_Cities": ["Omdurman", "Port Sudan", "Kassala", "Kosti", "Juba"],
@@ -97,4 +99,5 @@
     "Recent_Events": ["Secession of South Sudan in 2011", "Sudanese Revolution in 2018"]
   },
   "International_Affiliations": ["United Nations", "Arab League", "African Union", "COMESA", "Non-Aligned Movement", "Organisation of Islamic Cooperation"]
+}
 }
