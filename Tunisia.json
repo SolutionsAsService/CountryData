@@ -1,11 +1,18 @@
 {
-  "Country_Name": "Tunisia",
-  "Official_Name": "Republic of Tunisia",
-  "Arabic_Name": "الجمهورية التونسية",
+  "Tunisia": {
+    "Name": {
+  "Common": "Tunisia",
+  "Official": "Republic of Tunisia",
+  "Arabic": "الجمهورية التونسية",
+   },
+   "Status": ["Islamic Insurgency"],
   "Location": {
     "Continent": "Africa",
     "Region": "North Africa, Maghreb",
-    "Borders": ["Algeria", "Libya"],
+    "Borders":  {
+                "Algeria": "West",
+                "Libya": "East"
+    },
     "Coastline": "Mediterranean Sea",
     "Coordinates": "36°49′N 10°11′E"
   },
@@ -84,4 +91,5 @@
     "Tunisia - The World Factbook": "https://www.cia.gov/the-world-factbook/countries/tunisia/",
     "Culture of Tunisia - Wikipedia": "https://en.wikipedia.org/wiki/Culture_of_Tunisia"
   ]
+}
 }
