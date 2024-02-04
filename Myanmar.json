@@ -2,6 +2,7 @@
   "Myanmar": {
   "FullName": "Republic of the Union of Myanmar",
   "AlsoKnownAs": "Burma",
+    "Status": ["Civil War", "Deep Internal Conflict"],
   "Geography": {
     "Location": "Southeast Asia",
     "Area": {
