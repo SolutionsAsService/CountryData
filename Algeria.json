@@ -1,11 +1,12 @@
 {
   "Algeria":{
-  "Name": "Algeria",
-  "FullName": "People's Democratic Republic of Algeria",
-  "Native_Names": {
+    "Name":{
+    "Common": "Algeria",
+    "Full": "People's Democratic Republic of Algeria",
     "Arabic": "الجمهورية الجزائرية الديمقراطية الشعبية",
     "French": "République algérienne démocratique et populaire"
   },
+  "Status": ["Islamic Insurgency"],
   "Location": {
     "Continent": "North Africa",
     "Borders": ["Tunisia", "Libya", "Niger", "Mali", "Mauritania", "Western Sahara", "Morocco"],
