@@ -1,8 +1,12 @@
 {
+  "North Korea" : {
+    "Name": {
   "Country": "Democratic People's Republic of Korea (DPRK)",
   "Also_Known_As": "North Korea",
   "Korean_Name": "조선민주주의인민공화국",
-  "Romanized_Name": "Chosŏn Minjujuŭi Inmin Konghwaguk",
+  "Romanized_Name": "Chosŏn Minjujuŭi Inmin Konghwaguk"
+    },
+  "Status": ["Korean Conflict"],
   "Geographical_Location": "East Asia",
   "Korean_Peninsula": {
     "Position": "Northern half",
@@ -87,4 +91,5 @@
     "United_Nations_Member": "since 1991",
     "Other_Memberships": ["Non-Aligned Movement", "G77", "ASEAN Regional Forum"]
   }
+}
 }
