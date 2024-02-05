@@ -1,6 +1,11 @@
 {
-  "Country": "Kingdom of Thailand",
-  "Historical_Name": "Siam",
+  "Thailand": {
+    "Name": {
+      "Common": "Thailand",
+      "Country": "Kingdom of Thailand",
+      "Historical_Name": "Siam"
+    },
+  "Status": ["South Thailand insurgency"],
   "Flag_Description": "Horizontal red, white, and blue stripes",
   "Emblem_Description": "Garuda, a mythical bird-like creature",
   "Anthem": {
