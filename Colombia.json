@@ -1,8 +1,11 @@
 {
   "Colombia": {
-    "Name": "Colombia",
-    "FullName": "Republic of Colombia",
-    "SpanishName": "República de Colombia",
+    "Name": {
+    "Common":"Colombia",
+    "Full": "Republic of Colombia",
+    "Spanish": "República de Colombia"
+    },
+    "Status": ["Heavy Political Violence"],
     "location": "Mostly in South America with insular regions in North America",
     "capital_and_largest_city": "Bogotá",
     "official_languages": "Spanish",
