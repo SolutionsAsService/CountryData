@@ -1,0 +1,110 @@
+{
+  "Senegal": {
+    "OfficialName": "Republic of Senegal",
+    "Flag": "Flag of Senegal",
+    "CoatOfArms": "Coat of arms of Senegal",
+    "Motto": "\"Un Peuple, Un But, Une Foi\" (French for \"One People, One Goal, One Faith\")",
+    "Anthem": {
+      "Title": "Le Lion rouge (The Red Lion)",
+      "Duration": "56 seconds"
+    },
+    "CapitalAndLargestCity": "Dakar",
+    "Coordinates": {
+      "Latitude": "14°40′N",
+      "Longitude": "17°25′W"
+    },
+    "OfficialLanguage": "French",
+    "NationalLanguages": [
+      "Wolof",
+      "Serer",
+      "Diola",
+      "Hassaniya Arabic",
+      "Pulaar",
+      "Soninke",
+      "Mandinka"
+    ],
+    "LinguaFranca": [
+      "Wolof",
+      "French",
+      "Pulaar",
+      "Serer",
+      "Diola",
+      "Hassaniya Arabic",
+      "Soninke",
+      "Malinke",
+      "Arabic"
+    ],
+    "EthnicGroups2019": {
+      "Wolof": "39.7%",
+      "Fula": "27.5%",
+      "Serer": "16.0%",
+      "Mandinka": "4.9%",
+      "Jola": "4.2%",
+      "Soninke": "2.4%",
+      "Others": "5.4%"
+    },
+    "Demonym": "Senegalese",
+    "GovernmentType": "Unitary presidential republic",
+    "Leaders": {
+      "President": "Macky Sall",
+      "PrimeMinister": "Amadou Ba",
+      "PresidentOfTheNationalAssembly": "Amadou Mame Diop"
+    },
+    "Legislature": "National Assembly",
+    "IndependenceHistory": {
+      "RepublicEstablished": "25 November 1957",
+      "IndependenceFromFrance": "4 April 1960",
+      "WithdrawalFromMaliFederation": "20 August 1960",
+      "AsSenegal": "22 September 1960",
+      "DissolutionOfSenegambiaConfederation": "30 September 1989"
+    },
+    "Area": {
+      "TotalKm2": "196,722",
+      "Rank": "86th",
+      "WaterPercentage": "2.1"
+    },
+    "Population2023Estimate": "18,384,660",
+    "PopulationRank": "67th",
+    "GDP_PPP_2023Estimate": {
+      "Total": "$78.547 billion",
+      "PerCapita": "$4,324",
+      "Rank": "106th"
+    },
+    "GDP_Nominal_2023Estimate": {
+      "Total": "$31.141 billion",
+      "PerCapita": "$1,714",
+      "Rank": "111th"
+    },
+    "Gini_2011": "40.3",
+    "HDI_2021": "0.511",
+    "HDIRank": "170th",
+    "Currency": "West African CFA franc (XOF)",
+    "TimeZone": "UTC (GMT)",
+    "Dateformat": "mm/dd/yyyy",
+    "Drivingside": "right",
+    "CallingCode": "+221",
+    "ISO3166Code": "SN",
+    "InternetTLD": ".sn",
+    "GeographicNotes": "Westernmost country in the mainland of the Old World, or Afro-Eurasia",
+    "Climate": "Typically Sahelian, with a rainy season",
+    "EconomicAndSocialIndicators": {
+      "Classification": "Heavily indebted poor country",
+      "DevelopmentBasis": "Education, with almost half the state's budget spent on it",
+      "MajorIndustries": [
+        "Agriculture",
+        "Mining",
+        "Tourism",
+        "Services"
+      ]
+    },
+    "Membership": [
+      "African Union",
+      "United Nations",
+      "Economic Community of West African States (ECOWAS)",
+      "Organisation internationale de la Francophonie",
+      "Organisation of Islamic Cooperation",
+      "Community of Sahel-Saharan States"
+    ],
+    "CulturalNotes": "Known for the Paris-Dakar Rally in motor sports"
+  }
+}
