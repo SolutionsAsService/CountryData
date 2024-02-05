@@ -1,10 +1,16 @@
 {
     "South Korea": {
+        "Name" : {
+        "Common": "Korea"
         "Official Name": "Republic of Korea",
         "Local Name": "대한민국 (Daehanminguk)",
+        },
+        "Status": ["Korean Conflict"],
+        "Symbol" : {
         "Flag": "Centered taegeuk on a white rectangle with four black trigrams",
         "Emblem": "Centered taegeuk on a hibiscus syriacus surrounded by five stylized petals and a ribbon",
-        "Anthem": "Aegukga ('The Patriotic Song')",
+        "Anthem": "Aegukga ('The Patriotic Song')"
+        },
         "Location": {
             "Continent": "East Asia",
             "Capital": "Seoul",
