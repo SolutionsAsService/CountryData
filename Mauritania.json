@@ -3,14 +3,16 @@
         "Name": {
             "Common": "Mauritania",
             "Official": "Islamic Republic of Mauritania",
-           "Arabic": "الجمهورية الإسلامية الموريتانية",
+            "Arabic": "الجمهورية الإسلامية الموريتانية",
             "Romanized": "al-Jumhūrīyah al-Islāmīyah al-Mūrītānīyah"
-
         },
+        "Status": ["Islamic Insurgency"],
+        "Symbols": {
         "Flag": "Described Image",
         "Seal": "Described Image",
         "Motto": "Honour, Fraternity, Justice",
         "Anthem": "Land of the Proud, Guided by Noblemen",
+        },
         "Capital and Largest City": "Nouakchott",
         "Official Language": "Arabic",
         "Recognised National Languages": ["Pulaar", "Soninke", "Wolof"],
