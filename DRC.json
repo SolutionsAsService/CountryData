@@ -1,11 +1,12 @@
 {
-  "DRC":{
-  "Name":{
+  "DRC": {
+  "Name": {
   "Full": "Democratic Republic of the Congo",
   "French": "République démocratique du Congo",
   "aliases": ["Congo-Kinshasa", "DRC", "DR Congo", "Congo"],
   "Former": "Zaire"
   },
+  "Status": ["Katanga insurgency"],
     "Location":{
       "Border": ["Republic of the Congo", "Central African Republic", "South Sudan", "Uganda", "Rwanda", "Burundi", { "Tanzania":"across Lake Tanganyika"}, "Zambia", "Angola", "Cabinda exclave of Angola", "South Atlantic Ocean"],
     "area": {
