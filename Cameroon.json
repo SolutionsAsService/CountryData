@@ -11,7 +11,7 @@
                 "Nigeria": ["west", "north"], 
                  "Chad": "northeast", 
                  "Central African Republic": "east", 
-                 ["Equatorial Guinea", "Gabon", "Republic of the Congo"]: "south"
+                 "south": ["Equatorial Guinea", "Gabon", "Republic of the Congo"]
     },
   "Coordinates": {
     "Capital": {
