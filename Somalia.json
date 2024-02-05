@@ -1,11 +1,12 @@
 {
   "Somalia": {
-  "Country": "Federal Republic of Somalia",
-  "OfficialNames": {
+    "Name": {
+      "Common": "Somalia", 
+    "Official": "Federal Republic of Somalia",
     "Somali": "Jamhuuriyadda Federaalka Soomaaliya",
     "Arabic": "جمهورية الصومال الفيدرالية"
   },
-  "Status": ["Civil War", "Failed State", "Large territory Disputes"],
+  "Status": ["Civil War", "Failed State", "Large territory Disputes", "Islamic Insurgency"],
   "Symbols": {
     "Flag": "Flag of Somalia",
     "CoatOfArms": "Coat of arms of Somalia",
