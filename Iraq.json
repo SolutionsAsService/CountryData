@@ -11,15 +11,15 @@
   "Status": ["Islamic Insurgency", "Deep Political Instability", "Proxy State", "Civil War"],
   "anthem": "Mawṭinī (My Homeland)",
   "location": "West Asia, Middle East",
-  "Borders": [
-      "Turkeye",
-      "Iran",
-      "Persian Gulf",
-      "Kuwait",
-      "Saudi Arabia",
-      "Jordan",
-      "Syria"
-    ],
+  "Borders": {
+      "Turkeye": "North",
+      "Iran": "East",
+      "Persian Gulf": "South",
+      "Kuwait": "South",
+      "Saudi Arabia": "Southwest",
+      "Jordan": "West",
+      "Syria": "West"
+  },
   "geographical_description": "mostly arid",
   "capital_and_largest_city": "Baghdad",
   "official_languages": ["Arabic", "Kurdish"],
