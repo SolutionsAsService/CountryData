@@ -1,7 +1,11 @@
 {
   "India": {
-    "official_name": "Republic of India",
+    "Name": {
+      "Common": "India",
+     "Official": "Republic of India",
     "alternative_names": ["Bhārat Gaṇarājya"],
+     },
+    "Status": ["Large Border Disputes", "Kashmir conflict"],
     "geographical_data": {
       "continent": "Asia",
       "area_sq_km": 3287263,
