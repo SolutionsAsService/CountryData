@@ -1,10 +1,13 @@
 {
   "Morocco":{
     "Name": {
-  "Common": "Morocco",
-  "Official": "Kingdom of Morocco",
+     "Common": "Morocco",
+     "Official": "Kingdom of Morocco",
+     "Arabic":  "المملكة المغربية",
+     "Romanized": "al-Mamlakah al-Maghribiyah",
+     "Berber": "ⵜⴰⴳⵍⴷⵉⵜ ⵏ ⵍⵎⵖⵔⵉⴱ"
    },
-  "Status": ["Islamic Insurgency"],
+  "Status": ["Islamic Insurgency", "Western Sahara Conflict"],
   "Location": {
     "Region": "North Africa",
     "Borders": {
