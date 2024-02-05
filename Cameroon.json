@@ -1,7 +1,10 @@
 {
-  "Cameroon":{
-  "Country": "Republic of Cameroon",
-  "Native Name": "République du Cameroun",
+  "Cameroon": {
+    "Name": {
+  "Official": "Republic of Cameroon",
+  "Native": "République du Cameroun"
+  },
+  "Status": ["Islamic Insurgency"],
   "Location": "Central Africa",
   "Coordinates": {
     "Capital": {
