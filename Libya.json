@@ -1,8 +1,11 @@
 {
   "Libya": {
-    "official_name": "State of Libya",
-    "native_name": "دولة ليبيا",
-    "transliteration": "Dawlat Lībiyā",
+    "Name": {
+    "Official": "State of Libya",
+    "Native": "دولة ليبيا",
+    "Transliteration": "Dawlat Lībiyā"
+    },
+    "Status": ["Islamic Insurgency"],
     "geography": {
       "region": "Maghreb, North Africa",
       "Historical_Regions": ["Tripolitania", "Fezzan", "Cyrenaica"]
