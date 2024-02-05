@@ -1,6 +1,14 @@
 {
-  "country": "Iraq",
-  "official_name": "Republic of Iraq",
+  "Iraq": {
+    "Name": {
+    "Common": "Iraq",
+    "Official": "Republic of Iraq",
+    "Arabic": "جمهورية العراق",
+    "ArabicRomanized": "Jumhūriyyat al-ʿIrāq",
+     "Kurdish" : "کۆماری عێراق",
+     "KurdishRomanized": "Komarî Êraq"
+      },
+  "Status": ["Islamic Insurgency", "Deep Political Instability", "Proxy State", "Civil War"],
   "anthem": "Mawṭinī (My Homeland)",
   "location": "West Asia, Middle East",
   "Borders": [
@@ -59,4 +67,5 @@
     "Majority": "Muslims (Sunni and Shia)",
     "Minorities": ["Christianity", "Yazidism", "Mandaeism", "Yarsanism", "Zoroastrianism"]
   }
+}
 }
