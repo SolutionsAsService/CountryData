@@ -1,7 +1,10 @@
 {
   "Morocco":{
-  "CommonName": "Morocco",
-  "Official_Name": "Kingdom of Morocco",
+    "Name": {
+  "Common": "Morocco",
+  "Official": "Kingdom of Morocco",
+   },
+  "Status": ["Islamic Insurgency"],
   "Location": {
     "Region": "North Africa",
     "Borders": {
