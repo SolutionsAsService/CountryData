@@ -1,10 +1,12 @@
 {
-  "Official_Name": "Federal Republic of Nigeria",
-  "Native Names": {
+  "Nigeria": {
+    "Name": {
+    "Official": "Federal Republic of Nigeria",
     "Hausa": "Jamhuriyar Tarayyar Najeriya",
     "Igbo": "Ọ̀hàńjíkọ̀ Ọ̀hànézè Naìjíríyà",
     "Yoruba": "Orílẹ̀-èdè Olómìniira Àpapọ̀ Nàìjíríà"
   },
+  "Status": ["Islamic Insurgency"],
   "Geographical Location": "West Africa",
   "Borders": {
     "North": "Niger",
@@ -82,4 +84,5 @@
     "Indigenous": "Minority"
   },
   "International Affiliations": ["African Union", "United Nations", "Commonwealth of Nations", "ECOWAS", "OIC", "OPEC"]
+}
 }
