@@ -4,14 +4,22 @@
   "Official": "Republic of Cameroon",
   "Native": "République du Cameroun"
   },
-  "Status": ["Islamic Insurgency"],
-  "Location": "Central Africa",
+  "Status": ["Islamic Insurgency", "Boko Haram insurgency"],
+  "Location": {
+    "Region": "Central Africa",
+    "Borders": {
+                "Nigeria": ["west", "north"], 
+                 "Chad": "northeast", 
+                 "Central African Republic": "east", 
+                 ["Equatorial Guinea", "Gabon", "Republic of the Congo"]: "south"
+    },
   "Coordinates": {
     "Capital": {
       "Name": "Yaoundé",
       "Latitude": "3°52′N",
       "Longitude": "11°31′E"
-    },
+    }
+  },
     "Largest City": "Douala"
   },
   "Official Languages": ["French", "English"],
