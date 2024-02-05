@@ -6,10 +6,13 @@
         "Urdu": "اسلامی جمہوریہ پاكستان",
         "Romanization":"Islāmī Jumhūriyah Pākistān"
         },
+        "Status": ["Large Border Disputes", "Kashmir conflict"],
+        "Symbol": {
         "Flag": "Described Image",
         "State Emblem": "Described Image",
         "Motto": "Faith, Unity, Discipline",
-        "Anthem": "The National Anthem",
+        "Anthem": "The National Anthem"
+         },
         "Capital": "Islamabad",
         "Largest City": "Karachi",
         "Official Languages": ["Urdu", "English"],
