@@ -1,6 +1,10 @@
 {
   "Senegal": {
-    "OfficialName": "Republic of Senegal",
+    "Name": {
+    "Official": "Republic of Senegal",
+    "Common": "Senegal"
+    },
+    "Status": ["Casamance conflict"],
     "Flag": "Flag of Senegal",
     "CoatOfArms": "Coat of arms of Senegal",
     "Motto": "\"Un Peuple, Un But, Une Foi\" (French for \"One People, One Goal, One Faith\")",
