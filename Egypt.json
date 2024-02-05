@@ -1,18 +1,23 @@
 {
   "Egypt": {
-    "official_name": "Arab Republic of Egypt",
-    "native_name": "جمهورية مصر العربية",
-    "transcription": "Jumhūrīyat Miṣr al-ʻArabīyah",
+    "Name": {
+      "Common": "Egypt"
+    "Official": "Arab Republic of Egypt",
+    "Arabic": "جمهورية مصر العربية",
+    "transcription": "Jumhūrīyat Miṣr al-ʻArabīyah"
+    },
+    "Status": ["Islamic Terrorism", "Islamic Insurgency"],
     "geography": {
       "location": "Transcontinental (Africa and Asia)",
       "coordinates": "30°2′N 31°13′E",
-      "borders": [
-    "Mediterranean Sea", 
-    "Gaza Strip", 
-    "Israel", 
-    "Red Sea", 
-    "Sudan", 
-     "Libya"],
+      "borders": {
+     "Mediterranean Sea": "North", 
+     "Gaza Strip": "East", 
+     "Israel": "East", 
+     "Red Sea": "East", 
+     "Sudan": "South", 
+     "Libya": "East"
+      },
       "Red_Sea_separates_from": ["Jordan", "Saudi Arabia"],
       "total_area_km2": 1010408,
       "water_percentage": 0.632
