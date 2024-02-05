@@ -1,23 +1,29 @@
 {
-  "country": "Iran",
-  "also_known_as": "Persia",
-  "official_name": "Islamic Republic of Iran",
+  "Iran": {
+    "Name": {
+  "Common": "Iran",
+  "AKA": "Persia",
+  "Official": "Islamic Republic of Iran",
+    },
+  "Status": ["Kurdish Separatism"]
+   "Symbols": {
   "motto": "Allāhu Akbar (God is the Greatest)",
   "anthem": "National Anthem of the Islamic Republic of Iran",
+   },
   "location": "Crossroads of West, Central, and South Asia",
-   "Borders": [
-      "Jordan",
-      "Turkeye",
-      "Iraq",
-      "Azerbaijan",
-      "Armenia",
-      "the Caspian Sea",
-      "Turkmenistan",
-      "Afghanistan",
-      "Pakistan",
-      "Gulf of Oman",
-      "Persian Gulf",
-    ],
+   "Borders": {
+      "Jordan": "West",
+      "Turkeye": "Northwest",
+      "Iraq": "West",
+      "Azerbaijan": "North",
+      "Armenia": "North",
+      "the Caspian Sea": "North",
+      "Turkmenistan": "North",
+      "Afghanistan": "East",
+      "Pakistan": "Southeast",
+      "Gulf of Oman": "South",
+      "Persian Gulf": "South",
+   },
   "geographical_description": "varied",
   "capital_and_largest_city": "Tehran",
   "official_language": "Persian",
@@ -99,4 +105,5 @@
   "calling_code": "+98",
   "iso_3166_code": "IR",
   "internet_tld": [".ir", ".ایران"]
+}
 }
