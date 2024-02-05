@@ -1,10 +1,12 @@
 {
     "Afghanistan": {
-        "Official Name": "Islamic Emirate of Afghanistan",
-        "Native Names": {
+        "Name": {
+            "Common": "Afghanistan",
+            "Official": "Islamic Emirate of Afghanistan",
             "Pashto": "د افغانستان اسلامي امارت",
             "Dari": "امارت اسلامی افغانستان"
         },
+        "Status": ["Islamic Insurgency", "Mostly Unrecognized Emirate", "Deep Political Instability"],
         "Symbols": {
             "Flag": "Flag of Afghanistan",
             "Coat of Arms": "Emblem of the Islamic Emirate",
