@@ -1,7 +1,10 @@
 {
   "Mexico": {
-    "official_name": "United Mexican States",
-    "native_name": "Estados Unidos Mexicanos",
+    "Name": {
+    "official": "United Mexican States",
+    "native": "Estados Unidos Mexicanos"
+    },
+    "Status": ["Drug War", "Deep Political Corruption and Conflict"],
     "symbols": {
       "flag": "Flag of Mexico",
       "coat_of_arms": "Coat of arms of Mexico",
