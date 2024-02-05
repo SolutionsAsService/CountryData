@@ -1,4 +1,4 @@
-# Countries Data Repository README
+# CountryData Repo README
 
 ## Overview
 
