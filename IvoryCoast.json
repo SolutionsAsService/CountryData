@@ -1,0 +1,116 @@
+{
+  "IvoryCoast": {
+    "OfficialName": "Republic of Côte d'Ivoire",
+    "Flag": "Flag of Ivory Coast",
+    "CoatOfArms": "Coat of arms of Ivory Coast",
+    "Motto": {
+      "French": "Union – Discipline – Travail",
+      "English": "Unity – Discipline – Work"
+    },
+    "Anthem": "L'Abidjanaise",
+    "AnthemDuration": "1 minute and 10 seconds",
+    "Capital": "Yamoussoukro",
+    "Coordinates": {
+      "Latitude": "6°51′N",
+      "Longitude": "5°18′W"
+    },
+    "LargestCity": "Abidjan",
+    "OfficialLanguage": "French",
+    "VernacularLanguages": [
+      "Bété",
+      "Jula",
+      "Baule",
+      "Abron",
+      "Anyin",
+      "Cebaara Senufo",
+      "Others"
+    ],
+    "EthnicGroups2021Census": {
+      "Ivorian": "78.0%",
+      "Akan": "38.0%",
+      "Northern Mande": "22.0%",
+      "Voltaiques/Gur": "22.0%",
+      "Kru": "9.1%",
+      "Southern Mande": "8.6%",
+      "Naturalized Ivorian": "0.3%",
+      "Non-Ivorian": "22.0%"
+    },
+    "Demonym": "Ivorian",
+    "GovernmentType": "Unitary presidential republic",
+    "Leaders": {
+      "President": "Alassane Ouattara",
+      "VicePresident": "Tiémoko Meyliet Koné",
+      "PrimeMinister": "Robert Beugré Mambé"
+    },
+    "Legislature": {
+      "ParliamentOfIvoryCoast": {
+        "UpperHouse": "Senate",
+        "LowerHouse": "National Assembly"
+      }
+    },
+    "History": {
+      "RepublicEstablished": "4 December 1958",
+      "IndependenceFromFrance": "7 August 1960"
+    },
+    "Geography": {
+      "TotalAreaKm2": "322,463",
+      "Rank": "68th",
+      "WaterPercentage": "1.4%"
+    },
+    "Population": {
+      "2023Estimate": "29,344,847",
+      "Rank": "52nd",
+      "DensityPerKm2": "91.1",
+      "DensityRank": "139th"
+    },
+    "Economy": {
+      "GDP_PPP_2023Estimate": {
+        "Total": "$202.647 billion",
+        "PerCapita": "$6,960",
+        "Rank": "78th"
+      },
+      "GDP_Nominal_2023Estimate": {
+        "Total": "$79.430 billion",
+        "PerCapita": "$2,728",
+        "Rank": "84th"
+      },
+      "Gini_2015": "41.5",
+      "HDI_2021": "0.550",
+      "HDIRank": "159th"
+    },
+    "Currency": "West African CFA franc (XOF)",
+    "TimeZone": "UTC±00:00 (GMT)",
+    "DateFormat": "dd/mm/yyyy",
+    "DrivingSide": "right",
+    "CallingCode": "+225",
+    "ISO3166Code": "CI",
+    "InternetTLD": ".ci",
+    "ForeignResidents": "Approximately 130,000 Lebanese and 14,000 French people",
+    "BeforeColonization": "Home to several states, including Gyaaman, the Kong Empire, and Baoulé",
+    "ColonialHistory": {
+      "ProtectorateOfFrance": "1843",
+      "FrenchColonyConsolidation": "1893"
+    },
+    "PostIndependence": {
+      "FirstPresident": "Félix Houphouët-Boigny",
+      "RulePeriod": "Until 1993",
+      "Stability": "Relatively stable by regional standards",
+      "CoupD'état": "1999",
+      "CivilWars": [
+        {
+          "First": "2002–2007",
+          "Second": "2010–2011"
+        }
+      ],
+      "NewConstitution": "2016"
+    },
+    "EconomicHistory": {
+      "1960sAnd1970s": "Economic powerhouse in West Africa",
+      "1980sCrisis": "Experienced an economic crisis",
+      "Post2011Growth": "High economic growth since the return of peace and political stability",
+      "AverageGrowthRate": "7.4% per year from 2012 to 2021",
+      "WorldCocoaExporter": "World's largest exporter of cocoa beans in 2020"
+    },
+    "Agriculture": "Economy relies heavily on agriculture, with smallholder cash-crop production predominating"
+  }
+}
