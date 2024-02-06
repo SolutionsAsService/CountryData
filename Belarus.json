@@ -1,21 +1,20 @@
 {
-  "Belarus": {
-    "Name": {
-  "Country": "Belarus",
-  "Official_Name": "Republic of Belarus",
-  "Belarusian_Name": "Рэспубліка Беларусь",
-  "Russian_Name": "Республика Беларусь"
+   "Belarus": {
+     "Name": {
+   "Official": "Republic of Belarus",
+   "Belarusian": "Рэспубліка Беларусь",
+   "Russian": "Республика Беларусь"
    },
     "Status" ["Russo-Ukraine War", { "Proxy State": "Russia" } ],
   "Location": {
     "Region": "Eastern Europe",
-    "Borders": [
-      "Russia",
-      "Ukraine",
-      "Poland",
-      "Lithuania",
-      "Latvia"
-    ],
+    "Borders": {
+      "Russia": ["North", "East"],
+      "Ukraine": "South",
+      "Poland": "West",
+      "Lithuania":"West",
+      "Latvia": "West"
+    },
     "Geographic_Coordinates": "53°55′N 27°33′E"
   },
   "Area": {
