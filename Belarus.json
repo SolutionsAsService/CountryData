@@ -1,8 +1,12 @@
 {
+  "Belarus": {
+    "Name": {
   "Country": "Belarus",
   "Official_Name": "Republic of Belarus",
   "Belarusian_Name": "Рэспубліка Беларусь",
-  "Russian_Name": "Республика Беларусь",
+  "Russian_Name": "Республика Беларусь"
+   },
+    "Status" ["Russo-Ukraine War", { "Proxy State": "Russia" } ],
   "Location": {
     "Region": "Eastern Europe",
     "Borders": [
