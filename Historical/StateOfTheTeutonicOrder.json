@@ -1,0 +1,78 @@
+{
+  "StateOfTheTeutonicOrder": {
+    "generalInformation": {
+      "name": "State of the Teutonic Order",
+      "latinName": "Civitas Ordinis Theutonici",
+      "status": {
+        "1230-1466": "Sovereign state",
+        "1226-1230": "Fief of Poland",
+        "1466-1525": "Fief of Poland"
+      },
+      "capital": {
+        "1308-1454": "Marienburg",
+        "1454-1525": "Königsberg"
+      },
+      "languages": ["Old Prussian", "Low German", "Latin", "Baltic languages", "Estonian", "Livonian", "Polish"],
+      "religion": "Roman Catholic",
+      "governmentType": "Theocratic elective monarchy",
+      "currency": "Mark",
+      "historicalEra": "Middle Ages"
+    },
+    "leaders": {
+      "firstGrandMaster": "Hermann (1226-1239)",
+      "lastGrandMasterPrussia": "Albert (1510-1525)",
+      "lastLandMasterLivonia": "Gotthard (1559-1561)"
+    },
+    "significantEvents": {
+      "goldenBullOfRimini": "March 1226",
+      "teutonicTakeoverOfGdansk": "08 November 1308",
+      "battleOfGrunwald": "15 July 1410",
+      "thirteenYearsWar": "1454-1466",
+      "secondPeaceOfThorn": "19 October 1466",
+      "polishTeutonicWar": "1519-1521",
+      "prussianHomage": "10 April 1525",
+      "treatyOfVilnius": "28 November 1561"
+    },
+    "geographicalExtent": {
+      "early15thCentury": [
+        "Chełmno Land",
+        "Courland",
+        "Gotland",
+        "Livonia",
+        "Estonia",
+        "Neumark",
+        "Pomerelia (Gdańsk Pomerania)",
+        "Prussia",
+        "Samogitia"
+      ]
+    },
+    "decline": {
+      "afterGrunwald": "1410",
+      "afterWilkomierz": "1435",
+      "peaceOfThorn": "1466",
+      "endPrussianBranch": "1525",
+      "endLivonianBranch": "1561"
+    },
+    "predecessorsAndSuccessors": {
+      "predecessors": ["Old Prussians", "Duchy of Estonia", "Yotvingians"],
+      "successors": [
+        "Duchy of Prussia",
+        "Duchy of Courland and Semigallia",
+        "Duchy of Livonia",
+        "Polish-Lithuanian Commonwealth",
+        "Swedish Estonia",
+        "Royal Prussia"
+      ]
+    },
+    "overview": {
+      "establishment": "Formed by the knights of the Teutonic Order during the early 13th century Northern Crusades in Prussia. Expanded through the Prussian Crusade against Baltic Prussians and the invasions of Poland and Lithuania.",
+      "merger": "1237, Livonian Brothers of the Sword merged with the Teutonic Order, becoming its Livonian Order branch.",
+      "colonization": "German and Polish colonization followed conquests.",
+      "territoryAcquisitions": "Acquisition of Duchy of Estonia in 1346 from the King of Denmark."
+    },
+    "historicalContext": {
+      "oldPrussians": "Resisted many conquest attempts before Teutonic Knights.",
+      "conradOfMasovia": "Intensified conquest attempts leading to Crusades in the early 13th century."
+    }
+  }
+}
