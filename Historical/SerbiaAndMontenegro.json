@@ -1,0 +1,73 @@
+{
+  "SerbiaAndMontenegro": {
+    "period": "1992–2006",
+    "names": {
+      "1992_2003": "Federal Republic of Yugoslavia",
+      "2003_2006": "Serbia and Montenegro"
+    },
+    "flags": [
+      {"period": "1918–1941", "image": "Flag of FR Yugoslavia"},
+      {"period": "1946–1992", "image": "Flag of Serbia and Montenegro"}
+    ],
+    "anthems": [
+      {"title": "Хеј, Словени", "duration": "1 minute and 28 seconds"}
+    ],
+    "capital": "Belgrade",
+    "officialLanguages": "Serbian",
+    "recognizedLanguages": ["Albanian", "Hungarian"],
+    "governmentTypes": {
+      "1992_2003": "Federal parliamentary constitutional republic",
+      "2003_2006": "Confederated constitutional republic with an executive presidency"
+    },
+    "leaders": {
+      "presidents": [
+        {"name": "Dobrica Ćosić", "period": "1992–1993"},
+        {"name": "Slobodan Milošević", "period": "1997–2000"},
+        {"name": "Vojislav Koštunica", "period": "2000–2003"},
+        {"name": "Svetozar Marović", "period": "2003–2006"}
+      ],
+      "primeMinisters": [
+        {"name": "Milan Panić", "period": "1992–1993"},
+        {"name": "Momir Bulatović", "period": "1998–2000"},
+        {"name": "Svetozar Marović", "period": "2003–2006"}
+      ]
+    },
+    "historicalEra": {
+      "YugoslavWars": "1992–1999",
+      "DaytonAgreement": "1995",
+      "KosovoWar": "1998–1999",
+      "BulldozerRevolution": "5 October 2000",
+      "UNAdmission": "1 November 2000"
+    },
+    "area": "102,173 km2",
+    "populationEstimates": {
+      "2006": "10,832,545"
+    },
+    "currency": {
+      "Serbia": ["Yugoslav dinar", "Serbian dinar"],
+      "Montenegro": ["Yugoslav dinar", "Deutsche Mark", "Euro"]
+    },
+    "timeZone": "UTC+1 (CET)",
+    "drivingSide": "right",
+    "callingCode": "+381",
+    "internetTLD": ".yu",
+    "predecessors": ["Socialist Federal Republic of Yugoslavia"],
+    "successors": ["Serbia", "Montenegro"],
+    "UNSecurityCouncilResolution": "777",
+    "economicSanctions": "1992–1995",
+    "stateUnionTransformation": "4 February 2003",
+    "independenceReferendum": {
+      "Montenegro": "3 June 2006"
+    },
+    "independenceDeclarations": {
+      "Serbia": "5 June 2006",
+      "Montenegro": "3 June 2006"
+    },
+    "demographics": "Placeholder for demographic information",
+    "economy": "Placeholder for economic conditions and transformations",
+    "transport": "Placeholder for transportation infrastructure",
+    "holidays": "Placeholder for official holidays and observances",
+    "sports": "Placeholder for sports achievements and organizations",
+    "entertainment": "Placeholder for cultural and entertainment highlights"
+  }
+}
