@@ -1,0 +1,76 @@
+{
+  "Trust Territory of the Pacific Islands": {
+    "Period": "1947–1994",
+    "Flag": "1965–1980",
+    "Emblem": "1965–1980",
+    "Anthem": "The Star-Spangled Banner",
+    "Status": "United Nations Trust Territory under the administration of the United States",
+    "Capital": "Saipan",
+    "Official Language": "English",
+    "Other Languages": "Micronesian languages",
+    "Chief of State": [
+      {
+        "Name": "Harry S. Truman",
+        "Term": "1947–1953",
+        "Position": "first"
+      },
+      {
+        "Name": "Bill Clinton",
+        "Term": "1993–1994",
+        "Position": "last"
+      }
+    ],
+    "High Commissioner": [
+      {
+        "Name": "Louis E. Denfeld",
+        "Term": "1947–1948",
+        "Position": "first"
+      },
+      {
+        "Name": "Janet J. McCoy",
+        "Term": "1981–1987",
+        "Position": "last"
+      }
+    ],
+    "Legislature": "Congress",
+    "Historical Era": "Cold War",
+    "Significant Events": {
+      "Trusteeship Commencement": "July 18, 1947",
+      "Marshall Islands Independence": "October 21, 1986",
+      "Micronesia Independence": "November 3, 1986",
+      "Palau Independence": "October 1, 1994"
+    },
+    "Currency": "United States dollar",
+    "Preceded by": "South Seas Mandate",
+    "Succeeded by": [
+      "Marshall Islands",
+      "Federated States of Micronesia",
+      "Northern Mariana Islands",
+      "Palau"
+    ],
+    "Current Status": {
+      "Sovereign States in Free Association with the United States": [
+        {
+          "Name": "Republic of the Marshall Islands",
+          "Established": "1979",
+          "COFA Effective": "October 21, 1986"
+        },
+        {
+          "Name": "Federated States of Micronesia",
+          "Established": "1979",
+          "COFA Effective": "November 3, 1986"
+        },
+        {
+          "Name": "Republic of Palau",
+          "Established": "1981",
+          "COFA Effective": "October 1, 1994"
+        }
+      ],
+      "Commonwealth in Political Union with the United States": {
+        "Name": "Commonwealth of the Northern Mariana Islands",
+        "Constitution Partially Effective": "January 1, 1978",
+        "Fully Effective": "November 4, 1986"
+      }
+    }
+  }
+}
