@@ -1,0 +1,43 @@
+{
+  "KingdomOfHejazAndNejd": {
+    "name": "Kingdom of Hejaz and Nejd",
+    "nameArabic": "مملكة الحجاز ونجد",
+    "period": "1926–1932",
+    "flag": "Flag of Nejd and Hejaz",
+    "coatOfArms": "Coat of arms of Kingdom of Hejaz and Nejd",
+    "status": "Dual monarchy of the Hejaz and Nejd",
+    "capitals": {
+      "Hejaz": "Mecca",
+      "Nejd": "Riyadh"
+    },
+    "commonLanguage": "Arabic",
+    "religion": "Sunni Islam (Wahhabism)",
+    "government": {
+      "type": "Islamic absolute dual monarchy",
+      "king": "Abdulaziz al Saud (1926–1932)",
+      "viceroys": {
+        "Hejaz": "Faisal (1926–1932)",
+        "Nejd": "Saud (1926–1932)",
+        "Ahsa": "Fahd (1926–1932)",
+        "Arar": "Muhammad (1926–1932)"
+      },
+      "legislature": "Consultative Assembly"
+    },
+    "historicalEra": "Interwar period",
+    "significantEvents": {
+      "hejazConquest": "19 December 1925",
+      "abdulazizCrowned": "8 January 1926",
+      "nejdKingdomDecree": "29 January 1927",
+      "saudiArabiaEstablishment": "23 September 1932"
+    },
+    "predecessors": [
+      "Kingdom of Hejaz",
+      "Sultanate of Nejd",
+      "Idrisid Emirate of Asir"
+    ],
+    "successor": "Kingdom of Saudi Arabia",
+    "todayPartOf": "Saudi Arabia",
+    "foreignPolicy": "Placeholder for information on the Kingdom's interactions with foreign nations",
+    "rulers": "Placeholder for detailed information on the rulers of Hejaz and Nejd and their policies"
+  }
+}
