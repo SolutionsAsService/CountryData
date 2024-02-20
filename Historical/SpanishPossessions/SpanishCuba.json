@@ -1,0 +1,44 @@
+{
+  "CaptaincyGeneralOfCuba": {
+    "name": "Captaincy General of Cuba",
+    "period": "1607–1898",
+    "flag": "Flag of Spain (1785–1898)",
+    "coatOfArms": "Coat of arms of Cuba (19th century)",
+    "anthem": "Marcha Real (Royal March)",
+    "status": "Captaincy General",
+    "capital": "Havana",
+    "commonLanguages": ["Spanish"],
+    "religion": "Roman Catholicism",
+    "government": {
+      "type": "Monarchy",
+      "kings": [
+        {"name": "Charles III", "period": "1759–1788"},
+        {"name": "Alfonso XIII", "regent": "Maria Christina of Austria", "period": "1886–1898"}
+      ],
+      "captainGenerals": [
+        {"name": "Count of Ricla", "period": "1764–1779"},
+        {"name": "Ramón Blanco y Erenas", "period": "1887–1898"}
+      ]
+    },
+    "historicalEra": "Early modern Europe",
+    "significantEvents": {
+      "administrativeReorganisation": "1607",
+      "bourbonReforms": "1764",
+      "treatyOfParis": "December 10, 1898"
+    },
+    "currency": ["Spanish dollar", "Spanish peseta"],
+    "predecessor": "New Spain",
+    "successor": "United States Military Government in Cuba",
+    "todayPartOf": "Cuba",
+    "restructuringDetails": {
+      "bourbonReforms": "First example in America was the restructuring of the Captaincy General in 1764, adding Florida and Louisiana, granting more autonomy.",
+      "governorCaptainGeneral": "New governor-captain general based in Havana since the reform.",
+      "audiencias": [
+        {"Puerto Principe": "1800"},
+        {"Havana": "1838"}
+      ],
+      "extraordinaryPowers": "Granted to governors-captain generals of Cuba in 1825 in administration, justice, and treasury."
+    },
+    "socialDynamics": "Placeholder for information on the social dynamics, including class structure, economic activities, and cultural aspects during the colonial period."
+  }
+}
