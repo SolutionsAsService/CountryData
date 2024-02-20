@@ -1,0 +1,71 @@
+{
+  "Spanish Guinea": {
+    "period": "1778–1968",
+    "status": [
+      "Union of Spanish colonies (1858–1926)",
+      "Colony of Spain (1926–1956)",
+      "Province of Spain (1956–1968)"
+    ],
+    "capital": "Santa Isabel",
+    "languages": [
+      "Spanish (official)",
+      "Annobonese Creole",
+      "Pichinglis",
+      "Fang"
+    ],
+    "religion": "Roman Catholicism",
+    "government": {
+      "type": "Spanish colonial government",
+      "headOfState": [
+        {
+          "period": "1844–1868",
+          "name": "Isabella II"
+        },
+        {
+          "period": "1936–1968",
+          "name": "Francisco Franco"
+        }
+      ],
+      "governorGeneral": [
+        {
+          "period": "1858–1859",
+          "name": "Carlos Chacon y Michelina"
+        },
+        {
+          "period": "1966–1968",
+          "name": "Víctor Suances Díaz del Río"
+        }
+      ]
+    },
+    "historicalEra": [
+      "New Imperialism",
+      "World War I",
+      "World War II",
+      "Cold War"
+    ],
+    "significantEvents": {
+      "established": "11 March 1778",
+      "spanishTakePossession": "1778",
+      "spanishEvacuate": "1780",
+      "sovereigntyReasserted": "1844",
+      "protectorateEstablished": "1885",
+      "territorialDelimitation": "1900",
+      "administrativeUnion": "1926",
+      "independence": "12 October 1968"
+    },
+    "currency": "Spanish peseta",
+    "predecessors": [
+      "Colony of Fernando Po",
+      "Fang people",
+      "Elobey, Annobón, and Corisco"
+    ],
+    "successor": "Equatorial Guinea",
+    "history": {
+      "18th-19thCenturies": "Spain established colony in 1778 via Treaty of El Pardo. British base on Bioko (1827–1843). Spanish rule restored in 1844 as 'Territorios Españoles del Golfo de Guinea'.",
+      "20thCentury": "Treaty of Paris in 1900 defined territorial boundaries. Spanish Guinea became a union of colonies in 1926, a Spanish colony in 1956, and a province in 1958 until independence in 1968.",
+      "agriculturalEconomy": "Large cacao plantations developed on Fernando Po. Labor shortages led to the importation of workers from Liberia, Nigeria, and Cameroon.",
+      "decolonisation": "After WWII, Spanish Guinea moved towards decolonisation. Independence granted as Republic of Equatorial Guinea on 12 October 1968."
+    },
+    "modernTerritory": "Today part of Equatorial Guinea"
+  }
+}
