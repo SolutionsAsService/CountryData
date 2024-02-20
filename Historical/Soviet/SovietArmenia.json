@@ -1,0 +1,83 @@
+{
+  "ArmenianSovietSocialistRepublic": {
+    "formalNames": {
+      "1920_1936": "Socialist Soviet Republic of Armenia",
+      "1936_1990": "Armenian Soviet Socialist Republic",
+      "1990_1991": "Republic of Armenia"
+    },
+    "history": {
+      "establishmentDate": "2 December 1920",
+      "partOfTranscaucasianSFSR": "30 December 1922 to 5 December 1936",
+      "fullSovietUnionMembership": "1936",
+      "firstNagornoKarabakhWarStart": "20 February 1988",
+      "independenceDeclared": "23 August 1990",
+      "independenceReferendum": "21 September 1991",
+      "independenceRecognized": "26 December 1991",
+      "sovietGovernmentAbolished": "5 July 1995",
+      "transition": "From agricultural hinterland to industrial production center",
+      "populationGrowth": {
+        "1926": "880,000",
+        "1989": "3.3 million"
+      },
+      "majorEvents": [
+        "Great Purge",
+        "Great Patriotic War contribution",
+        "Khrushchev Thaw",
+        "Gorbachev's Reforms",
+        "Karabakh Movement"
+      ]
+    },
+    "politics": {
+      "governmentType": {
+        "1920_1990": "Unitary Marxist-Leninist single-party Soviet socialist republic",
+        "1990_1991": {
+          "Nov_Dec1991": "Unitary multi-party semi-presidential republic",
+          "beforeNov1991": "Unitary multi-party parliamentary republic"
+        }
+      },
+      "firstSecretary": {
+        "first": "Gevork Alikhanyan",
+        "last": "Vladimir Movsisyan"
+      },
+      "headOfState": {
+        "first": "Sarkis Kasyan",
+        "last": "Levon Ter-Petrosyan"
+      },
+      "headOfGovernment": {
+        "first": "Alexander Miasnikian",
+        "last": "Gagik Harutyunyan"
+      },
+      "legislature": "Supreme Soviet"
+    },
+    "militaryForces": {
+      "description": "Placeholder for information on military forces including organization, strength, and key developments during the Soviet era."
+    },
+    "economy": {
+      "description": "Placeholder for economic data detailing industrial growth, key sectors, and economic policies under the Soviet system."
+    },
+    "culture": {
+      "description": "Placeholder for cultural achievements, notable figures in arts and sciences, and the impact of Soviet policies on Armenian culture."
+    },
+    "miscellaneous": {
+      "location": "Caucasus region of Eurasia",
+      "borders": {
+        "sovietRepublics": ["Azerbaijan", "Georgia"],
+        "independentStates": ["Iran", "Turkey"]
+      },
+      "capital": "Yerevan",
+      "majorCities": ["Leninakan", "Kirovakan", "Hrazdan", "Etchmiadzin", "Kapan"],
+      "officialLanguages": {
+        "stateLanguage": "Armenian",
+        "official": "Russian"
+      },
+      "religion": {
+        "state": "Secular (de jure), State atheism (de facto)",
+        "majority": "Armenian Apostolic"
+      },
+      "demonym": ["Armenian", "Soviet"],
+      "HDI_1991": "0.648 (medium)",
+      "currency": "Soviet ruble (Rbl) (SUR)",
+      "callingCode": "+7 885"
+    }
+  }
+}
