@@ -1,0 +1,52 @@
+{
+  "Korea Under Japanese Rule": {
+    "Official Name": "Chōsen",
+    "Period": "1910–1945",
+    "Flag": "Flag of Chōsen under Japanese rule",
+    "Seal": "Seal of the Government-General of Chōsen",
+    "Anthem": "Kimigayo",
+    "Map": "1945 National Geographic map of Korea",
+    "Status": "Part of the Empire of Japan",
+    "Capital": "Keijō (Gyeongseong, now Seoul, South Korea)",
+    "Official Languages": ["Japanese", "Korean"],
+    "Religion": {
+      "De jure": "None",
+      "De facto": ["State Shinto", "Confucianism", "Buddhism", "Shamanism", "Taoism", "Christianity", "Cheondoism"]
+    },
+    "Demonym": "Japanese",
+    "Emperors": {
+      "Meiji": "1910–1912",
+      "Taishō": "1912–1926",
+      "Shōwa": "1926–1945"
+    },
+    "Governor-Generals": {
+      "First": "Terauchi Masatake (1910–1916)",
+      "Last": "Nobuyuki Abe (1944–1945)"
+    },
+    "Historical Era": "Empire of Japan",
+    "Significant Events": {
+      "Japanese Protectorate": "17 November 1905",
+      "Annexation Treaty Signed": "22 August 1910",
+      "Annexation by Japan": "29 August 1910",
+      "March 1st Movement": "1 March 1919",
+      "Sōshi-kaimei Order": "10 November 1939",
+      "Surrender of Japan": "2 September 1945",
+      "Japanese Claim Relinquished": "28 April 1952"
+    },
+    "Currency": "Korean yen",
+    "Preceded by": "Korean Empire",
+    "Succeeded by": {
+      "1919": "Provisional Government of the Republic of Korea",
+      "1945": [
+        "People's Republic of Korea",
+        "Soviet Civil Administration",
+        "United States Army Military Government in Korea"
+      ]
+    },
+    "Today Part of": ["South Korea", "North Korea"],
+    "Background": "Japan's sphere of influence in Korea began in the late 1800s. After rapid modernization post-Meiji Restoration, Japan opened Korea with the unequal Japan–Korea Treaty of 1876 and formally colonized Korea with the Japan–Korea Treaty of 1910.",
+    "Japanese Rule": "Japan made sweeping changes in Korea, including Japanization and the looting of cultural artifacts. Infrastructure and industry were developed, but many projects were designed to extract resources. The Korean independence movement was born from these conditions.",
+    "World War II": "Approximately 5.4 million Koreans were mobilized by Japan for the war effort, with many subjected to poor working conditions. Controversy remains over the forced labor and sexual slavery of 'comfort women' by Japan.",
+    "Independence and Division": "After Japan's surrender in 1945, Korea was liberated and divided under Soviet and US rule. The historiography of Japanese colonization remains controversial in South Korea and Japan, with issues like the collaboration of ethnic Korean 'chinilpa' with Japan and the Treaty on Basic Relations between Japan and South Korea in 1964."
+  }
+}
