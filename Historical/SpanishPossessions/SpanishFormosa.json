@@ -1,6 +1,10 @@
 {
   "SpanishFormosa": {
-    "name": "Gobernación de Hermosa española",
+    "name":{
+      "Spanish":"Gobernación de Hermosa española",
+      "Chinese": "臺灣西班牙統治時期",
+      "shortSpanish": "Isla Hermosa"
+    },
     "period": "1626–1642",
     "status": "Colony of Spain",
     "capital": "San Salvador (Keelung)",
@@ -34,7 +38,8 @@
     "settlement": {
       "year": "1626",
       "purpose": "Protect regional trade of Spanish Philippines",
-      "outcome": "Colony ceded to Dutch Republic in 1642"
+      "outcome": "Colony ceded to Dutch Republic in 1642",
+      "Result": "During 80 years war"
     },
     "indigenous_relations": {
       "Christianized_population": "About 5,000",
