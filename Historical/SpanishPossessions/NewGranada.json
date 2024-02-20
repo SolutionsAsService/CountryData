@@ -1,0 +1,64 @@
+{
+  "ViceroyaltyOfNewGranada": {
+    "name": "Viceroyalty of New Granada",
+    "alternateNames": ["Viceroyalty of the New Kingdom of Granada", "Viceroyalty of Santafé"],
+    "period": {
+      "firstPeriod": "1717-1723",
+      "secondPeriod": "1739-1810",
+      "finalPeriod": "1816-1822"
+    },
+    "flag": "Flag of Spain",
+    "coatOfArms": "Coat of arms of New Granada",
+    "motto": "Utraque Unum",
+    "anthem": "Marcha Real",
+    "status": "Viceroyalty of the Spanish Empire",
+    "capital": "Santa Fé de Bogotá",
+    "commonLanguages": ["Spanish", "Indigenous languages"],
+    "religion": "Roman Catholicism",
+    "government": {
+      "type": "Monarchy",
+      "kings": [
+        {"name": "Philip V", "period": "1717-1724"},
+        {"name": "Ferdinand VII", "period": "1813-1822"}
+      ],
+      "viceroys": [
+        {"name": "Antonio Ignacio de la Pedrosa y Guerrero", "period": "1718-1719"},
+        {"name": "Juan de la Cruz Mourgeón", "period": "1819-1822"}
+      ]
+    },
+    "historicalEra": "Spanish colonization of the Americas",
+    "significantEvents": {
+      "establishment": "27 May 1717",
+      "suppressed": "5 November 1723",
+      "reestablished": "20 August 1739",
+      "venezuelanSeparation": "8 September 1777",
+      "independenceDeclared": "20 July 1810",
+      "reconquered": "3 September 1816",
+      "battleOfPichincha": "24 May 1822"
+    },
+    "area": "1,349,089 km2",
+    "currency": "Spanish real",
+    "predecessors": ["New Spain", "New Kingdom of Granada", "Venezuela Province", "Viceroyalty of Peru"],
+    "successors": ["Venezuela Province", "Captaincy General of Venezuela", "Trinidad and Tobago", "Free and Independent State of Cundinamarca", "United Provinces of New Granada", "Gran Colombia"],
+    "colonialHistory": {
+      "creationReason": "Slowness of communications with the Viceroyalty of Peru",
+      "geographicalChallenges": "Rough and diverse geography, limited proper roads",
+      "administrativeAdjustments": ["Autonomous Captaincy General in Caracas", "Preservation of the Audiencia of Quito"]
+    },
+    "rebellions": {
+      "guajiraRebellion": {
+        "description": "Never subjugated the Wayuu, resulting in multiple rebellions",
+        "significantYears": ["1701", "1727", "1741", "1757", "1761", "1768"]
+      }
+    },
+    "independence": {
+      "bolivarLeadership": "Pro-independence forces led by Simón Bolívar",
+      "battleOfBoyaca": "7 August 1819",
+      "territorialIndependence": "1819-1822"
+    },
+    "demographics": {
+      "population1789": "1,349,089",
+      "mainCities": ["Santa Fe de Bogotá", "Caracas", "Cartagena de Indias", "Quito", "Panama", "Cuenca", "Popayán", "Tunja", "Santa Marta", "Guayaquil"]
+    }
+  }
+}
