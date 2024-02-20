@@ -1,0 +1,40 @@
+{
+  "UnitedStatesMilitaryGovernmentInCuba": {
+    "period": "1898-1902",
+    "flag": "Flag of United States Military Government in Cuba",
+    "greatSeal": "Great Seal of United States Military Government in Cuba",
+    "motto": "E Pluribus Unum",
+    "anthem": "Salve, Columbia",
+    "status": "Administered territory of the United States",
+    "capital": "Havana",
+    "commonLanguages": ["Spanish", "English"],
+    "government": {
+      "type": "Military Government",
+      "militaryGovernors": [
+        {"name": "Adolfo Castellanos", "period": "1898-1899"},
+        {"name": "John R. Brooke", "period": "1899"},
+        {"name": "Leonard Wood", "period": "1899-1902"}
+      ]
+    },
+    "historicalEra": "Modern Era",
+    "significantEvents": {
+      "ussMaineExplosion": "15 February 1898",
+      "tellerAmendment": "20 April 1898",
+      "treatyOfParis": "10 December 1898",
+      "militaryGovernmentEstablishment": "1 January 1899",
+      "spanishAmericanWarEnd": "11 April 1899",
+      "cubanConstitutionAdoption": "21 February 1901",
+      "estradaPalmaElection": "31 December 1901",
+      "independenceAndRepublicBirth": "20 May 1902",
+      "plattAmendment": "2 March 1901"
+    },
+    "predecessor": "Captaincy General of Cuba",
+    "successor": "Republic of Cuba",
+    "todayPartOf": ["Cuba", "United States"],
+    "occupationPhases": {
+      "firstOccupation": "1898-1902",
+      "secondOccupation": "1906-1909",
+      "occupationMedal": "Army of Cuban Occupation Medal established in 1915"
+    }
+  }
+}
