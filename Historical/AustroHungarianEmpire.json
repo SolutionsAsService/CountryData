@@ -1,0 +1,57 @@
+{
+  "AustroHungarianEmpire": {
+    "officialName": "Austro-Hungarian Monarchy",
+    "period": "1867–1918",
+    "motto": "Indivisibiliter ac inseparabiliter",
+    "anthem": "Gott erhalte, Gott beschütze",
+    "capitals": {
+      "Austria": "Vienna",
+      "Hungary": "Budapest"
+    },
+    "largestCity": "Vienna",
+    "officialLanguages": ["German", "Hungarian"],
+    "recognizedLanguages": ["Croatian", "Czech", "Polish", "Ruthenian", "Romanian", "Serbian", "Slovak", "Slovene", "Italian", "Romani", "Yiddish"],
+    "religion": {
+      "Catholic": "76.6%",
+      "Protestant": "8.9%",
+      "EasternOrthodox": "8.7%",
+      "Jewish": "4.4%",
+      "Muslim": "1.3%"
+    },
+    "governmentType": "Constitutional dual monarchy",
+    "monarchs": {
+      "FranzJosephI": {"period": "1867–1916"},
+      "KarlIAndIV": {"period": "1916–1918"}
+    },
+    "legislature": {
+      "ImperialCouncil": ["House of Lords", "House of Deputies"],
+      "DietOfHungary": ["House of Magnates", "House of Representatives"]
+    },
+    "historicalEra": ["New Imperialism", "World War I"],
+    "significantEvents": {
+      "AustroHungarianCompromise": "30 March 1867",
+      "DualAlliance": "7 October 1879",
+      "BosnianCrisis": "6 October 1908",
+      "JulyCrisis": "28 June 1914",
+      "InvasionOfSerbia": "28 July 1914",
+      "EmpireDissolved": "31 October 1918"
+    },
+    "area": "621,538 km2",
+    "currency": ["Florin", "Krone"],
+    "predecessors": ["Austrian Empire"],
+    "successors": {
+      "Legal": ["Austria", "Hungary"],
+      "Territorial": ["Czechoslovakia", "Poland", "West Ukraine", "Yugoslavia", "Romania", "Italy"]
+    },
+    "economicStatus": {
+      "IndustrialRanking": "Fourth largest machine-building industry in the world",
+      "Manufacturing": "Third-largest manufacturer and exporter of electric appliances and power generation apparatus"
+    },
+    "infrastructure": {
+      "RailwayNetwork": "Second-largest in Europe after the German Empire"
+    },
+    "military": "Placeholder for military structure and major campaigns",
+    "successorStates": ["First Austrian Republic", "Kingdom of Hungary", "First Czechoslovak Republic", "Second Polish Republic", "Kingdom of Yugoslavia", "Kingdom of Romania", "Kingdom of Italy"],
+    "territorialLegacy": "Placeholder for the impact on modern Central and Eastern European borders"
+  }
+}
