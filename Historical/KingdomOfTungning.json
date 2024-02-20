@@ -1,5 +1,12 @@
 {
   "Kingdom of Tungning": {
+    "Name": {
+      "Offical": "Kingdom of Tungning",
+      "Chinese": "東寧國",
+      "Hokkien": "Tang-lêng Kok",
+      "Hakka": "Tûng-nèn Koet",
+      "Anglo": "Tywan"
+    },
     "Period": "1661–1683",
     "Status": "A princedom (郡王國) owing allegiance to the Southern Ming",
     "Capital": "Anping (present-day Tainan)",
