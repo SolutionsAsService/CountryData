@@ -1,0 +1,63 @@
+{
+  "Governorate of Formosa": {
+    "Period": "1624–1668",
+    "Status": "Dutch colony",
+    "Capital": "Zeelandia (now Anping, Tainan)",
+    "Official Languages": "Dutch",
+    "Common Languages": ["East Formosan languages", "Hokkien"],
+    "Religion": ["Dutch Reformed", "Native Animistic Religion", "Chinese Folk Religion"],
+    "Government Type": "Governorate",
+    "Governors": [
+      {
+        "Name": "Martinus Sonck",
+        "Term": "1624–1625"
+      },
+      {
+        "Name": "Frederick Coyett",
+        "Term": "1656–1662"
+      }
+    ],
+    "Historical Era": "Age of Discovery",
+    "Key Events": {
+      "Establishment": "1624",
+      "Siege of Fort Zeelandia": "1661–1662",
+      "Abandonment of Keelung": "1668"
+    },
+    "Currency": "Dutch Guilder",
+    "Preceded By": [
+      "Prehistory of Taiwan",
+      "Kingdom of Middag",
+      "Spanish Formosa"
+    ],
+    "Succeeded By": "Kingdom of Tungning",
+    "Present Day": "Republic of China (Taiwan)",
+    "Economy": {
+      "Tayouan Factory": "Second-most profitable in the Dutch East Indies",
+      "Trade": [
+        "Silks from China",
+        "Silver from Japan",
+        "Formosan Sika Deer products",
+        "Sugarcane and Rice"
+      ],
+      "Agriculture": "Introduced by Chinese immigrants, major exports included sugar and rice",
+      "Taxation": {
+        "Imposed On": [
+          "Import and export duties",
+          "Poll tax on every person above six years old",
+          "Hunting license"
+        ],
+        "Revenue": "667,701 gulden in 1653 including 381,930 from trading"
+      }
+    },
+    "Demographics": {
+      "Aborigines": "Taiwanese natives, primarily engaged in hunting-gathering and swidden agriculture",
+      "Dutch": "Soldiers, traders, missionaries, and other colonial staff",
+      "Chinese": "Laborers and farmers, major contributors to agricultural development"
+    },
+    "Legacy": {
+      "Economic Development": "Introduction of cash crops and development of trade routes",
+      "Cultural Exchange": "Interactions between Dutch, Chinese settlers, and Taiwanese aborigines",
+      "Architectural Influence": "Fort Zeelandia and other colonial buildings"
+    }
+  }
+}
