@@ -1,0 +1,57 @@
+{
+  "Kingdom of Tungning": {
+    "Period": "1661–1683",
+    "Status": "A princedom (郡王國) owing allegiance to the Southern Ming",
+    "Capital": "Anping (present-day Tainan)",
+    "Common Languages": ["Hokkien", "Hakka", "Siraya language"],
+    "Government Type": "Monarchy",
+    "Rulers": [
+      {
+        "Name": "Zheng Chenggong",
+        "Title": "Prince of Yanping",
+        "Term": "1661–1662"
+      },
+      {
+        "Name": "Zheng Jing",
+        "Title": "Prince of Yanping",
+        "Term": "1662–1681"
+      },
+      {
+        "Name": "Zheng Keshuang",
+        "Title": "Prince of Yanping",
+        "Term": "1681–1683"
+      }
+    ],
+    "Historical Events": {
+      "Establishment": "14 June 1661",
+      "Surrender to the Qing": "5 September 1683"
+    },
+    "Population Estimates": {
+      "1664": "140,000",
+      "1683": "200,000"
+    },
+    "Currency": ["Silver tael (Spanish dollar)", "Copper cash coin"],
+    "Preceded By": ["Dutch Formosa", "Southern Ming"],
+    "Succeeded By": "Taiwan under Qing rule",
+    "Present Day": "Republic of China (Taiwan)",
+    "Names": {
+      "Traditional Chinese": "東寧",
+      "Hokkien": "Tang-lêng Kok",
+      "Hakka": "Tûng-nèn Koet"
+    },
+    "Dynasty": {
+      "Name": "Zheng dynasty",
+      "Period": "Zheng period of the Ming dynasty",
+      "Chinese": {
+        "Traditional": "鄭氏王朝",
+        "Simplified": "郑氏王朝"
+      }
+    },
+    "History": {
+      "Founding": "The kingdom was founded by Koxinga (Zheng Chenggong) after seizing control of Taiwan from Dutch rule.",
+      "Objective": "Zheng hoped to restore the Ming dynasty in Mainland China, using Taiwan as a military base against the Qing.",
+      "Cultural Impact": "Under Zheng rule, Taiwan underwent a process of sinicization, consolidating Han Chinese resistance against the Qing."
+    },
+    "Ruling Family": "House of Koxinga, heirs to Zheng Chenggong, also referred to as the Koxinga dynasty or the Zheng dynasty."
+  }
+}
