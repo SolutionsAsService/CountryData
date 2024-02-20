@@ -1,0 +1,76 @@
+{
+  "Rhodesia": {
+    "etymology": {
+      "origin": "Named after Cecil Rhodes, a British mining magnate and South Africa's politician who was instrumental in the establishment of British control over the territory."
+    },
+    "history": {
+      "selfGoverning": "1923",
+      "UDI": "11 November 1965",
+      "republic": "2 March 1970",
+      "internalSettlement": "3 March 1978",
+      "transitionToZimbabweRhodesia": "1 June 1979",
+      "recognizedIndependence": "April 1980",
+      "significantEvents": [
+        "Formation of Federation with Northern Rhodesia and Nyasaland (1953–1963)",
+        "Unilateral Declaration of Independence (1965)",
+        "Rhodesian Bush War",
+        "Return to British colonial status and subsequent transition to Zimbabwe (1979–1980)"
+      ]
+    },
+    "geography": {
+      "territoryEquivalent": "Modern Zimbabwe",
+      "borders": {
+        "south": "South Africa",
+        "southwest": "Bechuanaland (later Botswana)",
+        "northwest": "Zambia (formerly Northern Rhodesia)",
+        "east": "Mozambique"
+      },
+      "capital": "Salisbury (now Harare)",
+      "majorCities": ["Salisbury (Harare)", "Bulawayo"]
+    },
+    "governmentAndPolitics": {
+      "1965_1970": "Unitary parliamentary constitutional monarchy",
+      "1970_1979": "Unitary parliamentary republic under a dominant-party herrenvolk regime",
+      "headOfState": [
+        {"title": "Queen", "name": "Elizabeth II", "period": "1965–1970"},
+        {"title": "President", "names": ["Clifford Dupont", "Henry Everard (acting)", "John Wrathall", "Jack Pithey (acting)"], "period": "1970–1979"}
+      ],
+      "headOfGovernment": {"title": "Prime Minister", "name": "Ian Smith", "period": "1965–1979"},
+      "legislature": {
+        "structure": ["Senate", "House of Assembly"],
+        "changes": "Transition from a unicameral Legislative Assembly to a bicameral Parliament in 1970"
+      }
+    },
+    "military": {
+      "description": "Engaged in the Rhodesian Bush War against Zimbabwe African People's Union (ZAPU) and Zimbabwe African National Union (ZANU) insurgencies."
+    },
+    "economy": {
+      "currency": ["Rhodesian pound (1964–70)", "Rhodesian dollar (1970–80)"],
+      "keySectors": "Placeholder for primary economic activities and industries."
+    },
+    "demographics": {
+      "1969EthnicGroups": {
+        "Black": "93.09%",
+        "White": "6.49%",
+        "Coloured/Asian": "0.47%"
+      },
+      "population1978Census": "6,930,000"
+    },
+    "foreignRelations": {
+      "UNSecurityCouncilResolutions": "Called for non-recognition and sanctions.",
+      "relationsWithNeighbors": "Varied, largely influenced by Rhodesia's unrecognised status and the Bush War."
+    },
+    "legacy": {
+      "transitionToZimbabwe": "Marked by the Lancaster House Agreement and the 1980 elections.",
+      "internationalPerception": "Rhodesia remains a contentious period in Southern African history, with debates over its legacy."
+    },
+    "culture": {
+      "anthems": [
+        {"title": "God Save the Queen", "years": "1965–1970"},
+        {"title": "Rise, O Voices of Rhodesia", "years": "1974–1979"}
+      ],
+      "motto": "Sit Nomine Digna",
+      "languages": ["English", "Shona", "Ndebele", "Afrikaans", "Gujarati", "Bangla"]
+    }
+  }
+}
