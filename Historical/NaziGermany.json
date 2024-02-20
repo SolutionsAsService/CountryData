@@ -1,0 +1,95 @@
+{
+  "NaziGermany": {
+    "officialNames": {
+      "1933_1943": "German Reich",
+      "1943_1945": "Greater German Reich"
+    },
+    "period": "1933–1945",
+    "flag": "Flag (1935–1945)",
+    "emblem": "Emblem (1935–1945)",
+    "anthems": [
+      {
+        "title": "Das Lied der Deutschen",
+        "duration": "1 minute and 22 seconds"
+      },
+      {
+        "title": "Horst-Wessel-Lied",
+        "duration": "3 minutes and 21 seconds"
+      }
+    ],
+    "capital": "Berlin",
+    "commonLanguage": "German",
+    "religionDistribution": {
+      "Protestant": "54%",
+      "Catholic": "40%",
+      "Gottgläubig": "3.5%",
+      "Irreligious": "1.5%",
+      "Other": "1%"
+    },
+    "government": "Unitary Nazi one-party fascist state under a totalitarian dictatorship",
+    "leaders": {
+      "headOfState": [
+        {
+          "name": "Paul von Hindenburg",
+          "period": "1933–1934"
+        },
+        {
+          "name": "Adolf Hitler",
+          "period": "1934–1945"
+        },
+        {
+          "name": "Karl Dönitz",
+          "period": "1945"
+        }
+      ],
+      "chancellor": [
+        {
+          "name": "Adolf Hitler",
+          "period": "1933–1945"
+        },
+        {
+          "name": "Joseph Goebbels",
+          "period": "1945"
+        },
+        {
+          "name": "Lutz von Krosigk",
+          "period": "1945"
+        }
+      ]
+    },
+    "historicalEra": {
+      "seizureOfPower": "30 January 1933",
+      "enablingAct": "23 March 1933",
+      "nurembergLaws": "15 September 1935",
+      "anschluss": "12 March 1938",
+      "invasionOfPoland": "1 September 1939",
+      "deathOfHitler": "30 April 1945",
+      "fallOfBerlin": "2 May 1945",
+      "surrender": "8 May 1945",
+      "berlinDeclaration": "5 June 1945"
+    },
+    "area": [
+      {
+        "year": "1939",
+        "size": "633,786 km2"
+      },
+      {
+        "year": "1940",
+        "size": "823,505 km2"
+      }
+    ],
+    "population": [
+      {
+        "year": "1939",
+        "number": "79,375,281"
+      },
+      {
+        "year": "1940",
+        "number": "109,518,183"
+      }
+    ],
+    "currency": "Reichsmark",
+    "predecessors": ["Weimar Republic", "Federal State of Austria"],
+    "successors": ["East Germany", "West Germany", "Austria"]
+  }
+}
