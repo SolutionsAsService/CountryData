@@ -1,0 +1,58 @@
+{
+  "RepublicOfCuba": {
+    "period": "1902–1959",
+    "flag": "Flag of Republic of Cuba (1902–1959)",
+    "coatOfArms": "Coat of arms of Republic of Cuba (1902–1959)",
+    "anthem": "La Bayamesa",
+    "location": "Northern Caribbean Sea, Gulf of Mexico, Atlantic Ocean meet",
+    "status": [
+      {"state": "Sovereign state", "period": "1902–1906, 1909–1959"},
+      {"occupation": "U.S. military", "period": "1906–1909"}
+    ],
+    "capital": "Havana",
+    "officialLanguage": "Spanish",
+    "religion": "Roman Catholic",
+    "government": [
+      {"type": "Unitary presidential republic", "period": "1902–1940"},
+      {"type": "Unitary semi-presidential republic", "period": "1940–1952"},
+      {"type": "Military dictatorship", "period": "1952–1959"}
+    ],
+    "headsOfState": [
+      {"role": "President", "first": "Tomás E. Palma", "last": "Carlos Piedra"},
+      {"role": "Prime Minister", "first": "Carlos S. Zayas", "last": "José M. Cardona"}
+    ],
+    "legislature": {
+      "chambers": {
+        "upper": "Senate",
+        "lower": "House of Representatives"
+      }
+    },
+    "keyEvents": {
+      "PlattAmendment": "12 June 1901",
+      "constitutionAdopted": "20 May 1902",
+      "treatyOfRelations": ["17 February 1903", "29 May 1934"],
+      "USOccupation": "1906–1909",
+      "1940Constitution": "10 October 1940",
+      "UNAdmission": "24 October 1945",
+      "1952Coup": "10 March 1952",
+      "cubanRevolution": "1 January 1959",
+      "socialistState": "16 April 1961"
+    },
+    "clientStateUS": "1902–1934",
+    "treatyOfRelations1934": {
+      "economyPreferentialTreatment": "United States",
+      "USsugarMarketShare": {"initial": "22%", "amended": "49%"}
+    },
+    "constitutionalPeriods": {
+      "earlyGovernments": "1902–1933",
+      "unrestNewGovernments": "1933–1958"
+    },
+    "area": "110,860 km2",
+    "currency": "Peso (CUP)",
+    "timeZone": ["UTC−5 (CST)", "UTC−4 (CDT during DST)"],
+    "drivingSide": "right",
+    "callingCode": "+53",
+    "predecessors": ["US Military Government", "US Provisional Government"],
+    "successor": "Socialist State of Cuba"
+  }
+}
