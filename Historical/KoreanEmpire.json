@@ -1,0 +1,61 @@
+{
+  "Korean Empire": {
+    "Official Name": "Empire of Korea",
+    "Period": "1897–1910",
+    "Flag": "Flag of the Korean Empire",
+    "Imperial Seal": "Imperial Seal of the Korean Empire",
+    "Motto": "광명천지 (光明天地) - Illuminate Heaven and Earth",
+    "Anthem": "대한제국 애국가 (大韓帝國愛國歌) - Patriotic Hymn of the Great Korean Empire",
+    "Territory": "Territory of the Korean Empire 1903–1905",
+    "Status": {
+      "1897–1905": "Sovereign state",
+      "1905–1910": "Protectorate of Japan"
+    },
+    "Capital": "Hanseong (present-day Seoul)",
+    "Common Languages": "Korean",
+    "Religions": [
+      "Confucianism",
+      "Buddhism",
+      "Shamanism",
+      "Taoism",
+      "Christianity",
+      "Cheondoism (recognized in 1907)"
+    ],
+    "Demonym": "Korean",
+    "Government": "Unitary absolute monarchy",
+    "Emperors": {
+      "Gojong": "1897–1907",
+      "Sunjong": "1907–1910"
+    },
+    "Resident-Generals": {
+      "Itō Hirobumi": "1905–1909 (first)",
+      "Terauchi Masatake": "1909–1910 (last)"
+    },
+    "Prime Ministers": {
+      "Kim Hong-jip": "1894-1895 (first)",
+      "Yi Wan-yong": "1907–1910 (last)"
+    },
+    "Legislature": {
+      "Before 1907": "Jungchuwon [ko]",
+      "After 1907": "None (rule by decree)"
+    },
+    "Historical Era": "New Imperialism",
+    "Significant Events": {
+      "Empire Proclaimed": "13 October 1897",
+      "Constitution Adopted": "17 August 1899",
+      "Eulsa Treaty": "17 November 1905",
+      "Hague Secret Emissary Affair": "July 1907",
+      "Annexed by Japan": "29 August 1910"
+    },
+    "Population 1900": "17,082,000",
+    "Currency": {
+      "1897–1900": "Yang",
+      "1900–1910": "Won"
+    },
+    "Preceded by": "Joseon",
+    "Succeeded by": "Chōsen",
+    "Today Part of": ["South Korea", "North Korea"],
+    "Reform Efforts": "Gwangmu Reform - partial modernization and westernization across military, economy, land system, education system, and industries",
+    "Japanese Annexation": "1910, leading to the abolition of the Korean Empire"
+  }
+}
