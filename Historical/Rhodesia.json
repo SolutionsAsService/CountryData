@@ -2,8 +2,10 @@
   "Rhodesia": {
     "Status": ["Rogue State"],
     "Name": {
-      
-    "etymology": {
+      "Commom": "Rhodesia",
+      "Official": "Republic of Rhodesia"
+    },
+    "Etymology": {
       "origin": "Named after Cecil Rhodes, a British mining magnate and South Africa's politician who was instrumental in the establishment of British control over the territory."
     },
     "history": {
