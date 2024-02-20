@@ -1,0 +1,73 @@
+{
+  "BritishRaj": {
+    "geographicalExtent": {
+      "initialCapital": "Calcutta (1858–1911)",
+      "finalCapital": "New Delhi (1911/1931–1947)",
+      "territory": "Indian subcontinent including present-day India, Pakistan, Bangladesh, and Burma (Myanmar)",
+      "summerCapital": "Simla",
+      "includedAreas": "British India and the Princely States"
+    },
+    "history": {
+      "establishmentDate": "28 June 1858",
+      "endOfEastIndiaCompanyRule": "1858",
+      "queenVictoriaEmpressProclamation": "1876",
+      "partitionDate": "14–15 August 1947",
+      "significantActs": [
+        "Indian Rebellion of 1857",
+        "Government of India Act 1858",
+        "Indian Independence Act 1947"
+      ],
+      "partitionOutcome": ["Union of India", "Dominion of Pakistan"],
+      "postPartition": "People's Republic of Bangladesh independence from Pakistan"
+    },
+    "BritishIndiaAndPrincelyStates": {
+      "BritishIndia": "Areas directly administered by the British",
+      "PrincelyStates": "Areas ruled by indigenous rulers under British paramountcy",
+      "status": "Imperial political structure comprising both entities"
+    },
+    "legalSystem": {
+      "officialLanguages": ["English", "Hindustani (Urdu)", "Other Indian languages"],
+      "courtsLanguage": "English was the language of the courts and government"
+    },
+    "economy": {
+      "currency": "Indian rupee",
+      "economicStructure": "Placeholder for economic policies, industries, and the impact of British rule"
+    },
+    "demography": {
+      "ethnicGroups1960": {
+        "Black": "68.3%",
+        "White": "19.2%",
+        "Coloured": "9.4%",
+        "Asian": "3.0%"
+      },
+      "populationCensus": "Placeholder for population details during British Raj"
+    },
+    "publicHealth": {
+      "challenges": ["Famines", "Epidemics"],
+      "publicHealthMeasures": "Placeholder for health policies and measures"
+    },
+    "education": {
+      "system": "Placeholder for education policies, institutions, and literacy rates",
+      "missionaryWork": "Placeholder for contributions and impact of missionary work on education"
+    },
+    "government": {
+      "type": "British Colonial Government",
+      "monarchs": [
+        {"name": "Victoria", "period": "1858–1901", "title": "Queen/Queen-Empress"},
+        {"name": "Edward VII", "period": "1901–1910"},
+        {"name": "George V", "period": "1910–1936"},
+        {"name": "Edward VIII", "period": "1936"},
+        {"name": "George VI", "period": "1936–1947"}
+      ],
+      "viceroys": {
+        "first": {"name": "Charles Canning", "period": "1858–1862"},
+        "last": {"name": "Louis Mountbatten", "period": "1947"}
+      },
+      "secretaryOfState": {
+        "first": {"name": "Edward Stanley", "period": "1858–1859"},
+        "last": {"name": "William Hare", "period": "1947"}
+      },
+      "legislature": "Imperial Legislative Council"
+    }
+  }
+}
