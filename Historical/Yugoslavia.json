@@ -1,0 +1,79 @@
+{
+  "Yugoslavia": {
+    "period": "1918–1992",
+    "flags": [
+      {"period": "1918–1941", "description": "Flag of the Kingdom of Yugoslavia"},
+      {"period": "1946–1992", "description": "Flag of the Socialist Federal Republic of Yugoslavia"}
+    ],
+    "coatsOfArms": [
+      {"period": "1918–1941", "description": "Coat of arms of the Kingdom of Yugoslavia"},
+      {"period": "1963–1992", "description": "Emblem of the Socialist Federal Republic of Yugoslavia"}
+    ],
+    "anthems": [
+      {"period": "1919–1941", "title": "National Anthem of the Kingdom of Yugoslavia"},
+      {"period": "1945–1992", "title": "Hey, Slavs"}
+    ],
+    "capitals": {
+      "primary": "Belgrade",
+      "coordinates": "44°49′N 20°27′E"
+    },
+    "officialLanguages": [
+      {"period": "before 1944", "language": "Serbo-Croato-Slovene"},
+      {"period": "from 1944", "language": "Serbo-Croatian (de facto)"}
+    ],
+    "governmentStructure": [
+      {"period": "1918–1941", "type": "Hereditary monarchy"},
+      {"period": "1945–1992", "type": "Federal republic"}
+    ],
+    "historicalMilestones": {
+      "creation": "1 December 1918",
+      "axisInvasion": "6 April 1941",
+      "UNAdmission": "24 October 1945",
+      "abolitionOfMonarchy": "29 November 1945",
+      "disintegration": "27 April 1992"
+    },
+    "populationEstimates": [
+      {"year": "1955", "population": "17,522,438"},
+      {"year": "1965", "population": "19,489,605"},
+      {"year": "1975", "population": "21,441,297"},
+      {"year": "1985", "population": "23,121,383"},
+      {"year": "1991", "population": "23,532,279"}
+    ],
+    "currency": "Yugoslav dinar",
+    "callingCode": "38",
+    "internetTLD": ".yu",
+    "predecessors": [
+      "Kingdom of Serbia",
+      "State of Slovenes, Croats and Serbs",
+      "Austria-Hungary",
+      "Fiume"
+    ],
+    "successors": [
+      "Croatia",
+      "Slovenia",
+      "Macedonia",
+      "Bosnia and Herzegovina",
+      "Federal Republic of Yugoslavia (Serbia and Montenegro)"
+    ],
+    "phases": [
+      {"name": "Kingdom of Yugoslavia", "period": "1918–1941"},
+      {"name": "Axis occupation", "period": "1941–1945"},
+      {"name": "FPR Yugoslavia", "period": "1945–1963"},
+      {"name": "SFR Yugoslavia", "period": "1963–1992"}
+    ],
+    "breakup": "1992",
+    "newStates": [
+      "Croatia",
+      "Slovenia",
+      "Macedonia",
+      "Bosnia and Herzegovina",
+      "Federal Republic of Yugoslavia"
+    ],
+    "demographics": "Placeholder for demographic information, including ethnic composition and linguistic diversity",
+    "background": "Placeholder for detailed background information, including pre-Yugoslav history and factors leading to formation",
+    "worldWarII": "Placeholder for Yugoslavia's role and experience during World War II",
+    "fprYugoslavia": "Placeholder for the period of the Federal People's Republic of Yugoslavia",
+    "sfrYugoslavia": "Placeholder for the period of the Socialist Federal Republic of Yugoslavia",
+    "breakupDetails": "Placeholder for detailed events leading to Yugoslavia's disintegration and the Yugoslav Wars"
+  }
+}
