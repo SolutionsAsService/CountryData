@@ -1,0 +1,79 @@
+{
+  "Qing Dynasty": {
+    "Official Name": "Great Qing",
+    "Period": "1636–1912",
+    "Flag": "Flag of the Qing dynasty (1889–1912)",
+    "Anthem": "Gǒng Jīn'ōu (Cup of Solid Gold) (1911–1912)",
+    "Capital": {
+      "Mukden (Shenyang)": "1636–1644",
+      "Peking (Beijing)": "1644–1912"
+    },
+    "Largest City": "Peking (Beijing)",
+    "Official Languages": ["Manchu", "Mandarin Chinese"],
+    "Ethnic Groups": ["Han", "Manchus", "Mongols", "Tibetans", "Uyghurs", "and others"],
+    "Religion": {
+      "State Religion": "Confucianism",
+      "Majority": ["Chinese folk religion", "Chinese Buddhism", "Taoism"],
+      "Minority": ["Tibetan Buddhism", "Heaven worship", "Islam", "Shamanism", "Christianity", "and others"]
+    },
+    "Demonym": "Chinese",
+    "Government Type": {
+      "1636–1911": "Absolute monarchy",
+      "1911–1912": "Constitutional monarchy"
+    },
+    "Emperors": {
+      "Founder": "Chongde Emperor (1636–1643)",
+      "First in Beijing": "Shunzhi Emperor (1643–1661)",
+      "Last": "Xuantong Emperor (1908–1912)"
+    },
+    "Regents": {
+      "First": "Dorgon, Prince Rui (1643–1650)",
+      "Last": "Zaifeng, Prince Chun (1908–1911)"
+    },
+    "Prime Ministers": {
+      "1911": "Yikuang, Prince Qing",
+      "1911–1912": "Yuan Shikai"
+    },
+    "Historical Era": "Late modern period",
+    "Significant Events": {
+      "Foundation": "1636",
+      "Consolidation of China Proper": "1644–1662",
+      "Conquest of Tibet, Mongolia, Xinjiang": "1687–1757",
+      "Ten Great Campaigns": "1755–1792",
+      "1st Opium War": "1839–1842",
+      "Taiping Rebellion": "1850–1864",
+      "2nd Opium War": "1856–1860",
+      "Self-Strengthening Movement": "1861–1895",
+      "1st Sino-Japanese War": "1894–1895",
+      "100 Days Reform": "1898",
+      "Boxer Rebellion": "1900–1901",
+      "Late Qing Reforms": "1901–1911",
+      "Xinhai Revolution": "1911–1912",
+      "End of Monarchy": "12 February 1912"
+    },
+    "Area": {
+      "1700": "8,800,000 km2",
+      "1790": "14,700,000 km2",
+      "1860": "13,400,000 km2"
+    },
+    "Currency": ["Cash (wén)", "Tael (liǎng)", "Paper money"],
+    "Preceded By": [
+      "Later Jin (1636)",
+      "Ming dynasty (1644)",
+      "Shun dynasty (1646)",
+      "Southern Ming (1662)",
+      "Dzungar Khanate (1755)",
+      "Kingdom of Tungning (1683)"
+    ],
+    "Succeeded By": [
+      "Republic of China (1912)",
+      "Republic of Formosa (1895)",
+      "Bogd Khanate (1911)",
+      "Uryankhay Republic (1912)",
+      "Tibet (1912)"
+    ],
+    "Legacy": {
+      "The Qing dynasty was the last imperial dynasty in Chinese history, marking a significant era that assembled the territorial base for modern China. It was known for its multiethnic composition, significant expansion and consolidation of territories, and major contributions to Chinese culture and society. The fall of the Qing dynasty led to significant political, social, and cultural changes in China, paving the way for the modern Chinese state."
+    }
+  }
+}
