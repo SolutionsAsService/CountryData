@@ -1,0 +1,58 @@
+{
+  "Czechoslovakia": {
+    "period": "1918–1992",
+    "flags": [
+      {"period": "1920–1992", "description": "Flag of Czechoslovakia"}
+    ],
+    "coatsOfArms": [
+      {"period": "1918–1938 and 1945–1961", "description": "Middle coat of arms of Czechoslovakia"}
+    ],
+    "mottos": [
+      {"language": "Czech/Slovak", "text": "Pravda vítězí / Pravda víťazí", "translation": "Truth prevails", "period": "1918–1990"},
+      {"language": "Latin", "text": "Veritas vincit", "translation": "Truth prevails", "period": "1990–1992"}
+    ],
+    "anthems": [
+      {"title": "Kde domov můj", "language": "Czech", "duration": "1 minute and 13 seconds"},
+      {"title": "Nad Tatrou sa blýska", "language": "Slovak", "duration": "1 minute and 25 seconds"}
+    ],
+    "capital": "Prague",
+    "officialLanguages": "Czechoslovak, later Czech and Slovak",
+    "governmentStructure": [
+      {"period": "1918–1938, 1945–1948", "type": "Unitary parliamentary republic"},
+      {"period": "1948–1969", "type": "Unitary Marxist-Leninist single-party socialist republic"},
+      {"period": "1969–1989", "type": "Federal Marxist-Leninist single-party socialist republic"},
+      {"period": "1989–1992", "type": "Federal parliamentary republic"}
+    ],
+    "presidents": [
+      {"name": "Tomáš G. Masaryk", "period": "1918–1935"},
+      {"name": "Edvard Beneš", "period": "1935–1938 and 1945–1948"},
+      {"name": "Václav Havel", "period": "1989–1992"}
+    ],
+    "significantEvents": {
+      "proclamation": "28 October 1918",
+      "munichAgreement": "30 September 1938",
+      "coupD_etat": "25 February 1948",
+      "sovietOccupation": "21 August 1968",
+      "velvetRevolution": "17 – 28 November 1989",
+      "dissolution": "1 January 1993"
+    },
+    "populationEstimates": {
+      "1955": "Placeholder",
+      "1965": "Placeholder",
+      "1975": "Placeholder",
+      "1985": "Placeholder",
+      "1991": "Placeholder"
+    },
+    "currency": "Czechoslovak koruna",
+    "callingCode": "+42",
+    "internetTLD": ".cs",
+    "predecessors": ["Austria-Hungary"],
+    "successors": ["Czech Republic", "Slovakia"],
+    "history": "Placeholder for detailed historical narrative",
+    "politics": "Placeholder for political structure and dynamics",
+    "economy": "Placeholder for economic activities and changes",
+    "demographics": "Placeholder for population details and ethnic composition",
+    "culture": "Placeholder for cultural developments and influences",
+    "postageStamps": "Placeholder for notable postage stamps and their historical context"
+  }
+}
