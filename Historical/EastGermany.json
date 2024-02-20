@@ -1,0 +1,118 @@
+{
+  "German Democratic Republic": {
+    "Period": "1949–1990",
+    "Flag": "1959–1990",
+    "Emblem": "1955–1990",
+    "Motto": "Proletarier aller Länder, vereinigt Euch! (Workers of the world, unite!)",
+    "Anthem": "Auferstanden aus Ruinen (Risen from Ruins)",
+    "Territory": "East Germany (green) in 1957",
+    "Capital": "East Berlin",
+    "Official Languages": "German, Sorbian (in parts of Bezirk Dresden and Bezirk Cottbus)",
+    "Religion": "See Religion in East Germany",
+    "Demonym": "East German, German",
+    "Leaders": {
+      "General Secretary": [
+        {
+          "Name": "Wilhelm Pieck and Otto Grotewohl",
+          "Term": "1946–1950",
+          "Note": "Initial leaders"
+        },
+        {
+          "Name": "Egon Krenz",
+          "Term": "1989",
+          "Note": "Last leader before reunification"
+        }
+      ],
+      "Head of State": [
+        {
+          "Name": "Wilhelm Pieck",
+          "Term": "1949–1960",
+          "Note": "First head of state"
+        },
+        {
+          "Name": "Sabine Bergmann-Pohl",
+          "Term": "1990",
+          "Note": "Last head of state before reunification"
+        }
+      ],
+      "Head of Government": [
+        {
+          "Name": "Otto Grotewohl",
+          "Term": "1949–1964",
+          "Note": "First head of government"
+        },
+        {
+          "Name": "Lothar de Maizière",
+          "Term": "1990",
+          "Note": "Last head of government before reunification"
+        }
+      ]
+    },
+    "Legislature": {
+      "Volkskammer": "Main legislative body",
+      "Länderkammer": "Upper house, abolished in 1958"
+    },
+    "Historical Era": "Cold War",
+    "Significant Events": {
+      "Constitution adopted": "7 October 1949",
+      "Uprising of 1953": "16 June 1953",
+      "Warsaw Pact": "14 May 1955",
+      "Berlin Crisis": "4 June 1961",
+      "Basic Treaty with FRG": "21 December 1972",
+      "Admitted to the UN": "18 September 1973",
+      "Peaceful Revolution": "13 October 1989",
+      "Fall of the Berlin Wall": "9 November 1989",
+      "Final Settlement": "12 September 1990",
+      "Reunification": "3 October 1990"
+    },
+    "Area": "108,875 km2",
+    "Population Estimates": {
+      "1950": "18,388,000",
+      "1970": "17,068,000",
+      "1990": "16,111,000"
+    },
+    "GDP (PPP)": {
+      "1989": {
+        "Total": "$525.29 billion",
+        "Per capita": "$26,631"
+      }
+    },
+    "HDI": {
+      "1990": "0.953, very high"
+    },
+    "Currency": {
+      "1949–1990": "East German mark",
+      "Names": [
+        "Deutsche Mark (1949–1964)",
+        "Mark der Deutschen Notenbank (1964–1967)",
+        "Mark der DDR (1967–1990)",
+        "Deutsche Mark (from 1 July 1990)"
+      ]
+    },
+    "Time Zone": "(UTC+1)",
+    "Driving Side": "right",
+    "Calling Code": "+37",
+    "Internet TLD": ".dd",
+    "Preceded by": "Soviet occupation zone in Germany",
+    "Succeeded by": "Federal Republic of Germany",
+    "Today Part of": "Germany",
+    "Initial Flag": "Identical to that of West Germany",
+    "Territorial Administration": "Soviet forces with autonomy of the native communists",
+    "Political System": "Communist state, socialist 'workers' and peasants' state'",
+    "Economic System": "Centrally planned and state-owned",
+    "Foreign Relations": "Satellite state of the Soviet Union, dominated by the SED",
+    "Geographical Borders": {
+      "North": "Baltic Sea",
+      "East": "Poland",
+      "Southeast": "Czechoslovakia",
+      "Southwest and West": "West Germany",
+      "Internally": "East Berlin",
+      "Borders with West Berlin": "West Berlin (de facto part of the FRG)"
+    },
+    "Berlin Wall": "Built in 1961 to prevent emigration to the West",
+    "Fall of Berlin Wall": "1989",
+    "1990 Free Election": "Led to negotiations for reunification",
+    "Final Settlement": "Replaced the Potsdam Agreement, leading to reunification",
+    "Post-Reunification": "Prosecution of GDR leaders for offenses committed during the GDR's times"
+  }
+}
