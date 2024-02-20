@@ -1,0 +1,55 @@
+{
+  "SpanishFormosa": {
+    "name": "Gobernación de Hermosa española",
+    "period": "1626–1642",
+    "status": "Colony of Spain",
+    "capital": "San Salvador (Keelung)",
+    "languages": {
+      "official": "Spanish",
+      "common": [
+        "East Formosan languages",
+        "Hokkien"
+      ]
+    },
+    "religion": "Roman Catholicism",
+    "government_type": "Colony",
+    "historical_era": "Age of Discovery",
+    "significant_events": {
+      "established": "1626",
+      "surrender_of_san_salvador": "1642"
+    },
+    "currency": "Spanish real",
+    "predecessors": [
+      "Prehistory of Taiwan"
+    ],
+    "successors": [
+      "Dutch Formosa"
+    ],
+    "current_territory": "Republic of China (Taiwan)",
+    "first_contact": {
+      "portuguese_name": "Formosa",
+      "spanish_translation": "Hermosa",
+      "year": "1544"
+    },
+    "settlement": {
+      "year": "1626",
+      "purpose": "Protect regional trade of Spanish Philippines",
+      "outcome": "Colony ceded to Dutch Republic in 1642"
+    },
+    "indigenous_relations": {
+      "Christianized_population": "About 5,000",
+      "tribes": [
+        "Basay people in Keelung and Tamsui",
+        "Kavalan people in Yilan"
+      ]
+    },
+    "military_history": {
+      "first_battle_with_dutch": "1641",
+      "second_battle_with_dutch": "1642"
+    },
+    "governors": {
+      "first": "Miguel López de Legazpi (1565–1572, Spanish East Indies)",
+      "last": "Diego de los Ríos (1898-1899, Spanish East Indies)"
+    }
+  }
+}
