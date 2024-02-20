@@ -1,0 +1,87 @@
+{
+  "FederalRepublicOfGermany_WestGermany": {
+    "namingConventions": {
+      "colloquialName": "Westdeutschland",
+      "officialName": "Bundesrepublik Deutschland",
+      "englishName": "Federal Republic of Germany",
+      "abbreviations": ["FRG", "BRD"],
+      "nicknames": ["Bonn Republic"]
+    },
+    "history": {
+      "formationDate": "23 May 1949",
+      "reunificationDate": "3 October 1990",
+      "initialFormation": "Established from states formed in the Allied zones of occupation by the United States, the United Kingdom, and France.",
+      "coldWarEra": "Part of the Western Bloc during the Cold War.",
+      "importantEvents": {
+        "bonnParisConventions": "5 May 1955",
+        "natoMembership": "9 May 1955",
+        "saarStatute": "1 January 1957",
+        "eecCreation": "25 March 1957",
+        "basicTreatyWithGDR": "21 December 1972",
+        "unAdmission": "18 September 1973",
+        "finalSettlement": "12 September 1990"
+      }
+    },
+    "economicMiracle": {
+      "description": "Rapid industrial growth and economic development during the 1950s, leading to becoming the world's second-largest economy.",
+      "keyFigure": "Konrad Adenauer",
+      "economicPolicies": "Full alignment with NATO, membership in the European Union precursor agreements."
+    },
+    "demographics": {
+      "1950Population": "50,958,000",
+      "1970Population": "61,001,000",
+      "1990Population": "63,254,000",
+      "density1990": "254/km2"
+    },
+    "positionTowardsEastGermany": {
+      "initialClaim": "Exclusive mandate for all of Germany, representing the sole democratically reorganised continuation of the 1871–1945 German Reich.",
+      "relationsImprovement": "Basic Treaty in 1972, leading to improved relations and eventual reunification."
+    },
+    "politics": {
+      "governmentType": "Federal parliamentary constitutional republic",
+      "presidents": {
+        "first": {"name": "Theodor Heuss", "term": "1949–1959"},
+        "last": {"name": "Richard von Weizsäcker", "term": "1984–1990", "continuedAfterReunification": true}
+      },
+      "chancellors": {
+        "first": {"name": "Konrad Adenauer", "term": "1949–1963"},
+        "last": {"name": "Helmut Kohl", "term": "1982–1990", "continuedAfterReunification": true}
+      },
+      "legislature": {
+        "bicameralism": true,
+        "upperHouse": "Bundesrat",
+        "lowerHouse": "Bundestag"
+      }
+    },
+    "culture": {
+      "anthems": {
+        "unofficial": {"title": "Ich hab mich ergeben", "duration": "3 minutes and 25 seconds", "years": "1949–1952"},
+        "official": {"title": "Deutschlandlied", "duration": "1 minute and 15 seconds", "years": "1952–1990"}
+      },
+      "mottos": {
+        "initial": "Gott mit uns (1949–1962)",
+        "later": "Einigkeit und Recht und Freiheit (since 1962)"
+      }
+    },
+    "geographicalDistributionOfGovernment": {
+      "capital": "Bonn",
+      "largestCity": "Hamburg",
+      "provisionalCapitalDetails": "Initially, Bonn was the provisional seat of government institutions.",
+      "statesMerged": "Three southwestern states merged to form Baden-Württemberg in 1952.",
+      "saarlandJoining": "Saarland joined West Germany as a state in 1957."
+    },
+    "miscellaneous": {
+      "officialLanguages": ["German"],
+      "religion": "See Religion in West Germany",
+      "currency": "Deutsche Mark (DM) (DEM)",
+      "timeZone": "UTC+1 (CET), UTC+2 (CEST in summer)",
+      "callingCode": "+49",
+      "internetTLD": ".de",
+      "precededAndSucceededBy": {
+        "preceded": ["British occupation zone", "American occupation zone", "French occupation zone"],
+        "succeeded": "Federal Republic of Germany since 1990"
+      },
+      "todayPartOf": "Germany"
+    }
+  }
+}
