@@ -1,9 +1,11 @@
 {
   "NaziGermany": {
+    "commonName": "Nazi Germany",
     "officialNames": {
       "1933_1943": "German Reich",
       "1943_1945": "Greater German Reich"
     },
+    "lit.": "German Empire",
     "period": "1933–1945",
     "flag": "Flag (1935–1945)",
     "emblem": "Emblem (1935–1945)",
