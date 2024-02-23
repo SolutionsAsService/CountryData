@@ -1,0 +1,120 @@
+{
+  "Second_Polish_Republic": {
+    "official_name": "Republic of Poland",
+    "local_name": "Rzeczpospolita Polska",
+    "existence_period": {
+      "from": "1918-10-07",
+      "to": "1939-10-06"
+    },
+    "flag_period": "1927-1939",
+    "coat_of_arms_period": "1927-1939",
+    "anthem": {
+      "title": "Mazurek Dąbrowskiego",
+      "english_title": "Poland Is Not Yet Lost",
+      "duration": "2:43"
+    },
+    "capital_and_largest_city": {
+      "name": "Warsaw",
+      "coordinates": "52°13′48″N 21°00′40″E"
+    },
+    "official_languages": "Polish",
+    "recognized_regional_languages": {
+      "German": "since 1920",
+      "Belarusian": "since 1924",
+      "Lithuanian": "since 1924",
+      "Ukrainian": "since 1924"
+    },
+    "religion_1931": {
+      "majority": "64.8% Roman Catholicism",
+      "minorities": {
+        "Eastern_Orthodox": "11.8%",
+        "Greek_Catholic": "10.5%",
+        "Jewish": "9.8%",
+        "Protestant": "2.6%",
+        "Other_Christian": "0.5%",
+        "Other": "0.02%"
+      }
+    },
+    "demonym": ["Polish", "Pole"],
+    "leaders": {
+      "President": [
+        {"term": "1918-1922", "name": "Józef Piłsudski"},
+        {"term": "1922", "name": "Gabriel Narutowicz"},
+        {"term": "1922-1926", "name": "S. Wojciechowski"},
+        {"term": "1926-1939", "name": "Ignacy Mościcki"}
+      ],
+      "Prime_Minister": [
+        {"term": "1918-1919", "name": "Jędrzej Moraczewski"},
+        {"term": "1936-1939", "name": "Felicjan S. Składkowski"}
+      ]
+    },
+    "legislature": {
+      "type": "Bicameral",
+      "upper_chamber": "Senate",
+      "lower_chamber": "Sejm"
+    },
+    "establishment": {
+      "historical_era": "Interwar period",
+      "events": [
+        {"date": "1918-11-11", "event": "End of the First World War"},
+        {"date": "1919-06-28", "event": "Treaty of Versailles"},
+        {"date": "1921-03-18", "event": "Peace of Riga"},
+        {"date": "1939-09-01", "event": "German invasion"},
+        {"date": "1939-09-17", "event": "Soviet invasion"},
+        {"date": "1939-09-28", "event": "Fall of Warsaw"},
+        {"date": "1939-10-06", "event": "Complete occupation"}
+      ]
+    },
+    "area_sq_km": 388634,
+    "population": {
+      "1921": 25694700,
+      "1931": 31915779
+    },
+    "currency": [
+      {"period": "until 1924", "name": "Marka"},
+      {"period": "after 1924", "name": "Złoty"}
+    ],
+    "predecessors_successors": {
+      "preceded_by": "Kingdom of Poland",
+      "succeeded_by": "Military Administration in Poland"
+    },
+    "current_territory": [
+      "Poland",
+      "Belarus",
+      "Ukraine",
+      "Lithuania",
+      "Czech Republic",
+      "Slovakia"
+    ],
+    "neighbors": [
+      "Czechoslovakia",
+      "Germany",
+      "Free City of Danzig",
+      "Lithuania",
+      "Latvia",
+      "Romania",
+      "Soviet Union",
+      "Hungarian governorate of Subcarpathia"
+    ],
+    "geography": {
+      "access_to_baltic_sea": "Polish Corridor",
+      "coastline_city": "Gdynia"
+    },
+    "population_statistics": {
+      "1921_census": 27200000,
+      "1939_estimate": 35100000,
+      "minority_groups": {
+        "Ruthenians": "13.9%",
+        "Ashkenazi_Jews": "10%",
+        "Belarusians": "3.1%",
+        "Germans": "2.3%",
+        "Czechs_and_Lithuanians": "3.4%"
+      }
+    },
+    "economy": "Moderate economic development",
+    "cultural_hubs": ["Warsaw", "Kraków", "Poznań", "Wilno", "Lwów"],
+    "education_and_culture": "Internationally acclaimed universities and institutions of higher education",
+    "status_of_ethnic_minorities": "Discrimination against Jewish and Ukrainian citizens in the 1930s",
+    "invasion_of_poland_1939": "Marked the beginning of the European theatre of the Second World War"
+  }
+}
