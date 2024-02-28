@@ -1,0 +1,112 @@
+{
+  "New_Hebrides_Condominium": {
+    "name": "New Hebrides Condominium",
+    "local_name": "Condominium des Nouvelles-Hébrides",
+    "period": {
+      "start": "1906",
+      "end": "1980"
+    },
+    "inspiration": "Named after the Hebrides Scottish archipelago",
+    "current_name": "Vanuatu",
+    "history": {
+      "native_inhabitation": "Three thousand years",
+      "european_discovery": {
+        "year": "1606",
+        "navigator": "Pedro Fernandes de Queirós",
+        "origin": "Spanish expedition"
+      },
+      "naming": {
+        "year": "1774",
+        "by": "Captain James Cook"
+      },
+      "colonisation": ["British", "French"]
+    },
+    "symbols": {
+      "flag": "Flag of New Hebrides",
+      "emblem": {
+        "year": "1969",
+        "description": "Emblem of New Hebrides"
+      }
+    },
+    "capital": "Port Vila",
+    "languages": ["English", "French", "Bislama"],
+    "government_structure": {
+      "type": "Condominium",
+      "resident_commissioner": true,
+      "legislature": {
+        "name": "Representative Assembly",
+        "period": "1975-1980"
+      }
+    },
+    "currency": ["New Hebrides franc", "Australian dollar"],
+    "transition": {
+      "from": "Anglo-French Joint Naval Commission",
+      "to": "Vanuatu"
+    },
+    "geography": {
+      "map_year": "1905"
+    },
+    "judiciary": {
+      "joint_court": {
+        "establishment_year": "1914",
+        "composition": [
+          "one British judge",
+          "one French judge",
+          "one judge nominated by the King of Spain"
+        ],
+        "abolition": "1939"
+      }
+    },
+    "administration": {
+      "parallel_administrations": ["British", "French"],
+      "joint_administration": "Provided for joint sovereignty over the archipelago",
+      "residency_structure": {
+        "dualism": true,
+        "symmetry": "exact",
+        "consultation": "mirror opposite number"
+      }
+    },
+    "legal_system": {
+      "choice_of_law": ["English common law", "French civil law"],
+      "native_court": "Melanesian customary law",
+      "joint_court_president": {
+        "appointed_by": "King of Spain",
+        "post_abolition_year": "1939"
+      }
+    },
+    "services_and_infrastructure": {
+      "postal_service": true,
+      "public_radio": true,
+      "public_works": true,
+      "infrastructure": true,
+      "censuses": true,
+      "city_councils": ["Luganville", "Port Vila"]
+    },
+    "dual_systems": {
+      "police_forces": true,
+      "health_services": true,
+      "education_systems": true,
+      "currencies": true,
+      "prison_systems": true,
+      "immigration_policies": true,
+      "corporation_laws": true
+    },
+    "challenges": {
+      "statelessness_of_ni-vanuatu": true,
+      "document_requirement_for_travel": "Identifying document signed by both resident commissioners"
+    },
+    "world_war_ii": {
+      "ni-vanuatu_participation": "Approximately 10,000 men",
+      "role": "Logistical support to the Allied war effort during the Guadalcanal Campaign",
+      "impact": "Significant effect on the John Frum movement"
+    },
+    "path_to_self_government": {
+      "internal_self_governing": "January 1978",
+      "chief_ministers": [
+        {"name": "George Kalsakau", "term": "November 1977 - December 1978"},
+        {"name": "Gérard Leymang", "term": "December 1978 - November 1979"},
+        {"name": "Walter Lini", "term": "November 1979 - July 1980"}
+      ]
+    }
+  }
+}
