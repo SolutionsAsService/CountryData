@@ -33,11 +33,21 @@ fetch('https://raw.githubusercontent.com/johan/world.geo.json/master/countries.g
     })
     .catch(error => console.error('Error fetching GeoJSON:', error));
 
+// Function to format country name to match JSON filenames
+function formatCountryName(countryName) {
+    return countryName.replace(/\s+/g, '');
+}
+
 // Function to fetch data for a country
 function fetchCountryData(countryName) {
-    const countryCode = countryName.replace(/\s+/g, ''); // Remove spaces for the JSON file name
-    fetch(`https://raw.githubusercontent.com/SolutionsAsService/CountryData/main/${countryCode}.json`)
-        .then(response => response.json())
+    const formattedName = formatCountryName(countryName);
+    fetch(`https://raw.githubusercontent.com/SolutionsAsService/CountryData/main/${formattedName}.json`)
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+            return response.json();
+        })
         .then(data => {
             const country = data[countryName];
             if (country) {
