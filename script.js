@@ -49,8 +49,9 @@ function fetchCountryData(countryName) {
             return response.json();
         })
         .then(data => {
-            const country = data[countryName];
-            if (country) {
+            // Check if the fetched data has the expected structure
+            if (data[formattedName]) {
+                const country = data[formattedName];
                 document.getElementById('info').innerHTML = `
                     <h2>${country.Name.Common}</h2>
                     <p><strong>Official Name:</strong> ${country.Name.Official}</p>
@@ -67,11 +68,11 @@ function fetchCountryData(countryName) {
                     <p><strong>Economy:</strong> GDP (PPP): ${country.Economy['GDP (PPP) 2020 Estimate'].Total}, GDP per Capita (PPP): ${country.Economy['GDP (PPP) 2020 Estimate']['Per Capita']}</p>
                 `;
             } else {
-                document.getElementById('info').innerHTML = 'Country data not found.';
+                throw new Error('Country data structure is not as expected');
             }
         })
         .catch(error => {
             console.error('Error fetching country data:', error);
-            document.getElementById('info').innerHTML = 'Country data not found.';
+            document.getElementById('info').innerHTML = 'Country data not found or data structure is incorrect.';
         });
 }
