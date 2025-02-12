@@ -1,90 +1,170 @@
 {
-  "Cameroon": {
-    "Name": {
-  "Official": "Republic of Cameroon",
-  "Native": "République du Cameroun"
+  "Name": {
+    "Common": "Cameroon",
+    "Official": "Republic of Cameroon",
+    "Native": "République du Cameroun"
   },
   "Status": ["Islamic Insurgency", "Boko Haram insurgency", "Anglophone Crisis"],
-  "Location": {
-    "Region": "Central Africa",
-    "Borders": {
-                "Nigeria": ["west", "north"], 
-                 "Chad": "northeast", 
-                 "Central African Republic": "east", 
-                 "south": ["Equatorial Guinea", "Gabon", "Republic of the Congo"]
-    },
-  "Coordinates": {
-    "Capital": {
-      "Name": "Yaoundé",
-      "Latitude": "3°52′N",
-      "Longitude": "11°31′E"
+  "Symbols": {
+    "Flag": "Vertical tricolor of green, red, and yellow with a yellow star in the center",
+    "Coat of Arms": "A shield with a star and two crossed fasces",
+    "Motto": "Paix, Travail, Patrie (Peace, Work, Fatherland)",
+    "Anthem": {
+      "Title": "O Cameroon, Cradle of Our Forefathers",
+      "Duration": "1 minute and 27 seconds"
     }
   },
-    "Largest City": "Douala"
+  "Geography": {
+    "Continent": "Africa",
+    "Region": "Central Africa",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Yaoundé",
+        "Latitude": "3°52′N",
+        "Longitude": "11°31′E"
+      }
+    },
+    "Borders": {
+      "Nigeria": ["West", "North"], 
+      "Chad": "Northeast", 
+      "Central African Republic": "East", 
+      "Equatorial Guinea": "South", 
+      "Gabon": "South", 
+      "Republic of the Congo": "South"
+    },
+    "Area": {
+      "Total (km2)": 475442,
+      "Rank": "53",
+      "Water Percentage": "1.3%"
+    },
+    "Time Zones": "1",
+    "Driving Side": "Right",
+    "Natural Resources": ["Petroleum", "Bauxite", "Iron ore", "Timber", "Hydropower"],
+    "Climate": ["Tropical", "Semi-arid"]
   },
-  "Official Languages": ["French", "English"],
-  "Ethnic Groups (2018)": {
-    "Bamileke-Bamum": "24.3%",
-    "Beti / Bassa-Mbam": "21.6%",
-    "Biu-Mandara": "14.6%",
-    "Hausa, Kanuri and Shuwa": "11%",
-    "Adamawa-Ubangi (Mbum-Gbaya)": "9.8%",
-    "Grassfielders": "7.7%",
-    "Pygmy peoples": "3.3%",
-    "Sawa / Côtier": "2.7%",
-    "Southwest Bantu": "0.7%",
-    "Others / Foreigners": "4.5%"
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 30135732,
+      "Density per km2": 63
+    },
+    "Ethnic Groups": {
+      "Bamileke-Bamum": 24.3,
+      "Beti / Bassa-Mbam": 21.6,
+      "Biu-Mandara": 14.6,
+      "Hausa, Kanuri and Shuwa": 11,
+      "Adamawa-Ubangi (Mbum-Gbaya)": 9.8,
+      "Grassfielders": 7.7,
+      "Pygmy peoples": 3.3,
+      "Sawa / Côtier": 2.7,
+      "Southwest Bantu": 0.7,
+      "Others / Foreigners": 4.5
+    },
+    "Languages": {
+      "Official": ["French", "English"]
+    },
+    "Religion": {
+      "Christianity": 59.7,
+      "Islam": 20.2,
+      "Traditional Faiths": 19.0,
+      "No Religion": 0.8,
+      "Others": 0.3
+    }
   },
-  "Religions (2020)": {
-    "Christianity": "59.7%",
-    "Islam": "20.2%",
-    "Traditional Faiths": "19.0%",
-    "No Religion": "0.8%",
-    "Others": "0.3%"
-  },
-  "Government Type": "Unitary dominant-party presidential republic under a dictatorship",
-  "Leaders": {
+  "Government": {
+    "Type": "Unitary dominant-party presidential republic under a dictatorship",
     "President": "Paul Biya",
     "Prime Minister": "Joseph Ngute",
     "President of Senate": "Marcel Niat Njifenji",
-    "President of National Assembly": "Cavayé Yéguié Djibril"
+    "President of National Assembly": "Cavayé Yéguié Djibril",
+    "Legislature": {
+      "Upper House": "Senate",
+      "Lower House": "National Assembly"
+    },
+    "Independence": {
+      "From France": "1 January 1960",
+      "From the United Kingdom": "1 October 1961"
+    },
+    "Constitution": "18 January 1996"
   },
-  "Legislature": {
-    "Upper House": "Senate",
-    "Lower House": "National Assembly"
+  "History": {
+    "Pre-Colonial Period": "Various kingdoms and tribes",
+    "German Colonization": "1884–1916",
+    "French and British Mandates": "1916–1960",
+    "Independence": "1960",
+    "Modern Developments": "20th and 21st centuries including political reforms and conflicts"
   },
-  "Independence": {
-    "From France": "1 January 1960",
-    "From the United Kingdom": "1 October 1961"
+  "Economy": {
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 160.335,
+      "Per Capita (USD)": 6260
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 72.262,
+      "Per Capita (USD)": 2293
+    },
+    "Currency": "Central African CFA franc (XAF)",
+    "Gini Index": "46.6 (2014)",
+    "HDI": "0.594 (2023)"
   },
-  "Area": "475,442 km2",
-  "Population (2023)": "30,135,732",
-  "GDP (PPP) 2023": {
-    "Total": "$160.335 billion",
-    "Per Capita": "$6,260"
+  "International Relations": {
+    "UN Member": true,
+    "AU Member": true,
+    "OIF Member": true,
+    "Commonwealth Member": true,
+    "Non-Aligned Movement Member": true,
+    "OIC Member": true
   },
-  "GDP (Nominal) 2023": {
-    "Total": "$72.262 billion",
-    "Per Capita": "$2,293"
+  "Miscellaneous": {
+    "Time Zone": "UTC+1 (WAT)",
+    "Date Format": ["dd/mm/yyyy", "yyyy/mm/dd"],
+    "Driving Side": "Right",
+    "Calling Code": "+237",
+    "ISO 3166 Code": "CM",
+    "Internet TLD": ".cm",
+    "Public Holidays": [
+      "New Year's Day",
+      "Youth Day",
+      "Labour Day",
+      "National Day",
+      "Assumption Day",
+      "Christmas Day"
+    ]
   },
-  "Gini (2014)": "46.6 (High)",
-  "HDI (2023)": "0.594 (Medium, 141st)",
-  "Currency": "Central African CFA franc (XAF)",
-  "Time Zone": "UTC+1 (WAT)",
-  "Date Format": ["dd/mm/yyyy", "yyyy/mm/dd"],
-  "Driving Side": "right",
-  "Calling Code": "+237",
-  "ISO 3166 Code": "CM",
-  "Internet TLD": ".cm",
-  "Geographical Features": {
-    "Highest Point": "Mount Cameroon, 4,100 metres",
-    "Natural Features": ["Beaches", "Deserts", "Mountains", "Rainforests", "Savannas"]
-  },
-  "Cultural Aspects": {
+  "Significant Cultural Aspects": {
     "Music Styles": ["Makossa", "Njang", "Bikutsi"],
     "National Football Team": "Successful",
     "Nickname": "Africa in miniature"
   },
-  "International Affiliations": ["African Union", "United Nations", "Organisation Internationale de la Francophonie", "Commonwealth of Nations", "Non-Aligned Movement", "Organisation of Islamic Cooperation"]
-}
+  "Economic Outlook 2024": {
+    "GDP Growth": "4.0%",
+    "Factors Affecting Growth": ["Agriculture", "Mining", "Government policies"],
+    "Inflation Rate 2023": "3.7%",
+    "Inflation Rate 2024": "3.5%"
+  },
+  "Health": {
+    "Life Expectancy": 59.8,
+    "Infant Mortality Rate": 57.5,
+    "Maternal Mortality Ratio": 596,
+    "Physicians Density": 0.08,
+    "Hospital Bed Density": 1.0
+  },
+  "Education": {
+    "Expenditures (% of GDP)": 3.2,
+    "Literacy": {
+      "Total": 77.1,
+      "Male": 82.6,
+      "Female": 71.7
+    },
+    "School Life Expectancy": {
+      "Total": 10,
+      "Male": 11,
+      "Female": 9
+    }
+  },
+  "Environmental Issues": {
+    "Deforestation": true,
+    "Water Pollution": true,
+    "Desertification": true,
+    "Biodiversity Loss": true
+  }
 }
