@@ -1,112 +1,147 @@
 {
-    "Burkina Faso": {
-        "Name": {
-            "Local": "Burkina Faso",
-            "French": "République du Burkina Faso"
-             "Fula": "𞤄𞤵𞤪𞤳𞤭𞤲𞤢 𞤊𞤢𞤧𞤮",
-            "Mossi": "Burkĩna Faso",
-             "Dyula": "ߓߎߙߞߌߣߊ ߝߊߛߏ",
-            "Previous": "Republic pf Upper Volta"
-        },
-        "Status": ["Islamic Insurgency"],
-        "Symbols": {
-            "Flag": "Flag of Burkina Faso",
-            "Coat of Arms": "Coat of arms of Burkina Faso",
-            "Motto": "Unité–Progrès–Justice (Unity–Progress–Justice)",
-            "Anthem": {
-                "Title": "Une Seule Nuit / Ditanyè",
-                "English Translation": "One Single Night / Hymn of Victory",
-                "Duration": "1 minute and 48 seconds"
-            }
-        },
-        "Location": {
-            "Region": "West Africa",
-            "Borders": {
-                "Mali": "Northwest",
-                "Niger": "Northeast",
-                "Benin": "Southeast",
-                "Togo": "South",
-                "Ghana": "South",
-                "Ivory Coast": "Southwest"
-            },
-            "Capital and Largest City": "Ouagadougou",
-            "Coordinates": "12°22′N 1°32′W"
-        },
-        "Demographics": {
-            "Population": {
-                "2023 Estimate": "22,489,126",
-                "Density": "64 per km2"
-            },
-            "Ethnic Groups (2010 Estimate)": {
-                "Mossi": "52%",
-                "Fula": "8.4%",
-                "Gurma": "7%",
-                "Bobo": "4.9%",
-                "Gurunsi": "4.6%",
-                "Senufo": "4.5%",
-                "Lobi": "2.4%",
-                "Tuareg": "1.9%",
-                "Dyula": "0.8%",
-                "Other": "See full list"
-            },
-            "Religion (2021)": {
-                "Islam": "63.8%",
-                "Christianity": "26.3%",
-                "Other / Unspecified": "See full list"
-            },
-            "Languages": {
-                "Official": "French",
-                "National Languages": "Over 60 including Mooré"
-            }
-        },
-        "Government": {
-            "Type": "Unitary republic under a military junta",
-            "Interim President": "Ibrahim Traoré",
-            "Prime Minister": "Apollinaire Joachim Kyélem de Tambèla",
-            "Legislature": "Transitional Legislative Assembly"
-        },
-        "Geography": {
-            "Total Area": "274,223 square kilometers",
-            "Landlocked": true,
-            "Water Percentage": "0.146%"
-        },
-        "Economy": {
-            "GDP (PPP) 2023 Estimate": {
-                "Total": "$62.788 billion",
-                "Per Capita": "$2,682"
-            },
-            "GDP (Nominal) 2023 Estimate": {
-                "Total": "$20.785 billion",
-                "Per Capita": "$888"
-            },
-            "Gini Index (2020)": "38.9",
-            "HDI (2021)": "0.449",
-            "Currency": "West African CFA franc (XOF)"
-        },
-        "Food Insecurity": "Information not provided",
-        "Infrastructure and Services": {
-            "Development": "Information not provided",
-            "Utilities": "Information not provided"
-        },
-        "Science and Technology": "Information not provided",
-        "Culture": {
-            "Artistic Heritage": "Renowned for orthodox style",
-            "Cultural Diversity": true,
-            "Religious Practices": "Various"
-        },
-        "International Relations": {
-            "UN Membership": true,
-            "La Francophonie": "Member",
-            "OIC": "Member",
-            "Current Status": "Suspended from ECOWAS and African Union"
-        },
-        "Historical Overview": {
-            "Early Kingdoms": ["Mossi", "Ouagadougou", "Tenkodogo", "Yatenga"],
-            "Colonial Period": "French colonization in 1896",
-            "Independence": "From France in 1960",
-            "Recent Coups": ["January 2022", "September 2022"]
-        },
-        "Education": "Information not provided",
-        "Transport": "Information not provided"
+  "Name": {
+    "Common": "Burkina Faso",
+    "Official": "Burkina Faso",
+    "Native": "Burkina Faso"
+  },
+  "Symbols": {
+    "Flag": "Two horizontal bands of red and green with a yellow five-pointed star in the center",
+    "Coat of Arms": "Two stallions flanking a shield with a crossed hoe and sword",
+    "Motto": "Unité, Progrès, Justice (Unity, Progress, Justice)",
+    "Anthem": {
+      "Title": "Ditanyè, L'Hymne de la Victoire",
+      "Duration": "1 minute and 55 seconds"
     }
+  },
+  "Geography": {
+    "Continent": "Africa",
+    "Region": "West Africa",
+    "Coordinates": "12°22′N, 1°31′W",
+    "Borders": ["Mali", "Niger", "Benin", "Togo", "Ghana", "Ivory Coast"],
+    "Area": {
+      "Total (km2)": 272967,
+      "Rank": "74",
+      "Water Percentage": "0.2%"
+    },
+    "Time Zones": "1",
+    "Driving Side": "Right",
+    "Natural Resources": ["Gold", "Manganese", "Limestone", "Marble", "Phosphates"],
+    "Climate": ["Tropical", "Dry"]
+  },
+  "Demographics": {
+    "Population": {
+      "2022 Estimate": 21927876,
+      "Density per km2": 80
+    },
+    "Ethnic Groups": {
+      "Mossi": 52,
+      "Fulani": 9.3,
+      "Gurma": 8.5,
+      "Bobo": 7.6,
+      "Gurunsi": 6.6,
+      "Senufo": 5.4,
+      "Lobi": 4.5,
+      "Bissa": 3.2,
+      "Other": 2.9
+    },
+    "Languages": {
+      "Official": ["French"],
+      "National": ["Mòoré", "Dioula", "Fula"]
+    },
+    "Religion": {
+      "Islam": 63.2,
+      "Christianity": 26.3,
+      "Traditional": 9.8,
+      "Other": 0.7
+    }
+  },
+  "Government": {
+    "Type": "Semi-presidential republic",
+    "President": "Roch Marc Christian Kaboré",
+    "Prime Minister": "Christophe Joseph Marie Dabiré",
+    "Legislature": {
+      "Upper House": "Senate",
+      "Lower House": "National Assembly"
+    },
+    "Independence from France": "5 August 1960"
+  },
+  "History": {
+    "Pre-Colonial Period": "Various kingdoms and empires",
+    "French Colonization": "1896–1960",
+    "Independence": "1960",
+    "Modern Developments": "20th and 21st centuries including coups and political reforms"
+  },
+  "Economy": {
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 38.3,
+      "Per Capita (USD)": 1800
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 14.8,
+      "Per Capita (USD)": 700
+    },
+    "Currency": "West African CFA franc (XOF)",
+    "Gini Index": "35.3 (2019)",
+    "HDI": "0.452 (2021)"
+  },
+  "International Relations": {
+    "Joined UN": "1960",
+    "Joined AU": "1963",
+    "Joined ECOWAS": "1975"
+  },
+  "Miscellaneous": {
+    "Time Zone": "UTC (GMT)",
+    "Date Format": "dd/mm/yyyy",
+    "Driving Side": "Right",
+    "Calling Code": "+226",
+    "ISO 3166 Code": "BF",
+    "Internet TLD": ".bf",
+    "Public Holidays": [
+      "New Year's Day",
+      "International Women's Day",
+      "Labour Day",
+      "Independence Day",
+      "Revolution Day",
+      "All Saints' Day",
+      "Christmas Day"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Early Societies": "Various ethnic groups with rich cultural heritage",
+    "Ancient History": ["Mossi Kingdoms"],
+    "Cultural Contributions": ["Traditional music and dance", "Handicrafts"]
+  },
+  "Economic Outlook 2024": {
+    "GDP Growth": "5.1%",
+    "Factors Affecting Growth": ["Agriculture", "Mining", "Government policies"],
+    "Inflation Rate 2023": "3.5%",
+    "Inflation Rate 2024": "3.0%"
+  },
+  "Health": {
+    "Life Expectancy": 61.2,
+    "Infant Mortality Rate": 48.2,
+    "Maternal Mortality Ratio": 320,
+    "Physicians Density": 0.05,
+    "Hospital Bed Density": 0.4
+  },
+  "Education": {
+    "Expenditures (% of GDP)": 4,
+    "Literacy": {
+      "Total": 41.2,
+      "Male": 50.1,
+      "Female": 32.7
+    },
+    "School Life Expectancy": {
+      "Total": 8,
+      "Male": 8,
+      "Female": 7
+    }
+  },
+  "Environmental Issues": {
+    "Deforestation": true,
+    "Soil Degradation": true,
+    "Desertification": true,
+    "Water Scarcity": true,
+    "Biodiversity Loss": true
+  }
 }
