@@ -1,17 +1,40 @@
 {
-  "Chile": {
-  "Country": "Chile",
-  "Official_Name": "Republic of Chile",
-  "SpanishName": "República de Chile",
+  "Name": {
+    "Common": "Chile",
+    "Official": "Republic of Chile",
+    "Native": {
+      "Spanish": "República de Chile"
+    }
+  },
+  "Symbols": {
+    "Flag": "Two horizontal bands of white and red with a blue square and white star in the upper hoist-side corner",
+    "Coat of Arms": "A shield supported by a condor and a huemul, topped with a naval crown",
+    "Motto": "Por la razón o la fuerza (By reason or by force)",
+    "Anthem": {
+      "Title": "Himno Nacional de Chile",
+      "Duration": "3 minutes and 52 seconds"
+    }
+  },
   "Geography": {
-    "Location": "Western South America",
-    "Features": "Stretches along a narrow strip between the Andes Mountains and the Pacific Ocean",
-    "Area_SqKm": 756102,
+    "Continent": "South America",
+    "Region": "Western South America",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Santiago",
+        "Latitude": "33°26′S",
+        "Longitude": "70°40′W"
+      }
+    },
     "Borders": {
       "North": "Peru",
       "Northeast": "Bolivia",
       "East": "Argentina",
       "South": "Drake Passage"
+    },
+    "Area": {
+      "Total (km2)": 756102,
+      "Rank": "37",
+      "Water Percentage": "1.07%"
     },
     "Territories": [
       "Juan Fernández",
@@ -19,85 +42,145 @@
       "Desventuradas",
       "Easter Island"
     ],
-    "Antarctic_Claim": "1,250,000 SqKm"
+    "Antarctic Claim": {
+      "Area (km2)": 1250000,
+      "Status": "Suspended under the Antarctic Treaty"
+    },
+    "Time Zones": ["UTC−4", "UTC−6"],
+    "Summer DST": ["UTC−3", "UTC−5"],
+    "Driving Side": "Right",
+    "Natural Resources": ["Copper", "Timber", "Iron ore", "Nitrates", "Precious metals", "Molybdenum", "Hydropower"],
+    "Climate": ["Varies from desert in the north to temperate in the central region to cool and damp in the south"]
   },
-  "Capital_City": "Santiago",
-  "Coordinates": {
-    "Latitude": "33°26′S",
-    "Longitude": "70°40′W"
-  },
-  "Population": {
-    "2017": 17500000,
-    "2023_Estimate": 18549457,
-    "Density_per_SqKm": 24
-  },
-  "Language": "Spanish",
-  "Religion": {
-    "Christianity": 62.1,
-    "Catholicism": 52.6,
-    "Other_Christian": 9.5,
-    "No_Religion": 37.4,
-    "Other": 0.5
+  "Demographics": {
+    "Population": {
+      "2017 Census": 17500000,
+      "2023 Estimate": 18549457,
+      "Density per km2": 24
+    },
+    "Ethnic Groups": {
+      "European and Mestizo": 88.9,
+      "Indigenous": 9.1,
+      "African": 1,
+      "Other": 1
+    },
+    "Languages": {
+      "Official": ["Spanish"]
+    },
+    "Religion": {
+      "Christianity": 62.1,
+      "Catholicism": 52.6,
+      "Other Christian": 9.5,
+      "No Religion": 37.4,
+      "Other": 0.5
+    }
   },
   "Government": {
     "Type": "Unitary presidential republic",
     "President": "Gabriel Boric",
-    "Senate_President": "Juan Antonio Coloma",
-    "Chamber_of_Deputies_President": "Ricardo Cifuentes",
-    "Supreme_Court_President": "Juan Fuentes Belmar"
-  },
-  "Legislature": {
-    "National_Congress": {
-      "Upper_House": "Senate",
-      "Lower_House": "Chamber of Deputies"
-    }
-  },
-  "Independence": {
-    "From_Spain": {
-      "Government_Junta": "1810-09-18",
-      "Declared": "1818-02-12",
-      "Recognized": "1844-04-25"
+    "Senate President": "Juan Antonio Coloma",
+    "Chamber of Deputies President": "Ricardo Cifuentes",
+    "Supreme Court President": "Juan Fuentes Belmar",
+    "Legislature": {
+      "National Congress": {
+        "Upper House": "Senate",
+        "Lower House": "Chamber of Deputies"
+      }
     },
-    "Current_Constitution": "1981-03-11"
-  },
-  "Economy": {
-    "GDP_PPP": {
-      "2023_Total": 597520000000,
-      "Per_Capita": 29934
+    "Independence": {
+      "From Spain": {
+        "Government Junta": "18 September 1810",
+        "Declared": "12 February 1818",
+        "Recognized": "25 April 1844"
+      }
     },
-    "GDP_Nominal": {
-      "2023_Total": 344400000000,
-      "Per_Capita": 17253
-    },
-    "Gini_Index": 46,
-    "HDI": 0.855
+    "Constitution": "11 March 1981"
   },
-  "Currency": "Chilean peso (CLP)",
-  "Time_Zone": ["UTC−4", "UTC−6"],
-  "Summer_DST": ["UTC-3", "UTC−5"],
-  "Driving_Side": "right",
-  "Calling_Code": "+56",
-  "ISO_Code": "CL",
-  "Internet_TLD": ".cl",
-  "Additional_Info": {
-    "Valparaiso": "Legislature location",
-    "Antarctica_Exclusion": "Does not include claimed territory in Antarctica",
-    "History": [
-      "Spanish colonization mid-16th century",
-      "Independence from Spain in 1818",
-      "War of the Pacific (1879–83)"
-    ],
-    "Modern_Political_History": [
+  "History": {
+    "Colonial History": "Spanish colonization mid-16th century",
+    "Independence": "1818",
+    "Wars": ["War of the Pacific (1879–83)"],
+    "Modern Political History": [
       "Democratization in the 20th century",
       "Military dictatorship under Augusto Pinochet (1973–1990)"
-    ],
-    "Economic_Status": "High-income economy, stable in South America",
-    "International_Roles": [
-      "United Nations",
-      "CELAC",
-      "Pacific Alliance",
-      "OECD member since 2010"
     ]
+  },
+  "Economy": {
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 597.52,
+      "Per Capita (USD)": 29934
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 344.4,
+      "Per Capita (USD)": 17253
+    },
+    "Currency": "Chilean peso (CLP)",
+    "Gini Index": "46.0 (2017)",
+    "HDI": "0.855 (2021)"
+  },
+  "International Relations": {
+    "UN Member": true,
+    "CELAC Member": true,
+    "Pacific Alliance Member": true,
+    "OECD Member": true
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC−4", "UTC−6"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+56",
+    "ISO 3166 Code": "CL",
+    "Internet TLD": ".cl",
+    "Public Holidays": [
+      "New Year's Day",
+      "Good Friday",
+      "Labor Day",
+      "Navy Day",
+      "Assumption of Mary",
+      "National Day",
+      "Independence Day",
+      "Army Day",
+      "Reformation Day",
+      "All Saints' Day",
+      "Immaculate Conception",
+      "Christmas Day"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Spanish rule",
+    "Cultural Contributions": ["Traditional music and dance", "Handicrafts"]
+  },
+  "Economic Outlook 2024": {
+    "GDP Growth": "2.7%",
+    "Factors Affecting Growth": ["Copper production", "Agriculture", "Tourism"],
+    "Inflation Rate 2023": "3.5%",
+    "Inflation Rate 2024": "3.0%"
+  },
+  "Health": {
+    "Life Expectancy": 80.5,
+    "Infant Mortality Rate": 6.5,
+    "Maternal Mortality Ratio": 20,
+    "Physicians Density": 1.1,
+    "Hospital Bed Density": 2.2
+  },
+  "Education": {
+    "Expenditures (% of GDP)": 4.9,
+    "Literacy": {
+      "Total": 96.4,
+      "Male": 96.8,
+      "Female": 96.0
+    },
+    "School Life Expectancy": {
+      "Total": 17,
+      "Male": 17,
+      "Female": 17
+    }
+  },
+  "Environmental Issues": {
+    "Air Pollution": true,
+    "Water Pollution": true,
+    "Deforestation": true,
+    "Soil Degradation": true,
+    "Biodiversity Loss": true
   }
-}
 }
