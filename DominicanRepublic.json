@@ -1,10 +1,36 @@
 {
-  "Dominican Republic":{
-  "FullName": "Dominican Republic",
-  "SpanishName": "República Dominicana",
+  "Name": {
+    "Common": "Dominican Republic",
+    "Official": "Dominican Republic",
+    "Native": {
+      "Spanish": "República Dominicana"
+    }
+  },
+  "Symbols": {
+    "Flag": "A centered white cross that extends to the edges divides the flag into four rectangles - the top ones are blue (hoist side) and red, and the bottom ones are red (hoist side) and blue. A small coat of arms is at the center of the cross.",
+    "Emblem": "A shield with the national flag on it, flanked by an olive branch (left) and a palm branch (right), and a blue ribbon above with the motto 'Dios, Patria, Libertad' (God, Homeland, Liberty)",
+    "Motto": "Dios, Patria, Libertad",
+    "Anthem": {
+      "Title": "¡Quisqueyanos Valientes!",
+      "Duration": "1 minute and 40 seconds"
+    }
+  },
   "Geography": {
+    "Continent": "North America",
+    "Region": "Caribbean",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Santo Domingo",
+        "Latitude": "18°28′N",
+        "Longitude": "69°54′W"
+      }
+    },
     "Location": "Eastern two-thirds of Hispaniola, Caribbean Sea",
-    "Area": "48,671 sq km",
+    "Area": {
+      "Total (km2)": 48671,
+      "Rank": "131",
+      "Water Percentage": "1.6%"
+    },
     "Major Features": {
       "Highest Point": "Pico Duarte",
       "Largest Lake": "Lake Enriquillo",
@@ -19,68 +45,145 @@
       "San Cristobal", "San Jose de Ocoa", "San Juan", "San Pedro de Macoris", "Santiago", 
       "Santiago Rodriguez", "Santo Domingo", "Valverde"
     ],
-    "Capital": "Santo Domingo"
+    "Climate": ["Tropical"],
+    "Average Temperature": ["26 °C (78.8 °F)"]
   },
   "Demographics": {
-    "Population": "11,434,005 (2024 est.)",
-    "Urban Population": "83.2%",
-    "Major Cities": ["Santo Domingo (3,523,890)", "Santiago (688,927)"],
+    "Population": {
+      "2024 Estimate": 11434005,
+      "Density per km2": 235
+    },
     "Ethnic Groups": {
-      "Mixed": "73.9%",
-      "White": "17.8%",
-      "Black": "7.8%",
-      "Other": "3.2%"
+      "Mixed": 73.9,
+      "White": 17.8,
+      "Black": 7.8,
+      "Other": 3.2
     },
     "Languages": {
-      "Official": "Spanish",
+      "Official": ["Spanish"],
       "Other": ["Haitian Creole", "Samaná English"]
     },
     "Religion": {
-      "Christianity": "66.7%",
-      "Catholicism": "44.3%",
-      "Protestantism": "21.3%",
-      "Other Christian": "1.1%",
-      "No Religion": "29.6%",
-      "Other": "1.7%",
-      "Unspecified": "2.0%"
+      "Christianity": 66.7,
+      "Catholicism": 44.3,
+      "Protestantism": 21.3,
+      "Other Christian": 1.1,
+      "No Religion": 29.6,
+      "Other": 1.7,
+      "Unspecified": 2.0
     }
   },
   "Government": {
     "Type": "Unitary presidential republic",
-    "President": "Luis Abinader",
-    "Vice President": "Raquel Peña de Antuña",
+    "Leaders": {
+      "President": "Luis Abinader",
+      "Vice President": "Raquel Peña de Antuña"
+    },
     "Legislature": {
       "Upper House": "Senate",
       "Lower House": "Chamber of Deputies"
-    }
+    },
+    "Constitution": "6 November 1844"
+  },
+  "History": {
+    "Independence": {
+      "From Spain": "November 1821",
+      "Annexed by Haiti": "February 1822",
+      "Final Independence": "27 February 1844"
+    },
+    "Significant Events": [
+      "Dominican War of Independence (1844)",
+      "Dominican War of Restoration (1863-1865)",
+      "US Occupation (1916-1924)",
+      "Trujillo Dictatorship (1930-1961)",
+      "Civil War (1965)"
+    ]
   },
   "Economy": {
-    "GDP (PPP)": "$294.562 billion (2024 est.)",
-    "GDP Per Capita (PPP)": "$27,231 (2024 est.)",
+    "GDP (PPP 2024)": {
+      "Total (Billion USD)": 294.562,
+      "Per Capita (USD)": 27231
+    },
+    "GDP (Nominal 2024)": {
+      "Total (Billion USD)": 88.794,
+      "Per Capita (USD)": 7757
+    },
     "Main Industries": ["Construction", "Manufacturing", "Tourism", "Mining"],
-    "Currency": "Dominican peso (DOP)"
+    "Currency": "Dominican peso (DOP)",
+    "Gini Index": "N/A",
+    "HDI": "N/A"
   },
-  "Culture": {
-    "Motto": "Dios, Patria, Libertad",
-    "Anthem": "¡Quisqueyanos Valientes!",
-    "Historical Significance": {
-      "Independence": {
-        "From Spain": "November 1821",
-        "Annexed by Haiti": "February 1822",
-        "Final Independence": "1844"
+  "International Relations": {
+    "UN Member": true,
+    "CARICOM Member": true,
+    "OAS Member": true
+  },
+  "Miscellaneous": {
+    "Time Zone": ["AST (UTC-4)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+1-809, +1-829, +1-849",
+    "ISO 3166 Code": "DO",
+    "Internet TLD": ".do",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Epiphany (January 6)",
+      "Duarte's Day (January 26)",
+      "Independence Day (February 27)",
+      "Good Friday (April)",
+      "Labor Day (May 1)",
+      "Corpus Christi (June)",
+      "Restoration Day (August 16)",
+      "Our Lady of Mercy (September 24)",
+      "Constitution Day (November 6)",
+      "Christmas Day (December 25)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage influenced by African, European, and Taino traditions",
+    "Cultural Contributions": ["Traditional music and dance", "Merengue", "Bachata", "Cuisine"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 4.0,
+    "Exports Growth": "Driven by tourism, mining, and manufacturing",
+    "Inflation Rate": "3.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Tourism", "Manufacturing"],
+      "Challenges": "Balancing economic growth with environmental sustainability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "N/A",
+        "Expectation": "Steady growth into 2024"
       },
-      "Significant Events": [
-        "Dominican War of Independence (1844)",
-        "Dominican War of Restoration (1863-1865)",
-        "US Occupation (1916-1924)",
-        "Trujillo Dictatorship (1930-1961)",
-        "Civil War (1965)"
-      ]
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Food Products": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Caribbean culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Tourism", "Manufacturing", "Telecommunications"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
     }
   },
   "Natural Features": {
-    "Climate": "Tropical",
-    "Average Temperature": "26 °C (78.8 °F)",
+    "Climate": ["Tropical"],
+    "Average Temperature": ["26 °C (78.8 °F)"],
     "Biological Diversity": "High"
   },
   "Historic Sites": [
@@ -91,5 +194,4 @@
     "Colonial Zone - World Heritage Site"
   ],
   "Vulnerability": "Highly vulnerable to natural disasters"
-}
 }
