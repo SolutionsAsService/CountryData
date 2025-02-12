@@ -1,145 +1,161 @@
 {
-  "Mexico": {
     "Name": {
-    "official": "United Mexican States",
-    "native": "Estados Unidos Mexicanos"
+      "Common": "Mexico",
+      "Official": "United Mexican States",
+      "Native": "Estados Unidos Mexicanos"
     },
-    "Status": ["Drug War", "Deep Political Corruption and Conflict"],
-    "symbols": {
-      "flag": "Flag of Mexico",
-      "coat_of_arms": "Coat of arms of Mexico",
-      "motto": "La Patria es Primero ('The Homeland is First')",
-      "anthem": {
-        "title": "Himno Nacional Mexicano",
-        "duration": "1 minute and 42 seconds"
+    "Geography": {
+      "Region": "Southern portion of North America",
+      "Capital City": "Mexico City",
+      "Capital Coordinates": "19°26′N 99°8′W",
+      "Area": {
+        "Total (km2)": "1972550"
+      },
+      "Borders": [
+        "United States",
+        "Pacific Ocean",
+        "Guatemala",
+        "Belize",
+        "Caribbean Sea",
+        "Gulf of Mexico"
+      ],
+      "Time Zone": "UTC−8 to −5",
+      "Driving Side": "Right"
+    },
+    "Government": {
+      "Type": "Federal presidential republic",
+      "President": "Andrés Manuel López Obrador",
+      "Senate President": "Ana Lilia Rivera",
+      "Chamber of Deputies President": "Marcela Guerra Castillo",
+      "Chief Justice": "Norma Lucía Piña Hernández",
+      "Legislature": {
+        "Upper House": "Senate",
+        "Lower House": "Chamber of Deputies"
       }
     },
-    "geography": {
-      "location": "Southern portion of North America",
-      "area_km2": 1972550,
-      "borders": [
-        "United States", 
-        "Pacific Ocean", 
-        "Guatemala", 
-        "Belize", 
-        "Caribbean Sea", 
-        "Gulf of Mexico"]
-    },
-    "capital": {
-      "name": "Mexico City",
-      "coordinates": "19°26′N 99°8′W"
-    },
-    "languages": {
-      "official": "Spanish (de facto)",
-      "co_official": "68 Indigenous languages"
-    },
-    "ethnic_groups": "See below",
-    "religion": {
-      "Christianity": "71%",
-      "Catholicism": "56%",
-      "Protestant": "10%",
-      "other_Christian": "5%",
-      "no_religion": "17%",
-      "other_religion": "8%",
-      "prefer_not_to_say": "5%"
-    },
-    "government": {
-      "type": "Federal presidential republic",
-      "president": "Andrés Manuel López Obrador",
-      "senate_president": "Ana Lilia Rivera",
-      "chamber_of_deputies_president": "Marcela Guerra Castillo",
-      "chief_justice": "Norma Lucía Piña Hernández"
-    },
-    "legislature": {
-      "congress": {
-        "upper_house": "Senate",
-        "lower_house": "Chamber of Deputies"
-      }
-    },
-    "independence": {
-      "from_Spain": {
-        "start_of_war": "16 September 1810",
-        "declared": "27 September 1821",
-        "recognized": "28 December 1836"
-      },
-      "constitutions": {
-        "first": "4 October 1824",
-        "second": "5 February 1857",
-        "current": "5 February 1917"
-      }
-    },
-    "population": {
-      "2023_estimate": 129875529,
-      "density_per_km2": 61
-    },
-    "economy": {
-      "GDP_PPP_2023": {
-        "total": "$3.277 trillion",
-        "per_capita": "$24,975"
-      },
-      "GDP_nominal_2023": {
-        "total": "$1.811 trillion",
-        "per_capita": "$13,803"
-      },
-      "Gini_index": "41.8 (2018)",
-      "HDI": "0.758 (2021)"
-    },
-    "currency": "Mexican peso (MXN)",
-    "time_zone": "UTC−8 to −5",
-    "date_format": "dd/mm/yyyy",
-    "driving_side": "right",
-    "calling_code": "+52",
-    "ISO_3166_code": "MX",
-    "internet_TLD": ".mx",
-    "history": {
-      "pre_Columbian": "Human presence since 8,000 BCE",
-      "civilizations": ["Olmec", "Maya", "Zapotec", "Teotihuacan", "Purepecha", "Aztec"],
-      "colonial_period": {
-        "Spanish_conquest": "1521",
-        "colony_name": "New Spain",
-        "important_events": [
+    "History": {
+      "Pre-Columbian": "Human presence since 8,000 BCE",
+      "Civilizations": [
+        "Olmec",
+        "Maya",
+        "Zapotec",
+        "Teotihuacan",
+        "Purepecha",
+        "Aztec"
+      ],
+      "Colonial Period": {
+        "Spanish Conquest": "1521",
+        "Colony Name": "New Spain",
+        "Important Events": [
           "Spanish and Catholic expansion",
           "Mining boom in Zacatecas and Guanajuato"
         ]
       },
-      "independence_and_19th_century": {
-        "war_of_independence": "1810-1821",
-        "early_challenges": [
-          "Mexican–American War",
-          "War of Reform",
-          "French intervention",
-          "Porfiriato era"
-        ]
+      "Independence": {
+        "Start of War": "16 September 1810",
+        "Declared": "27 September 1821",
+        "Recognized": "28 December 1836",
+        "Constitutions": {
+          "First": "4 October 1824",
+          "Second": "5 February 1857",
+          "Current": "5 February 1917"
+        }
       },
-      "20th_century": {
-        "Mexican_Revolution": "1910-1920",
-        "PRI_rule": "1929-2000",
-        "economic_policies": ["Developmentalism", "Neoliberalism"],
+      "19th Century Challenges": [
+        "Mexican–American War",
+        "War of Reform",
+        "French intervention",
+        "Porfiriato era"
+      ],
+      "20th Century": {
+        "Mexican Revolution": "1910-1920",
+        "PRI Rule": "1929-2000",
+        "Economic Policies": [
+          "Developmentalism",
+          "Neoliberalism"
+        ],
         "NAFTA": "1994"
       }
     },
-    "current_challenges": {
-      "social_inequality": true,
-      "poverty": true,
-      "crime": true,
-      "drug_war_deaths_since_2006": 120000,
-      "Global_Peace_Index_ranking": "low"
+    "Economy": {
+      "GDP (PPP 2023)": {
+        "Total": "$3.277 trillion",
+        "Per Capita": "$24,975"
+      },
+      "GDP (Nominal 2023)": {
+        "Total": "$1.811 trillion",
+        "Per Capita": "$13,803"
+      },
+      "Gini Index (2018)": "41.8",
+      "HDI (2021)": "0.758"
     },
-    "international_relations": {
-      "member_of": [
-        "United Nations",
-        "G20",
-        "OECD",
-        "WTO",
-        "Asia-Pacific Economic Cooperation",
-        "Organization of American States",
-        "Community of Latin American and Caribbean States",
-        "Organization of Ibero-American States"
+    "Demographics": {
+      "Population": {
+        "2023 Estimate": "129875529",
+        "Density per km2": "61"
+      },
+      "Languages": {
+        "Official": "Spanish (de facto)",
+        "Co-Official": "68 Indigenous languages"
+      },
+      "Ethnic Groups": "See below",
+      "Religion": {
+        "Christianity": "71%",
+        "Catholicism": "56%",
+        "Protestant": "10%",
+        "Other Christian": "5%",
+        "No Religion": "17%",
+        "Other Religion": "8%",
+        "Prefer Not to Say": "5%"
+      }
+    },
+    "Miscellaneous": {
+      "Status": [
+        "Drug War",
+        "Deep Political Corruption and Conflict"
       ],
-      "classification": ["newly industrialized", "developing country", "regional and middle power", "emerging power"],
-      "UNESCO_World_Heritage_Sites_rank": 1,
-      "megadiverse_country_rank": 5,
-      "tourist_arrivals_2018": 39000000
+      "Symbols": {
+        "Flag": "Flag of Mexico",
+        "Coat of Arms": "Coat of arms of Mexico",
+        "Motto": "La Patria es Primero ('The Homeland is First')",
+        "Anthem": {
+          "Title": "Himno Nacional Mexicano",
+          "Duration": "1 minute and 42 seconds"
+        }
+      },
+      "Currency": "Mexican peso (MXN)",
+      "Date Format": "dd/mm/yyyy",
+      "Calling Code": "+52",
+      "ISO 3166 Code": "MX",
+      "Internet TLD": ".mx",
+      "Current Challenges": {
+        "Social Inequality": true,
+        "Poverty": true,
+        "Crime": true,
+        "Drug War Deaths Since 2006": "120000",
+        "Global Peace Index Ranking": "low"
+      },
+      "International Relations": {
+        "Member Of": [
+          "United Nations",
+          "G20",
+          "OECD",
+          "WTO",
+          "Asia-Pacific Economic Cooperation",
+          "Organization of American States",
+          "Community of Latin American and Caribbean States",
+          "Organization of Ibero-American States"
+        ],
+        "Classification": [
+          "newly industrialized",
+          "developing country",
+          "regional and middle power",
+          "emerging power"
+        ],
+        "UNESCO World Heritage Sites Rank": "1",
+        "Megadiverse Country Rank": "5",
+        "Tourist Arrivals 2018": "39000000"
+      }
     }
-  }
 }
+
