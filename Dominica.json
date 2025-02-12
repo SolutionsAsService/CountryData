@@ -1,62 +1,169 @@
 {
-  "Country": "Commonwealth of Dominica",
-  "Pronunciation": "/ˌdɒmɪˈniːkə/ dom-in-EE-kə",
-  "Geography": {
-    "Location": "Caribbean",
-    "Capital": "Roseau",
-    "Coordinates": "15°18′N 61°23′W",
-    "Area": "750 km2",
-    "Highest_Point": "Morne Diablotins, 1,447 m",
-    "Natural_Features": {
-      "Rainforests": true,
-      "Volcanic_Activity": true,
-      "Hot_Spring": "Boiling Lake",
-      "Flora_and_Fauna": "Diverse, including Sisserou parrot"
-    },
-    "Climate": "Tropical; heavy rainfall in interior, dryer at west coast"
+  "Name": {
+    "Common": "Dominica",
+    "Official": "Commonwealth of Dominica",
+    "Pronunciation": "/ˌdɒmɪˈniːkə/ dom-in-EE-kə"
   },
-  "History": {
-    "First_Inhabitants": "Arawak, then Kalinago",
-    "European_Discovery": "Christopher Columbus, 1493",
-    "Colonization": {
-      "French": "1690s-1763",
-      "British": "Post 1763",
-      "Independence": "1978"
+  "Symbols": {
+    "Flag": "A green field with a cross made up of three equal bands of yellow, black, and white with a red circle in the center containing a Sisserou Parrot encircled by ten green stars",
+    "Emblem": "A shield divided into quarters by a cross, with a lion's head in each quarter, and a Sisserou Parrot on top",
+    "Motto": "Après Bondie, C'est La Ter (After God, The Earth)",
+    "Anthem": {
+      "Title": "Isle of Beauty, Isle of Splendour",
+      "Duration": "1 minute and 15 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "North America",
+    "Region": "Caribbean",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Roseau",
+        "Latitude": "15°18′N",
+        "Longitude": "61°23′W"
+      }
+    },
+    "Location": "Caribbean",
+    "Area": {
+      "Total (km2)": 750,
+      "Rank": "184",
+      "Water Percentage": "1.6%"
+    },
+    "Highest Point": {
+      "Name": "Morne Diablotins",
+      "Elevation (m)": 1447
+    },
+    "Natural Features": {
+      "Rainforests": true,
+      "Volcanic Activity": true,
+      "Hot Spring": "Boiling Lake",
+      "Flora and Fauna": "Diverse, including Sisserou parrot"
+    },
+    "Climate": ["Tropical; heavy rainfall in interior, dryer at west coast"]
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 73500,
+      "Density per km2": 98
+    },
+    "Ethnic Groups": {
+      "African": 86.8,
+      "Multiracial": 8.9,
+      "Kalinago": 2.9,
+      "European": 0.8,
+      "Other": 0.6
+    },
+    "Languages": {
+      "Official": ["English"],
+      "National": ["French Patois"]
+    },
+    "Religion": {
+      "Christianity": 82,
+      "Other": 18
     }
   },
   "Government": {
     "Type": "Unitary parliamentary republic",
-    "President": "Charles Savarin",
-    "Prime_Minister": "Roosevelt Skerrit",
+    "Leaders": {
+      "President": "Charles Savarin",
+      "Prime Minister": "Roosevelt Skerrit"
+    },
     "Legislature": "House of Assembly",
-    "Political_Parties": "Multiple",
-    "Legal_System": "Based on English common law"
+    "Political Parties": ["Dominica Labour Party", "United Workers' Party", "Dominica Freedom Party"],
+    "Legal System": "Based on English common law",
+    "Constitution": "3 November 1978"
+  },
+  "History": {
+    "First Inhabitants": ["Arawak", "Kalinago"],
+    "European Discovery": "Christopher Columbus, 1493",
+    "Colonization": {
+      "French": "1690s-1763",
+      "British": "Post 1763"
+    },
+    "Independence": "3 November 1978"
   },
   "Economy": {
-    "GDP_PPP": "$1.015 billion (2013 est.)",
-    "Per_Capita_Income": "$14,300 (2013 est.)",
-    "Industries": ["Tourism", "Soap", "Coconut Oil", "Agriculture"],
-    "Exports": ["Bananas", "Soap", "Vegetables"],
-    "Imports": ["Manufactured goods", "Machinery", "Food"]
-  },
-  "Demographics": {
-    "Population": "73,449 (2014 est.)",
-    "Ethnic_Groups": {
-      "African": "86.8%",
-      "Multiracial": "8.9%",
-      "Kalinago": "2.9%",
-      "European": "0.8%"
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 1.015,
+      "Per Capita (USD)": 14000
     },
-    "Languages": ["English", "French Patois"],
-    "Religions": {
-      "Christianity": "82%",
-      "Other": "18%"
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 0.563,
+      "Per Capita (USD)": 7650
+    },
+    "Currency": "East Caribbean dollar (XCD)",
+    "Gini Index": "N/A",
+    "HDI": "N/A"
+  },
+  "International Relations": {
+    "UN Member": true,
+    "CARICOM Member": true,
+    "OECS Member": true,
+    "Commonwealth of Nations Member": true,
+    "OAS Member": true
+  },
+  "Miscellaneous": {
+    "Time Zone": ["AST (UTC-4)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Left",
+    "Calling Code": "+1-767",
+    "ISO 3166 Code": "DM",
+    "Internet TLD": ".dm",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Carnival Monday (February/March)",
+      "Carnival Tuesday (February/March)",
+      "Good Friday (April)",
+      "Easter Monday (April)",
+      "Labour Day (May 1)",
+      "Whit Monday (June)",
+      "Emancipation Day (August 1)",
+      "Independence Day (November 3)",
+      "Christmas Day (December 25)",
+      "Boxing Day (December 26)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage influenced by African, European, and Carib traditions",
+    "Cultural Contributions": ["Traditional music and dance", "Oral literature", "Cuisine"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.5,
+    "Exports Growth": "Driven by tourism, agriculture, and manufacturing",
+    "Inflation Rate": "2.5%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Tourism", "Agriculture"],
+      "Challenges": "Balancing economic growth with environmental sustainability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "N/A",
+        "Expectation": "Steady growth into 2024"
+      },
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Food Products": "Increased demand"
+      }
     }
   },
-  "Culture": {
-    "National_Bird": "Sisserou parrot",
-    "Cuisine": "Creole, influenced by African, European, and Carib cuisines",
-    "Music": "Includes Calypso, Reggae, and traditional folk styles"
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Caribbean culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Tourism", "Agriculture", "Telecommunications"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
   },
   "Infrastructure": {
     "Transportation": {
@@ -65,8 +172,8 @@
       "Ports": ["Roseau", "Portsmouth"]
     },
     "Telecommunications": {
-      "Internet_Users": "28,000 (2009)",
-      "Telephone_Lines": "14,600 (2012)"
+      "Internet Users": "28000 (2009)",
+      "Telephone Lines": "14600 (2012)"
     }
   }
 }
