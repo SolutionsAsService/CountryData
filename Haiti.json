@@ -1,89 +1,231 @@
 {
-  "Haiti":{
-  "FullName": "Republic of Haiti",
-  "Official_Names": {
-    "French": "République d'Haïti",
-    "Haitian_Creole": "Repiblik d Ayiti"
+  "Name": {
+    "Common": "Haiti",
+    "Official": "Republic of Haiti",
+    "Native": {
+      "French": "République d'Haïti",
+      "Haitian Creole": "Repiblik d Ayiti"
+    }
   },
-    "Status": ["Gang Wars", "Failed State"],
+  "Symbols": {
+    "Flag": "Two equal horizontal bands of blue and red with a white square bearing the coat of arms centered in the band",
+    "Emblem": "A palm tree surmounted by a liberty cap with six Haitian flags draped on either side",
+    "Motto": "Liberty, Equality, Fraternity",
+    "Anthem": {
+      "Title": "La Dessalinienne",
+      "Duration": "1 minute and 30 seconds"
+    }
+  },
   "Geography": {
-    "Location": "Western third of Hispaniola, Caribbean Sea",
-    "Area": "27,750 sq km",
-    "Key_Features": {
-      "Largest_Lake": "Étang Saumâtre (Lake Azuéi)",
-      "Longest_River": "Artibonite River",
-      "Gulf": "Gulf of Gonâve"
+    "Continent": "North America",
+    "Region": "Caribbean",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Port-au-Prince",
+        "Latitude": "18°32′N",
+        "Longitude": "72°20′W"
+      }
     },
-    "Departments": [
-      "Artibonite", "Centre", "Grand’Anse", "Nippes", "Nord", "Nord-Est", "Nord-Ouest",
-      "Ouest", "Sud", "Sud-Est"
-    ],
-    "Capital": "Port-au-Prince"
+    "Location": "Western third of Hispaniola, Caribbean Sea",
+    "Area": {
+      "Total (km2)": 27750,
+      "Rank": "143",
+      "Water Percentage": "N/A"
+    },
+    "Borders": ["Dominican Republic"],
+    "Terrain": ["Mountainous with small coastal plains and river valleys"],
+    "Climate": ["Tropical; semiarid where mountains in east cut off trade winds"],
+    "Natural Resources": ["Bauxite", "Copper", "Calcium Carbonate", "Gold", "Marble"],
+    "Time Zones": ["UTC-5 (EST)"],
+    "Largest City": "Port-au-Prince",
+    "Key Features": {
+      "Largest Lake": "Étang Saumâtre (Lake Azuéi)",
+      "Longest River": "Artibonite River",
+      "Gulf": "Gulf of Gonâve"
+    }
   },
   "Demographics": {
-    "Population": "12,257,000 (2023 est.)",
-    "Ethnic_Groups": {
-      "Black": "95%",
-      "Mixed_or_White": "5%"
+    "Population": {
+      "2023 Estimate": 12257000,
+      "Density per km2": 442
+    },
+    "Ethnic Groups": {
+      "2023": {
+        "Black": 95,
+        "Mixed or White": 5
+      }
     },
     "Languages": {
       "Official": ["French", "Haitian Creole"]
     },
     "Religion": {
-      "Christianity": "87.0%",
-      "No_Religion": "10.7%",
-      "Folk_Religions": "2.1%",
-      "Others": "0.2%"
-    }
+      "2023": {
+        "Christianity": 87,
+        "No Religion": 10.7,
+        "Folk Religions": 2.1,
+        "Others": 0.2
+      }
+    },
+    "Demonym": "Haitian"
   },
   "Government": {
     "Type": "Unitary semi-presidential republic under interim government",
-    "President": "Ariel Henry (acting)",
-    "Prime_Minister": "Ariel Henry (acting)",
+    "Leaders": {
+      "President": "Ariel Henry (acting)",
+      "Prime Minister": "Ariel Henry (acting)"
+    },
     "Legislature": {
       "Senate": "30 seats",
-      "Chamber_of_Deputies": "99 seats"
-    }
-  },
-  "Economy": {
-    "GDP_PPP": "$38.952 billion (2023 est.)",
-    "GDP_Per_Capita_PPP": "$3,185 (2023 est.)",
-    "Currency": "Gourde (G) (HTG)"
+      "Chamber of Deputies": "99 seats"
+    },
+    "Constitution": "29 March 1987"
   },
   "History": {
-    "Independence_from_France": "1 January 1804",
+    "Independence from France": "1 January 1804",
     "Recognized": "17 April 1825",
-    "Key_Historical_Events": [
-      {"Name":"Haitian Revolution", "Years":"1791–1804"},
-      {"Name":"US Occupation", "Years":"1915–1934"},
-      {"Name":"Duvalier Era", "Years":"1957–1986"}
+    "Key Historical Events": [
+      {"Name": "Haitian Revolution", "Years": "1791–1804"},
+      {"Name": "US Occupation", "Years": "1915–1934"},
+      {"Name": "Duvalier Era", "Years": "1957–1986"}
     ]
   },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Agriculture, light manufacturing, and tourism",
+    "Major Industries": ["Textiles", "Agriculture", "Tourism"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 38.952,
+      "Per Capita (USD)": 3185
+    },
+    "Currency": "Gourde (G) (HTG)"
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": ["United Nations", "Organization of American States", "Caribbean Community"]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC-5 (EST)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+509",
+    "ISO 3166 Code": "HT",
+    "Internet TLD": ".ht",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Independence Day (January 1)",
+      "Good Friday (April)",
+      "Labour Day (May 1)",
+      "Flag Day (May 18)",
+      "Assumption Day (August 15)",
+      "All Saints' Day (November 1)",
+      "Christmas Day (December 25)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of African, French, and indigenous influences",
+    "Cultural Contributions": ["Traditional music and dance", "Cuisine", "Art"],
+    "Unique Features": ["First independent nation of Latin America and the Caribbean", "First post-colonial independent black-led nation in the world"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 1.5,
+    "Exports Growth": "Driven by textiles and agriculture",
+    "Inflation Rate": "15.0%",
+    "Policy Response": {
+      "Focus": "Economic stabilization and infrastructure development",
+      "Areas": ["Textiles", "Agriculture", "Tourism"],
+      "Challenges": "Balancing economic growth with political stability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "N/A",
+        "Expectation": "Steady growth into 2024"
+      },
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Caribbean culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Textiles", "Agriculture", "Tourism"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Air, and Sea transport",
+    "Key Transport Hubs": ["Port-au-Prince", "Cap-Haïtien", "Gonaïves"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Acting government",
+    "Economic Hardships": "High food prices, fuel shortage",
+    "Natural Disasters": ["Earthquakes", "Hurricanes"],
+    "Health Issues": ["Dengue Fever", "Malaria"]
+  },
+  "Urban Population": {
+    "Port-au-Prince": "987,310",
+    "Cap-Haïtien": "274,404",
+    "Gonaïves": "104,825"
+  },
+  "Population Growth": {
+    "2024 Forecast": 12400000,
+    "2025 Forecast": 12550000
+  },
+  "Demographics": {
+    "Life Expectancy": "64.2 years",
+    "Infant Mortality": "48.2 (per 1,000 live births)",
+    "Deaths Under Age 5": "72.4 (per 1,000 live births)",
+    "Median Age": "23.4 years",
+    "Population by Age": {
+      "Adults Over 18": "Significant portion of the population"
+    }
+  },
+  "Culture": {
+    "Multiethnic": true,
+    "Influences": "African, French, Indigenous"
+  },
+  "Challenges": {
+    "Food Insecurity": "Significant issue due to economic disparity",
+    "Biodiversity": "Rich biodiversity with conservation efforts in place"
+  },
+  "Political Climate": {
+    "Corruption": "High levels and declining ability to prevent",
+    "Judicial Independence": "Significant issues with accountability",
+    "Freedom of Expression": "Hostile environment for journalists and media",
+    "Attacks on Human Rights Defenders": "Increased incidents",
+    "Women and Girls' Rights": "High incidence of gender-based violence and femicides",
+    "Sexual Orientation and Gender Identity": "Lack of adequate protection"
+  },
   "Healthcare": {
-    "Physicians_Density": "0.23 physicians/1,000 population (2018)",
-    "Hospital_Bed_Density": "0.7 beds/1,000 population (2013)"
+    "Physicians Density": "0.23 physicians/1,000 population (2018)",
+    "Hospital Bed Density": "0.7 beds/1,000 population (2013)"
   },
   "Environment": {
-    "Current_Issues": [
-      "Deforestation", 
-      "Soil Erosion", 
+    "Current Issues": [
+      "Deforestation",
+      "Soil Erosion",
       "Water and Sanitation issues",
       "Natural Disasters"
     ]
   },
   "Education": {
     "Expenditures": "1.4% of GDP (2020 est.)",
-    "Literacy_Rate": {
+    "Literacy Rate": {
       "Total": "61.7%",
       "Male": "65.3%",
       "Female": "58.3%"
     }
-  },
-  "Challenges": {
-    "Political_Instability": "Acting government",
-    "Economic_Hardships": "High food prices, fuel shortage",
-    "Natural_Disasters": ["Earthquakes", "Hurricanes"],
-    "Health_Issues": ["Dengue Fever", "Malaria"]
   }
-}
 }
