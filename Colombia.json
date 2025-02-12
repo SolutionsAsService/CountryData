@@ -1,93 +1,200 @@
 {
-  "Colombia": {
-    "Name": {
-    "Common":"Colombia",
-    "Full": "Republic of Colombia",
-    "Spanish": "República de Colombia"
-    },
-    "Status": ["Heavy Political Violence"],
-    "location": "Mostly in South America with insular regions in North America",
-    "capital_and_largest_city": "Bogotá",
-    "official_languages": "Spanish",
-    "recognized_regional_languages": "Creole English, 64 other languages",
-    "ethnic_groups_2018": {
-      "mestizo_white": "87.58%",
-      "afro_colombians": "6.84%",
-      "indigenous": "4.31%",
-      "raizal": "0.05%",
-      "palenquero": "0.01%",
-      "romani": "0.01%",
-      "not_stated": "1.35%"
-    },
-    "religion_2022": {
-      "christianity": "87.0%",
-      "catholicism": "70.2%",
-      "other_christian": "16.8%",
-      "no_religion": "11.1%",
-      "other": "1.9%"
-    },
-    "government_type": "Unitary presidential republic",
-    "current_leaders": {
-      "president": "Gustavo Petro",
-      "vice_president": "Francia Márquez"
-    },
-    "legislature": {
-      "upper_house": "Senate",
-      "lower_house": "Chamber of Representatives"
-    },
-    "independence_from_spain": {
-      "declared": "20 July 1810",
-      "recognized": "7 August 1819",
-      "last_unitisation": "5 August 1886",
-      "secession_of_panama": "6 November 1903",
-      "current_constitution": "4 July 1991"
-    },
-    "area_km2": 1141748,
-    "population_2023_estimate": 52156254,
-    "gdp_ppp_2023": {
-      "total": "$1.02 trillion",
-      "per_capita": "$19,482"
-    },
-    "gdp_nominal_2023": {
-      "total": "$363.835 billion",
-      "per_capita": "$6,975"
-    },
-    "gini_2020": "54.2",
-    "hdi_2021": "0.752",
-    "currency": "Colombian peso (COP)",
-    "time_zone": "UTC−5",
-    "driving_side": "right",
-    "calling_code": "+57",
-    "iso_3166_code": "CO",
-    "internet_tld": ".co",
-    "pre_columbian_era": {
-      "earliest_human_presence": "12000 BCE",
-      "significant_cultures": ["Muisca", "Quimbaya", "Tairona", "Zenú", "Tierradentro", "San Agustín", "Tolima", "Urabá"],
-      "muisca_confederation": "Advanced political system in South America, known for the El Dorado legend",
-      "tairona_culture": "Inhabited Sierra Nevada de Santa Marta",
-      "quimbaya_culture": "Known for gold craftsmanship"
-    },
-    "spanish_colonization": {
-      "first_landing": 1499,
-      "permanent_settlement": 1525,
-      "key_conquests": ["Santa Marta", "Cartagena"],
-      "viceroyalty_of_new_granada": "Formed including modern-day Colombia, Panama, Venezuela, Ecuador, and northwest Brazil"
-    },
-    "post_colonial_era": {
-      "early_republic": ["United Provinces of New Granada", "Granadine Confederation", "United States of Colombia"],
-      "republic_established": 1886,
-      "panama_secession": 1903,
-      "modern_developments": {
-        "armed_conflict": "Began in 1960s, escalated in 1990s",
-        "recent_improvements": "Since 2005, significant improvement in security, stability, and economic growth"
+  "Name": {
+    "Common": "Colombia",
+    "Official": "Republic of Colombia",
+    "Native": {
+      "Spanish": "República de Colombia"
+    }
+  },
+  "Symbols": {
+    "Flag": "Three horizontal stripes of yellow, blue, and red",
+    "Emblem": "A shield with a condor on top, flanked by cornucopias and a banner with the national motto",
+    "Motto": "Libertad y Orden (Liberty and Order)",
+    "Anthem": {
+      "Title": "¡Oh, gloria inmarcesible! ('O Unfading Glory')",
+      "Duration": "4 minutes and 12 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "South America",
+    "Region": "Northern South America",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Bogotá",
+        "Latitude": "4.7110° N",
+        "Longitude": "74.0721° W"
       }
     },
-    "biodiversity": "One of the world's megadiverse countries, highest biodiversity per square mile",
-    "global_membership": ["UN", "WTO", "OECD", "OAS", "Pacific Alliance", "Andean Community"],
-    "nato_partnership": "NATO Global Partner"
+    "Borders": {
+      "North": "Panama",
+      "East": ["Venezuela", "Brazil"],
+      "South": ["Peru", "Ecuador"],
+      "West": "Pacific Ocean"
+    },
+    "Area": {
+      "Total (km2)": 1141748,
+      "Rank": "26",
+      "Water Percentage": "8.8%"
+    },
+    "Time Zones": ["UTC−5"],
+    "Largest City": "Bogotá",
+    "Natural Resources": ["Petroleum", "Natural gas", "Coal", "Iron ore", "Nickel", "Gold", "Copper", "Emeralds"],
+    "Climate": ["Tropical along coast and eastern plains; cooler in highlands"]
   },
-  "etymology": {
-    "origin": "From Christopher Columbus's last name",
-    "evolution": ["Republic of Colombia", "Viceroyalty of New Granada", "Republic of New Granada", "Granadine Confederation", "United States of Colombia"]
- }
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 52156254,
+      "Density per km2": 45.7
+    },
+    "Ethnic Groups": {
+      "Mestizo and White": 87.58,
+      "Afro-Colombian": 6.84,
+      "Indigenous": 4.31,
+      "Raizal": 0.05,
+      "Palenquero": 0.01,
+      "Romani": 0.01,
+      "Not Stated": 1.35
+    },
+    "Languages": {
+      "Official": ["Spanish"],
+      "Recognised": ["Creole English", "64 other languages"]
+    },
+    "Religion": {
+      "Christianity": 87.0,
+      "Catholicism": 70.2,
+      "Other Christian": 16.8,
+      "No Religion": 11.1,
+      "Other": 1.9
+    }
+  },
+  "Government": {
+    "Type": "Unitary presidential republic",
+    "Leaders": {
+      "President": "Gustavo Petro",
+      "Vice President": "Francia Márquez"
+    },
+    "Legislature": {
+      "Upper House": "Senate",
+      "Lower House": "Chamber of Representatives"
+    },
+    "Constitution": "4 July 1991"
+  },
+  "History": {
+    "Pre-Columbian Era": {
+      "Earliest Human Presence": "12000 BCE",
+      "Significant Cultures": ["Muisca", "Quimbaya", "Tairona", "Zenú", "Tierradentro", "San Agustín", "Tolima", "Urabá"]
+    },
+    "Spanish Colonization": {
+      "First Landing": 1499,
+      "Permanent Settlement": 1525,
+      "Key Conquests": ["Santa Marta", "Cartagena"]
+    },
+    "Post-Colonial Era": {
+      "Early Republic": ["United Provinces of New Granada", "Granadine Confederation", "United States of Colombia"],
+      "Modern Developments": {
+        "Armed Conflict": "Began in 1960s, escalated in 1990s",
+        "Recent Improvements": "Since 2005, significant improvement in security, stability, and economic growth"
+      }
+    },
+    "Independence": {
+      "From Spain": {
+        "Declared": "20 July 1810",
+        "Recognized": "7 August 1819"
+      },
+      "Last Unification": "5 August 1886",
+      "Secession of Panama": "6 November 1903"
+    }
+  },
+  "Economy": {
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 1020,
+      "Per Capita (USD)": 19482
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 363.835,
+      "Per Capita (USD)": 6975
+    },
+    "Currency": "Colombian peso (COP)",
+    "Gini Index": "54.2 (2020)",
+    "HDI": "0.752 (2021)"
+  },
+  "International Relations": {
+    "UN Member": true,
+    "WTO Member": true,
+    "OECD Member": true,
+    "OAS Member": true,
+    "Pacific Alliance Member": true,
+    "Andean Community Member": true,
+    "NATO Global Partner": true
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC−5"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+57",
+    "ISO 3166 Code": "CO",
+    "Internet TLD": ".co",
+    "Public Holidays": [
+      "New Year's Day",
+      "Epiphany",
+      "Saint Joseph's Day",
+      "Maundy Thursday",
+      "Good Friday",
+      "Labor Day",
+      "Ascension of Jesus",
+      "Corpus Christi",
+      "Sacred Heart",
+      "Saints Peter and Paul",
+      "Independence Day",
+      "Battle of Boyacá",
+      "Assumption of Mary",
+      "Día de la Raza",
+      "All Saints' Day",
+      "Independence of Cartagena",
+      "Immaculate Conception",
+      "Christmas Day"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Spanish rule",
+    "Cultural Contributions": ["Traditional music and dance", "Handicrafts", "Cuisine"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.5,
+    "Exports Growth": "Driven by petroleum, coal, coffee",
+    "Inflation Rate": "4.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification",
+      "Areas": ["Infrastructure", "Technology"],
+      "Challenges": "Balancing economic growth with social equity"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "Positive outlook",
+        "Expectation": "Recovery into 2024"
+      },
+      "Commodity Imports": {
+        "Petroleum": "Significant",
+        "Agricultural Products": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban growth",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on South America",
+      "Key Aspects": ["Languages", "Traditions", "Architecture", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Information Technology", "Telecommunications"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on technological and scientific skills",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  }
 }
