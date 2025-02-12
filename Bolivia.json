@@ -1,89 +1,118 @@
 {
-  "Bolivia":{
-  "CommonName": "Bolivia",
-  "FullName": "Plurinational State of Bolivia",
-  "SpanishName": "Estado Plurinacional de Bolivia",
-  "location": {
-    "continent": "South America",
-    "borders": ["Brazil", "Paraguay", "Argentina", "Chile", "Peru"]
+  "Name": {
+    "Common": "Bolivia",
+    "Official": "Plurinational State of Bolivia",
+    "Spanish": "Estado Plurinacional de Bolivia"
   },
-  "capitals": {
-    "administrative": "La Paz",
-    "constitutional": "Sucre"
-  },
-  "largest_city": "Santa Cruz de la Sierra",
-  "area": 1098581,
-  "population": {
-    "2023_estimate": 12172000,
-    "density": 10.4,
-    "density_unit": "per km2"
-  },
-  "government": {
-    "type": "Unitary presidential republic",
-    "president": "Luis Arce",
-    "vice_president": "David Choquehuanca",
-    "legislature": "Plurinational Legislative Assembly"
-  },
-  "economy": {
-    "GDP_PPP": {
-      "total": 125428000000,
-      "per_capita": 10340,
-      "year": 2023
+  "Geography": {
+    "Continent": "South America",
+    "Borders": ["Brazil", "Paraguay", "Argentina", "Chile", "Peru"],
+    "Area": {
+      "Total (km2)": 1098581,
+      "Rank": "28",
+      "Water Percentage": "1.29%"
     },
-    "GDP_nominal": {
-      "total": 46796000000,
-      "per_capita": 3857,
-      "year": 2023
+    "Time Zones": "1",
+    "Driving Side": "Right",
+    "Coordinates": "16°29′S 68°08′W",
+    "Major Cities": ["La Paz", "Sucre", "Santa Cruz de la Sierra", "Cochabamba", "Oruro", "Potosí"],
+    "Natural Resources": ["Natural gas", "Petroleum", "Zinc", "Tungsten", "Antimony", "Silver", "Iron"]
+  },
+  "Government": {
+    "Type": "Unitary presidential republic",
+    "President": "Luis Arce",
+    "Vice President": "David Choquehuanca",
+    "Legislature": "Plurinational Legislative Assembly",
+    "Administrative Capital": {
+      "Name": "La Paz",
+      "Coordinates": "16°29′S 68°08′W"
     },
-    "currency": "Boliviano (BOB)"
-  },
-  "Ethnic": {
-    "mestizo": 68,
-    "indigenous": 20,
-    "white": 5,
-    "cholo": 2,
-    "black": 1,
-    "other": 1,
-    "unspecified": 3
-  },
-  "languages": ["Spanish", "Quechua", "Aymara", "Guarani", "Other Indigenous languages"],
-  "religions": {
-    "christianity": 89.3,
-    "catholicism": 70.1,
-    "protestantism": 17.3,
-    "other_christian": 1.9,
-    "no_religion": 10.1,
-    "other": 0.6
-  },
-  "health": {
-    "life_expectancy": 72.5,
-    "infant_mortality_rate": 22.3,
-    "maternal_mortality_ratio": 161,
-    "physicians_density": 1.03,
-    "hospital_bed_density": 1.3,
-    "major_infectious_diseases": ["bacterial diarrhea", "hepatitis A", "dengue fever", "malaria"]
-  },
-  "education": {
-    "expenditures": 9.8,
-    "literacy": {
-      "total": 92.5,
-      "male": 96.5,
-      "female": 88.6
+    "Constitutional Capital": {
+      "Name": "Sucre",
+      "Coordinates": "19°02′S 65°15′W"
     }
   },
-  "environmental_issues": {
-    "deforestation": true,
-    "soil_erosion": true,
-    "water_pollution": true,
-    "loss_of_biodiversity": true
+  "History": {
+    "Pre-Columbian Civilizations": "Tiwanaku, Inca Empire",
+    "Spanish Colonization": "1538",
+    "Independence Declared": "6 August 1825",
+    "Republic Established": "6 August 1825",
+    "Plurinational State": "7 February 2009"
   },
-  "human_rights": {
-    "judicial_independence": false,
-    "protest_related_violence": true,
-    "authoritarian_era_abuses": true,
-    "covid_19_impact": true,
-    "detention_conditions": true,
-    "freedom_of_expression": true,
-    "indigenous_rights": true
+  "Economy": {
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 125.428,
+      "Per Capita (USD)": 10340
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 46.796,
+      "Per Capita (USD)": 3857
+    },
+    "Currency": "Boliviano (BOB)",
+    "Gini Index": "47.0 (2015)",
+    "HDI": "0.718 (2021)"
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 12172000,
+      "Density per km2": 10.4
+    },
+    "Ethnic Groups": {
+      "Mestizo": 68,
+      "Indigenous": 20,
+      "White": 5,
+      "Cholo": 2,
+      "Black": 1,
+      "Other": 1,
+      "Unspecified": 3
+    },
+    "Languages": ["Spanish", "Quechua", "Aymara", "Guarani", "Other Indigenous languages"],
+    "Religion": {
+      "Christianity": 89.3,
+      "Catholicism": 70.1,
+      "Protestantism": 17.3,
+      "Other Christian": 1.9,
+      "No Religion": 10.1,
+      "Other": 0.6
+    }
+  },
+  "Health": {
+    "Life Expectancy": 72.5,
+    "Infant Mortality Rate": 22.3,
+    "Maternal Mortality Ratio": 161,
+    "Physicians Density": 1.03,
+    "Hospital Bed Density": 1.3,
+    "Major Infectious Diseases": ["Bacterial diarrhea", "Hepatitis A", "Dengue fever", "Malaria"]
+  },
+  "Education": {
+    "Expenditures (% of GDP)": 9.8,
+    "Literacy": {
+      "Total": 92.5,
+      "Male": 96.5,
+      "Female": 88.6
+    }
+  },
+  "Environmental Issues": {
+    "Deforestation": true,
+    "Soil Erosion": true,
+    "Water Pollution": true,
+    "Loss of Biodiversity": true
+  },
+  "Human Rights": {
+    "Judicial Independence": false,
+    "Protest-Related Violence": true,
+    "Authoritarian Era Abuses": true,
+    "Covid-19 Impact": true,
+    "Detention Conditions": true,
+    "Freedom of Expression": true,
+    "Indigenous Rights": true
+  },
+  "Miscellaneous": {
+    "Internet TLD": ".bo",
+    "Calling Code": "+591",
+    "ISO 3166 Code": "BO",
+    "Time Zone": "UTC-4",
+    "Date Format": "YYYY-MM-DD",
+    "UNESCO World Heritage Sites": 7
   }
 }
