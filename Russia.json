@@ -1,0 +1,90 @@
+{
+  "Name": {
+    "Common": "Russia",
+    "Official": "Russian Federation"
+  },
+  "Geography": {
+    "Capital City": "Moscow",
+    "Largest City": "Moscow",
+    "Major Cities": [
+      "Saint Petersburg",
+      "Novosibirsk",
+      "Yekaterinburg",
+      "Nizhny Novgorod",
+      "Chelyabinsk",
+      "Krasnoyarsk",
+      "Kazan"
+    ],
+    "Area": {
+      "Total (km2)": "17098246",
+      "Rank": "1",
+      "Water Percentage": "13%"
+    },
+    "Time Zones": "11",
+    "Total Borders": "14",
+    "Driving Side": "Right"
+  },
+  "Government": {
+    "Type": "Federal semi-presidential republic",
+    "Regime": "Authoritarian dictatorship",
+    "President": "Vladimir Putin",
+    "Prime Minister": "Mikhail Mishustin",
+    "Legislature": {
+      "Upper House": "Federation Council",
+      "Lower House": "State Duma"
+    }
+  },
+  "History": {
+    "Early Slavic State": "Kievan Rus",
+    "Adoption of Orthodoxy": "988",
+    "Formation of Tsardom": "16 January 1547",
+    "Russian Empire Established": "2 November 1721",
+    "Russian Revolution": "1917",
+    "Soviet Union Established": "30 December 1922",
+    "Soviet Dissolution": "1991",
+    "Current Constitution": "12 December 1993"
+  },
+  "Economy": {
+    "GDP (PPP 2023) Total (Trillion USD)": "5.056",
+    "GDP (Nominal 2023) Total (Trillion USD)": "1.862",
+    "GDP per Capita (PPP USD)": "35310",
+    "GDP per Capita (Nominal USD)": "13006"
+  },
+  "Demographics": {
+    "Population": {
+      "2022 Estimate": "147182123",
+      "2021 Census": "144699673",
+      "Density per km2": "8.4"
+    },
+    "Languages and Ethnic Groups": {
+      "Official Languages": "Russian",
+      "Ethnic Groups": {
+        "Russian": "71.7%",
+        "Tatar": "3.2%",
+        "Bashkir": "1.1%",
+        "Chechen": "1.1%",
+        "Other": "11.3%"
+      }
+    },
+    "Religion": {
+      "Primary": "Russian Orthodox",
+      "Christianity": "61%",
+      "Minorities": {
+        "Islam": "9%",
+        "Buddhism": "Included in other",
+        "No Religion": "24%"
+      }
+    }
+  },
+  "Miscellaneous": {
+    "Human Development Index (2021)": "0.822",
+    "Currency": "Ruble",
+    "Calling Code": "+7",
+    "Internet TLD": [
+      ".ru",
+      ".рф"
+    ],
+    "UNESCO World Heritage Sites": "30"
+  }
+}
+
