@@ -1,9 +1,13 @@
 {
-  "Bahamas": {
-  "Country": "Commonwealth of The Bahamas",
+  "Name": {
+    "Common": "Bahamas",
+    "Official": "Commonwealth of The Bahamas"
+  },
   "Geography": {
     "Location": "Lucayan Archipelago, West Indies, Atlantic Ocean",
-    "Area": "13,878 sq km",
+    "Area": {
+      "Total (sq km)": 13878
+    },
     "Highest Point": "Cat Island, 63m above sea level",
     "Climate": "Tropical marine, moderated by Gulf Stream",
     "Land Use": {
@@ -11,67 +15,83 @@
       "Forest": "51.4%",
       "Other": "47.2%"
     },
-    "Environment Issues": "Coral reef decay, solid waste disposal"
+    "Environment Issues": ["Coral reef decay", "Solid waste disposal"],
+    "Coordinates": "25°4′N 77°20′W"
+  },
+  "Government": {
+    "Type": "Parliamentary democracy under a constitutional monarchy",
+    "Monarch": "Charles III",
+    "Governor General": "Cynthia A. Pratt",
+    "Prime Minister": "Philip Davis",
+    "Legislature": {
+      "Upper House": "Senate",
+      "Lower House": "House of Assembly"
+    },
+    "Independence": {
+      "From UK": "10 July 1973"
+    }
+  },
+  "History": {
+    "Original Inhabitants": ["Arawak", "Lucayans (Taíno)"],
+    "European Discovery": "Christopher Columbus, 1492",
+    "British Colony Era": "1718-1973",
+    "Post-Independence": "Since 1973"
+  },
+  "Economy": {
+    "GDP (PPP) Total (Billion USD)": 18.146,
+    "GDP per Capita (PPP USD)": 44949,
+    "GDP (Nominal) Total (Billion USD)": 13.876,
+    "GDP per Capita (Nominal USD)": 34370,
+    "Main Industries": ["Tourism", "Offshore finance"],
+    "Currency": ["Bahamian dollar (BSD)", "United States dollar (USD)"],
+    "Gini Index": null,
+    "HDI (2021)": null
   },
   "Demographics": {
-    "Population": "389,482",
-    "Urbanization": "83.6%",
+    "Population": {
+      "Estimate": 389482,
+      "Urbanization": 83.6
+    },
     "Ethnic Groups": {
-      "Black": "90.6%",
-      "White": "4.7%",
-      "Mixed": "2.1%",
-      "Other": "1.9%",
-      "Unspecified": "0.7%"
+      "Black": 90.6,
+      "White": 4.7,
+      "Mixed": 2.1,
+      "Other": 1.9,
+      "Unspecified": 0.7
     },
     "Languages": {
       "Official": "English",
       "Vernacular": "Bahamian Creole"
     },
     "Religion": {
-      "Christianity": "93.0%",
-      "Protestantism": "75.1%",
-      "Other Christian": "17.9%",
-      "No Religion": "4.5%",
-      "Folk Religions": "1.9%",
-      "Other": "0.6%"
-}
-},
-"Government": {
-"Type": "Parliamentary democracy under a constitutional monarchy",
-"Monarch": "Charles III",
-"Governor-General": "Cynthia A. Pratt",
-"Prime Minister": "Philip Davis",
-"Legislature": {
-"Senate": "16 seats",
-"House of Assembly": "39 seats"
-},
-"Independence": "10 July 1973 (from the UK)"
-},
-"Economy": {
-"GDP (PPP)": "$18.146 billion",
-"GDP Per Capita (PPP)": "$44,949",
-"GDP (Nominal)": "$13.876 billion",
-"GDP Per Capita (Nominal)": "$34,370",
-"Main Industries": "Tourism, offshore finance"
-},
-"Culture": {
-"National Anthem": "March On, Bahamaland",
-"Royal Anthem": "God Save the King",
-"Motto": "Forward, Upward, Onward, Together"
-},
-"Miscellaneous": {
-"Time Zone": "UTC−5 (EST), UTC−4 (EDT in summer)",
-"Driving Side": "Left",
-"Calling Code": "+1 242",
-"ISO 3166 Code": "BS",
-"Internet TLD": ".bs",
-"Currency": "Bahamian dollar (BSD), United States dollar (USD)"
-},
-"Historical Overview": {
-"Original Inhabitants": "Arawak, Lucayans (Taíno)",
-"European Discovery": "Christopher Columbus, 1492",
-"British Colony Era": "1718-1973",
-"Post-Independence": "Since 1973"
-}
-}
+      "Christianity": 93.0,
+      "Protestantism": 75.1,
+      "Other Christian": 17.9,
+      "No Religion": 4.5,
+      "Folk Religions": 1.9,
+      "Other": 0.6
+    },
+    "Demonyms": ["Bahamian"]
+  },
+  "Miscellaneous": {
+    "Human Development Index (HDI)": null,
+    "Currency": ["Bahamian dollar (BSD)", "United States dollar (USD)"],
+    "Calling Code": "+1 242",
+    "ISO 3166 Code": "BS",
+    "Internet TLD": [".bs"],
+    "Public Holidays": [
+      "New Year's Day", "Majority Rule Day", "Good Friday", "Easter Monday", "Whit Monday", "Labour Day", "Independence Day", "Emancipation Day", "Discovery Day", "Christmas Day", "Boxing Day"
+    ],
+    "Time Zone": "UTC−5 (EST), UTC−4 (EDT in summer)",
+    "Driving Side": "Left",
+    "Date Format": "dd/mm/yyyy (CE)"
+  },
+  "Culture": {
+    "National Anthem": "March On, Bahamaland",
+    "Royal Anthem": "God Save the King",
+    "Motto": "Forward, Upward, Onward, Together"
+  },
+  "International Relations": {
+    "Member Of": ["United Nations", "Commonwealth of Nations", "CARICOM", "Organization of American States (OAS)", "International Monetary Fund (IMF)", "World Bank", "World Trade Organization (WTO)"]
+  }
 }
