@@ -1,87 +1,120 @@
 {
-    "Bhutan": {
-        "Name": {
-            "Commom": "Bhutan",
-            "Official": "Kingdom of Bhutan",
-            "Dzongkha": "འབྲུག་རྒྱལ་ཁབ་",
-            "Romanized": "Druk Gyal Khap"
-        },
-        "Flag": "Described Image",
-        "Emblem": "Described Image",
-        "Anthem": "Druk Tsenden ('The Thunder Dragon Kingdom')",
-        "Capital": {
-            "Name": "Thimphu",
-            "Coordinates": "27°28.0′N 89°38.5′E"
-        },
-        "Official Language": "Dzongkha",
-        "Religion": {
-            "Buddhism": "72.9% (official)",
-            "Hinduism": "22.6%",
-            "Bon": "3.2%",
-            "Christianity": "0.7%",
-            "Others": "0.5%"
-        },
-        "Demonym": "Bhutanese",
-        "Government": {
-            "Type": "Unitary parliamentary semi-constitutional monarchy",
-            "Druk Gyalpo": "Jigme Khesar Namgyel Wangchuck",
-            "Prime Minister": "Chogyal Dago Rigdzin"
-        },
-        "Legislature": {
-            "National Council": "Upper house",
-            "National Assembly": "Lower house"
-        },
-        "Independence": {
-            "Unification of Bhutan": "1616–1634",
-            "Wangchuck dynasty": "17 December 1907",
-            "Constitutional Monarchy": "18 July 2008"
-        },
-        "Area": "38,394 square kilometers",
-        "Population": {
-            "2021 Estimate": "777,486",
-            "2022 Census": "727,145",
-            "Density": "19.3 per square kilometer"
-        },
-        "Economy": {
-            "GDP (PPP, 2023)": {
-                "Total": "$10.969 billion",
-                "Per Capita": "$14,296"
-            },
-            "GDP (Nominal, 2023)": {
-                "Total": "$2.686 billion",
-                "Per Capita": "$3,500"
-            }
-        },
-        "Gini Coefficient": "28.5 (low)",
-        "HDI": "0.666 (medium, 127th)",
-        "Currency": {
-            "Ngultrum": "BTN",
-            "Indian Rupee": "INR"
-        },
-        "Time Zone": "UTC+06 (BTT)",
-        "Date Format": "YYYY-MM-DD",
-        "Driving Side": "left",
-        "Calling Code": "+975",
-        "ISO 3166 Code": "BT",
-        "Internet TLD": ".bt",
-        "Geography": {
-            "Region": "Eastern Himalayas",
-            "Borders": ["China", "India"],
-            "Major Cities": ["Thimphu", "Paro", "Punakha"]
-        },
-        "Membership": ["United Nations", "SAARC", "WHO"],
-        "Human Development": {
-            "Peace Index": "Most peaceful in South Asia",
-            "Climate Change Concerns": "Melting glaciers"
-        },
-        "Cultural Heritage": {
-            "Buddhism Influence": "Vajrayana school",
-            "Festivals": ["Tshechu"],
-            "National Dress": ["Gho", "Kira"]
-        },
-        "Environmental Concerns": {
-            "Hydropower Potential": "Significant",
-            "Climate Vulnerability": "Melting glaciers due to climate change"
-        }
+  "Name": {
+    "Common": "Bhutan",
+    "Official": "Kingdom of Bhutan",
+    "Dzongkha": "འབྲུག་རྒྱལ་ཁབ་",
+    "Romanized": "Druk Gyal Khap"
+  },
+  "Symbols": {
+    "Flag": "A dragon diagonally dividing a yellow and orange field",
+    "Emblem": "A circle divided into four parts by a double diamond thunderbolt",
+    "Anthem": {
+      "Title": "Druk Tsenden",
+      "Translation": "The Thunder Dragon Kingdom",
+      "Duration": "1 minute and 30 seconds"
     }
+  },
+  "Geography": {
+    "Region": "Eastern Himalayas",
+    "Area": {
+      "Total (km2)": 38394,
+      "Rank": "133",
+      "Water Percentage": "0.7"
+    },
+    "Borders": {
+      "China": "North",
+      "India": "South, East, West"
+    },
+    "Major Cities": ["Thimphu", "Paro", "Punakha"],
+    "Capital": {
+      "Name": "Thimphu",
+      "Coordinates": "27°28.0′N 89°38.5′E"
+    },
+    "Coordinates": "27°30′N 90°30′E",
+    "Terrain": ["Mountainous", "Valleys"],
+    "Climate": "Varies with altitude; tropical in the south, temperate in the central regions, and polar-type climate in the north",
+    "Natural Resources": ["Hydropower", "Timber", "Gypsum", "Calcium carbide"]
+  },
+  "Demographics": {
+    "Population": {
+      "2021 Estimate": 777486,
+      "2022 Census": 727145,
+      "Density per km2": 19.3
+    },
+    "Languages": {
+      "Official": "Dzongkha",
+      "Minority Languages": ["Sharchop", "Nepali"]
+    },
+    "Ethnic Groups": {
+      "Ngalop": "50%",
+      "Sharchop": "30%",
+      "Lhotshampa": "20%"
+    },
+    "Religion": {
+      "Buddhism": 72.9,
+      "Hinduism": 22.6,
+      "Bon": 3.2,
+      "Christianity": 0.7,
+      "Others": 0.5
+    },
+    "Demonym": "Bhutanese"
+  },
+  "Government": {
+    "Type": "Unitary parliamentary semi-constitutional monarchy",
+    "Druk Gyalpo": "Jigme Khesar Namgyel Wangchuck",
+    "Prime Minister": "Chogyal Dago Rigdzin",
+    "Legislature": {
+      "Upper House": "National Council",
+      "Lower House": "National Assembly"
+    },
+    "Independence": {
+      "Unification of Bhutan": "1616–1634",
+      "Wangchuck Dynasty": "17 December 1907",
+      "Constitutional Monarchy": "18 July 2008"
+    }
+  },
+  "Economy": {
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 10.969,
+      "Per Capita (USD)": 14296
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 2.686,
+      "Per Capita (USD)": 3500
+    },
+    "Gini Coefficient": {
+      "2021": 28.5
+    },
+    "HDI": {
+      "2021": 0.666,
+      "Rank": 127
+    },
+    "Currency": {
+      "Ngultrum": "BTN",
+      "Indian Rupee": "INR"
+    }
+  },
+  "Miscellaneous": {
+    "Time Zone": "UTC+06 (BTT)",
+    "Date Format": "YYYY-MM-DD",
+    "Driving Side": "Left",
+    "Calling Code": "+975",
+    "ISO 3166 Code": "BT",
+    "Internet TLD": ".bt",
+    "UNESCO World Heritage Sites": 0
+  },
+  "Membership": ["United Nations", "SAARC", "WHO"],
+  "Human Development": {
+    "Peace Index": "Most peaceful in South Asia",
+    "Climate Change Concerns": "Melting glaciers"
+  },
+  "Cultural Heritage": {
+    "Buddhism Influence": "Vajrayana school",
+    "Festivals": ["Tshechu"],
+    "National Dress": ["Gho", "Kira"]
+  },
+  "Environmental Concerns": {
+    "Hydropower Potential": "Significant",
+    "Climate Vulnerability": "Melting glaciers due to climate change"
+  }
 }
