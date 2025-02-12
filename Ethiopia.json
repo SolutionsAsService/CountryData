@@ -1,93 +1,184 @@
 {
-  "Ethiopia": {
-  "Country": "Federal Democratic Republic of Ethiopia",
-  "AmharicName": "የኢትዮጵያ ፌደራላዊ ዴሞክራሲያዊ ሪፐብሊክ",
-    "Status": ["Civil Conflict"],
+  "Name": {
+    "Common": "Ethiopia",
+    "Official": "Federal Democratic Republic of Ethiopia",
+    "Native": {
+      "Amharic": "የኢትዮጵያ ፌደራላዊ ዴሞክራሲያዊ ሪፐብሊክ"
+    }
+  },
   "Symbols": {
-    "Flag": "Flag of Ethiopia",
-    "Emblem": "Emblem of Ethiopia",
-    "Anthem": "ወደፊት ገስግሺ ፣ ውድ እናት ኢትዮጵያ ('March Forward, Dear Mother Ethiopia')"
+    "Flag": "A horizontal tricolor of green, yellow, and red with the national emblem located at the center",
+    "Emblem": "A golden star and rays over a blue circle",
+    "Anthem": {
+      "Title": "ወደፊት ገስግሺ",
+      "Translation": "March Forward, Dear Mother Ethiopia",
+      "Duration": "1 minute and 20 seconds"
+    }
   },
   "Geography": {
+    "Continent": "Africa",
+    "Region": "Horn of Africa, East Africa",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Addis Ababa",
+        "Latitude": "9°1′N",
+        "Longitude": "38°45′E"
+      }
+    },
     "Location": "Horn of Africa, East Africa",
-    "Area": "1,112,000 square kilometres",
+    "Area": {
+      "Total (km2)": 1112000,
+      "Rank": "26",
+      "Water Percentage": "0.7%"
+    },
     "Terrain": {
-      "EasternHighlands": "Peaks higher than 4,000 m",
-      "EasternLowlands": "Ogaden Desert and Hawd",
-      "DrainageSystems": [
+      "Eastern Highlands": "Peaks higher than 4,000 m",
+      "Eastern Lowlands": "Ogaden Desert and Hawd",
+      "Drainage Systems": [
         "Genale and Shebele Rivers",
         "Rift Valley internal drainage system",
         "Baro, Tekeze, and the Blue Nile Rivers"
       ]
     },
-    "Borders": [
-      "Eritrea",
-      "Djibouti",
-      "Somalia",
-      "Kenya",
-      "South Sudan",
-      "Sudan"
-    ]
+    "Borders": ["Eritrea", "Djibouti", "Somalia", "Kenya", "South Sudan", "Sudan"],
+    "Natural Resources": ["Gold", "Platinum", "Copper", "Potash", "Natural gas", "Hydropower"],
+    "Climate": ["Tropical monsoon with diverse climatic zones ranging from desert to highlands"]
   },
   "Demographics": {
-    "Population2023Estimate": 127955823,
-    "Capital": "Addis Ababa",
-    "EthnicGroups": {
-      "Oromo": "34.5%",
-      "Amhara": "26.9%",
-      "Somali": "6.2%",
-      "Tigrayan": "6.1%",
-      "Others": "26.3%"
+    "Population": {
+      "2023 Estimate": 127955823,
+      "Density per km2": 115.2
     },
-    "Religions": {
-      "Christianity": "67.3%",
-      "Islam": "31.3%"
+    "Ethnic Groups": {
+      "Oromo": 34.5,
+      "Amhara": 26.9,
+      "Somali": 6.2,
+      "Tigrayan": 6.1,
+      "Others": 26.3
     },
-    "Languages": ["Afar", "Amharic", "Oromo", "Somali", "Tigrinya"],
-    "AgeStructure": {
-      "0-14Years": "38.91%",
-      "15-64Years": "57.55%",
-      "65YearsAndOver": "3.54%"
+    "Languages": {
+      "Official": ["Amharic"],
+      "Recognised Regional": ["Afar", "Oromo", "Somali", "Tigrinya"]
+    },
+    "Religion": {
+      "Christianity": 67.3,
+      "Islam": 31.3,
+      "Others": 1.4
+    },
+    "Demonym": "Ethiopian",
+    "Age Structure": {
+      "0-14 Years": 38.91,
+      "15-64 Years": 57.55,
+      "65 Years and Over": 3.54
     },
     "Urbanization": "23.2%"
   },
   "Government": {
     "Type": "Federal parliamentary republic",
-    "President": "Sahle-Work Zewde",
-    "PrimeMinister": "Abiy Ahmed",
+    "Leaders": {
+      "President": "Sahle-Work Zewde",
+      "Prime Minister": "Abiy Ahmed"
+    },
     "Legislature": {
-      "UpperHouse": "House of Federation",
-      "LowerHouse": "House of Peoples' Representatives"
-    }
+      "Upper House": "House of Federation",
+      "Lower House": "House of Peoples' Representatives"
+    },
+    "Constitution": "21 August 1995"
+  },
+  "History": {
+    "Ancient": "One of the oldest nations in the world, with human habitation dating back to the Paleolithic era",
+    "Medieval": "Home to the Aksumite Empire, early adoption of Christianity",
+    "Modern": "Resisted colonization, member of the League of Nations, founding member of the United Nations"
   },
   "Economy": {
-    "GDP_PPP_2023": "$393.297 billion",
-    "GDP_PPP_PerCapita_2023": "$3,719",
-    "GDP_Nominal_2023": "$155.804 billion",
-    "GDP_Nominal_PerCapita_2023": "$1,473",
-    "MajorIndustries": ["Agriculture", "Textiles", "Leather"],
-    "Currency": "Birr (ETB)"
-  },
-  "AdditionalInformation": {
-    "TimeZone": "UTC+3 (EAT)",
-    "DrivingSide": "right",
-    "CallingCode": "+251",
-    "ISOCode": "ET",
-    "InternetTLD": ".et",
-    "HistoricalSignificance": "Over 3000 years of history, origin of anatomically modern humans",
-    "Challenges": {
-      "PopulationGrowth": "Rapid, with 40% under age 15",
-      "Environmental": "Expanding degradation and food shortages",
-      "Political": "Ethnic-based violence and political repression"
+    "Status": "Developing country",
+    "Dependence": "Agriculture-based, with growing industrial and service sectors",
+    "Major Industries": ["Agriculture", "Textiles", "Leather", "Mining", "Energy"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 393.297,
+      "Per Capita (USD)": 3719
     },
-    "Membership": [
-      "United Nations",
-      "Group of 24",
-      "Non-Aligned Movement",
-      "Group of 77",
-      "Organisation of African Unity",
-      "BRICS"
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 155.804,
+      "Per Capita (USD)": 1473
+    },
+    "Currency": "Birr (ETB)",
+    "Gini Index": "N/A",
+    "HDI": "0.485 (2021)"
+  },
+  "International Relations": {
+    "UN Member": true,
+    "AU Member": true,
+    "NAM Member": true,
+    "OAU Member": true,
+    "BRICS Member": true
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+3 (EAT)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+251",
+    "ISO 3166 Code": "ET",
+    "Internet TLD": ".et",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Timkat (January 19)",
+      "Adwa Victory Day (March 2)",
+      "Labour Day (May 1)",
+      "Patriots' Victory Day (May 5)",
+      "Derg Downfall Day (May 28)",
+      "Enkutatash (September 11)",
+      "Meskel (September 27)",
+      "Christmas Day (January 7)",
+      "Epiphany (January 19)"
     ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage, birthplace of coffee and home to diverse languages and traditions",
+    "Cultural Contributions": ["Traditional music and dance", "Cuisine", "Art"],
+    "Historical Significance": "Over 3000 years of history, origin of anatomically modern humans"
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 6.0,
+    "Exports Growth": "Driven by agriculture, textiles, and energy",
+    "Inflation Rate": "8.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Agriculture", "Energy", "Manufacturing"],
+      "Challenges": "Balancing economic growth with social stability and environmental sustainability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "N/A",
+        "Expectation": "Steady growth into 2024"
+      },
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Moderate urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on East African culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Agriculture", "Energy", "Telecommunications"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Challenges": {
+    "Population Growth": "Rapid, with 40% under age 15",
+    "Environmental": "Expanding degradation and food shortages",
+    "Political": "Ethnic-based violence and political repression"
   }
-}
 }
