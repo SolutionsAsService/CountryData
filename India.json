@@ -1,141 +1,158 @@
 {
-  "India": {
-    "Name": {
-      "Common": "India",
-     "Official": "Republic of India",
-    "alternative_names": ["Bhārat Gaṇarājya"],
-     },
-    "Status": ["Large Border Disputes", "Kashmir conflict", "Naxalite–Maoist insurgency", "Sepratist Insurgencies"],
-    "geographical_data": {
-      "continent": "Asia",
-      "area_sq_km": 3287263,
-      "ocean_borders": ["Indian Ocean", "Arabian Sea", "Bay of Bengal"],
-      "land_borders": {
-        "west": ["Pakistan"],
-        "north": ["China", "Nepal", "Bhutan"],
-        "east": ["Bangladesh", "Myanmar"]
-      },
-      "maritime_borders": ["Sri Lanka", "Maldives", "Thailand", "Myanmar", "Indonesia"],
-      "territory": {
-        "controlled": "dark green regions",
-        "claimed_uncontrolled": "light green regions"
+  "Name": {
+    "Common": "India",
+    "Official": "Republic of India",
+    "Alternative Names": ["Bhārat Gaṇarājya"]
+  },
+  "Status": ["Large Border Disputes", "Kashmir conflict", "Naxalite–Maoist insurgency", "Separatist Insurgencies"],
+  "Geography": {
+    "Continent": "Asia",
+    "Area (km2)": 3287263,
+    "Ocean Borders": ["Indian Ocean", "Arabian Sea", "Bay of Bengal"],
+    "Land Borders": {
+      "West": ["Pakistan"],
+      "North": ["China", "Nepal", "Bhutan"],
+      "East": ["Bangladesh", "Myanmar"]
+    },
+    "Maritime Borders": ["Sri Lanka", "Maldives", "Thailand", "Myanmar", "Indonesia"],
+    "Territory": {
+      "Controlled": "dark green regions",
+      "Claimed Uncontrolled": "light green regions"
+    },
+    "Coordinates": {
+      "Capital": {
+        "Name": "New Delhi",
+        "Latitude": "28.6139° N",
+        "Longitude": "77.2090° E"
       }
     },
-    "symbols": {
-      "flag": {
-        "description": "Horizontal tricolour of saffron, white, and green with a navy-blue wheel",
-        "wheel_spokes": 24
-      },
-      "state_emblem": {
-        "description": "Three lions, a galloping horse, a 24-spoke wheel, and an elephant",
-        "motto": "Satyameva Jayate (Truth Alone Triumphs)"
-      },
-      "anthem": {
-        "title": "Jana Gana Mana",
-        "duration_seconds": 64,
-        "language": "Hindi"
-      },
-      "national_song": {
-        "title": "Vande Mataram",
-        "duration_seconds": 146,
-        "language": "Sanskrit"
+    "Largest City": {
+      "By Population": "Mumbai",
+      "By Metropolitan Area": "Delhi"
+    }
+  },
+  "Symbols": {
+    "Flag": {
+      "Description": "Horizontal tricolour of saffron, white, and green with a navy-blue wheel",
+      "Wheel Spokes": 24
+    },
+    "State Emblem": {
+      "Description": "Three lions, a galloping horse, a 24-spoke wheel, and an elephant",
+      "Motto": "Satyameva Jayate (Truth Alone Triumphs)"
+    },
+    "Anthem": {
+      "Title": "Jana Gana Mana",
+      "Duration": "64 seconds",
+      "Language": "Hindi"
+    },
+    "National Song": {
+      "Title": "Vande Mataram",
+      "Duration": "146 seconds",
+      "Language": "Sanskrit"
+    }
+  },
+  "Languages": {
+    "Official": ["Hindi", "English"],
+    "Regional": {
+      "State Level": ["Assamese", "Bengali", "Boro", "Dogri", "Gujarati", "Kannada", "Kashmiri", "Konkani", "Malayalam", "Manipuri", "Marathi", "Nepali", "Odia", "Punjabi", "Sanskrit", "Santali", "Sindhi", "Tamil", "Telugu", "Urdu"],
+      "8th Schedule": ["Assamese", "Bengali", "Boro", "Dogri", "Gujarati", "Kannada", "Kashmiri", "Konkani", "Malayalam", "Manipuri", "Marathi", "Nepali", "Odia", "Punjabi", "Sanskrit", "Santali", "Sindhi", "Tamil", "Telugu", "Urdu"]
+    },
+    "Native": 447
+  },
+  "Demographics": {
+    "Religions": {
+      "Hinduism": 79.8,
+      "Islam": 14.2,
+      "Christianity": 2.3,
+      "Sikhism": 1.7,
+      "Buddhism": 0.7,
+      "Jainism": 0.4,
+      "Unaffiliated": 0.23,
+      "Other": 0.65
+    },
+    "Population": {
+      "2023 Estimate": 1428627663,
+      "2011 Census": 1210854977,
+      "Density (per km2)": 423.3
+    }
+  },
+  "Government": {
+    "Type": "Federal parliamentary republic",
+    "Current Leaders": {
+      "President": "Droupadi Murmu",
+      "Vice President": "Jagdeep Dhankhar",
+      "Prime Minister": "Narendra Modi",
+      "Chief Justice": "Dhananjaya Y. Chandrachud"
+    },
+    "Legislature": {
+      "Upper House": "Rajya Sabha",
+      "Lower House": "Lok Sabha"
+    },
+    "Independence": {
+      "From UK": {
+        "Dominion": "15 August 1947",
+        "Republic": "26 January 1950"
       }
+    }
+  },
+  "Economy": {
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 13119,
+      "Per Capita (USD)": 9183
     },
-    "capital_and_major_cities": {
-      "capital": {
-        "name": "New Delhi",
-        "coordinates": "28.6139° N, 77.2090° E"
-      },
-      "largest_city": {
-        "by_population": "Mumbai",
-        "by_metropolitan_area": "Delhi"
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 4110,
+      "Per Capita (USD)": 2612
+    },
+    "Gini Index": 35.7,
+    "HDI": 0.633
+  },
+  "Currency": {
+    "Name": "Indian Rupee",
+    "Symbol": "₹",
+    "ISO Code": "INR"
+  },
+  "Miscellaneous": {
+    "Time Zone": "UTC+05:30",
+    "Date Format": "dd-mm-yyyy",
+    "Driving Side": "Left",
+    "Calling Code": "+91",
+    "ISO 3166 Code": "IN",
+    "Internet TLD": ".in"
+  },
+  "History": {
+    "Early Human Settlement": "55,000 years ago",
+    "Indus Valley Civilisation": "3rd millennium BCE",
+    "Sanskrit Diffusion": "1200 BCE",
+    "Major Empires": ["Maurya", "Gupta"],
+    "Medieval Period": {
+      "Religions": ["Christianity", "Islam", "Judaism", "Zoroastrianism"],
+      "Significant Empires": ["Delhi Sultanate", "Vijayanagara", "Mughal"]
+    },
+    "Modern Era": {
+      "British Rule": "1858-1947",
+      "Independence": "1947",
+      "Post-Independence": {
+        "Population Growth": "from 361 million (1951) to 1.4 billion (2022)",
+        "Economic Growth": "from $64 to $2601 per capita income"
       }
+    }
+  },
+  "Historical Context": {
+    "Early Human Settlement": "55,000 years ago",
+    "Indus Valley Civilisation": "3rd millennium BCE",
+    "Sanskrit Diffusion": "1200 BCE",
+    "Major Empires": ["Maurya", "Gupta"],
+    "Medieval Period": {
+      "Religions": ["Christianity", "Islam", "Judaism", "Zoroastrianism"],
+      "Significant Empires": ["Delhi Sultanate", "Vijayanagara", "Mughal"]
     },
-    "languages": {
-      "official": ["Hindi", "English"],
-      "regional": {
-        "state_level": ["Assamese", "Bengali", "Boro", ...],
-        "8th_schedule": ["Assamese", "Bengali", "Boro", "Dogri", "Gujarati", ...]
-      },
-      "native": 447
-    },
-    "demographics": {
-      "religions": {
-        "Hinduism": 79.8,
-        "Islam": 14.2,
-        "Christianity": 2.3,
-        "Sikhism": 1.7,
-        "Buddhism": 0.7,
-        "Jainism": 0.4,
-        "unaffiliated": 0.23,
-        "other": 0.65
-      },
-      "population": {
-        "2023_estimate": 1428627663,
-        "2011_census": 1210854977,
-        "density_per_sq_km": 423.3
-      }
-    },
-    "government_and_politics": {
-      "government_type": "Federal parliamentary republic",
-      "current_leaders": {
-        "president": "Droupadi Murmu",
-        "vice_president": "Jagdeep Dhankhar",
-        "prime_minister": "Narendra Modi",
-        "chief_justice": "Dhananjaya Y. Chandrachud"
-      },
-      "legislature": {
-        "upper_house": "Rajya Sabha",
-        "lower_house": "Lok Sabha"
-      },
-      "independence": {
-        "from_UK": {
-          "dominion": "1947-08-15",
-          "republic": "1950-01-26"
-        }
-      }
-    },
-    "economy": {
-      "GDP_PPP": {
-        "total": "$13.119 trillion",
-        "per_capita": "$9183"
-      },
-      "GDP_nominal": {
-        "total": "$4.11 trillion",
-        "per_capita": "$2612"
-      },
-      "Gini_index": 35.7,
-      "HDI": 0.633
-    },
-    "currency": {
-      "name": "Indian Rupee",
-      "symbol": "₹",
-      "ISO_code": "INR"
-    },
-    "miscellaneous": {
-      "time_zone": "UTC+05:30",
-      "date_format": "dd-mm-yyyy",
-      "driving_side": "left",
-      "calling_code": "+91",
-      "ISO_3166_code": "IN",
-      "internet_TLD": ".in"
-    },
-    "historical_context": {
-      "early_human_settlement": "55,000 years ago",
-      "Indus_Valley_Civilisation": "3rd millennium BCE",
-      "Sanskrit_diffusion": "1200 BCE",
-      "major_empires": ["Maurya", "Gupta"],
-      "medieval_period": {
-        "religions": ["Christianity", "Islam", "Judaism", "Zoroastrianism"],
-        "significant_empires": ["Delhi Sultanate", "Vijayanagara", "Mughal"]
-      },
-      "modern_era": {
-        "British_rule": "1858-1947",
-        "independence": "1947",
-        "post_independence": {
-          "population_growth": "from 361 million (1951) to 1.4 billion (2022)",
-          "economic_growth": "from $64 to $2601 per capita income"
-        }
+    "Modern Era": {
+      "British Rule": "1858-1947",
+      "Independence": "1947",
+      "Post-Independence": {
+        "Population Growth": "from 361 million (1951) to 1.4 billion (2022)",
+        "Economic Growth": "from $64 to $2601 per capita income"
       }
     }
   }
