@@ -1,15 +1,16 @@
 {
-  "Chad": {
-    "Name": {
+  "Name": {
     "Common": "Chad",
     "Official": "Republic of Chad",
-    "Arabic": "جمهورية تشاد",
-    "French": "République du Tchad"
+    "Native": {
+      "Arabic": "جمهورية تشاد",
+      "French": "République du Tchad"
+    }
   },
   "Status": ["Islamic Insurgency", "Boko Haram insurgency"],
   "Symbols": {
-    "Flag": "Flag of Chad",
-    "CoatOfArms": "Coat of arms of Chad",
+    "Flag": "Three vertical stripes of blue, yellow, and red",
+    "Coat of Arms": "A shield with a rising sun, flanked by a goat and a lion, with a scroll bearing the national motto",
     "Motto": {
       "French": "Unité, Travail, Progrès",
       "Arabic": "الاتحاد، العمل، التقدم",
@@ -21,55 +22,133 @@
     }
   },
   "Geography": {
-    "Location": "North-Central Africa",
-    "Area": "1,284,000 km2",
-    "Terrain": "Shallow basin, rimmed by mountains including Tibesti Massif, Djourab Depression",
-    "Climate": "Varies from desert in the north to tropical in the south",
-    "MajorRivers": ["Chari", "Logone"]
+    "Continent": "Africa",
+    "Region": "North-Central Africa",
+    "Coordinates": {
+      "Capital": {
+        "Name": "N'Djamena",
+        "Latitude": "12°6′N",
+        "Longitude": "15°3′E"
+      }
+    },
+    "Borders": ["Libya", "Sudan", "Central African Republic", "Cameroon", "Nigeria", "Niger"],
+    "Area": {
+      "Total (km2)": 1284000,
+      "Rank": "21",
+      "Water Percentage": "1.9%"
+    },
+    "Time Zones": "1",
+    "Driving Side": "Right",
+    "Natural Resources": ["Petroleum", "Uranium", "Natron", "Fish", "Gold", "Limestone", "Salt"],
+    "Climate": ["Varies from desert in the north to tropical in the south"],
+    "Terrain": ["Shallow basin rimmed by mountains including Tibesti Massif, Djourab Depression"],
+    "Major Rivers": ["Chari", "Logone"]
   },
   "Demographics": {
-    "Population2023Estimate": 18523000,
-    "Capital": "N'Djamena",
-    "EthnicGroups": {
-      "Sara": "26.6%",
-      "Arab": "12.9%",
-      "Others": "60.5%"
+    "Population": {
+      "2023 Estimate": 18523000,
+      "Density per km2": 14.4
     },
-    "Religions": {
-      "Islam": "52.1%",
-      "Protestant": "23.9%",
-      "RomanCatholic": "20%",
-      "Other": "4%"
+    "Ethnic Groups": {
+      "Sara": 26.6,
+      "Arab": 12.9,
+      "Others": 60.5
     },
     "Languages": {
       "Official": ["Arabic", "French"],
       "Other": ["Sara", "Fula", "Arabic dialects"]
+    },
+    "Religion": {
+      "Islam": 52.1,
+      "Protestant": 23.9,
+      "Roman Catholic": 20,
+      "Other": 4
     }
   },
   "Government": {
     "Type": "Presidential Republic",
     "President": "Mahamat Idriss Déby",
-    "PrimeMinister": "Succès Masra",
-    "Legislature": "National Transitional Council"
+    "Prime Minister": "Succès Masra",
+    "Legislature": "National Transitional Council",
+    "Independence": {
+      "From France": "11 August 1960"
+    },
+    "Constitution": "4 May 2018"
+  },
+  "History": {
+    "Pre-Colonial Period": "Various kingdoms and tribes",
+    "Colonial History": "French rule",
+    "Independence": "1960",
+    "Modern Developments": "20th and 21st centuries including political reforms and conflicts"
   },
   "Economy": {
-    "GDP_PPP_2021": "$24.49 billion",
-    "GDP_PerCapita_2021": "$1,400",
-    "MajorIndustries": ["Oil", "Cotton textiles", "Brewing", "Agriculture"],
-    "Currency": "Central African CFA franc (XAF)"
-  },
-  "AdditionalInformation": {
-    "TimeZone": "UTC+1 (WAT)",
-    "DrivingSide": "right",
-    "CallingCode": "+235",
-    "ISOCode": "TD",
-    "InternetTLD": ".td",
-    "Challenges": {
-      "Economic": "High poverty, dependence on oil, environmental issues",
-      "Social": "High maternal and infant mortality rates, low literacy and education levels",
-      "Political": "Authoritarian governance, political instability"
+    "GDP (PPP 2021)": {
+      "Total (Billion USD)": 24.49,
+      "Per Capita (USD)": 1400
     },
-    "Membership": ["African Union", "United Nations"]
+    "GDP (Nominal 2021)": {
+      "Total (Billion USD)": 11.36,
+      "Per Capita (USD)": 651
+    },
+    "Currency": "Central African CFA franc (XAF)",
+    "Major Industries": ["Oil", "Cotton textiles", "Brewing", "Agriculture"],
+    "Gini Index": "43.3 (2011)",
+    "HDI": "0.398 (2021)"
+  },
+  "International Relations": {
+    "UN Member": true,
+    "AU Member": true
+  },
+  "Miscellaneous": {
+    "Time Zone": "UTC+1 (WAT)",
+    "Date Format": "dd/mm/yyyy",
+    "Driving Side": "Right",
+    "Calling Code": "+235",
+    "ISO 3166 Code": "TD",
+    "Internet TLD": ".td",
+    "Public Holidays": [
+      "New Year's Day",
+      "Labour Day",
+      "Independence Day",
+      "All Saints' Day",
+      "Christmas Day"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "French rule",
+    "Cultural Contributions": ["Traditional music and dance", "Handicrafts"]
+  },
+  "Economic Outlook 2024": {
+    "GDP Growth": "3.2%",
+    "Factors Affecting Growth": ["Oil production", "Agriculture", "Government policies"],
+    "Inflation Rate 2023": "4.5%",
+    "Inflation Rate 2024": "4.0%"
+  },
+  "Health": {
+    "Life Expectancy": 54.0,
+    "Infant Mortality Rate": 85.0,
+    "Maternal Mortality Ratio": 856,
+    "Physicians Density": 0.04,
+    "Hospital Bed Density": 0.5
+  },
+  "Education": {
+    "Expenditures (% of GDP)": 2.3,
+    "Literacy": {
+      "Total": 22.3,
+      "Male": 31.3,
+      "Female": 14.0
+    },
+    "School Life Expectancy": {
+      "Total": 7,
+      "Male": 8,
+      "Female": 6
+    }
+  },
+  "Environmental Issues": {
+    "Desertification": true,
+    "Soil Degradation": true,
+    "Deforestation": true,
+    "Water Pollution": true,
+    "Biodiversity Loss": true
   }
-}
 }
