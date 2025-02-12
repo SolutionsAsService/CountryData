@@ -1,98 +1,209 @@
 {
-  "Cyprus": {
-    "official_name": "Republic of Cyprus",
-    "native_name": {
+  "Name": {
+    "Common": "Cyprus",
+    "Official": "Republic of Cyprus",
+    "Native": {
       "Greek": "Κυπριακή Δημοκρατία",
       "Turkish": "Kıbrıs Cumhuriyeti"
-    },
-    "symbols": {
-      "flag": "Flag of Cyprus",
-      "coat_of_arms": "Coat of arms of Cyprus",
-      "anthem": "Hymn to Liberty"
-    },
-    "geography": {
-      "location": "Eastern Mediterranean Sea",
-      "area_km2": 9251,
-      "borders": ["Northern Cyprus"],
-      "nearby_countries": ["Turkey", "Greece", "Egypt", "Lebanon", "Syria"]
-    },
-    "capital_largest_city": {
-      "name": "Nicosia",
-      "coordinates": "35°10′N 33°22′E"
-    },
-    "languages": {
-      "official": ["Greek", "Turkish"],
-      "minority": ["Armenian", "Cypriot Arabic"],
-      "vernaculars": ["Cypriot Greek", "Cypriot Turkish"]
-    },
-    "ethnic_groups": {
-      "Greek_Cypriots": "majority",
-      "Turkish_Cypriots": "significant minority",
-      "Armenian_Cypriots": "minority",
-      "Maronite_Cypriots": "minority"
-    },
-    "religion": {
-      "Christianity": "72.3%",
-      "Islam": "25.0%",
-      "No_religion": "1.9%",
-      "Other": "0.8%"
-    },
-    "government": {
-      "type": "Unitary presidential republic",
-      "president": "Nikos Christodoulides",
-      "vice_president": "Vacant",
-      "president_house_representatives": "Annita Demetriou"
-    },
-    "legislature": "House of Representatives",
-    "independence": {
-      "from_UK": "1 October 1960",
-      "London_Zürich_Agreements": "19 February 1959",
-      "EU_Joined": "1 May 2004"
-    },
-    "population": {
-      "2021_estimate": 1244188,
-      "2021_census": 923272,
-      "density_per_km2": 123.4
-    },
-    "economy": {
-      "GDP_PPP_2023": {
-        "total": "$49.655 billion",
-        "per_capita": "$53,931"
-      },
-      "GDP_nominal_2023": {
-        "total": "$32.032 billion",
-        "per_capita": "$34,791"
-      },
-      "Gini_index_2022": "29.4",
-      "HDI_2021": "0.896"
-    },
-    "currency": "Euro (EUR)",
-    "time_zone": "EET",
-    "driving_side": "left",
-    "calling_code": "+357",
-    "ISO_3166_code": "CY",
-    "internet_TLD": ".cy",
-    "historical_background": {
-      "earliest_human_activity": "10th millennium BC",
-      "significant_periods": [
-        "Hellenistic period",
-        "Roman Cyprus",
-        "Byzantine rule",
-        "Ottoman rule",
-        "British administration"
-      ],
-      "modern_history": [
-        "Independence in 1960",
-        "Intercommunal violence",
-        "1974 Turkish invasion",
-        "Establishment of Northern Cyprus"
-      ]
-    },
-    "tourism_economy": "Major tourist destination in the Mediterranean",
-    "international_relations": {
-      "Commonwealth_member_since": "1961",
-      "EU_member_since": "1 May 2004",
-      "Eurozone_member_since": "1 January 2008"
     }
+  },
+  "Symbols": {
+    "Flag": "White with a copper-colored silhouette of the island and two green crossed olive branches below it",
+    "Emblem": "A shield with a dove holding an olive branch over a copper-colored background, flanked by green olive branches",
+    "Motto": "N/A",
+    "Anthem": {
+      "Title": "Hymn to Liberty",
+      "Duration": "1 minute and 45 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Asia",
+    "Region": "Eastern Mediterranean",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Nicosia",
+        "Latitude": "35°10′N",
+        "Longitude": "33°22′E"
+      }
+    },
+    "Location": "Eastern Mediterranean Sea",
+    "Area": {
+      "Total (km2)": 9251,
+      "Rank": "161",
+      "Water Percentage": "N/A"
+    },
+    "Borders": ["Northern Cyprus"],
+    "Nearby Countries": ["Turkey", "Greece", "Egypt", "Lebanon", "Syria"],
+    "Time Zones": ["EET (UTC+2)", "EEST (UTC+3, DST)"],
+    "Largest City": "Nicosia",
+    "Natural Resources": ["Copper", "Pyrites", "Asbestos", "Gypsum", "Timber", "Salt", "Marble", "Clay", "Hydrocarbons"],
+    "Climate": ["Temperate; Mediterranean with hot, dry summers and cool, wet winters"]
+  },
+  "Demographics": {
+    "Population": {
+      "2021 Estimate": 1244188,
+      "2021 Census": 923272,
+      "Density per km2": 123.4
+    },
+    "Ethnic Groups": {
+      "Greek Cypriots": "majority",
+      "Turkish Cypriots": "significant minority",
+      "Armenian Cypriots": "minority",
+      "Maronite Cypriots": "minority"
+    },
+    "Languages": {
+      "Official": ["Greek", "Turkish"],
+      "Minority": ["Armenian", "Cypriot Arabic"],
+      "Vernaculars": ["Cypriot Greek", "Cypriot Turkish"]
+    },
+    "Religion": {
+      "Christianity": 72.3,
+      "Islam": 25.0,
+      "No Religion": 1.9,
+      "Other": 0.8
+    }
+  },
+  "Government": {
+    "Type": "Unitary presidential republic",
+    "Leaders": {
+      "President": "Nikos Christodoulides",
+      "Vice President": "Vacant",
+      "President of House of Representatives": "Annita Demetriou"
+    },
+    "Legislature": "House of Representatives",
+    "Constitution": "16 August 1960"
+  },
+  "History": {
+    "Earliest Human Activity": "10th millennium BC",
+    "Significant Periods": [
+      "Hellenistic period",
+      "Roman Cyprus",
+      "Byzantine rule",
+      "Ottoman rule",
+      "British administration"
+    ],
+    "Modern History": [
+      "Independence in 1960",
+      "Intercommunal violence",
+      "1974 Turkish invasion",
+      "Establishment of Northern Cyprus"
+    ]
+  },
+  "Economy": {
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 49.655,
+      "Per Capita (USD)": 53931
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 32.032,
+      "Per Capita (USD)": 34791
+    },
+    "Currency": "Euro (EUR)",
+    "Gini Index": "29.4 (2022)",
+    "HDI": "0.896 (2021)"
+  },
+  "International Relations": {
+    "Commonwealth Member Since": "1961",
+    "EU Member Since": "1 May 2004",
+    "Eurozone Member Since": "1 January 2008"
+  },
+  "Miscellaneous": {
+    "Time Zone": ["EET (UTC+2)", "EEST (UTC+3, DST)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Left",
+    "Calling Code": "+357",
+    "ISO 3166 Code": "CY",
+    "Internet TLD": ".cy",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Epiphany (January 6)",
+      "Green Monday (February/March)",
+      "Greek Independence Day (March 25)",
+      "Greek Cypriot National Day (April 1)",
+      "Good Friday (April)",
+      "Easter Monday (April)",
+      "Labour Day (May 1)",
+      "Pentecost (June)",
+      "Assumption of Mary (August 15)",
+      "Cyprus Independence Day (October 1)",
+      "Ochi Day (October 28)",
+      "Christmas Day (December 25)",
+      "Boxing Day (December 26)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural history with influences from various civilizations",
+    "Cultural Contributions": ["Traditional music and dance", "Literature", "Cuisine"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.0,
+    "Exports Growth": "Driven by tourism, financial services, and shipping",
+    "Inflation Rate": "2.5%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Renewable energy", "Technology"],
+      "Challenges": "Balancing economic growth with environmental sustainability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "Positive outlook",
+        "Expectation": "Steady growth into 2024"
+      },
+      "Commodity Imports": {
+        "Petroleum": "Significant",
+        "Food Products": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Eastern Mediterranean culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Financial services", "Tourism"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Tourism Economy": "Major tourist destination in the Mediterranean",
+  "Environmental Aspects": {
+    "Current Issues": ["Water scarcity", "Air pollution", "Biodiversity loss"],
+    "Climate": ["Temperate; Mediterranean with hot, dry summers and cool, wet winters"],
+    "Land Use": {
+      "Agricultural Land": 13.5,
+      "Arable Land": 7.8,
+      "Permanent Crops": 2.0,
+      "Permanent Pasture": 3.7,
+      "Forest": 18.0,
+      "Other": 68.5
+    },
+    "Urbanization": {
+      "Urban Population Percentage": 67.4,
+      "Urban Population Growth Rate": 0.56,
+      "Period": "2020-2025"
+    },
+    "International Environmental Agreements": [
+      "Biodiversity",
+      "Climate Change",
+      "Climate Change-Kyoto Protocol",
+      "Climate Change-Paris Agreement",
+      "Desertification",
+      "Endangered Species",
+      "Environmental Modification",
+      "Hazardous Wastes",
+      "Law of the Sea",
+      "Marine Dumping-London Convention",
+      "Ozone Layer Protection",
+      "Ship Pollution",
+      "Wetlands"
+    ]
   }
 }
