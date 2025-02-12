@@ -1,139 +1,119 @@
 {
-  "Angola": {
-    "officialName": "Republic of Angola",
-    "localNames": {
+  "Name": {
+    "Common": "Angola",
+    "Official": "Republic of Angola",
+    "Local": {
       "Portuguese": "República de Angola",
       "Kongo": "Ngola"
+    }
+  },
+  "Symbols": {
+    "Flag": "Flag of Angola",
+    "Emblem": "Emblem of Angola",
+    "Motto": "Virtus Unita Fortior (Virtue is stronger when united)",
+    "Anthem": {
+      "Title": "Angola Avante (Onwards Angola)",
+      "Duration": "1 minute and 22 seconds"
+    }
+  },
+  "Geography": {
+    "Capital City": "Luanda",
+    "Largest City": "Luanda",
+    "Major Cities": ["Huambo", "Lubango", "Benguela"],
+    "Area": {
+      "Total (km2)": 1246700
     },
-    "Status": ["Cabinda War"],
-    "location": {
-      "region": "West-central coast of Southern Africa",
-      "borders": {
-        "Namibia": "south",
-        "DemocraticRepublicOfTheCongo": "north",
-        "Zambia": "east",
-        "AtlanticOcean": "west"
-      },
-      "exclaveProvince": "Cabinda",
-      "proximityToZimbabwe": "Less than 200 metres from Botswana's border"
+    "Borders": ["Namibia", "Democratic Republic of the Congo", "Zambia", "Atlantic Ocean"],
+    "Region": "West-central coast of Southern Africa",
+    "Coordinates": "12°30′S 18°30′E",
+    "Terrain": ["Coastal plains", "Highlands", "Rainforests"],
+    "Climate": "Tropical and subtropical",
+    "Exclave Province": "Cabinda",
+    "Proximity to Zimbabwe": "Less than 200 metres from Botswana's border"
+  },
+  "Government": {
+    "Type": "Unitary parliamentary republic with an executive presidency",
+    "President": "João Lourenço",
+    "Vice President": "Esperança da Costa",
+    "Legislature": {
+      "National Assembly": "National Assembly"
     },
-    "capitalAndLargestCity": "Luanda",
-    "officialLanguage": "Portuguese",
-    "nationalLanguages": [
-      "Kimbundu", "Umbundu", "Chokwe", "Kikongo", "Khoekhoegowab", "Oshiwambo", "RuKwangali", "Setswana", "siLozi", "Afrikaans", "German"
+    "Independence": {
+      "From Portugal": "11 November 1975",
+      "UN Membership": "22 November 1976",
+      "Current Constitution": "21 January 2010"
+    }
+  },
+  "History": {
+    "Early Inhabitants": ["San", "Damara", "Nama"],
+    "Bantu Arrival": "14th century",
+    "German Colonization": "19th century",
+    "Portuguese Colony": "16th century onwards",
+    "Independence": "1975",
+    "Civil War": "1975-2002",
+    "Post-Civil War": "Stabilization and growth"
+  },
+  "Economy": {
+    "GDP (PPP 2023) Total (Billion USD)": 260.323,
+    "GDP per Capita (PPP USD)": 7077,
+    "GDP (Nominal 2023) Total (Billion USD)": 93.796,
+    "GDP per Capita (Nominal USD)": 2550,
+    "Main Sectors": ["Mining", "Petroleum"],
+    "Natural Resources": ["Diamonds", "Oil"],
+    "Economic Growth": "Fast-growing post-civil war",
+    "Wealth Distribution": "Highly uneven",
+    "Currency": "Angolan kwanza (AOA)",
+    "Gini Index (2018)": 51.3,
+    "HDI (2021)": 0.588
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 35981281,
+      "Density per km2": 24.97
+    },
+    "Ethnic Groups (2021)": {
+      "Ovimbundu": 37,
+      "Ambundu": 25,
+      "Bakongo": 13,
+      "Other African": 21,
+      "Mestiço": 2,
+      "Asian": 2,
+      "European": 1
+    },
+    "Languages": {
+      "Official": "Portuguese",
+      "National Languages": ["Kimbundu", "Umbundu", "Chokwe", "Kikongo", "Khoekhoegowab", "Oshiwambo", "RuKwangali", "Setswana", "siLozi", "Afrikaans", "German"]
+    },
+    "Religion (2020)": {
+      "Christianity": 92.9,
+      "Catholicism": 53.9,
+      "Protestantism": 27.4,
+      "Other Christian": 11.6,
+      "Traditional Faiths": 5.1,
+      "Islam": 1.1,
+      "Other None": 0.9
+    },
+    "Demonym": "Angolan"
+  },
+  "Miscellaneous": {
+    "Human Development Index (2021)": 0.588,
+    "Currency": "Angolan kwanza (AOA)",
+    "Calling Code": "+244",
+    "ISO 3166 Code": "AO",
+    "Internet TLD": [".ao"],
+    "Public Holidays": [
+      "New Year's Day", "Liberation Movement Day", "International Women's Day", "Peace and Reconciliation Day", "Labor Day", "National Heroes Day", "Independence Day", "Christmas Day"
     ],
-    "ethnicGroups2021": {
-      "Ovimbundu": "37%",
-      "Ambundu": "25%",
-      "Bakongo": "13%",
-      "OtherAfrican": "21%",
-      "Mestiço": "2%",
-      "Asian": "2%",
-      "European": "1%"
-    },
-    "religion2020": {
-      "Christianity": "92.9%",
-      "Catholicism": "53.9%",
-      "Protestantism": "27.4%",
-      "OtherChristian": "11.6%",
-      "TraditionalFaiths": "5.1%",
-      "Islam": "1.1%",
-      "OtherNone": "0.9%"
-    },
-    "demonym": "Angolan",
-    "government": {
-      "type": "Unitary parliamentary republic with an executive presidency",
-      "president": "João Lourenço",
-      "vicePresident": "Esperança da Costa"
-    },
-    "legislature": {
-      "nationalAssembly": "National Assembly"
-    },
-    "independence": {
-      "fromPortugal": "11 November 1975",
-      "UNMembership": "22 November 1976",
-      "currentConstitution": "21 January 2010"
-    },
-    "area": {
-      "total": "1,246,700 km2",
-      "waterPercentage": "negligible"
-    },
-    "population2023": {
-      "estimate": "35,981,281",
-      "density": "24.97/km2"
-    },
-    "economy": {
-      "GDP_PPP_2023": {
-        "total": "$260.323 billion",
-        "perCapita": "$7,077"
-      },
-      "GDP_Nominal_2023": {
-        "total": "$93.796 billion",
-        "perCapita": "$2,550"
-      },
-      "Gini2018": "51.3",
-      "HDI2021": "0.588"
-    },
-    "currency": {
-      "primary": "Angolan kwanza (AOA)"
-    },
-    "timeZone": "UTC+1 (WAT)",
-    "dateAndDriving": {
-      "dateFormat": "dd/mm/yyyy",
-      "drivingSide": "right"
-    },
-    "communication": {
-      "callingCode": "+244",
-      "ISO3166Code": "AO",
-      "internetTLD": ".ao"
-    },
-    "geography": {
-      "features": "Coastal country with diverse landscapes",
-      "climate": "Tropical and subtropical"
-    },
-    "history": {
-      "earlyInhabitants": ["San", "Damara", "Nama"],
-      "bantuArrival": "14th century",
-      "germanColonization": "19th century",
-      "portugueseColony": "16th century onwards",
-      "independence": "1975",
-      "civilWar": "1975-2002",
-      "postCivilWar": "Stabilization and growth"
-    },
-    "governmentAndPolitics": {
-      "politicalStructure": "Semi-presidential republic",
-      "currentLeaders": {
-        "president": "João Lourenço",
-        "vicePresident": "Esperança da Costa"
-      },
-      "internationalAffiliations": ["UN", "African Union", "Community of Portuguese Language Countries", "SADC"]
-    },
-    "economy": {
-      "mainSectors": ["Mining", "Petroleum"],
-      "keyResources": ["Diamonds", "Oil"],
-      "economicGrowth": "Fast-growing post-civil war",
-      "wealthDistribution": "Highly uneven"
-    },
-    "energy": {
-      "resources": "Petroleum and mineral reserves",
-      "exportStatus": "Major exporter"
-    },
-    "demographics": {
-      "populationEstimate": "Approximately 36 million",
-      "ethnicDiversity": "Multicultural and multiethnic",
-      "languageDiversity": "Portuguese and several African languages"
-    },
-    "culture": {
-      "influences": "Portuguese and indigenous customs",
-      "religion": "Predominantly Christian",
-      "traditionalAndModernMix": true
-    },
-    "motto": "Virtus Unita Fortior ('Virtue is stronger when united')",
-    "anthem": {
-      "title": "Angola Avante ('Onwards Angola')",
-      "duration": "1:22"
-    },
-    "flag": "Flag of Angola",
-    "emblem": "Emblem of Angola"
+    "Time Zone": "UTC+1 (WAT)",
+    "Date Format": "dd/mm/yyyy",
+    "Driving Side": "right"
+  },
+  "International Relations": {
+    "Member Of": ["UN", "African Union", "Community of Portuguese Language Countries", "SADC"]
+  },
+  "Culture": {
+    "Influences": ["Portuguese", "Indigenous customs"],
+    "Religion": "Predominantly Christian",
+    "Traditional and Modern Mix": true
   }
 }
