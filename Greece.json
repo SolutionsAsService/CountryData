@@ -1,91 +1,186 @@
 {
-  "Greece": {
-    "CommonName": "Greece",
-    "FullName": "Hellenic Republic",
-    "GreekName": "Ελληνική Δημοκρατία",
-    "Romanized": "Ellinikí Dimokratía",
-    "flag": "Blue and white with a cross",
-    "coat_of_arms": "Blue shield with a white cross",
-    "motto": "Ελευθερία ή Θάνατος (Freedom or Death)",
-    "national_anthem": {
-      "title": "Ύμνος εις την Ελευθερίαν (Hymn to Liberty)",
-      "duration": "46 seconds"
+  "Name": {
+    "Common": "Greece",
+    "Official": "Hellenic Republic",
+    "Native": {
+      "Greek": "Ελληνική Δημοκρατία",
+      "Romanized": "Ellinikí Dimokratía"
+    }
+  },
+  "Symbols": {
+    "Flag": "Blue and white with a cross",
+    "Emblem": "Blue shield with a white cross",
+    "Motto": "Ελευθερία ή Θάνατος (Freedom or Death)",
+    "Anthem": {
+      "Title": "Ύμνος εις την Ελευθερίαν (Hymn to Liberty)",
+      "Duration": "46 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Europe",
+    "Region": "Southeast Europe",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Athens",
+        "Latitude": "37°58′N",
+        "Longitude": "23°43′E"
+      }
     },
-    "location": {
-      "continent": "Europe",
-      "region": "Southeast Europe",
-      "coordinates": "37°58′N, 23°43′E",
-      "borders": ["Albania", "North Macedonia", "Bulgaria", "Turkey"],
-      "seas": ["Aegean Sea", "Ionian Sea", "Sea of Crete", "Mediterranean Sea"],
-      "total_area_km2": 131957,
-      "water_percentage": 1.51
+    "Location": "Southeast Europe, bordered by Albania, North Macedonia, Bulgaria, and Turkey",
+    "Area": {
+      "Total (km2)": 131957,
+      "Rank": "95",
+      "Water Percentage": "1.51%"
     },
-    "population": {
-      "2023_estimate": 10413982,
-      "2021_census": 10432481,
-      "density_per_km2": 78.9
+    "Borders": ["Albania", "North Macedonia", "Bulgaria", "Turkey"],
+    "Seas": ["Aegean Sea", "Ionian Sea", "Sea of Crete", "Mediterranean Sea"],
+    "Terrain": ["Mountainous mainland with numerous islands"],
+    "Climate": ["Mediterranean climate with hot, dry summers and mild, wet winters"],
+    "Natural Resources": ["Lignite", "Petroleum", "Iron ore", "Bauxite", "Lead", "Zinc", "Nickel", "Magnesite", "Marble", "Salt"],
+    "Time Zones": ["UTC+02:00 (EET)", "UTC+03:00 (EEST, Summer)"],
+    "Largest City": "Athens"
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 10413982,
+      "2021 Census": 10432481,
+      "Density per km2": 78.9
     },
-    "economy": {
-      "GDP_PPP_2023": "$416.969 billion",
-      "GDP_per_capita_PPP_2023": "$39864",
-      "GDP_nominal_2023": "$242.385 billion",
-      "GDP_per_capita_nominal_2023": "$23173",
-      "Gini_index_2022": 31.4,
-      "HDI_2021": 0.887
+    "Ethnic Groups": {
+      "2023": {
+        "Greek": 91,
+        "Other": 9
+      }
     },
-    "government": {
-      "type": "Unitary parliamentary republic",
-      "president": "Katerina Sakellaropoulou",
-      "prime_minister": "Kyriakos Mitsotakis",
-      "parliament_speaker": "Konstantinos Tasoulas",
-      "legislature": "Hellenic Parliament"
+    "Languages": {
+      "Official": ["Greek"]
     },
-    "historical_significance": {
-      "cradle_of_civilization": true,
-      "ancient_history": ["Birthplace of democracy", "Western philosophy", "literature", "political science"],
-      "classical_period": ["City-states like Athens and Sparta", "Conquests of Alexander the Great"],
-      "roman_and_byzantine_era": ["Part of Roman Empire", "Byzantine Empire"],
-      "modern_history": [
-        "War of Independence from Ottoman Empire",
-        "Kingdom of Greece",
-        "Asia Minor Campaign",
-        "World War II occupation",
-        "Civil War",
-        "Military dictatorship",
-        "Transition to democracy"
-      ]
+    "Religion": {
+      "2023": {
+        "Christianity": 93,
+        "Greek Orthodoxy": 90,
+        "Other Christian": 3,
+        "No Religion": 4,
+        "Islam": 2,
+        "Other": 1
+      }
     },
-    "cultural_heritage": {
-      "UNESCO_world_heritage_sites": 19,
-      "influences": ["Theater", "Olympic Games", "Scientific principles"],
-      "orthodox_christianity": "State religion"
+    "Demonym": "Greek"
+  },
+  "Government": {
+    "Type": "Unitary parliamentary republic",
+    "Leaders": {
+      "President": "Katerina Sakellaropoulou",
+      "Prime Minister": "Kyriakos Mitsotakis",
+      "Parliament Speaker": "Konstantinos Tasoulas"
     },
-    "memberships": {
-      "united_nations": true,
-      "european_union": true,
-      "eurozone": true,
-      "council_of_europe": true,
-      "nato": true,
-      "oecd": true,
-      "wto": true,
-      "osce": true
+    "Legislature": "Hellenic Parliament",
+    "Constitution": "11 June 1975"
+  },
+  "History": {
+    "Cradle of Civilization": true,
+    "Ancient History": ["Birthplace of democracy", "Western philosophy", "Literature", "Political science"],
+    "Classical Period": ["City-states like Athens and Sparta", "Conquests of Alexander the Great"],
+    "Roman and Byzantine Era": ["Part of Roman Empire", "Byzantine Empire"],
+    "Modern History": [
+      "War of Independence from Ottoman Empire",
+      "Kingdom of Greece",
+      "Asia Minor Campaign",
+      "World War II occupation",
+      "Civil War",
+      "Military dictatorship",
+      "Transition to democracy"
+    ]
+  },
+  "Economy": {
+    "Status": "Developed country",
+    "Dependence": "Tourism, shipping, and services",
+    "Major Industries": ["Tourism", "Shipping", "Agriculture", "Mining", "Manufacturing"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 416.969,
+      "Per Capita (USD)": 39864
     },
-    "currency": "Euro (€) (EUR)",
-    "time_zone": ["UTC+02:00 (EET)", "UTC+03:00 (EEST, Summer)"],
-    "date_format": "dd.mm.yyyy",
-    "driving_side": "right",
-    "calling_code": "+30",
-    "iso_3166_code": "GR",
-    "internet_tld": [".gr", ".ελ"],
-    "language": "Greek",
-    "religion": {
-      "Christianity": "93%",
-      "Greek_Orthodoxy": "90%",
-      "Other_Christian": "3%",
-      "No_Religion": "4%",
-      "Islam": "2%",
-      "Other": "1%"
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 242.385,
+      "Per Capita (USD)": 23173
     },
-    "major_cities": ["Athens", "Thessaloniki", "Patras"]
+    "Currency": "Euro (€) (EUR)",
+    "Gini Index": "31.4 (2022)",
+    "HDI": "0.887 (2021)"
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": ["United Nations", "European Union", "Eurozone", "Council of Europe", "NATO", "OECD", "WTO", "OSCE"]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+02:00 (EET)", "UTC+03:00 (EEST, Summer)"],
+    "Date Format": ["dd.mm.yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+30",
+    "ISO 3166 Code": "GR",
+    "Internet TLD": [".gr", ".ελ"],
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Epiphany (January 6)",
+      "Clean Monday (February/March)",
+      "Independence Day (March 25)",
+      "Good Friday (April)",
+      "Easter Sunday (April)",
+      "Easter Monday (April)",
+      "Labor Day (May 1)",
+      "Holy Spirit Monday (June)",
+      "Assumption of Mary (August 15)",
+      "OXI Day (October 28)",
+      "Christmas Day (December 25)",
+      "Synaxis of the Mother of God (December 26)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with significant contributions to philosophy, literature, theater, and art",
+    "Cultural Contributions": ["Theater", "Olympic Games", "Scientific principles"],
+    "UNESCO World Heritage Sites": 19,
+    "Orthodox Christianity": "State religion"
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 2.5,
+    "Exports Growth": "Driven by tourism and shipping",
+    "Inflation Rate": "2.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Tourism", "Shipping", "Agriculture"],
+      "Challenges": "Balancing economic growth with environmental sustainability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "ATHEX Composite Index",
+        "Expectation": "Steady growth into 2024"
+      },
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Western culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Tourism", "Shipping", "Agriculture"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air, and Sea transport",
+    "Key Transport Hubs": ["Athens", "Thessaloniki", "Patras"]
   }
 }
