@@ -1,138 +1,189 @@
 {
-  "Ecuador": {
-    "General_Information": {
-        "Name": {
-       "Official": "Republic of Ecuador",
-       "Spanish": "República del Ecuador",
-       "Quechua": "Ikwayur Ripuwlika",
-       "Shuar": "Ekuatur Nunka"
-        },
-      "Flag": "Flag of Ecuador",
-      "Coat_of_Arms": "Coat of arms of Ecuador",
-      "Motto": {
-        "Spanish": "Dios, patria y libertad",
-        "Latin": "Pro Deo, Patria et Libertate",
-        "Translation": "God, homeland and freedom"
-      },
-      "Anthem": {
-        "Title": "Salve, Oh Patria",
-        "Translation": "Hail, Oh Fatherland",
-        "Duration": "1 minute and 25 seconds"
-      },
+  "Name": {
+    "Common": "Ecuador",
+    "Official": "Republic of Ecuador",
+    "Native": {
+      "Spanish": "República del Ecuador",
+      "Quechua": "Ikwayur Ripuwlika",
+      "Shuar": "Ekuatur Nunka"
+    }
+  },
+  "Symbols": {
+    "Flag": "A horizontal tricolor of yellow (double width), blue and red with the National Coat of Arms superimposed at the center",
+    "Emblem": "A shield with the sun and the zodiac, flanked by four national flags, and supported by a bundle of wheat and palm leaves, atop a condor with outstretched wings",
+    "Motto": {
+      "Spanish": "Dios, patria y libertad",
+      "Latin": "Pro Deo, Patria et Libertate",
+      "Translation": "God, homeland and freedom"
+    },
+    "Anthem": {
+      "Title": "Salve, Oh Patria",
+      "Translation": "Hail, Oh Fatherland",
+      "Duration": "1 minute and 25 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "South America",
+    "Region": "Northwestern South America",
+    "Coordinates": {
       "Capital": {
         "Name": "Quito",
-        "Coordinates": "00°13′12″S 78°30′43″W"
-      },
-      "Largest_City": "Guayaquil",
-       "Location":{
-         "General": "northwestern South America", 
-          "border": { 
-            "Colombia": "north", 
-            "Peru": ["east", "south"], 
-            "Pacific Ocean": "west" },
-            "includes": { "the Galápagos Islands in the Pacific": "Distance": "1,000 kilometers (621 mi)", "Direction":"west" }
-       },
-      "Official_Languages": "Spanish",
-      "Recognized_Regional_Languages": ["Kichwa (Quechua)", "Shuar and others"],
-      "Ethnic2022": {
-        "Mestizo": "77.5%",
-        "Montubio": "7.8%",
-        "Indigenous": "7.6%",
-        "Black": "4.8%",
-        "White": "2.2%",
-        "Other": "0.1%"
-      },
-      "Religion_2020": {
-        "Christianity": "86.7%",
-        "Catholicism": "68.8%",
-        "Protestantism": "16.8%",
-        "Other_Christian": "1.1%",
-        "No_Religion": "12.9%",
-        "Other": "0.4%"
-      },
-      "Demonym": "Ecuadorian",
-      "Government_Type": "Unitary presidential republic",
-      "Leaders": {
-        "President": "Daniel Noboa",
-        "Vice_President": "Verónica Abad Rojas"
-      },
-      "Legislature": "National Assembly",
-      "Independence": {
-        "Declared": "10 August 1809",
-        "From_Spain": "24 May 1822",
-        "From_Gran_Colombia": "13 May 1830",
-        "Recognized_by_Spain": "16 February 1840",
-        "Liberal_Revolution": "5 June 1895",
-        "Current_Constitution": "28 September 2008"
-      },
-      "Area": {
-        "Total": "283,561 km2",
-        "Water_Percentage": "5"
-      },
-      "Population_2023": {
-        "Estimate": "17,483,326",
-        "Census_2022": "16,938,986",
-        "Density": "69/km2"
-      },
-      "GDP_PPP_2023_Estimate": {
-        "Total": "$242.579 billion",
-        "Per_Capita": "$13,285"
-      },
-      "GDP_Nominal_2023_Estimate": {
-        "Total": "$118.686 billion",
-        "Per_Capita": "$6,500"
-      },
-      "Gini_2022": "45.5 medium",
-      "HDI_2021": {
-        "Score": "0.740",
-        "Rank": "95th"
-      },
-      "Currency": "United States dollar (USD)",
-      "Time_Zone": ["UTC−5", "UTC−6 (Galápagos Islands)"],
-      "Date_Format": "dd/mm/yyyy",
-      "Driving_Side": "right",
-      "Calling_Code": "+593",
-      "ISO_3166_Code": "EC",
-      "Internet_TLD": ".ec",
-      "Territories": ["Galápagos Islands"],
-      "Location": "Northwestern South America",
-      "Borders": {
-        "North": "Colombia",
-        "East_South": "Peru",
-        "West": "Pacific Ocean"
+        "Latitude": "00°13′12″S",
+        "Longitude": "78°30′43″W"
       }
     },
-    "Etymology": {
-      "Description": "Meaning and origin of the name 'Ecuador'"
+    "Location": {
+      "General": "northwestern South America",
+      "Borders": {
+        "North": "Colombia",
+        "East and South": "Peru",
+        "West": "Pacific Ocean"
+      },
+      "Includes": {
+        "Galápagos Islands": {
+          "Distance": "1,000 kilometers (621 mi)",
+          "Direction": "west"
+        }
+      }
     },
-    "History": {
-      "Pre_Columbian": "Home to various indigenous peoples",
-      "Inca_Empire": "Incorporated into the Inca Empire in the 15th century",
-      "Spanish_Colonization": "Colonized by the Spanish Empire in the 16th century",
-      "Independence": "Achieved in 1820 as part of Gran Colombia"
+    "Area": {
+      "Total (km2)": 283561,
+      "Rank": "73",
+      "Water Percentage": "5%"
     },
-    "Government_and_Politics": {
-      "System": "Representative democratic presidential republic",
-      "International_Affiliations": ["United Nations", "Organization of American States", "Mercosur", "PROSUR", "Non-Aligned Movement"]
+    "Time Zones": ["UTC−5", "UTC−6 (Galápagos Islands)"],
+    "Largest City": "Guayaquil",
+    "Natural Resources": ["Petroleum", "Fish", "Timber"],
+    "Climate": ["Varies by region; tropical along coast, cooler inland, tropical in Amazonian jungle"],
+    "Major Features": {
+      "Highest Point": "Pico Duarte",
+      "Largest Lake": "Lake Enriquillo",
+      "Lowest Point": "Lake Enriquillo, 40m below sea level",
+      "Major River": "Yaque del Norte"
+    }
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 17483326,
+      "Census 2022": 16938986,
+      "Density per km2": 69
     },
-    "Military": {
-      "Description": "Details of Ecuador's military forces and capabilities"
+    "Ethnic Groups": {
+      "Mestizo": 77.5,
+      "Montubio": 7.8,
+      "Indigenous": 7.6,
+      "Black": 4.8,
+      "White": 2.2,
+      "Other": 0.1
     },
-    "Geography": {
-      "Description": "Geographical features of Ecuador, including the Galápagos Islands"
+    "Languages": {
+      "Official": ["Spanish"],
+      "Recognized Regional": ["Kichwa (Quechua)", "Shuar and others"]
     },
-    "Economy": {
-      "Status": "Developing country",
-      "Dependence": "Highly dependent on commodity exports",
-      "Major_Industries": ["Petroleum", "Agricultural products"]
+    "Religion": {
+      "Christianity": 86.7,
+      "Catholicism": 68.8,
+      "Protestantism": 16.8,
+      "Other Christian": 1.1,
+      "No Religion": 12.9,
+      "Other": 0.4
     },
-    "Demographics": {
-      "Population_Composition": "Ethnically diverse population, majority mestizos",
-      "Language": "Spanish as official language, several native languages recognized"
+    "Demonym": "Ecuadorian"
+  },
+  "Government": {
+    "Type": "Unitary presidential republic",
+    "Leaders": {
+      "President": "Daniel Noboa",
+      "Vice President": "Verónica Abad Rojas"
     },
-    "Culture": {
-      "Influences": "Rich cultural heritage influenced by indigenous, Spanish, and African traditions",
-      "Recognition": "17 megadiverse countries, legally enforceable rights of nature in constitution"
+    "Legislature": "National Assembly",
+    "Constitution": "28 September 2008"
+  },
+  "History": {
+    "Pre-Columbian": "Home to various indigenous peoples",
+    "Inca Empire": "Incorporated into the Inca Empire in the 15th century",
+    "Spanish Colonization": "Colonized by the Spanish Empire in the 16th century",
+    "Independence": {
+      "Declared": "10 August 1809",
+      "From Spain": "24 May 1822",
+      "From Gran Colombia": "13 May 1830",
+      "Recognized by Spain": "16 February 1840",
+      "Liberal Revolution": "5 June 1895"
+    }
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Highly dependent on commodity exports",
+    "Major Industries": ["Petroleum", "Agricultural products"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 242.579,
+      "Per Capita (USD)": 13285
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 118.686,
+      "Per Capita (USD)": 6500
+    },
+    "Currency": "United States dollar (USD)",
+    "Gini Index": "45.5 (2022)",
+    "HDI": "0.740 (2021)",
+    "HDI Rank": "95th"
+  },
+  "International Relations": {
+    "UN Member": true,
+    "OAS Member": true,
+    "Mercosur Member": true,
+    "PROSUR Member": true,
+    "Non-Aligned Movement Member": true
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC−5", "UTC−6 (Galápagos Islands)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+593",
+    "ISO 3166 Code": "EC",
+    "Internet TLD": ".ec",
+    "Territories": ["Galápagos Islands"]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage influenced by indigenous, Spanish, and African traditions",
+    "Cultural Contributions": ["Traditional music and dance", "Cuisine", "Art"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.2,
+    "Exports Growth": "Driven by petroleum, agriculture, and tourism",
+    "Inflation Rate": "2.5%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Energy", "Agriculture"],
+      "Challenges": "Balancing economic growth with environmental sustainability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "N/A",
+        "Expectation": "Steady growth into 2024"
+      },
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Food Products": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on South American culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Energy", "Agriculture", "Telecommunications"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
     }
   }
 }
