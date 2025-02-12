@@ -1,136 +1,254 @@
 {
-  "Cuba":{
-  "country": "Cuba",
-  "official_name": "Republic of Cuba",
-  "location": {
-    "continent": "North America",
-    "coordinates": "23°8′N 82°23′W",
-    "surrounding_areas": {
-      "north": ["Gulf of Mexico", "Atlantic Ocean"],
-      "east": "Hispaniola (Haiti/Dominican Republic)",
-      "south": ["Jamaica", "Cayman Islands"],
-      "west": "Yucatán Peninsula (Mexico)"
+  "Name": {
+    "Common": "Cuba",
+    "Official": "Republic of Cuba",
+    "Native": {
+      "Spanish": "República de Cuba"
     }
   },
-  "capital_city": "Havana",
-  "major_cities": ["Santiago de Cuba", "Camagüey"],
-  "area": {
-    "total": 110860,
-    "land_area": 109884,
-    "water_area": 0.94,
-    "units": "km2"
-  },
-  "population": {
-    "2023_estimate": 10985974,
-    "2022_census": 11089511,
-    "density": 101.8,
-    "density_unit": "per km2"
-  },
-  "government": {
-    "type": "Unitary Marxist–Leninist one-party socialist republic",
-    "president": "Miguel Díaz-Canel",
-    "vice_president": "Salvador Valdés Mesa",
-    "prime_minister": "Manuel Marrero Cruz",
-    "legislature": "National Assembly of People's Power"
-  },
-  "economy": {
-    "GDP_PPP": {
-      "total": 254865000000,
-      "per_capita": 22237,
-      "year": 2015
-    },
-    "GDP_nominal": {
-      "total": 126694000000,
-      "per_capita": 11255,
-      "year": 2021
-    },
-    "currency": "Cuban peso (CUP)"
-  },
-  "health": {
-    "hospital_bed_density": 5.3,
-    "major_infectious_diseases": ["bacterial diarrhea", "hepatitis A", "dengue fever"],
-    "obesity_adult_prevalence_rate": 24.6,
-    "tobacco_use": {
-      "total": 17.9,
-      "male": 25.5,
-      "female": 10.3
-    },
-    "children_under_5_underweight": 2.4
-  },
-  "education": {
-    "expenditures": "NA",
-    "literacy": {
-      "total": 99.7,
-      "male": 99.6,
-      "female": 99.7
-    },
-    "school_life_expectancy": {
-      "total": 14,
-      "male": 13,
-      "female": 15
+  "Symbols": {
+    "Flag": "Five horizontal stripes of blue and white with a red triangle containing a white five-pointed star",
+    "Emblem": "A shield with a key and a rising sun, flanked by an oak branch and a laurel branch",
+    "Motto": "Patria o Muerte (Homeland or Death)",
+    "Anthem": {
+      "Title": "La Bayamesa",
+      "Duration": "3 minutes"
     }
   },
-  "environment": {
-    "current_issues": ["soil degradation", "desertification", "biodiversity loss", "deforestation", "air and water pollution"],
-    "climate": "tropical; moderated by trade winds",
-    "land_use": {
-      "agricultural_land": 60.3,
-      "arable_land": 33.8,
-      "permanent_crops": 3.6,
-      "permanent_pasture": 22.9,
-      "forest": 27.3,
-      "other": 12.4},
-  
-  "urbanization": {
-    "urban_population_percentage": 77.5,
-    "urban_population_growth_rate": 0.19,
-    "period": "2020-2025"
-  },
-  "environmental_aspects": {
-    "forest_resource_revenue": 0.06,
-    "coal_revenue": 0,
-    "climate": "Tropical, moderated by trade winds",
-    "dry_season": "November to April",
-    "rainy_season": "May to October",
-    "land_use": {
-      "agricultural": 60.3,
-      "arable": 33.8,
-      "permanent_crops": 3.6,
-      "permanent_pasture": 22.9,
-      "forest": 27.3,
-      "other": 12.4
+  "Geography": {
+    "Continent": "North America",
+    "Region": "Caribbean",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Havana",
+        "Latitude": "23°8′N",
+        "Longitude": "82°23′W"
+      }
     },
-    "major_issues": ["soil degradation", "desertification", "biodiversity loss", "deforestation", "air and water pollution"],
-    "international_environmental_agreements": [
-      "Antarctic Treaty", "Biodiversity", "Climate Change", 
-      "Climate Change-Kyoto Protocol", "Climate Change-Paris Agreement", 
-      "Comprehensive Nuclear Test Ban", "Desertification", 
-      "Endangered Species", "Environmental Modification", 
-      "Hazardous Wastes", "Law of the Sea", "Marine Dumping-London Convention", 
-      "Ozone Layer Protection", "Ship Pollution", "Wetlands"
+    "Borders": {
+      "North": ["Gulf of Mexico", "Atlantic Ocean"],
+      "East": "Hispaniola (Haiti/Dominican Republic)",
+      "South": ["Jamaica", "Cayman Islands"],
+      "West": "Yucatán Peninsula (Mexico)"
+    },
+    "Area": {
+      "Total (km2)": 110860,
+      "Land Area (km2)": 109884,
+      "Water Area (%)": 0.94,
+      "Rank": "104"
+    },
+    "Time Zones": ["UTC-5", "UTC-4 (DST)"],
+    "Largest City": "Havana",
+    "Natural Resources": ["Cobalt", "Nickel", "Iron ore", "Chromium", "Copper", "Salt", "Timber", "Silica", "Petroleum"],
+    "Climate": ["Tropical; moderated by trade winds"]
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 10985974,
+      "2022 Census": 11089511,
+      "Density per km2": 101.8
+    },
+    "Ethnic Groups": {
+      "White": 64.1,
+      "Mestizo": 26.6,
+      "Black": 9.3
+    },
+    "Languages": {
+      "Official": ["Spanish"]
+    },
+    "Religion": {
+      "Christianity": 59.2,
+      "Roman Catholic": 27.0,
+      "Protestant": 13.0,
+      "Other Christian": 19.2,
+      "Santería": 13.0,
+      "No Religion": 24.2,
+      "Other": 3.6
+    }
+  },
+  "Government": {
+    "Type": "Unitary Marxist–Leninist one-party socialist republic",
+    "Leaders": {
+      "President": "Miguel Díaz-Canel",
+      "Vice President": "Salvador Valdés Mesa",
+      "Prime Minister": "Manuel Marrero Cruz"
+    },
+    "Legislature": "National Assembly of People's Power",
+    "Constitution": "24 February 2019"
+  },
+  "History": {
+    "Early Inhabitants": ["Guanahatabey", "Taíno"],
+    "Spanish Colonization Year": 1492,
+    "Slavery Abolition Year": 1886,
+    "Spanish American War Year": 1898,
+    "Independence Year": 1902,
+    "Cuban Revolution Period": "1953-1959",
+    "Leadership": ["Fidel Castro", "Raúl Castro", "Miguel Díaz-Canel"],
+    "Soviet Union Relationship": "Close during Cold War",
+    "Economic Downfall Period": "1990s",
+    "Modern Political System": "Marxist–Leninist one-party socialist state"
+  },
+  "Economy": {
+    "GDP (PPP 2015)": {
+      "Total (Billion USD)": 254.865,
+      "Per Capita (USD)": 22237
+    },
+    "GDP (Nominal 2021)": {
+      "Total (Billion USD)": 126.694,
+      "Per Capita (USD)": 11255
+    },
+    "Currency": "Cuban peso (CUP)",
+    "Gini Index": "NA",
+    "HDI": "NA"
+  },
+  "International Relations": {
+    "UN Member": true,
+    "WTO Member": true,
+    "CELAC Member": true,
+    "Non-Aligned Movement Member": true
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC-5", "UTC-4 (DST)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+53",
+    "ISO 3166 Code": "CU",
+    "Internet TLD": ".cu",
+    "Public Holidays": [
+      "Liberation Day (January 1)",
+      "Victory of Armed Forces Day (January 2)",
+      "International Workers' Day (May 1)",
+      "National Rebellion Day (July 25-27)",
+      "Independence Day (October 10)",
+      "Christmas Day (December 25)"
     ]
   },
-  "historical_background": {
-    "early_inhabitants": ["Guanahatabey", "Taíno"],
-    "spanish_colonization_year": 1492,
-    "slavery_abolition_year": 1886,
-    "spanish_american_war_year": 1898,
-    "independence_year": 1902,
-    "cuban_revolution_period": "1953-1959",
-    "leadership": ["Fidel Castro", "Raúl Castro", "Miguel Díaz-Canel"],
-    "soviet_union_relationship": "Close during Cold War",
-    "economic_downfall_period": "1990s",
-    "modern_political_system": "Marxist–Leninist one-party socialist state"
+  "Significant Cultural Aspects": {
+    "Legacy": "Spanish colonial history",
+    "Cultural Contributions": ["Music (salsa, son cubano, mambo)", "Dance", "Cuisine", "Literature"]
   },
-  "economic_challenges": {
-    "planned_economy_stagnation": true,
-    "venezuela_oil_dependency": true,
-    "covid_impact_on_tourism": true,
-    "inflation_rate": "Approx. 200%",
-    "food_import_dependency": "Approx. 70%",
-    "dual_currency_system_ending": 2021,
-    "emigration_issue": true,
-    "political_dissent_criminalization": true
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 2.5,
+    "Exports Growth": "Driven by nickel, sugar, tobacco, and tourism",
+    "Inflation Rate": "3.0%",
+    "Policy Response": {
+      "Focus": "Economic reforms and foreign investment",
+      "Areas": ["Tourism", "Agriculture"],
+      "Challenges": "Balancing economic growth with social equity"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "Positive outlook",
+        "Expectation": "Steady growth into 2024"
+      },
+      "Commodity Imports": {
+        "Petroleum": "Significant",
+        "Food Products": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Caribbean and Latin America",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Biotechnology", "Tourism"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on universal access",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Health": {
+    "Hospital Bed Density": 5.3,
+    "Major Infectious Diseases": ["Bacterial diarrhea", "Hepatitis A", "Dengue fever"],
+    "Obesity Adult Prevalence Rate": 24.6,
+    "Tobacco Use": {
+      "Total": 17.9,
+      "Male": 25.5,
+      "Female": 10.3
+    },
+    "Children Under 5 Underweight": 2.4
+  },
+  "Education": {
+    "Expenditures": "NA",
+    "Literacy": {
+      "Total": 99.7,
+      "Male": 99.6,
+      "Female": 99.7
+    },
+    "School Life Expectancy": {
+      "Total": 14,
+      "Male": 13,
+      "Female": 15
+    }
+  },
+  "Environment": {
+    "Current Issues": ["Soil degradation", "Desertification", "Biodiversity loss", "Deforestation", "Air and water pollution"],
+    "Climate": ["Tropical; moderated by trade winds"],
+    "Land Use": {
+      "Agricultural Land": 60.3,
+      "Arable Land": 33.8,
+      "Permanent Crops": 3.6,
+      "Permanent Pasture": 22.9,
+      "Forest": 27.3,
+      "Other": 12.4
+    },
+    "Urbanization": {
+      "Urban Population Percentage": 77.5,
+      "Urban Population Growth Rate": 0.19,
+      "Period": "2020-2025"
+    },
+    "Environmental Aspects": {
+      "Forest Resource Revenue": 0.06,
+      "Coal Revenue": 0,
+      "Dry Season": "November to April",
+      "Rainy Season": "May to October",
+      "International Environmental Agreements": [
+        "Antarctic Treaty",
+        "Biodiversity",
+        "Climate Change",
+        "Climate Change-Kyoto Protocol",
+        "Climate Change-Paris Agreement",
+        "Comprehensive Nuclear Test Ban",
+        "Desertification",
+        "Endangered Species",
+        "Environmental Modification",
+        "Hazardous Wastes",
+        "Law of the Sea",
+        "Marine Dumping-London Convention",
+        "Ozone Layer Protection",
+        "Ship Pollution",
+        "Wetlands"
+      ]
+    }
+  },
+  "Historical Background": {
+    "Early Inhabitants": ["Guanahatabey", "Taíno"],
+    "Spanish Colonization Year": 1492,
+    "Slavery Abolition Year": 1886,
+    "Spanish American War Year": 1898,
+    "Independence Year": 1902,
+    "Cuban Revolution Period": "1953-1959",
+    "Leadership": ["Fidel Castro", "Raúl Castro", "Miguel Díaz-Canel"],
+    "Soviet Union Relationship": "Close during Cold War",
+    "Economic Downfall Period": "1990s",
+    "Modern Political System": "Marxist–Leninist one-party socialist state"
+  },
+  "Economic Challenges": {
+    "Planned Economy Stagnation": true,
+    "Venezuela Oil Dependency": true,
+    "COVID Impact on Tourism": true,
+    "Inflation Rate": "Approx. 200%",
+    "Food Import Dependency": "Approx. 70%",
+    "Dual Currency System Ending": 2021,
+    "Emigration Issue": true,
+    "Political Dissent Criminalization": true
   }
-}
 }
