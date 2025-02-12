@@ -1,84 +1,219 @@
 {
-  "Country": "Co-operative Republic of Guyana",
-  "Flag_Description": "Green with a red triangle and yellow arrowhead",
-  "Coat_of_Arms_Description": "A shield with a jaguar and Victoria amazonica lily",
-  "Motto": "One People, One Nation, One Destiny",
-  "Anthem": {
-    "Title": "Dear Land of Guyana, of Rivers and Plains",
-    "Duration": "54 seconds"
+  "Name": {
+    "Common": "Guyana",
+    "Official": "Co-operative Republic of Guyana"
+  },
+  "Symbols": {
+    "Flag": "Green with a red triangle and yellow arrowhead",
+    "Emblem": "A shield with a jaguar and Victoria amazonica lily",
+    "Motto": "One People, One Nation, One Destiny",
+    "Anthem": {
+      "Title": "Dear Land of Guyana, of Rivers and Plains",
+      "Duration": "54 seconds"
+    }
   },
   "Geography": {
-    "Location": "Northern mainland of South America",
-    "Area_Sq_Km": 215000,
-    "Borders": ["Atlantic Ocean", "Brazil", "Venezuela", "Suriname"],
-    "Capital": {
-      "Name": "Georgetown",
-      "Coordinates": "6°48′21″N 58°9′3″W"
+    "Continent": "South America",
+    "Region": "Northern mainland",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Georgetown",
+        "Latitude": "6°48′21″N",
+        "Longitude": "58°9′3″W"
+      }
     },
-    "Territorial_Claim": "Contested areas with Venezuela"
+    "Location": "Northern mainland of South America, bordered by the Atlantic Ocean, Brazil, Venezuela, and Suriname",
+    "Area": {
+      "Total (km2)": 215000,
+      "Rank": "83",
+      "Water Percentage": "N/A"
+    },
+    "Borders": ["Atlantic Ocean", "Brazil", "Venezuela", "Suriname"],
+    "Terrain": ["Mostly flat coastal plain, rolling hills, and highland regions"],
+    "Climate": ["Tropical; hot, humid, moderated by northeast trade winds; two rainy seasons (May to mid-August, mid-November to mid-January)"],
+    "Natural Resources": ["Bauxite", "Gold", "Diamonds", "Timber", "Shrimp", "Fish"],
+    "Time Zones": ["UTC-4 (AST)"],
+    "Largest City": "Georgetown"
   },
   "Demographics": {
-    "Population_2022": 795408,
-    "Ethnic_Groups": {
-      "Indian": "39.8%",
-      "African": "29.3%",
-      "Multiracial": "19.9%",
-      "Indigenous": "10.5%",
-      "White": "0.3%",
-      "Chinese": "0.2%"
+    "Population": {
+      "2022 Estimate": 795408,
+      "Density per km2": 3.7
     },
-    "Religions": {
-      "Christianity": "54.2%",
-      "Hinduism": "31.0%",
-      "Islam": "7.5%",
-      "No_Religion": "4.2%",
-      "Others": "3.1%"
+    "Ethnic Groups": {
+      "2022": {
+        "Indian": 39.8,
+        "African": 29.3,
+        "Multiracial": 19.9,
+        "Indigenous": 10.5,
+        "White": 0.3,
+        "Chinese": 0.2
+      }
     },
     "Languages": {
-      "Official": "English",
-      "Recognised_Regional": ["Akawaio", "Macushi", "Waiwai", "Arawak", "Patamona", "Warao", "Carib", "Wapishana", "Pemon", "Mawayana"],
+      "Official": ["English"],
+      "Recognised Regional": ["Akawaio", "Macushi", "Waiwai", "Arawak", "Patamona", "Warao", "Carib", "Wapishana", "Pemon", "Mawayana"],
       "Vernacular": "Guyanese Creole",
       "Other": ["Guyanese Hindustani", "Portuguese", "Dutch", "Spanish", "Chinese"]
-    }
+    },
+    "Religion": {
+      "2022": {
+        "Christianity": 54.2,
+        "Hinduism": 31,
+        "Islam": 7.5,
+        "No Religion": 4.2,
+        "Others": 3.1
+      }
+    },
+    "Demonym": "Guyanese"
   },
   "Government": {
     "Type": "Unitary assembly-independent republic",
-    "President": "Irfaan Ali",
-    "First_Vice_President": "Mark Phillips",
-    "Vice_President": "Bharrat Jagdeo",
+    "Leaders": {
+      "President": "Irfaan Ali",
+      "First Vice President": "Mark Phillips",
+      "Vice President": "Bharrat Jagdeo"
+    },
     "Legislature": "National Assembly",
-    "Independence": "26 May 1966 from the United Kingdom",
-    "Republic_Declaration": "23 February 1970",
     "Constitution": "Adopted 6 October 1980"
   },
+  "History": {
+    "Independence": {
+      "From United Kingdom": "26 May 1966",
+      "Republic Declaration": "23 February 1970"
+    }
+  },
   "Economy": {
-    "GDP_PPP_2023": {
-      "Total": "$48.514 billion",
-      "Per_Capita": "$61,098"
+    "Status": "Developing country",
+    "Dependence": "Mining, agriculture, and oil production",
+    "Major Industries": ["Bauxite Mining", "Gold Mining", "Agriculture", "Timber", "Oil Production"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 48.514,
+      "Per Capita (USD)": 61098
     },
-    "GDP_Nominal_2023": {
-      "Total": "$16.329 billion",
-      "Per_Capita": "$20,564"
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 16.329,
+      "Per Capita (USD)": 20564
     },
-    "Main_Industries": ["Bauxite Mining", "Gold Mining", "Agriculture", "Timber"],
-    "Oil_Reserves": "Over 11 billion barrels",
-    "Economic_Growth": "World's fastest-growing economy as of 2020"
+    "Currency": "Guyanese dollar (GYD)",
+    "Gini Index": "N/A",
+    "HDI": "0.682 (2021)"
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": ["Caribbean Community (CARICOM)", "United Nations", "Union of South American Nations"]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC-4 (AST)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Left",
+    "Calling Code": "+592",
+    "ISO 3166 Code": "GY",
+    "Internet TLD": ".gy",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Republic Day (February 23)",
+      "Phagwah (March)",
+      "Good Friday (April)",
+      "Easter Monday (April)",
+      "Labour Day (May 1)",
+      "Independence Day (May 26)",
+      "Caricom Day (First Monday in July)",
+      "Emancipation Day (August 1)",
+      "Diwali (November)",
+      "Christmas Day (December 25)",
+      "Boxing Day (December 26)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of Indian, African, Indigenous, Chinese, Portuguese, and European influences",
+    "Cultural Contributions": ["Traditional music and dance", "Cuisine", "Art"],
+    "Lingua Franca": "Guyanese Creole",
+    "Unique Features": ["Diverse society with no ethnic majority", "Rich biodiversity and natural habitats"],
+    "Cultural Ties": "Strong ties with the Anglophone Caribbean and CARICOM"
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 10.0,
+    "Exports Growth": "Driven by oil production and mining",
+    "Inflation Rate": "3.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Oil Production", "Mining", "Agriculture"],
+      "Challenges": "Balancing economic growth with environmental sustainability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "N/A",
+        "Expectation": "Steady growth into 2024"
+      },
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on South American and Caribbean culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Oil Production", "Mining", "Agriculture"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Air, and Sea transport",
+    "Key Transport Hubs": ["Georgetown", "Linden", "New Amsterdam"]
+  },
+  "Current Challenges": {
+    "Corruption": "Significant issue",
+    "Judicial Independence": "Compromised",
+    "Freedom of Expression": "Hostile environment for journalists",
+    "Human Rights": "Increased abuses against defenders",
+    "Women and Girls' Rights": "High levels of gender-based violence",
+    "Sexual Orientation and Gender Identity": "Lack of protection for LGBT people"
+  },
+  "Urban Population": {
+    "Georgetown": "200,500",
+    "Linden": "27,277",
+    "New Amsterdam": "17,329"
+  },
+  "Population Growth": {
+    "2024 Forecast": 810000,
+    "2025 Forecast": 825000
+  },
+  "Demographics": {
+    "Life Expectancy": "69.5 years",
+    "Infant Mortality": "31.9 (per 1,000 live births)",
+    "Deaths Under Age 5": "40.5 (per 1,000 live births)",
+    "Median Age": "25.1 years",
+    "Population by Age": {
+      "Adults Over 18": "Significant portion of the population"
+    }
   },
   "Culture": {
-    "Cultural_Heritage": "Influenced by Indian, African, Indigenous, Chinese, Portuguese, European, and multiracial groups",
-  "Lingua_Franca": "Guyanese Creole",
-  "Unique_Features": ["Diverse society with no ethnic majority", "Rich biodiversity and natural habitats"],
-   "Cultural_Ties": "Strong ties with the Anglophone Caribbean and CARICOM"
-    },
-    "Additional_Information": {
-     "Time_Zone": "UTC-4 (AST)",
-     "Driving_Side": "left",
-      "Calling_Code": "+592",
-     "ISO_Code": "GY",
-     "Internet_TLD": ".gy",
-      "International_Affiliations": ["Caribbean Community (CARICOM)", "United Nations", "Union of South American Nations"],
-      "Poverty_Rate": "41% below poverty line as of 2017",
-      "Human_Development_Index": "High, ranked 108th in 2021",
-      "Environmental_Aspects": ["Low population density", "One of the least densely populated countries on Earth"]
+    "Multiethnic": true,
+    "Influences": "Indian, African, Indigenous, Chinese, Portuguese, European"
+  },
+  "Challenges": {
+    "Food Insecurity": "Significant issue due to economic disparity",
+    "Biodiversity": "Rich biodiversity with conservation efforts in place"
+  },
+  "Political Climate": {
+    "Corruption": "High levels and declining ability to prevent",
+    "Judicial Independence": "Significant issues with accountability",
+    "Freedom of Expression": "Hostile environment for journalists and media",
+    "Attacks on Human Rights Defenders": "Increased incidents",
+    "Women and Girls' Rights": "High incidence of gender-based violence and femicides",
+    "Sexual Orientation and Gender Identity": "Lack of adequate protection"
   }
 }
