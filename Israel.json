@@ -1,135 +1,210 @@
 {
-  "Israel": {
-    "General_Information": {
-      "Official_Name": "State of Israel",
-      "Hebrew_Name": "מְדִינַת יִשְׂרָאֵל",
-      "Arabic_Name": "دَوْلَة إِسْرَائِيل",
-      "Status": ["Constant Warfare", "Consequensial territorail Disputes"],
-      "Flag": "Star of David centred between two horizontal stripes of a Jewish prayer shawl",
-      "Emblem": "Menorah surrounded by an olive branch on either side",
-      "Anthem": {
-        "Title": "הַתִּקְוָה (Hatīkvāh; 'The Hope')",
-        "Duration": "1 minute and 15 seconds"
-      },
-      "Map": "Israel within internationally recognized borders in dark green; Israeli-occupied territories in light green",
+  "Name": {
+    "Common": "Israel",
+    "Official": "State of Israel",
+    "Hebrew": "מְדִינַת יִשְׂרָאֵל",
+    "Arabic": "دَوْلَة إِسْرَائِيل"
+  },
+  "Status": ["Constant Warfare", "Consequential Territorial Disputes"],
+  "Symbols": {
+    "Flag": "Star of David centred between two horizontal stripes of a Jewish prayer shawl",
+    "Emblem": "Menorah surrounded by an olive branch on either side",
+    "Anthem": {
+      "Title": "הַתִּקְוָה (Hatīkvāh; 'The Hope')",
+      "Duration": "1 minute and 15 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Asia",
+    "Region": "Southern Levant, West Asia",
+    "Coordinates": {
       "Capital": {
         "Name": "Jerusalem (limited recognition)",
-        "Coordinates": "31°47′N 35°13′E"
-      },
-      "Largest_City": "Jerusalem",
-      "Official_Language": "Hebrew",
-      "Recognized_Language": "Arabic",
-      "Ethnic_Groups_2023": {
-        "Jews": "73%",
-        "Arabs": "21%",
-        "Others": "6%"
-      },
-      "Demonym": "Israeli",
-      "Government_Type": "Unitary parliamentary republic",
-      "Leaders": {
-        "President": "Isaac Herzog",
-        "Prime_Minister": "Benjamin Netanyahu",
-        "Knesset_Speaker": "Amir Ohana",
-        "Chief_Justice": "Uzi Vogelman (acting)"
-      },
-      "Legislature": "Knesset",
-      "Independence": {
-        "Declaration": "14 May 1948",
-        "UN_Admission": "11 May 1949",
-        "Basic_Laws": "1958–2018"
-      },
-      "Area": {
-        "Total": "21,937 km2",
-        "Water_Percentage": "2.71 (as of 2015)"
-      },
-      "Population": {
-        "2024_Estimate": "9,839,840",
-        "2008_Census": "7,412,200"
-      },
-      "Density": "446/km2",
-      "GDP_PPP_2023_Estimate": {
-        "Total": "$537.140 billion",
-        "Per_Capita": "$54,771"
-      },
-      "GDP_Nominal_2023_Estimate": {
-        "Total": "$521.688 billion",
-        "Per_Capita": "$53,195"
-      },
-      "Gini_2018": "34.8 medium",
-      "HDI_2021": {
-        "Score": "0.919",
-        "Rank": "22nd"
-      },
-      "Currency": "New shekel (₪) (ILS)",
-      "Time_Zone": "UTC+2:00 (IST)",
-      "Summer_DST": "UTC+3:00 (IDT)",
-      "Date_Format": {
-        "Hebrew": "יי-חח-שששש (AM)",
-        "CE": "dd-mm-yyyy"
-      },
-      "Driving_Side": "right",
-      "Calling_Code": "+972",
-      "ISO_3166_Code": "IL",
-      "Internet_TLD": ".il",
-      "Area_Details": {
-        "Within_Green_Line": "20,770 km2",
-        "Including_Occupied_Territories": "22,072 km2"
-      },
-      "Location": "Southern Levant, West Asia",
-      "Borders": {
-        "North": "Lebanon",
-        "Northeast": "Syria",
-        "East": "Jordan",
-        "South": "Red Sea",
-        "Southwest": "Egypt",
-        "West": "Mediterranean Sea",
-        "East_and_Southwest": "Palestinian territories (West Bank and Gaza Strip)"
-      },
-      "Tel_Aviv": "Financial, economic, and technological center"
+        "Latitude": "31°47′N",
+        "Longitude": "35°13′E"
+      }
     },
-    "Etymology": {
-      "Description": "Origin and meaning of the name 'Israel'"
+    "Location": "Southern Levant, West Asia",
+    "Area": {
+      "Total (km2)": 21937,
+      "Water Percentage": "2.71 (as of 2015)"
     },
-    "History": {
-      "Ancient_History": "Home to Israelite and Jewish kingdoms, influenced by various empires",
-      "19th_Century": "Rise of Zionism and Jewish immigration",
-      "British_Mandate": "After World War I, under League of Nations",
-      "1947_Partition_Plan": "UN-approved, led to civil war",
-      "Independence_and_Wars": {
-        "Declaration": "14 May 1948",
-        "First_Arab_Israeli_War": "Started 15 May 1948",
-        "Territorial_Changes": "More territory than UN plan, no new Arab state",
-        "Six_Day_War": "1967, occupation of Palestinian territories"
+    "Borders": {
+      "North": "Lebanon",
+      "Northeast": "Syria",
+      "East": "Jordan",
+      "South": "Red Sea",
+      "Southwest": "Egypt",
+      "West": "Mediterranean Sea",
+      "East and Southwest": "Palestinian territories (West Bank and Gaza Strip)"
+    },
+    "Terrain": ["Mountainous regions, coastal plains, desert"],
+    "Climate": ["Predominantly Mediterranean"],
+    "Natural Resources": ["Natural gas, potash, copper ore, phosphate rock, magnesium bromide, clays, sand"],
+    "Time Zones": ["UTC+2:00 (IST)", "UTC+3:00 (IDT)"],
+    "Largest City": "Jerusalem"
+  },
+  "Demographics": {
+    "Population": {
+      "2024 Estimate": 9839840,
+      "2008 Census": 7412200,
+      "Density (per km2)": 446
+    },
+    "Ethnic Groups": {
+      "2023": {
+        "Jews": 73,
+        "Arabs": 21,
+        "Others": 6
+      }
+    },
+    "Languages": {
+      "Official": ["Hebrew"],
+      "Recognized": ["Arabic"]
+    },
+    "Religion": {
+      "2023": {
+        "Judaism": 74.2,
+        "Islam": 17.8,
+        "Christianity": 2,
+        "Druze": 1.6,
+        "Other": 4.4
+      }
+    },
+    "Demonym": "Israeli"
+  },
+  "Government": {
+    "Type": "Unitary parliamentary republic",
+    "Leaders": {
+      "President": "Isaac Herzog",
+      "Prime Minister": "Benjamin Netanyahu",
+      "Knesset Speaker": "Amir Ohana",
+      "Chief Justice": "Uzi Vogelman (acting)"
+    },
+    "Legislature": "Knesset",
+    "Constitution": "Basic Laws (1958–2018)"
+  },
+  "History": {
+    "Independence": {
+      "Declaration": "14 May 1948",
+      "UN Admission": "11 May 1949"
+    },
+    "Ancient History": "Home to Israelite and Jewish kingdoms, influenced by various empires",
+    "19th Century": "Rise of Zionism and Jewish immigration",
+    "British Mandate": "After World War I, under League of Nations",
+    "1947 Partition Plan": "UN-approved, led to civil war",
+    "Independence and Wars": {
+      "Declaration": "14 May 1948",
+      "First Arab-Israeli War": "Started 15 May 1948",
+      "Territorial Changes": "More territory than UN plan, no new Arab state",
+      "Six Day War": "1967, occupation of Palestinian territories"
+    },
+    "Recent Developments": "Peace treaties and normalization with Arab countries, ongoing Israeli–Palestinian conflict"
+  },
+  "Economy": {
+    "Status": "Developed country",
+    "Dependence": "Technology, manufacturing, agriculture, and services",
+    "Major Industries": ["Technology", "Manufacturing", "Agriculture", "Services"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 537.140,
+      "Per Capita (USD)": 54771
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 521.688,
+      "Per Capita (USD)": 53195
+    },
+    "Currency": "New shekel (₪) (ILS)",
+    "Gini Index": 34.8,
+    "HDI": {
+      "Score": 0.919,
+      "Rank": "22nd"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": ["United Nations", "OECD", "World Trade Organization", "International Monetary Fund"]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+2:00 (IST)", "UTC+3:00 (IDT)"],
+    "Date Format": ["יי-חח-שששש (AM)", "dd-mm-yyyy (CE)"],
+    "Driving Side": "Right",
+    "Calling Code": "+972",
+    "ISO 3166 Code": "IL",
+    "Internet TLD": ".il",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Passover (April)",
+      "Independence Day (April/May)",
+      "Shavuot (May/June)",
+      "Rosh Hashanah (September)",
+      "Yom Kippur (September/October)",
+      "Sukkot (September/October)",
+      "Hanukkah (December)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of Jewish, Arab, and Western influences",
+    "Cultural Contributions": ["Literature", "Music", "Cuisine", "Art"],
+    "Unique Features": ["Home to many UNESCO World Heritage Sites", "High standards of living in the Middle East"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.5,
+    "Exports Growth": "Driven by technology and services",
+    "Inflation Rate": "2.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Technology", "Services"],
+      "Challenges": "Balancing economic growth with political stability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "TA-35",
+        "Expectation": "Steady growth into 2024"
       },
-      "Recent_Developments": "Peace treaties and normalization with Arab countries, ongoing Israeli–Palestinian conflict"
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
     },
-    "Geography_and_Environment": {
-      "Region": "Southern Levant",
-      "Climate": "Predominantly Mediterranean",
-      "Environmental_Challenges": "Details of environmental issues and efforts"
+    "Cultural Heritage": {
+      "Influence": "Significant on Middle Eastern culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
     },
-    "Demographics": {
-      "Population_Growth": "Rapid increase from 2008 to 2024",
-      "Ethnic_Composition": "Detailed breakdown of ethnic groups",
-      "Religious_Composition": "Details of religious affiliations in Israel"
+    "Technology and Innovation": {
+      "Growth Sectors": ["Technology", "Agriculture", "Manufacturing"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
     },
-    "Government_and_Politics": {
-      "Political_System": "Parliamentary system with proportional representation",
-      "Head_of_Government": "Prime minister elected by Knesset",
-      "International_Relations": "Participation in various global organizations"
-    },
-    "Economy": {
-      "Economic_Status": {
-        "GDP_PPP": "$537.140 billion",
-        "GDP_Nominal": "$521.688 billion"
-      },
-      "Economic_Position": "Most developed in the Middle East, rich in technology",
-      "OECD_Membership": "Since 2010",
-      "Living_Standards": "High standards of living in the Middle East"
-    },
-    "Culture": {
-      "Influences": "Cultural influences and heritage",
-      "Local_Customs": "Unique customs and traditions of Israel"
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air, and Sea transport",
+    "Key Transport Hubs": ["Tel Aviv", "Jerusalem", "Haifa"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Occasional protests and political unrest",
+    "Economic Hardships": "High cost of living",
+    "Natural Disasters": ["Earthquakes"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "83.2 years",
+    "Infant Mortality Rate": "3.1 deaths/1,000 live births",
+    "Health Expenditure of GDP": "7.5% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "5.2% (2020)",
+    "Literacy Rate": {
+      "Total": "97.8%",
+      "Male": "98.5%",
+      "Female": "97.1%"
     }
   }
 }
