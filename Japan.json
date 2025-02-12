@@ -1,50 +1,197 @@
 {
-  "Country": "Japan",
-  "OfficialName": "Nippon-koku or Nihon-koku",
-  "Geography": {
-    "Region": "East Asia",
-    "Location": "Northwest Pacific Ocean",
-    "MainIslands": ["Hokkaido", "Honshu", "Shikoku", "Kyushu", "Okinawa"],
-    "TotalIslands": 14,125,
-    "RingOfFire": true
+  "Name": {
+    "Common": "Japan",
+    "Official": "Nippon-koku or Nihon-koku",
+    "Japanese": "日本国"
   },
-  "Capital": "Tokyo",
-  "OfficialLanguage": "Japanese",
+  "Symbols": {
+    "Flag": "A white field with a red disc in the center",
+    "Emblem": "A gold chrysanthemum with sixteen petals",
+    "Motto": "None officially",
+    "National Anthem": {
+      "Title": "Kimigayo",
+      "Duration": "1 minute and 2 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Asia",
+    "Region": "East Asia",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Tokyo",
+        "Latitude": "35°41′N",
+        "Longitude": "139°41′E"
+      }
+    },
+    "Location": "Northwest Pacific Ocean",
+    "Area": {
+      "Total (km2)": 377975,
+      "Rank": "62nd",
+      "Water Percentage": "0.8%"
+    },
+    "Main Islands": ["Hokkaido", "Honshu", "Shikoku", "Kyushu", "Okinawa"],
+    "Total Islands": 14125,
+    "Ring of Fire": true,
+    "Terrain": ["Mostly rugged and mountainous"],
+    "Climate": ["Varies from tropical in the south to cool temperate in the north"],
+    "Natural Resources": ["Fish, timber, minerals"],
+    "Time Zones": ["UTC+9 (JST)"],
+    "Largest City": "Tokyo"
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 124285000,
+      "Density (per km2)": 330
+    },
+    "Ethnic Groups": {
+      "2023": {
+        "Japanese": 98.5,
+        "Others": 1.5
+      }
+    },
+    "Languages": {
+      "Official": ["Japanese"]
+    },
+    "Religion": {
+      "2023": {
+        "Shinto": 70.4,
+        "Buddhism": 69.8,
+        "Christianity": 1.5,
+        "Other": 6.9
+      }
+    },
+    "Demonym": "Japanese"
+  },
   "Government": {
     "Type": "Unitary parliamentary constitutional monarchy",
-    "Emperor": "Naruhito",
-    "PrimeMinister": "Fumio Kishida"
-  },
-  "Legislature": {
-    "UpperHouse": "House of Councillors",
-    "LowerHouse": "House of Representatives"
+    "Leaders": {
+      "Emperor": "Naruhito",
+      "Prime Minister": "Fumio Kishida"
+    },
+    "Legislature": {
+      "Upper House": "House of Councillors",
+      "Lower House": "House of Representatives"
+    },
+    "Constitution": "3 May 1947"
   },
   "History": {
-    "FirstInhabitants": "Paleolithic period, 38-39,000 years ago",
-    "ImperialDynasty": "Established 539 AD",
+    "First Inhabitants": "Paleolithic period, 38-39,000 years ago",
+    "Imperial Dynasty": "Established 539 AD",
     "Periods": ["Heian", "Kamakura", "Edo", "Meiji", "Taisho", "Showa", "Heisei"],
-    "ModernEra": {
-      "MeijiRestoration": "1868",
-      "WorldWarII": "1937-1945",
+    "Modern Era": {
+      "Meiji Restoration": "1868",
+      "World War II": "1937-1945",
       "Constitution": "Adopted May 3, 1947"
     }
   },
-  "Area": "377,975 km2",
-  "Population_2023": "124,285,000",
   "Economy": {
-    "GDP_PPP_2023": "$6.495 trillion",
-    "GDP_Nominal_2023": "$4.231 trillion",
-    "Industries": ["Automotive", "Robotics", "Electronics"]
+    "Status": "Developed country",
+    "Dependence": "Technology, manufacturing, and services",
+    "Major Industries": ["Automotive", "Robotics", "Electronics", "Finance", "Tourism"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 6495,
+      "Per Capita (USD)": 52234
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 4231,
+      "Per Capita (USD)": 34053
+    },
+    "Currency": "Japanese yen (JPY)"
   },
-  "Culture": {
-    "TraditionalArts": ["Bonsai", "Ikebana", "Tea Ceremony"],
-    "ModernCulture": ["Manga", "Anime", "Video Games"],
-    "Music": ["J-pop", "Anison", "Kayōkyoku"],
-    "Cinema": "Internationally recognized"
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": ["United Nations", "OECD", "G7", "G20", "World Trade Organization"]
   },
-  "EnvironmentalConcerns": "Pollution and natural disasters due to location in the Ring of Fire",
-  "InternationalInfluence": {
-    "GlobalLeader": ["Technology", "Economy", "Culture"],
-    "UNPeacekeeping": "Active contributor"
+  "Miscellaneous": {
+    "Time Zone": ["UTC+9 (JST)"],
+    "Date Format": ["yyyy-mm-dd"],
+    "Driving Side": "Left",
+    "Calling Code": "+81",
+    "ISO 3166 Code": "JP",
+    "Internet TLD": ".jp",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Coming of Age Day (January)",
+      "National Foundation Day (February 11)",
+      "Emperor's Birthday (February 23)",
+      "Vernal Equinox Day (March 20)",
+      "Showa Day (April 29)",
+      "Constitution Memorial Day (May 3)",
+      "Greenery Day (May 4)",
+      "Children's Day (May 5)",
+      "Marine Day (July)",
+      "Mountain Day (August 11)",
+      "Respect for the Aged Day (September)",
+      "Autumnal Equinox Day (September 23)",
+      "Health and Sports Day (October)",
+      "Culture Day (November 3)",
+      "Labor Thanksgiving Day (November 23)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of traditional and modern influences",
+    "Cultural Contributions": ["Art", "Music", "Literature", "Cuisine", "Fashion"],
+    "Unique Features": ["Home to many UNESCO World Heritage Sites", "Influence in technology and pop culture"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 1.5,
+    "Exports Growth": "Driven by technology and automotive industries",
+    "Inflation Rate": "1.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Technology", "Manufacturing"],
+      "Challenges": "Balancing economic growth with an aging population"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "Nikkei 225",
+        "Expectation": "Steady growth into 2024"
+      },
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on East Asian culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Technology", "Robotics", "Manufacturing"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air, and Sea transport",
+    "Key Transport Hubs": ["Tokyo", "Osaka", "Nagoya"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Occasional protests and political unrest",
+    "Economic Hardships": "Aging population and deflation",
+    "Natural Disasters": ["Earthquakes", "Tsunamis", "Volcanic eruptions"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "84.6 years",
+    "Infant Mortality Rate": "1.9 deaths/1,000 live births",
+    "Health Expenditure of GDP": "10.9% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "3.5% (2020)",
+    "Literacy Rate": {
+      "Total": "99%",
+      "Male": "99%",
+      "Female": "99%"
+    }
   }
 }
