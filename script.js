@@ -43,13 +43,7 @@ function fetchCountryData(countryName) {
             return response.json();
         })
         .then(data => {
-            // Check if the fetched data has the expected structure
-            if (data[countryName]) {
-                const country = data[countryName];
-                displayCountryData(country);
-            } else {
-                throw new Error('Country data structure is not as expected');
-            }
+            displayCountryData(data);
         })
         .catch(error => {
             console.error('Error fetching country data:', error);
@@ -62,56 +56,26 @@ function displayCountryData(country) {
     document.getElementById('info').innerHTML = `
         <h2>${country.Name.Common}</h2>
         <p><strong>Official Name:</strong> ${country.Name.Official}</p>
-        <canvas id="ethnic-chart" width="400" height="400"></canvas>
-        <canvas id="religion-chart" width="400" height="400"></canvas>
+        <p><strong>Capital City:</strong> ${country.Geography["Capital City"]}</p>
+        <p><strong>Largest City:</strong> ${country.Geography["Largest City"]}</p>
+        <p><strong>Major Cities:</strong> ${country.Geography["Major Cities"].join(', ')}</p>
+        <p><strong>Area:</strong> ${country.Geography.Area["Total (km2)"]} km²</p>
+        <p><strong>Population (2022 Estimate):</strong> ${country.Demographics.Population["2022 Estimate"]}</p>
+        <p><strong>Government Type:</strong> ${country.Government.Type}</p>
+        <p><strong>President:</strong> ${country.Government.President}</p>
+        <p><strong>Prime Minister:</strong> ${country.Government["Prime Minister"]}</p>
+        <p><strong>Upper House:</strong> ${country.Government.Legislature["Upper House"]}</p>
+        <p><strong>Lower House:</strong> ${country.Government.Legislature["Lower House"]}</p>
+        <p><strong>GDP (PPP 2023):</strong> ${country.Economy["GDP (PPP 2023) Total (Trillion USD)"]} Trillion USD</p>
+        <p><strong>GDP (Nominal 2023):</strong> ${country.Economy["GDP (Nominal 2023) Total (Trillion USD)"]} Trillion USD</p>
+        <p><strong>GDP per Capita (PPP USD):</strong> ${country.Economy["GDP per Capita (PPP USD)"]}</p>
+        <p><strong>GDP per Capita (Nominal USD):</strong> ${country.Economy["GDP per Capita (Nominal USD)"]}</p>
+        <p><strong>Primary Religion:</strong> ${country.Demographics.Religion.Primary}</p>
+        <p><strong>Other Religions:</strong> ${Object.entries(country.Demographics.Religion.Minorities).map(([key, value]) => `${key}: ${value}`).join(', ')}</p>
+        <p><strong>Human Development Index (2021):</strong> ${country.Miscellaneous["Human Development Index (2021)"]}</p>
+        <p><strong>Currency:</strong> ${country.Miscellaneous.Currency}</p>
+        <p><strong>Calling Code:</strong> ${country.Miscellaneous["Calling Code"]}</p>
+        <p><strong>Internet TLD:</strong> ${country.Miscellaneous["Internet TLD"].join(', ')}</p>
+        <p><strong>UNESCO World Heritage Sites:</strong> ${country.Miscellaneous["UNESCO World Heritage Sites"]}</p>
     `;
-
-    // Generate pie charts for ethnic groups and religious demographics
-    generatePieChart(
-        'ethnic-chart',
-        'Ethnic Groups (2019 estimates)',
-        country['Languages and Ethnic Groups']['Ethnic Groups (2019 estimates)']
-    );
-
-    generatePieChart(
-        'religion-chart',
-        'Religious Demographics',
-        {
-            'Primary': country.Religion.Primary,
-            'Minorities': country.Religion.Minorities
-        }
-    );
-}
-
-// Function to generate a pie chart
-function generatePieChart(elementId, title, data) {
-    const ctx = document.getElementById(elementId).getContext('2d');
-    const labels = Object.keys(data);
-    const values = Object.values(data).map(v => parseFloat(v));
-
-    new Chart(ctx, {
-        type: 'pie',
-        data: {
-            labels: labels,
-            datasets: [{
-                data: values,
-                backgroundColor: [
-                    '#FF6384',
-                    '#36A2EB',
-                    '#FFCE56',
-                    '#4BC0C0',
-                    '#9966FF',
-                    '#FF9F40'
-                ]
-            }]
-        },
-        options: {
-            responsive: true,
-            maintainAspectRatio: false,
-            title: {
-                display: true,
-                text: title
-            }
-        }
-    });
 }
