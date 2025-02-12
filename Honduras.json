@@ -1,78 +1,191 @@
 {
-  "Honduras": {
-    "FullName": "Republic of Honduras",
-    "Local_Name": "República de Honduras",
-    "Capital": "Tegucigalpa",
-    "Coordinates": "14°6′N 87°13′W",
-    "Area": {
-      "Total_km2": "112,492",
-      "Rank": 101
+  "Name": {
+    "Common": "Honduras",
+    "Official": "Republic of Honduras",
+    "Native": {
+      "Spanish": "República de Honduras"
+    }
+  },
+  "Symbols": {
+    "Flag": "Three equal horizontal bands of blue, white, and blue with five blue stars arranged in an X pattern centered in the white band",
+    "Emblem": "A triangle with volcanoes, a rainbow, and two towers",
+    "Motto": "Libre, Soberana e Independiente (Free, Sovereign and Independent)",
+    "Anthem": {
+      "Title": "Himno Nacional de Honduras",
+      "Duration": "4 minutes and 40 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "North America",
+    "Region": "Central America",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Tegucigalpa",
+        "Latitude": "14°6′N",
+        "Longitude": "87°13′W"
+      }
     },
+    "Location": "Central America, bordered by Guatemala, El Salvador, and Nicaragua",
+    "Area": {
+      "Total (km2)": 112492,
+      "Rank": "101",
+      "Water Percentage": "N/A"
+    },
+    "Borders": ["Guatemala", "El Salvador", "Nicaragua"],
+    "Terrain": ["Interior plateau of hills and mountains with narrow coastal plains"],
+    "Climate": ["Subtropical in lowlands, temperate in mountains"],
+    "Natural Resources": ["Timber", "Gold", "Silver", "Copper", "Lead", "Zinc", "Iron ore", "Antimony", "Coal", "Fish", "Hydropower"],
+    "Time Zones": ["UTC−6"],
+    "Largest City": "Tegucigalpa",
+    "Topographical Regions": ["Interior plateau of hills and mountains", "Caribbean lowlands", "Pacific lowlands"],
+    "Highest Point": "Cerro Las Minas, 2,870 m (9,420 ft)"
+  },
+  "Demographics": {
     "Population": {
-      "Estimate_2023": "9,744,000",
-      "Density_per_km2": "85",
-      "Rank": 95
+      "2023 Estimate": 9744000,
+      "Density per km2": 85,
+      "Rank": "95"
+    },
+    "Ethnic Groups": {
+      "2016": {
+        "Mestizo": 90,
+        "Indigenous": 7,
+        "Black": 2,
+        "White": 1
+      }
     },
     "Languages": {
-      "Official": "Spanish",
-      "Ethnic_Groups_2016": {
-        "Mestizo": "90%",
-        "Indigenous": "7%",
-        "Black": "2%",
-        "White": "1%"
+      "Official": ["Spanish"]
+    },
+    "Religion": {
+      "2020": {
+        "Christianity": 75.7,
+        "Catholicism": 38.1,
+        "Protestantism": 37.6,
+        "No Religion": 16.2,
+        "Other": 8.1
       }
     },
-    "Religion_2020": {
-      "Christianity": "75.7%",
-      "Catholicism": "38.1%",
-      "Protestantism": "37.6%",
-      "No_Religion": "16.2%",
-      "Other": "8.1%"
-    },
-    "Government": {
-      "Type": "Unitary presidential republic",
+    "Demonym": "Honduran"
+  },
+  "Government": {
+    "Type": "Unitary presidential republic",
+    "Leaders": {
       "President": "Xiomara Castro",
-      "Vice_Presidents": ["Salvador Nasralla", "Doris Gutiérrez", "Renato Florentino"],
-      "Legislature": "National Congress"
+      "Vice Presidents": ["Salvador Nasralla", "Doris Gutiérrez", "Renato Florentino"]
     },
-    "Independence": {
-      "From_Spain": "15 September 1821",
-      "From_First_Mexican_Empire": "1 July 1823",
-      "As_Honduras": "5 November 1838"
+    "Legislature": "National Congress",
+    "Constitution": "11 January 1982"
+  },
+  "History": {
+    "Independence from Spain": "15 September 1821",
+    "Independence from First Mexican Empire": "1 July 1823",
+    "Independence as Honduras": "5 November 1838"
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Agriculture, mining, and manufacturing",
+    "Major Industries": ["Agriculture", "Mining", "Manufacturing"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 75.030,
+      "Per Capita (USD)": 7162
     },
-    "Economy": {
-      "GDP_PPP_2023_Estimate": {
-        "Total": "$75.030 billion",
-        "Per_Capita": "$7,162"
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 33.992,
+      "Per Capita (USD)": 3245
+    },
+    "Currency": "Lempira (HNL)"
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": ["United Nations", "Organization of American States", "Central American Integration System"]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC−6"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+504",
+    "ISO 3166 Code": "HN",
+    "Internet TLD": ".hn",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Easter (April)",
+      "Labor Day (May 1)",
+      "Independence Day (September 15)",
+      "Morazán Day (October 3)",
+      "Army Day (October 21)",
+      "Christmas Day (December 25)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of Indigenous, Spanish, and African influences",
+    "Cultural Contributions": ["Traditional music and dance", "Cuisine", "Art"],
+    "Unique Features": ["Home to ancient Mayan ruins of Copán", "Diverse ecosystems and wildlife"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.0,
+    "Exports Growth": "Driven by agriculture and manufacturing",
+    "Inflation Rate": "4.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Agriculture", "Manufacturing"],
+      "Challenges": "Balancing economic growth with environmental sustainability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "N/A",
+        "Expectation": "Steady growth into 2024"
       },
-      "GDP_Nominal_2023_Estimate": {
-        "Total": "$33.992 billion",
-        "Per_Capita": "$3,245"
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
       }
-    },
-    "Healthcare": {
-      "Life_Expectancy_2023": "71.9 years",
-      "Infant_Mortality_Rate_2023": "15.4 deaths/1,000 live births",
-      "Health_Expenditure_of_GDP_2020": "9%"
-    },
-    "Education": {
-      "Expenditures_of_GDP_2020": "6.4%",
-      "Literacy_Rate_2019": "88.5%"
-    },
-    "Geography": {
-      "Topographical_Regions": ["Interior plateau of hills and mountains", "Caribbean lowlands", "Pacific lowlands"],
-      "Highest_Point": "Cerro Las Minas, 2,870 m (9,420 ft)"
-    },
-    "International_Relations": {
-      "Climate": "Subtropical in lowlands, temperate in mountains",
-      "Major_Environmental_Issues": ["Deforestation", "Soil erosion", "Pollution of water sources"],
-      "International_Agreements": ["Biodiversity", "Climate Change", "Paris Agreement"]
-    },
-    "Miscellaneous": {
-      "Currency": "Lempira (HNL)",
-      "Time_Zone": "UTC−6",
-      "Internet_TLD": ".hn",
-      "ISO_3166_Code": "HN"
     }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Central American culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Agriculture", "Mining", "Manufacturing"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Air, and Sea transport",
+    "Key Transport Hubs": ["Tegucigalpa", "San Pedro Sula", "La Ceiba"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Occasional protests and political unrest",
+    "Economic Hardships": "High unemployment and poverty rates",
+    "Natural Disasters": ["Hurricanes", "Floods"],
+    "Health Issues": ["Dengue Fever", "Zika Virus"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "71.9 years",
+    "Infant Mortality Rate": "15.4 deaths/1,000 live births",
+    "Health Expenditure of GDP": "9% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "6.4% (2020)",
+    "Literacy Rate": {
+      "Total": "88.5% (2019)",
+      "Male": "89.8%",
+      "Female": "87.2%"
+    }
+  },
+  "International Relations": {
+    "Climate": "Subtropical in lowlands, temperate in mountains",
+    "Major Environmental Issues": ["Deforestation", "Soil erosion", "Pollution of water sources"],
+    "International Agreements": ["Biodiversity", "Climate Change", "Paris Agreement"]
   }
 }
