@@ -1,111 +1,182 @@
 {
-    "Guinea-Bissau": {
-        "Official Names": {
-            "Portuguese": "República da Guiné-Bissau",
-            "Fula": "𞤘𞤭𞤲𞤫 𞤄𞤭𞤧𞤢𞥄𞤱𞤮",
-            "Mandinka": "ߖߌߣߍ ߺ ߓߌߛߊߥߏ߫"
-        },
-        "Symbols": {
-            "Flag": "Flag of Guinea-Bissau",
-            "Emblem": "Emblem of Guinea-Bissau",
-            "Motto": "Unidade, Luta, Progresso (Unity, Struggle, Progress)",
-            "Anthem": {
-                "Title": "Esta É a Nossa Pátria Bem Amada",
-                "Translation": "This is Our Beloved Homeland",
-                "Duration": "1 minute and 1 second"
-            }
-        },
-        "Location": {
-            "Continent": "West Africa",
-            "Borders": {
-                "North": "Senegal",
-                "Southeast": "Guinea"
-            },
-            "Capital and Largest City": "Bissau",
-            "Coordinates": "11°52′N 15°36′W"
-        },
-        "Demographics": {
-            "Population": {
-                "2023 Estimate": "2,078,820",
-                "Density": "46.9 per km2"
-            },
-            "Ethnic Groups (2019)": {
-                "Balanta": "30%",
-                "Fula": "30%",
-                "Manjak": "14%",
-                "Mandinka": "13%",
-                "Papel": "7%",
-                "Unspecified": "6%"
-            },
-            "Religion (2020)": {
-                "Islam": "46.1%",
-                "Traditional Faiths": "30.6%",
-                "Christianity": "18.9%",
-                "Others / None": "4.4%"
-            },
-            "Languages": {
-                "Official": "Portuguese",
-                "Spoken": ["Guinea-Bissau Creole", "English", "French", "Arabic", "Balanta", "Hassaniya", "Jola-Fonyi", "Mandinka", "Mandjak", "Mankanya", "Noon", "Pulaar", "Serer", "Soninke"]
-            }
-        },
-        "Government": {
-            "Type": "Unitary semi-presidential republic",
-            "President": "Umaro Sissoco Embaló",
-            "Prime Minister": "Rui Duarte de Barros",
-            "Legislature": "National People's Assembly",
-            "Independence": {
-                "Declared": "24 September 1973",
-                "Recognized": "10 September 1974"
-            }
-        },
-        "Geography": {
-            "Total Area": "36,125 square kilometers",
-            "Water Percentage": "22.4%"
-        },
-        "Economy": {
-            "GDP (PPP) 2023 Estimate": {
-                "Total": "$6 billion",
-                "Per Capita": "$3,088"
-            },
-            "GDP (Nominal) 2023 Estimate": {
-                "Total": "$2 billion",
-                "Per Capita": "$1,028"
-            },
-            "Gini Index (2010)": "50.7",
-            "HDI (2021)": "0.483"
-        },
-        "Infrastructure": {
-            "Currency": "West African CFA franc (XOF)",
-            "Time Zone": "UTC (GMT)",
-            "Driving Side": "right",
-            "Calling Code": "+245",
-            "ISO 3166 Code": "GW",
-            "Internet TLD": ".gw"
-        },
-        "Society": {
-            "Languages Spoken": [
-             { "Portuguese Creole as First Language": "54%"}, 
-             {  "Portuguese (as Second Language)": "33%"},
-             {  "Native African Languages": "Various"}
-            ]
-            
-},
-"Per-Capita GDP": "One of the lowest in the world",
-"Religious Diversity": "Islam, Christianity, and traditional faiths without a single majority"
-},
-"Culture": {
-"Historical Background": {
-"Kingdom of Kaabu": "Part of the Mali Empire",
-"Portuguese Empire Rule": "Since the 16th century",
-"Portuguese Guinea": "Colonised in the 19th century",
-"Independence": {
-"Declared": "1973",
-"Recognised": "1974",
-"Capital Name Added": "To avoid confusion with Guinea"
-}
-},
-"Linguistic Unity": "Guinea-Bissau Creole as the national language and language of unity"
-},
-"International Affiliations": ["United Nations", "African Union", "Economic Community of West African States", "Organisation of Islamic Cooperation", "Community of Portuguese Language Countries", "Organisation internationale de la Francophonie", "South Atlantic Peace and Cooperation Zone", "Latin Union (defunct)"]
-}
-}
+  "Name": {
+    "Common": "Guinea-Bissau",
+    "Official": "Republic of Guinea-Bissau",
+    "Native": {
+      "Portuguese": "República da Guiné-Bissau",
+      "Fula": "𞤘𞤭𞤲𞤫 𞤄𞤭𞤧𞤢𞥄𞤱𞤮",
+      "Mandinka": "ߖߌߣߍ ߺ ߓߌߛߊߥߏ߫"
+    }
+  },
+  "Symbols": {
+    "Flag": "A vertical bicolor of yellow and green with a horizontal red stripe at the hoist and a black star in the center of the red stripe",
+    "Emblem": "A black star, a seashell, and a red scroll with the national motto 'Unidade, Luta, Progresso'",
+    "Motto": "Unidade, Luta, Progresso (Unity, Struggle, Progress)",
+    "Anthem": {
+      "Title": "Esta É a Nossa Pátria Bem Amada",
+      "Translation": "This is Our Beloved Homeland",
+      "Duration": "1 minute and 1 second"
+    }
+  },
+  "Geography": {
+    "Continent": "Africa",
+    "Region": "West Africa",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Bissau",
+        "Latitude": "11°52′N",
+        "Longitude": "15°36′W"
+      }
+    },
+    "Location": "West Africa, bordered by Senegal to the north and Guinea to the southeast",
+    "Area": {
+      "Total (km2)": 36125,
+      "Rank": "135",
+      "Water Percentage": "22.4%"
+    },
+    "Borders": ["Senegal", "Guinea"],
+    "Terrain": ["Mostly low coastal plain with swamps of Guinean mangroves rising to savannas in the east"],
+    "Climate": ["Tropical; hot and humid with a monsoonal-type rainy season (June to November) and a dry season (December to May)"],
+    "Natural Resources": ["Fish", "Timber", "Phosphates", "Bauxite", "Clay", "Granite", "Limestone"],
+    "Time Zones": ["UTC (GMT)"],
+    "Largest City": "Bissau"
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 2078820,
+      "Density per km2": 46.9
+    },
+    "Ethnic Groups": {
+      "2019": {
+        "Balanta": 30,
+        "Fula": 30,
+        "Manjak": 14,
+        "Mandinka": 13,
+        "Papel": 7,
+        "Unspecified": 6
+      }
+    },
+    "Languages": {
+      "Official": ["Portuguese"],
+      "Spoken": ["Guinea-Bissau Creole", "English", "French", "Arabic", "Balanta", "Hassaniya", "Jola-Fonyi", "Mandinka", "Mandjak", "Mankanya", "Noon", "Pulaar", "Serer", "Soninke"]
+    },
+    "Religion": {
+      "2020": {
+        "Islam": 46.1,
+        "Traditional Faiths": 30.6,
+        "Christianity": 18.9,
+        "Others / None": 4.4
+      }
+    },
+    "Demonym": "Bissau-Guinean"
+  },
+  "Government": {
+    "Type": "Unitary semi-presidential republic",
+    "Leaders": {
+      "President": "Umaro Sissoco Embaló",
+      "Prime Minister": "Rui Duarte de Barros"
+    },
+    "Legislature": "National People's Assembly",
+    "Constitution": "16 May 1984"
+  },
+  "History": {
+    "Kingdom of Kaabu": "Part of the Mali Empire",
+    "Portuguese Empire Rule": "Since the 16th century",
+    "Portuguese Guinea": "Colonized in the 19th century",
+    "Independence": {
+      "Declared": "24 September 1973",
+      "Recognized": "10 September 1974",
+      "Capital Name Added": "To avoid confusion with Guinea"
+    }
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Agriculture, fishing, and forestry",
+    "Major Industries": ["Agriculture", "Fishing", "Forestry", "Mining"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 6,
+      "Per Capita (USD)": 3088
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 2,
+      "Per Capita (USD)": 1028
+    },
+    "Currency": "West African CFA franc (XOF)",
+    "Gini Index": "50.7 (2010)",
+    "HDI": "0.483 (2021)"
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": ["United Nations", "African Union", "Economic Community of West African States", "Organisation of Islamic Cooperation", "Community of Portuguese Language Countries", "Organisation internationale de la Francophonie", "South Atlantic Peace and Cooperation Zone"]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC (GMT)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+245",
+    "ISO 3166 Code": "GW",
+    "Internet TLD": ".gw",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Heroes' Day (January 20)",
+      "International Women's Day (March 8)",
+      "Labour Day (May 1)",
+      "Independence Day (September 24)",
+      "National Day of Culture (November 15)",
+      "Christmas Day (December 25)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of African traditions and Portuguese influences",
+    "Cultural Contributions": ["Traditional music and dance", "Cuisine", "Art"],
+    "Linguistic Unity": "Guinea-Bissau Creole as the national language and language of unity"
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 4.0,
+    "Exports Growth": "Driven by agriculture and fishing",
+    "Inflation Rate": "3.5%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Agriculture", "Fishing"],
+      "Challenges": "Balancing economic growth with environmental sustainability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "N/A",
+        "Expectation": "Steady growth into 2024"
+      },
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on West African culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Agriculture", "Fishing"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Air, and Sea transport",
+    "Key Transport Hubs": ["Bissau", "Bafatá", "Gabú"]
+  },
+  "Current Challenges": {
+    "Corruption": "Significant issue",
+    "Judicial Independence": "Compromised",
+    "Freedom of Expression": "Hostile environment for journalists",
+    "Human Rights": "Increased abuses against defenders",
+    "Women and Girls' Rights": "High levels of gender-based violence",
+    ▋
