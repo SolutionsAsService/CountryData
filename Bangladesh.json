@@ -1,154 +1,148 @@
 {
-  "Bangladesh":{
-  "FullName": "People's Republic of Bangladesh",
-  "bengali_name": "গণপ্রজাতন্ত্রী বাংলাদেশ",
-  "flag": "National Flag of Bangladesh",
-  "emblem": "National Emblem of Bangladesh",
-  "anthem": {
-    "title": "Amar Shonar Bangla",
-    "english_translation": "My Golden Bengal",
-    "duration": "2 minutes and 15 seconds"
+  "Name": {
+    "Common": "Bangladesh",
+    "Official": "People's Republic of Bangladesh",
+    "Bengali": "গণপ্রজাতন্ত্রী বাংলাদেশ"
   },
-  "march": {
-    "title": "Notuner Gaan",
-    "english_translation": "The Song of Youth"
+  "Symbols": {
+    "Flag": "National Flag of Bangladesh",
+    "Emblem": "National Emblem of Bangladesh",
+    "Anthem": {
+      "Title": "Amar Shonar Bangla",
+      "Translation": "My Golden Bengal",
+      "Duration": "2 minutes and 15 seconds"
+    },
+    "March": {
+      "Title": "Notuner Gaan",
+      "Translation": "The Song of Youth"
+    },
+    "Slogan": {
+      "Bengali": "জয় বাংলা",
+      "English": "Victory to Bengal"
+    },
+    "Seal": "Official Seal of the Government of Bangladesh"
   },
-  "slogan": {
-    "bengali": "জয় বাংলা",
-    "english": "Victory to Bengal"
+  "Geography": {
+    "Capital City": "Dhaka",
+    "Largest City": "Dhaka",
+    "Major Cities": ["Chittagong", "Khulna", "Rajshahi"],
+    "Coordinates": {
+      "Latitude": "23°45′50″N",
+      "Longitude": "90°23′20″E"
+    },
+    "Area": {
+      "Total (km2)": 148460,
+      "Land (km2)": 130170,
+      "Water (km2)": 18290,
+      "Water Percentage": 6.4
+    },
+    "Region": "South Asia",
+    "Terrain": ["Plains", "Rivers", "Hills"],
+    "Climate": "Tropical",
+    "Borders": ["India", "Myanmar", "Bay of Bengal"]
   },
-  "seal": "Official Seal of the Government of Bangladesh",
-  "capital": "Dhaka",
-  "coordinates": {
-    "latitude": "23°45′50″N",
-    "longitude": "90°23′20″E"
-  },
-  "official_language": "Bengali",
-  "minority_languages": [
-    "Atong", "Bawm", "Bishnupriya Manipuri", "Chakma", "Garo", "Hajong", "Hakha-Chin", 
-    "Kharia", "Khasi", "Khumi", "Koch", "Koda", "Kokborok", "Kol", "Kurukh", 
-    "Lyngngam", "Manipuri", "Marma", "Megam", "Mizo", "Mru", "Mundari", "Odia", 
-    "Oraon Sadri", "Pangkhua", "Pnar", "Rakhine", "Riang", "Rohingya", "Santali", 
-    "Sauria Paharia", "Tangchangya", "Telugu", "Tippera", "Urdu", "Usoi", "War"
-  ],
-  "ethnic_groups": {
-    "2022": {
-      "bengali": "98.2-99%",
-      "others": "1-1.8%"
+  "Government": {
+    "Type": "Unitary parliamentary republic",
+    "President": "Mohammed Shahabuddin",
+    "Prime Minister": "Sheikh Hasina",
+    "Speaker of Parliament": "Shirin Sharmin Chaudhury",
+    "Chief Justice": "Obaidul Hassan",
+    "Legislature": {
+      "Upper House": "N/A",
+      "Lower House": "Jatiya Sangsad"
+    },
+    "Independence": {
+      "Declaration": "26 March 1971",
+      "Victory": "16 December 1971",
+      "Current Constitution": "16 December 1972"
     }
   },
-  "religion": {
-    "2022_census": {
-      "islam": "91.04%",
-      "hinduism": "7.95%",
-      "buddhism": "0.61%",
-      "christianity": "0.30%",
-      "other": "0.12%"
-    }
+  "History": {
+    "Ancient Bengal": "Known as Gangaridai, a bastion of pre-Islamic kingdoms.",
+    "Muslim Conquests": "After 1204, led to the sultanate and Mughal periods.",
+    "Bengal Sultanate": "An independent Bengal Sultanate was established.",
+    "Mughal Bengal": "Wealthy Mughal Bengal, important in regional affairs, trade, and diplomacy.",
+    "British Era": {
+      "Bengal Presidency": "Bengal's administrative jurisdiction reached its greatest extent.",
+      "Eastern Bengal and Assam": "Creation in 1905 set a precedent for Bangladesh's emergence."
+    },
+    "Partition of Bengal": "Bengal was divided during the Partition of India in 1947.",
+    "Dominion of Pakistan": {
+      "East Bengal": "Became East Pakistan in 1947.",
+      "Dhaka Legislative Capital": "Dhaka became the legislative capital."
+    },
+    "Liberation War": "In 1971, led to the independence of Bangladesh.",
+    "Bangladesh Genocide": "Massacre of pro-independence Bengali civilians."
   },
-  "demonym": "Bangladeshi",
-  "government_type": "Unitary parliamentary republic",
-  "leaders": {
-    "president": "Mohammed Shahabuddin",
-    "prime_minister": "Sheikh Hasina",
-    "speaker_of_parliament": "Shirin Sharmin Chaudhury",
-    "chief_justice": "Obaidul Hassan"
+  "Current Status": {
+    "Secular State": "First constitutionally secular state in South Asia in 1972.",
+    "Islam State Religion": "Islam declared state religion in 1988.",
+    "Supreme Court Reaffirmation": "In 2010, the Supreme Court reaffirmed secular principles."
   },
-  "legislature": "Jatiya Sangsad",
-  "independence": {
-    "declaration": "26 March 1971",
-    "victory": "16 December 1971",
-    "current_constitution": "16 December 1972"
+  "Economy": {
+    "GDP (PPP 2023) Total (Billion USD)": 1617,
+    "GDP per Capita (PPP USD)": 9399,
+    "GDP (Nominal 2023) Total (Billion USD)": 469.346,
+    "GDP per Capita (Nominal USD)": 2728,
+    "Main Industries": ["Textiles", "Agriculture", "Shipbuilding"],
+    "Currency": "Taka (৳) (BDT)",
+    "Gini Index (2022)": 49.9,
+    "HDI (2021)": 0.661
   },
-  "geography": {
-    "total_area_km2": 148460,
-    "land_area_km2": 130170,
-    "water_area_km2": 18290,
-    "water_percentage": 6.4,
-    "population": {
-      "2024_census": 170000000,
-      "density_per_km2": 1165
-    }
-  },
-  "economy": {
-    "gdp_ppp": {
-      "2023_estimate": {
-        "total": "$1.617 trillion",
-        "per_capita": "$9,399"
+  "Demographics": {
+    "Population": {
+      "2024 Census": 170000000,
+      "Density per km2": 1165
+    },
+    "Ethnic Groups": {
+      "2022": {
+        "Bengali": "98.2-99%",
+        "Others": "1-1.8%"
       }
     },
-    "gdp_nominal": {
-      "2023_estimate": {
-        "total": "$469.346 billion",
-        "per_capita": "$2,728"
+    "Languages": {
+      "Official": "Bengali",
+      "Minority Languages": ["Atong", "Bawm", "Bishnupriya Manipuri", "Chakma", "Garo", "Hajong", "Hakha-Chin", "Kharia", "Khasi", "Khumi", "Koch", "Koda", "Kokborok", "Kol", "Kurukh", "Lyngngam", "Manipuri", "Marma", "Megam", "Mizo", "Mru", "Mundari", "Odia", "Oraon Sadri", "Pangkhua", "Pnar", "Rakhine", "Riang", "Rohingya", "Santali", "Sauria Paharia", "Tangchangya", "Telugu", "Tippera", "Urdu", "Usoi", "War"]
+    },
+    "Religion": {
+      "2022 Census": {
+        "Islam": "91.04%",
+        "Hinduism": "7.95%",
+        "Buddhism": "0.61%",
+        "Christianity": "0.30%",
+        "Other": "0.12%"
       }
     },
-    "gini_index": {
-      "2022": 49.9
-    },
-    "hdi": {
-      "2021": 0.661
-    }
+    "Demonyms": ["Bangladeshi"]
   },
-  "currency": "Taka (৳) (BDT)",
-  "time_zone": "UTC+6",
-  "driving_side": "left",
-  "calling_code": "+880",
-  "iso_3166_code": "BD",
-
-    {
-  "internet_tld": [".bd", ".বাংলা"],
-  "historical_background": {
-    "ancient_bengal": "Known as Gangaridai, a bastion of pre-Islamic kingdoms.",
-    "muslim_conquests": "After 1204, led to the sultanate and Mughal periods.",
-    "bengal_sultanate": "An independent Bengal Sultanate was established.",
-    "mughal_bengal": "Wealthy Mughal Bengal, important in regional affairs, trade, and diplomacy.",
-    "british_era": {
-      "bengal_presidency": "Bengal's administrative jurisdiction reached its greatest extent.",
-      "eastern_bengal_and_assam": "Creation in 1905 set a precedent for Bangladesh's emergence."
-    },
-    "partition_of_bengal": "Bengal was divided during the Partition of India in 1947.",
-    "dominion_of_pakistan": {
-      "east_bengal": "Became East Pakistan in 1947.",
-      "dhaka_legislative_capital": "Dhaka became the legislative capital."
-    },
-    "liberation_war": "In 1971, led to the independence of Bangladesh.",
-    "bangladesh_genocide": "Massacre of pro-independence Bengali civilians."
+  "Miscellaneous": {
+    "Human Development Index (2021)": 0.661,
+    "Currency": "Taka (৳) (BDT)",
+    "Calling Code": "+880",
+    "ISO 3166 Code": "BD",
+    "Internet TLD": [".bd", ".বাংলা"],
+    "Public Holidays": [
+      "New Year's Day", "Language Movement Day", "Independence Day", "Bengali New Year", "May Day", "Eid al-Fitr", "Eid al-Adha", "Durga Puja", "Victory Day", "Christmas Day"
+    ],
+    "Time Zone": "UTC+6",
+    "Driving Side": "Left",
+    "Date Format": "dd/mm/yyyy (CE)"
   },
-  "current_status": {
-    "secular_state": "First constitutionally secular state in South Asia in 1972.",
-    "islam_state_religion": "Islam declared state religion in 1988.",
-    "supreme_court_reaffirmation": "In 2010, the Supreme Court reaffirmed secular principles."
+  "International Role": {
+    "Middle Power": "A middle power in the Indo-Pacific.",
+    "Language Significance": "Home to the sixth-most spoken language in the world.",
+    "Muslim Population": "Third-largest Muslim-majority population in the world.",
+    "Economy": "Second-largest economy in South Asia.",
+    "Military": "Third-largest military in the region.",
+    "UN Peacekeeping": "Largest contributor of personnel to UN peacekeeping operations."
   },
-  "international_role": {
-    "middle_power": "A middle power in the Indo-Pacific.",
-    "language_significance": "Home to the sixth-most spoken language in the world.",
-    "muslim_population": "Third-largest Muslim-majority population in the world.",
-    "economy": "Second-largest economy in South Asia.",
-    "military": "Third-largest military in the region.",
-    "un_peacekeeping": "Largest contributor of personnel to UN peacekeeping operations."
+  "Political Structure": "Unitary parliamentary republic based on the Westminster system.",
+  "Administrative Divisions": {
+    "Total": "Eight divisions, 64 districts, 495 subdistricts.",
+    "Largest Mangrove Forest": "Hosts the world's largest mangrove forest."
   },
-  "political_structure": "Unitary parliamentary republic based on the Westminster system.",
-  "demographics": {
-    "bengali_population": "Bengalis make up 99% of the total population."
-  },
-  "administrative_divisions": {
-    "total": "Eight divisions, 64 districts, 495 subdistricts.",
-    "largest_mangrove_forest": "Hosts the world's largest mangrove forest."
-  },
-  "refugee_population": "Hosts one of the largest refugee populations due to the Rohingya genocide.",
-  "challenges": [
-    "Corruption",
-    "Political instability",
-    "Overpopulation",
-    "Climate change effects"
-  ],
-  "leadership_in_climate_vulnerable_forum": "Bangladesh has been a leader within the Climate Vulnerable Forum.",
-  "international_affiliations": [
-    "Headquarters of BIMSTEC",
-    "Founding member of SAARC",
-    "Member of the Organization of Islamic Cooperation",
-    "Member of the Commonwealth of Nations"
-  ]
-}
+  "Refugee Population": "Hosts one of the largest refugee populations due to the Rohingya genocide.",
+  "Challenges": ["Corruption", "Political instability", "Overpopulation", "Climate change effects"],
+  "Leadership in Climate Vulnerable Forum": "Bangladesh has been a leader within the Climate Vulnerable Forum.",
+  "International Affiliations": ["Headquarters of BIMSTEC", "Founding member of SAARC", "Member of the Organization of Islamic Cooperation", "Member of the Commonwealth of Nations"]
 }
