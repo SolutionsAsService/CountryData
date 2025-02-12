@@ -1,87 +1,106 @@
 {
-  "Bosnia": {
-  "Country": "Bosnia and Herzegovina",
-  "CommonName": "Bosnia",
-  "OfficialNames": {
+  "Name": {
+    "Common": "Bosnia",
+    "Official": "Bosnia and Herzegovina",
     "Latin": "Bosna i Hercegovina",
     "Cyrillic": "Босна и Херцеговина"
   },
   "Geography": {
     "Region": "Southeast Europe",
-    "BalkanPeninsula": true,
+    "Balkan Peninsula": true,
     "Borders": {
       "East": "Serbia",
       "Southeast": "Montenegro",
       "North": "Croatia",
       "Southwest": "Croatia",
-      "AdriaticCoastLength": "20 kilometres"
+      "Adriatic Coast Length": "20 kilometres"
     },
-    "Capital": "Sarajevo",
-    "Area": "51,219 km2",
+    "Area": {
+      "Total (km2)": 51219,
+      "Rank": "125",
+      "Water Percentage": "0.5%"
+    },
+    "Capital": {
+      "Name": "Sarajevo",
+      "Coordinates": "43°52′N 18°25′E"
+    },
     "Climate": {
-      "CentralEast": "Continental",
+      "Central East": "Continental",
       "Northwest": "Moderately Hilly",
       "Northeast": "Predominantly Flat",
       "South": "Mediterranean, Mountainous"
-    }
+    },
+    "Terrain": ["Mountains", "Valleys", "Plains"],
+    "Natural Resources": ["Coal", "Iron", "Bauxite", "Lignite", "Forests"]
   },
   "Demographics": {
-    "Population_2023": 3428000,
-    "EthnicGroups_2013": {
+    "Population": {
+      "2023 Estimate": 3428000,
+      "Density per km2": 67
+    },
+    "Ethnic Groups (2013)": {
       "Bosniaks": "50.1%",
       "Serbs": "30.8%",
       "Croats": "15.4%",
       "Others": "3.7%"
     },
-    "Religion_2013": {
+    "Languages": {
+      "Official": ["Bosnian", "Croatian", "Serbian"]
+    },
+    "Religion (2013)": {
       "Islam": "51%",
       "Christianity": "46%",
-      "SerbianOrthodox": "31%",
+      "Serbian Orthodox": "31%",
       "Catholicism": "15%",
       "Other": "3%",
-      "NoReligion": "3%"
+      "No Religion": "3%"
     }
   },
   "Government": {
     "Type": "Federal parliamentary directorial republic",
-    "HighRepresentative": "Christian Schmidt",
-    "ChairmanPresidency": "Željko Komšić",
-    "MembersPresidency": ["Denis Bećirović", "Željka Cvijanović"],
-    "ChairwomanCouncilMinisters": "Borjana Krišto",
+    "High Representative": "Christian Schmidt",
+    "Chairman of the Presidency": "Željko Komšić",
+    "Members of the Presidency": ["Denis Bećirović", "Željka Cvijanović"],
+    "Chairwoman of the Council of Ministers": "Borjana Krišto",
     "Legislature": {
-      "UpperHouse": "House of Peoples",
-      "LowerHouse": "House of Representatives"
+      "Upper House": "House of Peoples",
+      "Lower House": "House of Representatives"
     }
   },
   "Economy": {
-    "GDP_PPP_2023": "$68.012 billion",
-    "GDP_PerCapita_PPP_2023": "$19,634",
-    "GDP_Nominal_2023": "$26.945 billion",
-    "GDP_PerCapita_Nominal_2023": "$7,778",
-    "GiniCoefficient_2015": "32.7",
-    "HDI_2021": "0.780"
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 68.012,
+      "Per Capita (USD)": 19634
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 26.945,
+      "Per Capita (USD)": 7778
+    },
+    "Currency": "Convertible mark (BAM)",
+    "Gini Coefficient": "32.7 (2015)",
+    "HDI": "0.780 (2021)"
   },
-  "Currency": "Convertible mark (BAM)",
-  "Timezone": "UTC+1 (CET)",
-  "DrivingSide": "right",
-  "CallingCode": "+387",
-  "ISO3166Code": "BA",
-  "InternetTLD": ".ba",
-  "PublicHolidays_2024": [
-    "New Year's Day (January 1)",
-    "Orthodox Christmas Day (January 7)",
-    "Independence Day (March 1)",
-    "Labor Day (May 1)",
-    "Victory Day (May 9)",
-    "Kurban Bajram (June 16)",
-    "All Saints' Day (November 1)",
-    "Dayton Agreement Day (November 21)",
-    "Statehood Day (November 25)",
-    "Catholic Christmas Day (December 25)",
-    "Saint Stephen's Day (December 26)"
-  ],
-  "ParticipationInternationalEvents": {
-    "SummerOlympics2024": "Participating in Paris, France"
+  "Miscellaneous": {
+    "Time Zone": "UTC+1 (CET)",
+    "Driving Side": "Right",
+    "Calling Code": "+387",
+    "ISO 3166 Code": "BA",
+    "Internet TLD": ".ba",
+    "Public Holidays (2024)": [
+      "New Year's Day (January 1)",
+      "Orthodox Christmas Day (January 7)",
+      "Independence Day (March 1)",
+      "Labor Day (May 1)",
+      "Victory Day (May 9)",
+      "Kurban Bajram (June 16)",
+      "All Saints' Day (November 1)",
+      "Dayton Agreement Day (November 21)",
+      "Statehood Day (November 25)",
+      "Catholic Christmas Day (December 25)",
+      "Saint Stephen's Day (December 26)"
+    ]
+  },
+  "Participation in International Events": {
+    "Summer Olympics 2024": "Participating in Paris, France"
   }
-}
 }
