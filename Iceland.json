@@ -1,94 +1,209 @@
 {
-  "Iceland": {
-    "general_information": {
-      "official_name": "Iceland",
-      "native_name": "Ísland",
-      "flag": "Flag of Iceland",
-      "coat_of_arms": "Coat of arms of Iceland",
-      "anthem": "Lofsöngur",
-      "location": "Nordic island country, North Atlantic and Arctic Oceans",
-      "coordinates": {
-        "capital": "Reykjavík",
-        "latitude": "64°08′N",
-        "longitude": "21°56′W"
-      },
-      "largest_city": "Reykjavík",
-      "official_language": "Icelandic",
-      "ethnic_groups": {
-        "Icelandic": "86%",
-        "Polish": "6%",
-        "Lithuanian": "1%",
-        "Other": "7%"
-      },
-      "religion": {
-        "Christianity": "72.4%",
-        "Church_of_Iceland": "60.9%",
-        "Other_Christian": "11.5%",
-        "No_religion": "25.2%",
-        "Ásatrúarfélagið": "1.5%",
-        "Other": "0.9%"
-      },
-      "demonym": ["Icelander", "Icelandic"]
-    },
-    "government": {
-      "type": "Unitary parliamentary republic",
-      "president": "Guðni Th. Jóhannesson",
-      "prime_minister": "Katrín Jakobsdóttir",
-      "legislature": "Althing"
-    },
-    "historical_formation": {
-      "settlement": "9th century",
-      "commonwealth": "930–1262",
-      "union_with_Norway": "1262–1397",
-      "Kalmar_Union": "1397–1523",
-      "Denmark–Norway": "1523–1814",
-      "Treaty_of_Kiel": "14 January 1814",
-      "constitution_and_home_rule": "1874",
-      "sovereignty": "1 December 1918",
-      "republic_establishment": "17 June 1944"
-    },
-    "geography": {
-      "total_area_km2": 103125,
-      "water_percentage": "2.07",
-      "island": true,
-      "climate": "Temperate, influenced by Gulf Stream",
-      "geologic_activity": ["Geysers", "Volcanic eruptions"],
-      "landscape": ["Volcanic plateau", "Sand and lava fields", "Mountains", "Glaciers", "Glacial rivers"]
-    },
-    "economy": {
-      "currency": "Icelandic króna (ISK)",
-      "GDP_PPP": {
-        "total": "$27.078 billion",
-        "per_capita": "$69,833"
-      },
-      "GDP_nominal": {
-        "total": "$30.570 billion",
-        "per_capita": "$78,836"
-      },
-      "Gini_index": "23.2 (Low)",
-      "HDI": "0.959 (Very High)"
-    },
-    "demographics": {
-      "population_estimate_2022": 376248,
-      "census_2024": 399189,
-      "density_per_km2": 3.66
-    },
-    "culture": {
-      "heritage": "Scandinavian",
-      "language": "Icelandic (North Germanic)",
-      "literature": "Icelandic sagas",
-      "cuisine": "Traditional Icelandic cuisine",
-      "nato_membership": "Smallest population of any NATO member",
-      "armed_forces": "No standing army, only a lightly armed coast guard"
-    },
-    "etymology": {
-      "description": "Details of etymology to be provided"
-    },
-    "history": {
-      "initial_settlement": "874 AD",
-      "settler": "Norwegian chieftain Ingólfr Arnarson",
-      "Althing": "One of the world's oldest functioning legislative assemblies",
-      "post-medieval_period": "Details of post-medieval history to be provided"
+  "Name": {
+    "Common": "Iceland",
+    "Official": "Iceland",
+    "Native": {
+      "Icelandic": "Ísland"
     }
+  },
+  "Symbols": {
+    "Flag": "A blue field with a white-fimbriated red Nordic cross that extends to the edges; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog, the flag of Denmark.",
+    "Emblem": "A silver cross with a red cross in the middle on a blue shield, supported by a bull, a giant, a vulture, and a dragon.",
+    "Anthem": {
+      "Title": "Lofsöngur",
+      "Duration": "3 minutes and 5 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Europe",
+    "Region": "Nordic island country",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Reykjavík",
+        "Latitude": "64°08′N",
+        "Longitude": "21°56′W"
+      }
+    },
+    "Location": "North Atlantic and Arctic Oceans",
+    "Area": {
+      "Total (km2)": 103125,
+      "Rank": "108",
+      "Water Percentage": "2.07%"
+    },
+    "Borders": ["None (Island nation)"],
+    "Terrain": ["Volcanic plateau, sand and lava fields, mountains, glaciers, glacial rivers"],
+    "Climate": ["Temperate, influenced by the Gulf Stream"],
+    "Natural Resources": ["Fish, hydropower, geothermal power, diatomite"],
+    "Time Zones": ["UTC±00:00 (GMT)"],
+    "Largest City": "Reykjavík"
+  },
+  "Demographics": {
+    "Population": {
+      "2022 Estimate": 376248,
+      "2024 Census": 399189,
+      "Density per km2": 3.66
+    },
+    "Ethnic Groups": {
+      "2022": {
+        "Icelandic": 86,
+        "Polish": 6,
+        "Lithuanian": 1,
+        "Other": 7
+      }
+    },
+    "Languages": {
+      "Official": ["Icelandic"]
+    },
+    "Religion": {
+      "2022": {
+        "Christianity": 72.4,
+        "Church of Iceland": 60.9,
+        "Other Christian": 11.5,
+        "No Religion": 25.2,
+        "Ásatrúarfélagið": 1.5,
+        "Other": 0.9
+      }
+    },
+    "Demonym": ["Icelander", "Icelandic"]
+  },
+  "Government": {
+    "Type": "Unitary parliamentary republic",
+    "Leaders": {
+      "President": "Guðni Th. Jóhannesson",
+      "Prime Minister": "Katrín Jakobsdóttir"
+    },
+    "Legislature": "Althing",
+    "Constitution": "17 June 1944"
+  },
+  "History": {
+    "Initial Settlement": "874 AD",
+    "Settler": "Norwegian chieftain Ingólfr Arnarson",
+    "Althing": "One of the world's oldest functioning legislative assemblies",
+    "Commonwealth": "930–1262",
+    "Union with Norway": "1262–1397",
+    "Kalmar Union": "1397–1523",
+    "Denmark–Norway": "1523–1814",
+    "Treaty of Kiel": "14 January 1814",
+    "Constitution and Home Rule": "1874",
+    "Sovereignty": "1 December 1918",
+    "Republic Establishment": "17 June 1944"
+  },
+  "Economy": {
+    "Status": "Developed country",
+    "Dependence": "Tourism, fisheries, renewable energy",
+    "Major Industries": ["Tourism", "Fisheries", "Renewable energy", "Manufacturing"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 27.078,
+      "Per Capita (USD)": 69833
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 30.570,
+      "Per Capita (USD)": 78836
+    },
+    "Currency": "Icelandic króna (ISK)",
+    "Gini Index": "23.2 (Low)",
+    "HDI": "0.959 (Very High)"
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": ["United Nations", "European Free Trade Association", "Schengen Area", "NATO"]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC±00:00 (GMT)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+354",
+    "ISO 3166 Code": "IS",
+    "Internet TLD": ".is",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Good Friday (April)",
+      "Easter Monday (April)",
+      "First Day of Summer (April)",
+      "Labour Day (May 1)",
+      "Ascension Day (May)",
+      "Whit Monday (June)",
+      "National Day (June 17)",
+      "Commerce Day (August)",
+      "Christmas Day (December 25)",
+      "Boxing Day (December 26)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of Scandinavian influences",
+    "Cultural Contributions": ["Icelandic sagas", "Literature", "Cuisine"],
+    "Unique Features": ["Home to numerous geysers and hot springs", "UNESCO World Heritage Sites"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 2.5,
+    "Exports Growth": "Driven by tourism and renewable energy",
+    "Inflation Rate": "2.5%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Tourism", "Renewable energy"],
+      "Challenges": "Balancing economic growth with environmental sustainability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "ICEX",
+        "Expectation": "Steady growth into 2024"
+      },
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Scandinavian culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Tourism", "Renewable energy", "Manufacturing"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Air, and Sea transport",
+    "Key Transport Hubs": ["Reykjavík", "Akureyri", "Keflavík"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Occasional protests and political unrest",
+    "Economic Hardships": "High cost of living",
+    "Natural Disasters": ["Volcanic eruptions", "Earthquakes"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "83 years",
+    "Infant Mortality Rate": "2.1 deaths/1,000 live births",
+    "Health Expenditure of GDP": "8.9% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "7.1% (2020)",
+    "Literacy Rate": {
+      "Total": "99%",
+      "Male": "99%",
+      "Female": "99%"
+    }
+  },
+  "Culture": {
+    "Heritage": "Scandinavian",
+    "Language": "Icelandic (North Germanic)",
+    "Literature": "Icelandic sagas",
+    "Cuisine": "Traditional Icelandic cuisine",
+    "NATO Membership": "Smallest population of any NATO member",
+    "Armed Forces": "No standing army, only a lightly armed coast guard"
+  },
+  "Etymology": {
+    "Description": "Details of etymology to be provided"
   }
 }
