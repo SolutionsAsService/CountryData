@@ -53,55 +53,56 @@ function fetchCountryData(countryName) {
 
 // Function to display country data
 function displayCountryData(country) {
-    const name = country.Name?.Common || "Unknown";
-    const officialName = country.Name?.Official || "Unknown";
-    const capitalCity = country.Geography?.["Capital City"] || "Unknown";
-    const largestCity = country.Geography?.["Largest City"] || "Unknown";
-    const majorCities = country.Geography?.["Major Cities"] ? country.Geography["Major Cities"].join(', ') : "N/A";
-    const area = country.Geography?.Area?.["Total (km2)"] || "Unknown";
-    const population = country.Demographics?.Population?.["2022 Estimate"] || country.Demographics?.Population?.["2023 Estimate"] || "Unknown";
-    const governmentType = country.Government?.Type || "Unknown";
-    const president = country.Government?.President || "Unknown";
-    const primeMinister = country.Government?.["Prime Minister"] || "N/A";
-    const upperHouse = country.Government?.Legislature?.["Upper House"] || "Unknown";
-    const lowerHouse = country.Government?.Legislature?.["Lower House"] || "Unknown";
-    const gdpPPP = country.Economy?.["GDP (PPP 2023) Total (Trillion USD)"] || country.Economy?.["GDP (PPP 2023)"]?.Total || "Unknown";
-    const gdpNominal = country.Economy?.["GDP (Nominal 2023) Total (Trillion USD)"] || country.Economy?.["GDP (Nominal 2023)"]?.Total || "Unknown";
-    const gdpPerCapitaPPP = country.Economy?.["GDP per Capita (PPP USD)"] || country.Economy?.["GDP (PPP 2023)"]?.["Per Capita"] || "Unknown";
-    const gdpPerCapitaNominal = country.Economy?.["GDP per Capita (Nominal USD)"] || country.Economy?.["GDP (Nominal 2023)"]?.["Per Capita"] || "Unknown";
-    const primaryReligion = country.Demographics?.Religion?.Primary || country.Demographics?.Religion?.Christianity || "Unknown";
+    const name = country.Name?.Common || null;
+    const officialName = country.Name?.Official || null;
+    const capitalCity = country.Geography?.["Capital City"] || null;
+    const largestCity = country.Geography?.["Largest City"] || null;
+    const majorCities = country.Geography?.["Major Cities"] ? country.Geography["Major Cities"].join(', ') : null;
+    const area = country.Geography?.Area?.["Total (km2)"] || null;
+    const population = country.Demographics?.Population?.["2022 Estimate"] || country.Demographics?.Population?.["2023 Estimate"] || null;
+    const governmentType = country.Government?.Type || null;
+    const president = country.Government?.President || null;
+    const primeMinister = country.Government?.["Prime Minister"] || null;
+    const upperHouse = country.Government?.Legislature?.["Upper House"] || null;
+    const lowerHouse = country.Government?.Legislature?.["Lower House"] || null;
+    const gdpPPP = country.Economy?.["GDP (PPP 2023) Total (Trillion USD)"] || country.Economy?.["GDP (PPP 2023)"]?.Total || null;
+    const gdpNominal = country.Economy?.["GDP (Nominal 2023) Total (Trillion USD)"] || country.Economy?.["GDP (Nominal 2023)"]?.Total || null;
+    const gdpPerCapitaPPP = country.Economy?.["GDP per Capita (PPP USD)"] || country.Economy?.["GDP (PPP 2023)"]?.["Per Capita"] || null;
+    const gdpPerCapitaNominal = country.Economy?.["GDP per Capita (Nominal USD)"] || country.Economy?.["GDP (Nominal 2023)"]?.["Per Capita"] || null;
+    const primaryReligion = country.Demographics?.Religion?.Primary || country.Demographics?.Religion?.Christianity || null;
     const otherReligions = country.Demographics?.Religion?.Minorities
         ? Object.entries(country.Demographics.Religion.Minorities).map(([key, value]) => `${key}: ${value}`).join(', ')
-        : "N/A";
-    const hdi = country.Miscellaneous?.["Human Development Index (2021)"] || "Unknown";
-    const currency = country.Miscellaneous?.Currency || "Unknown";
-    const callingCode = country.Miscellaneous?.["Calling Code"] || "Unknown";
-    const internetTLD = country.Miscellaneous?.["Internet TLD"] ? country.Miscellaneous["Internet TLD"].join(', ') : "Unknown";
-    const unescoSites = country.Miscellaneous?.["UNESCO World Heritage Sites"] || "Unknown";
+        : null;
+    const hdi = country.Miscellaneous?.["Human Development Index (2021)"] || null;
+    const currency = country.Miscellaneous?.Currency || null;
+    const callingCode = country.Miscellaneous?.["Calling Code"] || null;
+    const internetTLD = Array.isArray(country.Miscellaneous?.["Internet TLD"]) ? country.Miscellaneous["Internet TLD"].join(', ') : null;
+    const unescoSites = country.Miscellaneous?.["UNESCO World Heritage Sites"] || null;
 
-    document.getElementById('info').innerHTML = `
-        <h2>${name}</h2>
-        <p><strong>Official Name:</strong> ${officialName}</p>
-        <p><strong>Capital City:</strong> ${capitalCity}</p>
-        <p><strong>Largest City:</strong> ${largestCity}</p>
-        <p><strong>Major Cities:</strong> ${majorCities}</p>
-        <p><strong>Area:</strong> ${area} km²</p>
-        <p><strong>Population (2022 Estimate):</strong> ${population}</p>
-        <p><strong>Government Type:</strong> ${governmentType}</p>
-        <p><strong>President:</strong> ${president}</p>
-        <p><strong>Prime Minister:</strong> ${primeMinister}</p>
-        <p><strong>Upper House:</strong> ${upperHouse}</p>
-        <p><strong>Lower House:</strong> ${lowerHouse}</p>
-        <p><strong>GDP (PPP 2023):</strong> ${gdpPPP} Trillion USD</p>
-        <p><strong>GDP (Nominal 2023):</strong> ${gdpNominal} Trillion USD</p>
-        <p><strong>GDP per Capita (PPP USD):</strong> ${gdpPerCapitaPPP}</p>
-        <p><strong>GDP per Capita (Nominal USD):</strong> ${gdpPerCapitaNominal}</p>
-        <p><strong>Primary Religion:</strong> ${primaryReligion}</p>
-        <p><strong>Other Religions:</strong> ${otherReligions}</p>
-        <p><strong>Human Development Index (2021):</strong> ${hdi}</p>
-        <p><strong>Currency:</strong> ${currency}</p>
-        <p><strong>Calling Code:</strong> ${callingCode}</p>
-        <p><strong>Internet TLD:</strong> ${internetTLD}</p>
-        <p><strong>UNESCO World Heritage Sites:</strong> ${unescoSites}</p>
-    `;
+    let infoHtml = `<h2>${name || "Unknown"}</h2>`;
+    if (officialName) infoHtml += `<p><strong>Official Name:</strong> ${officialName}</p>`;
+    if (capitalCity) infoHtml += `<p><strong>Capital City:</strong> ${capitalCity}</p>`;
+    if (largestCity) infoHtml += `<p><strong>Largest City:</strong> ${largestCity}</p>`;
+    if (majorCities) infoHtml += `<p><strong>Major Cities:</strong> ${majorCities}</p>`;
+    if (area) infoHtml += `<p><strong>Area:</strong> ${area} km²</p>`;
+    if (population) infoHtml += `<p><strong>Population (2022 Estimate):</strong> ${population}</p>`;
+    if (governmentType) infoHtml += `<p><strong>Government Type:</strong> ${governmentType}</p>`;
+    if (president) infoHtml += `<p><strong>President:</strong> ${president}</p>`;
+    if (primeMinister) infoHtml += `<p><strong>Prime Minister:</strong> ${primeMinister}</p>`;
+    if (upperHouse) infoHtml += `<p><strong>Upper House:</strong> ${upperHouse}</p>`;
+    if (lowerHouse) infoHtml += `<p><strong>Lower House:</strong> ${lowerHouse}</p>`;
+    if (gdpPPP) infoHtml += `<p><strong>GDP (PPP 2023):</strong> ${gdpPPP} Trillion USD</p>`;
+    if (gdpNominal) infoHtml += `<p><strong>GDP (Nominal 2023):</strong> ${gdpNominal} Trillion USD</p>`;
+    if (gdpPerCapitaPPP) infoHtml += `<p><strong>GDP per Capita (PPP USD):</strong> ${gdpPerCapitaPPP}</p>`;
+    if (gdpPerCapitaNominal) infoHtml += `<p><strong>GDP per Capita (Nominal USD):</strong> ${gdpPerCapitaNominal}</p>`;
+    if (primaryReligion) infoHtml += `<p><strong>Primary Religion:</strong> ${primaryReligion}</p>`;
+    if (otherReligions) infoHtml += `<p><strong>Other Religions:</strong> ${otherReligions}</p>`;
+    if (hdi) infoHtml += `<p><strong>Human Development Index (2021):</strong> ${hdi}</p>`;
+    if (currency) infoHtml += `<p><strong>Currency:</strong> ${currency}</p>`;
+    if (callingCode) infoHtml += `<p><strong>Calling Code:</strong> ${callingCode}</p>`;
+    if (internetTLD) infoHtml += `<p><strong>Internet TLD:</strong> ${internetTLD}</p>`;
+    if (unescoSites) infoHtml += `<p><strong>UNESCO World Heritage Sites:</strong> ${unescoSites}</p>`;
+
+    document.getElementById('info').innerHTML = infoHtml;
 }
+``` ▋
