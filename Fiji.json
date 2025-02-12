@@ -1,138 +1,197 @@
 {
-  "Fiji": {
-    "Name": "Republic of Fiji",
-    "Official_Languages": ["iTaukei (Fijian)", "English", "Fiji Hindi"],
-    "Capital": "Suva",
+  "Name": {
+    "Common": "Fiji",
+    "Official": "Republic of Fiji",
+    "Native": {
+      "iTaukei": "Matanitu Tugalala o Viti",
+      "Fiji Hindi": "फिजी गणराज्य"
+    }
+  },
+  "Symbols": {
+    "Flag": "A light blue field with the Union Jack in the canton and the shield from the national coat of arms centered on the outer half of the flag",
+    "Emblem": "A shield divided into quarters by a cross, each quarter containing a symbol of the nation's agriculture and history",
+    "Motto": "Rerevaka na kalou ka doka na Tui (Fear God and honour the Queen)",
+    "Anthem": {
+      "Title": "Meda Dau Doka",
+      "Translation": "God Bless Fiji",
+      "Duration": "1 minute and 20 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Oceania",
+    "Region": "Melanesia",
     "Coordinates": {
-      "Latitude": "18°10′S",
-      "Longitude": "178°27′E"
+      "Capital": {
+        "Name": "Suva",
+        "Latitude": "18°10′S",
+        "Longitude": "178°27′E"
+      }
     },
-    "Area": "18,274 km2",
+    "Location": "Melanesia, Oceania, South Pacific Ocean",
+    "Area": {
+      "Total (km2)": 18274,
+      "Land (km2)": 18274,
+      "Water (km2)": "N/A",
+      "Rank": "156",
+      "Water Percentage": "N/A"
+    },
+    "Islands": {
+      "Archipelago": "More than 330 islands",
+      "Inhabited Islands": "About 110",
+      "Islets": "More than 500",
+      "Outlying Island Group": "Ono-i-Lau"
+    },
+    "Terrain": ["Volcanic, mountainous"],
+    "Climate": ["Tropical marine"],
+    "Natural Resources": ["Timber", "Fish", "Gold", "Copper", "Offshore oil potential", "Hydropower"],
+    "Time Zones": ["UTC+12 (FJT)"],
+    "Largest City": "Suva"
+  },
+  "Demographics": {
     "Population": {
-      "2018_Estimate": 926276,
-      "Density": "46.4/km2"
+      "2018 Estimate": 926276,
+      "Density per km2": 46.4
     },
-    "Government": {
-      "Type": "Unitary parliamentary republic",
+    "Ethnic Groups": {
+      "Indigenous Fijians": 56.8,
+      "Indo-Fijians": 37.5,
+      "Rotumans": 1.2,
+      "Others": 4.5
+    },
+    "Languages": {
+      "Official": ["iTaukei (Fijian)", "English", "Fiji Hindi"]
+    },
+    "Religion": {
+      "Christianity": 64.4,
+      "Methodism": 34.6,
+      "Other Christian": 29.8,
+      "Hinduism": 27.9,
+      "Islam": 6.3,
+      "Others": 1.4
+    },
+    "Demonym": "Fijian"
+  },
+  "Government": {
+    "Type": "Unitary parliamentary republic",
+    "Leaders": {
       "President": "Wiliame Katonivere",
-      "Prime_Minister": "Sitiveni Rabuka",
-      "Chief_Justice": "Salesi Temo (acting)",
-      "Legislature": "Parliament"
+      "Prime Minister": "Sitiveni Rabuka",
+      "Chief Justice": "Salesi Temo (acting)"
     },
-    "Independence": {
-      "From_United_Kingdom": "10 October 1970",
-      "Republic_Declaration": "6 October 1987",
-      "Current_Constitution": "6 September 2013"
+    "Legislature": "Parliament",
+    "Constitution": "6 September 2013"
+  },
+  "History": {
+    "Early Settlement": "Inhabited since the second millennium BC",
+    "European Contact": "17th century",
+    "British Colony": "Became a British colony in 1874",
+    "Independence": "Achieved on 10 October 1970",
+    "Recent History": {
+      "1987": "Declared a republic",
+      "2006": "Military coup",
+      "2013": "New constitution adopted",
+      "2014": "Democratic elections held"
+    }
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Tourism, agriculture, and fishing",
+    "Major Industries": ["Tourism", "Agriculture", "Fishing", "Garment Manufacturing"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 15.152,
+      "Per Capita (USD)": 16563
     },
-    "Economy": {
-      "GDP_PPP_2023_Estimate": {
-        "Total": "$15.152 billion",
-        "Per_Capita": "$16,563"
-      },
-      "GDP_Nominal_2023_Estimate": {
-        "Total": "$5.511 billion",
-        "Per_Capita": "$6,024"
-      },
-      "Gini_Index": "36.4",
-      "HDI": "0.730"
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 5.511,
+      "Per Capita (USD)": 6024
     },
     "Currency": "Fijian dollar (FJD)",
-    "Time_Zone": "UTC+12 (FJT)",
-    "Driving_Side": "left",
-    "Calling_Code": "+679",
-    "ISO_3166_Code": "FJ",
-    "Internet_TLD": ".fj",
-    "Geography": {
-      "Archipelago": "More than 330 islands",
-      "Inhabited_Islands": "About 110",
-      "Islets": "More than 500",
-      "Outlying_Island_Group": "Ono-i-Lau"
-    },
-    "Demographics": {
-      "Major_Islands": ["Viti Levu", "Vanua Levu"],
-      "Ethnic_Groups": {
-        "Indigenous_Fijians": "56.8%",
-        "Indo-Fijians": "37.5%",
-        "Rotumans": "1.2%",
-        "Others": "4.5%"
-      },
-      "Religion": {
-        "Christianity": "64.4%",
-        "Methodism": "34.6%",
-        "Other_Christian": "29.8%",
-        "Hinduism": "27.9%",
-        "Islam": "6.3%"
-      }
-    },
-    "Economic_Sectors": {
-      "Agriculture_and_Forestry": {
-        "Sugarcane_Production": "Main agricultural product",
-        "Other_Products": ["Coconuts", "Copra", "Ginger", "Cassava", "Bananas", "Rice", "Sweet Potatoes", "Taro", "Kava", "Pineapples", "Plantains"],
-        "Livestock": ["Cattle", "Pigs", "Goats"],
-        "Forestry_Products": ["Lumber"]
-      },
-      "Fishing": "Important for economy",
-      "Tourism": "Major source of foreign exchange",
-      "Garment_Manufacturing": "Significant commercial sector"
-    },
-    "History": {
-      "Early_Settlement": "Second millennium BC",
-      "European_Contact": "17th century",
-      "British_Colony": "1874",
-      "Independence": "1970",
-      "Recent_Political_Developments": "Democratic elections in 2014, FijiFirst party wins"
-    },
-    "Current_Political_Landscape": {
-      "Recent_Elections": {
-        "2014": "FijiFirst party won",
-        "2018": "FijiFirst party won narrowly",
-        "2022": "People’s Alliance party won, led by Sitiveni Rabuka"
-      },
-      "Political_Changes": {
-        "2021": "Wiliame Katonivere elected as President",
-        "2022": "Major shift in political power"
-      },
-      "Constitutional_Framework": "Adopted in 2013"
-    },
-    "Culture_and_Society": {
-      "Cultural_Influences": ["Polynesian", "Melanesian"],
-      "Cultural_Practices": ["Yaqona ceremony", "Masi cloth making"],
-      "Traditional_Structures": ["Bure and Vale housing"],
-      "Currency_System": {
-        "Historical": "Tabua (sperm whale teeth)",
-        "Current": "Fijian dollar (FJD)"
-      }
-    },
-    "Economy": {
-      "Main_Sectors": ["Tourism", "Agriculture", "Fishing", "Garment Manufacturing"],
-      "Agricultural_Products": ["Sugarcane", "Coconuts", "Ginger", "Cassava", "Bananas", "Rice", "Sweet Potatoes", "Taro", "Kava", "Pineapples", "Plantains"],
-      "Forestry_Products": ["Lumber"],
-      "Fishing": "Significant part of economy"
-    },
-    "History": {
-      "Early_History": "Inhabited since the second millennium BC",
-      "European_Contact": "17th century",
-      "British_Colony": "Became a British colony in 1874",
-      "Independence": "Achieved in 1970",
-      "Recent_History": {
-        "1987": "Declared a republic",
-        "2006": "Military coup",
-        "2013": "New constitution adopted",
-        "2014": "Democratic elections held"
-      }
-    },
-    "Geography": {
-      "Location": "Melanesia, Oceania, South Pacific Ocean",
-      "Distance_from_New_Zealand": "1,100 nautical miles north-northeast",
-      "Total_Land_Area": "18,300 square kilometres",
-      "Major_Islands": ["Viti Levu", "Vanua Levu"],
-      "Archipelago": "More than 330 islands and 500 islets",
-      "Terrain": "Volcanic, mountainous"
-    },
-    "Environment": {
-      "Geothermal_Activity": "Present on Vanua Levu and Taveuni islands",
-      "Climate": "Tropical marine",
-      "Biodiversity": "Rich in marine and terrestrial species"
+    "Gini Index": "36.4",
+    "HDI": "0.730"
+  },
+  "International Relations": {
+    "UN Member": true,
+    "Commonwealth of Nations Member": true,
+    "Pacific Islands Forum Member": true
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+12 (FJT)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Left",
+    "Calling Code": "+679",
+    "ISO 3166 Code": "FJ",
+    "Internet TLD": ".fj",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Good Friday (April)",
+      "Easter Monday (April)",
+      "National Youth Day (May 4)",
+      "Queen's Birthday (June)",
+      "Constitution Day (September 7)",
+      "Fiji Day (October 10)",
+      "Diwali (October/November)",
+      "Christmas Day (December 25)",
+      "Boxing Day (December 26)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Cultural Influences": ["Polynesian", "Melanesian"],
+    "Cultural Practices": ["Yaqona ceremony", "Masi cloth making"],
+    "Traditional Structures": ["Bure and Vale housing"],
+    "Currency System": {
+      "Historical": "Tabua (sperm whale teeth)",
+      "Current": "Fijian dollar (FJD)"
     }
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.5,
+    "Exports Growth": "Driven by tourism, agriculture, and fishing",
+    "Inflation Rate": "2.5%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Tourism", "Agriculture", "Fishing"],
+      "Challenges": "Balancing economic growth with environmental sustainability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "N/A",
+        "Expectation": "Steady growth into 2024"
+      },
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Moderate urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Pacific Island culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Tourism", "Agriculture", "Fishing"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Environment": {
+    "Geothermal Activity": "Present on Vanua Levu and Taveuni islands",
+    "Climate": "Tropical marine",
+    "Biodiversity": "Rich in marine and terrestrial species"
+  },
+  "Geography": {
+    "Location": "Melanesia, Oceania, South Pacific Ocean",
+    "Distance from New Zealand": "1,100 nautical miles north-northeast",
+    "Total Land Area": "18,300 square kilometres",
+    "Major Islands": ["Viti Levu", "Vanua Levu"],
+    "Archipelago": "More than 330 islands and 500 islets",
+    "Terrain": "Volcanic, mountainous"
   }
 }
