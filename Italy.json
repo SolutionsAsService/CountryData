@@ -1,88 +1,196 @@
 {
-  "Italy": {
-    "FullName": "Italian Republic",
-    "ItalianName": "Repubblica Italiana",
-    "Flag": "Flag of Italy",
-    "Emblem": "Emblem of Italy",
-    "Anthem": "Il Canto degli Italiani",
-    "Location": {
-      "Continent": "Europe",
-      "Coordinates": "41°54′N 12°29′E",
-      "BorderingCountries": ["France", "Switzerland", "Austria", "Slovenia", "Vatican City", "San Marino"],
-      "Exclaves": ["Campione"],
-      "Archipelago": "Pelagie Islands"
-    },
-    "Geography": {
-      "Area": "301,340 km2",
-      "Climate": "Predominantly Mediterranean",
-      "MajorRivers": ["Po"],
-      "LandUse": {
-        "AgriculturalLand": "47.1%",
-        "Forest": "31.4%",
-        "Other": "21.5%"
+  "Name": {
+    "Common": "Italy",
+    "Official": "Italian Republic",
+    "Italian": "Repubblica Italiana"
+  },
+  "Symbols": {
+    "Flag": "A vertical tricolor of green, white, and red",
+    "Emblem": "A five-pointed star with a cogwheel, surrounded by an olive branch and an oak branch",
+    "Anthem": {
+      "Title": "Il Canto degli Italiani",
+      "Duration": "3 minutes and 45 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Europe",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Rome",
+        "Latitude": "41°54′N",
+        "Longitude": "12°29′E"
       }
     },
+    "Location": "Southern Europe, bordered by France, Switzerland, Austria, Slovenia, Vatican City, and San Marino",
+    "Area": {
+      "Total (km2)": 301340,
+      "Rank": "72nd",
+      "Water Percentage": "2.4%"
+    },
+    "Borders": ["France", "Switzerland", "Austria", "Slovenia", "Vatican City", "San Marino"],
+    "Exclaves": ["Campione"],
+    "Archipelago": "Pelagie Islands",
+    "Terrain": ["Mostly rugged and mountainous; some plains and coastal lowlands"],
+    "Climate": ["Predominantly Mediterranean"],
+    "Natural Resources": ["Coal, mercury, zinc, potash, marble, barite, asbestos, pumice, fluorspar, feldspar, pyrite, natural gas, crude oil reserves, fish"],
+    "Time Zones": ["UTC+1 (CET)", "UTC+2 (CEST in summer)"],
+    "Largest City": "Rome"
+  },
+  "Demographics": {
     "Population": {
-      "2022Estimate": "58,853,482",
-      "Density": "201.3 per km2"
+      "2022 Estimate": 58853482,
+      "Density (per km2)": 201.3
     },
-    "Capital": "Rome",
-    "LargestCities": ["Rome", "Milan", "Naples", "Turin", "Palermo"],
-    "OfficialLanguage": "Italian",
+    "Ethnic Groups": {
+      "2022": {
+        "Italian": 91.5,
+        "Other European": 4.0,
+        "North African": 1.5,
+        "Asian": 1.0,
+        "Other": 2.0
+      }
+    },
+    "Languages": {
+      "Official": ["Italian"],
+      "Recognized Regional": ["German", "French", "Slovene"]
+    },
     "Religion": {
-      "Christianity": "84.4%",
-      "NoReligion": "11.6%",
-      "Islam": "1.0%",
-      "Other": "3.0%"
+      "2022": {
+        "Christianity": 84.4,
+        "No Religion": 11.6,
+        "Islam": 1.0,
+        "Other": 3.0
+      }
     },
-    "Government": {
-      "Type": "Unitary parliamentary republic",
+    "Demonym": "Italian"
+  },
+  "Government": {
+    "Type": "Unitary parliamentary republic",
+    "Leaders": {
       "President": "Sergio Mattarella",
-      "PrimeMinister": "Giorgia Meloni"
+      "Prime Minister": "Giorgia Meloni"
     },
-    "Economy": {
-      "GDP_PPP": {
-        "2023Total": "$3.193 trillion",
-        "PerCapita": "$54,258"
+    "Legislature": {
+      "Upper House": "Senate of the Republic",
+      "Lower House": "Chamber of Deputies"
+    },
+    "Constitution": "1 January 1948"
+  },
+  "History": {
+    "Unification": "17 March 1861",
+    "Industrialization Period": "Late 19th to early 20th century",
+    "WWI": "1915-1918",
+    "Fascist Dictatorship": "1922-1943",
+    "WWII": "1940-1945",
+    "Republic Establishment": "2 June 1946"
+  },
+  "Economy": {
+    "Status": "Developed country",
+    "Dependence": "Manufacturing, services, and agriculture",
+    "Major Industries": ["Machinery", "Iron and steel", "Chemicals", "Food processing", "Textiles", "Motor vehicles", "Clothing", "Footwear", "Ceramics"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 3193,
+      "Per Capita (USD)": 54258
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 2186,
+      "Per Capita (USD)": 37146
+    },
+    "Currency": "Euro (EUR)"
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": ["United Nations", "European Union", "NATO", "OECD", "World Trade Organization"]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+1 (CET)", "UTC+2 (CEST in summer)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+39",
+    "ISO 3166 Code": "IT",
+    "Internet TLD": ".it",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Epiphany (January 6)",
+      "Easter Monday (April)",
+      "Liberation Day (April 25)",
+      "Labour Day (May 1)",
+      "Republic Day (June 2)",
+      "Assumption of Mary (August 15)",
+      "All Saints' Day (November 1)",
+      "Immaculate Conception (December 8)",
+      "Christmas Day (December 25)",
+      "St. Stephen's Day (December 26)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of Roman, Renaissance, and modern influences",
+    "Cultural Contributions": ["Art", "Music", "Literature", "Cuisine", "Fashion"],
+    "Unique Features": ["Home to the highest number of UNESCO World Heritage Sites", "Cultural superpower"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 1.2,
+    "Exports Growth": "Driven by manufacturing and services",
+    "Inflation Rate": "1.8%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Manufacturing", "Services"],
+      "Challenges": "Balancing economic growth with environmental sustainability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "FTSE MIB",
+        "Expectation": "Steady growth into 2024"
       },
-      "GDP_Nominal": {
-        "2023Total": "$2.186 trillion",
-        "PerCapita": "$37,146"
-      },
-      "Currency": "Euro (EUR)"
-    },
-    "HealthAndSocialMetrics": {
-      "CurrentHealthExpenditure": "9.6% of GDP",
-      "PhysiciansDensity": "3.95 per 1,000 population",
-      "HospitalBedDensity": "3.1 per 1,000 population",
-      "ObesityAdultPrevalenceRate": "19.9%",
-      "EducationExpenditures": "4.3% of GDP",
-      "LiteracyRate": "99.2%"
-    },
-    "EnvironmentalConcerns": {
-      "Issues": [
-        "Air pollution from industrial emissions",
-        "Coastal and inland river pollution",
-        "Acid rain damage",
-        "Inadequate industrial waste treatment"
-      ]
-    },
-    "HistoricalContext": {
-      "Unification": "1861",
-      "IndustrializationPeriod": "Late 19th to early 20th century",
-      "WWI": "1915-1918",
-      "FascistDictatorship": "1922",
-      "WWII": "1940-1945",
-      "RepublicEstablishment": "Post WWII"
-    },
-    "CulturalIdentity": {
-      "CulturalSuperpower": true,
-      "WorldHeritageSites": 58,
-      "GlobalInfluence": ["Art", "Music", "Literature", "Cuisine", "Fashion"]
-    },
-    "Regions": {
-      "Total": 20,
-      "Names": ["Abruzzo", "Basilicata", "Calabria", "Campania", "Emilia-Romagna", "Lazio", "Liguria", "Lombardia", "Marche", "Molise", "Piemonte", "Puglia", "Toscana", "Umbria", "Veneto", "Friuli Venezia Giulia", "Sardegna", "Sicilia", "Trentino-Alto Adige", "Valle d'Aosta"]
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
     }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on European culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Manufacturing", "Technology", "Tourism"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air, and Sea transport",
+    "Key Transport Hubs": ["Rome", "Milan", "Naples"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Occasional protests and political unrest",
+    "Economic Hardships": "High public debt and unemployment rates",
+    "Natural Disasters": ["Earthquakes", "Volcanic eruptions"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "83.6 years",
+    "Infant Mortality Rate": "2.7 deaths/1,000 live births",
+    "Health Expenditure of GDP": "9.6% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "4.3% (2020)",
+    "Literacy Rate": {
+      "Total": "99.2%",
+      "Male": "99.4%",
+      "Female": "99.0%"
+    }
+  },
+  "Regions": {
+    "Total": 20,
+    "Names": ["Abruzzo", "Basilicata", "Calabria", "Campania", "Emilia-Romagna", "Lazio", "Liguria", "Lombardia", "Marche", "Molise", "Piemonte", "Puglia", "Toscana", "Umbria", "Veneto", "Friuli Venezia Giulia", "Sardegna", "Sicilia", "Trentino-Alto Adige", "Valle d'Aosta"]
   }
 }
