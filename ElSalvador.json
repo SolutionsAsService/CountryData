@@ -1,83 +1,172 @@
 {
-  "El Salvador": {
-  "Name": "El Salvador",
-  "FullName": "Republic of El Salvador",
-  "SpanishName": "República de El Salvador",
-  "Spanish_lit": "The Saviour",
-  "pronunciation": "[ɛl ˈsælvədɔːr]",
-  "flag_description": "Flag of El Salvador",
-  "coat_of_arms_description": "Coat of arms of El Salvador",
-  "motto": "Dios, Unión, Libertad (God, Union, Liberty)",
-  "anthem": {
-    "title": "Himno Nacional de El Salvador (National Anthem of El Salvador)",
-    "duration": "1 minute and 29 seconds"
+  "Name": {
+    "Common": "El Salvador",
+    "Official": "Republic of El Salvador",
+    "Native": {
+      "Spanish": "República de El Salvador",
+      "Spanish Lit": "The Saviour"
+    }
   },
-  "capital_and_largest_city": "San Salvador",
-  "official_language": "Spanish",
-  "ethnic_groups": {
-    "Mestizo": "86.3%",
-    "White": "12.7%",
-    "Indigenous": "0.2%",
-    "Black": "0.1%",
-    "Other": "0.6%"
+  "Symbols": {
+    "Flag": "A horizontal triband of cobalt blue (top and bottom) and white with the national coat of arms centered on the white band",
+    "Emblem": "A triangle with five flags, a laurel wreath, and a scroll with the motto 'Dios, Unión, Libertad'",
+    "Motto": "Dios, Unión, Libertad (God, Union, Liberty)",
+    "Anthem": {
+      "Title": "Himno Nacional de El Salvador",
+      "Translation": "National Anthem of El Salvador",
+      "Duration": "1 minute and 29 seconds"
+    }
   },
-  "religion_2017": {
-    "Christianity": "84.1%",
-    "Roman_Catholic": "44.9%",
-    "Protestant": "37.1%",
-    "Other_Christian": "2.1%",
-    "No_Religion": "15.2%",
-    "Other": "0.7%"
+  "Geography": {
+    "Continent": "North America",
+    "Region": "Central America",
+    "Coordinates": {
+      "Capital": {
+        "Name": "San Salvador",
+        "Latitude": "13°41′N",
+        "Longitude": "89°11′W"
+      }
+    },
+    "Location": "Central America, bordered by Honduras, Guatemala, and the Pacific Ocean",
+    "Area": {
+      "Total (km2)": 21041,
+      "Rank": "148",
+      "Water Percentage": "1.5%"
+    },
+    "Time Zones": ["UTC−6"],
+    "Largest City": "San Salvador",
+    "Natural Resources": ["Hydropower", "Geothermal power", "Petroleum"],
+    "Climate": ["Tropical; wet and dry seasons"]
   },
-  "government": {
-    "type": "Unitary presidential republic",
-    "president": "Nayib Bukele",
-    "vice_president": "Félix Ulloa",
-    "legislature": "Legislative Assembly"
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 6602370,
+      "Density per km2": 324.4
+    },
+    "Ethnic Groups": {
+      "Mestizo": 86.3,
+      "White": 12.7,
+      "Indigenous": 0.2,
+      "Black": 0.1,
+      "Other": 0.6
+    },
+    "Languages": {
+      "Official": ["Spanish"]
+    },
+    "Religion": {
+      "Christianity": 84.1,
+      "Roman Catholic": 44.9,
+      "Protestant": 37.1,
+      "Other Christian": 2.1,
+      "No Religion": 15.2,
+      "Other": 0.7
+    },
+    "Demonym": "Salvadoran"
   },
-  "independence": {
-    "from_Spain": "15 September 1821",
-    "from_First_Mexican_Empire": "1 July 1823",
-    "from_Federal_Republic_of_Central_America": "12 June 1824",
-    "international_recognition": "18 February 1841"
+  "Government": {
+    "Type": "Unitary presidential republic",
+    "Leaders": {
+      "President": "Nayib Bukele",
+      "Vice President": "Félix Ulloa"
+    },
+    "Legislature": "Legislative Assembly",
+    "Constitution": "20 December 1983"
   },
-  "area_km2": 21041,
-  "population_2023_estimate": 6602370,
-  "density_per_km2": 324.4,
-  "GDP_PPP_2023_estimate": {
-    "total": "$74.505 billion",
-    "per_capita": "$11,717"
+  "History": {
+    "Mesoamerican Control": ["Lenca", "Mayans", "Cuzcatlecs"],
+    "Spanish Conquest": "16th century",
+    "Independence from Spain": "15 September 1821",
+    "Union with Central America": "1823",
+    "Sovereign State": "18 February 1841",
+    "Greater Republic of Central America": "1895-1898",
+    "Civil War": "1979-1992"
   },
-  "GDP_nominal_2023_estimate": {
-    "total": "$35.339 billion",
-    "per_capita": "$5,557"
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Agriculture, manufacturing, and remittances",
+    "Major Industries": ["Agriculture", "Manufacturing", "Services"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 74.505,
+      "Per Capita (USD)": 11717
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 35.339,
+      "Per Capita (USD)": 5557
+    },
+    "Currency": ["United States Dollar (USD)", "Bitcoin (BTC)"],
+    "Gini Index": "38.8 (2019)",
+    "HDI": "0.675 (2021)"
   },
-  "Gini_2019": "38.8",
-  "HDI_2021": "0.675",
-  "currency": ["United States dollar (USD)", "Bitcoin (BTC)"],
-  "time_zone": "UTC−6",
-  "driving_side": "right",
-  "calling_code": "+503",
-  "ISO_3166_code": "SV",
-  "internet_TLD": ".sv",
-  "historical_background": {
-    "Mesoamerican_control": ["Lenca", "Mayans", "Cuzcatlecs"],
-    "Spanish_conquest": "16th century",
-    "independence_from_Spain": "1821",
-    "union_with_Central_America": "1823",
-    "sovereign_state": "1841",
-    "Greater_Republic_of_Central_America": "1895-1898",
-    "Civil_War": "1979-1992"
+  "International Relations": {
+    "UN Member": true,
+    "OAS Member": true,
+    "CELAC Member": true
   },
-  "economic_history": {
-    "agricultural_focus": ["cacao", "balsam", "indigo", "coffee"],
-    "modern_economy": "Diversified with manufacturing sector"
+  "Miscellaneous": {
+    "Time Zone": ["UTC−6"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+503",
+    "ISO 3166 Code": "SV",
+    "Internet TLD": ".sv",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Holy Thursday (April)",
+      "Good Friday (April)",
+      "Labor Day (May 1)",
+      "Mother's Day (May 10)",
+      "Father's Day (June 17)",
+      "Independence Day (September 15)",
+      "All Saints' Day (November 1)",
+      "Christmas Day (December 25)"
+    ]
   },
-  "political_climate": {
-    "presidency_of_Nayib_Bukele": "Noted for authoritarian tendencies",
-    "re-election_bid": "Controversial and criticized",
-    "electoral_changes": "Reduction of municipalities and assembly seats",
-    "allegations": ["Negotiations with gangs", "Corruption"]
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage influenced by indigenous, Spanish, and African traditions",
+    "Cultural Contributions": ["Traditional music and dance", "Cuisine", "Art"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.5,
+    "Exports Growth": "Driven by manufacturing and agriculture",
+    "Inflation Rate": "2.8%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Energy", "Agriculture"],
+      "Challenges": "Balancing economic growth with environmental sustainability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "N/A",
+        "Expectation": "Steady growth into 2024"
+      },
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Food Products": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Central American culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Energy", "Agriculture", "Telecommunications"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Political Climate": {
+    "Presidency of Nayib Bukele": "Noted for authoritarian tendencies",
+    "Re-election Bid": "Controversial and criticized",
+    "Electoral Changes": "Reduction of municipalities and assembly seats",
+    "Allegations": ["Negotiations with gangs", "Corruption"]
   }
-}
 }
