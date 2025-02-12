@@ -1,66 +1,198 @@
 {
-  "Jordan":{
-  "name": "Jordan",
-  "FullName": "Hashemite Kingdom of Jordan",
-  "ArabicName": "المملكة الأردنية الهاشمية",
-  "motto": "الله، الوطن، الملك (God, Country, King)",
-  "Anthem": "السلام الملكي الأردني",
-  "AnthemLit": "The Royal Anthem of Jordan",
-  "location": "West Asia",
-  "geographical_description": "Situated at the crossroads of Asia, Africa, and Europe within the Levant region, on the East Bank of the Jordan River.",
-  "borders": {
-    "south_and_east": "Saudi Arabia",
-    "northeast": "Iraq",
-    "north": "Syria",
-    "west": ["Palestinian West Bank", "Israel"]
+  "Name": {
+    "Common": "Jordan",
+    "Official": "Hashemite Kingdom of Jordan",
+    "Arabic": "المملكة الأردنية الهاشمية"
   },
-  "coastline": "26 km on the Gulf of Aqaba's Red Sea",
-  "capital_and_largest_city": "Amman",
-  "official_language": "Arabic",
-  "ethnic_groups": {
-    "Arab": "95%",
-    "Circassian, Chechen": "3%",
-    "Armenian and others": "2%"
+  "Symbols": {
+    "Flag": "A horizontal tricolor of black, white, and green with a red chevron beside the hoist containing a white seven-pointed star",
+    "Emblem": "A crowned eagle holding a shield and a scroll inscribed with the national motto",
+    "Motto": "الله، الوطن، الملك (God, Country, King)",
+    "National Anthem": {
+      "Title": "السلام الملكي الأردني",
+      "Translation": "The Royal Anthem of Jordan",
+      "Duration": "1 minute and 30 seconds"
+    }
   },
-  "religion": {
-    "Sunni Islam (official)": "95%",
-    "Christianity": "3%",
-    "Druze, Baháʼí": "1%",
-    "others": "1%"
+  "Geography": {
+    "Continent": "Asia",
+    "Region": "West Asia",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Amman",
+        "Latitude": "31°57′N",
+        "Longitude": "35°56′E"
+      }
+    },
+    "Location": "Situated at the crossroads of Asia, Africa, and Europe within the Levant region, on the East Bank of the Jordan River",
+    "Area": {
+      "Total (km2)": 89342,
+      "Rank": "112th",
+      "Water Percentage": "N/A"
+    },
+    "Borders": {
+      "South and East": "Saudi Arabia",
+      "Northeast": "Iraq",
+      "North": "Syria",
+      "West": ["Palestinian West Bank", "Israel"]
+    },
+    "Coastline": "26 km on the Gulf of Aqaba's Red Sea",
+    "Terrain": ["Mostly desert plateau in east, highland area in west; Great Rift Valley separates eastern and western banks of the Jordan River"],
+    "Climate": ["Mostly arid desert; rainy season in west (November to April)"],
+    "Natural Resources": ["Phosphates, shale oil"],
+    "Time Zones": ["UTC+3"],
+    "Largest City": "Amman"
   },
-  "demonym": "Jordanian",
-  "government": "Unitary parliamentary constitutional monarchy",
-  "monarch": "Abdullah II",
-  "prime_minister": "Bisher Khasawneh",
-  "legislature": {
-    "upper_house": "Senate",
-    "lower_house": "House of Representatives"
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 11484805,
+      "2015 Census": 9531712,
+      "Density (per km2)": 114
+    },
+    "Ethnic Groups": {
+      "2023": {
+        "Arab": 95,
+        "Circassian, Chechen": 3,
+        "Armenian and others": 2
+      }
+    },
+    "Languages": {
+      "Official": ["Arabic"]
+    },
+    "Religion": {
+      "2023": {
+        "Sunni Islam (official)": 95,
+        "Christianity": 3,
+        "Druze, Baháʼí": 1,
+        "Others": 1
+      }
+    },
+    "Demonym": "Jordanian"
   },
-  "independence_from_the_United_Kingdom": {
-    "emirate": "11 April 1921",
-    "independence": "25 May 1946",
-    "current_constitution": "11 January 1952"
+  "Government": {
+    "Type": "Unitary parliamentary constitutional monarchy",
+    "Leaders": {
+      "Monarch": "Abdullah II",
+      "Prime Minister": "Bisher Khasawneh"
+    },
+    "Legislature": {
+      "Upper House": "Senate",
+      "Lower House": "House of Representatives"
+    },
+    "Constitution": "11 January 1952"
   },
-  "area_km2": "89,342",
-  "population_2023_estimate": "11,484,805",
-  "population_2015_census": "9,531,712",
-  "population_density_per_km2": "114",
-  "gdp_ppp_2023_estimate": {
-    "total": "$132.092 billion",
-    "per_capita": "$12,809"
+  "History": {
+    "Independence from the United Kingdom": {
+      "Emirate": "11 April 1921",
+      "Independence": "25 May 1946",
+      "Current Constitution": "11 January 1952"
+    }
   },
-  "gdp_nominal_2023_estimate": {
-    "total": "$50.022 billion",
-    "per_capita": "$4,850"
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Phosphate mining, fertilizers, tourism, and manufacturing",
+    "Major Industries": ["Phosphates", "Potash", "Fertilizers", "Tourism", "Manufacturing"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 132.092,
+      "Per Capita (USD)": 12809
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 50.022,
+      "Per Capita (USD)": 4850
+    },
+    "Currency": "Jordanian dinar (JOD)",
+    "Gini Index": 35.4,
+    "HDI": {
+      "Score": 0.720,
+      "Rank": "102nd"
+    }
   },
-  "gini_2011": "35.4 (medium)",
-  "hdi_2021": "0.720 (high)",
-  "currency": "Jordanian dinar (JOD)",
-  "time_zone": "UTC+3",
-  "driving_side": "right",
-  "calling_code": "+962",
-  "iso_3166_code": "JO",
-  "internet_tld": [".jo", ".الاردن"],
-  "official_website": "jordan.gov.jo"
-}
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": ["United Nations", "Arab League", "Organisation of Islamic Cooperation", "World Trade Organization"]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+3"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+962",
+    "ISO 3166 Code": "JO",
+    "Internet TLD": [".jo", ".الاردن"],
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Labor Day (May 1)",
+      "Independence Day (May 25)",
+      "Eid al-Fitr (Varies)",
+      "Eid al-Adha (Varies)",
+      "Islamic New Year (Varies)",
+      "Prophet Muhammad's Birthday (Varies)",
+      "Christmas Day (December 25)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of Arab, Islamic, and Western influences",
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["Home to ancient cities like Petra", "Significant influence in Middle Eastern politics"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 2.5,
+    "Exports Growth": "Driven by fertilizers and manufacturing",
+    "Inflation Rate": "3.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Mining", "Tourism"],
+      "Challenges": "Balancing economic growth with political stability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "ASE Index",
+        "Expectation": "Steady growth into 2024"
+      },
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Middle Eastern culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Mining", "Manufacturing", "Tourism"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air, and Sea transport",
+    "Key Transport Hubs": ["Amman", "Aqaba", "Irbid"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Occasional protests and political unrest",
+    "Economic Hardships": "High unemployment and poverty rates",
+    "Natural Disasters": ["Earthquakes"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "74.5 years",
+    "Infant Mortality Rate": "14.9 deaths/1,000 live births",
+    "Health Expenditure of GDP": "7.5% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "4.8% (2020)",
+    "Literacy Rate": {
+      "Total": "98%",
+      "Male": "98.5%",
+      "Female": "97.5%"
+    }
+  }
 }
