@@ -1,68 +1,116 @@
 {
-  "Bahrain": {
-    "Name": "Kingdom of Bahrain",
-    "Local_Name": "Mamlakat al-Baḥrayn",
-    "ArabicName": "مملكة البحرين",
-    "Geography": {
-      "Location": "Persian Gulf",
-      "Area": "786.5 sq km",
-      "Climate": "Arid; mild winters, very hot summers",
-      "Islands": "50 natural, 33 artificial",
-      "Notable_Bridge": "King Fahd Causeway"
-    },
-    "Demographics": {
-      "Population": "1,501,635 (2023 est.)",
-      "Ethnic_Groups": {
-        "Arabs": "53.2%",
-        "Asians": "43.4%",
-        "Others": "3.4%"
-      },
-      "Religions": {
-        "Islam": "80.6%",
-        "Christianity": "12.1%",
-        "Hinduism": "6.4%"
-      },
-      "Languages": {
-        "Official": "Arabic",
-        "Common": ["English"]
-      },
-      "Literacy_Rate": {
-        "Total": "97.5%",
-        "Male": "99.9%",
-        "Female": "94.9%"
-      }
-    },
-    "Economy": {
-      "GDP_PPP_2023_Estimate": "$95.973 billion",
-      "Per_Capita_PPP": "$60,715",
-      "GDP_Nominal_2023_Estimate": "$44.994 billion",
-      "Per_Capita_Nominal": "$28,464",
-      "Primary_Exports": ["Crude oil", "Petroleum products"],
-      "Oil_Production": "40,000 barrels/day"
-    },
-    "Government": {
-      "Type": "Unitary Islamic parliamentary semi-constitutional monarchy",
-      "Monarch": "Hamad bin Isa Al Khalifa",
-      "Prime_Minister": "Salman bin Hamad Al Khalifa",
-      "Legislature": {
-        "Upper_House": "Consultative Council",
-        "Lower_House": "Council of Representatives"
-      },
-      "Independence": {
-        "Declared": "14 August 1971",
-        "From_United_Kingdom": "15 August 1971",
-        "UN_Admission": "21 September 1971"
-      }
-    },
-    "Culture_and_Society": {
-      "Historical_Empire": "Dilmun",
-      "Modern_History": ["Portuguese rule (1521-1602)", "British protectorate (1892-1971)"],
-      "Formula_1": "Hosted Middle East’s first Grand Prix in 2004",
-      "Famous_Tree": "Tree of Life"
-    },
-    "Environmental_Issues": {
-      "Major_Issues": ["Desertification", "Water scarcity", "Coastal degradation"],
-      "Freshwater_Sources": "Groundwater, seawater (desalination)"
+  "Name": {
+    "Common": "Bahrain",
+    "Official": "Kingdom of Bahrain",
+    "Local Name": "Mamlakat al-Baḥrayn",
+    "Arabic": "مملكة البحرين"
+  },
+  "Symbols": {
+    "Flag": "Red with a white serrated band (five white points) on the hoist side",
+    "Emblem": "Emblem of Bahrain",
+    "Anthem": {
+      "Title": "Bahrainona",
+      "Translation": "Our Bahrain",
+      "Duration": "1 minute and 20 seconds"
     }
+  },
+  "Geography": {
+    "Capital City": "Manama",
+    "Largest City": "Manama",
+    "Major Cities": ["Riffa", "Muharraq", "Hamala"],
+    "Area": {
+      "Total (sq km)": 786.5
+    },
+    "Region": "Persian Gulf",
+    "Coordinates": "26°13′N 50°35′E",
+    "Terrain": ["Low desert plain", "Islands"],
+    "Climate": "Arid; mild winters, very hot summers",
+    "Islands": {
+      "Natural": 50,
+      "Artificial": 33
+    },
+    "Notable Bridge": "King Fahd Causeway"
+  },
+  "Government": {
+    "Type": "Unitary Islamic parliamentary semi-constitutional monarchy",
+    "Monarch": "Hamad bin Isa Al Khalifa",
+    "Prime Minister": "Salman bin Hamad Al Khalifa",
+    "Legislature": {
+      "Upper House": "Consultative Council",
+      "Lower House": "Council of Representatives"
+    },
+    "Independence": {
+      "Declared": "14 August 1971",
+      "From United Kingdom": "15 August 1971",
+      "UN Admission": "21 September 1971"
+    }
+  },
+  "History": {
+    "Early History": ["Dilmun civilization"],
+    "Colonial Period": ["Portuguese rule (1521-1602)", "British protectorate (1892-1971)"],
+    "Modern History": ["Independence in 1971", "Economic diversification"]
+  },
+  "Economy": {
+    "GDP (PPP 2023) Total (Billion USD)": 95.973,
+    "GDP per Capita (PPP USD)": 60715,
+    "GDP (Nominal 2023) Total (Billion USD)": 44.994,
+    "GDP per Capita (Nominal USD)": 28464,
+    "Main Industries": ["Crude oil", "Petroleum products"],
+    "Oil Production": "40,000 barrels/day",
+    "Currency": "Bahraini dinar (BHD)",
+    "Gini Index": null,
+    "HDI (2021)": null
+  },
+  "Demographics": {
+    "Population": {
+      "Estimate 2023": 1501635
+    },
+    "Ethnic Groups": {
+      "Arabs": 53.2,
+      "Asians": 43.4,
+      "Others": 3.4
+    },
+    "Languages": {
+      "Official": "Arabic",
+      "Common": ["English"]
+    },
+    "Religion": {
+      "Islam": 80.6,
+      "Christianity": 12.1,
+      "Hinduism": 6.4
+    },
+    "Literacy Rate": {
+      "Total": 97.5,
+      "Male": 99.9,
+      "Female": 94.9
+    },
+    "Demonyms": ["Bahraini"]
+  },
+  "Miscellaneous": {
+    "Human Development Index (HDI)": null,
+    "Currency": "Bahraini dinar (BHD)",
+    "Calling Code": "+973",
+    "ISO 3166 Code": "BH",
+    "Internet TLD": [".bh"],
+    "Public Holidays": [
+      "New Year's Day", "Labour Day", "Eid al-Fitr", "Eid al-Adha", "Prophet's Birthday", "National Day"
+    ],
+    "Time Zone": "UTC+3 (AST)",
+    "Driving Side": "Right",
+    "Date Format": "dd/mm/yyyy (CE)"
+  },
+  "Culture and Society": {
+    "National Anthem": "Bahrainona",
+    "Historical Empire": "Dilmun",
+    "Modern History": ["Portuguese rule (1521-1602)", "British protectorate (1892-1971)"],
+    "Formula 1": "Hosted Middle East’s first Grand Prix in 2004",
+    "Famous Tree": "Tree of Life"
+  },
+  "Environmental Issues": {
+    "Major Issues": ["Desertification", "Water scarcity", "Coastal degradation"],
+    "Freshwater Sources": ["Groundwater", "Seawater (desalination)"]
+  },
+  "International Relations": {
+    "Member Of": ["United Nations", "Arab League", "Gulf Cooperation Council", "Organization of Islamic Cooperation"]
   }
 }
