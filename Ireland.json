@@ -1,88 +1,197 @@
 {
-  "Ireland":{
-  "CommonName": "Ireland",
-  "IrishName": "Éire",
-  "FullName": "Republic of Ireland",
-  "Flag_Description": "Green with a golden harp",
-  "Coat_of_Arms_Description": "Azure, with a golden harp crowned with a golden crown",
-  "Anthem": {
-    "Title": "Amhrán na bhFiann",
-    "English_Title": "The Soldiers' Song",
-    "Duration": "1 minute and 0 seconds"
+  "Name": {
+    "Common": "Ireland",
+    "Irish": "Éire",
+    "Official": "Republic of Ireland"
   },
-  "Geography": {
-    "Location": "North-western Europe",
-    "Area_Sq_Km": 70273,
-    "Coastline": "Atlantic Ocean, Celtic Sea, St George's Channel, Irish Sea",
-    "Capital": {
-      "Name": "Dublin",
-      "Coordinates": "53°20.65′N 6°16.05′W"
+  "Symbols": {
+    "Flag": "Green with a golden harp",
+    "Coat of Arms": "Azure, with a golden harp crowned with a golden crown",
+    "Anthem": {
+      "Title": "Amhrán na bhFiann",
+      "English Title": "The Soldiers' Song",
+      "Duration": "1 minute and 0 seconds"
     }
   },
-  "Demographics": {
-    "Population_2022": 5281600,
-    "Ethnic_Groups": {
-      "White_Irish": "76.6%",
-      "Other_White": "10.8%",
-      "Asian": "3.3%",
-      "Black": "1.5%",
-      "Other": "1.7%",
-      "Not_Stated": "6.2%"
+  "Geography": {
+    "Continent": "Europe",
+    "Region": "North-western Europe",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Dublin",
+        "Latitude": "53°20.65′N",
+        "Longitude": "6°16.05′W"
+      }
     },
-    "Religion": {
-      "Christianity": "75.7%",
-      "Catholicism": "69.1%",
-      "Anglicanism": "2.5%",
-      "Other_Christian": "4.1%",
-      "No_Religion": "14.5%",
-      "Other": "3.1%",
-      "Not_Stated": "6.7%"
+    "Location": "North-western Europe",
+    "Area": {
+      "Total (km2)": 70273,
+      "Rank": "120",
+      "Water Percentage": "N/A"
+    },
+    "Coastline": ["Atlantic Ocean", "Celtic Sea", "St George's Channel", "Irish Sea"],
+    "Terrain": ["Mostly flat with some low mountains"],
+    "Climate": ["Temperate maritime; mild winters, cool summers"],
+    "Natural Resources": ["Natural gas, peat, copper, lead, zinc, silver, barite, gypsum, limestone, dolomite"],
+    "Time Zones": ["UTC (GMT)", "UTC+1 (IST in summer)"],
+    "Largest City": "Dublin"
+  },
+  "Demographics": {
+    "Population": {
+      "2022 Estimate": 5281600,
+      "Density (per km2)": 74.9
+    },
+    "Ethnic Groups": {
+      "2022": {
+        "White Irish": 76.6,
+        "Other White": 10.8,
+        "Asian": 3.3,
+        "Black": 1.5,
+        "Other": 1.7,
+        "Not Stated": 6.2
+      }
     },
     "Languages": {
       "Official": ["Irish", "English"]
-    }
+    },
+    "Religion": {
+      "2022": {
+        "Christianity": 75.7,
+        "Catholicism": 69.1,
+        "Anglicanism": 2.5,
+        "Other Christian": 4.1,
+        "No Religion": 14.5,
+        "Other": 3.1,
+        "Not Stated": 6.7
+      }
+    },
+    "Demonym": "Irish"
   },
   "Government": {
     "Type": "Unitary parliamentary republic",
-    "President": "Michael D. Higgins",
-    "Taoiseach": "Leo Varadkar",
-    "Tánaiste": "Micheál Martin",
-    "Chief_Justice": "Donal O'Donnell",
-    "Legislature": {
-      "Upper_House": "Seanad",
-      "Lower_House": "Dáil"
+    "Leaders": {
+      "President": "Michael D. Higgins",
+      "Taoiseach": "Leo Varadkar",
+      "Tánaiste": "Micheál Martin",
+      "Chief Justice": "Donal O'Donnell"
     },
-    "Independence_From_UK": {
+    "Legislature": {
+      "Upper House": "Seanad",
+      "Lower House": "Dáil"
+    },
+    "Constitution": "29 December 1937"
+  },
+  "History": {
+    "Independence from the United Kingdom": {
       "Proclamation": "24 April 1916",
       "Declaration": "21 January 1919",
-      "Anglo-Irish_Treaty": "6 December 1921",
-      "1922_Constitution": "6 December 1922",
-      "1937_Constitution": "29 December 1937",
-      "Republic_Act": "18 April 1949"
+      "Anglo-Irish Treaty": "6 December 1921",
+      "1922 Constitution": "6 December 1922",
+      "1937 Constitution": "29 December 1937",
+      "Republic Act": "18 April 1949"
     }
   },
   "Economy": {
-    "GDP_PPP_2023": {
-      "Total": "$722.929 billion",
-      "Per_Capita": "$137,638"
+    "Status": "Developed country",
+    "Dependence": "Services, technology, pharmaceuticals",
+    "Major Industries": ["Technology", "Pharmaceuticals", "Financial services", "Agriculture"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 722.929,
+      "Per Capita (USD)": 137638
     },
-    "GDP_Nominal_2023": {
-      "Total": "$589.569 billion",
-      "Per_Capita": "$112,247"
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 589.569,
+      "Per Capita (USD)": 112247
     },
     "Currency": "Euro (EUR)"
   },
-  "Culture": {
-    "Historical_Influence": "Celtic, Norman, English",
-    "Military_Neutrality": "Non-aligned, not a NATO member",
-    "Economic_Period": "Celtic Tiger period (1995-2007)"
-  },
-  "Additional_Information": {
-    "Time_Zone": "UTC (GMT), UTC+1 (IST in summer)",
-    "Driving_Side": "left",
-    "Calling_Code": "+353",
-    "ISO_Code": "IE",
-    "Internet_TLD": ".ie",
+  "International Relations": {
+    "Global Role": "Active in international affairs",
     "Membership": ["United Nations", "European Union", "Council of Europe", "OECD"]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC (GMT)", "UTC+1 (IST in summer)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Left",
+    "Calling Code": "+353",
+    "ISO 3166 Code": "IE",
+    "Internet TLD": ".ie",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "St. Patrick's Day (March 17)",
+      "Easter Monday (April)",
+      "May Day (May 1)",
+      "June Bank Holiday (June)",
+      "August Bank Holiday (August)",
+      "October Bank Holiday (October)",
+      "Christmas Day (December 25)",
+      "St. Stephen's Day (December 26)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of Celtic, Norman, and English influences",
+    "Cultural Contributions": ["Literature", "Music", "Dance", "Cuisine"],
+    "Unique Features": ["Home to many UNESCO World Heritage Sites", "Military neutrality, not a NATO member"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 4.0,
+    "Exports Growth": "Driven by technology and pharmaceuticals",
+    "Inflation Rate": "2.5%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Technology", "Pharmaceuticals"],
+      "Challenges": "Balancing economic growth with environmental sustainability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "ISEQ",
+        "Expectation": "Steady growth into 2024"
+      },
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on European culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Technology", "Pharmaceuticals", "Financial services"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air, and Sea transport",
+    "Key Transport Hubs": ["Dublin", "Cork", "Galway"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Occasional protests and political unrest",
+    "Economic Hardships": "High cost of living",
+    "Natural Disasters": ["Floods"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "82.3 years",
+    "Infant Mortality Rate": "3.3 deaths/1,000 live births",
+    "Health Expenditure of GDP": "7.2% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "5.1% (2020)",
+    "Literacy Rate": {
+      "Total": "99%",
+      "Male": "99%",
+      "Female": "99%"
+    }
   }
 }
