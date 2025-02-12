@@ -1,136 +1,203 @@
 {
-  "Costa Rica": {
-    "Lit": "Rich Coast",
-    "Name": "Republic of Costa Rica",
-    "SpanishName": "República de Costa Rica",
-    "Location": "Central America",
+  "Name": {
+    "Common": "Costa Rica",
+    "Official": "Republic of Costa Rica",
+    "Native": {
+      "Spanish": "República de Costa Rica"
+    }
+  },
+  "Symbols": {
+    "Flag": "Five horizontal bands of blue, white, red, white, and blue",
+    "Emblem": "A shield with three volcanoes and an extensive valley between two oceans, with a rising sun",
+    "Motto": "Vivan siempre el trabajo y la paz (Long live work and peace)",
+    "Anthem": {
+      "Title": "Noble patria, tu hermosa bandera ('Noble homeland, your beautiful flag')",
+      "Duration": "2 minutes and 54 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "North America",
+    "Region": "Central America",
     "Coordinates": {
-      "Latitude": "9°56′N",
-      "Longitude": "84°5′W"
+      "Capital": {
+        "Name": "San José",
+        "Latitude": "9°56′N",
+        "Longitude": "84°5′W"
+      }
     },
     "Borders": {
       "North": "Nicaragua",
       "Northeast": "Caribbean Sea",
       "Southeast": "Panama",
       "Southwest": "Pacific Ocean",
-      "MaritimeSouth": "Ecuador"
+      "Maritime South": "Ecuador"
     },
-    "Area": "51,060 km2",
+    "Area": {
+      "Total (km2)": 51060,
+      "Rank": "126",
+      "Water Percentage": "1.5%"
+    },
+    "Time Zones": ["UTC−6"],
+    "Largest City": "San José",
+    "Natural Resources": ["Hydropower", "Timber", "Bauxite", "Copper", "Gold"],
+    "Climate": ["Tropical and subtropical"]
+  },
+  "Demographics": {
     "Population": {
-      "2023_Estimate": 5264000,
-      "Capital": {
-        "Name": "San José",
-        "Population": 333980
-      },
-      "Metropolitan_Area": {
-        "Population": 2000000
-      }
+      "2023 Estimate": 5264000,
+      "Density per km2": 103
     },
-    "Government": {
-      "Type": "Unitary presidential constitutional republic",
+    "Ethnic Groups": {
+      "White or Mestizo": 83.6,
+      "Mulatto": 6.7,
+      "Indigenous": 2.4,
+      "Black": 1.1,
+      "Others": 6.2
+    },
+    "Languages": {
+      "Official": ["Spanish"],
+      "Recognised Regional": ["Creole English", "64 other languages"]
+    },
+    "Religion": {
+      "Christianity": 72.6,
+      "Roman Catholic": 47.5,
+      "Protestant": 22.5,
+      "Other Christian": 2.6,
+      "No Religion": 27.0
+    }
+  },
+  "Government": {
+    "Type": "Unitary presidential constitutional republic",
+    "Leaders": {
       "President": "Carlos Andrés Alvarado Quesada",
+      "Vice President": "Epsy Campbell Barr",
       "Legislature": "Legislative Assembly"
     },
+    "Constitution": "7 November 1949"
+  },
+  "History": {
     "Independence": {
-      "From_Spain": "15 September 1821",
-      "From_Mexican_Empire": "1 July 1823",
-      "From_Federal_Republic_of_Central_America": "14 November 1838",
-      "Recognized_by_Spain": "10 May 1850"
+      "From Spain": "15 September 1821",
+      "From Mexican Empire": "1 July 1823",
+      "From Federal Republic of Central America": "14 November 1838",
+      "Recognized by Spain": "10 May 1850"
+    }
+  },
+  "Economy": {
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 141.527,
+      "Per Capita (USD)": 26809
     },
-    "Economy": {
-      "GDP_PPP_2023_Estimate": {
-        "Total": "$141.527 billion",
-        "Per_Capita": "$26,809"
-      },
-      "GDP_Nominal_2023_Estimate": {
-        "Total": "$85.590 billion",
-        "Per_Capita": "$16,213"
-      },
-      "Gini_Index": "47.2",
-      "HDI": "0.809"
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 85.590,
+      "Per Capita (USD)": 16213
     },
     "Currency": "Costa Rican colón (CRC)",
-    "Time_Zone": "UTC−6",
-    "Driving_Side": "right",
-    "Calling_Code": "+506",
-    "ISO_3166_Code": "CR",
-    "Internet_TLD": [".cr", ".co.cr"],
-    "Education": {
-      "Expenditures": "6.7% of GDP",
-      "Literacy_Rate": "98%",
-      "School_Life_Expectancy": "17 years"
+    "Gini Index": "47.2 (2020)",
+    "HDI": "0.809 (2021)"
+  },
+  "International Relations": {
+    "UN Member": true,
+    "WTO Member": true,
+    "OECD Member": true,
+    "OAS Member": true,
+    "CELAC Member": true
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC−6"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+506",
+    "ISO 3166 Code": "CR",
+    "Internet TLD": [".cr", ".co.cr"],
+    "Public Holidays": [
+      "New Year's Day",
+      "Juan Santamaría Day",
+      "Labor Day",
+      "Annexation of the Party of Nicoya",
+      "Virgin of Los Angeles Day",
+      "Mother's Day",
+      "Independence Day",
+      "Army Abolition Day",
+      "Christmas Day"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "European immigration",
+    "Cultural Contributions": ["Traditional music and dance", "Handicrafts", "Cuisine"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.8,
+    "Exports Growth": "Driven by electronics, medical equipment, and agricultural products",
+    "Inflation Rate": "3.5%",
+    "Policy Response": {
+      "Focus": "Economic diversification",
+      "Areas": ["Infrastructure", "Technology"],
+      "Challenges": "Balancing economic growth with social equity"
     },
-    "Health": {
-      "Malaria_Eradication": "virtually eliminated",
-      "Social_Security_Institute": "model for Latin America",
-      "Human_Rights_Agencies": "based in San José"
-    },
-    "Demographics": {
-      "Ethnic_Groups": {
-        "White_or_Mestizo": "83.6%",
-        "Mulatto": "6.7%",
-        "Indigenous": "2.4%",
-        "Black": "1.1%",
-        "Others": "6.2%"
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "Positive outlook",
+        "Expectation": "Recovery into 2024"
       },
-      "Religion": {
-        "Christianity": "72.6%",
-        "Roman_Catholic": "47.5%",
-        "Protestant": "22.5%",
-        "Other_Christian": "2.6%",
-        "No_Religion": "27.0%"
-      }
-    },
-    "Environment": {
-      "Issues": [
-        "deforestation",
-        "soil erosion",
-        "coastal marine pollution",
-        "fisheries protection",
-        "solid waste management",
-        "air pollution"
-      ],
-      "International_Agreements": [
-        "Biodiversity",
-        "Climate Change",
-        "Kyoto Protocol",
-        "Paris Agreement",
-        "Desertification",
-        "Endangered Species",
-        "Environmental Modification",
-        "Hazardous Wastes",
-        "Law of the Sea",
-        "Marine Dumping-London Convention",
-        "Nuclear Test Ban",
-        "Ozone Layer Protection",
-        "Tropical Timber 2006",
-        "Wetlands",
-        "Whaling"
-      ]
-    },
-    "Culture": {
-      "Influences": "European immigration",
-      "Historical_Influences": ["German", "Italian", "British"]
-    },
-    "Politics": {
-      "Recent_Elections": {
-        "2010": "Laura Chinchilla",
-        "2014": "Luis Guillermo Solís",
-        "2018": "Carlos Alvarado",
-        "2022": "Rodrigo Chaves"
-      },
-      "Political_Challenges": ["Public debt", "Budget deficit"]
-    },
-    "Geography": {
-      "Climate": "Tropical and subtropical",
-      "Land_Use": {
-        "Agricultural_Land": "37.1%",
-        "Forest": "51.5%"
-      },
-      "Urbanization": {
-        "Urban_Population": "82.6%",
-        "Rate_of_Urbanization": "1.5% annual rate"
+      "Commodity Imports": {
+        "Oil": "Significant",
+        "Agricultural Products": "Increased demand"
       }
     }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban growth",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Central America",
+      "Key Aspects": ["Languages", "Traditions", "Architecture", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Information Technology", "Telecommunications"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on technological and scientific skills",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Environment": {
+    "Issues": [
+      "deforestation",
+      "soil erosion",
+      "coastal marine pollution",
+      "fisheries protection",
+      "solid waste management",
+      "air pollution"
+    ],
+    "International Agreements": [
+      "Biodiversity",
+      "Climate Change",
+      "Kyoto Protocol",
+      "Paris Agreement",
+      "Desertification",
+      "Endangered Species",
+      "Environmental Modification",
+      "Hazardous Wastes",
+      "Law of the Sea",
+      "Marine Dumping-London Convention",
+      "Nuclear Test Ban",
+      "Ozone Layer Protection",
+      "Tropical Timber 2006",
+      "Wetlands",
+      "Whaling"
+    ]
+  },
+  "Politics": {
+    "Recent Elections": {
+      "2010": "Laura Chinchilla",
+      "2014": "Luis Guillermo Solís",
+      "2018": "Carlos Alvarado",
+      "2022": "Rodrigo Chaves"
+    },
+    "Political Challenges": ["Public debt", "Budget deficit"]
   }
 }
