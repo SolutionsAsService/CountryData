@@ -1,65 +1,171 @@
 {
-  "Country_Name": "Denmark",
-  "Local_Name": "Danmark (Danish)",
-  "Motto": "Guds hjælp, folkets kærlighed, Danmarks styrke (God's help, the love of the people, Denmark's strength)",
-  "Anthem": {
-    "National": "Der er et yndigt land (There is a lovely country)",
-    "Royal": "Kong Christian stod ved højen mast (King Christian stood by the lofty mast)"
+  "Name": {
+    "Common": "Denmark",
+    "Official": "Kingdom of Denmark",
+    "Native": {
+      "Danish": "Danmark"
+    }
   },
-  "Location": "Nordic country in central Northern Europe",
-  "Part_Of": "Kingdom of Denmark, including Faroe Islands and Greenland",
-  "Geographical_Details": {
+  "Symbols": {
+    "Flag": "A red field with a white Scandinavian cross that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side",
+    "Emblem": "A blue shield with three crowned lions passant and nine hearts",
+    "Motto": "Guds hjælp, folkets kærlighed, Danmarks styrke (God's help, the love of the people, Denmark's strength)",
+    "Anthem": {
+      "National": "Der er et yndigt land (There is a lovely country)",
+      "Royal": "Kong Christian stod ved højen mast (King Christian stood by the lofty mast)"
+    }
+  },
+  "Geography": {
+    "Continent": "Europe",
+    "Region": "Northern Europe",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Copenhagen",
+        "Latitude": "55°40′N",
+        "Longitude": "12°34′E"
+      }
+    },
+    "Location": "Nordic country in central Northern Europe",
+    "Part Of": "Kingdom of Denmark, including Faroe Islands and Greenland",
     "Position": "Southernmost of the Scandinavian countries",
-    "Borders": "Sweden, Norway, Germany",
-    "Total_Islands": 1419,
-    "Named_Islands": 443,
-    "Inhabited_Islands": 78
+    "Borders": ["Sweden", "Norway", "Germany"],
+    "Area": {
+      "Total (km2)": 43094,
+      "Rank": "130",
+      "Water Percentage": "1.6%"
+    },
+    "Total Islands": 1419,
+    "Named Islands": 443,
+    "Inhabited Islands": 78,
+    "Time Zones": ["CET (UTC+01:00)", "CEST (UTC+02:00)"],
+    "Largest City": "Copenhagen",
+    "Natural Resources": ["Oil", "Natural gas", "Fish", "Salt", "Limestone", "Clay", "Gravel", "Sand"],
+    "Climate": ["Temperate; humid and overcast; mild, windy winters and cool summers"]
   },
-  "Capital_Largest_City": "Copenhagen",
-  "Official_Language": "Danish",
-  "Regional_Languages": ["German"],
-  "Ethnic_Groups_2020": {
-    "Danish": "86.11%",
-    "Other": "13.89%"
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 5935619,
+      "Density per km2": 137.7
+    },
+    "Ethnic Groups": {
+      "Danish": 86.11,
+      "Other": 13.89
+    },
+    "Languages": {
+      "Official": ["Danish"],
+      "Regional": ["German"]
+    },
+    "Religion": {
+      "Christianity": 75.8,
+      "Church of Denmark": 74.3,
+      "Other Christian": 1.5,
+      "No Religion": 19.1,
+      "Islam": 4.4,
+      "Other": 0.7
+    }
   },
-  "Religion_2020": {
-    "Christianity": "75.8%",
-    "Church_of_Denmark": "74.3%",
-    "Other_Christian": "1.5%",
-    "No_Religion": "19.1%",
-    "Islam": "4.4%",
-    "Other": "0.7%"
+  "Government": {
+    "Type": "Unitary parliamentary constitutional monarchy",
+    "Leaders": {
+      "Monarch": "Margrethe II",
+      "Prime Minister": "Mette Frederiksen"
+    },
+    "Legislature": "Folketing",
+    "Constitution": "5 June 1849"
   },
-  "Government": "Unitary parliamentary constitutional monarchy",
-  "Monarch": "Margrethe II",
-  "Prime_Minister": "Mette Frederiksen",
-  "Legislature": "Folketing",
-  "Area_km2": 43094,
-  "Population_Estimate_2023": 5935619,
-  "GDP_PPP_2023_Estimate": {
-    "Total": "$441.754 billion",
-    "Per_Capita": "$74,957"
-  },
-  "GDP_Nominal_2023_Estimate": {
-    "Total": "$420.800 billion",
-    "Per_Capita": "$71,402"
-  },
-  "Gini_Index_2022": 27.7,
-  "HDI_2021": 0.948,
-  "Currency": "Danish krone (DKK)",
-  "Time_Zone": "CET (UTC+01:00), CEST in summer (UTC+02:00)",
-  "ISO_3166_Code": "DK",
-  "Internet_TLD": ".dk",
-  "Official_Website": "denmark.dk",
-  "Historical_Era": {
+  "History": {
     "Consolidation": "8th century",
     "Christianization": "c. 965",
-    "Constitutional_Act": "5 June 1849",
-    "Kalmar_Union": "1397-1523",
-    "Viking_Age": "8th-10th century",
-    "Middle_Ages": "Included Skåneland and parts of present-day Germany",
-    "Early_Modern_History": "1536-1849, included overseas colonies"
+    "Constitutional Act": "5 June 1849",
+    "Kalmar Union": "1397-1523",
+    "Viking Age": "8th-10th century",
+    "Middle Ages": "Included Skåneland and parts of present-day Germany",
+    "Early Modern History": "1536-1849, included overseas colonies"
   },
-  "Membership": ["NATO", "Nordic Council", "OECD", "OSCE", "United Nations", "Schengen Area"],
-  "Cultural_Ties": "Strong ties with Scandinavian neighbours, Danish language partially mutually intelligible with Norwegian and Swedish"&#8203;``【oaicite:0】``&#8203;.
+  "Economy": {
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 441.754,
+      "Per Capita (USD)": 74957
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 420.800,
+      "Per Capita (USD)": 71402
+    },
+    "Currency": "Danish krone (DKK)",
+    "Gini Index": "27.7 (2022)",
+    "HDI": "0.948 (2021)"
+  },
+  "International Relations": {
+    "UN Member": true,
+    "NATO Member": true,
+    "Nordic Council Member": true,
+    "OECD Member": true,
+    "OSCE Member": true,
+    "Schengen Area Member": true
+  },
+  "Miscellaneous": {
+    "Time Zone": ["CET (UTC+01:00)", "CEST (UTC+02:00)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+45",
+    "ISO 3166 Code": "DK",
+    "Internet TLD": ".dk",
+    "Official Website": "denmark.dk",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Maundy Thursday (April)",
+      "Good Friday (April)",
+      "Easter Sunday (April)",
+      "Easter Monday (April)",
+      "General Prayer Day (May)",
+      "Ascension Day (May)",
+      "Whit Monday (June)",
+      "Constitution Day (June 5)",
+      "Christmas Eve (December 24)",
+      "Christmas Day (December 25)",
+      "Second Christmas Day (December 26)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Strong cultural ties with Scandinavian neighbours",
+    "Cultural Contributions": ["Literature", "Philosophy", "Architecture", "Music", "Cuisine"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 2.2,
+    "Exports Growth": "Driven by pharmaceuticals, machinery, and agricultural products",
+    "Inflation Rate": "1.8%",
+    "Policy Response": {
+      "Focus": "Economic stability and growth",
+      "Areas": ["Green energy", "Technological innovation"],
+      "Challenges": "Balancing economic growth with environmental sustainability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "Positive outlook",
+        "Expectation": "Steady growth into 2024"
+      },
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Scandinavian culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Information Technology", "Pharmaceuticals", "Renewable Energy"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on technological and scientific skills",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  }
 }
