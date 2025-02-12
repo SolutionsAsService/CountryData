@@ -5,39 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Online Atlas</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
-    <style>
-        body {
-            margin: 0;
-            font-family: Arial, sans-serif;
-        }
-        #header {
-            background-color: #333;
-            color: white;
-            padding: 10px;
-            text-align: center;
-            font-size: 24px;
-            font-weight: bold;
-            position: fixed;
-            width: 100%;
-            z-index: 1000;
-        }
-        #map {
-            height: calc(100vh - 50px); /* Adjust height to exclude header */
-            margin-top: 50px; /* Space for header */
-        }
-        #info {
-            position: absolute;
-            top: 60px; /* Adjusted for header */
-            right: 10px;
-            background: white;
-            padding: 10px;
-            border: 1px solid #ccc;
-            max-width: 300px;
-            overflow-y: auto;
-            max-height: 80vh;
-            z-index: 1000; /* Ensure the info box is above the map layers */
-        }
-    </style>
+    <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
     <div id="header">Online Atlas</div>
