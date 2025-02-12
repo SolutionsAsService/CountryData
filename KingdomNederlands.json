@@ -1,23 +1,137 @@
 {
-  "KingdomOfTheNetherlands": {
-    "TotalArea": "42,531 km²",
-    "LandArea": "34,467 km²",
-    "ConstituentCountries": ["Netherlands", "Aruba", "Curaçao", "Sint Maarten"],
-    "PublicBodies": ["Bonaire", "Sint Eustatius", "Saba"],
-    "Capital": {
-      "Netherlands": "Amsterdam",
-      "Aruba": "Oranjestad",
-      "Curaçao": "Willemstad",
-      "Sint Maarten": "Philipsburg"
+  "Name": {
+    "Common": "Kingdom of the Netherlands",
+    "Official": "Kingdom of the Netherlands",
+    "Dutch": "Koninkrijk der Nederlanden"
+  },
+  "Symbols": {
+    "Flag": "A horizontal tricolor of red, white, and blue",
+    "Emblem": "A lion holding a sword and arrows",
+    "Motto": "Je Maintiendrai (I will maintain)",
+    "National Anthem": {
+      "Title": "Wilhelmus",
+      "Duration": "2 minutes and 50 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Europe",
+    "Region": ["Northwestern Europe", "Caribbean"],
+    "Coordinates": {
+      "Capital": {
+        "Netherlands": {
+          "Name": "Amsterdam",
+          "Latitude": "52°22′N",
+          "Longitude": "4°53′E"
+        },
+        "Aruba": {
+          "Name": "Oranjestad",
+          "Latitude": "12°31′N",
+          "Longitude": "70°2′W"
+        },
+        "Curaçao": {
+          "Name": "Willemstad",
+          "Latitude": "12°7′N",
+          "Longitude": "68°56′W"
+        },
+        "Sint Maarten": {
+          "Name": "Philipsburg",
+          "Latitude": "18°1′N",
+          "Longitude": "63°2′W"
+        }
+      }
     },
-    "OfficialLanguages": {
-      "Netherlands": ["Dutch", "West Frisian"],
-      "Aruba": ["Dutch", "Papiamento"],
-      "Curaçao": ["Dutch", "Papiamento", "English"],
-      "Sint Maarten": ["Dutch", "English"],
-      "Bonaire": ["Dutch", "Papiamento"],
-      "Sint Eustatius": ["Dutch", "English"],
-      "Saba": ["Dutch", "English"]
+    "Location": {
+      "European Netherlands": "Northwestern Europe, bordered by Germany, Belgium, and the North Sea",
+      "Caribbean Territories": "Leeward Islands and Leeward Antilles in the Caribbean Sea"
+    },
+    "Area": {
+      "Total (km2)": 42531,
+      "Land (km2)": 34467,
+      "Rank": "131st",
+      "Water Percentage": "18.9%"
+    },
+    "Borders": {
+      "Germany": "east",
+      "Belgium": "south",
+      "France (Saint Martin)": "north"
+    },
+    "Coastline": "North Sea",
+    "Terrain": ["Low-lying, flat land, some areas below sea level"],
+    "Climate": ["Temperate in European Netherlands", "Tropical in Caribbean territories"],
+    "Natural Resources": ["Natural gas, petroleum, limestone, salt, sand, gravel"],
+    "Time Zones": ["UTC+1 (CET)", "UTC-4 (AST)"],
+    "Largest City": "Amsterdam"
+  },
+  "Demographics": {
+    "Population": {
+      "2024 Estimate": 18400000,
+      "Density (per km2)": 521
+    },
+    "Ethnic Groups": {
+      "2022": {
+        "Dutch": 74.0,
+        "Other European": 8.4,
+        "Turkish": 2.4,
+        "Moroccan": 2.4,
+        "Indonesian": 2.1,
+        "Surinamese": 2.1,
+        "Dutch Caribbean": 1.1,
+        "Other": 7.6
+      }
+    },
+    "Languages": {
+      "Official": {
+        "Netherlands": ["Dutch", "West Frisian"],
+        "Aruba": ["Dutch", "Papiamento"],
+        "Curaçao": ["Dutch", "Papiamento", "English"],
+        "Sint Maarten": ["Dutch", "English"],
+        "Bonaire": ["Dutch", "Papiamento"],
+        "Sint Eustatius": ["Dutch", "English"],
+        "Saba": ["Dutch", "English"]
+      }
+    },
+    "Religion": {
+      "2020": {
+        "No Religion": 55.4,
+        "Christianity": 34.2,
+        "Islam": 5.2,
+        "Other": 5.1
+      }
+    },
+    "Demonym": "Dutch"
+  },
+  "Government": {
+    "Type": "Parliamentary constitutional monarchy",
+    "Leaders": {
+      "Monarch": "Willem-Alexander",
+      "Prime Minister": "Mark Rutte"
+    },
+    "Legislature": {
+      "Upper House": "Senate",
+      "Lower House": "House of Representatives"
+    },
+    "Constitution": "24 August 1815"
+  },
+  "History": {
+    "Spanish Netherlands": "Before independence",
+    "Act of Abjuration": "26 July 1581",
+    "Peace of Münster": "30 January 1648",
+    "Kingdom Established": "16 March 1815",
+    "Liberation Day": "5 May 1945",
+    "Kingdom Charter": "15 December 1954",
+    "Caribbean Reorganisation": "10 October 2010"
+  },
+  "Economy": {
+    "Status": "Developed country",
+    "Dependence": "Trade, services, industry",
+    "Major Industries": ["Agriculture", "Food processing", "Chemicals", "Petroleum refining", "High-tech", "Financial services"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 1297,
+      "Per Capita (USD)": 72900
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 1090,
+      "Per Capita (USD)": 61200
     },
     "Currency": {
       "Netherlands": "Euro (EUR)",
@@ -28,79 +142,97 @@
       "Sint Eustatius": "US Dollar (USD)",
       "Saba": "US Dollar (USD)"
     },
-    "GeographicalFeatures": {
-      "Netherlands": ["Below sea level areas", "Vaalserberg"],
-      "CaribbeanIslands": {
-        "LeewardIslands": ["Saba", "Sint Eustatius", "Sint Maarten"],
-        "LeewardAntilles": ["Aruba", "Bonaire", "Curaçao"]
+    "Gini Index": 25.1,
+    "HDI": {
+      "Score": 0.941,
+      "Rank": "8th"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": ["United Nations", "European Union", "NATO", "OECD", "World Trade Organization"]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+1 (CET)", "UTC-4 (AST)"],
+    "Date Format": ["dd-mm-yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+31",
+    "ISO 3166 Code": "NL",
+    "Internet TLD": ".nl",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "King's Day (April 27)",
+      "Liberation Day (May 5 - every 5 years)",
+      "Ascension Day (May/June)",
+      "Whit Monday (May/June)",
+      "Christmas Day (December 25)",
+      "Boxing Day (December 26)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of European and Caribbean influences",
+    "Cultural Contributions": ["Art", "Music", "Literature", "Cuisine"],
+    "Unique Features": ["Dutch Golden Age", "Influence of trading companies like the Dutch East India Company and Dutch West India Company"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 1.8,
+    "Exports Growth": "Driven by high-tech and services",
+    "Inflation Rate": "2.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["High-tech", "Services"],
+      "Challenges": "Balancing economic growth with environmental sustainability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "AEX Index",
+        "Expectation": "Steady growth into 2024"
+      },
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
       }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
     },
-    "Population": {
-      "Netherlands": "Approx. 18 million (2024 estimate)",
-      "Aruba": "112,309 (2019)",
-      "Curaçao": "158,665 (2019)",
-      "Sint Maarten": "41,486 (2016)",
-      "Bonaire": "20,104 (2019)",
-      "Sint Eustatius": "3,138 (2019)",
-      "Saba": "1,915 (2019)"
+    "Cultural Heritage": {
+      "Influence": "Significant on European and Caribbean culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
     },
-    "History": {
-      "SpanishNetherlands": "Before independence",
-      "ActOfAbjuration": "26 July 1581",
-      "PeaceOfMünster": "30 January 1648",
-     
-"KingdomEstablished": "16 March 1815",
-"LiberationDay": "5 May 1945",
-"KingdomCharter": "15 December 1954",
-"CaribbeanReorganisation": "10 October 2010"
-},
-"Government": {
-"Type": "Parliamentary constitutional monarchy",
-"Monarch": "Willem-Alexander",
-"PrimeMinister": "Mark Rutte",
-"Legislature": {
-"UpperHouse": "Senate",
-"LowerHouse": "House of Representatives"
-}
-},
-"Economy": {
-"GDP_PPP_2023": "$1.297 trillion",
-"GDP_Nominal_2023": "$1.09 trillion",
-"HDI_2021": "0.941 (very high)"
-},
-"Geography": {
-"EuropeanNetherlands": {
-"Location": "Northwestern Europe",
-"Borders": ["Germany", "Belgium", "France (Saint Martin)"],
-"Coastline": "North Sea"
-},
-"CaribbeanTerritories": {
-"Climate": "Tropical",
-"GeographicOrigin": ["Volcanic (Leeward Islands)", "Non-volcanic (Leeward Antilles)"]
-}
-},
-"Demographics": {
-"EthnicGroups_2022": {
-"Dutch": "74.0%",
-"OtherEuropean": "8.4%",
-"Turkish": "2.4%",
-"Moroccan": "2.4%",
-"Indonesian": "2.1%",
-"Surinamese": "2.1%",
-"DutchCaribbean": "1.1%",
-"Other": "7.6%"
-},
-"Religion_2020": {
-"NoReligion": "55.4%",
-"Christianity": "34.2%",
-"Islam": "5.2%",
-"Other": "5.1%"
-}
-},
-"Culture": {
-"DutchGoldenAge": "1588-1702",
-"Influence": ["Political", "Economic", "Cultural"],
-"TradingCompanies": ["Dutch East India Company", "Dutch West India Company"]
-}
-}
+    "Technology and Innovation": {
+      "Growth Sectors": ["High-tech", "Services", "Agriculture"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air, and Sea transport",
+    "Key Transport Hubs": ["Amsterdam", "Rotterdam", "Schiphol"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Occasional protests and political unrest",
+    "Economic Hardships": "High cost of living",
+    "Natural Disasters": ["Floods"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "82.1 years",
+    "Infant Mortality Rate": "3.5 deaths/1,000 live births",
+    "Health Expenditure of GDP": "10.9% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "5.6% (2020)",
+    "Literacy Rate": {
+      "Total": "99%",
+      "Male": "99%",
+      "Female": "99%"
+    }
+  }
 }
