@@ -1,175 +1,222 @@
 {
-  "Finland": {
-    "officialNames": {
+  "Name": {
+    "Common": "Finland",
+    "Official": "Republic of Finland",
+    "Native": {
       "Finnish": "Suomen tasavalta",
       "Swedish": "Republiken Finland"
-    },
-    "symbols": {
-      "flag": "Flag of Finland",
-      "coatOfArms": "Coat of arms of Finland",
-      "anthem": {
-        "Finnish": "Maamme",
-        "Swedish": "Vårt land",
-        "English": "Our Land",
-        "duration": "0:47"
+    }
+  },
+  "Symbols": {
+    "Flag": "A blue Nordic cross on a white field",
+    "Emblem": "A crowned lion holding a sword and trampling on a sabre",
+    "Anthem": {
+      "Title": "Maamme",
+      "Translation": "Our Land",
+      "Duration": "0:47"
+    }
+  },
+  "Geography": {
+    "Continent": "Europe",
+    "Region": "Northern Europe",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Helsinki",
+        "Latitude": "60°10′15″N",
+        "Longitude": "24°56′15″E"
       }
     },
-    "location": {
-      "inEurope": true,
-      "inEuropeanUnion": true,
-      "coordinates": "60°10′15″N 24°56′15″E",
-      "borders": {
-        "Sweden": "northwest",
-        "Norway": "north",
-        "Russia": "east"
-      },
-      "gulfs": ["Gulf of Bothnia", "Gulf of Finland"]
+    "Location": "Northern Europe, bordering Sweden, Norway, and Russia",
+    "Area": {
+      "Total (km2)": 338145,
+      "Land (km2)": 305470,
+      "Water (km2)": 32775,
+      "Rank": "64",
+      "Water Percentage": "9.71%"
     },
-    "capitalAndLargestCity": "Helsinki",
-    "officialLanguages": ["Finnish", "Swedish"],
-    "recognizedNationalLanguages": ["Sami", "Karelian", "Finnish Kalo", "Finnish Sign Language", "Finland-Swedish Sign Language"],
-    "ethnicGroups2021": {
-      "Finns": "91.5%",
-      "Others": "8.5%"
+    "Borders": {
+      "Sweden": "northwest",
+      "Norway": "north",
+      "Russia": "east"
     },
-    "religion2021": {
-      "Christianity": "68.6%",
-      "Lutheranism": "66.6%",
-      "Orthodoxy": "1.1%",
-      "OtherChristian": "0.9%",
-      "NoReligion": "30.6%",
-      "Other": "0.8%"
+    "Coastline": ["Gulf of Bothnia", "Gulf of Finland"],
+    "Terrain": ["Mostly flat with few hills and many lakes"],
+    "Climate": {
+      "South": "Humid continental",
+      "North": "Boreal"
     },
-    "government": {
-      "type": "Unitary parliamentary republic",
-      "president": "Sauli Niinistö",
-      "primeMinister": "Petteri Orpo",
-      "speakerOfParliament": "Jussi Halla-aho",
-      "legislature": "Parliament"
+    "Natural Resources": ["Timber", "Iron ore", "Copper", "Lead", "Zinc", "Chromite", "Nickel", "Gold", "Silver", "Limestone"],
+    "Time Zones": ["UTC+2 (EET)", "UTC+3 (EEST in summer)"],
+    "Largest City": "Helsinki"
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 5614571,
+      "Density per km2": 16.4
     },
-    "independence": {
-      "fromRussia": {
-        "establishmentOfGrandDuchy": "29 March 1809",
-        "declaration": "6 December 1917",
-        "civilWar": "January – May 1918",
-        "constitution": "17 July 1919"
-      },
-      "wars": {
-        "winterWar": "30 November 1939 – 13 March 1940",
-        "continuationWar": "25 June 1941 – 19 September 1944"
-      },
-    
-      "EU_JoinDate": "1 January 1995",
-      "NATO_JoinDate": "4 April 2023"
-    },
-    "area": {
-      "total": "338,145 sq km",
-      "waterPercentage": "9.71%"
-    },
-    "population": {
-      "2023Estimate": "5,614,571",
-      "density": "16.4/km2"
-    },
-    "economy": {
-      "GDP_PPP_2023": {
-        "total": "$335.760 billion",
-        "perCapita": "$59,869"
-      },
-      "GDP_Nominal_2023": {
-        "total": "$305.689 billion",
-        "perCapita": "$54,507"
-      },
-      "GiniIndex2022": "26.6",
-      "HDI_2021": "0.940",
-      "currency": "Euro (EUR)",
-      "economicModel": "Nordic model",
-      "industrializationEra": "Post-WWII",
-      "neutralityPolicy": "During Cold War"
-    },
-    "timeZone": {
-      "standard": "UTC+2 (EET)",
-      "daylightSaving": "UTC+3 (EEST)"
-    },
-    "dateAndDriving": {
-      "dateFormat": "dd.mm.yyyy",
-      "drivingSide": "right"
-    },
-    "communication": {
-      "callingCode": "+358",
-      "ISO3166Code": "FI",
-      "internetTLDs": [".fi", ".ax", ".eu"]
-    },
-    "history": {
-      "initialSettlement": "circa 9000 BC",
-      "stoneAgeCultures": true,
-      "bronzeAndIronAges": "Contacts with Fennoscandia and Baltic region",
-      "swedishEmpirePeriod": "Late 13th century",
-      "grandDuchyUnderRussia": "1809",
-      "independenceMovements": "Post 1809",
-      "suffrageMilestones": "1906",
-      "postRussianRevolution": "Independence in 1917"
-    },
-    "geography": {
-      "climate": {
-        "south": "Humid continental",
-        "north": "Boreal"
-      },
-      "landCover": "Boreal forest biome",
-      "lakes": "Over 180,000 recorded"
-    },
-    "governmentAndPolitics": {},
-    "demographics": {
-      "populationTrends": {
-        "2023Estimate": "5.6 million",
-        "ethnic": {
-          "finns": "91.5%",
-          "minorities": "8.5%"
-        },
-        "religiousComposition": {
-          "christianityMajority": "68.6%",
-          "noReligion": "30.6%",
-          "islamAndOther": "0.8%"
-        }
+    "Ethnic Groups": {
+      "2021": {
+        "Finns": 91.5,
+        "Others": 8.5
       }
     },
-    "culture": {
-      "officialLanguages": ["Finnish", "Swedish"],
-      "ethnicIdentity": "Finnish and Swedish",
-      "artAndIndependence": "Flourished during autonomy under Russia",
-      "suffrageHistory": {
-        "firstEuropeanStateForUniversalSuffrage": true,
-        "firstInWorldForFullAdultCitizenshipRights": true
+    "Languages": {
+      "Official": ["Finnish", "Swedish"],
+      "Recognised National": ["Sami", "Karelian", "Finnish Kalo", "Finnish Sign Language", "Finland-Swedish Sign Language"]
+    },
+    "Religion": {
+      "2021": {
+        "Christianity": 68.6,
+        "Lutheranism": 66.6,
+        "Orthodoxy": 1.1,
+        "Other Christian": 0.9,
+        "No Religion": 30.6,
+        "Other": 0.8
+      }
+    },
+    "Demonym": "Finnish"
+  },
+  "Government": {
+    "Type": "Unitary parliamentary republic",
+    "Leaders": {
+      "President": "Sauli Niinistö",
+      "Prime Minister": "Petteri Orpo",
+      "Speaker of Parliament": "Jussi Halla-aho"
+    },
+    "Legislature": "Parliament",
+    "Constitution": "17 July 1919"
+  },
+  "History": {
+    "Initial Settlement": "Circa 9000 BC",
+    "Stone Age Cultures": true,
+    "Bronze and Iron Ages": "Contacts with Fennoscandia and Baltic region",
+    "Swedish Empire Period": "Late 13th century",
+    "Grand Duchy Under Russia": "1809",
+    "Independence Movements": "Post 1809",
+    "Suffrage Milestones": "1906",
+    "Post Russian Revolution": "Independence in 1917",
+    "Wars": {
+      "Winter War": "30 November 1939 – 13 March 1940",
+      "Continuation War": "25 June 1941 – 19 September 1944"
+    },
+    "EU Membership": "1 January 1995",
+    "NATO Membership": "4 April 2023"
+  },
+  "Economy": {
+    "Status": "Developed country",
+    "Model": "Nordic model",
+    "Dependence": "Highly diversified, with strong technology, manufacturing, and services sectors",
+    "Major Industries": ["Electronics", "Machinery", "Metals", "Forestry", "Chemicals", "Pulp and paper", "Agriculture"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 335.760,
+      "Per Capita (USD)": 59869
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 305.689,
+      "Per Capita (USD)": 54507
+    },
+    "Currency": "Euro (EUR)",
+    "Gini Index": "26.6 (2022)",
+    "HDI": "0.940 (2021)"
+  },
+  "International Relations": {
+    "UN Member": true,
+    "EU Member": true,
+    "NATO Member": true,
+    "Schengen Area Member": true,
+    "Nordic Council Member": true,
+    "OECD Member": true,
+    "WTO Member": true,
+    "Council of Europe Member": true
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+2 (EET)", "UTC+3 (EEST in summer)"],
+    "Date Format": ["dd.mm.yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+358",
+    "ISO 3166 Code": "FI",
+    "Internet TLD": [".fi", ".ax", ".eu"],
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Epiphany (January 6)",
+      "Good Friday (April)",
+      "Easter Monday (April)",
+      "May Day (May 1)",
+      "Ascension Day (May)",
+      "Midsummer Day (June)",
+      "All Saints' Day (November)",
+      "Independence Day (December 6)",
+      "Christmas Eve (December 24)",
+      "Christmas Day (December 25)",
+      "Boxing Day (December 26)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage influenced by Nordic and Baltic traditions",
+    "Cultural Contributions": ["Traditional music and dance", "Cuisine", "Art"],
+    "Suffrage History": {
+      "First European State for Universal Suffrage": true,
+      "First in World for Full Adult Citizenship Rights": true
+    },
+    "World War II": {
+      "Winter War with Soviet Union": true,
+      "Continuation War": true,
+      "Lapland War with Nazi Germany": true
+    },
+    "Post War Era": {
+      "Agricultural to Industrial Shift": "1950s",
+      "Welfare State Development": true,
+      "High Per Capita Income": true
+    },
+    "Modern Era": {
+      "EU Membership": "1995",
+      "Eurozone Membership": "1999",
+      "NATO Membership": "2023"
+    }
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 2.5,
+    "Exports Growth": "Driven by technology, manufacturing, and services",
+    "Inflation Rate": "1.5%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Technology", "Manufacturing", "Services"],
+      "Challenges": "Balancing economic growth with environmental sustainability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "N/A",
+        "Expectation": "Steady growth into 2024"
       },
-      "worldWarII": {
-        "winterWarWithSovietUnion": true,
-        "continuationWar": true,
-        "laplandWarWithNaziGermany": true
-      },
-      "postWarEra": {
-        "agriculturalToIndustrialShift": "1950s",
-        "welfareStateDevelopment": true,
-        "highPerCapitaIncome": true
-      },
-      "modernEra": {
-        "EU_Membership": "1995",
-        "Eurozone_Membership": "1999",
-        "NATO_Membership": "2023"
-      },
-      "internationalRelations": {
-        "UN": "member",
-        "NordicCouncil": "member",
-        "SchengenArea": "member",
-        "CouncilOfEurope": "member",
-        "WTO": "member",
-        "OECD": "member"
-      },
-      "nationalPerformanceMetrics": {
-        "education": "High performance",
-        "economicCompetitiveness": "High",
-        "civilLiberties": "Strong",
-        "qualityOfLife": "High",
-        "humanDevelopment": "Very high"
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
       }
     }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Northern European culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Technology", "Manufacturing", "Services"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "National Performance Metrics": {
+    "Education": "High performance",
+    "Economic Competitiveness": "High",
+    "Civil Liberties": "Strong",
+    "Quality of Life": "High",
+    "Human Development": "Very high"
   }
 }
