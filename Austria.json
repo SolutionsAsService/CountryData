@@ -1,91 +1,130 @@
 {
-  "Austria": {
-  "CommonName": "Austria",
-  "FullName": "Republic of Austria",
-  "GermanName": "Republik Österreich",
-  "Capital": "Vienna",
-  "Coordinates": "48°12′N 16°21′E",
-  "Area": {
-    "Total": "83,879 km2",
-    "Rank": 113,
-    "Land_Percentage": 99.16,
-    "Water_Percentage": 0.84
+  "Name": {
+    "Common": "Austria",
+    "Official": "Republic of Austria",
+    "German": "Republik Österreich"
   },
-  "Population": {
-    "Estimate_2022": "9,027,999",
-    "Density": "107.6/km2",
-    "Rank": 98
+  "Symbols": {
+    "Flag": "Red-white-red horizontal stripes",
+    "Coat of Arms": "Coat of arms of Austria",
+    "Motto": "None",
+    "Anthem": {
+      "Title": "Bundeshymne der Republik Österreich",
+      "Duration": "3 minutes"
+    }
   },
-  "Official_Languages": "German",
-  "National_Language": "Austrian German",
-  "Regional_Languages": ["Hungarian", "Slovene", "Burgenland Croatian"],
-  "Ethnic_Groups": {
-    "Austrians": 75.6,
-    "Others": 24.4
-  },
-  "Religion": {
-    "Christianity": 64.1,
-    "Catholicism": 55.2,
-    "Orthodoxy": 5.1,
-    "Other_Christian": 3.8,
-    "No_Religion": 26.4,
-    "Islam": 8.3,
-    "Other": 1.2
+  "Geography": {
+    "Capital City": "Vienna",
+    "Largest City": "Vienna",
+    "Major Cities": ["Graz", "Linz", "Salzburg", "Innsbruck"],
+    "Area": {
+      "Total (km2)": 83879,
+      "Rank": 113,
+      "Land Percentage": 99.16,
+      "Water Percentage": 0.84
+    },
+    "Borders": ["Germany", "Czech Republic", "Slovakia", "Hungary", "Slovenia", "Italy", "Switzerland", "Liechtenstein"],
+    "Region": "Central Europe",
+    "Coordinates": "48°12′N 16°21′E",
+    "Terrain": ["Alps", "Forests", "Rivers"],
+    "Climate": "Temperate; continental",
+    "Lowest Point": "Lake Neusiedl, 115.45 m",
+    "Highest Point": "Grossglockner, 3,798 m",
+    "Largest Lake": "Lake Constance, 540 sq km",
+    "Major Rivers": ["Danube", "Rhine-Maas"],
+    "Land Use": {
+      "Agricultural Land Percentage": 38.4,
+      "Forest Percentage": 47.2
+    }
   },
   "Government": {
     "Type": "Federal parliamentary republic",
     "President": "Alexander Van der Bellen",
-    "Chancellor": "Karl Nehammer"
-  },
-  "Legislature": {
-    "Upper_House": "Federal Council",
-    "Lower_House": "National Council"
-  },
-  "Economy": {
-    "GDP_PPP_2023": "$626.458 billion",
-    "GDP_Nominal_2023": "$526.182 billion",
-    "GDP_Per_Capita_PPP": "$69,069",
-    "GDP_Per_Capita_Nominal": "$58,013",
-    "Gini_Index": 26.7,
-    "HDI": 0.916
-  },
-  "Currency": "Euro (€) (EUR)",
-  "Time_Zone": "UTC+1 (CET)",
-  "Driving_Side": "right",
-  "Calling_Code": "+43",
-  "ISO_Code": "AT",
-  "Internet_TLD": ".at",
-  "History": {
-    "First_Recorded_Name_Date": "1 November 996",
-    "Archduchy_Date": "6 January 1453",
-    "Empire_Date": "11 August 1804",
-    "Austria_Hungary": "30 March 1867",
-    "Republic_of_German_Austria": "12 November 1918",
-    "First_Republic": "10 September 1919",
-    "Federal_State": "1 May 1934",
-    "Anschluss": "13 March 1938",
-    "Second_Republic": "27 April 1945",
-    "State_Treaty": "27 July 1955",
-    "EU_Joining_Date": "1 January 1995"
-  },
-  "Geography": {
-    "Lowest_Point": "Lake Neusiedl, 115.45 m",
-    "Highest_Point": "Grossglockner, 3,798 m",
-    "Largest_Lake": "Lake Constance, 540 sq km",
-    "Major_Rivers": ["Danube", "Rhine-Maas"],
-    "Land_Use": {
-      "Agricultural_Land_Percentage": 38.4,
-      "Forest_Percentage": 47.2
+    "Chancellor": "Karl Nehammer",
+    "Legislature": {
+      "Upper House": "Federal Council",
+      "Lower House": "National Council"
+    },
+    "Independence": {
+      "First Recorded Name Date": "1 November 996",
+      "Archduchy Date": "6 January 1453",
+      "Empire Date": "11 August 1804",
+      "Austria-Hungary": "30 March 1867",
+      "Republic of German Austria": "12 November 1918",
+      "First Republic": "10 September 1919",
+      "Federal State": "1 May 1934",
+      "Anschluss": "13 March 1938",
+      "Second Republic": "27 April 1945",
+      "State Treaty": "27 July 1955",
+      "EU Joining Date": "1 January 1995"
     }
   },
-  "Culture": {
-    "National_Anthem": "Bundeshymne der Republik Österreich",
-    "Famous_Museums": ["The Albertina Museum", "Kunsthalle Wien", "Österreichische Nationalbibliothek"],
-    "Historic_Sites": ["Palace Schönbrunn", "Tiergarten Schönbrunn"]
+  "History": {
+    "Early History": ["Celtic tribes", "Roman Empire"],
+    "Medieval Period": ["Holy Roman Empire", "Habsburg Monarchy"],
+    "Modern History": ["Austrian Empire", "Austria-Hungary", "First Republic", "Anschluss", "Second Republic"]
   },
-  "Environmental_Aspects": {
+  "Economy": {
+    "GDP (PPP 2023) Total (Billion USD)": 626.458,
+    "GDP per Capita (PPP USD)": 69069,
+    "GDP (Nominal 2023) Total (Billion USD)": 526.182,
+    "GDP per Capita (Nominal USD)": 58013,
+    "Main Sectors": ["Manufacturing", "Tourism", "Services"],
+    "Currency": "Euro (€) (EUR)",
+    "Gini Index": 26.7,
+    "HDI (2021)": 0.916
+  },
+  "Demographics": {
+    "Population": {
+      "Estimate 2022": 9027999,
+      "Density per km2": 107.6,
+      "Rank": 98
+    },
+    "Ethnic Groups": {
+      "Austrians": 75.6,
+      "Others": 24.4
+    },
+    "Languages": {
+      "Official": "German",
+      "National Language": "Austrian German",
+      "Regional Languages": ["Hungarian", "Slovene", "Burgenland Croatian"]
+    },
+    "Religion": {
+      "Christianity": 64.1,
+      "Catholicism": 55.2,
+      "Orthodoxy": 5.1,
+      "Other Christian": 3.8,
+      "No Religion": 26.4,
+      "Islam": 8.3,
+      "Other": 1.2
+    },
+    "Demonyms": ["Austrian"]
+  },
+  "Miscellaneous": {
+    "Human Development Index (2021)": 0.916,
+    "Currency": "Euro (€) (EUR)",
+    "Calling Code": "+43",
+    "ISO 3166 Code": "AT",
+    "Internet TLD": [".at"],
+    "Public Holidays": [
+      "New Year's Day", "Epiphany", "Easter Monday", "Labor Day", "Ascension Day", "Whit Monday", "Corpus Christi", "Assumption Day", "National Day", "All Saints' Day", "Immaculate Conception", "Christmas Day", "St. Stephen's Day"
+    ],
+    "Time Zone": "UTC+1 (CET)",
+    "Driving Side": "right",
+    "Date Format": "dd/mm/yyyy (CE)"
+  },
+  "Culture": {
+    "National Anthem": "Bundeshymne der Republik Österreich",
+    "Famous Museums": ["The Albertina Museum", "Kunsthalle Wien", "Österreichische Nationalbibliothek"],
+    "Historic Sites": ["Palace Schönbrunn", "Tiergarten Schönbrunn"]
+  },
+  "Environmental Aspects": {
     "Climate": "Temperate; continental",
-    "Major_Environmental_Issues": ["Forest degradation", "Soil pollution", "Air pollution", "Water pollution"]
+    "Major Environmental Issues": ["Forest degradation", "Soil pollution", "Air pollution", "Water pollution"]
+  },
+  "International Relations": {
+    "UN Membership": "Since 14 December 1955",
+    "EU Membership": "Since 1 January 1995",
+    "International Affiliations": ["United Nations", "European Union", "Schengen Area", "Eurozone", "OECD", "OSCE", "WTO"]
   }
-}
 }
