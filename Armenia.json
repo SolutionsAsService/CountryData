@@ -1,77 +1,105 @@
 {
-    "Armenia": {
-        "Name": {
-        "Official": "Republic of Armenia",
-        "Armenian": "Հայաստանի Հանրապետություն",
-        "Romanized": "Hayastani Hanrapetut'yun"
-    },
-        "Symbols": {
-            "Flag": "Flag of Armenia",
-            "Coat of Arms": "Coat of arms of Armenia",
-            "Motto": "Մեկ ազգ, մեկ մշակույթ ('One nation, one culture')",
-            "Anthem": "Մեր Հայրենիք ('Our Fatherland')"
-        },
-        "Location": {
-            "Region": "Armenian Highlands of West Asia",
-            "Borders": ["Turkey", "Georgia", "Azerbaijan", "Iran", "Nakhchivan"],
-            "Capital": "Yerevan"
-        },
-        "Language and Ethnic Groups": {
-            "Official Language": "Armenian",
-            "Ethnic Groups (2011)": {
-                "Armenians": "98.1%",
-                "Yazidis": "1.2%",
-                "Russians": "0.4%",
-                "Others": "0.3%"
-            }
-        },
-        "Religion": {
-            "Primary": "Christianity",
-            "Denomination": "Armenian Apostolic Church"
-        },
-        "Government": {
-            "Type": "Unitary parliamentary republic",
-            "President": "Vahagn Khachaturyan",
-            "Prime Minister": "Nikol Pashinyan",
-            "Legislature": "National Assembly"
-        },
-        "Historical Periods": {
-            "Urartu": "860 BC – 590 BC",
-            "Kingdom of Armenia": "321 BC–428 AD",
-            "Soviet Period": "29 November 1920",
-            "Modern Independence": "23 September 1991"
-        },
-        "Geography": {
-            "Total Area": "29,743 square kilometers",
-            "Landscape": "Mountainous",
-            "Water Percentage": "4.71%"
-        },
-        "Population": {
-            "2022 Estimate": "3,000,756",
-            "Density": "101.5 per square kilometer"
-        },
-        "Economy": {
-            "GDP (PPP) 2023 Estimate": {
-                "Total": "$58.497 billion",
-                "Per Capita": "$19,745"
-            },
-            "GDP (Nominal) 2023 Estimate": {
-                "Total": "$24.540 billion",
-                "Per Capita": "$8,283"
-            },
-            "Gini (2019)": "29.9",
-            "HDI (2021)": "0.759"
-        },
-        "Currency": "Dram (֏)",
-        "International Relations": {
-            "UN Membership": "2 March 1992",
-            "European Alignment": "Member of various European organizations",
-            "Regional Involvement": "Member of Eurasian organizations"
-        },
-        "Cultural Aspects": {
-            "Heritage": "Ancient and rich cultural history",
-            "Languages": "Armenian, with minority languages",
-            "Religious Influence": "First state to adopt Christianity as official religion"
-        }
+  "Name": {
+    "Common": "Armenia",
+    "Official": "Republic of Armenia",
+    "Armenian": "Հայաստանի Հանրապետություն",
+    "Romanized": "Hayastani Hanrapetut'yun"
+  },
+  "Symbols": {
+    "Flag": "Flag of Armenia",
+    "Coat of Arms": "Coat of arms of Armenia",
+    "Motto": "Մեկ ազգ, մեկ մշակույթ ('One nation, one culture')",
+    "Anthem": {
+      "Title": "Մեր Հայրենիք ('Our Fatherland')",
+      "Duration": "3 minutes and 20 seconds"
     }
+  },
+  "Geography": {
+    "Capital City": "Yerevan",
+    "Largest City": "Yerevan",
+    "Major Cities": ["Gyumri", "Vanadzor", "Hrazdan"],
+    "Area": {
+      "Total (km2)": 29743
+    },
+    "Borders": ["Turkey", "Georgia", "Azerbaijan", "Iran", "Nakhchivan"],
+    "Region": "Armenian Highlands of West Asia",
+    "Coordinates": "40°11′N 44°31′E",
+    "Terrain": ["Mountainous", "Forests", "Lakes"],
+    "Climate": "Highland continental",
+    "Water Percentage": 4.71
+  },
+  "Government": {
+    "Type": "Unitary parliamentary republic",
+    "President": "Vahagn Khachaturyan",
+    "Prime Minister": "Nikol Pashinyan",
+    "Legislature": {
+      "Upper House": "N/A",
+      "Lower House": "National Assembly"
+    },
+    "Independence": {
+      "Urartu": "860 BC – 590 BC",
+      "Kingdom of Armenia": "321 BC–428 AD",
+      "Soviet Period": "29 November 1920",
+      "Modern Independence": "23 September 1991"
+    }
+  },
+  "History": {
+    "Early History": ["Urartu", "Kingdom of Armenia"],
+    "Medieval Period": ["Bagratid Armenia", "Cilician Armenia"],
+    "Modern History": ["Soviet Period", "Independence"]
+  },
+  "Economy": {
+    "GDP (PPP 2023) Total (Billion USD)": 58.497,
+    "GDP per Capita (PPP USD)": 19745,
+    "GDP (Nominal 2023) Total (Billion USD)": 24.540,
+    "GDP per Capita (Nominal USD)": 8283,
+    "Main Sectors": ["Mining", "Agriculture", "Information Technology"],
+    "Currency": "Armenian dram (֏)",
+    "Gini Index (2019)": 29.9,
+    "HDI (2021)": 0.759
+  },
+  "Demographics": {
+    "Population": {
+      "2022 Estimate": 3000756,
+      "Density per km2": 101.5
+    },
+    "Ethnic Groups (2011)": {
+      "Armenians": 98.1,
+      "Yazidis": 1.2,
+      "Russians": 0.4,
+      "Others": 0.3
+    },
+    "Languages": {
+      "Official": "Armenian",
+      "Minority Languages": ["Russian", "Yazidi Kurdish", "Assyrian"]
+    },
+    "Religion": {
+      "Primary": "Christianity",
+      "Denomination": "Armenian Apostolic Church"
+    },
+    "Demonyms": ["Armenian"]
+  },
+  "Miscellaneous": {
+    "Human Development Index (2021)": 0.759,
+    "Currency": "Armenian dram (֏)",
+    "Calling Code": "+374",
+    "ISO 3166 Code": "AM",
+    "Internet TLD": [".am"],
+    "Public Holidays": [
+      "New Year's Day", "Armenian Christmas Day", "Women's Day", "Labor Day", "Victory and Peace Day", "Republic Day", "Constitution Day", "Independence Day", "Armenia Earthquake Memorial Day"
+    ],
+    "Time Zone": "UTC+4 (AMT)",
+    "Driving Side": "right",
+    "Date Format": "dd/mm/yyyy (CE)"
+  },
+  "International Relations": {
+    "UN Membership": "Since 2 March 1992",
+    "European Alignment": "Member of various European organizations",
+    "Regional Involvement": "Member of Eurasian organizations"
+  },
+  "Culture": {
+    "Heritage": "Ancient and rich cultural history",
+    "Languages": "Armenian, with minority languages",
+    "Religious Influence": "First state to adopt Christianity as official religion"
+  }
 }
