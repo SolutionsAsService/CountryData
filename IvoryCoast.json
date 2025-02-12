@@ -1,116 +1,222 @@
 {
-  "IvoryCoast": {
-    "OfficialName": "Republic of Côte d'Ivoire",
-    "Flag": "Flag of Ivory Coast",
-    "CoatOfArms": "Coat of arms of Ivory Coast",
+  "Name": {
+    "Common": "Ivory Coast",
+    "Official": "Republic of Côte d'Ivoire",
+    "French": "République de Côte d'Ivoire"
+  },
+  "Symbols": {
+    "Flag": "A vertical tricolor of orange, white, and green",
+    "Coat of Arms": "An elephant's head surrounded by a rising sun, a palm tree, and two gold tusks",
     "Motto": {
       "French": "Union – Discipline – Travail",
       "English": "Unity – Discipline – Work"
     },
-    "Anthem": "L'Abidjanaise",
-    "AnthemDuration": "1 minute and 10 seconds",
-    "Capital": "Yamoussoukro",
+    "Anthem": {
+      "Title": "L'Abidjanaise",
+      "Duration": "1 minute and 10 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Africa",
     "Coordinates": {
-      "Latitude": "6°51′N",
-      "Longitude": "5°18′W"
-    },
-    "LargestCity": "Abidjan",
-    "OfficialLanguage": "French",
-    "VernacularLanguages": [
-      "Bété",
-      "Jula",
-      "Baule",
-      "Abron",
-      "Anyin",
-      "Cebaara Senufo",
-      "Others"
-    ],
-    "EthnicGroups2021Census": {
-      "Ivorian": "78.0%",
-      "Akan": "38.0%",
-      "Northern Mande": "22.0%",
-      "Voltaiques/Gur": "22.0%",
-      "Kru": "9.1%",
-      "Southern Mande": "8.6%",
-      "Naturalized Ivorian": "0.3%",
-      "Non-Ivorian": "22.0%"
-    },
-    "Demonym": "Ivorian",
-    "GovernmentType": "Unitary presidential republic",
-    "Leaders": {
-      "President": "Alassane Ouattara",
-      "VicePresident": "Tiémoko Meyliet Koné",
-      "PrimeMinister": "Robert Beugré Mambé"
-    },
-    "Legislature": {
-      "ParliamentOfIvoryCoast": {
-        "UpperHouse": "Senate",
-        "LowerHouse": "National Assembly"
+      "Capital": {
+        "Name": "Yamoussoukro",
+        "Latitude": "6°51′N",
+        "Longitude": "5°18′W"
       }
     },
-    "History": {
-      "RepublicEstablished": "4 December 1958",
-      "IndependenceFromFrance": "7 August 1960"
-    },
-    "Geography": {
-      "TotalAreaKm2": "322,463",
+    "Location": "West Africa, bordered by Liberia, Guinea, Mali, Burkina Faso, Ghana, and the Atlantic Ocean",
+    "Area": {
+      "Total (km2)": 322463,
       "Rank": "68th",
-      "WaterPercentage": "1.4%"
+      "Water Percentage": "1.4%"
     },
+    "Borders": ["Liberia", "Guinea", "Mali", "Burkina Faso", "Ghana"],
+    "Terrain": ["Mostly flat to undulating plains; mountains in the northwest"],
+    "Climate": ["Tropical along coast, semiarid in far north"],
+    "Natural Resources": ["Petroleum, natural gas, diamonds, manganese, iron ore, cobalt, bauxite, copper, hydropower"],
+    "Time Zones": ["UTC±00:00 (GMT)"],
+    "Largest City": "Abidjan"
+  },
+  "Demographics": {
     "Population": {
-      "2023Estimate": "29,344,847",
-      "Rank": "52nd",
-      "DensityPerKm2": "91.1",
-      "DensityRank": "139th"
+      "2023 Estimate": 29344847,
+      "Density (per km2)": 91.1
     },
-    "Economy": {
-      "GDP_PPP_2023Estimate": {
-        "Total": "$202.647 billion",
-        "PerCapita": "$6,960",
-        "Rank": "78th"
-      },
-      "GDP_Nominal_2023Estimate": {
-        "Total": "$79.430 billion",
-        "PerCapita": "$2,728",
-        "Rank": "84th"
-      },
-      "Gini_2015": "41.5",
-      "HDI_2021": "0.550",
-      "HDIRank": "159th"
+    "Ethnic Groups": {
+      "2021 Census": {
+        "Ivorian": 78.0,
+        "Akan": 38.0,
+        "Northern Mande": 22.0,
+        "Voltaiques/Gur": 22.0,
+        "Kru": 9.1,
+        "Southern Mande": 8.6,
+        "Naturalized Ivorian": 0.3,
+        "Non-Ivorian": 22.0
+      }
     },
-    "Currency": "West African CFA franc (XOF)",
-    "TimeZone": "UTC±00:00 (GMT)",
-    "DateFormat": "dd/mm/yyyy",
-    "DrivingSide": "right",
-    "CallingCode": "+225",
-    "ISO3166Code": "CI",
-    "InternetTLD": ".ci",
-    "ForeignResidents": "Approximately 130,000 Lebanese and 14,000 French people",
-    "BeforeColonization": "Home to several states, including Gyaaman, the Kong Empire, and Baoulé",
-    "ColonialHistory": {
-      "ProtectorateOfFrance": "1843",
-      "FrenchColonyConsolidation": "1893"
+    "Languages": {
+      "Official": ["French"],
+      "Vernacular": ["Bété", "Jula", "Baule", "Abron", "Anyin", "Cebaara Senufo", "Others"]
     },
-    "PostIndependence": {
-      "FirstPresident": "Félix Houphouët-Boigny",
-      "RulePeriod": "Until 1993",
+    "Religion": {
+      "2021": {
+        "Islam": 42.9,
+        "Christianity": 33.9,
+        "Indigenous Beliefs": 11.9,
+        "No Religion": 10.5,
+        "Other": 0.8
+      }
+    },
+    "Demonym": "Ivorian"
+  },
+  "Government": {
+    "Type": "Unitary presidential republic",
+    "Leaders": {
+      "President": "Alassane Ouattara",
+      "Vice President": "Tiémoko Meyliet Koné",
+      "Prime Minister": "Robert Beugré Mambé"
+    },
+    "Legislature": {
+      "Upper House": "Senate",
+      "Lower House": "National Assembly"
+    },
+    "Constitution": "8 November 2016"
+  },
+  "History": {
+    "Republic Established": "4 December 1958",
+    "Independence from France": "7 August 1960",
+    "Colonial History": {
+      "Protectorate of France": "1843",
+      "French Colony Consolidation": "1893"
+    },
+    "Post Independence": {
+      "First President": "Félix Houphouët-Boigny",
+      "Rule Period": "Until 1993",
       "Stability": "Relatively stable by regional standards",
-      "CoupD'état": "1999",
-      "CivilWars": [
+      "Coup D'état": "1999",
+      "Civil Wars": [
         {
           "First": "2002–2007",
           "Second": "2010–2011"
         }
       ],
-      "NewConstitution": "2016"
+      "New Constitution": "2016"
     },
-    "EconomicHistory": {
-      "1960sAnd1970s": "Economic powerhouse in West Africa",
-      "1980sCrisis": "Experienced an economic crisis",
-      "Post2011Growth": "High economic growth since the return of peace and political stability",
-      "AverageGrowthRate": "7.4% per year from 2012 to 2021",
-      "WorldCocoaExporter": "World's largest exporter of cocoa beans in 2020"
+    "Economic History": {
+      "1960s and 1970s": "Economic powerhouse in West Africa",
+      "1980s Crisis": "Experienced an economic crisis",
+      "Post 2011 Growth": "High economic growth since the return of peace and political stability",
+      "Average Growth Rate": "7.4% per year from 2012 to 2021",
+      "World Cocoa Exporter": "World's largest exporter of cocoa beans in 2020"
+    }
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Agriculture, particularly cocoa, coffee, and palm oil",
+    "Major Industries": ["Agriculture", "Mining", "Petroleum", "Manufacturing"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 202.647,
+      "Per Capita (USD)": 6960,
+      "Rank": "78th"
     },
-    "Agriculture": "Economy relies heavily on agriculture, with smallholder cash-crop production predominating"
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 79.430,
+      "Per Capita (USD)": 2728,
+      "Rank": "84th"
+    },
+    "Currency": "West African CFA franc (XOF)",
+    "Gini Index": 41.5,
+    "HDI": {
+      "Score": 0.550,
+      "Rank": "159th"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": ["United Nations", "African Union", "Economic Community of West African States (ECOWAS)", "Organisation of Islamic Cooperation"]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC±00:00 (GMT)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+225",
+    "ISO 3166 Code": "CI",
+    "Internet TLD": ".ci",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Labour Day (May 1)",
+      "Independence Day (August 7)",
+      "All Saints' Day (November 1)",
+      "Christmas Day (December 25)",
+      "Eid al-Fitr (Varies)",
+      "Eid al-Adha (Varies)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of indigenous, French, and modern influences",
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["Home to several UNESCO World Heritage Sites", "Diverse ethnic composition"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 6.5,
+    "Exports Growth": "Driven by agriculture and mining",
+    "Inflation Rate": "4.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Agriculture", "Mining"],
+      "Challenges": "Balancing economic growth with environmental sustainability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "BRVM Composite",
+        "Expectation": "Steady growth into 2024"
+      },
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on West African culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Agriculture", "Mining", "Technology"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air, and Sea transport",
+    "Key Transport Hubs": ["Abidjan", "Bouaké", "San Pedro"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Occasional protests and political unrest",
+    "Economic Hardships": "High poverty rates",
+    "Natural Disasters": ["Floods"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "60.8 years",
+    "Infant Mortality Rate": "58.6 deaths/1,000 live births",
+    "Health Expenditure of GDP": "5.2% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "4.6% (2020)",
+    "Literacy Rate": {
+      "Total": "47.2%",
+      "Male": "53.1%",
+      "Female": "41.3%"
+    }
   }
 }
