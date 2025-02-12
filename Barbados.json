@@ -1,125 +1,134 @@
 {
-  "Barbados": {
-    "officialName": "Barbados",
-    "location": {
-      "region": "Lesser Antilles, West Indies",
-      "geographicPosition": "Most easterly of the Caribbean islands",
-      "boundary": "South American and Caribbean Plates"
+  "Name": {
+    "Common": "Barbados",
+    "Official": "Barbados"
+  },
+  "Symbols": {
+    "Flag": "Flag of Barbados",
+    "Coat of Arms": "Coat of arms of Barbados",
+    "Motto": "Pride and Industry",
+    "Anthem": {
+      "Title": "In Plenty and In Time of Need",
+      "Duration": "1:19"
+    }
+  },
+  "Geography": {
+    "Capital City": "Bridgetown",
+    "Largest City": "Bridgetown",
+    "Major Cities": ["Speightstown", "Oistins", "Holetown"],
+    "Area": {
+      "Total (km2)": 439,
+      "Water Percentage": "Negligible"
     },
-    "symbols": {
-      "flag": "Flag of Barbados",
-      "coatOfArms": "Coat of arms of Barbados",
-      "motto": "Pride and Industry",
-      "anthem": {
-        "title": "In Plenty and In Time of Need",
-        "duration": "1:19"
-      }
+    "Region": "Lesser Antilles, West Indies",
+    "Coordinates": "13°10′N 59°32′W",
+    "Terrain": ["Flat", "Low-lying", "Hilly inland"],
+    "Climate": "Tropical",
+    "Island Status": "Atlantic island",
+    "Geographic Position": "Most easterly of the Caribbean islands",
+    "Boundary": "South American and Caribbean Plates",
+    "Tourism Importance": "Leading destination in the Caribbean"
+  },
+  "Government": {
+    "Type": "Unitary parliamentary republic",
+    "President": "Sandra Mason",
+    "Prime Minister": "Mia Mottley",
+    "Legislature": {
+      "Upper House": "Senate",
+      "Lower House": "House of Assembly"
     },
-    "capitalAndLargestCity": "Bridgetown",
-    "officialLanguage": "English",
-    "vernacularLanguage": "Bajan",
-    "ethnicGroups2020": {
-      "Black": "92.4%",
-      "Multiracial": "3.1%",
-      "White": "2.7%",
-      "Indian": "1.3%",
-      "Others": "0.3%"
+    "Independence": {
+      "From UK": "30 November 1966",
+      "UN Admission": "7 December 1966",
+      "CARICOM Join Date": "1 August 1973",
+      "Republic Establishment": "30 November 2021"
+    }
+  },
+  "History": {
+    "Early Inhabitants": "Kalinago people, other Amerindians",
+    "Colonial History": {
+      "Spanish Possession": "Late 15th century",
+      "Portuguese Claim": "1532-1536",
+      "English Settlement": "1625",
+      "Permanent Settlement": "1627"
     },
-    "religion2020": {
-      "Christianity": "75.6%",
-      "NoReligion": "20.6%",
-      "Baha'iFaith": "2.0%",
-      "Hinduism": "1.1%",
-      "Others": "0.7%"
+    "Slavery Period": "Until 1833",
+    "Independence from UK": "30 November 1966",
+    "Republic Transition": "30 November 2021"
+  },
+  "Economy": {
+    "GDP (PPP 2023) Total (Billion USD)": 5.436,
+    "GDP per Capita (PPP USD)": 18738,
+    "GDP (Nominal 2023) Total (Billion USD)": 6.220,
+    "GDP per Capita (Nominal USD)": 21442,
+    "Main Sectors": ["Tourism", "Industrial"],
+    "Currency": "Barbadian dollar (BBD)",
+    "HDI (2021)": 0.790,
+    "Economic Status": "Developing"
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 281998,
+      "Density per km2": 660
     },
-    "demonym": ["Barbadian", "Bajan"],
-    "government": {
-      "type": "Unitary parliamentary republic",
-      "president": "Sandra Mason",
-      "primeMinister": "Mia Mottley"
+    "Ethnic Groups (2020)": {
+      "Black": 92.4,
+      "Multiracial": 3.1,
+      "White": 2.7,
+      "Indian": 1.3,
+      "Others": 0.3
     },
-    "legislature": {
-      "upperHouse": "Senate",
-      "lowerHouse": "House of Assembly"
+    "Languages": {
+      "Official": "English",
+      "Vernacular": "Bajan"
     },
-    "independence": {
-      "fromUK": "30 November 1966",
-      "UNAdmission": "7 December 1966",
-      "CARICOMJoinDate": "1 August 1973",
-      "republicEstablishment": "30 November 2021"
+    "Religion (2020)": {
+      "Christianity": 75.6,
+      "No Religion": 20.6,
+      "Baha'i Faith": 2.0,
+      "Hinduism": 1.1,
+      "Others": 0.7
     },
-    "area": {
-      "total": "439 km2",
-      "waterPercentage": "Negligible"
-    },
-    "population2023": {
-      "estimate": "281,998",
-      "density": "660/km2"
-    },
-    "economy2023": {
-      "GDP_PPP": {
-        "total": "$5.436 billion",
-        "perCapita": "$18,738"
-      },
-      "GDP_Nominal": {
-        "total": "$6.220 billion",
-        "perCapita": "$21,442"
-      },
-      "HDI_2021": "0.790"
-    },
-    "currency": "Barbadian dollar (BBD)",
-    "timeZone": "UTC−4 (AST)",
-    "dateAndDriving": {
-      "dateFormat": "dd/mm/yyyy",
-      "drivingSide": "left"
-    },
-    "communication": {
-      "callingCode": "+1-246",
-      "ISO3166Code": "BB",
-      "internetTLD": ".bb"
-    },
-    "history": {
-      "earlyInhabitants": "Kalinago people, other Amerindians",
-      "colonialHistory": {
-        "SpanishPossession": "Late 15th century",
-        "PortugueseClaim": "1532-1536",
-        "EnglishSettlement": "1625",
-        "PermanentSettlement": "1627"
-      },
-      "slaveryPeriod": "Until 1833",
-      "independenceFromUK": "30 November 1966",
-      "republicTransition": "30 November 2021"
-    },
-    "geographyAndClimate": {
-      "islandStatus": "Atlantic island",
-      "climate": "Tropical",
-      "tourismImportance": "Leading destination in the Caribbean"
-    },
-    "demographics": {
-      "populationAfricanAncestry": "Predominantly",
-      "technicalPosition": "Atlantic island",
-      "caribbeanAssociation": "Closely associated"
-    },
-    "governmentAndPolitics": {
-      "parliamentarySystem": true,
-      "politicalStructure": "Unitary parliamentary republic"
-    },
-    "economy": {
-      "mainSectors": ["Tourism", "Industrial"],
-      "currency": "Barbadian dollar",
-      "economicStatus": "Developing"
-    },
-    "health": {},
-    "education": {},
-    "culture": {
-      "diverseInfluences": true,
-      "culturalIdentity": "African and other influences"
-    },
-    "sports": {},
-    "transport": {
-      "drivingSide": "left",
-      "transportInfrastructure": "Developed"
-    },
-    "etymology": {}
+    "Demonyms": ["Barbadian", "Bajan"]
+  },
+  "Miscellaneous": {
+    "Human Development Index (2021)": 0.790,
+    "Currency": "Barbadian dollar (BBD)",
+    "Calling Code": "+1-246",
+    "ISO 3166 Code": "BB",
+    "Internet TLD": [".bb"],
+    "Public Holidays": [
+      "New Year's Day", "Errol Barrow Day", "Good Friday", "Easter Monday", "National Heroes Day", "Labour Day", "Whit Monday", "Emancipation Day", "Kadooment Day", "Independence Day", "Christmas Day", "Boxing Day"
+    ],
+    "Time Zone": "UTC−4 (AST)",
+    "Driving Side": "Left",
+    "Date Format": "dd/mm/yyyy"
+  },
+  "Geography and Climate": {
+    "Island Status": "Atlantic island",
+    "Climate": "Tropical",
+    "Tourism Importance": "Leading destination in the Caribbean"
+  },
+  "Demographics": {
+    "Population African Ancestry": "Predominantly",
+    "Technical Position": "Atlantic island",
+    "Caribbean Association": "Closely associated"
+  },
+  "Government and Politics": {
+    "Parliamentary System": true,
+    "Political Structure": "Unitary parliamentary republic"
+  },
+  "Economy": {
+    "Main Sectors": ["Tourism", "Industrial"],
+    "Currency": "Barbadian dollar",
+    "Economic Status": "Developing"
+  },
+  "Culture": {
+    "Diverse Influences": true,
+    "Cultural Identity": "African and other influences"
+  },
+  "Transport": {
+    "Driving Side": "Left",
+    "Transport Infrastructure": "Developed"
   }
 }
