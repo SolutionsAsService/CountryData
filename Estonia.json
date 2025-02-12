@@ -1,93 +1,182 @@
 {
-  "Estonia":{
-  "CommonName": "Estonia",
-  "Official_Name": "Republic of Estonia",
-  "Native_Name": "Eesti Vabariik",
-  "Flag": "Three equal horizontal bands of blue (top), black, and white",
-  "Anthem": "Mu isamaa, mu õnn ja rõõm",
-  "Capital": "Tallinn",
-  "Coordinates": "59°26′N 24°43′E",
-  "Area": {
-    "Total": "45,227 sq km",
-    "Land": "42,388 sq km",
-    "Water": "2,840 sq km"
-  },
-  "Population": {
-    "2024_Estimate": "1,373,101",
-    "2021_Census": "1,331,824",
-    "Density": "30.3/km2"
-  },
-  "Official_Language": "Estonian",
-  "Ethnic_Groups": {
-    "2023": {
-      "Estonians": 67.8,
-      "Russians": 22.0,
-      "Others": 10.2
+  "Name": {
+    "Common": "Estonia",
+    "Official": "Republic of Estonia",
+    "Native": {
+      "Estonian": "Eesti Vabariik"
     }
   },
-  "Religion": {
-    "2021": {
-      "No_Religion": 58.4,
-      "Christianity": 26.7,
-      "Undeclared": 12.7,
-      "Other": 2.2
+  "Symbols": {
+    "Flag": "Three equal horizontal bands of blue (top), black, and white",
+    "Emblem": "A golden shield with three blue lions passant guardant in the center, surrounded by two oak branches",
+    "Motto": "N/A",
+    "Anthem": {
+      "Title": "Mu isamaa, mu õnn ja rõõm",
+      "Translation": "My Fatherland, My Happiness and Joy",
+      "Duration": "1 minute and 40 seconds"
     }
+  },
+  "Geography": {
+    "Continent": "Europe",
+    "Region": "Northern Europe",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Tallinn",
+        "Latitude": "59°26′N",
+        "Longitude": "24°43′E"
+      }
+    },
+    "Location": "Northern Europe, bordered by the Baltic Sea",
+    "Area": {
+      "Total (km2)": 45227,
+      "Land (km2)": 42388,
+      "Water (km2)": 2840,
+      "Rank": "129",
+      "Water Percentage": "6.3%"
+    },
+    "Borders": ["Russia", "Latvia"],
+    "Maritime Borders": ["Finland", "Sweden"],
+    "Major Lakes": ["Lake Peipus", "Lake Võrtsjärv"],
+    "Climate": ["Maritime; wet, moderate winters, cool summers"]
+  },
+  "Demographics": {
+    "Population": {
+      "2024 Estimate": 1373101,
+      "2021 Census": 1331824,
+      "Density per km2": 30.3
+    },
+    "Ethnic Groups": {
+      "2023": {
+        "Estonians": 67.8,
+        "Russians": 22.0,
+        "Others": 10.2
+      }
+    },
+    "Languages": {
+      "Official": ["Estonian"]
+    },
+    "Religion": {
+      "2021": {
+        "No Religion": 58.4,
+        "Christianity": 26.7,
+        "Undeclared": 12.7,
+        "Other": 2.2
+      }
+    },
+    "Demonym": "Estonian"
   },
   "Government": {
     "Type": "Unitary parliamentary republic",
-    "President": "Alar Karis",
-    "Prime_Minister": "Kaja Kallas",
-    "President_of_Parliament": "Lauri Hussar"
-  },
-  "Legislature": "Riigikogu",
-  "Independence": {
-    "Declaration": "23–24 February 1918",
-    "Restored": "20 August 1991",
-    "EU_Joined": "1 May 2004"
-  },
-  "GDP": {
-    "PPP_2023_Estimate": {
-      "Total": "$60.997 billion",
-      "Per_Capita": "$45,235"
+    "Leaders": {
+      "President": "Alar Karis",
+      "Prime Minister": "Kaja Kallas",
+      "President of Parliament": "Lauri Hussar"
     },
-    "Nominal_2023_Estimate": {
-      "Total": "$41.799 billion",
-      "Per_Capita": "$30,998"
+    "Legislature": "Riigikogu",
+    "Constitution": "28 June 1992"
+  },
+  "History": {
+    "Independence": {
+      "Declaration": "23–24 February 1918",
+      "Restored": "20 August 1991",
+      "EU Joined": "1 May 2004"
     }
   },
-  "Gini_Index": {
-    "2021": 30.6
+  "Economy": {
+    "Status": "Developed country",
+    "Dependence": "Highly diversified, with strong technology and services sectors",
+    "Major Industries": ["Electronics", "Information technology", "Telecommunications", "Engineering", "Agriculture", "Forestry"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 60.997,
+      "Per Capita (USD)": 45235
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 41.799,
+      "Per Capita (USD)": 30998
+    },
+    "Currency": "Euro (€) (EUR)",
+    "Gini Index": "30.6 (2021)",
+    "HDI": "0.890 (2021)"
   },
-  "HDI": {
-    "2021": 0.890
+  "International Relations": {
+    "UN Member": true,
+    "EU Member": true,
+    "NATO Member": true,
+    "Schengen Area Member": true,
+    "OECD Member": true
   },
-  "Currency": "Euro (€) (EUR)",
-  "Time_Zone": "UTC+02:00 (EET)",
-  "Summer_DST": "UTC+03:00 (EEST)",
-  "Driving_Side": "right",
-  "Calling_Code": "+372",
-  "ISO_Code": "EE",
-  "Internet_TLD": ".ee",
-  "Geography": {
-    "Borders": ["Russia", "Latvia"],
-    "MaritimeBorders": ["Finland", "Sweden"],
-    "Major_Lakes": ["Lake Peipus", "Lake Võrtsjärv"],
-    "Climate": "Maritime; wet, moderate winters, cool summers"
+  "Miscellaneous": {
+    "Time Zone": ["UTC+02:00 (EET)", "UTC+03:00 (EEST in summer)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+372",
+    "ISO 3166 Code": "EE",
+    "Internet TLD": ".ee",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Independence Day (February 24)",
+      "Good Friday (April)",
+      "Easter Sunday (April)",
+      "Victory Day (June 23)",
+      "Midsummer Day (June 24)",
+      "Christmas Eve (December 24)",
+      "Christmas Day (December 25)",
+      "Boxing Day (December 26)"
+    ]
   },
-  "Administrative_Divisions": {
-    "Counties": ["Harju", "Hiiu", "Ida-Viru", "Jarva", "Jogeva", "Laane", "Laane-Viru", "Parnu", "Polva", "Rapla", "Saare", "Tartu", "Valga", "Viljandi", "Voru"]
-  },
-  "Culture_and_Society": {
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage influenced by its Nordic and Baltic neighbors",
+    "Cultural Contributions": ["Traditional music and dance", "Cuisine", "Art"],
     "Education": "Best in Europe according to OECD’s PISA results",
-    "Folk_Songs": "133,000 documented",
-    "Famous_Composer": "Arvo Pärt",
-    "Technological_Advancements": ["Skype", "TransferWise", "GrabCAD", "Starship robots"],
-    "Cultural_Consumption": {
-      "Museum_Visits": "3.4 million",
-      "Cinema_Visits": "3.5 million",
-      "Concert_Visits": "2 million",
-      "Theatre_Visits": "1.2 million"
+    "Folk Songs": "133,000 documented",
+    "Famous Composer": "Arvo Pärt",
+    "Technological Advancements": ["Skype", "TransferWise", "GrabCAD", "Starship robots"],
+    "Cultural Consumption": {
+      "Museum Visits": "3.4 million",
+      "Cinema Visits": "3.5 million",
+      "Concert Visits": "2 million",
+      "Theatre Visits": "1.2 million"
     }
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.0,
+    "Exports Growth": "Driven by technology and services sectors",
+    "Inflation Rate": "2.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Technology", "Services"],
+      "Challenges": "Balancing economic growth with environmental sustainability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "N/A",
+        "Expectation": "Steady growth into 2024"
+      },
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Northern European culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Technology", "Services", "Telecommunications"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Administrative Divisions": {
+    "Counties": ["Harju", "Hiiu", "Ida-Viru", "Jarva", "Jogeva", "Laane", "Laane-Viru", "Parnu", "Polva", "Rapla", "Saare", "Tartu", "Valga", "Viljandi", "Voru"]
   }
-}
 }
