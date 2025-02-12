@@ -1,10 +1,30 @@
 {
-  "Croatia": {
-  "Country": "Croatia",
-  "CroatianName": "Republika Hrvatska",
-  "OfficialName": "Republic of Croatia",
+  "Name": {
+    "Common": "Croatia",
+    "Official": "Republic of Croatia",
+    "Native": {
+      "Croatian": "Republika Hrvatska"
+    }
+  },
+  "Symbols": {
+    "Flag": "Three horizontal bands of red, white, and blue with the coat of arms in the center",
+    "Emblem": "A shield with a checkerboard pattern of red and white squares",
+    "Motto": "N/A",
+    "Anthem": {
+      "Title": "Lijepa naša domovino ('Our Beautiful Homeland')",
+      "Duration": "1 minute and 20 seconds"
+    }
+  },
   "Geography": {
-    "Location": "Crossroads of Central and Southeast Europe",
+    "Continent": "Europe",
+    "Region": "Central and Southeast Europe",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Zagreb",
+        "Latitude": "45.8150° N",
+        "Longitude": "15.9819° E"
+      }
+    },
     "Borders": {
       "Northwest": "Slovenia",
       "Northeast": "Hungary",
@@ -13,88 +33,146 @@
       "Maritime": "Italy"
     },
     "Coast": "Adriatic Sea",
-    "Capital": "Zagreb",
-    "Area": "56,594 km2",
-    "MajorCities": ["Split", "Rijeka", "Osijek"]
+    "Area": {
+      "Total (km2)": 56594,
+      "Rank": "127",
+      "Water Percentage": "1.1%"
+    },
+    "Time Zones": ["UTC+1", "UTC+2 (DST)"],
+    "Largest City": "Zagreb",
+    "Natural Resources": ["Oil", "Coal", "Bauxite", "Low-grade iron ore", "Calcium", "Gypsum", "Natural asphalt", "Silica", "Mica", "Clay", "Salt", "Hydropower"],
+    "Climate": ["Mediterranean and continental; continental climate predominant with hot summers and cold winters; mild winters, dry summers along coast"]
   },
   "Demographics": {
-    "Population_2023": 3823000,
-    "EthnicGroups_2021": {
-      "Croats": "91.6%",
-      "Serbs": "3.2%",
-      "Others": "5.2%"
+    "Population": {
+      "2023 Estimate": 3823000,
+      "Density per km2": 67.6
     },
-    "Religion_2021": {
-      "Christianity": "87.4%",
-      "Catholicism": "79.0%",
-      "Orthodoxy": "3.3%",
-      "OtherChristian": "5.1%",
-      "NoReligion": "6.4%",
-      "Other": "2.3%",
-      "Undeclared": "3.9%"
+    "Ethnic Groups": {
+      "Croats": 91.6,
+      "Serbs": 3.2,
+      "Others": 5.2
+    },
+    "Languages": {
+      "Official": ["Croatian"]
+    },
+    "Religion": {
+      "Christianity": 87.4,
+      "Catholicism": 79.0,
+      "Orthodoxy": 3.3,
+      "Other Christian": 5.1,
+      "No Religion": 6.4,
+      "Other": 2.3,
+      "Undeclared": 3.9
     }
   },
   "Government": {
     "Type": "Unitary parliamentary republic",
-    "President": "Zoran Milanović",
-    "PrimeMinister": "Andrej Plenković",
-    "Legislature": "Sabor"
-  },
-  "Economy": {
-    "GDP_PPP_2023": "$164.672 billion",
-    "GDP_PerCapita_PPP_2023": "$42,873",
-    "GDP_Nominal_2023": "$80.185 billion",
-    "GDP_PerCapita_Nominal_2023": "$20,877",
-    "GiniCoefficient_2020": "28.3",
-    "HDI_2021": "0.858",
-    "Currency": "Euro (EUR)",
-    "MajorSectors": ["Tourism", "Service", "Industrial", "Agriculture"],
-    "TourismRevenue_2022": "€13.1 billion",
-    "UnemploymentRate_Jan2023": "6.5%",
-    "ProjectedGrowth_2024": "1.9%",
-    "InflationRate_2024": "1.6%"
-  },
-  "Culture": {
-    "OfficialLanguage": "Croatian",
-    "WritingSystem": "Latin",
-    "Anthem": "Lijepa naša domovino ('Our Beautiful Homeland')"
+    "Leaders": {
+      "President": "Zoran Milanović",
+      "Prime Minister": "Andrej Plenković"
+    },
+    "Legislature": "Sabor",
+    "Constitution": "22 December 1990"
   },
   "History": {
-    "FirstInternationalRecognition": "7 June 879",
-    "KingdomEstablished": "925",
-    "UnionWithHungary": "1102",
-    "JoinedHabsburgMonarchy": "1 January 1527",
-    "SecessionFromAustriaHungary": "29 October 1918",
-    "CreationOfYugoslavia": "4 December 1918",
-    "IndependenceDeclared": "25 June 1991"
+    "First International Recognition": "7 June 879",
+    "Kingdom Established": "925",
+    "Union with Hungary": "1102",
+    "Joined Habsburg Monarchy": "1 January 1527",
+    "Secession from Austria-Hungary": "29 October 1918",
+    "Creation of Yugoslavia": "4 December 1918",
+    "Independence Declared": "25 June 1991"
   },
-  "PublicHolidays_2024": [
-    "New Year's Day (January 1)",
-    "Epiphany (January 6)",
-    "Easter Day (March 31)",
-    "Easter Monday (April 1)",
-    "Labor Day (May 1)",
-    "Corpus Christi (May 30)",
-    "Day of Antifascist Struggle (June 22)",
-    "Statehood Day (June 25)",
-    "Homeland Thanksgiving Day (August 5)",
-    "Assumption of Mary (August 15)",
-    "Independence Day (October 8)",
-    "All Saints Day (November 1)",
-    "Christmas Day (December 25)",
-    "St Stephen's Day (December 26)"
-  ],
-  "Membership": {
-    "EuropeanUnion": true,
-    "Eurozone": true,
-    "SchengenArea": true,
-    "NATO": true,
-    "UnitedNations": true,
-    "CouncilOfEurope": true,
-    "OSCE": true,
-    "WorldTradeOrganization": true,
-    "UnionForTheMediterranean": true,
-    "OECD_AccessionInProgress": true
+  "Economy": {
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 164.672,
+      "Per Capita (USD)": 42873
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 80.185,
+      "Per Capita (USD)": 20877
+    },
+    "Currency": "Euro (EUR)",
+    "Gini Index": "28.3 (2020)",
+    "HDI": "0.858 (2021)"
+  },
+  "International Relations": {
+    "UN Member": true,
+    "EU Member": true,
+    "Eurozone Member": true,
+    "Schengen Area Member": true,
+    "NATO Member": true,
+    "Council of Europe Member": true,
+    "OSCE Member": true,
+    "WTO Member": true,
+    "Union for the Mediterranean Member": true,
+    "OECD Accession in Progress": true
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+1", "UTC+2 (DST)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+385",
+    "ISO 3166 Code": "HR",
+    "Internet TLD": ".hr",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Epiphany (January 6)",
+      "Easter Day (March 31)",
+      "Easter Monday (April 1)",
+      "Labor Day (May 1)",
+      "Corpus Christi (May 30)",
+      "Day of Antifascist Struggle (June 22)",
+      "Statehood Day (June 25)",
+      "Homeland Thanksgiving Day (August 5)",
+      "Assumption of Mary (August 15)",
+      "Independence Day (October 8)",
+      "All Saints Day (November 1)",
+      "Christmas Day (December 25)",
+      "St Stephen's Day (December 26)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural history with influences from various European civilizations",
+    "Cultural Contributions": ["Traditional music and dance", "Literature", "Cuisine"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 1.9,
+    "Exports Growth": "Driven by tourism, industrial production, and agriculture",
+    "Inflation Rate": "1.6%",
+    "Policy Response": {
+      "Focus": "Economic stability and growth",
+      "Areas": ["Infrastructure development", "Technological innovation"],
+      "Challenges": "Balancing economic growth with environmental sustainability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "Positive outlook",
+        "Expectation": "Steady growth into 2024"
+      },
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban growth",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Central and Southeast Europe",
+      "Key Aspects": ["Languages", "Traditions", "Architecture", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Information Technology", "Tourism", "Agriculture"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on technological and scientific skills",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
   }
-}
 }
