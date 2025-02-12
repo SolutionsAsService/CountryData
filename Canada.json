@@ -1,92 +1,169 @@
 {
-  "Canada": {
-    "officialName": "Canada",
-    "flag": "Vertical triband design (red, white, red) with a red maple leaf in the centre",
-    "coatOfArms": "St. Edward's Crown with a crowned gold lion holding a maple leaf, flanked by an English lion and a Scottish unicorn",
-    "motto": "A mari usque ad mare ('From Sea to Sea')",
-    "anthems": {
-      "nationalAnthem": "O Canada",
-      "royalAnthem": "God Save the King"
-    },
-    "geography": {
-      "location": "North America",
-      "totalArea": 9984670,
-      "waterPercentage": 11.76,
-      "landArea": 9093507,
-      "longestCoastline": true,
-      "borders": {
-        "longestLandBorder": "United States"
-      }
-    },
-    "capital": "Ottawa",
-    "largestCity": "Toronto",
-    "officialLanguages": ["English", "French"],
-    "demographics": {
-      "population2023Estimate": 40528396,
-      "census2021": 36991981,
-      "density": 4.2
-    },
-    "government": {
-      "type": "Federal parliamentary constitutional monarchy",
-      "monarch": "Charles III",
-      "governorGeneral": "Mary Simon",
-      "primeMinister": "Justin Trudeau",
-      "legislature": {
-        "upperHouse": "Senate",
-        "lowerHouse": "House of Commons"
-      }
-    },
-    "economy": {
-      "GDP_PPP_2023": {
-        "total": 2379000000000,
-        "perCapita": 59813
+  "Name": {
+    "Common": "Canada",
+    "Official": "Canada"
+  },
+  "Symbols": {
+    "Flag": "Vertical triband design (red, white, red) with a red maple leaf in the centre",
+    "Coat of Arms": "St. Edward's Crown with a crowned gold lion holding a maple leaf, flanked by an English lion and a Scottish unicorn",
+    "Motto": "A mari usque ad mare ('From Sea to Sea')",
+    "Anthems": {
+      "National": {
+        "Title": "O Canada",
+        "Duration": "1 minute and 27 seconds"
       },
-      "GDP_Nominal_2023": {
-        "total": 2118000000000,
-        "perCapita": 53247
-      },
-      "GiniIndex": 30.3,
-      "HDI": 0.936
-    },
-    "currency": "Canadian dollar (CAD)",
-    "timeZone": ["UTC−3.5 to −8", "UTC−2.5 to −7 (DST)"],
-    "internetTLD": ".ca",
-    "historicalContext": {
-      "indigenousPeoples": "Inhabited for thousands of years",
-      "colonialHistory": {
-        "BritishAndFrench": "Explored and settled along the Atlantic coast since the 16th century",
-        "Confederation": "July 1, 1867"
-      },
-      "increasingAutonomy": {
-        "StatuteOfWestminster": "1931",
-        "Patriation": "April 17, 1982"
-      }
-    },
-    "sociopolitical": {
-      "democracyType": "Parliamentary democracy",
-      "bilingual": true,
-      "multicultural": true,
-      "relationshipWithUS": "Significant impact on history, economy, and culture"
-    },
-    "naturalResources": "Abundant, chief driver of economy",
-    "internationalRole": {
-      "middlePower": true,
-      "peacekeepingInfluence": true,
-      "internationalInstitutions": ["United Nations", "Commonwealth realms", "Other major international and intergovernmental institutions"]
-    },
-    "currentEconomicOutlook": {
-      "growthForecast": "Modest growth expected by late 2024",
-      "comparisonWithUS": "Expected to trail behind the U.S. over the next 18 months",
-      "consumerSpending": "Relatively strong despite inflation and higher interest rates",
-      "unemploymentRate": "Historically low but with some increase",
-      "interestRate": {
-        "current": "5%",
-        "forecast": "2.5% to 3% eventual settling range"
-      },
-      "inflation": {
-        "currentRate": "Just under 4%",
-        "expectedDecline": "To comfortable level by late 2024"
+      "Royal": {
+        "Title": "God Save the King",
+        "Duration": "1 minute and 27 seconds"
       }
     }
+  },
+  "Geography": {
+    "Continent": "North America",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Ottawa",
+        "Latitude": "45.4215° N",
+        "Longitude": "75.6972° W"
+      }
+    },
+    "Borders": {
+      "Longest Land Border": "United States"
+    },
+    "Area": {
+      "Total (km2)": 9984670,
+      "Rank": "2",
+      "Water Percentage": "11.76%",
+      "Land Area (km2)": 9093507
+    },
+    "Coastline": "Longest coastline in the world",
+    "Time Zones": ["UTC−3.5 to −8", "UTC−2.5 to −7 (DST)"],
+    "Driving Side": "Right",
+    "Natural Resources": ["Oil", "Natural gas", "Timber", "Minerals"],
+    "Climate": ["Various, from arctic in the north to temperate in the south"]
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 40528396,
+      "2021 Census": 36991981,
+      "Density per km2": 4.2
+    },
+    "Ethnic Groups": {
+      "European": 72.9,
+      "Asian": 17.7,
+      "Indigenous": 4.9,
+      "African": 3.5,
+      "Other": 1.0
+    },
+    "Languages": {
+      "Official": ["English", "French"]
+    },
+    "Religion": {
+      "Christianity": 67.3,
+      "No Religion": 23.9,
+      "Islam": 3.2,
+      "Other": 5.6
+    }
+  },
+  "Government": {
+    "Type": "Federal parliamentary constitutional monarchy",
+    "Monarch": "Charles III",
+    "Governor General": "Mary Simon",
+    "Prime Minister": "Justin Trudeau",
+    "Legislature": {
+      "Upper House": "Senate",
+      "Lower House": "House of Commons"
+    },
+    "Constitution": "Constitution Act, 1867"
+  },
+  "History": {
+    "Indigenous Peoples": "Inhabited for thousands of years",
+    "Colonial History": {
+      "British and French": "Explored and settled along the Atlantic coast since the 16th century",
+      "Confederation": "July 1, 1867"
+    },
+    "Increasing Autonomy": {
+      "Statute of Westminster": "1931",
+      "Patriation": "April 17, 1982"
+    }
+  },
+  "Economy": {
+    "GDP (PPP 2023)": {
+      "Total (Trillion USD)": 2.379,
+      "Per Capita (USD)": 59813
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Trillion USD)": 2.118,
+      "Per Capita (USD)": 53247
+    },
+    "Currency": "Canadian dollar (CAD)",
+    "Gini Index": "30.3",
+    "HDI": "0.936"
+  },
+  "International Relations": {
+    "Middle Power": true,
+    "Peacekeeping Influence": true,
+    "International Institutions": ["United Nations", "Commonwealth realms", "Other major international and intergovernmental institutions"]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC−3.5 to −8", "UTC−2.5 to −7 (DST)"],
+    "Date Format": ["dd/mm/yyyy", "yyyy/mm/dd"],
+    "Driving Side": "Right",
+    "Calling Code": "+1",
+    "ISO 3166 Code": "CA",
+    "Internet TLD": ".ca",
+    "Public Holidays": [
+      "New Year's Day",
+      "Good Friday",
+      "Victoria Day",
+      "Canada Day",
+      "Labour Day",
+      "Thanksgiving",
+      "Christmas Day",
+      "Boxing Day"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Bilingual": true,
+    "Multicultural": true,
+    "Relationship with US": "Significant impact on history, economy, and culture"
+  },
+  "Economic Outlook 2024": {
+    "GDP Growth": "Modest growth expected by late 2024",
+    "Factors Affecting Growth": ["Foreign investment", "Consumer spending", "Government policies"],
+    "Inflation Rate 2023": "Just under 4%",
+    "Inflation Rate 2024": "Expected to decline to comfortable level by late 2024",
+    "Unemployment Rate": "Historically low but with some increase",
+    "Interest Rate": {
+      "Current": "5%",
+      "Forecast": "2.5% to 3% eventual settling range"
+    }
+  },
+  "Health": {
+    "Life Expectancy": 82.3,
+    "Infant Mortality Rate": 4.5,
+    "Maternal Mortality Ratio": 7,
+    "Physicians Density": 2.7,
+    "Hospital Bed Density": 2.5
+  },
+  "Education": {
+    "Expenditures (% of GDP)": 5.3,
+    "Literacy": {
+      "Total": 99.0,
+      "Male": 99.0,
+      "Female": 99.0
+    },
+    "School Life Expectancy": {
+      "Total": 16,
+      "Male": 16,
+      "Female": 16
+    }
+  },
+  "Environmental Issues": {
+    "Air Pollution": true,
+    "Water Pollution": true,
+    "Deforestation": true,
+    "Climate Change": true,
+    "Biodiversity Loss": true
   }
 }
