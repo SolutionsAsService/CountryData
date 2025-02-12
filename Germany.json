@@ -1,96 +1,202 @@
 {
-  "Country_Name": "Federal Republic of Germany",
-  "Common_Name": "Germany",
-  "Local_Name": "Bundesrepublik Deutschland (German)",
-  "Anthem": "Das Lied der Deutschen (The Song of the Germans)",
-  "Location": {
+  "Name": {
+    "Common": "Germany",
+    "Official": "Federal Republic of Germany",
+    "Native": {
+      "German": "Bundesrepublik Deutschland"
+    }
+  },
+  "Symbols": {
+    "Flag": "A horizontal tricolor of black, red, and gold",
+    "Emblem": "A black eagle with red beak and claws on a yellow field",
+    "Motto": "Einigkeit und Recht und Freiheit (Unity and Justice and Freedom)",
+    "Anthem": {
+      "Title": "Das Lied der Deutschen",
+      "Translation": "The Song of the Germans",
+      "Duration": "1 minute and 20 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Europe",
     "Region": "Western region of Central Europe",
-    "Borders": [
-      "Denmark",
-      "Poland",
-      "Czech Republic",
-      "Austria",
-      "Switzerland",
-      "France",
-      "Luxembourg",
-      "Belgium",
-      "Netherlands"
-    ],
-    "Seas": [
-      "Baltic",
-      "North Sea"
-    ],
-    "Alps": "South"
+    "Coordinates": {
+      "Capital": {
+        "Name": "Berlin",
+        "Latitude": "52°31′N",
+        "Longitude": "13°23′E"
+      }
+    },
+    "Location": "Western region of Central Europe, bordered by Denmark, Poland, Czech Republic, Austria, Switzerland, France, Luxembourg, Belgium, and Netherlands",
+    "Area": {
+      "Total (km2)": 357600,
+      "Rank": "62",
+      "Water Percentage": "2.3%"
+    },
+    "Borders": {
+      "Denmark": "North",
+      "Poland": "East",
+      "Czech Republic": "East",
+      "Austria": "South",
+      "Switzerland": "Southwest",
+      "France": "West",
+      "Luxembourg": "West",
+      "Belgium": "West",
+      "Netherlands": "West"
+    },
+    "Seas": ["Baltic", "North Sea"],
+    "Alps": "South",
+    "Terrain": ["Lowlands in the north, uplands in the center, and the Bavarian Alps in the south"],
+    "Climate": ["Temperate seasonal climate"],
+    "Natural Resources": ["Iron ore", "Coal", "Potash", "Timber", "Lignite", "Uranium", "Copper", "Natural gas", "Nickel"],
+    "Time Zones": ["CET (UTC+1)", "CEST in summer (UTC+2)"],
+    "Largest City": "Berlin"
   },
-  "Capital_Largest_City": "Berlin",
-  "Official_Language": "German",
-  "Demonym": "German",
-  "Government": "Federal parliamentary republic",
-  "Leaders": {
-    "President": "Frank-Walter Steinmeier",
-    "Chancellor": "Olaf Scholz"
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 84482267,
+      "Density per km2": 236.1
+    },
+    "Ethnic Groups": {
+      "2023": {
+        "German": 92,
+        "Other": 8
+      }
+    },
+    "Languages": {
+      "Official": ["German"]
+    },
+    "Religion": {
+      "2023": {
+        "Christianity": 54,
+        "No Religion": 36,
+        "Islam": 5,
+        "Other": 5
+      }
+    },
+    "Demonym": "German"
   },
-  "Legislature": {
-    "Bundestag": null,
-    "Bundesrat": null
+  "Government": {
+    "Type": "Federal parliamentary republic",
+    "Leaders": {
+      "President": "Frank-Walter Steinmeier",
+      "Chancellor": "Olaf Scholz"
+    },
+    "Legislature": {
+      "Upper House": "Bundesrat",
+      "Lower House": "Bundestag"
+    },
+    "Constitution": "23 May 1949"
   },
-  "Area_km2": 357600,
-  "Population_2023_Estimate": 84482267,
-  "GDP_PPP_2023_Estimate": {
-    "Total": "$5.537 trillion",
-    "Per_Capita": "$66,037"
-  },
-  "GDP_Nominal_2023_Estimate": {
-    "Total": "$4.462 trillion",
-    "Per_Capita": "$52,823"
-  },
-  "Gini_Index_2022": 28.8,
-  "HDI_2021": 0.942,
-  "Currency": "Euro (€) (EUR)",
-  "Time_Zone": "CET (UTC+1), CEST in summer (UTC+2)",
-  "ISO_3166_Code": "DE",
-  "Internet_TLD": ".de",
-  "Historical_Era": {
-    "Settlement_Begin": "Lower Paleolithic",
-    "Germanic_Tribes_Classical_Antiquity": null,
-    "Holy_Roman_Empire": "962",
-    "Protestant_Reformation": "16th century",
-    "German_Confederation": "1815",
+  "History": {
+    "Settlement Begin": "Lower Paleolithic",
+    "Germanic Tribes": "Classical Antiquity",
+    "Holy Roman Empire": "962",
+    "Protestant Reformation": "16th century",
+    "German Confederation": "1815",
     "Unification": "18 August 1866",
-    "German_Empire": "1871",
-    "Weimar_Republic": "Post World War I",
-    "Nazi_Regime": "1933",
-    "Post_WWII": {
-      "Allied_Occupation": null,
-      "East_West_Germany": "1949",
+    "German Empire": "1871",
+    "Weimar Republic": "Post World War I",
+    "Nazi Regime": "1933",
+    "Post WWII": {
+      "Allied Occupation": "1945",
+      "East and West Germany": "1949",
       "Reunification": "3 October 1990"
     }
   },
   "Economy": {
     "Ranking": {
       "Europe": "largest",
-      "World_Nominal_GDP": "4th"
+      "World Nominal GDP": "4th"
     },
-    "Attributes": [
-      "Industrial",
-      "Scientific",
-      "Technological"
-    ],
-    "Exports_Imports": "third-largest"
+    "Attributes": ["Industrial", "Scientific", "Technological"],
+    "Exports and Imports": "third-largest",
+    "Major Industries": ["Automotive", "Mechanical engineering", "Chemical", "Electrical"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 5537,
+      "Per Capita (USD)": 66037
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 4462,
+      "Per Capita (USD)": 52823
+    },
+    "Currency": "Euro (€) (EUR)",
+    "Gini Index": "28.8 (2022)",
+    "HDI": "0.942 (2021)"
   },
-  "Social_Systems": [
+  "International Relations": {
+    "UN Member": true,
+    "EU Member": true,
+    "NATO Member": true,
+    "Council of Europe Member": true,
+    "G7 Member": true,
+    "G20 Member": true,
+    "OECD Member": true
+  },
+  "Miscellaneous": {
+    "Time Zone": ["CET (UTC+1)", "CEST in summer (UTC+2)"],
+    "Date Format": ["dd.mm.yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+49",
+    "ISO 3166 Code": "DE",
+    "Internet TLD": ".de",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Good Friday (April)",
+      "Easter Monday (April)",
+      "Labour Day (May 1)",
+      "Ascension Day (May)",
+      "Whit Monday (May)",
+      "German Unity Day (October 3)",
+      "Christmas Day (December 25)",
+      "Boxing Day (December 26)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with significant contributions to philosophy, literature, music, and art",
+    "Cultural Contributions": ["Classical music", "Philosophy", "Literature", "Cuisine"],
+    "UNESCO World Heritage Sites": "Third-greatest number worldwide"
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 2.0,
+    "Exports Growth": "Driven by automotive and industrial sectors",
+    "Inflation Rate": "1.5%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Automotive", "Industrial", "Technology"],
+      "Challenges": "Balancing economic growth with environmental sustainability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "DAX",
+        "Expectation": "Steady growth into 2024"
+      },
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Western European culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Automotive", "Industrial", "Technology"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Social Systems": [
     "Social security",
     "Universal health care",
     "Tuition-free university education"
-  ],
-  "Memberships": [
-    "United Nations",
-    "European Union",
-    "NATO",
-    "Council of Europe",
-    "G7",
-    "G20",
-    "OECD"
-  ],
-  "UNESCO_World_Heritage_Sites": "third-greatest number"
-}&#8203;``【oaicite:0】``&#8203;.
+  ]
+}
