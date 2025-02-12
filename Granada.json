@@ -1,121 +1,199 @@
 {
-  "Grenada": {
-    "Introduction": {
-      "Name": "Grenada",
-      "Alternate Names": {
-        "Grenadian Creole French": "Gwenad",
-        "Pronunciation": "/ɡrəˈneɪdə/ grə-NAY-də"
-      },
-      "Description": "An island nation in the West Indies, located in the eastern Caribbean Sea. It's the southernmost of the Windward Islands, south of Saint Vincent and the Grenadines, and north of Trinidad.",
-      "Known as": "Island of Spice",
-      "Reason for Nickname": "Due to its production of nutmeg and mace crops."
-    },
-    "Geography": {
-      "Location": {
-        "Coordinates": "12°07′N 61°40′W",
-        "Area": "348.5 square kilometers",
-        "Includes": ["Grenada Island", "Carriacou", "Petite Martinique", "Several small islands"]
-      },
-      "Capital": "St. George's",
-      "Climate": "Tropical with consistent temperatures throughout the year, daily maximum around 31°C and minimum around 23°C."
-    },
-    "History": {
-      "Early Inhabitants": "Indigenous peoples from South America",
-      "European Arrival": "Christopher Columbus in 1498",
-      "Colonial History": {
-        "French Colonization": "Started in 1649",
-        "British Rule": "1763 to 1974, with a brief French takeover between 1779 and 1783"
-      },
-      "Independence": "7 February 1974"
-    },
-    "Population": {
-      "Estimate": "124,523 (as of 2021)",
-      "Ethnic Groups": {
-        "African": "82.4%",
-        "Mixed": "13.3%",
-        "Indian": "2.2%",
-        "Other": "1.3%",
-        "Unspecified": "0.9%"
+  "Name": {
+    "Common": "Grenada",
+    "Official": "Grenada",
+    "Native": {
+      "Grenadian Creole French": "Gwenad",
+      "Pronunciation": "/ɡrəˈneɪdə/ grə-NAY-də"
+    }
+  },
+  "Symbols": {
+    "Flag": "A rectangular flag with a red border and six yellow stars, featuring a green-blue-yellow tricolor in the middle, with a nutmeg symbol on the left side",
+    "Emblem": "A shield supported by a lion and an armadillo, with a gold cross dividing the shield into four colored sections, and a banner with the national motto 'Ever Conscious of God We Aspire, Build and Advance as One People'",
+    "Motto": "Ever Conscious of God We Aspire, Build and Advance as One People",
+    "Anthem": {
+      "Title": "God Bless Our Homeland Grenada",
+      "Duration": "58 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "North America",
+    "Region": "West Indies",
+    "Coordinates": {
+      "Capital": {
+        "Name": "St. George's",
+        "Latitude": "12°07′N",
+        "Longitude": "61°40′W"
       }
     },
-    "Language": {
-      "Official": "English",
+    "Location": "An island nation in the West Indies, located in the eastern Caribbean Sea. It's the southernmost of the Windward Islands, south of Saint Vincent and the Grenadines, and north of Trinidad.",
+    "Area": {
+      "Total (km2)": 348.5,
+      "Rank": "185",
+      "Water Percentage": "N/A"
+    },
+    "Includes": ["Grenada Island", "Carriacou", "Petite Martinique", "Several small islands"],
+    "Terrain": ["Volcanic in origin with central mountains"],
+    "Climate": ["Tropical with consistent temperatures throughout the year, daily maximum around 31°C and minimum around 23°C"],
+    "Natural Resources": ["Nutmeg", "Mace", "Cocoa", "Timber", "Fish"],
+    "Time Zones": ["UTC-4 (AST)"],
+    "Largest City": "St. George's"
+  },
+  "Demographics": {
+    "Population": {
+      "2021 Estimate": 124523,
+      "Density per km2": 357
+    },
+    "Ethnic Groups": {
+      "African": 82.4,
+      "Mixed": 13.3,
+      "Indian": 2.2,
+      "Other": 1.3,
+      "Unspecified": 0.9
+    },
+    "Languages": {
+      "Official": ["English"],
       "Recognised Regional": ["Grenadian Creole English", "Grenadian Creole French"]
     },
-    "Economy": {
-      "GDP (PPP)": {
-        "Total": "$2.3 billion (2023 estimate)",
-        "Per Capita": "$20,195 (2023 estimate)"
-      },
-      "GDP (Nominal)": {
-        "Total": "$1.3 billion (2023 estimate)",
-        "Per Capita": "$11,437 (2023 estimate)"
-      },
-      "Currency": "East Caribbean dollar (XCD)"
+    "Religion": {
+      "2021": {
+        "Christianity": 96.6,
+        "Hinduism": 1.3,
+        "Rastafari": 0.7,
+        "No Religion": 1,
+        "Other": 0.4
+      }
     },
-    "Government": {
-      "Type": "Unitary parliamentary constitutional monarchy",
+    "Demonym": "Grenadian"
+  },
+  "Government": {
+    "Type": "Unitary parliamentary constitutional monarchy",
+    "Leaders": {
       "Monarch": "Charles III",
       "Governor-General": "Dame Cécile La Grenade",
-      "Prime Minister": "Dickon Mitchell",
-      "Legislature": {
-        "Upper House": "Senate",
-        "Lower House": "House of Representatives"
+      "Prime Minister": "Dickon Mitchell"
+    },
+    "Legislature": {
+      "Upper House": "Senate",
+      "Lower House": "House of Representatives"
+    },
+    "Constitution": "19 December 1973"
+  },
+  "History": {
+    "Early Inhabitants": "Indigenous peoples from South America",
+    "European Arrival": "Christopher Columbus in 1498",
+    "Colonial History": {
+      "French Colonization": "Started in 1649",
+      "British Rule": "1763 to 1974, with a brief French takeover between 1779 and 1783"
+    },
+    "Independence": "7 February 1974"
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Tourism, agriculture, and manufacturing",
+    "Major Industries": ["Tourism", "Agriculture", "Manufacturing"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 2.3,
+      "Per Capita (USD)": 20195
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 1.3,
+      "Per Capita (USD)": 11437
+    },
+    "Currency": "East Caribbean dollar (XCD)"
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": ["United Nations", "Commonwealth of Nations", "Organization of American States", "CARICOM"]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC-4 (AST)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Left",
+    "Calling Code": "+1-473",
+    "ISO 3166 Code": "GD",
+    "Internet TLD": ".gd",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Independence Day (February 7)",
+      "Good Friday (April)",
+      "Easter Monday (April)",
+      "Labour Day (May 1)",
+      "Whit Monday (May)",
+      "Emancipation Day (First Monday in August)",
+      "Thanksgiving Day (October 25)",
+      "Christmas Day (December 25)",
+      "Boxing Day (December 26)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of African, French, and British influences",
+    "Cultural Contributions": ["Traditional music and dance", "Cuisine", "Art"],
+    "Festivals": {
+      "Spice Mas": "Annual cultural festival featuring music, dance, and traditional masquerades."
+    },
+    "Cuisine": {
+      "Signature Dish": "Oil Down - a dish with breadfruit, meat, salted fish, vegetables, callaloo, coconut milk, and turmeric."
+    }
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.0,
+    "Exports Growth": "Driven by tourism and agriculture",
+    "Inflation Rate": "2.5%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Tourism", "Agriculture"],
+      "Challenges": "Balancing economic growth with environmental sustainability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "N/A",
+        "Expectation": "Steady growth into 2024"
+      },
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
       }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
     },
-    "Culture": {
-      "Religion": {
-        "Christianity": "96.6%",
-        "Hinduism": "1.3%",
-      "Rastafari": "0.7%",
-     "No Religion": "1.0%",
-  "Other": "0.4%"
-      },
-      "Festivals": {
-        "Spice Mas": "Annual cultural festival featuring music, dance, and traditional masquerades."
-      },
-      "Cuisine": {
-        "Signature Dish": "Oil Down - a dish with breadfruit, meat, salted fish, vegetables, callaloo, coconut milk, and turmeric."
-      }
+    "Cultural Heritage": {
+      "Influence": "Significant on West Indian culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
     },
-    "Human Rights and Community": {
-      "Commitment": "Grenada is committed to rebuilding and rehabilitation post natural disasters, promoting peace, democracy, equality, and good governance."
+    "Technology and Innovation": {
+      "Growth Sectors": ["Tourism", "Agriculture"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
     },
-    "Sports": {
-      "Commonwealth Games Participation": "Since 1970, with one medal won.",
-      "Major Sports": ["Cricket", "Football", "Athletics"]
+    "Education and Healthcare": {
+      "Education System": "Influenced by the British model, with primary, secondary, and tertiary levels",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Air, and Sea transport",
+    "Key Transport Hubs": ["St. George's", "Maurice Bishop International Airport"]
+  },
+  "Environmental Data": {
+    "Air Pollutants": {
+      "Particulate Matter Emissions": "10.08 micrograms per cubic meter (2019 est.)",
+      "Carbon Dioxide Emissions": "0.27 megatons (2016 est.)",
+      "Methane Emissions": "2.04 megatons (2020 est.)"
     },
-    "Education": {
-      "System": "Influenced by the British model, with primary, secondary, and tertiary levels."
+    "Total Water Withdrawal": {
+      "Municipal": "10 million cubic meters (2020 est.)",
+      "Agricultural": "2.1 million cubic meters (2017 est.)"
     },
-    "Transport": {
-      "Driving Side": "Left",
-      "Main Airport": "Maurice Bishop International Airport"
-    },
-    "Demographics": {
-      "Urbanization Rate": "0.86% annual rate (2020-25 est.)"
-    },
-    "Environmental Data": {
-      "Air Pollutants": {
-        "Particulate Matter Emissions": "10.08 micrograms per cubic meter (2019 est.)",
-        "Carbon Dioxide Emissions": "0.27 megatons (2016 est.)",
-        "Methane Emissions": "2.04 megatons (2020 est.)"
-      },
-      "Total Water Withdrawal": {
-        "Municipal": "10 million cubic meters (2020 est.)",
-        "Agricultural": "2.1 million cubic meters (2017 est.)"
-      },
-      "Total Renewable Water Resources": "200 million cubic meters (2020 est.)"
-    },
-    "Tourism": {
-      "Attractions": {
-        "Underwater Sculpture Park": "World's first, offering unique diving experiences.",
-        "Historical Forts": "Numerous forts with rich history."
-      }
-    },
-    "International Relations": {
-      "Commonwealth Membership": "Since 1974",
-      "Participation in International Organizations": "Grenada participates in various international law organizations and has dual citizenship recognition."
+    "Total Renewable Water Resources": "200 million cubic meters (2020 est.)"
+  },
+  "Tourism": {
+    "Attractions": {
+      "Underwater Sculpture Park": "World's first, offering unique diving experiences.",
+      "Historical Forts": "Numerous forts with rich history."
     }
   }
 }
