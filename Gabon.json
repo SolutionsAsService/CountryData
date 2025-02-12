@@ -1,122 +1,177 @@
 {
-  "Gabon": {
-    "General_Information": {
-      "Name": {
-         "Common": "Gabon",
-         "Official": "Gabonese Republic",
-         "French": "République gabonaise",
-         "Sangu": "Ngabu"
-      },
-      "Flag": "Flag of Gabon",
-      "Coat_of_Arms": "Coat of arms of Gabon",
-      "Motto": "Union, Travail, Justice (Union, Work, Justice)",
-      "Anthem": {
-        "Title": "La Concorde",
-        "Translation": "The Concord",
-        "Duration": "1 minute and 45 seconds"
-      },
-      "Capital_and_Largest_City": {
+  "Name": {
+    "Common": "Gabon",
+    "Official": "Gabonese Republic",
+    "Native": {
+      "French": "République gabonaise",
+      "Sangu": "Ngabu"
+    }
+  },
+  "Symbols": {
+    "Flag": "Three horizontal bands of green, yellow, and blue",
+    "Emblem": "A shield supported by two black panthers, with a ship's prow and a tree, and the national motto 'Union, Travail, Justice'",
+    "Motto": "Union, Travail, Justice (Union, Work, Justice)",
+    "Anthem": {
+      "Title": "La Concorde",
+      "Translation": "The Concord",
+      "Duration": "1 minute and 45 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Africa",
+    "Region": "Central Africa",
+    "Coordinates": {
+      "Capital": {
         "Name": "Libreville",
-        "Coordinates": "0°23′N 9°27′E"
-      },
-      "Official_Language": "French",
-      "Regional_Languages": ["Fang", "Mbete", "Myene", "Nzebi", "Punu", "Teke", "Vili"],
-      "Ethnic_Groups": {
-        "Fang": "Punu",
-        "Nzebi": "Teke",
-        "Myene": "Kota",
-        "Vili": "Mbama",
-        "Other": "42 others"
-      },
-      "Religion_2020": {
-        "Christianity": "75.6%",
-        "Islam": "12.2%",
-        "No_Religion": "5.9%",
-        "Traditional_Faiths": "5.7%",
-        "Others": "0.6%"
-      },
-      "Demonym": ["Gabonese", "Gabonaise"],
-      "Government_Type": "Unitary presidential republic under a military junta",
-      "Leaders": {
-        "Transitional_President": "Brice Oligui Nguema",
-        "Transitional_Vice_President": "Joseph Owondault Berre",
-        "Interim_Prime_Minister": "Raymond Ndong Sima"
-      },
-      "Legislature": "Parliament of Gabon (suspended)",
-      "Independence_from_France": {
-        "Republic_Established": "28 November 1958",
-        "Granted": "16–17 August 1960",
-        "2023_Coup_d'état": "30 August 2023"
-      },
-      "Area": {
-        "Total": "267,668 km2",
-        "Water_Percentage": "3.76%"
-      },
-      "Population_2023": {
-        "Estimate": "2,397,368",
-        "Density": "7.9/km2"
-      },
-      "GDP_PPP_2023_Estimate": {
-        "Total": "$41.922 billion",
-        "Per_Capita": "$19,165"
-      },
-      "GDP_Nominal_2023_Estimate": {
-        "Total": "$19.319 billion",
-        "Per_Capita": "$8,831"
-      },
-      "Gini_2017": "38 medium",
-      "HDI_2021": {
-        "Score": "0.706",
-        "Rank": "112th"
-      },
-      "Currency": "Central African CFA franc (XAF)",
-      "Time_Zone": "UTC+1 (WAT)",
-      "Date_Format": "dd/mm/yyyy",
-      "Driving_Side": "right",
-      "Calling_Code": "+241",
-      "ISO_3166_Code": "GA",
-      "Internet_TLD": ".ga",
-      "Location": "Central Africa, on the equator",
-      "Borders": {
-        "Northwest": "Equatorial Guinea",
-        "North": "Cameroon",
-        "East_South": "Republic of the Congo",
-        "West": "Gulf of Guinea"
+        "Latitude": "0°23′N",
+        "Longitude": "9°27′E"
       }
     },
-    "History": {
-      "Early_Inhabitants": "Pygmy peoples",
-      "Bantu_Migration": "Settled in the 14th century",
-      "Colonial_History": "French colony until independence in 1960"
+    "Location": "Central Africa, on the equator",
+    "Area": {
+      "Total (km2)": 267668,
+      "Rank": "76",
+      "Water Percentage": "3.76%"
     },
-    "Politics": {
-      "System": "Unitary presidential republic",
-      "Party_Dominance": "Gabonese Democratic Party (PDG)"
+    "Borders": {
+      "Northwest": "Equatorial Guinea",
+      "North": "Cameroon",
+      "East and South": "Republic of the Congo",
+      "West": "Gulf of Guinea"
     },
-    "Geography": {
-      "Description": "Coastal plains, mountains, savanna",
-      "Major_Features": ["Cristal Mountains", "Chaillu Massif"]
+    "Terrain": ["Coastal plains, mountains, savanna"],
+    "Major Features": ["Cristal Mountains", "Chaillu Massif"],
+    "Natural Resources": ["Petroleum", "Manganese", "Uranium", "Gold", "Timber", "Iron ore", "Hydropower"],
+    "Climate": ["Tropical; always hot, humid"],
+    "Time Zones": ["UTC+1 (WAT)"],
+    "Largest City": "Libreville"
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 2397368,
+      "Density per km2": 7.9
     },
-    "Economy": {
-      "Status": "Developing country",
-      "Income_Inequality": "Large parts of the population are very poor",
-      "Economic_Drivers": ["Petroleum", "Foreign private investment"]
+    "Ethnic Groups": {
+      "Fang": "Punu",
+      "Nzebi": "Teke",
+      "Myene": "Kota",
+      "Vili": "Mbama",
+      "Other": "42 others"
     },
-    "Energy": {
-      "Description": "Details of Gabon's energy sector"
+    "Languages": {
+      "Official": ["French"],
+      "Regional": ["Fang", "Mbete", "Myene", "Nzebi", "Punu", "Teke", "Vili"]
     },
-    "Transport": {
-      "Infrastructure": "Details of transportation networks in Gabon"
+    "Religion": {
+      "2020": {
+        "Christianity": 75.6,
+        "Islam": 12.2,
+        "No Religion": 5.9,
+        "Traditional Faiths": 5.7,
+        "Others": 0.6
+      }
     },
-    "Demographics": {
-      "Population_Composition": "Bantu ethnic groups, diverse minorities",
-      "Language": "French as the official language, Bantu languages widely spoken"
+    "Demonym": ["Gabonese", "Gabonaise"]
+  },
+  "Government": {
+    "Type": "Unitary presidential republic under a military junta",
+    "Leaders": {
+      "Transitional President": "Brice Oligui Nguema",
+      "Transitional Vice President": "Joseph Owondault Berre",
+      "Interim Prime Minister": "Raymond Ndong Sima"
     },
-    "Culture": {
-      "Influences": "Blend of indigenous, French, and African cultures"
-    },
-    "Wildlife_of_Gabon": {
-      "Biodiversity": "Details of endemic species and conservation efforts"
+    "Legislature": "Parliament of Gabon (suspended)",
+    "Constitution": "21 March 1991"
+  },
+  "History": {
+    "Early Inhabitants": "Pygmy peoples",
+    "Bantu Migration": "Settled in the 14th century",
+    "Colonial History": "French colony until independence in 1960",
+    "Independence": {
+      "Republic Established": "28 November 1958",
+      "Granted": "16–17 August 1960",
+      "2023 Coup d'état": "30 August 2023"
     }
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Petroleum and foreign private investment",
+    "Major Industries": ["Petroleum", "Manganese mining", "Timber", "Uranium mining"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 41.922,
+      "Per Capita (USD)": 19165
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 19.319,
+      "Per Capita (USD)": 8831
+    },
+    "Currency": "Central African CFA franc (XAF)",
+    "Gini Index": "38 (2017)",
+    "HDI": "0.706 (2021)"
+  },
+  "International Relations": {
+    "UN Member": true,
+    "AU Member": true,
+    "ECCAS Member": true,
+    "OPEC Member": true
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+1 (WAT)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+241",
+    "ISO 3166 Code": "GA",
+    "Internet TLD": ".ga",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Labour Day (May 1)",
+      "Independence Day (August 16-17)",
+      "Christmas Day (December 25)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Blend of indigenous, French, and African cultures",
+    "Cultural Contributions": ["Traditional music and dance", "Cuisine", "Art"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.0,
+    "Exports Growth": "Driven by petroleum and mining sectors",
+    "Inflation Rate": "4.5%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Petroleum", "Mining"],
+      "Challenges": "Balancing economic growth with environmental sustainability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "N/A",
+        "Expectation": "Steady growth into 2024"
+      },
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Central African culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Petroleum", "Mining"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Wildlife of Gabon": {
+    "Biodiversity": "Rich in endemic species and conservation efforts"
   }
 }
