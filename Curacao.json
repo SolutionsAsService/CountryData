@@ -1,83 +1,170 @@
 {
-  "Curaçao": {
-    "General": {
-      "OfficialName": "Country of Curaçao",
-      "Status": { "Constituent country":"Kingdom of the Netherlands" },
-      "Languages": ["Papiamentu", "Dutch", "English"],
-      "Capital": "Willemstad",
-      "Location": "Southern Caribbean Sea, 60 km north of the Venezuelan coast",
-      "Area": "444 km2",
-      "Climate": "Hot semi-arid",
-      "Timezone": "UTC−4:00"
-    },
-    "History": {
-      "OriginalInhabitants": ["Arawak", "Caquetio Amerindians"],
-      "EuropeanDiscovery": 1499,
-      "ColonialEra": {
-        "Spanish": "First European settlers",
-        "Dutch": "Gained control in 1634"
-      },
-      "RoleInSlaveTrade": "Major centre in the Atlantic slave trade",
-      "ModernHistory": "Became a self-governing country within the Kingdom of the Netherlands in 2010"
-    },
-    "Government": {
-      "Type": "Parliamentary representative democracy within a constitutional monarchy",
-      "Monarch": "Willem-Alexander",
-      "Governor": "Lucille George-Wout",
-      "PrimeMinister": "Gilmar Pisas",
-      "Legislature": "Parliament of Curaçao"
-    },
-    "Economy": {
-      "GDP_PPP": {
-        "2021": "$5.5 billion"
-      },
-      "GDP_PerCapita": {
-        "2021": "$35,484"
-      },
-      "Industries": ["Oil refining", "Shipping services", "International trade", "Financial services", "Tourism"]
-    },
-    "Demographics": {
-      "Population": {
-        "2023Estimate": 147,300
-      },
-      "EthnicGroups": {
-        "Curaçaoan": "75.4%",
-        "Dutch": "9%",
-        "Dominican": "3.6%",
-        "Colombian": "3%",
-        "Haitian": "1.2%",
-        "Surinamese": "1.2%",
-        "Venezuelan": "1.1%",
-        "Aruban": "1.1%",
-        "Other": "6%",
-        "Unspecified": "0.9%"
-      },
-      "Religion": {
-        "Christianity": "90%",
-        "NoReligion": "6%",
-        "Hinduism": "2%",
-        "Islam": "0.5%",
-        "Judaism": "0.2%",
-        "Other": "0.8%",
-        "NotStated": "0.6%"
+  "Name": {
+    "Common": "Curaçao",
+    "Official": "Country of Curaçao",
+    "Native": {
+      "Papiamentu": "Pais Kòrsou",
+      "Dutch": "Land Curaçao"
+    }
+  },
+  "Symbols": {
+    "Flag": "Blue with a horizontal yellow stripe and two white five-pointed stars in the top left corner",
+    "Emblem": "A blue shield with a yellow five-pointed star and a white five-pointed star",
+    "Motto": "N/A",
+    "Anthem": {
+      "Title": "Himno di Kòrsou",
+      "Duration": "1 minute and 50 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "North America",
+    "Region": "Caribbean",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Willemstad",
+        "Latitude": "12.1696° N",
+        "Longitude": "68.9900° W"
       }
     },
-    "Geography": {
-      "Terrain": "Shrublands, Cacti, Watapana and Evergreen Trees",
-      "Wildlife": ["Terns", "Herons", "Flamingos", "Orioles", 
-        "Hummingbirds", "Bananaquits", "Trupial", "Mockingbirds", "Cormorants", "Gulls"],
-      "MarineLife": ["Various species of sea turtles"]
+    "Location": "Southern Caribbean Sea, 60 km north of the Venezuelan coast",
+    "Area": {
+      "Total (km2)": 444,
+      "Rank": "179",
+      "Water Percentage": "N/A"
     },
-    "Culture": {
-      "SignificantInfluence": ["Sephardic Jews from the 17th century"],
-      "HistoricalSites": ["Willemstad", "Fort Amsterdam"],
-      "CulturalHeritage": "Oldest active Jewish congregation in the Americas, dating to 1651"
+    "Time Zones": ["UTC−4:00"],
+    "Largest City": "Willemstad",
+    "Natural Resources": ["Phosphates", "Salt"],
+    "Climate": ["Hot semi-arid"]
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 147300,
+      "Density per km2": 332
     },
-    "AdditionalInformation": {
-      "HistoricalRole": "Center of the Caribbean slave trade",
-      "StatusChange": "Part of Curaçao and Dependencies colony (1815-1954), then Netherlands Antilles (1954-2010)",
-      "GeographicalFeatures": "Part of the southwestern arc of the Lesser Antilles",
-      "HDI_2012": "0.811 (very high)"
+    "Ethnic Groups": {
+      "Curaçaoan": 75.4,
+      "Dutch": 9,
+      "Dominican": 3.6,
+      "Colombian": 3,
+      "Haitian": 1.2,
+      "Surinamese": 1.2,
+      "Venezuelan": 1.1,
+      "Aruban": 1.1,
+      "Other": 6,
+      "Unspecified": 0.9
+    },
+    "Languages": {
+      "Official": ["Papiamentu", "Dutch", "English"]
+    },
+    "Religion": {
+      "Christianity": 90,
+      "No Religion": 6,
+      "Hinduism": 2,
+      "Islam": 0.5,
+      "Judaism": 0.2,
+      "Other": 0.8,
+      "Not Stated": 0.6
+    }
+  },
+  "Government": {
+    "Type": "Parliamentary representative democracy within a constitutional monarchy",
+    "Leaders": {
+      "Monarch": "Willem-Alexander",
+      "Governor": "Lucille George-Wout",
+      "Prime Minister": "Gilmar Pisas"
+    },
+    "Legislature": "Parliament of Curaçao",
+    "Constitution": "10 October 2010"
+  },
+  "History": {
+    "Original Inhabitants": ["Arawak", "Caquetio Amerindians"],
+    "European Discovery": 1499,
+    "Colonial Era": {
+      "Spanish": "First European settlers",
+      "Dutch": "Gained control in 1634"
+    },
+    "Role in Slave Trade": "Major centre in the Atlantic slave trade",
+    "Modern History": "Became a self-governing country within the Kingdom of the Netherlands in 2010"
+  },
+  "Economy": {
+    "GDP (PPP 2021)": {
+      "Total (Billion USD)": 5.5,
+      "Per Capita (USD)": 35484
+    },
+    "Major Industries": ["Oil refining", "Shipping services", "International trade", "Financial services", "Tourism"],
+    "Currency": "Netherlands Antillean guilder (ANG)"
+  },
+  "International Relations": {
+    "UN Member": false,
+    "WTO Member": false,
+    "OECD Member": false,
+    "OAS Member": true,
+    "Caricom Associate Member": true
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC−4:00"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+5999",
+    "ISO 3166 Code": "CW",
+    "Internet TLD": ".cw",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Carnival Monday (February/March)",
+      "Good Friday (April)",
+      "Easter Monday (April)",
+      "King's Day (April 27)",
+      "Labour Day (May 1)",
+      "Ascension Day (May)",
+      "Flag Day (July 2)",
+      "Curaçao Day (October 10)",
+      "Christmas Day (December 25)",
+      "Boxing Day (December 26)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Influence of Sephardic Jews from the 17th century",
+    "Cultural Contributions": ["Traditional music and dance", "Handicrafts"],
+    "Historical Sites": ["Willemstad", "Fort Amsterdam"],
+    "Cultural Heritage": "Oldest active Jewish congregation in the Americas, dating to 1651"
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.5,
+    "Exports Growth": "Driven by tourism, financial services, and oil refining",
+    "Inflation Rate": "2.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Renewable energy", "Technology"],
+      "Challenges": "Balancing economic growth with environmental sustainability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "Positive outlook",
+        "Expectation": "Steady growth into 2024"
+      },
+      "Commodity Imports": {
+        "Petroleum": "Significant",
+        "Food Products": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Limited rural areas"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Caribbean culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Financial services", "Tourism"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
     }
   }
 }
