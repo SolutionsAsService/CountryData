@@ -1,88 +1,198 @@
 {
-  "Country": "Jamaica",
-  "Native_Name": "Jumieka",
-  "Coordinates": {
-    "Latitude": "17°58′17″N",
-    "Longitude": "76°47′35″W"
+  "Name": {
+    "Common": "Jamaica",
+    "Native": "Jumieka"
   },
-  "Area_Square_Kilometers": 10990,
-  "Population": {
-    "2019_Estimate": 2734092,
-    "2011_Census": 2697983,
-    "Density_Per_SqKm": 266
+  "Symbols": {
+    "Flag": "A diagonal cross of gold, dividing the flag into four triangles: two green (top and bottom) and two black (hoist and fly)",
+    "Coat of Arms": "A crocodile atop the royal helmet of the British Monarchy, and a male and female Arawak Indian standing on either side",
+    "Motto": "\"Out of Many, One People\"",
+    "National Anthem": {
+      "Title": "Jamaica, Land We Love",
+      "Duration": "1 minute and 15 seconds"
+    },
+    "Royal Anthem": {
+      "Title": "God Save the King",
+      "Duration": "52 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "North America",
+    "Region": "Caribbean",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Kingston",
+        "Latitude": "17°58′17″N",
+        "Longitude": "76°47′35″W"
+      }
+    },
+    "Location": "Caribbean Sea, south of Cuba and west of Hispaniola",
+    "Area": {
+      "Total (km2)": 10990,
+      "Rank": "160th",
+      "Water Percentage": "N/A"
+    },
+    "Borders": [],
+    "Major Islands": ["Cuba", "Hispaniola", "Cayman Islands"],
+    "Terrain": ["Mostly mountainous, with a narrow, discontinuous coastal plain"],
+    "Climate": ["Tropical; hot, humid; temperate interior"],
+    "Natural Resources": ["Bauxite, gypsum, limestone"],
+    "Time Zones": ["UTC-5"],
+    "Largest City": "Kingston"
+  },
+  "Demographics": {
+    "Population": {
+      "2019 Estimate": 2734092,
+      "2011 Census": 2697983,
+      "Density (per km2)": 266
+    },
+    "Ethnic Groups": {
+      "2019": {
+        "Afro-Jamaicans": 92.1,
+        "Mixed": 6.1,
+        "Indian": 0.8,
+        "Other": 0.4,
+        "Unspecified": 0.7
+      }
+    },
+    "Languages": {
+      "Official": ["English"],
+      "National": ["Jamaican Patois"]
+    },
+    "Religion": {
+      "2019": {
+        "Christianity": 68.9,
+        "Protestantism": 64.8,
+        "Other Christian": 4.1,
+        "No Religion": 21.3,
+        "Rastafarianism": 1.1,
+        "Others": 6.5,
+        "Not Stated": 2.3
+      }
+    },
+    "Demonym": "Jamaican"
   },
   "Government": {
     "Type": "Unitary parliamentary constitutional monarchy",
-    "Monarch": "Charles III",
-    "Governor_General": "Patrick Allen",
-    "Prime_Minister": "Andrew Holness",
+    "Leaders": {
+      "Monarch": "Charles III",
+      "Governor General": "Patrick Allen",
+      "Prime Minister": "Andrew Holness"
+    },
     "Legislature": {
-      "Upper_House": "Senate",
-      "Lower_House": "House of Representatives"
-    }
+      "Upper House": "Senate",
+      "Lower House": "House of Representatives"
+    },
+    "Constitution": "6 August 1962"
   },
-  "Independence": {
-    "From_United_Kingdom": "6 August 1962"
+  "History": {
+    "Early Inhabitants": "Taíno peoples",
+    "Spanish Rule": "1494-1655",
+    "British Rule": "1655-1962",
+    "Independence": "6 August 1962"
   },
   "Economy": {
-    "GDP_PPP": {
-      "Total": "$35.690 billion",
-      "Per_Capita": "$12,994"
+    "Status": "Developing country",
+    "Dependence": "Tourism, mining, agriculture, manufacturing, and financial services",
+    "Major Industries": ["Tourism", "Bauxite/alumina", "Agriculture", "Manufacturing", "Financial services"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 35.690,
+      "Per Capita (USD)": 12994
     },
-    "GDP_Nominal": {
-      "Total": "$18.761 billion",
-      "Per_Capita": "$6,830"
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 18.761,
+      "Per Capita (USD)": 6830
     },
     "Currency": "Jamaican dollar (JMD)"
   },
-  "Geography": {
-    "Capital": "Kingston",
-    "Major_Islands": ["Cuba", "Hispaniola", "Cayman Islands"],
-    "Time_Zone": "UTC-5"
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": ["United Nations", "CARICOM", "Commonwealth of Nations", "Organization of American States"]
   },
-  "Demographics": {
-    "Ethnic_Groups": {
-      "Afro_Jamaicans": "92.1%",
-      "Mixed": "6.1%",
-      "Indian": "0.8%",
-      "Other": "0.4%",
-      "Unspecified": "0.7%"
+  "Miscellaneous": {
+    "Time Zone": ["UTC-5"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Left",
+    "Calling Code": "+1-876",
+    "ISO 3166 Code": "JM",
+    "Internet TLD": ".jm",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Ash Wednesday (February/March)",
+      "Good Friday (April)",
+      "Easter Monday (April)",
+      "Labour Day (May 23)",
+      "Emancipation Day (August 1)",
+      "Independence Day (August 6)",
+      "National Heroes Day (October)",
+      "Christmas Day (December 25)",
+      "Boxing Day (December 26)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of African, European, and indigenous influences",
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["Home to Reggae music", "Influence of Rastafari movement"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 2.0,
+    "Exports Growth": "Driven by tourism and agriculture",
+    "Inflation Rate": "4.5%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Tourism", "Agriculture"],
+      "Challenges": "Balancing economic growth with environmental sustainability"
     },
-    "Religion": {
-      "Christianity": "68.9%",
-      "Protestantism": "64.8%",
-      "Other_Christian": "4.1%",
-      "No_Religion": "21.3%",
-      "Rastafarianism": "1.1%",
-      "Others": "6.5%",
-      "Not_Stated": "2.3%"
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "JSE Index",
+        "Expectation": "Steady growth into 2024"
+      },
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
     }
   },
-  "Languages": {
-    "Official": "English",
-    "National": "Jamaican Patois"
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Caribbean culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Tourism", "Agriculture", "Technology"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
   },
-  "Symbols": {
-    "Flag": "Flag of Jamaica",
-    "Coat_of_Arms": "Coat of arms of Jamaica",
-    "Motto": "\"Out of Many, One People\"",
-    "National_Anthem": "Jamaica, Land We Love",
-    "Royal_Anthem": "God Save the King"
+  "Transport": {
+    "Major Modes": "Road, Rail, Air, and Sea transport",
+    "Key Transport Hubs": ["Kingston", "Montego Bay", "Ocho Rios"]
   },
-  "History": {
-    "Early_Inhabitants": "Taíno peoples",
-    "Spanish_Rule": "1494-1655",
-    "British_Rule": "1655-1962",
-    "Independence": "6 August 1962"
+  "Current Challenges": {
+    "Political Instability": "Occasional protests and political unrest",
+    "Economic Hardships": "High unemployment and poverty rates",
+    "Natural Disasters": ["Hurricanes"],
+    "Health Issues": ["COVID-19 pandemic"]
   },
-  "Cultural_Influence": {
-    "Music": ["Reggae", "Dub", "Ska", "Dancehall"],
-    "Sports": ["Cricket", "Sprinting", "Athletics"],
-    "Religion": ["Rastafari"]
+  "Healthcare": {
+    "Life Expectancy": "75.5 years",
+    "Infant Mortality Rate": "12.4 deaths/1,000 live births",
+    "Health Expenditure of GDP": "5.6% (2020)"
   },
-  "International_Influence": "World's least populous cultural superpower",
-  "Tourism": "Average of 4.3 million tourists per year",
-  "Education": "System and Institutions",
-  "Science_and_Technology": "Developments and Contributions",
-  "Infrastructure": "Transportation, Utilities, and Communication"
+  "Education": {
+    "Expenditures of GDP": "5.8% (2020)",
+    "Literacy Rate": {
+      "Total": "88.7%",
+      "Male": "84.1%",
+      "Female": "93.2%"
+    }
+  }
 }
