@@ -1,95 +1,111 @@
 {
-    "Azerbaijan": {
-        "Official Names": {
-            "English": "Republic of Azerbaijan",
-            "Local": "Azərbaycan Respublikası",
-            "Azerbaijani": "Azərbaycan"
-        },
-        "Symbols": {
-            "Flag": "Three equally sized horizontal bands of blue, red, and green, with a white crescent and an eight-pointed star centered in the red band",
-            "Emblem": "Emblem of Azerbaijan",
-            "Anthem": {
-                "Title": "Azərbaycan marşı",
-                "Translation": "March of Azerbaijan",
-                "Duration": "2 minutes and 12 seconds"
-            }
-        },
-        "Location": {
-            "Continent": "Transcontinental (Eastern Europe and West Asia)",
-            "Borders": {
-                "Caspian Sea": "East",
-                "Russia (Republic of Dagestan)": "North",
-                "Georgia": "Northwest",
-                "Armenia": "West",
-                "Turkey": "West",
-                "Iran": "South"
-            },
-            "Capital and Largest City": "Baku",
-            "Coordinates": "40°23′43″N 49°52′56″E"
-        },
-        "Demographics": {
-            "Population": {
-                "2022 Estimate": "10,353,296",
-                "Density": "117 per km2"
-            },
-            "Ethnic Groups (2019)": {
-                "Azerbaijani": "94.8%",
-                "Lezgin": "1.7%",
-                "Talysh": "0.9%",
-                "Russian": "0.7%",
-                "Others": "1.9%"
-            },
-            "Religion": "Primarily nominally muslim, no state religon",
-            "Languages": {
-                "Official": "Azerbaijani",
-                "Minority Languages": "See full list"
-            }
-        },
-        "Government": {
-            "Type": "Unitary semi-presidential republic",
-            "President": "Ilham Aliyev",
-            "Vice President": "Mehriban Aliyeva",
-            "Prime Minister": "Ali Asadov",
-            "National Assembly Speaker": "Sahiba Gafarova",
-            "Legislature": "National Assembly",
-            "Formation": {
-                "People's Republic": "28 May 1918",
-                "Soviet Socialist Republic": "28 April 1920",
-                "Independence from Soviet Union": "18 October 1991 (declared), 26 December 1991 (recognized)",
-                "Constitution adopted": "12 November 1995"
-            }
-        },
-        "Geography": {
-            "Total Area": "86,600 square kilometers",
-            "Water Percentage": "1.6%"
-        },
-        "Economy": {
-            "GDP (PPP) 2023 Estimate": {
-                "Total": "$192.146 billion",
-                "Per Capita": "$18,694"
-            },
-            "GDP (Nominal) 2023 Estimate": {
-                "Total": "$77.392 billion",
-                "Per Capita": "$7,529"
-            },
-            "Gini Index (2008)": "33.7",
-            "HDI (2021)": "0.745"
-        },
-        "Currency": "Manat (₼) (AZN)",
-        "Time Zone": "UTC+4 (AZT)",
-        "Infrastructure": {
-            "Driving Side": "right",
-            "Calling Code": "+994",
-            "ISO 3166 Code": "AZ",
-            "Internet TLD": ".az"
-        },
-        "Culture": {
-            "Religious Composition": "Majority nominally Muslim",
-            "Secular Political Forces": "All major political forces are secular",
-            "Human Development Index": "91st, Developing country",
-            "Political Situation": "Ruled by the New Azerbaijan Party since 1993 with accusations of authoritarianism",
-            "Press Freedom and Civil Liberties": "Concerns over restrictions"
-        },
-        "International Affiliations": ["United Nations", "Council of Europe", "Non-Aligned Movement", "OSCE", "NATO PfP program", "GUAM", "CIS", "OPCW", "WTO observer state"]
+  "Name": {
+    "Common": "Azerbaijan",
+    "Official": "Republic of Azerbaijan",
+    "Local": "Azərbaycan Respublikası",
+    "Azerbaijani": "Azərbaycan"
+  },
+  "Symbols": {
+    "Flag": "Three equally sized horizontal bands of blue, red, and green, with a white crescent and an eight-pointed star centered in the red band",
+    "Emblem": "Emblem of Azerbaijan",
+    "Motto": "None",
+    "Anthem": {
+      "Title": "Azərbaycan marşı",
+      "Translation": "March of Azerbaijan",
+      "Duration": "2 minutes and 12 seconds"
     }
+  },
+  "Geography": {
+    "Capital City": "Baku",
+    "Largest City": "Baku",
+    "Major Cities": ["Ganja", "Sumqayit", "Mingachevir"],
+    "Area": {
+      "Total (km2)": 86600
+    },
+    "Region": "Transcontinental (Eastern Europe and West Asia)",
+    "Coordinates": "40°23′43″N 49°52′56″E",
+    "Terrain": ["Mountains", "Plains", "Caspian Sea coastline"],
+    "Climate": "Varied",
+    "Borders": ["Caspian Sea", "Russia (Republic of Dagestan)", "Georgia", "Armenia", "Turkey", "Iran"],
+    "Water Percentage": 1.6
+  },
+  "Government": {
+    "Type": "Unitary semi-presidential republic",
+    "President": "Ilham Aliyev",
+    "Vice President": "Mehriban Aliyeva",
+    "Prime Minister": "Ali Asadov",
+    "National Assembly Speaker": "Sahiba Gafarova",
+    "Legislature": {
+      "Upper House": "N/A",
+      "Lower House": "National Assembly"
+    },
+    "Formation": {
+      "People's Republic": "28 May 1918",
+      "Soviet Socialist Republic": "28 April 1920",
+      "Independence from Soviet Union": {
+        "Declared": "18 October 1991",
+        "Recognized": "26 December 1991"
+      },
+      "Constitution adopted": "12 November 1995"
+    }
+  },
+  "History": {
+    "Early History": ["Caucasian Albania", "Medieval Period"],
+    "Modern History": ["Safavid Iran", "Russian Empire", "Azerbaijan Democratic Republic", "Soviet Azerbaijan", "Post-Soviet Azerbaijan"]
+  },
+  "Economy": {
+    "GDP (PPP 2023) Total (Billion USD)": 192.146,
+    "GDP per Capita (PPP USD)": 18694,
+    "GDP (Nominal 2023) Total (Billion USD)": 77.392,
+    "GDP per Capita (Nominal USD)": 7529,
+    "Main Sectors": ["Oil and Gas", "Agriculture", "Services"],
+    "Currency": "Manat (₼) (AZN)",
+    "Gini Index (2008)": 33.7,
+    "HDI (2021)": 0.745
+  },
+  "Demographics": {
+    "Population": {
+      "2022 Estimate": 10353296,
+      "Density per km2": 117
+    },
+    "Ethnic Groups (2019)": {
+      "Azerbaijani": 94.8,
+      "Lezgin": 1.7,
+      "Talysh": 0.9,
+      "Russian": 0.7,
+      "Others": 1.9
+    },
+    "Languages": {
+      "Official": "Azerbaijani",
+      "Minority Languages": ["Lezgian", "Talysh", "Russian", "Avar", "Georgian"]
+    },
+    "Religion": {
+      "Primary": "Nominally Muslim",
+      "Denomination": "Primarily Shi'a Islam"
+    },
+    "Demonyms": ["Azerbaijani"]
+  },
+  "Miscellaneous": {
+    "Human Development Index (2021)": 0.745,
+    "Currency": "Manat (₼) (AZN)",
+    "Calling Code": "+994",
+    "ISO 3166 Code": "AZ",
+    "Internet TLD": [".az"],
+    "Public Holidays": [
+      "New Year's Day", "International Women's Day", "Novruz Bayram", "Victory Day", "Republic Day", "Armed Forces Day", "National Independence Day", "Constitution Day", "Flag Day", "State Independence Day", "Day of Azerbaijani Oil Workers"
+    ],
+    "Time Zone": "UTC+4 (AZT)",
+    "Driving Side": "right",
+    "Date Format": "dd/mm/yyyy (CE)"
+  },
+  "International Relations": {
+    "Member Of": ["United Nations", "Council of Europe", "Non-Aligned Movement", "OSCE", "NATO PfP program", "GUAM", "CIS", "OPCW", "WTO observer state"]
+  },
+  "Culture": {
+    "Religious Composition": "Majority nominally Muslim",
+    "Secular Political Forces": "All major political forces are secular",
+    "Human Development Index": "91st, Developing country",
+    "Political Situation": "Ruled by the New Azerbaijan Party since 1993 with accusations of authoritarianism",
+    "Press Freedom and Civil Liberties": "Concerns over restrictions"
+  }
 }
