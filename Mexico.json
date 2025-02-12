@@ -1,161 +1,79 @@
 {
-    "Name": {
-      "Common": "Mexico",
-      "Official": "United Mexican States",
-      "Native": "Estados Unidos Mexicanos"
+  "Name": {
+    "Common": "Mexico",
+    "Official": "United Mexican States",
+    "Native": "Estados Unitos Amicanos"
+  },
+  "Geography": {
+    "Capital City": "Mexico City",
+    "Largest City": "Mexico City",
+    "Major Cities": [
+      "Guadalajara",
+      "Monterrey",
+      "Puebla",
+      "Toluca",
+      "Tijuana",
+      "León",
+      "Ciudad Juárez"
+    ],
+    "Area": {
+      "Total (km2)": "1972550"
     },
-    "Geography": {
-      "Region": "Southern portion of North America",
-      "Capital City": "Mexico City",
-      "Capital Coordinates": "19°26′N 99°8′W",
-      "Area": {
-        "Total (km2)": "1972550"
-      },
-      "Borders": [
-        "United States",
-        "Pacific Ocean",
-        "Guatemala",
-        "Belize",
-        "Caribbean Sea",
-        "Gulf of Mexico"
-      ],
-      "Time Zone": "UTC−8 to −5",
-      "Driving Side": "Right"
+    "Time Zones": "UTC−8 to −5",
+    "Total Borders": "3",
+    "Driving Side": "Right"
+  },
+  "Government": {
+    "Type": "Federal presidential republic",
+    "President": "Andrés Manuel López Obrador",
+    "Prime Minister": "N/A",
+    "Legislature": {
+      "Upper House": "Senate",
+      "Lower House": "Chamber of Deputies"
+    }
+  },
+  "History": {
+    "Pre-Columbian": "Human presence since 8,000 BCE",
+    "Colonial Period": "Spanish Conquest in 1521, leading to the establishment of New Spain",
+    "Independence": "Declared on 27 September 1821",
+    "20th Century": "Mexican Revolution from 1910 to 1920, NAFTA signed in 1994"
+  },
+  "Economy": {
+    "GDP (PPP 2023) Total (Trillion USD)": "3.277",
+    "GDP (Nominal 2023) Total (Trillion USD)": "1.811",
+    "GDP per Capita (PPP USD)": "24975",
+    "GDP per Capita (Nominal USD)": "13803"
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": "129875529",
+      "Density per km2": "61"
     },
-    "Government": {
-      "Type": "Federal presidential republic",
-      "President": "Andrés Manuel López Obrador",
-      "Senate President": "Ana Lilia Rivera",
-      "Chamber of Deputies President": "Marcela Guerra Castillo",
-      "Chief Justice": "Norma Lucía Piña Hernández",
-      "Legislature": {
-        "Upper House": "Senate",
-        "Lower House": "Chamber of Deputies"
+    "Languages and Ethnic Groups": {
+      "Official Languages": "Spanish",
+      "Ethnic Groups": {
+        "Mestizo": "62%",
+        "Amerindian": "21%",
+        "White": "15%",
+        "Other": "2%"
       }
     },
-    "History": {
-      "Pre-Columbian": "Human presence since 8,000 BCE",
-      "Civilizations": [
-        "Olmec",
-        "Maya",
-        "Zapotec",
-        "Teotihuacan",
-        "Purepecha",
-        "Aztec"
-      ],
-      "Colonial Period": {
-        "Spanish Conquest": "1521",
-        "Colony Name": "New Spain",
-        "Important Events": [
-          "Spanish and Catholic expansion",
-          "Mining boom in Zacatecas and Guanajuato"
-        ]
-      },
-      "Independence": {
-        "Start of War": "16 September 1810",
-        "Declared": "27 September 1821",
-        "Recognized": "28 December 1836",
-        "Constitutions": {
-          "First": "4 October 1824",
-          "Second": "5 February 1857",
-          "Current": "5 February 1917"
-        }
-      },
-      "19th Century Challenges": [
-        "Mexican–American War",
-        "War of Reform",
-        "French intervention",
-        "Porfiriato era"
-      ],
-      "20th Century": {
-        "Mexican Revolution": "1910-1920",
-        "PRI Rule": "1929-2000",
-        "Economic Policies": [
-          "Developmentalism",
-          "Neoliberalism"
-        ],
-        "NAFTA": "1994"
-      }
-    },
-    "Economy": {
-      "GDP (PPP 2023)": {
-        "Total": "$3.277 trillion",
-        "Per Capita": "$24,975"
-      },
-      "GDP (Nominal 2023)": {
-        "Total": "$1.811 trillion",
-        "Per Capita": "$13,803"
-      },
-      "Gini Index (2018)": "41.8",
-      "HDI (2021)": "0.758"
-    },
-    "Demographics": {
-      "Population": {
-        "2023 Estimate": "129875529",
-        "Density per km2": "61"
-      },
-      "Languages": {
-        "Official": "Spanish (de facto)",
-        "Co-Official": "68 Indigenous languages"
-      },
-      "Ethnic Groups": "See below",
-      "Religion": {
-        "Christianity": "71%",
-        "Catholicism": "56%",
-        "Protestant": "10%",
-        "Other Christian": "5%",
+    "Religion": {
+      "Primary": "Christianity",
+      "Christianity": "71%",
+      "Minorities": {
         "No Religion": "17%",
-        "Other Religion": "8%",
-        "Prefer Not to Say": "5%"
-      }
-    },
-    "Miscellaneous": {
-      "Status": [
-        "Drug War",
-        "Deep Political Corruption and Conflict"
-      ],
-      "Symbols": {
-        "Flag": "Flag of Mexico",
-        "Coat of Arms": "Coat of arms of Mexico",
-        "Motto": "La Patria es Primero ('The Homeland is First')",
-        "Anthem": {
-          "Title": "Himno Nacional Mexicano",
-          "Duration": "1 minute and 42 seconds"
-        }
-      },
-      "Currency": "Mexican peso (MXN)",
-      "Date Format": "dd/mm/yyyy",
-      "Calling Code": "+52",
-      "ISO 3166 Code": "MX",
-      "Internet TLD": ".mx",
-      "Current Challenges": {
-        "Social Inequality": true,
-        "Poverty": true,
-        "Crime": true,
-        "Drug War Deaths Since 2006": "120000",
-        "Global Peace Index Ranking": "low"
-      },
-      "International Relations": {
-        "Member Of": [
-          "United Nations",
-          "G20",
-          "OECD",
-          "WTO",
-          "Asia-Pacific Economic Cooperation",
-          "Organization of American States",
-          "Community of Latin American and Caribbean States",
-          "Organization of Ibero-American States"
-        ],
-        "Classification": [
-          "newly industrialized",
-          "developing country",
-          "regional and middle power",
-          "emerging power"
-        ],
-        "UNESCO World Heritage Sites Rank": "1",
-        "Megadiverse Country Rank": "5",
-        "Tourist Arrivals 2018": "39000000"
+        "Other Religion": "12%"
       }
     }
+  },
+  "Miscellaneous": {
+    "Human Development Index (2021)": "0.758",
+    "Currency": "Mexican peso (MXN)",
+    "Calling Code": "+52",
+    "Internet TLD": [
+      ".mx"
+    ],
+    "UNESCO World Heritage Sites": "35"
+  }
 }
-
