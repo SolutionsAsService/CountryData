@@ -58,20 +58,20 @@ function displayCountryData(country) {
         <p><strong>Official Name:</strong> ${country.Name.Official}</p>
         <p><strong>Capital City:</strong> ${country.Geography["Capital City"]}</p>
         <p><strong>Largest City:</strong> ${country.Geography["Largest City"]}</p>
-        <p><strong>Major Cities:</strong> ${country.Geography["Major Cities"].join(', ')}</p>
+        <p><strong>Major Cities:</strong> ${country.Geography["Major Cities"] ? country.Geography["Major Cities"].join(', ') : 'N/A'}</p>
         <p><strong>Area:</strong> ${country.Geography.Area["Total (km2)"]} km²</p>
-        <p><strong>Population (2022 Estimate):</strong> ${country.Demographics.Population["2022 Estimate"]}</p>
+        <p><strong>Population (2022 Estimate):</strong> ${country.Demographics.Population["2022 Estimate"] || country.Demographics.Population["2023 Estimate"]}</p>
         <p><strong>Government Type:</strong> ${country.Government.Type}</p>
         <p><strong>President:</strong> ${country.Government.President}</p>
-        <p><strong>Prime Minister:</strong> ${country.Government["Prime Minister"]}</p>
+        <p><strong>Prime Minister:</strong> ${country.Government["Prime Minister"] || 'N/A'}</p>
         <p><strong>Upper House:</strong> ${country.Government.Legislature["Upper House"]}</p>
         <p><strong>Lower House:</strong> ${country.Government.Legislature["Lower House"]}</p>
-        <p><strong>GDP (PPP 2023):</strong> ${country.Economy["GDP (PPP 2023) Total (Trillion USD)"]} Trillion USD</p>
-        <p><strong>GDP (Nominal 2023):</strong> ${country.Economy["GDP (Nominal 2023) Total (Trillion USD)"]} Trillion USD</p>
-        <p><strong>GDP per Capita (PPP USD):</strong> ${country.Economy["GDP per Capita (PPP USD)"]}</p>
-        <p><strong>GDP per Capita (Nominal USD):</strong> ${country.Economy["GDP per Capita (Nominal USD)"]}</p>
-        <p><strong>Primary Religion:</strong> ${country.Demographics.Religion.Primary}</p>
-        <p><strong>Other Religions:</strong> ${Object.entries(country.Demographics.Religion.Minorities).map(([key, value]) => `${key}: ${value}`).join(', ')}</p>
+        <p><strong>GDP (PPP 2023):</strong> ${country.Economy["GDP (PPP 2023) Total (Trillion USD)"] || country.Economy["GDP (PPP 2023)"].Total} Trillion USD</p>
+        <p><strong>GDP (Nominal 2023):</strong> ${country.Economy["GDP (Nominal 2023) Total (Trillion USD)"] || country.Economy["GDP (Nominal 2023)"].Total} Trillion USD</p>
+        <p><strong>GDP per Capita (PPP USD):</strong> ${country.Economy["GDP per Capita (PPP USD)"] || country.Economy["GDP (PPP 2023)"].Per Capita}</p>
+        <p><strong>GDP per Capita (Nominal USD):</strong> ${country.Economy["GDP per Capita (Nominal USD)"] || country.Economy["GDP (Nominal 2023)"].Per Capita}</p>
+        <p><strong>Primary Religion:</strong> ${country.Demographics.Religion.Primary || country.Demographics.Religion.Christianity}</p>
+        <p><strong>Other Religions:</strong> ${country.Demographics.Religion.Minorities ? Object.entries(country.Demographics.Religion.Minorities).map(([key, value]) => `${key}: ${value}`).join(', ') : 'N/A'}</p>
         <p><strong>Human Development Index (2021):</strong> ${country.Miscellaneous["Human Development Index (2021)"]}</p>
         <p><strong>Currency:</strong> ${country.Miscellaneous.Currency}</p>
         <p><strong>Calling Code:</strong> ${country.Miscellaneous["Calling Code"]}</p>
