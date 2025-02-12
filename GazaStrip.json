@@ -1,84 +1,173 @@
 {
-  "Gaza_Strip": {
-    "name": "Gaza Strip",
-    "CommonName": "Gaza",
-    "ArabicName": "قِطَاعُ غَزَّةَ",
-    "status": {
-      "under_Palestinian_National_Authority": "According to the Oslo Accords",
-      "de_facto_administered_by": "Hamas since July 2007",
-      "claimed_by": "State of Palestine",
-      "UnderNavalBlockadeBy": "Israel",
-      "regarded_as": "Occupied territory due to the Gaza blockade according to the United Nations"
-    },
-    "geography": {
-      "location": "Eastern coast of the Mediterranean Sea",
-      "borders": {
-        "Egypt": "Southwest",
-        "Israel": "East and North"
-      },
-      "area_km2": 365,
-      "coordinates": {
-        "capital": "Gaza City",
-        "latitude": "31°30′53″N",
-        "longitude": "34°27′15″E"
+  "Name": {
+    "Common": "Gaza Strip",
+    "Official": "Gaza Strip",
+    "Native": {
+      "Arabic": "قِطَاعُ غَزَّةَ"
+    }
+  },
+  "Symbols": {
+    "Flag": "Flag of Palestine",
+    "Emblem": "Coat of arms of Palestine"
+  },
+  "Geography": {
+    "Continent": "Asia",
+    "Region": "Middle East",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Gaza City",
+        "Latitude": "31°30′53″N",
+        "Longitude": "34°27′15″E"
       }
     },
-    "languages": {
-      "official": "Arabic"
+    "Location": "Eastern coast of the Mediterranean Sea",
+    "Area": {
+      "Total (km2)": 365,
+      "Rank": "N/A",
+      "Water Percentage": "N/A"
     },
-    "ethnic_groups": {
-      "primary": "Palestinian Arabs"
+    "Borders": {
+      "Egypt": "Southwest",
+      "Israel": "East and North"
     },
-    "religion": {
-      "Sunni_Islam": "99% (official)",
+    "Terrain": ["Flat to rolling, sand- and dune-covered coastal plain"],
+    "Climate": ["Mediterranean climate with mild winters and hot, dry summers"],
+    "Natural Resources": ["Natural gas", "Arable land"],
+    "Time Zones": ["UTC+2 (Palestine Standard Time)", "UTC+3 (Palestine Summer Time)"],
+    "Largest City": "Gaza City"
+  },
+  "Demographics": {
+    "Population": {
+      "2022 Estimate": 2375259,
+      "Density per km2": 6507
+    },
+    "Ethnic Groups": {
+      "Primary": "Palestinian Arabs"
+    },
+    "Languages": {
+      "Official": ["Arabic"]
+    },
+    "Religion": {
+      "Sunni Islam": "99%",
       "Christianity": "<1%"
     },
-    "demographics": {
-      "demonym": ["Gazan", "Palestinian"],
-      "population_2022_estimate": 2375259,
-      "density_per_km2": 6507
+    "Demonym": ["Gazan", "Palestinian"]
+  },
+  "Government": {
+    "Status": {
+      "Under Palestinian National Authority": "According to the Oslo Accords",
+      "De Facto Administered By": "Hamas since July 2007",
+      "Claimed By": "State of Palestine",
+      "Under Naval Blockade By": "Israel",
+      "Regarded As": "Occupied territory due to the Gaza blockade according to the United Nations"
     },
-    "economy": {
-      "currency": ["Israeli new shekel", "Egyptian pound"],
-      "unemployment_rate_overall": "46%",
-      "unemployment_rate_youth": "~70%",
-      "literacy_rate": "High"
+    "Type": "De facto Hamas governance",
+    "Leaders": {
+      "Hamas Leader": "Yahya Sinwar"
     },
-    "time_zone": {
-      "standard": "UTC+2 (Palestine Standard Time)",
-      "DST": "UTC+3 (Palestine Summer Time)"
+    "Legislature": "Palestinian Legislative Council (suspended)",
+    "Constitution": "Basic Law (2002)"
+  },
+  "History": {
+    "Early Control": "Egypt during the 1948 Arab–Israeli War",
+    "1967 Capture": "Israel captured and occupied the Gaza Strip during the 1967 Six-Day War",
+    "Oslo Accords Establishment": "Palestinian Authority to govern territories",
+    "Hamas Governance": "Took over governance of Gaza in 2007 after electoral win",
+    "Israeli Disengagement": "2005, with subsequent implementation of a blockade"
+  },
+  "Economy": {
+    "Status": "Developing economy under blockade",
+    "Dependence": "Heavily dependent on international aid and remittances",
+    "Major Industries": ["Agriculture", "Fishing", "Small-scale manufacturing"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": "N/A",
+      "Per Capita (USD)": "N/A"
     },
-    "communication": {
-      "calling_code": "+970",
-      "ISO_3166_code": "PS"
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": "N/A",
+      "Per Capita (USD)": "N/A"
     },
-    "history": {
-      "early_control": "Egypt during the 1948 Arab–Israeli war",
-      "1967_capture": "Israel captured and occupied the Gaza Strip during the 1967 Six-Day War",
-      "Oslo_Accords_establishment": "Palestinian Authority to govern territories",
-      "Hamas_governance": "Took over governance of Gaza in 2007 after electoral win",
-      "Israeli_disengagement": "2005, with subsequent implementation of a blockade"
+    "Currency": ["Israeli new shekel (ILS)", "Egyptian pound (EGP)"],
+    "Unemployment Rate Overall": "46%",
+    "Unemployment Rate Youth": "~70%",
+    "Literacy Rate": "High"
+  },
+  "International Relations": {
+    "UN Member": false
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+2 (Palestine Standard Time)", "UTC+3 (Palestine Summer Time)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+970",
+    "ISO 3166 Code": "PS",
+    "Internet TLD": ".ps",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Palestinian Prisoners' Day (April 17)",
+      "Labor Day (May 1)",
+      "Nakba Day (May 15)",
+      "Independence Day (November 15)",
+      "Christmas Day (December 25)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of Palestinian, Arab, and Mediterranean influences",
+    "Cultural Contributions": ["Traditional music and dance", "Cuisine", "Art"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": "N/A",
+    "Exports Growth": "Limited due to blockade",
+    "Inflation Rate": "N/A",
+    "Policy Response": {
+      "Focus": "Economic resilience and humanitarian aid",
+      "Areas": ["Agriculture", "Small-scale manufacturing"],
+      "Challenges": "Blockade and political instability"
     },
-    "current_challenges": {
-      "blockade": "Land, sea, and air blockade preventing free movement of people and goods",
-      "designation": "Often called an 'open-air prison'",
-      "call_for_blockade_lift": "By the UN and human-rights organizations",
-      "living_conditions": "Dire due to restrictions and high population density",
-      "refugee_camps": "Contains eight refugee camps"
-    },
-    "dimensions": {
-      "length": "41 kilometres (25 miles)",
-      "width_range": "6 to 12 km (3.7 to 7.5 mi)",
-      "total_area_km2": 365
-    },
-    "population_statistics": {
-      "total": "Around 2 million Palestinians",
-      "density": "One of the world's highest population densities",
-      "annual_growth_rate": "1.99% (2023 est.)"
-    },
-    "International_Relations": {
-      "UN_Member": false
-      
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "N/A",
+        "Expectation": "N/A"
+      },
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
     }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Palestinian and Arab culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Agriculture", "Small-scale manufacturing"],
+      "Digital Transformation": "Progress in education and healthcare sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Current Challenges": {
+    "Blockade": "Land, sea, and air blockade preventing free movement of people and goods",
+    "Designation": "Often called an 'open-air prison'",
+    "Call for Blockade Lift": "By the UN and human-rights organizations",
+    "Living Conditions": "Dire due to restrictions and high population density",
+    "Refugee Camps": "Contains eight refugee camps"
+  },
+  "Dimensions": {
+    "Length": "41 kilometres (25 miles)",
+    "Width Range": "6 to 12 km (3.7 to 7.5 mi)",
+    "Total Area (km2)": 365
+  },
+  "Population Statistics": {
+    "Total": "Around 2 million Palestinians",
+    "Density": "One of the world's highest population densities",
+    "Annual Growth Rate": "1.99% (2023 est.)"
   }
 }
