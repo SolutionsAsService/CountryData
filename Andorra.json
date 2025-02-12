@@ -1,104 +1,103 @@
 {
-    "Andorra": {
-        "Official Names": {
-            "Local": "Principat d'Andorra",
-            "English": "Principality of Andorra"
-        },
-        "Symbols": {
-            "Flag": "Flag of Andorra",
-            "Coat of Arms": "Coat of arms of Andorra",
-            "Motto": "Virtus Unita Fortior (United virtue is stronger)",
-            "Anthem": {
-                "Title": "El Gran Carlemany",
-                "English Translation": "The Great Charlemagne",
-                "Duration": "1 minute and 7 seconds"
-            }
-        },
-        "Location": {
-            "Region": "Iberian Peninsula, Eastern Pyrenees",
-            "Borders": {
-                "France": "North",
-                "Spain": "South"
-            },
-            "Capital and Largest City": "Andorra la Vella",
-            "Coordinates": "42°30′23″N 1°31′17″E"
-        },
-        "Demographics": {
-            "Population": {
-                "2023 Estimate": "81,588",
-                "Density": "179.8 per km2"
-            },
-            "Ethnic Groups (2021)": {
-                "Andorrans": "48.3%",
-                "Spaniards": "24.8%",
-                "Portuguese": "11.2%",
-                "French": "4.5%",
-                "Argentines": "1.4%",
-                "Others": "9.8%"
-            },
-            "Religion (2020)": {
-                "Christianity": "90.8%",
-                "Catholicism": "85.5%",
-                "Other Christian": "5.3%",
-                "No Religion": "6.9%",
-                "Others": "2.3%"
-            },
-            "Languages": {
-                "Official": "Catalan",
-                "Commonly Spoken": ["Spanish", "Portuguese", "French"]
-            }
-        },
-        "Government": {
-            "Type": "Unitary parliamentary diarchic constitutional co-principality",
-            "Co-Princes": ["Joan Enric Vives Sicília", "Emmanuel Macron"],
-            "Representatives": ["Josep Maria Mauri", "Patrick Strzoda"],
-            "Prime Minister": "Xavier Espot Zamora",
-            "General Syndic": "Carles Enseñat Reig",
-            "Legislature": "General Council",
-            "Independence": {
-                "From Crown of Aragon": "8 September 1278",
-                "From French Empire": "1814",
-                "Constitution": "2 February 1993"
-            }
-        },
-        "Geography": {
-            "Total Area": "467.63 square kilometers",
-            "Terrain": "Eastern Pyrenees",
-            "Highest Capital City in Europe": "Andorra la Vella"
-        },
-        "Economy": {
-            "GDP (PPP) 2023 Estimate": {
-                "Total": "$5.711 billion",
-                "Per Capita": "$68,232"
-            },
-            "GDP (Nominal) 2023 Estimate": {
-                "Total": "$3.692 billion",
-                "Per Capita": "$44,107"
-            },
-            "Gini Index (2003)": "27.21",
-            "HDI (2021)": "0.858",
-            "Currency": "Euro (€) (EUR)",
-            "Tourism": "10.2 million visitors annually"
-        },
-        "Demographics": {
-            "Population Characteristics": "Romance ethnic group closely related to Catalans"
-        },
-        "Education": "Information not provided",
-        "Transport": "Information not provided",
-        "Media and Telecommunications": "Information not provided",
-        "Culture": {
-            "Official Language": "Catalan",
-            "Cultural Influence": "High elevation and unique history",
-            "Tourism": "Major economic factor"
-        },
-        "International Relations": {
-            "UN Membership": "Since 1993",
-            "EU Relations": "Not a member state"
-        },
-        "Historical Overview": {
-            "Creation": "By Charlemagne",
-            "Early Rule": "Count of Urgell",
-            "Charter": "1278"
-        }
+  "Name": {
+    "Common": "Andorra",
+    "Official": "Principality of Andorra",
+    "Local": "Principat d'Andorra"
+  },
+  "Symbols": {
+    "Flag": "Flag of Andorra",
+    "Coat of Arms": "Coat of arms of Andorra",
+    "Motto": "Virtus Unita Fortior (United virtue is stronger)",
+    "Anthem": {
+      "Title": "El Gran Carlemany",
+      "English Translation": "The Great Charlemagne",
+      "Duration": "1 minute and 7 seconds"
     }
+  },
+  "Geography": {
+    "Capital City": "Andorra la Vella",
+    "Largest City": "Andorra la Vella",
+    "Major Cities": ["Escaldes-Engordany", "Encamp", "Sant Julià de Lòria"],
+    "Area": {
+      "Total (km2)": 467.63
+    },
+    "Borders": ["France", "Spain"],
+    "Region": "Iberian Peninsula, Eastern Pyrenees",
+    "Coordinates": "42°30′23″N 1°31′17″E",
+    "Terrain": ["Eastern Pyrenees"],
+    "Climate": "Mountain"
+  },
+  "Government": {
+    "Type": "Unitary parliamentary diarchic constitutional co-principality",
+    "Co-Princes": ["Joan Enric Vives Sicília", "Emmanuel Macron"],
+    "Representatives": ["Josep Maria Mauri", "Patrick Strzoda"],
+    "Prime Minister": "Xavier Espot Zamora",
+    "General Syndic": "Carles Enseñat Reig",
+    "Legislature": "General Council",
+    "Independence": {
+      "From Crown of Aragon": "8 September 1278",
+      "From French Empire": "1814",
+      "Constitution": "2 February 1993"
+    }
+  },
+  "History": {
+    "Creation": "By Charlemagne",
+    "Early Rule": "Count of Urgell",
+    "Charter": "1278"
+  },
+  "Economy": {
+    "GDP (PPP 2023) Total (Billion USD)": 5.711,
+    "GDP per Capita (PPP USD)": 68232,
+    "GDP (Nominal 2023) Total (Billion USD)": 3.692,
+    "GDP per Capita (Nominal USD)": 44107,
+    "Main Sectors": ["Tourism", "Banking", "Retail"],
+    "Currency": "Euro (€) (EUR)",
+    "Tourism": "10.2 million visitors annually",
+    "Gini Index (2003)": 27.21,
+    "HDI (2021)": 0.858
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 81588,
+      "Density per km2": 179.8
+    },
+    "Languages and Ethnic Groups": {
+      "Official Language": "Catalan",
+      "Commonly Spoken": ["Spanish", "Portuguese", "French"],
+      "Ethnic Groups (2021)": {
+        "Andorrans": 48.3,
+        "Spaniards": 24.8,
+        "Portuguese": 11.2,
+        "French": 4.5,
+        "Argentines": 1.4,
+        "Others": 9.8
+      }
+    },
+    "Religion": {
+      "Christianity": "90.8%",
+      "Catholicism": "85.5%",
+      "Other Christian": "5.3%",
+      "No Religion": "6.9%",
+      "Others": "2.3%"
+    }
+  },
+  "Miscellaneous": {
+    "Human Development Index (2021)": 0.858,
+    "Currency": "Euro (€) (EUR)",
+    "Calling Code": "+376",
+    "Internet TLD": [".ad"],
+    "UNESCO World Heritage Sites": 0,
+    "Public Holidays": [
+      "New Year's Day", "Epiphany", "Carnival", "Constitution Day", "Good Friday", "Easter Monday", "Labour Day", "Whit Monday", "Assumption Day", "National Day", "All Saints' Day", "Immaculate Conception", "Christmas Day", "Boxing Day"
+    ]
+  },
+  "International Relations": {
+    "UN Membership": "Since 1993",
+    "EU Relations": "Not a member state"
+  },
+  "Culture": {
+    "Official Language": "Catalan",
+    "Cultural Influence": "High elevation and unique history",
+    "Tourism": "Major economic factor"
+  }
 }
