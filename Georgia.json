@@ -1,115 +1,205 @@
 {
-    "Georgia": {
-        "Official Names": {
-            "Georgian": "საქართველო",
-            "Romanized": "sakartvelo"
-        },
-        "Symbols": {
-            "Flag": "Flag of Georgia",
-            "Coat of Arms": "Coat of arms of Georgia",
-            "Motto": "ძალა ერთობაშია (Strength is in Unity)",
-            "Anthem": {
-                "Title": "თავისუფლება (Tavisupleba)",
-                "Translation": "Freedom",
-                "Duration": "1 minute and 21 seconds"
-            }
-        },
-        "Location": {
-            "Continent": "Transcontinental (Eastern Europe and West Asia)",
-            "Borders": {
-                "Black Sea": "West",
-                "Russia": "North and Northeast",
-                "Turkey": "Southwest",
-                "Armenia": "South",
-                "Azerbaijan": "Southeast"
-            },
-            "Capital and Largest City": "Tbilisi",
-            "Coordinates": "41°43′N 44°47′E"
-        },
-        "Demographics": {
-            "Population": {
-                "2022 Estimate": "3,688,647",
-                "Density": "57.6 per km2"
-            },
-            "Ethnic Groups (2014)": {
-                "Georgians": "86.8%",
-                "Azerbaijanis": "6.2%",
-                "Armenians": "4.5%",
-                "Russians": "0.7%",
-                "Other": "2.1%"
-            },
-            "Religion (2014)": {
-                "Christianity": "87.3%",
-                "Georgian Orthodoxy": "83.4%",
-                "Other Christian": "3.9%",
-                "Islam": "10.7%",
-                "Other / None": "2%"
-            },
-            "Languages": {
-                "Official": "Georgian",
-                "Recognised Regional": "Abkhaz"
-            }
-        },
-        "Government": {
-            "Type": "Unitary parliamentary republic",
-            "President": "Salome Zourabichvili",
-            "Prime Minister": "Irakli Garibashvili",
-            "Chairperson of the Parliament": "Shalva Papuashvili",
-            "Legislature": "Parliament",
-            "Independence History": {
-                "Colchis and Iberia": "13th c. BC – 580 AD",
-                "Unification": "1008",
-                "Russian Annexation": "12 September 1801",
-                "Independence from Russian Empire": "26 May 1918",
-                "Red Army Invasion": "25 February 1921",
-                "Independence from Soviet Union": "9 April 1991",
-                "Current Constitution": "24 August 1995"
-            }
-        },
-        "Geography": {
-            "Total Area": "69,700 square kilometers"
-        },
-        "Economy": {
-            "GDP (PPP) 2023 Estimate": {
-                "Total": "$82.210 billion",
-                "Per Capita": "$22,357"
-            },
-            "GDP (Nominal) 2023 Estimate": {
-                "Total": "$30.023 billion",
-                "Per Capita": "$8,165"
-            },
-            "Gini Index (2021)": "34.2",
-            "HDI (2021)": "0.802"
-        },
-        "Currency": "Georgian lari (₾) (GEL)",
-        "Time Zone": "UTC+4 (Georgia Time GET)",
-        "Infrastructure": {
-            "Driving Side": "right",
-            "Calling Code": "+995",
-            "ISO 3166 Code": "GE",
-            "Internet TLD": [".ge", ".გე"]
-        },
-        "Transport": {
-            "Major Modes": "Road, Rail, Air, and Sea transport",
-            "Key Transport Hubs": "Tbilisi, Batumi, Poti"
-        },
-        "Demographics": {
-            "Official Languages": "Georgian",
-            "Recognised Regional Languages": "Abkhaz",
-            "Literacy Rate": "Information not provided"
-        },
-        "Culture": {
-            "Wine Production": "Earliest known location of winemaking in the world (since 6,000 BC)",
-            "Historical Kingdoms": ["Colchis", "Iberia"],
-            "Adoption of Christianity": "Early 4th century",
-            "Golden Age": ["King David IV", "Queen Tamar"],
-            "Cultural Decline": "Under regional powers' hegemony",
-            "Modern Era": {
-                "Independence Movement": "1980s",
-                "Rose Revolution": "2003",
-                "Russo-Georgian War": "2008"
-            }
-        },
-        "International Affiliations": ["United Nations", "Council of Europe", "Eurocontrol", "BSEC", "GUAM", "Energy Community", "Association Trio", "EU Candidate Country"]
+  "Name": {
+    "Common": "Georgia",
+    "Official": "Georgian: საქართველო (sakartvelo)",
+    "Native": {
+      "Georgian": "საქართველო",
+      "Romanized": "sakartvelo"
     }
+  },
+  "Symbols": {
+    "Flag": "A white field with five red crosses",
+    "Emblem": "A red shield with a silver cross, supported by two lions, with the national motto 'ძალა ერთობაშია (Strength is in Unity)'",
+    "Motto": "ძალა ერთობაშია (Strength is in Unity)",
+    "Anthem": {
+      "Title": "თავისუფლება (Tavisupleba)",
+      "Translation": "Freedom",
+      "Duration": "1 minute and 21 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Transcontinental (Eastern Europe and West Asia)",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Tbilisi",
+        "Latitude": "41°43′N",
+        "Longitude": "44°47′E"
+      }
+    },
+    "Location": "Transcontinental region, bordered by the Black Sea to the west, Russia to the north and northeast, Turkey to the southwest, Armenia to the south, and Azerbaijan to the southeast",
+    "Area": {
+      "Total (km2)": 69700,
+      "Rank": "121",
+      "Water Percentage": "N/A"
+    },
+    "Borders": {
+      "Black Sea": "West",
+      "Russia": "North and Northeast",
+      "Turkey": "Southwest",
+      "Armenia": "South",
+      "Azerbaijan": "Southeast"
+    },
+    "Terrain": ["Mountainous with diverse climates"],
+    "Climate": ["Subtropical along the coast, continental in the interior"],
+    "Natural Resources": ["Forests", "Hydropower", "Manganese deposits", "Iron ore", "Copper", "Minor coal and oil deposits", "Arable land"],
+    "Time Zones": ["UTC+4 (Georgia Time GET)"],
+    "Largest City": "Tbilisi"
+  },
+  "Demographics": {
+    "Population": {
+      "2022 Estimate": 3688647,
+      "Density per km2": 57.6
+    },
+    "Ethnic Groups": {
+      "2014": {
+        "Georgians": 86.8,
+        "Azerbaijanis": 6.2,
+        "Armenians": 4.5,
+        "Russians": 0.7,
+        "Other": 2.1
+      }
+    },
+    "Languages": {
+      "Official": ["Georgian"],
+      "Recognised Regional": ["Abkhaz"]
+    },
+    "Religion": {
+      "2014": {
+        "Christianity": 87.3,
+        "Georgian Orthodoxy": 83.4,
+        "Other Christian": 3.9,
+        "Islam": 10.7,
+        "Other / None": 2
+      }
+    },
+    "Demonym": "Georgian"
+  },
+  "Government": {
+    "Type": "Unitary parliamentary republic",
+    "Leaders": {
+      "President": "Salome Zourabichvili",
+      "Prime Minister": "Irakli Garibashvili",
+      "Chairperson of the Parliament": "Shalva Papuashvili"
+    },
+    "Legislature": "Parliament",
+    "Constitution": "24 August 1995"
+  },
+  "History": {
+    "Ancient Kingdoms": "Colchis and Iberia (13th c. BC – 580 AD)",
+    "Unification": "1008",
+    "Russian Annexation": "12 September 1801",
+    "Independence from Russian Empire": "26 May 1918",
+    "Red Army Invasion": "25 February 1921",
+    "Independence from Soviet Union": "9 April 1991",
+    "Modern Era": {
+      "Independence Movement": "1980s",
+      "Rose Revolution": "2003",
+      "Russo-Georgian War": "2008"
+    }
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Agriculture, tourism, and energy",
+    "Major Industries": ["Mining", "Agriculture", "Tourism", "Energy"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 82.210,
+      "Per Capita (USD)": 22357
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 30.023,
+      "Per Capita (USD)": 8165
+    },
+    "Currency": "Georgian lari (₾) (GEL)",
+    "Gini Index": "34.2 (2021)",
+    "HDI": "0.802 (2021)"
+  },
+  "International Relations": {
+    "UN Member": true,
+    "Council of Europe Member": true,
+    "Eurocontrol Member": true,
+    "BSEC Member": true,
+    "GUAM Member": true,
+    "Energy Community Member": true,
+    "Association Trio Member": true,
+    "EU Candidate Country": true
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+4 (Georgia Time GET)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+995",
+    "ISO 3166 Code": "GE",
+    "Internet TLD": [".ge", ".გე"],
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Orthodox Christmas Day (January 7)",
+      "Mother's Day (March 3)",
+      "International Women's Day (March 8)",
+      "Independence Restoration Day (April 9)",
+      "Good Friday (April)",
+      "Holy Saturday (April)",
+      "Orthodox Easter (April)",
+      "Victory Day (May 9)",
+      "St. Andrew's Day (May 12)",
+      "Independence Day (May 26)",
+      "Mariamis Khvtismshoblis Daghe (August 28)",
+      "Svetitskhovloba (October 14)",
+      "St. George's Day (November 23)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of Eastern European and West Asian influences",
+    "Cultural Contributions": ["Wine production", "Traditional music and dance", "Cuisine", "Art"],
+    "Historical Kingdoms": ["Colchis", "Iberia"],
+    "Adoption of Christianity": "Early 4th century",
+    "Golden Age": ["King David IV", "Queen Tamar"],
+    "Cultural Decline": "Under regional powers' hegemony",
+    "Modern Era": {
+      "Independence Movement": "1980s",
+      "Rose Revolution": "2003",
+      "Russo-Georgian War": "2008"
+    }
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 4.5,
+    "Exports Growth": "Driven by agriculture, tourism, and energy",
+    "Inflation Rate": "3.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Agriculture", "Tourism", "Energy"],
+      "Challenges": "Balancing economic growth with environmental sustainability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "N/A",
+        "Expectation": "Steady growth into 2024"
+      },
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Eastern European and West Asian culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Agriculture", "Tourism", "Energy"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air, and Sea transport",
+    "Key Transport Hubs": ["Tbilisi", "Batumi", "Poti"]
+  }
 }
