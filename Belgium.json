@@ -1,101 +1,101 @@
 {
-  "Belgium": {
-  "Country_Name": "Belgium",
-  "Official_Name": "Kingdom of Belgium",
-  "Dutch_Name": "Koninkrijk België",
-  "French_Name": "Royaume de Belgique",
-  "German_Name": "Königreich Belgien",
+  "Name": {
+    "Common": "Belgium",
+    "Official": "Kingdom of Belgium",
+    "Dutch": "Koninkrijk België",
+    "French": "Royaume de Belgique",
+    "German": "Königreich Belgien"
+  },
   "Region": "Northwestern Europe",
   "Geography": {
-    "Total_Area_km2": 30689,
-    "Land_Percentage": 93.5,
-    "Water_Percentage": 6.5,
-    "Highest_Point": "Signal de Botrange, 695 m",
-    "Lowest_Point": "De Moeren, -3 m",
-    "Longest_River": "Escaut, 200 km",
-    "Coastline_km": 66.5,
-    "Borders": {
-      "Total_Land_Borders_km": 1297,
-      "Countries": [
-        "France", 
-        "Germany", 
-        "Luxembourg", 
-        "Netherlands"]
+    "Area": {
+      "Total (km2)": 30689,
+      "Land Percentage": 93.5,
+      "Water Percentage": 6.5
     },
-    "Geographical_Regions": ["Coastal plain", "Central plateau", "Ardennes uplands"],
-    "Climate": "Maritime temperate, significant precipitation in all seasons"
+    "Highest Point": "Signal de Botrange, 695 m",
+    "Lowest Point": "De Moeren, -3 m",
+    "Longest River": "Escaut, 200 km",
+    "Coastline (km)": 66.5,
+    "Borders": {
+      "Total Land Borders (km)": 1297,
+      "Countries": ["France", "Germany", "Luxembourg", "Netherlands"]
+    },
+    "Geographical Regions": ["Coastal plain", "Central plateau", "Ardennes uplands"],
+    "Climate": "Maritime temperate, significant precipitation in all seasons",
+    "Coordinates": "50°50′N 4°00′E",
+    "Natural Resources": ["Construction materials", "Silica sand", "Carbonates"]
   },
   "Population": {
-    "2023_Estimate": 11697557,
-    "Density_per_km2": 376
+    "2023 Estimate": 11697557,
+    "Density per km2": 376
   },
-  "Capital_Largest_City": "Brussels",
-  "Major_Cities": ["Antwerp", "Ghent", "Charleroi", "Liège", "Bruges", "Namur", "Leuven"],
-  "Official_Languages": ["Dutch", "French", "German"],
-  "Ethnic_Groups_2022": {
-    "Belgians": "66.6%",
-    "Other": "33.4%"
+  "Capital and Largest City": "Brussels",
+  "Major Cities": ["Antwerp", "Ghent", "Charleroi", "Liège", "Bruges", "Namur", "Leuven"],
+  "Languages": {
+    "Official": ["Dutch", "French", "German"]
   },
-  "Religion_2020": {
-    "Christianity": "63.7%",
-    "Catholicism": "60.6%",
-    "Other_Christian": "3.1%",
-    "No_Religion": "28.0%",
-    "Islam": "7.4%",
-    "Other": "0.9%"
+  "Ethnic Groups (2022)": {
+    "Belgians": 66.6,
+    "Other": 33.4
+  },
+  "Religion (2020)": {
+    "Christianity": 63.7,
+    "Catholicism": 60.6,
+    "Other Christian": 3.1,
+    "No Religion": 28.0,
+    "Islam": 7.4,
+    "Other": 0.9
   },
   "Government": {
     "Type": "Federal parliamentary constitutional monarchy",
     "Monarch": "Philippe",
-    "Prime_Minister": "Alexander De Croo"
+    "Prime Minister": "Alexander De Croo"
   },
   "Legislature": {
-    "Upper_House": "Senate",
-    "Lower_House": "Chamber of Representatives"
+    "Upper House": "Senate",
+    "Lower House": "Chamber of Representatives"
   },
   "Independence": {
     "Declared": "4 October 1830",
     "Recognized": "19 April 1839"
   },
-  "GDP_PPP_2023_Estimate": {
-    "Total": "$769.682 billion",
-    "Per_Capita": "$65,813"
+  "Economy": {
+    "GDP (PPP 2023) Total (Billion USD)": 769.682,
+    "GDP per Capita (PPP USD)": 65813,
+    "GDP (Nominal 2023) Total (Billion USD)": 627.511,
+    "GDP per Capita (Nominal USD)": 53656,
+    "Main Industries": ["Metals", "Machinery", "Chemicals", "Food processing", "Pharmaceuticals"],
+    "Currency": "Euro (EUR)",
+    "Gini Index (2022)": 24.9,
+    "HDI (2021)": 0.937
   },
-  "GDP_Nominal_2023_Estimate": {
-    "Total": "$627.511 billion",
-    "Per_Capita": "$53,656"
+  "Time Zone": "CET (UTC+1), CEST in summer (UTC+2)",
+  "ISO 3166 Code": "BE",
+  "Internet TLD": [".be", ".eu"],
+  "Environmental Issues": {
+    "Water Quality": "Lowest in Europe",
+    "Air Pollution": "Significant",
+    "Governance Challenges": "Federal and regional responsibilities"
   },
-  "Gini_Index_2022": 24.9,
-  "HDI_2021": 0.937,
-  "Currency": "Euro (EUR)",
-  "Time_Zone": "CET (UTC+1), CEST in summer (UTC+2)",
-  "ISO_3166_Code": "BE",
-  "Internet_TLD": [".be", ".eu"],
-  "Natural_Resources": ["Construction materials", "Silica sand", "Carbonates"],
-  "Environmental_Issues": {
-    "Water_Quality": "Lowest in Europe",
-    "Air_Pollution": "Significant",
-    "Governance_Challenges": "Federal and regional responsibilities"
-  },
-  "Historical_Eras": {
-    "Roman_Period": "Gallia Belgica, then part of Germania Inferior",
-    "Middle_Ages": "Under Frankish Merovingian and Carolingian rule",
-    "Burgundian_and_Habsburg_Rule": "Part of Burgundian Netherlands, then Austrian Netherlands",
-    "Modern_History": {
-      "Belgian_Revolution": "1830, leading to independence",
-      "World_Wars": "Violated neutrality in both wars, German occupation",
-      "Post_War_Era": "Economic growth, Benelux formation, EU institutions in Brussels"
+  "History": {
+    "Roman Period": "Gallia Belgica, then part of Germania Inferior",
+    "Middle Ages": "Under Frankish Merovingian and Carolingian rule",
+    "Burgundian and Habsburg Rule": "Part of Burgundian Netherlands, then Austrian Netherlands",
+    "Modern History": {
+      "Belgian Revolution": "1830, leading to independence",
+      "World Wars": "Violated neutrality in both wars, German occupation",
+      "Post War Era": "Economic growth, Benelux formation, EU institutions in Brussels"
     }
   },
-  "Contemporary_Issues": {
-    "Linguistic_Division": "Between Dutch-speaking Flanders and French-speaking Wallonia",
-    "Economic_Division": "Unequal development between Flanders and Wallonia",
-    "Political_Fragmentation": "Increasingly fragmented landscape, long government formation periods"
+  "Contemporary Issues": {
+    "Linguistic Division": "Between Dutch-speaking Flanders and French-speaking Wallonia",
+    "Economic Division": "Unequal development between Flanders and Wallonia",
+    "Political Fragmentation": "Increasingly fragmented landscape, long government formation periods"
   },
   "Contributions": {
-    "European_Union": "Founding member, Brussels as de facto EU capital",
-    "International_Conflicts": "Participation in UN peacekeeping forces",
-    "Cultural_Influence": "Known as the crossroads and battlefield of Europe"
+    "European Union": "Founding member, Brussels as de facto EU capital",
+    "International Conflicts": "Participation in UN peacekeeping forces",
+    "Cultural Influence": "Known as the crossroads and battlefield of Europe"
   }
-}
 }
