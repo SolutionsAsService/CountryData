@@ -1,76 +1,154 @@
 {
-  "Central African Republic": {
-  "FullName": "Central African Republic",
-  "FormerName": "Ubangi-Shari",
-  "Local_Names": {
-    "Sango": "Ködörösêse tî Bêafrîka",
-    "French": "République centrafricaine"
-  },
-  "Abbreviation": "CAR",
-  "ISO_Code": "CF",
-  "Capital": "Bangui",
-  "Coordinates": "4°22′N 18°35′E",
-  "Official_Languages": ["Sango", "French"],
-  "Ethnic_Groups": [
-    "Baggara Arabs", "Baka", "Banda", "Bayaka", "Fula", "Gula", "Gbaya", "Kara",
-    "Kresh", "Mbaka", "Mandja", "Ngbandi", "Runga", "Sara", "Vidiri", "Wodaabe",
-    "Yakoma", "Yulu", "Kanuri", "Zande", "Other"
-  ],
-  "Religion": {
-    "Christianity": "73.2%",
-    "Islam": "13.9%",
-    "Traditional_Faiths": "12.0%",
-    "Others_or_None": "0.9%"
-  },
-  "Demonym": "Central African",
-  "Government_Type": "Unitary Presidential Republic",
-  "Leaders": {
-    "President": "Faustin-Archange Touadéra",
-    "Prime_Minister": "Félix Moloua",
-    "President_of_the_National_Assembly": "Simplice Sarandji"
-  },
-  "Legislature": "National Assembly",
-  "Independence": {
-    "From_France": "13 August 1960",
-    "Central_African_Empire_Established": "4 December 1976",
-    "Coronation_of_Bokassa_I": "4 December 1977",
-    "Republic_Restored": "21 September 1979"
-  },
-  "Area_sq_km": 622984,
-  "Population": {
-    "2023_Estimate": 5552228,
-    "Density_per_sq_km": 7.1
-  },
-  "GDP": {
-    "PPP_2023_Estimate": {
-      "Total": "$5.678 billion",
-      "Per_Capita": "$1109"
-    },
-    "Nominal_2023_Estimate": {
-      "Total": "$2.760 billion",
-      "Per_Capita": "$539"
+  "Name": {
+    "Common": "Central African Republic",
+    "Official": "Central African Republic",
+    "Former": "Ubangi-Shari",
+    "Native": {
+      "Sango": "Ködörösêse tî Bêafrîka",
+      "French": "République centrafricaine"
     }
   },
-  "Gini_Index_2008": 56.3,
-  "HDI_2021": 0.404,
-  "Currency": ["Central African CFA franc (XAF)", "Bitcoin (BTC)"],
-  "Time_Zone": "UTC+1 (WAT)",
-  "Driving_Side": "Right",
-  "Calling_Code": "+236",
-  "Internet_TLD": ".cf",
+  "Abbreviation": "CAR",
+  "Symbols": {
+    "Flag": "Four horizontal stripes of blue, white, green, and yellow with a vertical red stripe and a yellow star in the upper left corner",
+    "Emblem": "A shield with a golden star, flanked by two elephants and topped with a sun",
+    "Motto": "Unité, Dignité, Travail (Unity, Dignity, Work)",
+    "Anthem": {
+      "Title": "La Renaissance",
+      "Duration": "1 minute and 30 seconds"
+    }
+  },
   "Geography": {
-    "Landscape": ["Sudano-Guinean savannas", "Sahelo-Sudanian zone", "Equatorial forest zone"],
-    "River_Basins": ["Ubangi River", "Chari River"]
+    "Continent": "Africa",
+    "Region": "Central Africa",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Bangui",
+        "Latitude": "4°22′N",
+        "Longitude": "18°35′E"
+      }
+    },
+    "Borders": ["Chad", "Sudan", "South Sudan", "Democratic Republic of the Congo", "Republic of the Congo", "Cameroon"],
+    "Area": {
+      "Total (km2)": 622984,
+      "Rank": "45",
+      "Water Percentage": "0.0%"
+    },
+    "Time Zones": "1",
+    "Driving Side": "Right",
+    "Natural Resources": ["Mineral deposits", "Uranium", "Crude oil", "Gold", "Diamonds", "Cobalt", "Lumber", "Hydropower", "Arable land"],
+    "Climate": ["Tropical", "Hot", "Humid"]
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 5552228,
+      "Density per km2": 7.1
+    },
+    "Ethnic Groups": [
+      "Baggara Arabs", "Baka", "Banda", "Bayaka", "Fula", "Gula", "Gbaya", "Kara",
+      "Kresh", "Mbaka", "Mandja", "Ngbandi", "Runga", "Sara", "Vidiri", "Wodaabe",
+      "Yakoma", "Yulu", "Kanuri", "Zande", "Other"
+    ],
+    "Languages": {
+      "Official": ["Sango", "French"]
+    },
+    "Religion": {
+      "Christianity": 73.2,
+      "Islam": 13.9,
+      "Traditional Faiths": 12.0,
+      "Others or None": 0.9
+    }
+  },
+  "Government": {
+    "Type": "Unitary Presidential Republic",
+    "President": "Faustin-Archange Touadéra",
+    "Prime Minister": "Félix Moloua",
+    "President of the National Assembly": "Simplice Sarandji",
+    "Legislature": "National Assembly",
+    "Independence": {
+      "From France": "13 August 1960",
+      "Central African Empire Established": "4 December 1976",
+      "Coronation of Bokassa I": "4 December 1977",
+      "Republic Restored": "21 September 1979"
+    },
+    "Constitution": "30 March 2016"
+  },
+  "History": {
+    "Pre-Colonial Period": "Various kingdoms and tribes",
+    "Colonial History": "French rule",
+    "Independence": "1960",
+    "Modern Developments": "20th and 21st centuries including political reforms and conflicts"
+  },
+  "Economy": {
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 5.678,
+      "Per Capita (USD)": 1109
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 2.760,
+      "Per Capita (USD)": 539
+    },
+    "Currency": ["Central African CFA franc (XAF)", "Bitcoin (BTC)"],
+    "Gini Index": "56.3 (2008)",
+    "HDI": "0.404 (2021)"
+  },
+  "International Relations": {
+    "UN Member": true,
+    "AU Member": true,
+    "ECCAS Member": true,
+    "OIF Member": true,
+    "Non-Aligned Movement Member": true
+  },
+  "Miscellaneous": {
+    "Time Zone": "UTC+1 (WAT)",
+    "Date Format": "dd/mm/yyyy",
+    "Driving Side": "Right",
+    "Calling Code": "+236",
+    "ISO 3166 Code": "CF",
+    "Internet TLD": ".cf",
+    "Public Holidays": [
+      "New Year's Day",
+      "Labour Day",
+      "Independence Day",
+      "All Saints' Day",
+      "Christmas Day"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "French rule",
+    "Cultural Contributions": ["Traditional music and dance", "Handicrafts"]
+  },
+  "Economic Outlook 2024": {
+    "GDP Growth": "3.5%",
+    "Factors Affecting Growth": ["Agriculture", "Mining", "Government policies"],
+    "Inflation Rate 2023": "4.2%",
+    "Inflation Rate 2024": "3.8%"
   },
   "Health": {
-    "Maternal_Mortality_Ratio": "835 deaths/100,000 live births",
-    "Infant_Mortality_Rate": "81.7 deaths/1,000 live births",
-    "Life_Expectancy": "56 years",
-    "Total_Fertility_Rate": "3.99 children born/woman",
-    "Physicians_Density": "0.07 physicians/1,000 population",
-    "Hospital_Bed_Density": "1 bed/1,000 population"
+    "Life Expectancy": 56,
+    "Infant Mortality Rate": 81.7,
+    "Maternal Mortality Ratio": 835,
+    "Physicians Density": 0.07,
+    "Hospital Bed Density": 1.0
   },
-  "Natural_Resources": ["Mineral deposits", "Uranium", "Crude oil", "Gold", "Diamonds", "Cobalt", "Lumber", "Hydropower", "Arable land"],
-  "International_Affiliations": ["United Nations", "African Union", "Economic Community of Central African States", "Organisation internationale de la Francophonie", "Non-Aligned Movement"]
-}
+  "Education": {
+    "Expenditures (% of GDP)": 3.6,
+    "Literacy": {
+      "Total": 37.4,
+      "Male": 44.0,
+      "Female": 31.0
+    },
+    "School Life Expectancy": {
+      "Total": 7,
+      "Male": 8,
+      "Female": 6
+    }
+  },
+  "Environmental Issues": {
+    "Deforestation": true,
+    "Soil Erosion": true,
+    "Desertification": true,
+    "Water Pollution": true,
+    "Biodiversity Loss": true
+  }
 }
