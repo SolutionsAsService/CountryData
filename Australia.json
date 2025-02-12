@@ -1,100 +1,128 @@
 {
-  "Australia":{
-  "FullName": "Commonwealth of Australia",
-  "CommonName" : "Australia",
-  "Flag": "Blue field with the Union Flag, a large white seven-pointed star, and constellation of five white stars",
-  "Coat_of_Arms": "Coat of arms of Australia",
-  "Anthem": "Advance Australia Fair",
-  "Capital": "Canberra",
-  "Largest_City": {
-    "Metropolitan": "Sydney",
-    "Urban": "Melbourne"
+  "Name": {
+    "Common": "Australia",
+    "Official": "Commonwealth of Australia"
   },
-  "Official_Language": "None at the federal level, English is the National language",
-  "LinguaFranca": "English",
-  "Religion_2021": {
-    "Christianity": "43.9%",
-    "No_Religion": "38.9%",
-    "Islam": "3.2%",
-    "Hinduism": "2.7%",
-    "Buddhism": "2.4%",
-    "Other": "1.7%",
-    "Unanswered": "7.2%"
+  "Symbols": {
+    "Flag": "Blue field with the Union Flag, a large white seven-pointed star, and constellation of five white stars",
+    "Coat of Arms": "Coat of arms of Australia",
+    "Motto": "Advance Australia Fair",
+    "Anthem": {
+      "Title": "Advance Australia Fair",
+      "Duration": "3 minutes and 20 seconds"
+    }
   },
-  "Government": "Federal parliamentary constitutional monarchy",
-  "Monarch": "Charles III",
-  "Governor_General": "David Hurley",
-  "Prime_Minister": "Anthony Albanese",
-  "Legislature": {
-    "Upper_House": "Senate",
-    "Lower_House": "House of Representatives"
-  },
-  "Independence": {
-    "Federation_and_Constitution": "1 January 1901",
-    "Statute_of_Westminster": "9 October 1942",
-    "Australia_Act": "3 March 1986"
-  },
-  "Area_km2": 7692024,
-  "Population_Estimate_2024": 26947600,
-  "GDP_PPP_2023_Estimate": {
-    "Total": "$1.719 trillion",
-    "Per_Capita": "$64,674"
-  },
-  "GDP_Nominal_2023_Estimate": {
-    "Total": "$1.688 trillion",
-    "Per_Capita": "$63,487"
-  },
-  "Gini_Index_2018": 32.5,
-  "HDI_2021": 0.951,
-  "Currency": "Australian dollar (AUD)",
-  "Time_Zone": "Various, UTC+8; +9.5; +10; Summer (DST) varies",
-  "Driving_Side": "left",
-  "Calling_Code": "+61",
-  "ISO_3166_Code": "AU",
-  "Internet_TLD": ".au",
-  "Indigenous_History": {
-    "Arrival": "Between 50,000 and 65,000 years ago",
-    "Lifestyle": "Hunter-gatherers with evidence of land management and agriculture",
-    "Cultural_Aspects": {
-      "Artistic_Traditions": "Among the longest surviving traditions in human history",
-      "Rock_Art": "Dated to 35,000 years ago",
-      "Spiritual_Traditions": "Complex spiritual and artistic traditions"
+  "Geography": {
+    "Capital City": "Canberra",
+    "Largest City": {
+      "Metropolitan": "Sydney",
+      "Urban": "Melbourne"
     },
-    "European_Contact": {
-      "First_Contact": "1606 by Dutch navigator Willem Janszoon",
-      "James_Cook": "1770, first recorded European to explore eastern coastline",
-      "Other_Explorers": "Dutch, French and later English explorers"
+    "Major Cities": ["Brisbane", "Perth", "Adelaide"],
+    "Area": {
+      "Total (km2)": 7692024
     },
-    "Post_Contact_History": "Significant changes due to disease, conflict, and land appropriation"
+    "Region": "Oceania",
+    "Coordinates": "25°S 133°E",
+    "Terrain": ["Coastal plains", "Deserts", "Mountains"],
+    "Climate": "Varied",
+    "Maritime Borders": ["Indian Ocean", "Pacific Ocean"]
   },
-  "Modern_History": {
-    "Federation": "1901 as a federation of six colonies",
-    "World_Wars": "Participated as part of British Empire and later Commonwealth",
-    "Post_War_Immigration": "More than 6.5 million migrants from every continent"
+  "Government": {
+    "Type": "Federal parliamentary constitutional monarchy",
+    "Monarch": "Charles III",
+    "Governor General": "David Hurley",
+    "Prime Minister": "Anthony Albanese",
+    "Legislature": {
+      "Upper House": "Senate",
+      "Lower House": "House of Representatives"
+    },
+    "Independence": {
+      "Federation and Constitution": "1 January 1901",
+      "Statute of Westminster Adoption Act": "9 October 1942",
+      "Australia Act": "3 March 1986"
+    }
   },
-  "Geographical_Features": {
-    "Oldest_Continent": "Australia is the oldest continent",
-    "Flattest_Continent": "Australia is the flattest continent",
-    "Driest_Inhabited_Continent": "Australia is the driest inhabited continent",
-    "Megadiverse_Country": "Wide variety of landscapes and climates"
+  "History": {
+    "Indigenous History": {
+      "Arrival": "Between 50,000 and 65,000 years ago",
+      "Lifestyle": "Hunter-gatherers with evidence of land management and agriculture",
+      "Cultural Aspects": {
+        "Artistic Traditions": "Among the longest surviving traditions in human history",
+        "Rock Art": "Dated to 35,000 years ago",
+        "Spiritual Traditions": "Complex spiritual and artistic traditions"
+      },
+      "European Contact": {
+        "First Contact": "1606 by Dutch navigator Willem Janszoon",
+        "James Cook": "1770, first recorded European to explore eastern coastline",
+        "Other Explorers": "Dutch, French and later English explorers"
+      },
+      "Post Contact History": "Significant changes due to disease, conflict, and land appropriation"
+    },
+    "Modern History": {
+      "Federation": "1901 as a federation of six colonies",
+      "World Wars": "Participated as part of British Empire and later Commonwealth",
+      "Post War Immigration": "More than 6.5 million migrants from every continent"
+    }
   },
-  "International_Standing": {
-    "Economy": "Highly developed market economy, one of the highest per capita incomes globally",
-    "Military": "World's thirteenth-highest military expenditure",
-    "MemberOf": [
-      "United Nations",
-      "G20",
-      "OECD",
-      "World Trade Organization",
-      "Asia-Pacific Economic Cooperation",
-      "Pacific Islands Forum",
-      "Pacific Community",
-      "Commonwealth of Nations",
-      "ANZUS",
-      "AUKUS",
-      "Five Eyes",
-      "Major US Non-NATO Ally"
+  "Economy": {
+    "GDP (PPP 2023) Total (Billion USD)": 1719,
+    "GDP per Capita (PPP USD)": 64674,
+    "GDP (Nominal 2023) Total (Billion USD)": 1688,
+    "GDP per Capita (Nominal USD)": 63487,
+    "Main Sectors": ["Mining", "Agriculture", "Manufacturing", "Services"],
+    "Currency": "Australian dollar (AUD)",
+    "Gini Index (2018)": 32.5,
+    "HDI (2021)": 0.951
+  },
+  "Demographics": {
+    "Population": {
+      "2024 Estimate": 26947600,
+      "Density per km2": 3.5
+    },
+    "Ethnic Groups (2021)": {
+      "European": 76,
+      "Asian": 15,
+      "Indigenous": 3.3,
+      "Other": 5.7
+    },
+    "Languages": {
+      "Official": "None at the federal level, English is the National language",
+      "Lingua Franca": "English"
+    },
+    "Religion (2021)": {
+      "Christianity": 43.9,
+      "No Religion": 38.9,
+      "Islam": 3.2,
+      "Hinduism": 2.7,
+      "Buddhism": 2.4,
+      "Other": 1.7,
+      "Unanswered": 7.2
+    },
+    "Demonyms": ["Australian"]
+  },
+  "Miscellaneous": {
+    "Human Development Index (2021)": 0.951,
+    "Currency": "Australian dollar (AUD)",
+    "Calling Code": "+61",
+    "ISO 3166 Code": "AU",
+    "Internet TLD": [".au"],
+    "Public Holidays": [
+      "New Year's Day", "Australia Day", "Good Friday", "Easter Monday", "Anzac Day", "Queen's Birthday", "Labour Day", "Christmas Day", "Boxing Day"
+    ],
+    "Time Zone": "Various, UTC+8; +9.5; +10; Summer (DST) varies",
+    "Driving Side": "left",
+    "Date Format": "dd/mm/yyyy (CE)"
+  },
+  "International Relations": {
+    "Member Of": [
+      "United Nations", "G20", "OECD", "World Trade Organization", "Asia-Pacific Economic Cooperation", "Pacific Islands Forum", "Pacific Community", "Commonwealth of Nations", "ANZUS", "AUKUS", "Five Eyes", "Major US Non-NATO Ally"
     ]
+  },
+  "Geographical Features": {
+    "Oldest Continent": "Australia is the oldest continent",
+    "Flattest Continent": "Australia is the flattest continent",
+    "Driest Inhabited Continent": "Australia is the driest inhabited continent",
+    "Megadiverse Country": "Wide variety of landscapes and climates"
   }
-}
 }
