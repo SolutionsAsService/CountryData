@@ -1,124 +1,127 @@
 {
-  "Belize":{
-  "Name": "Belize",
-  "pronunciation": "[bɪˈliːz, bɛ-]",
-  "CreoleName": "Bileez",
-  "geography": {
-    "continent": "Central America",
-    "coast": "North-eastern",
-    "area_km2": 22970,
-    "mainland_length_km": {"long": 290, "wide": 110},
-    "borders": ["Mexico", "Guatemala"],
-    "water_boundaries": ["Caribbean Sea", "Honduras"]
+  "Name": {
+    "Common": "Belize",
+    "Pronunciation": "[bɪˈliːz, bɛ-]",
+    "Creole": "Bileez"
   },
-  "demographics": {
-    "population_2022": 441471,
-    "density_per_km2": 17.79,
-    "growth_rate": "1.87% per year (2018 estimate)"
+  "Geography": {
+    "Continent": "Central America",
+    "Coast": "North-eastern",
+    "Area (km2)": 22970,
+    "Mainland Length (km)": {
+      "Long": 290,
+      "Wide": 110
+    },
+    "Borders": ["Mexico", "Guatemala"],
+    "Water Boundaries": ["Caribbean Sea", "Honduras"]
   },
-  "capital": "Belmopan",
-  "largest_city": "Belize City",
-  "languages": {
-    "official": "English",
-    "vernacular": "Belizean Creole",
-    "minority_languages": ["Spanish", "Mayan", "German", "Garifuna", "Chinese"]
+  "Demographics": {
+    "Population (2022)": 441471,
+    "Density per km2": 17.79,
+    "Growth Rate": "1.87% per year (2018 estimate)"
   },
-  "ethnic_groups_2020": {
-    "Mestizo": "52.9%",
-    "Creole": "25.9%",
-    "Maya": "11.3%",
-    "Garifuna": "6.1%",
-    "Indian": "3.9%",
-    "Mennonite": "3.6%",
-    "White": "1.2%",
-    "Chinese": "1.0%",
-    "Other": "1.5%"
+  "Capital": "Belmopan",
+  "Largest City": "Belize City",
+  "Languages": {
+    "Official": "English",
+    "Vernacular": "Belizean Creole",
+    "Minority Languages": ["Spanish", "Mayan", "German", "Garifuna", "Chinese"]
   },
-  "religion_2020": {
-    "Christianity": "87.6%",
-    "No_religion": "9.7%",
-    "Folk_religions": "1.5%",
-    "Other": "1.2%"
+  "Ethnic Groups (2020)": {
+    "Mestizo": 52.9,
+    "Creole": 25.9,
+    "Maya": 11.3,
+    "Garifuna": 6.1,
+    "Indian": 3.9,
+    "Mennonite": 3.6,
+    "White": 1.2,
+    "Chinese": 1.0,
+    "Other": 1.5
   },
-  "government": {
-    "type": "Unitary parliamentary constitutional monarchy",
-    "monarch": "Charles III",
-    "governor_general": "Dame Froyla Tzalam",
-    "prime_minister": "Johnny Briceño",
-    "legislature": {
-      "upper_house": "Senate",
-      "lower_house": "House of Representatives"
+  "Religion (2020)": {
+    "Christianity": 87.6,
+    "No Religion": 9.7,
+    "Folk Religions": 1.5,
+    "Other": 1.2
+  },
+  "Government": {
+    "Type": "Unitary parliamentary constitutional monarchy",
+    "Monarch": "Charles III",
+    "Governor General": "Dame Froyla Tzalam",
+    "Prime Minister": "Johnny Briceño",
+    "Legislature": {
+      "Upper House": "Senate",
+      "Lower House": "House of Representatives"
     }
   },
-  "independence": {
-    "from_UK": "21 September 1981",
-    "self_governance": "January 1964"
+  "Independence": {
+    "From UK": "21 September 1981",
+    "Self Governance": "January 1964"
   },
-  "economy": {
-    "GDP_PPP_2023_estimate": {
-      "total": "$5.032 billion",
-      "per_capita": "$11,166"
+  "Economy": {
+    "GDP (PPP 2023 Estimate)": {
+      "Total (Billion USD)": 5.032,
+      "Per Capita (USD)": 11166
     },
-    "GDP_nominal_2023_estimate": {
-      "total": "$3.218 billion",
-      "per_capita": "$7,141"
+    "GDP (Nominal 2023 Estimate)": {
+      "Total (Billion USD)": 3.218,
+      "Per Capita (USD)": 7141
     },
-    "Gini_2013": "53.1",
-    "HDI_2021": "0.683"
+    "Gini (2013)": 53.1,
+    "HDI (2021)": 0.683,
+    "Currency": "Belize dollar (BZD)"
   },
-  "currency": "Belize dollar (BZD)",
-  "time_zone": "UTC-6",
-  "ISO_3166_code": "BZ",
-  "internet_TLD": ".bz",
-  "history": {
-    "Maya_civilization": "1500 BC to AD 300",
-    "European_contact": "1502-04",
-    "English_settlers": "1638",
-    "Battle_of_St_Georges_Caye": "1798",
-    "British_colony": "1840",
-    "Crown_colony": "1862"
+  "Time Zone": "UTC-6",
+  "ISO 3166 Code": "BZ",
+  "Internet TLD": ".bz",
+  "History": {
+    "Maya Civilization": "1500 BC to AD 300",
+    "European Contact": "1502-04",
+    "English Settlers": "1638",
+    "Battle of St. George's Caye": "1798",
+    "British Colony": "1840",
+    "Crown Colony": "1862"
   },
-  "society": {
-    "characteristics": ["Diverse cultures and languages", "Caribbean influence"],
-    "official_language": "English",
-    "multilingual_population": true
+  "Society": {
+    "Characteristics": ["Diverse cultures and languages", "Caribbean influence"],
+    "Official Language": "English",
+    "Multilingual Population": true
   },
-  "visa_information": {
-    "visa_free_countries": ["EU", "Switzerland", "Iceland", "Norway", "USA", "British Commonwealth nations", "CARICOM countries", "Chile", "Costa Rica", "Guatemala", "Mexico", "South Africa", "Tunisia", "Uruguay"],
-      "visa_required_for": ["Bangladesh", "Cameroon", "Chad", "Ghana", "India", "Malawi", "Mozambique", "Namibia", "Nauru", "Nigeria", "Pakistan", "Seychelles", "Sierra Leone"],
-    "visa_extension": "Renewable every 30 days up to a year",
-    "permanent_residency": "After one year",
-    "entry_exit_fees": {
-      "exit_tax": "$20 to $57.50",
-      "varies_by": ["air travel", "land/maritime border"]
+  "Visa Information": {
+    "Visa Free Countries": ["EU", "Switzerland", "Iceland", "Norway", "USA", "British Commonwealth nations", "CARICOM countries", "Chile", "Costa Rica", "Guatemala", "Mexico", "South Africa", "Tunisia", "Uruguay"],
+    "Visa Required For": ["Bangladesh", "Cameroon", "Chad", "Ghana", "India", "Malawi", "Mozambique", "Namibia", "Nauru", "Nigeria", "Pakistan", "Seychelles", "Sierra Leone"],
+    "Visa Extension": "Renewable every 30 days up to a year",
+    "Permanent Residency": "After one year",
+    "Entry Exit Fees": {
+      "Exit Tax": "$20 to $57.50",
+      "Varies By": ["Air travel", "Land/maritime border"]
     }
   },
-  "tourism": {
-    "peak_season": "mid-November to April",
-    "dry_season": "late November to early April",
-    "rainy_season": "June to early November",
-    "activities": ["Eco-Tourism", "Archaeological Tours", "Wellness", "Nature Adventures", "Cultural Immersion", "Aquatic Adventures", "Culinary Experiences"]
+  "Tourism": {
+    "Peak Season": "mid-November to April",
+    "Dry Season": "late November to early April",
+    "Rainy Season": "June to early November",
+    "Activities": ["Eco-Tourism", "Archaeological Tours", "Wellness", "Nature Adventures", "Cultural Immersion", "Aquatic Adventures", "Culinary Experiences"]
   },
-  "development": {
-    "growth": "Rapid development of international hotels and resorts",
-    "increasing_air_travel": "More flights and airlines",
-    "second_international_airport": "In development on Ambergris Caye",
-    "sustainability": "Host of World Sustainable Travel and Hospitality Awards in 2024"
+  "Development": {
+    "Growth": "Rapid development of international hotels and resorts",
+    "Increasing Air Travel": "More flights and airlines",
+    "Second International Airport": "In development on Ambergris Caye",
+    "Sustainability": "Host of World Sustainable Travel and Hospitality Awards in 2024"
   },
-  "expatriate_and_retiree_appeal": {
-    "official_language": "English",
-    "diverse_friendly_population": true,
-    "stable_government": "Based on British parliamentary system",
-    "residency_and_tax_benefits": {
-      "Qualified_Retired_Persons": "Tax-free life in Belize",
-      "exemption": "All taxes on income and receipts outside Belize"
+  "Expatriate and Retiree Appeal": {
+    "Official Language": "English",
+    "Diverse Friendly Population": true,
+    "Stable Government": "Based on British parliamentary system",
+    "Residency and Tax Benefits": {
+      "Qualified Retired Persons": "Tax-free life in Belize",
+      "Exemption": "All taxes on income and receipts outside Belize"
     },
-    "attractions": ["Diverse ecosystem", "Beaches", "Scuba-diving spots", "Mayan ruins"]
+    "Attractions": ["Diverse ecosystem", "Beaches", "Scuba-diving spots", "Mayan ruins"]
   },
-  "economy_and_currency": {
-    "stability": "Low unemployment rate",
-    "currency_pegged_to_USD": "2:1"
+  "Economy and Currency": {
+    "Stability": "Low unemployment rate",
+    "Currency Pegged to USD": "2:1"
   },
-  "emergency_preparedness": "Climate Resilient Infrastructure project for future emergencies"
-}
+  "Emergency Preparedness": "Climate Resilient Infrastructure project for future emergencies"
 }
