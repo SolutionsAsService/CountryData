@@ -1,63 +1,234 @@
 {
-  "Country": "Hungary",
-  "NativeName": "Magyarország",
-  "Pronunciation": "ˈmɒɟɒrorsaːɡ",
-  "PoliticalSystem": {
+  "Name": {
+    "Common": "Hungary",
+    "Official": "Hungary",
+    "Native": {
+      "Hungarian": "Magyarország",
+      "Pronunciation": "ˈmɒɟɒrorsaːɡ"
+    }
+  },
+  "Symbols": {
+    "Flag": "A horizontal tricolor of red, white, and green",
+    "Emblem": "A shield bearing the coat of arms of Hungary",
+    "Motto": "None",
+    "Anthem": {
+      "Title": "Himnusz",
+      "Duration": "3 minutes and 45 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Europe",
+    "Region": "Central Europe",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Budapest",
+        "Latitude": "47°29′N",
+        "Longitude": "19°03′E"
+      }
+    },
+    "Location": "Central Europe, bordered by Austria, Slovakia, Ukraine, Romania, Serbia, Croatia, and Slovenia",
+    "Area": {
+      "Total (km2)": 93030,
+      "Rank": "108",
+      "Water Percentage": "3.44%"
+    },
+    "Borders": ["Austria", "Slovakia", "Ukraine", "Romania", "Serbia", "Croatia", "Slovenia"],
+    "Terrain": ["Mostly flat to rolling plains with hills and low mountains on the Slovakian border"],
+    "Climate": ["Temperate; cold, cloudy, humid winters; warm summers"],
+    "Natural Resources": ["Bauxite", "Coal", "Natural gas", "Arable land"],
+    "Time Zones": ["UTC+1 (CET)", "UTC+2 (CEST, Summer)"],
+    "Largest City": "Budapest"
+  },
+  "Demographics": {
+    "Population": {
+      "2021 Census": 9689000,
+      "Density per km2": 107,
+      "Urban Population": "70%"
+    },
+    "Ethnic Groups": {
+      "2011": {
+        "Hungarian": 85.6,
+        "Roma": 3.2,
+        "German": 1.9,
+        "Other": 9.3
+      }
+    },
+    "Languages": {
+      "Official": ["Hungarian"]
+    },
+    "Religion": {
+      "2021": {
+        "Christianity": 54.3,
+        "No Religion": 27.2,
+        "Undeclared": 16.7,
+        "Other": 1.8
+      }
+    },
+    "Demonym": "Hungarian"
+  },
+  "Government": {
+    "Type": "Unitary parliamentary republic",
+    "Leaders": {
+      "President": "Katalin Novák",
+      "Prime Minister": "Viktor Orbán"
+    },
+    "Legislature": "National Assembly",
+    "Constitution": "1 January 2012"
+  },
+  "History": {
+    "Foundation": "1000 AD",
+    "Kingdom of Hungary": "1000–1946",
+    "People's Republic": "1949–1989",
+    "Republic": "1989–present"
+  },
+  "Economy": {
+    "Status": "Developed country",
+    "Dependence": "Manufacturing, services, and agriculture",
+    "Major Industries": ["Automobiles", "Pharmaceuticals", "Information technology", "Food processing", "Textiles"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 421.683,
+      "Per Capita (USD)": 43712
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 203.829,
+      "Per Capita (USD)": 21148
+    },
+    "Currency": "Hungarian forint (HUF)",
+    "Gini Index": "28.3",
+    "HDI": "0.846"
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": ["United Nations", "European Union", "NATO", "OECD", "Visegrád Group", "WTO", "World Bank", "AIIB", "IMF"]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+1 (CET)", "UTC+2 (CEST, Summer)"],
+    "Date Format": ["yyyy.mm.dd"],
+    "Driving Side": "Right",
+    "Calling Code": "+36",
+    "ISO 3166 Code": "HU",
+    "Internet TLD": ".hu",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "National Day (March 15)",
+      "Good Friday (April)",
+      "Easter Monday (April)",
+      "Labour Day (May 1)",
+      "Whit Monday (June)",
+      "St. Stephen's Day (August 20)",
+      "Republic Day (October 23)",
+      "All Saints' Day (November 1)",
+      "Christmas Day (December 25)",
+      "Boxing Day (December 26)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of Magyar, Roman, and Turkish influences",
+    "Cultural Contributions": ["Classical music", "Literature", "Cuisine", "Art"],
+    "Unique Features": ["Home to numerous thermal baths", "UNESCO World Heritage Sites"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.5,
+    "Exports Growth": "Driven by manufacturing and services",
+    "Inflation Rate": "3.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Manufacturing", "Services"],
+      "Challenges": "Balancing economic growth with environmental sustainability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "BUX",
+        "Expectation": "Steady growth into 2024"
+      },
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Central European culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Manufacturing", "Information technology", "Pharmaceuticals"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air, and River transport",
+    "Key Transport Hubs": ["Budapest", "Debrecen", "Szeged"],
+    "Railway System": "Hungarian State Railways",
+    "Major Train Stations": ["Keleti", "Nyugati", "Déli"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Occasional protests and political unrest",
+    "Economic Hardships": "High inflation and unemployment rates",
+    "Natural Disasters": ["Floods"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "76.7 years",
+    "Infant Mortality Rate": "4.1 deaths/1,000 live births",
+    "Health Expenditure of GDP": "6.9% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "4.5% (2020)",
+    "Literacy Rate": {
+      "Total": "99%",
+      "Male": "99%",
+      "Female": "99%"
+    }
+  },
+  "Political System": {
     "Government": "Unitary parliamentary republic",
-    "LastElection": {
+    "Last Election": {
       "Date": "3 April 2022",
       "Result": "Fidesz–KDNP alliance victory",
-      "PrimeMinister": "Viktor Orbán"
+      "Prime Minister": "Viktor Orbán"
     },
     "Parties": ["Fidesz", "Democratic Coalition", "Our Homeland Movement", "Momentum"]
   },
   "Judiciary": {
     "System": "Civil law system",
-    "BasedOn": ["German law", "Roman law"],
-    "HighestCourts": ["Kúria"],
+    "Based On": ["German law", "Roman law"],
+    "Highest Courts": ["Kúria"],
     "Location": "Budapest"
   },
-  "LawEnforcement": {
+  "Law Enforcement": {
     "Agencies": ["Hungarian Police", "National Tax and Customs Administration"],
-    "PoliceDuties": ["Criminal investigation", "Patrol activity", "Traffic policing", "Border control"]
+    "Police Duties": ["Criminal investigation", "Patrol activity", "Traffic policing", "Border control"]
   },
-  "ForeignPolicy": {
+  "Foreign Policy": {
     "Commitments": ["Atlantic co-operation", "European integration", "International development", "International law"],
     "Organisations": ["United Nations", "European Union", "NATO", "OECD", "Visegrád Group", "WTO", "World Bank", "AIIB", "IMF"]
   },
   "Military": {
-    "ArmedForces": {
+    "Armed Forces": {
       "Branches": ["Hungarian Ground Force", "Hungarian Air Force"],
       "Personnel": 31080,
       "Reserve": 50000,
       "Spending": "$1.21 billion"
     }
   },
-  "AdministrativeDivisions": {
+  "Administrative Divisions": {
     "Counties": 19,
     "Capital": "Budapest",
-    "NUTSUnits": 20,
+    "NUTS Units": 20,
     "Districts": 174
   },
   "Regions": ["Central Hungary", "Central Transdanubia", "Northern Great Plain", "Northern Hungary", "Southern Transdanubia", "Southern Great Plain", "Western Transdanubia"],
-  "Economy": {
-    "Currency": "Hungarian forint (HUF)",
-    "GDP_PPP": "$421.683 billion",
-    "GDP_Nominal": "$203.829 billion",
-    "Gini_Index": 28.3,
-    "HDI": 0.846,
-    "InflationTarget": 3
-  },
-  "ScienceAndTechnology": {
-    "RDI_Agency": "National Research, Development and Innovation (NRDI) Office"
-  },
-  "Transport": {
-    "RailwaySystem": "Hungarian State Railways",
-    "MajorTrainStations": ["Keleti", "Nyugati", "Déli"]
-  },
-  "Population": {
-    "2021": 9689000,
-    "Density_km2": 107,
-    "UrbanPopulation": "70%"
+  "Science and Technology": {
+    "RDI Agency": "National Research, Development and Innovation (NRDI) Office"
   }
 }
