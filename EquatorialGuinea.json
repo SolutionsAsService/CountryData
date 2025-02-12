@@ -1,86 +1,168 @@
 {
-    "Equatorial Guinea": {
-        "Official Names": {
-            "Spanish": "República de Guinea Ecuatorial",
-            "French": "République de Guinée équatoriale",
-            "Portuguese": "República da Guiné Equatorial"
-        },
-        "Flag": "Described Image",
-        "Coat of Arms": "Described Image",
-        "Motto": "Unidad, Paz, Justicia ('Unity, Peace, Justice')",
-        "Anthem": "Caminemos pisando las sendas de nuestra inmensa felicidad",
-        "Capital": {
-            "Current": "Malabo",
-            "Under Construction": "Ciudad de la Paz",
-            "Coordinates": "3°45′N 8°47′E"
-        },
-        "Largest City": "Bata",
-        "Official Languages": ["Spanish", "French", "Portuguese"],
-        "Recognised Regional Languages": ["Fang", "Bube", "Annobonese Creole", "Kombe", "Kwasio"],
-        "Ethnic Groups": {
-            "Fang": "85.7%",
-            "Bubi": "6.5%",
-            "Ndowe": "3.6%",
-            "Annobon": "1.6%",
-            "Bujeba": "1.1%",
-            "Other": "1.1%"
-        },
-        "Religion": {
-            "Christianity": "88.7%",
-            "No Religion": "5.0%",
-            "Islam": "4.0%",
-            "Traditional Faiths": "1.7%",
-            "Others": "0.6%"
-        },
-        "Government": {
-            "Type": "Unitary dominant-party presidential republic under a dictatorship",
-            "President": "Teodoro Obiang Nguema Mbasogo",
-            "Vice President": "Teodoro Nguema Obiang Mangue",
-            "Prime Minister": "Manuela Roka Botey"
-        },
-        "Legislature": {
-            "Upper House": "Senate",
-            "Lower House": "Chamber of Deputies"
-        },
-        "Independence": "12 October 1968 from Spain",
-        "Area": "28,050 square kilometers",
-        "Population": {
-            "2022 Estimate": "1,679,172",
-            "Density": "60 per square kilometer"
-        },
-        "Economy": {
-            "GDP (PPP, 2023)": {
-                "Total": "$28.356 billion",
-                "Per Capita": "$18,362"
-            },
-            "GDP (Nominal, 2023)": {
-                "Total": "$10.041 billion",
-                "Per Capita": "$6,502"
-            }
-        },
-        "HDI": "0.596 (medium, 145th)",
-        "Currency": "Central African CFA franc (XAF)",
-        "Time Zone": "UTC+1 (WAT)",
-        "Date Format": "dd/mm/yyyy",
-        "Driving Side": "right",
-        "Calling Code": "+240",
-        "ISO 3166 Code": "GQ",
-        "Internet TLD": ".gq",
-        "Geography": {
-            "Regions": ["Bioko Island", "Annobón Island", "Río Muni"],
-            "Bordered By": ["Cameroon", "Gabon"],
-            "Main Cities": ["Malabo", "Bata", "Ciudad de la Paz"]
-        },
-        "Membership": ["African Union", "Francophonie", "OPEC", "CPLP"],
-        "Human Rights Record": "Noted as poor by various international organizations",
-        "Languages": {
-            "Spanish": "87.7% good command",
-            "French and Portuguese": "Official alongside Spanish"
-        },
-        "Historical Overview": {
-            "Independence from Spain": "1968",
-            "Current President": "Teodoro Obiang Nguema Mbasogo",
-            "Oil Production": "Major factor in economy since mid-1990s"
-        }
+  "Name": {
+    "Common": "Equatorial Guinea",
+    "Official": "Republic of Equatorial Guinea",
+    "Native": {
+      "Spanish": "República de Guinea Ecuatorial",
+      "French": "République de Guinée équatoriale",
+      "Portuguese": "República da Guiné Equatorial"
     }
+  },
+  "Symbols": {
+    "Flag": "Three horizontal bands of green (top), white (middle), and red (bottom) with a blue triangle at the hoist side bearing a white five-pointed star",
+    "Emblem": "A shield with a silk-cotton tree, flanked by six six-pointed stars, with the motto 'Unidad, Paz, Justicia' (Unity, Peace, Justice) below",
+    "Motto": "Unidad, Paz, Justicia (Unity, Peace, Justice)",
+    "Anthem": {
+      "Title": "Caminemos pisando las sendas de nuestra inmensa felicidad",
+      "Translation": "Let Us Tread the Path of Our Immense Happiness",
+      "Duration": "1 minute and 12 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Africa",
+    "Region": "Central Africa",
+    "Coordinates": {
+      "Capital": {
+        "Current Name": "Malabo",
+        "Under Construction Name": "Ciudad de la Paz",
+        "Latitude": "3°45′N",
+        "Longitude": "8°47′E"
+      }
+    },
+    "Location": "Central Africa, bordered by Cameroon and Gabon",
+    "Area": {
+      "Total (km2)": 28050,
+      "Rank": "141",
+      "Water Percentage": "N/A"
+    },
+    "Regions": ["Bioko Island", "Annobón Island", "Río Muni"],
+    "Time Zones": ["UTC+1 (WAT)"],
+    "Largest City": "Bata",
+    "Natural Resources": ["Petroleum", "Natural gas", "Timber", "Gold", "Bauxite"],
+    "Climate": ["Tropical; always hot, humid"]
+  },
+  "Demographics": {
+    "Population": {
+      "2022 Estimate": 1679172,
+      "Density per km2": 60
+    },
+    "Ethnic Groups": {
+      "Fang": 85.7,
+      "Bubi": 6.5,
+      "Ndowe": 3.6,
+      "Annobon": 1.6,
+      "Bujeba": 1.1,
+      "Other": 1.1
+    },
+    "Languages": {
+      "Official": ["Spanish", "French", "Portuguese"],
+      "Recognised Regional": ["Fang", "Bube", "Annobonese Creole", "Kombe", "Kwasio"]
+    },
+    "Religion": {
+      "Christianity": 88.7,
+      "No Religion": 5,
+      "Islam": 4,
+      "Traditional Faiths": 1.7,
+      "Others": 0.6
+    },
+    "Demonym": "Equatoguinean"
+  },
+  "Government": {
+    "Type": "Unitary dominant-party presidential republic under a dictatorship",
+    "Leaders": {
+      "President": "Teodoro Obiang Nguema Mbasogo",
+      "Vice President": "Teodoro Nguema Obiang Mangue",
+      "Prime Minister": "Manuela Roka Botey"
+    },
+    "Legislature": {
+      "Upper House": "Senate",
+      "Lower House": "Chamber of Deputies"
+    },
+    "Constitution": "17 November 1991"
+  },
+  "History": {
+    "Independence": "12 October 1968 from Spain",
+    "Current President": "Teodoro Obiang Nguema Mbasogo",
+    "Oil Production": "Major factor in economy since mid-1990s"
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Highly dependent on oil and gas production",
+    "Major Industries": ["Petroleum", "Natural gas", "Timber", "Fishing"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 28.356,
+      "Per Capita (USD)": 18362
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 10.041,
+      "Per Capita (USD)": 6502
+    },
+    "Currency": "Central African CFA franc (XAF)",
+    "Gini Index": "N/A",
+    "HDI": "0.596 (2021)"
+  },
+  "International Relations": {
+    "UN Member": true,
+    "African Union Member": true,
+    "Francophonie Member": true,
+    "OPEC Member": true,
+    "CPLP Member": true
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+1 (WAT)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+240",
+    "ISO 3166 Code": "GQ",
+    "Internet TLD": ".gq",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Labour Day (May 1)",
+      "Independence Day (October 12)",
+      "Christmas Day (December 25)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage influenced by Spanish colonization and African traditions",
+    "Cultural Contributions": ["Traditional music and dance", "Cuisine", "Art"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 2.5,
+    "Exports Growth": "Driven by oil and gas production",
+    "Inflation Rate": "4.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Energy", "Agriculture"],
+      "Challenges": "Balancing economic growth with environmental sustainability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "N/A",
+        "Expectation": "Steady growth into 2024"
+      },
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Food Products": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Central African culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Energy", "Telecommunications"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Human Rights Record": "Noted as poor by various international organizations"
 }
