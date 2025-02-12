@@ -1,103 +1,198 @@
 {
-  "Eswatini": {
-    "general_information": {
-      "Name": {
-      "official_name": "Kingdom of Eswatini",
-      "former_name": "Swaziland",
+  "Name": {
+    "Common": "Eswatini",
+    "Official": "Kingdom of Eswatini",
+    "Native": {
       "Swazi": "Umbuso weSwatini"
-          },
-      "flag": "Flag of Eswatini",
-      "coat_of_arms": "Coat of arms of Eswatini",
-      "motto": "Siyinqaba",
-      "anthem": "Nkulunkulu Mnikati wetibusiso temaSwati",
-      "location": "Southern Africa, landlocked",
-      "coordinates": {
-        "capital_executive": "Mbabane",
-        "capital_legislative": "Lobamba",
-        "coordinates": "26°30′S 31°30′E"
-      },
-      "largest_city": "Mbabane",
-      "official_languages": ["Swazi", "English"],
-      "ethnic_groups": {
-        "Swazi": "84%",
-        "Zulu": "10%",
-        "Others": "6%"
-      },
-      "religion": {
-        "Christianity": "89.3%",
-        "Protestantism": "88.8%",
-        "Other_Christian": "0.5%",
-        "No_religion": "7.4%",
-        "Traditional_faiths": "2.5%",
-        "Others": "0.8%"
-      },
-      "demonym": "Swazi",
-      "government": "Unitary absolute monarchy",
-      "leaders": {
-        "iNgwenyama": "Mswati III",
-        "Ndlovukati": "Ntfombi",
-        "Prime_Minister": "Russell Dlamini",
-        "Chief_Justice": "Bheki Maphalala"
+    }
+  },
+  "Symbols": {
+    "Flag": "Three horizontal bands of blue (top), red (triple width), and blue with a black and white shield centered on the red band and two spears crossed behind the shield",
+    "Emblem": "A lion and an elephant supporting a traditional Nguni shield",
+    "Motto": "Siyinqaba (We are a fortress)",
+    "Anthem": {
+      "Title": "Nkulunkulu Mnikati wetibusiso temaSwati",
+      "Translation": "O Lord, Bless the Nation of Swaziland",
+      "Duration": "1 minute and 25 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Africa",
+    "Region": "Southern Africa",
+    "Coordinates": {
+      "Capital": {
+        "Executive": {
+          "Name": "Mbabane",
+          "Latitude": "26°19′S",
+          "Longitude": "31°8′E"
+        },
+        "Legislative": {
+          "Name": "Lobamba",
+          "Latitude": "26°26′S",
+          "Longitude": "31°12′E"
+        }
       }
     },
-    "legislature": {
-      "type": "Bicameral",
-      "upper_house": "Senate",
-      "lower_house": "House of Assembly"
+    "Location": "Southern Africa, landlocked",
+    "Area": {
+      "Total (km2)": 17364,
+      "Rank": "153",
+      "Water Percentage": "0.9%"
     },
-    "independence": {
-      "from_UK": "6 September 1968",
-      "UN_membership": "24 September 1968",
-      "current_constitution": "2005",
-      "renaming": "19 April 2018"
+    "Time Zones": ["UTC+2"],
+    "Largest City": "Mbabane",
+    "Natural Resources": ["Asbestos", "Coal", "Clay", "Cassiterite", "Hydropower", "Forests", "Small gold and diamond deposits", "Quarried stone", "Tal"],
+    "Climate": ["Diverse, ranging from cool and mountainous highveld to hot and dry lowveld"]
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 1236126,
+      "2017 Census": 1093238,
+      "Density per km2": 66.8
     },
-    "geography": {
-      "total_area_km2": 17364,
-      "water_percentage": 0.9,
-      "landlocked": true,
-      "climate_and_topography": "Diverse, ranging from cool and mountainous highveld to hot and dry lowveld"
+    "Ethnic Groups": {
+      "Swazi": 84,
+      "Zulu": 10,
+      "Others": 6
     },
-    "economy": {
-      "currency": ["Lilangeni (SZL)", "South African rand (ZAR)"],
-      "GDP_PPP": {
-        "total": "$13.797 billion",
-        "per_capita": "$11,858"
-      },
-      "GDP_nominal": {
-        "total": "$4.648 billion",
-        "per_capita": "$3,995"
-      },
-      "Gini_index": "54.6 (High)",
-      "HDI": "0.597 (Medium)"
+    "Languages": {
+      "Official": ["Swazi", "English"]
     },
-    "demographics": {
-      "population_estimate_2023": 1236126,
-      "census_2017": 1093238,
-      "density_per_km2": 66.8,
-      "major_health_issues": ["HIV/AIDS", "Tuberculosis"],
-      "HIV_positive_adult_population": "28%",
-      "life_expectancy": "58 years",
-      "youth_population_percentage": "35%",
-      "median_age": "22 years"
+    "Religion": {
+      "Christianity": 89.3,
+      "Protestantism": 88.8,
+      "Other Christian": 0.5,
+      "No Religion": 7.4,
+      "Traditional Faiths": 2.5,
+      "Others": 0.8
     },
-    "culture": {
-      "important_events": ["Umhlanga (Reed Dance)", "Incwala (Kingship Dance)"],
-      "language": "siSwati",
-      "country_name_in_native": "eSwatini"
+    "Demonym": "Swazi"
+  },
+  "Government": {
+    "Type": "Unitary absolute monarchy",
+    "Leaders": {
+      "iNgwenyama": "Mswati III",
+      "Ndlovukati": "Ntfombi",
+      "Prime Minister": "Russell Dlamini",
+      "Chief Justice": "Bheki Maphalala"
     },
-    "history": {
-      "establishment_of_kingdom": "Mid-18th century",
-      "namesake": "Mswati II",
-      "British_high_commission_territory": "1903-1968"
+    "Legislature": {
+      "Type": "Bicameral",
+      "Upper House": "Senate",
+      "Lower House": "House of Assembly"
     },
-    "politics": {
-      "government_type": "Absolute monarchy",
-      "current_monarch": "Mswati III",
-      "election_cycle": "Every 5 years",
-      "constitution_adoption": "2005"
-    },
-    "administrative_divisions": {
-      "description": "Details of administrative divisions to be provided"
+    "Constitution": "26 July 2005"
+  },
+  "History": {
+    "Establishment of Kingdom": "Mid-18th century",
+    "Namesake": "Mswati II",
+    "British High Commission Territory": "1903-1968",
+    "Independence": {
+      "From UK": "6 September 1968",
+      "UN Membership": "24 September 1968",
+      "Current Constitution": "26 July 2005",
+      "Renaming": "19 April 2018"
     }
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Currency": ["Lilangeni (SZL)", "South African rand (ZAR)"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 13.797,
+      "Per Capita (USD)": 11858
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 4.648,
+      "Per Capita (USD)": 3995
+    },
+    "Gini Index": "54.6 (High)",
+    "HDI": "0.597 (Medium)"
+  },
+  "International Relations": {
+    "UN Member": true,
+    "African Union Member": true,
+    "Commonwealth of Nations Member": true,
+    "SADC Member": true
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+2"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+268",
+    "ISO 3166 Code": "SZ",
+    "Internet TLD": ".sz",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Good Friday (April)",
+      "Easter Monday (April)",
+      "National Flag Day (April 25)",
+      "King's Birthday (April 19)",
+      "Labour Day (May 1)",
+      "Ascension Day (May)",
+      "Independence Day (September 6)",
+      "Christmas Day (December 25)",
+      "Boxing Day (December 26)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with significant traditional events",
+    "Cultural Contributions": ["Traditional music and dance", "Cuisine", "Art"],
+    "Important Events": ["Umhlanga (Reed Dance)", "Incwala (Kingship Dance)"],
+    "Language": "siSwati",
+    "Country Name in Native": "eSwatini"
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 2.8,
+    "Exports Growth": "Driven by agriculture and manufacturing",
+    "Inflation Rate": "5.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Agriculture", "Manufacturing"],
+      "Challenges": "Balancing economic growth with social stability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "N/A",
+        "Expectation": "Steady growth into 2024"
+      },
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Moderate urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Southern African culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Agriculture", "Manufacturing"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Demographics": {
+    "Major Health Issues": ["HIV/AIDS", "Tuberculosis"],
+    "HIV Positive Adult Population": "28%",
+    "Life Expectancy": "58 years",
+    "Youth Population Percentage": "35%",
+    "Median Age": "22 years"
+  },
+  "Politics": {
+    "Government Type": "Absolute monarchy",
+    "Current Monarch": "Mswati III",
+    "Election Cycle": "Every 5 years",
+    "Constitution Adoption": "2005"
+  },
+  "Administrative Divisions": {
+    "Description": "Details of administrative divisions to be provided"
   }
 }
