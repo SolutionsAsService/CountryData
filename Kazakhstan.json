@@ -1,111 +1,210 @@
 {
-  "Kazakhstan": {
-    "Name": {
-  "Common": "Kazakhstan",
-  "Official_Name": "Republic of Kazakhstan",
-   "Kazakh": "Қазақстан Республикасы",
-   "Romanized": "Qazaqstan Respublikasy",
+  "Name": {
+    "Common": "Kazakhstan",
+    "Official": "Republic of Kazakhstan",
+    "Kazakh": "Қазақстан Республикасы",
+    "Romanized Kazakh": "Qazaqstan Respublikasy",
     "Russian": "Республика Казахстан",
-    "Roman": "Respublika Kazakhstan"
+    "Romanized Russian": "Respublika Kazakhstan"
   },
-  "Flag_URL": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg",
-  "Emblem_URL": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Emblem_of_Kazakhstan.svg",
-  "Anthem": "Menıñ Qazaqstanym",
-  "Capital": "Astana",
-  "Largest_City": "Almaty",
-    "Location":{
-    "landlocked": true,
+  "Symbols": {
+    "Flag URL": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg",
+    "Emblem URL": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Emblem_of_Kazakhstan.svg",
+    "Anthem": {
+      "Title": "Menıñ Qazaqstanym",
+      "Duration": "1 minute and 30 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Asia",
     "Region": ["Central Asia", "small part in Eastern Europe"],
-    "Border":{
-      "Russia":[ "north","west"],
-      "China": "east", 
-      "Kyrgyzstan": "southeast",
-      "Uzbekistan": "south", 
-      "Turkmenistan": "southwest",
-      "coastline": "Caspian Sea."
+    "Coordinates": {
+      "Capital": {
+        "Name": "Astana",
+        "Latitude": "51°10′N",
+        "Longitude": "71°26′E"
+      }
     },
-  "Official_Languages": ["Kazakh", "Russian"],
-  "Ethnic_Groups_2023": {
-    "Kazakh": "70.7%",
-    "Russian": "15.2%",
-    "Uzbek": "3.3%",
-    "Ukrainian": "1.9%",
-    "Uyghur": "1.5%",
-    "German": "1.1%",
-    "Tatar": "1.1%",
-    "Others": "5.2%"
+    "Location": "Landlocked, bordered by Russia to the north and west, China to the east, Kyrgyzstan to the southeast, Uzbekistan to the south, Turkmenistan to the southwest, and the Caspian Sea to the west",
+    "Area": {
+      "Total (km2)": 2724900,
+      "Rank": "9th",
+      "Water Percentage": "1.7%"
+    },
+    "Borders": {
+      "Russia": ["north", "west"],
+      "China": "east",
+      "Kyrgyzstan": "southeast",
+      "Uzbekistan": "south",
+      "Turkmenistan": "southwest",
+      "Coastline": "Caspian Sea"
+    },
+    "Terrain": ["Flatlands, steppe, taiga, rock canyons, hills, deltas, mountains, snow-capped mountains, deserts"],
+    "Climate": ["Continental, with hot summers and cold winters"],
+    "Natural Resources": ["Oil, natural gas, coal, uranium, manganese, iron, chromium, lead, zinc, copper, titanium, bauxite, gold, silver, phosphates, sulfur"],
+    "Time Zones": ["UTC+5", "UTC+6"],
+    "Largest City": "Almaty"
   },
-  "Religion_2021": {
-    "Islam": "69.3%",
-    "Christianity": "17.2%",
-    "No_Response": "11.0%",
-    "Atheism": "2.3%",
-    "Others": "0.2%"
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 20000000,
+      "Density (per km2)": 7
+    },
+    "Ethnic Groups": {
+      "2023": {
+        "Kazakh": 70.7,
+        "Russian": 15.2,
+        "Uzbek": 3.3,
+        "Ukrainian": 1.9,
+        "Uyghur": 1.5,
+        "German": 1.1,
+        "Tatar": 1.1,
+        "Others": 5.2
+      }
+    },
+    "Languages": {
+      "Official": ["Kazakh", "Russian"]
+    },
+    "Religion": {
+      "2021": {
+        "Islam": 69.3,
+        "Christianity": 17.2,
+        "No Response": 11.0,
+        "Atheism": 2.3,
+        "Others": 0.2
+      }
+    },
+    "Demonym": "Kazakhstani"
   },
-  "Government_Type": "Unitary semi-presidential republic",
-  "Leaders": {
-    "President": "Kassym-Jomart Tokayev",
-    "Prime_Minister": "Älihan Smaiylov"
+  "Government": {
+    "Type": "Unitary semi-presidential republic",
+    "Leaders": {
+      "President": "Kassym-Jomart Tokayev",
+      "Prime Minister": "Älihan Smaiylov"
+    },
+    "Legislature": {
+      "Upper House": "Senate",
+      "Lower House": "Majilis"
+    },
+    "Constitution": "30 August 1995"
   },
-  "Legislature": {
-    "Senate": "Upper house",
-    "Majilis": "Lower house"
-  },
-  "Historical_Formations": {
-    "Kazakh_Khanate": 1465,
-    "Alash_Autonomy": "13 December 1917",
-    "Kirghiz_ASSR": "26 August 1920",
-    "Kazakh_ASSR": "19 June 1925",
-    "Kazakh_SSR": "5 December 1936",
-    "Sovereignty_Declaration": "25 October 1990",
-    "Republic_Reconstitution": "10 December 1991",
-    "Independence": "16 December 1991",
-    "Independence_Recognition": "26 December 1991",
-    "Current_Constitution": "30 August 1995"
-  },
-  "Geographical_Details": {
-    "Total_Area": "2,724,900 km2",
-    "Water_Percentage": "1.7%",
-    "Population_2023": "20,000,000",
-    "Population_Density": "7/km2"
-  },
-  "Economic_Indicators": {
-    "GDP_PPP_2023_Total": "$654.050 billion",
-    "GDP_PPP_Per_Capita": "$32,712",
-    "GDP_Nominal_2023_Total": "$259.292 billion",
-    "GDP_Nominal_Per_Capita": "$12,968"
-  },
-  "Gini_Index": "27.8",
-  "HDI": "0.811",
-  "Currency": "Tenge (KZT)",
-  "Time_Zone": "UTC+5 / +6",
-  "ISO_3166_Code": "KZ",
-  "Internet_TLD": [".kz", ".қаз"],
-  "Historical_Background": {
-    "Early_Inhabitants": "Paleolithic era",
-    "Ancient_Civilizations": ["Saka", "Massagetae", "Scythians"],
-    "Mongol_Empire": "13th century",
-    "Kazakh_Khanate_Establishment": "15th century",
-    "Russian_Empire_Annexation": "18th century",
-    "Soviet_Union_Period": "1936-1991",
+  "History": {
+    "Early Inhabitants": "Paleolithic era",
+    "Ancient Civilizations": ["Saka", "Massagetae", "Scythians"],
+    "Mongol Empire": "13th century",
+    "Kazakh Khanate Establishment": "15th century",
+    "Russian Empire Annexation": "18th century",
+    "Soviet Union Period": "1936-1991",
     "Independence": "1991"
   },
-  "Cultural_Aspects": {
-    "Traditional_Culture": ["Nomadic heritage", "Horse culture"],
-    "Cuisine": ["Beshbarmak", "Kumis"],
-    "Music_And_Arts": ["Kazakh folk music", "Yurt craftsmanship"],
-    "Languages": ["Kazakh", "Russian", "Minority languages"]
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Oil, natural gas, mining, agriculture",
+    "Major Industries": ["Oil", "Natural gas", "Mining", "Agriculture"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 654.050,
+      "Per Capita (USD)": 32712
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 259.292,
+      "Per Capita (USD)": 12968
+    },
+    "Currency": "Tenge (KZT)",
+    "Gini Index": 27.8,
+    "HDI": {
+      "Score": 0.811,
+      "Rank": "56th"
+    }
   },
-  "International_Relations": {
-    "United_Nations": true,
-    "WTO": true,
-    "CIS": true,
-    "SCO": true,
-    "EAEU": true,
-    "CSTO": true,
-    "OSCE": true,
-    "OIC": true,
-    "Organization_of_Turkic_States": true,
-    "International_Organization_of_Turkic_Culture": true
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": ["United Nations", "World Trade Organization", "Commonwealth of Independent States (CIS)", "Shanghai Cooperation Organisation (SCO)", "Eurasian Economic Union (EAEU)", "Collective Security Treaty Organization (CSTO)", "Organization for Security and Co-operation in Europe (OSCE)", "Organisation of Islamic Cooperation (OIC)", "Organization of Turkic States", "International Organization of Turkic Culture"]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+5", "UTC+6"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+7",
+    "ISO 3166 Code": "KZ",
+    "Internet TLD": [".kz", ".қаз"],
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "International Women's Day (March 8)",
+      "Nauryz Meyrami (March 21-23)",
+      "Unity Day (May 1)",
+      "Defender of the Fatherland Day (May 7)",
+      "Victory Day (May 9)",
+      "Capital City Day (July 6)",
+      "Constitution Day (August 30)",
+      "Independence Day (December 16)",
+      "Kurban Ait (Varies)",
+      "Oraza Ait (Varies)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of nomadic, Turkic, and Soviet influences",
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["Nomadic heritage", "Yurt craftsmanship"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.0,
+    "Exports Growth": "Driven by oil and natural gas",
+    "Inflation Rate": "5.5%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Oil", "Natural gas"],
+      "Challenges": "Balancing economic growth with environmental sustainability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "KASE Index",
+        "Expectation": "Steady growth into 2024"
+      },
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Central Asian culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Oil", "Natural gas", "Mining"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air, and Sea transport",
+    "Key Transport Hubs": ["Astana", "Almaty", "Shymkent"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Occasional protests and political unrest",
+    "Economic Hardships": "High unemployment and poverty rates",
+    "Natural Disasters": ["Earthquakes"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "73.2 years",
+    "Infant Mortality Rate": "8.9 deaths/1,000 live births",
+    "Health Expenditure of GDP": "3.8% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "3.1% (2020)",
+    "Literacy Rate": {
+      "Total": "99.8%",
+      "Male": "99.8%",
+      "Female": "99.8%"
+    }
   }
 }
