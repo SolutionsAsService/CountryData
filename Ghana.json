@@ -1,106 +1,191 @@
 {
-    "Ghana": {
-        "Name": {
-            "Full": "Republic of Ghana",
-            "Common": "Ghana",
-            "Twi": "Gaana", 
-            "Ewe": "Gana", 
-            "Dagbani": "Gana"
-        },
-        "Status": ["Islamic Insurgency"],
-        "Symbols": {
-            "Flag": "Flag of Ghana",
-            "Coat of Arms": "Coat of arms of Ghana",
-            "Motto": "Freedom and Justice",
-            "Anthem": {
-                "Title": "God Bless Our Homeland Ghana",
-                "Duration": "58 seconds"
-            }
-        },
-        "Location": {
-            "Region": "West Africa",
-            "Borders": {
-                "Gulf of Guinea": "South",
-                "Ivory Coast": "West",
-                "Burkina Faso": "North",
-                "Togo": "East"
-            },
-            "Capital and Largest City": "Accra",
-            "Coordinates": "05°33′18″N 00°11′33″W"
-        },
-        "Demographics": {
-            "Population": {
-                "2023 Estimate": "34,237,620",
-                "Density": "101.5 per km2"
-            },
-            "Ethnic Groups (2021 Census)": {
-                "Akans": "45.7%",
-                "Mole-Dagbon": "18.5%",
-                "Ewe": "12.8%",
-                "Ga-Adangbe": "7.1%",
-                "Gurma": "6.4%",
-                "Guan": "3.2%",
-                "Gurunsi": "2.7%",
-                "Mande": "2.0%",
-                "Other / Unspecified": "1.6%"
-            },
-            "Religion (2021 Census)": {
-                "Christianity": "71.3%",
-                "Protestantism": "49.0%",
-                "Other Christian": "22.3%",
-                "Islam": "19.9%",
-                "Traditional Faiths": "3.2%",
-                "No Religion": "1.1%",
-                "Other / Unspecified": "4.5%"
-            },
-            "Languages": {
-                "Official": "English",
-                "National Languages": "See full list"
-            }
-        },
-        "Government": {
-            "Type": "Unitary presidential republic",
-            "President": "Nana Akufo-Addo",
-            "Vice-President": "Mahamudu Bawumia",
-            "Speaker of Parliament": "Alban Bagbin",
-            "Chief Justice": "Gertrude Tokornoo",
-            "Legislature": "Parliament",
-            "Independence from the United Kingdom": "6 March 1957"
-        },
-        "Geography": {
-            "Total Area": "239,567 square kilometers",
-            "Biomes": "Coastal savannas to tropical rainforests",
-            "Water Percentage": "4.61%"
-        },
-        "Economy": {
-            "GDP (PPP) 2023 Estimate": {
-                "Total": "$227.189 billion",
-                "Per Capita": "$6,905"
-            },
-            "GDP (Nominal) 2023 Estimate": {
-                "Total": "$76.628 billion",
-                "Per Capita": "$2,328"
-            },
-            "Gini Index (2016)": "43.5",
-            "HDI (2021)": "0.632",
-            "Currency": "Cedi (GHS)"
-        },
-        "Culture": {
-            "Ethnic and Religious Diversity": true,
-            "Influence": "Significant in West Africa and Africa",
-            "International Affairs": ["Non-Aligned Movement", "African Union", "ECOWAS", "Group of 24", "Commonwealth of Nations"]
-        },
-        "International Relations": {
-            "Global Role": "Active in international affairs",
-            "Membership": ["United Nations", "African Union", "ECOWAS"]
-        },
-        "Historical Kingdoms": ["Kingdom of Dagbon", "Bono state", "Ashanti Empire"],
-        "Colonial History": {
-            "Portuguese": "15th century",
-            "British Control": "19th century",
-            "Independence": "1957"
-        },
-        "Education": "Information not provided",
-        "Transport": "Information not provided"
+  "Name": {
+    "Full": "Republic of Ghana",
+    "Common": "Ghana",
+    "Native": {
+      "Twi": "Gaana",
+      "Ewe": "Gana",
+      "Dagbani": "Gana"
     }
+  },
+  "Symbols": {
+    "Flag": "A horizontal triband of red, gold, and green, with a black five-pointed star in the center",
+    "Emblem": "A shield divided into four quarters by a green St. George's cross with gold edges, supported by two golden eagles, with a black five-pointed star and the national motto 'Freedom and Justice'",
+    "Motto": "Freedom and Justice",
+    "Anthem": {
+      "Title": "God Bless Our Homeland Ghana",
+      "Duration": "58 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Africa",
+    "Region": "West Africa",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Accra",
+        "Latitude": "05°33′18″N",
+        "Longitude": "00°11′33″W"
+      }
+    },
+    "Location": "West Africa, bordered by the Gulf of Guinea to the south, Ivory Coast to the west, Burkina Faso to the north, and Togo to the east",
+    "Area": {
+      "Total (km2)": 239567,
+      "Rank": "80",
+      "Water Percentage": "4.61%"
+    },
+    "Borders": {
+      "Gulf of Guinea": "South",
+      "Ivory Coast": "West",
+      "Burkina Faso": "North",
+      "Togo": "East"
+    },
+    "Terrain": ["Coastal savannas to tropical rainforests"],
+    "Climate": ["Tropical; warm and comparatively dry along southeast coast; hot and humid in southwest; hot and dry in north"],
+    "Natural Resources": ["Gold", "Timber", "Industrial diamonds", "Bauxite", "Manganese", "Fish", "Rubber", "Hydropower", "Petroleum", "Silver", "Salt", "Limestone"],
+    "Time Zones": ["UTC (GMT)"],
+    "Largest City": "Accra"
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 34237620,
+      "Density per km2": 101.5
+    },
+    "Ethnic Groups": {
+      "2021 Census": {
+        "Akans": 45.7,
+        "Mole-Dagbon": 18.5,
+        "Ewe": 12.8,
+        "Ga-Adangbe": 7.1,
+        "Gurma": 6.4,
+        "Guan": 3.2,
+        "Gurunsi": 2.7,
+        "Mande": 2,
+        "Other / Unspecified": 1.6
+      }
+    },
+    "Languages": {
+      "Official": ["English"],
+      "National": ["Twi", "Fante", "Ga", "Ewe", "Dagaare", "Dagbani", "Dangme", "Nzema", "Kasem", "Gonja", "Kusaal", "Buli", "Sisaala"]
+    },
+    "Religion": {
+      "2021 Census": {
+        "Christianity": 71.3,
+        "Protestantism": 49,
+        "Other Christian": 22.3,
+        "Islam": 19.9,
+        "Traditional Faiths": 3.2,
+        "No Religion": 1.1,
+        "Other / Unspecified": 4.5
+      }
+    },
+    "Demonym": "Ghanaian"
+  },
+  "Government": {
+    "Type": "Unitary presidential republic",
+    "Leaders": {
+      "President": "Nana Akufo-Addo",
+      "Vice President": "Mahamudu Bawumia",
+      "Speaker of Parliament": "Alban Bagbin",
+      "Chief Justice": "Gertrude Tokornoo"
+    },
+    "Legislature": "Parliament",
+    "Constitution": "28 April 1992"
+  },
+  "History": {
+    "Historical Kingdoms": ["Kingdom of Dagbon", "Bono state", "Ashanti Empire"],
+    "Colonial History": {
+      "Portuguese": "15th century",
+      "British Control": "19th century",
+      "Independence": "6 March 1957"
+    }
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Agriculture, mining, and oil production",
+    "Major Industries": ["Mining", "Agriculture", "Oil production", "Manufacturing"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 227.189,
+      "Per Capita (USD)": 6905
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 76.628,
+      "Per Capita (USD)": 2328
+    },
+    "Currency": "Cedi (GHS)",
+    "Gini Index": "43.5 (2016)",
+    "HDI": "0.632 (2021)"
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": ["United Nations", "African Union", "ECOWAS", "Non-Aligned Movement", "Commonwealth of Nations", "Group of 24"]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC (GMT)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+233",
+    "ISO 3166 Code": "GH",
+    "Internet TLD": ".gh",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Independence Day (March 6)",
+      "Good Friday (April)",
+      "Easter Monday (April)",
+      "Labour Day (May 1)",
+      "Africa Unity Day (May 25)",
+      "Republic Day (July 1)",
+      "Founder's Day (August 4)",
+      "Farmer's Day (First Friday of December)",
+      "Christmas Day (December 25)",
+      "Boxing Day (December 26)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of indigenous and colonial influences",
+    "Cultural Contributions": ["Traditional music and dance", "Cuisine", "Art"],
+    "Ethnic and Religious Diversity": true,
+    "Influence": "Significant in West Africa and Africa"
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.5,
+    "Exports Growth": "Driven by mining and oil production",
+    "Inflation Rate": "8.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Mining", "Agriculture", "Oil production"],
+      "Challenges": "Balancing economic growth with environmental sustainability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "GSE Composite Index",
+        "Expectation": "Steady growth into 2024"
+      },
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on West African culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Mining", "Agriculture", "Oil production"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air, and Sea transport",
+    "Key Transport Hubs": ["Accra", "Kumasi", "Takoradi"]
+  }
 }
