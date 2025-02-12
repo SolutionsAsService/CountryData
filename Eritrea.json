@@ -1,89 +1,178 @@
 {
-  "Eritrea": {
-  "Country": "State of Eritrea",
-  "TigrinyaName": "ኤርትራ",
+  "Name": {
+    "Common": "Eritrea",
+    "Official": "State of Eritrea",
+    "Native": {
+      "Tigrinya": "ኤርትራ"
+    }
+  },
   "Symbols": {
-    "Flag": "Flag of Eritrea",
-    "Emblem": "Emblem of Eritrea",
-    "Anthem": "ኤርትራ ኤርትራ ኤርትራ ('Eritrea, Eritrea, Eritrea')"
+    "Flag": "A red triangle extending from the hoist to the fly with a green triangle above and a blue triangle below, with a gold wreath and olive branch in the red triangle",
+    "Emblem": "A camel surrounded by a wreath",
+    "Anthem": {
+      "Title": "ኤርትራ ኤርትራ ኤርትራ",
+      "Translation": "Eritrea, Eritrea, Eritrea",
+      "Duration": "1 minute and 52 seconds"
+    }
   },
   "Geography": {
+    "Continent": "Africa",
+    "Region": "Horn of Africa, Eastern Africa",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Asmara",
+        "Latitude": "15°20′N",
+        "Longitude": "38°56′E"
+      }
+    },
     "Location": "Horn of Africa, Eastern Africa",
-    "Area": "117,600 square kilometres",
+    "Area": {
+      "Total (km2)": 117600,
+      "Rank": "99",
+      "Water Percentage": "N/A"
+    },
     "Terrain": {
-      "EasternLowlands": "Danakil Depression, coastal desert",
-      "WesternLowlands": "Fertile plains and rolling hills",
+      "Eastern Lowlands": "Danakil Depression, coastal desert",
+      "Western Lowlands": "Fertile plains and rolling hills",
       "Gash-Barka": "Blends highlands and western lowlands"
     },
-    "Climate": "Hot, dry desert strip along Red Sea coast; cooler and wetter in the central highlands",
-    "Borders": [
-      "Ethiopia",
-      "Sudan",
-      "Djibouti",
-      "Red Sea"
-    ]
+    "Climate": ["Hot, dry desert strip along Red Sea coast; cooler and wetter in the central highlands"],
+    "Borders": ["Ethiopia", "Sudan", "Djibouti", "Red Sea"],
+    "Natural Resources": ["Gold", "Copper", "Potash", "Zinc", "Oil", "Natural gas"],
+    "Time Zones": ["UTC+3"],
+    "Largest City": "Asmara"
   },
   "Demographics": {
-    "Population2023Estimate": 6275000,
-    "Capital": "Asmara",
-    "EthnicGroups": {
-      "Tigrinya": "50%",
-      "Tigre": "30%",
-      "Saho": "4%",
-       "Afar": "4%",
-      "Kunama": "4%",
-       "Bilen": "3%",
-       "Beja": "2%" ,
-        "Nara": "2%",
-        "Rashaida": "1%",
+    "Population": {
+      "2023 Estimate": 6275000,
+      "Density per km2": 53.4
+    },
+    "Ethnic Groups": {
+      "Tigrinya": 50,
+      "Tigre": 30,
+      "Saho": 4,
+      "Afar": 4,
+      "Kunama": 4,
+      "Bilen": 3,
+      "Beja": 2,
+      "Nara": 2,
+      "Rashaida": 1
     },
     "Languages": {
-      "Official": "None",
-      "RecognisedNational": [
-        "Tigrinya",
-        "Beja",
-        "Tigre",
-        "Kunama",
-        "Saho",
-        "Bilen",
-        "Nara",
-        "Afar"
-      ],
+      "Official": ["None"],
+      "Recognised National": ["Tigrinya", "Beja", "Tigre", "Kunama", "Saho", "Bilen", "Nara", "Afar"],
       "Working": ["Tigrinya", "Arabic", "English"]
     },
-    "Religions": "Christianity and Islam predominant"
+    "Religion": {
+      "Christianity": "50%",
+      "Islam": "50%"
+    },
+    "Demonym": "Eritrean"
   },
   "Government": {
     "Type": "Unitary one-party presidential republic under a totalitarian dictatorship",
-    "President": "Isaias Afwerki",
-    "Legislature": "National Assembly"
+    "Leaders": {
+      "President": "Isaias Afwerki"
+    },
+    "Legislature": "National Assembly",
+    "Constitution": "23 May 1997"
   },
   "History": {
-    "Ancient": "Part of Aksumite empire, early adoption of Christianity",
-    "Modern": "Italian and British occupation, federation and annexation by Ethiopia, independence in 1993"
+    "Early History": "Traces back to the Aksumite empire, early adoption of Christianity",
+    "Colonial Period": {
+      "Italian Colonization": "1889-1941",
+      "British Administration": "1941-1952"
+    },
+    "Modern History": {
+      "Federation with Ethiopia": "1952-1962",
+      "Annexation by Ethiopia": "1962",
+      "Independence War": "1961-1991",
+      "Independence": "24 May 1993"
+    }
   },
   "Economy": {
+    "Status": "Developing country",
     "Type": "Command economy",
-    "MajorSectors": ["Agriculture", "Subsistence farming"],
-    "GDP_PPP_2019": "$6.42 billion",
-    "GDP_Nominal_2019": "$1.98 billion",
-    "Currency": "Nakfa (ERN)"
+    "Dependence": "Agriculture, subsistence farming, mining",
+    "Major Sectors": ["Agriculture", "Subsistence farming"],
+    "GDP (PPP 2019)": {
+      "Total (Billion USD)": 6.42,
+      "Per Capita (USD)": 1023
+    },
+    "GDP (Nominal 2019)": {
+      "Total (Billion USD)": 1.98,
+      "Per Capita (USD)": 315
+    },
+    "Currency": "Nakfa (ERN)",
+    "Gini Index": "N/A",
+    "HDI": "0.596 (2021)"
   },
-  "Society": {
-    "UrbanizationRate": "43.3%",
-    "MajorUrbanAreas": ["Asmara"],
-    "LifeExpectancy": "67.2 years",
-    "LiteracyRate": "76.6%",
-    "HealthExpenditure": "4.1% of GDP"
+  "International Relations": {
+    "UN Member": true,
+    "African Union Member": true,
+    "Intergovernmental Authority on Development Member": true,
+    "Arab League Observer": true
   },
-  "EnvironmentalConcerns": ["Deforestation", "Desertification", "Soil erosion", "Overgrazing"],
-  "InternationalRelations": {
-    "Memberships": ["African Union", "United Nations", "Intergovernmental Authority on Development", "Arab League (observer)"]
+  "Miscellaneous": {
+    "Time Zone": ["UTC+3"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+291",
+    "ISO 3166 Code": "ER",
+    "Internet TLD": ".er",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Independence Day (May 24)",
+      "Martyrs' Day (June 20)",
+      "Revolution Day (September 1)",
+      "Christmas Day (December 25)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage influenced by ancient civilizations and colonial history",
+    "Cultural Contributions": ["Traditional music and dance", "Cuisine", "Art"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.0,
+    "Exports Growth": "Driven by mining and agriculture",
+    "Inflation Rate": "4.5%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Mining", "Agriculture"],
+      "Challenges": "Balancing economic growth with political stability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "N/A",
+        "Expectation": "Steady growth into 2024"
+      },
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Food Products": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Moderate urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Horn of Africa culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Mining", "Agriculture", "Telecommunications"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
   },
   "Challenges": {
     "Political": "Lack of elections, human rights concerns",
     "Economic": "One of the least developed countries",
     "Social": ["Limited press freedom", "Population distribution issues"]
   }
-}
 }
