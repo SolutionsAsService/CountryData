@@ -1,90 +1,182 @@
 {
-  "Egypt": {
-    "Name": {
-      "Common": "Egypt"
+  "Name": {
+    "Common": "Egypt",
     "Official": "Arab Republic of Egypt",
-    "Arabic": "جمهورية مصر العربية",
-    "transcription": "Jumhūrīyat Miṣr al-ʻArabīyah"
+    "Native": {
+      "Arabic": "جمهورية مصر العربية",
+      "Transcription": "Jumhūrīyat Miṣr al-ʻArabīyah"
+    }
+  },
+  "Symbols": {
+    "Flag": "Three equal horizontal bands of red (top), white, and black with the national emblem (a gold Eagle of Saladin facing the hoist side with a shield superimposed on its chest above a scroll bearing the name of the country in Arabic) centered in the white band",
+    "Emblem": "The Eagle of Saladin holding a scroll with the name of the country in Arabic",
+    "Motto": {
+      "Arabic": "الله، الوطن، الرئيس",
+      "Translation": "God, Homeland, President"
     },
-    "Status": ["Islamic Terrorism", "Islamic Insurgency"],
-    "geography": {
-      "location": "Transcontinental (Africa and Asia)",
-      "coordinates": "30°2′N 31°13′E",
-      "borders": {
-     "Mediterranean Sea": "North", 
-     "Gaza Strip": "East", 
-     "Israel": "East", 
-     "Red Sea": "East", 
-     "Sudan": "South", 
-     "Libya": "East"
-      },
-      "Red_Sea_separates_from": ["Jordan", "Saudi Arabia"],
-      "total_area_km2": 1010408,
-      "water_percentage": 0.632
-    },
-    "demographics": {
-      "population_estimate_2023": 110000000,
-      "population_rank": 14,
-      "density_per_km2": 103.56
-    },
-    "capital_largest_city": "Cairo",
-    "major_cities": ["Alexandria"],
-    "official_language": "Arabic",
-    "national_language": "Egyptian Arabic",
-    "religion": "Predominantly Islam with a Christian minority",
-    "government": {
-      "type": "Unitary semi-presidential republic",
-      "president": "Abdel Fattah el-Sisi",
-      "prime_minister": "Moustafa Madbouly",
-      "legislature": {
-        "upper_house": "Senate",
-        "lower_house": "House of Representatives"
+    "Anthem": {
+      "Title": "Bilady, Bilady, Bilady",
+      "Translation": "My Homeland, My Homeland, My Homeland",
+      "Duration": "1 minute and 4 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": ["Africa", "Asia"],
+    "Region": "North Africa",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Cairo",
+        "Latitude": "30°2′N",
+        "Longitude": "31°13′E"
       }
     },
-    "economy": {
-      "GDP_PPP_2023_estimate": {
-        "total": "$1.809 trillion",
-        "per_capita": "$17,123"
+    "Location": "Transcontinental (Africa and Asia)",
+    "Area": {
+      "Total (km2)": 1010408,
+      "Rank": "30",
+      "Water Percentage": "0.632%"
+    },
+    "Borders": {
+      "North": "Mediterranean Sea",
+      "East": ["Gaza Strip", "Israel", "Red Sea"],
+      "South": "Sudan",
+      "West": "Libya"
+    },
+    "Red Sea Separates From": ["Jordan", "Saudi Arabia"],
+    "Time Zones": ["UTC+2 (EET)"],
+    "Largest City": "Cairo",
+    "Natural Resources": ["Petroleum", "Natural gas", "Iron ore", "Phosphates", "Manganese", "Limestone", "Gypsum", "Talc", "Asbestos", "Lead", "Rare earth elements", "Zinc"],
+    "Climate": ["Desert; hot, dry summers with moderate winters"]
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 110000000,
+      "Density per km2": 103.56,
+      "Rank": "14"
+    },
+    "Ethnic Groups": {
+      "Egyptians": "99.7%",
+      "Other": "0.3%"
+    },
+    "Languages": {
+      "Official": ["Arabic"],
+      "National": ["Egyptian Arabic"]
+    },
+    "Religion": {
+      "Islam": "90%",
+      "Christianity": "10%"
+    },
+    "Demonym": "Egyptian"
+  },
+  "Government": {
+    "Type": "Unitary semi-presidential republic",
+    "Leaders": {
+      "President": "Abdel Fattah el-Sisi",
+      "Prime Minister": "Moustafa Madbouly"
+    },
+    "Legislature": {
+      "Upper House": "Senate",
+      "Lower House": "House of Representatives"
+    },
+    "Constitution": "18 January 2014"
+  },
+  "History": {
+    "Early History": "Traces back to the 6th–4th millennia BCE",
+    "Ancient Civilization": "Cradle of civilization with early developments in writing, agriculture, and government",
+    "Modern History": {
+      "Independence": "1922 from British Empire",
+      "Post Independence": {
+        "Revolution": "1952",
+        "Republic Declaration": "1953",
+        "United Arab Republic": "1958-1961",
+        "Camp David Accords": "1978"
       },
-      "GDP_nominal_2023_estimate": {
-        "total": "$398.397 billion",
-        "per_capita": "$3,770"
+      "Arab Spring": "2011"
+    },
+    "Current Government": "Semi-presidential republic since 2014"
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Dependent on commodity exports, tourism, and foreign aid",
+    "Major Industries": ["Petroleum", "Natural gas", "Tourism", "Textiles", "Agriculture"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 1809,
+      "Per Capita (USD)": 17123
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 398.397,
+      "Per Capita (USD)": 3770
+    },
+    "Currency": "Egyptian pound (EGP)",
+    "Gini Index": "31.5 (2017)",
+    "HDI": "0.731 (2021)"
+  },
+  "International Relations": {
+    "UN Member": true,
+    "Non-Aligned Movement Member": true,
+    "Arab League Member": true,
+    "African Union Member": true,
+    "Organisation of Islamic Cooperation Member": true,
+    "World Youth Forum Member": true
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+2 (EET)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+20",
+    "ISO 3166 Code": "EG",
+    "Internet TLD": [".eg", ".مصر"]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage reflecting its transcontinental location",
+    "Cultural Contributions": ["Pyramids", "Sphinx", "Ancient Egyptian art and architecture"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 4.0,
+    "Exports Growth": "Driven by petroleum, natural gas, and tourism",
+    "Inflation Rate": "8.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Energy", "Tourism"],
+      "Challenges": "Balancing economic growth with environmental sustainability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "N/A",
+        "Expectation": "Steady growth into 2024"
       },
-      "Gini_2017": 31.5,
-      "HDI_2021": 0.731
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Food Products": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
     },
-    "currency": "Egyptian pound (EGP)",
-    "time_zone": "UTC+2 (EET)",
-    "driving_side": "right",
-    "calling_code": "+20",
-    "ISO_3166_code": "EG",
-    "internet_TLD": [".eg", ".مصر"],
-    "history": {
-      "early_history": "Traces back to the 6th–4th millennia BCE",
-      "ancient_civilization": "Cradle of civilization with early developments in writing, agriculture, and government",
-      "modern_history": {
-        "independence": "1922 from British Empire",
-        "post_independence": {
-          "revolution": "1952",
-          "republic_declaration": "1953",
-          "United_Arab_Republic": "1958-1961",
-          "Camp_David_Accords": "1978"
-        },
-        "Arab_Spring": "2011"
-      },
-      "current_government": "Semi-presidential republic since 2014"
+    "Cultural Heritage": {
+      "Influence": "Significant on North African and Middle Eastern culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
     },
-    "culture": "Rich and integral, reflecting its transcontinental location",
-    "status": {
-      "regional_power": ["North Africa", "Middle East", "Muslim world"],
-      "middle_power_worldwide": true,
-      "developing_nation": true
+    "Technology and Innovation": {
+      "Growth Sectors": ["Energy", "Agriculture", "Telecommunications"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
     },
-    "economy_rank": {
-      "Africa": 3,
-      "world_by_nominal_GDP": 38,
-      "world_by_nominal_GDP_per_capita": 127
-    },
-    "memberships": ["United Nations", "Non-Aligned Movement", "Arab League", "African Union", "Organisation of Islamic Cooperation", "World Youth Forum"]
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Status": {
+    "Regional Power": ["North Africa", "Middle East", "Muslim world"],
+    "Middle Power Worldwide": true,
+    "Developing Nation": true
+  },
+  "Economy Rank": {
+    "Africa": 3,
+    "World by Nominal GDP": 38,
+    "World by Nominal GDP per Capita": 127
   }
 }
