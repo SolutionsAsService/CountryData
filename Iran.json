@@ -1,109 +1,223 @@
 {
-  "Iran": {
-    "Name": {
-  "Common": "Iran",
-  "AKA": "Persia",
-  "Official": "Islamic Republic of Iran",
+  "Name": {
+    "Common": "Iran",
+    "AKA": "Persia",
+    "Official": "Islamic Republic of Iran"
+  },
+  "Status": ["Kurdish Separatism"],
+  "Symbols": {
+    "Motto": "Allāhu Akbar (God is the Greatest)",
+    "Anthem": {
+      "Title": "National Anthem of the Islamic Republic of Iran",
+      "Duration": "1 minute and 23 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Asia",
+    "Region": "Crossroads of West, Central, and South Asia",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Tehran",
+        "Latitude": "35.6892° N",
+        "Longitude": "51.3890° E"
+      }
     },
-  "Status": ["Kurdish Separatism"]
-   "Symbols": {
-  "motto": "Allāhu Akbar (God is the Greatest)",
-  "anthem": "National Anthem of the Islamic Republic of Iran",
-   },
-  "location": "Crossroads of West, Central, and South Asia",
-   "Borders": {
+    "Location": "Crossroads of West, Central, and South Asia",
+    "Borders": {
       "Jordan": "West",
-      "Turkeye": "Northwest",
+      "Turkey": "Northwest",
       "Iraq": "West",
       "Azerbaijan": "North",
       "Armenia": "North",
-      "the Caspian Sea": "North",
+      "Caspian Sea": "North",
       "Turkmenistan": "North",
       "Afghanistan": "East",
       "Pakistan": "Southeast",
       "Gulf of Oman": "South",
-      "Persian Gulf": "South",
-   },
-  "geographical_description": "varied",
-  "capital_and_largest_city": "Tehran",
-  "official_language": "Persian",
-  "recognised_regional_languages": {
-    "Azerbaijani and other Turkic languages": "18%",
-    "Kurdish": "10%",
-    "Gilaki and Mazanderani": "7%",
-    "Luri": "6%",
-    "Balochi": "2%",
-    "Arabic": "2%",
-    "other": "2% (incl. Armenian, Assyrian, Georgian, Laki, Semnani, Talysh, Tati)"
+      "Persian Gulf": "South"
+    },
+    "Terrain": ["Mountainous, desert, coastal plains"],
+    "Climate": ["Varied, arid or semi-arid, subtropical along the Caspian coast"],
+    "Natural Resources": ["Petroleum, natural gas, coal, chromium, copper, iron ore, lead, manganese, zinc, sulfur"],
+    "Time Zones": ["UTC+3:30 (IRST)"],
+    "Largest City": "Tehran"
   },
-  "ethnic_groups_2003_estimate": {
-    "Predominantly Persians": "All",
-    "Azeris": "",
-    "Kurds": "",
-    "Mazanderanis": "",
-    "Lurs": "",
-    "Gilaks": "",
-    "Arabs": "",
-    "Armenians": "",
-    "Turkmens": "",
-    "Baloch": "",
-    "Talysh": "",
-    "Tat": ""
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 87590873,
+      "Density (per km2)": 55
+    },
+    "Ethnic Groups": {
+      "2003 Estimate": {
+        "Predominantly Persians": "All",
+        "Azeris": "",
+        "Kurds": "",
+        "Mazanderanis": "",
+        "Lurs": "",
+        "Gilaks": "",
+        "Arabs": "",
+        "Armenians": "",
+        "Turkmens": "",
+        "Baloch": "",
+        "Talysh": "",
+        "Tat": ""
+      }
+    },
+    "Languages": {
+      "Official": ["Persian"],
+      "Recognised Regional": {
+        "Azerbaijani and other Turkic languages": "18%",
+        "Kurdish": "10%",
+        "Gilaki and Mazanderani": "7%",
+        "Luri": "6%",
+        "Balochi": "2%",
+        "Arabic": "2%",
+        "Other": "2% (incl. Armenian, Assyrian, Georgian, Laki, Semnani, Talysh, Tati)"
+      }
+    },
+    "Religion": {
+      "2011": {
+        "Islam": 99,
+        "Shia Islam (official)": 90,
+        "Sunni Islam": 9,
+        "Baha'i Faith": 0.4,
+        "Christianity": 0.1,
+        "Jews": 0.01,
+        "Other": 0.4
+      }
+    },
+    "Demonym": "Iranian"
   },
-  "religion_2011": {
-    "Islam": "99%",
-    "Shia Islam (official)": "90%",
-    "Sunni Islam": "9%",
-    "Baha'i Faith": "0.4%",
-    "Christianity": "0.1%",
-    "Jews": "0.01%",
-    "Others": "0.4%"
+  "Government": {
+    "Type": "Unitary presidential theocratic Islamic republic",
+    "Leaders": {
+      "Supreme Leader": "Ali Khamenei",
+      "President": "Ebrahim Raisi",
+      "Vice President": "Mohammad Mokhber",
+      "Speaker of the Parliament": "Mohammad Bagher Ghalibaf",
+      "Secretary of the Guardian Council": "Ahmad Jannati",
+      "Chief Justice": "Gholam-Hossein Mohseni-Eje'i"
+    },
+    "Legislature": "Islamic Consultative Assembly",
+    "Constitution": "3 December 1979, Latest amendment: 28 July 1989"
   },
-  "demonym": "Iranian",
-  "government": "Unitary presidential theocratic Islamic republic",
-  "head_of_state": {
-    "Supreme Leader": "Ali Khamenei",
-    "President": "Ebrahim Raisi",
-    "Vice President": "Mohammad Mokhber",
-    "Speaker of the Parliament": "Mohammad Bagher Ghalibaf",
-    "Secretary of the Guardian Council": "Ahmad Jannati",
-    "Chief Justice": "Gholam-Hossein Mohseni-Eje'i"
-  },
-  "legislature": "Islamic Consultative Assembly",
-  "establishment_history": {
+  "History": {
     "Median Empire": "c. 678 BC",
     "Achaemenid Empire": "550 BC",
     "Parthian Empire": "247 BC",
     "Sasanian Empire": "224 AD",
-    "Buyid dynasty": "934",
+    "Buyid Dynasty": "934",
     "Safavid Empire": "1501",
     "Afsharid Iran": "1736",
-    "Zand dynasty": "1751",
+    "Zand Dynasty": "1751",
     "Qajar Iran": "1796",
     "Pahlavi Iran": "15 December 1925",
-    "Iranian Revolution": "11 February 1979",
-    "Current constitution": "3 December 1979",
-    "Latest amendment": "28 July 1989"
+    "Iranian Revolution": "11 February 1979"
   },
-  "area_km2": "1,648,195",
-  "population_2023_estimate": "87,590,873",
-  "population_density_per_km2": "55",
-  "gdp_ppp_2023_estimate": {
-    "total": "$1.725 trillion",
-    "per_capita": "$19,942"
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Petroleum, natural gas, agriculture",
+    "Major Industries": ["Petroleum, petrochemicals, textiles, cement and other building materials, food processing, metal fabrication, armaments"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 1725,
+      "Per Capita (USD)": 19942
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 366.438,
+      "Per Capita (USD)": 4234
+    },
+    "Currency": "Iranian rial (IRR)",
+    "Gini Index": 40.9,
+    "HDI": 0.774
   },
-  "gdp_nominal_2023_estimate": {
-    "total": "$366.438 billion",
-    "per_capita": "$4,234"
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": ["United Nations", "Non-Aligned Movement", "Organisation of Islamic Cooperation", "OPEC", "Shanghai Cooperation Organisation"]
   },
-  "gini_2019": "40.9 (medium)",
-  "hdi_2021": "0.774 (high)",
-  "currency": "Iranian rial (IRR)",
-  "time_zone": "UTC+3:30 (IRST)",
-  "date_format": "yyyy/mm/dd (SH)",
-  "driving_side": "right",
-  "calling_code": "+98",
-  "iso_3166_code": "IR",
-  "internet_tld": [".ir", ".ایران"]
-}
+  "Miscellaneous": {
+    "Time Zone": ["UTC+3:30 (IRST)"],
+    "Date Format": ["yyyy/mm/dd (SH)"],
+    "Driving Side": "Right",
+    "Calling Code": "+98",
+    "ISO 3166 Code": "IR",
+    "Internet TLD": [".ir", ".ایران"],
+    "Public Holidays": [
+      "Nowruz (March 21)",
+      "Islamic Republic Day (April 1)",
+      "Nationalization of Oil Industry (March 20)",
+      "Revolution Day (February 11)",
+      "Eid al-Fitr (Varies)",
+      "Eid al-Adha (Varies)",
+      "Ashura (Varies)",
+      "Arba'een (Varies)",
+      "Birthday of Prophet Muhammad (Varies)",
+      "Imam Ali's Birthday (Varies)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of Persian, Islamic, and Western influences",
+    "Cultural Contributions": ["Persian literature", "Carpets", "Cuisine", "Music", "Architecture"],
+    "Unique Features": ["One of the world's oldest continuous major civilizations", "UNESCO World Heritage Sites"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 2.0,
+    "Exports Growth": "Driven by petroleum and petrochemicals",
+    "Inflation Rate": "25.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Petroleum", "Agriculture"],
+      "Challenges": "Balancing economic growth with political stability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "TEDPIX",
+        "Expectation": "Steady growth into 2024"
+      },
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Middle Eastern culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Petroleum", "Manufacturing", "Agriculture"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air, and Sea transport",
+    "Key Transport Hubs": ["Tehran", "Mashhad", "Isfahan"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Occasional protests and political unrest",
+    "Economic Hardships": "High inflation and unemployment rates",
+    "Natural Disasters": ["Earthquakes"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "76.2 years",
+    "Infant Mortality Rate": "12.9 deaths/1,000 live births",
+    "Health Expenditure of GDP": "6.7% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "3.8% (2020)",
+    "Literacy Rate": {
+      "Total": "85.5%",
+      "Male": "90%",
+      "Female": "81%"
+    }
+  }
 }
