@@ -1,122 +1,229 @@
 {
-  "Guatemala":{
-  "country": "Guatemala",
-  "official_name": "Republic of Guatemala",
-  "SpanishName": "República de Guatemala",
-  "pronunciation": "[ˌɡwɑːtəˈmɑːlə] GWAH-tə-MAH-lə",
-  "flag_description": "Flag of Guatemala",
-  "coat_of_arms_description": "Coat of arms of Guatemala",
-  "motto": "Libre Crezca Fecundo (Grow Free and Fertile)",
-  "anthem": {
-    "title": "Himno Nacional de Guatemala (National Anthem of Guatemala)",
-    "duration": "1 minute and 38 seconds"
-  },
-  "march": {
-    "title": "La Granadera (The Song of the Grenadier)",
-    "duration": "1 minute and 46 seconds"
-  },
-  "location": "Central America",
-  "borders": ["Mexico", "Belize", "Honduras", "El Salvador"],
-  "maritime_borders": ["Pacific Ocean", "Gulf of Honduras"],
-  "capital_and_largest_city": "Guatemala City (Nueva Guatemala de la Asunción)",
-  "official_language": "Spanish",
-  "ethnic_groups_2018": {
-    "Ladino_Mestizo": "56.01%",
-    "Maya": "41.66%",
-    "Xinca": "1.77%",
-    "Afro-Guatemalan": "0.19%",
-    "Garifuna": "0.13%",
-    "Other": "0.24%"
-  },
-  "religion_2017": {
-    "Christianity": "88%",
-    "Roman_Catholic": "45%",
-    "Protestant": "42%",
-    "Other_Christian": "1%",
-    "No_Religion": "11%",
-    "Other": "1%"
-  },
-  "government": {
-    "type": "Unitary presidential republic",
-    "president": "Alejandro Giammattei",
-    "vice_president": "Guillermo Castillo",
-    "president_of_congress": "Shirley Rivera"
-  },
-  "legislature": "Congress of the Republic",
-  "independence": {
-    "from_Spanish_Empire": "15 September 1821",
-    "from_First_Mexican_Empire": "1 July 1823",
-    "from_Federal_Republic_of_Central_America": "17 April 1839",
-    "current_constitution": "31 May 1985"
-  },
-  "area_km2": 108889,
-  "population_2023_estimate": 17980803,
-  "density_per_km2": 129,
-  "GDP_PPP_2023_estimate": {
-    "total": "$201.365 billion",
-    "per_capita": "$10,595"
-  },
-  "GDP_nominal_2023_estimate": {
-    "total": "$102.765 billion",
-    "per_capita": "$5,407"
-  },
-  "Gini_2014": "48.3",
-  "HDI_2021": "0.627",
-  "currency": "Quetzal (GTQ)",
-  "time_zone": "UTC−6",
-  "driving_side": "right",
-  "calling_code": "+502",
-  "ISO_3166_code": "GT",
-  "internet_TLD": ".gt",
-  "historical_background": {
-    "Maya_civilization": "16th century",
-    "Spanish_conquest": "16th century",
-    "independence": "1821",
-    "civil_war": "1960 to 1996",
-    "peace_accord": "Negotiated by United Nations"
-  },
-  "current_challenges": {
-    "corruption": "Significant issue",
-    "judicial_independence": "Compromised",
-    "freedom_of_expression": "Hostile environment for journalists",
-    "human_rights": "Increased abuses against defenders",
-    "women_and_girls_rights": "High levels of gender-based violence",
-    "sexual_orientation_and_gender_identity": "Lack of protection for LGBT people"
-  },
-  "urban_population": {
-    "Guatemala_City": "2.45 million",
-    "Villa_Nueva": "1.5 million",
-    "Mixco": "690,000",
-    "San_Miguel_Petapa": "180,000"
-  },
-  "population_growth": {
-    "2024_forecast": 18358430,
-    "2025_forecast": 18636532
-  },
-  "demographics": {
-    "life_expectancy": "70.15 years",
-        "infant_mortality": "20.6 (per 1,000 live births)",
-    "deaths_under_age_5": "24.9 (per 1,000 live births)",
-    "median_age": "23.2 years",
-    "population_by_age": {
-      "adults_over_18": "Significant portion of the population"
+  "Name": {
+    "Common": "Guatemala",
+    "Official": "Republic of Guatemala",
+    "Native": {
+      "Spanish": "República de Guatemala",
+      "Pronunciation": "[ˌɡwɑːtəˈmɑːlə] GWAH-tə-MAH-lə"
     }
   },
-  "culture": {
-    "multiethnic": true,
-    "influences": "Indigenous and Spanish"
+  "Symbols": {
+    "Flag": "A vertical tricolor of blue, white, and blue with the national emblem centered on the white band",
+    "Emblem": "A quetzal bird, a parchment scroll, crossed rifles and swords, and a laurel wreath",
+    "Motto": "Libre Crezca Fecundo (Grow Free and Fertile)",
+    "Anthem": {
+      "Title": "Himno Nacional de Guatemala (National Anthem of Guatemala)",
+      "Duration": "1 minute and 38 seconds"
+    },
+    "March": {
+      "Title": "La Granadera (The Song of the Grenadier)",
+      "Duration": "1 minute and 46 seconds"
+    }
   },
-  "challenges": {
-    "food_insecurity": "4.6 million facing due to global crises",
-    "biodiversity": "Part of Mesoamerican Biological Corridor"
+  "Geography": {
+    "Continent": "North America",
+    "Region": "Central America",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Guatemala City",
+        "Latitude": "14°38′N",
+        "Longitude": "90°30′W"
+      }
+    },
+    "Location": "Central America, bordered by Mexico, Belize, Honduras, and El Salvador",
+    "Area": {
+      "Total (km2)": 108889,
+      "Rank": "105",
+      "Water Percentage": "N/A"
+    },
+    "Borders": ["Mexico", "Belize", "Honduras", "El Salvador"],
+    "Maritime Borders": ["Pacific Ocean", "Gulf of Honduras"],
+    "Terrain": ["Mountainous with narrow coastal plains and rolling limestone plateau"],
+    "Climate": ["Tropical with hot, humid lowlands and cooler highlands"],
+    "Natural Resources": ["Petroleum", "Nickel", "Rare woods", "Fish", "Chicle", "Hydropower"],
+    "Time Zones": ["UTC−6"],
+    "Largest City": "Guatemala City"
   },
-  "political_climate": {
-    "corruption": "High levels and declining ability to prevent",
-    "judicial_independence": "Significant issues with accountability",
-    "freedom_of_expression": "Hostile environment for journalists and media",
-    "attacks_on_human_rights_defenders": "Increased incidents",
-    "women_and_girls_rights": "High incidence of gender-based violence and femicides",
-    "sexual_orientation_and_gender_identity": "Lack of adequate protection"
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 17980803,
+      "Density per km2": 129
+    },
+    "Ethnic Groups": {
+      "2018": {
+        "Ladino/Mestizo": 56.01,
+        "Maya": 41.66,
+        "Xinca": 1.77,
+        "Afro-Guatemalan": 0.19,
+        "Garifuna": 0.13,
+        "Other": 0.24
+      }
+    },
+    "Languages": {
+      "Official": ["Spanish"],
+      "Recognised Regional": ["23 Indigenous languages"]
+    },
+    "Religion": {
+      "2017": {
+        "Christianity": 88,
+        "Roman Catholic": 45,
+        "Protestant": 42,
+        "Other Christian": 1,
+        "No Religion": 11,
+        "Other": 1
+      }
+    },
+    "Demonym": "Guatemalan"
+  },
+  "Government": {
+    "Type": "Unitary presidential republic",
+    "Leaders": {
+      "President": "Alejandro Giammattei",
+      "Vice President": "Guillermo Castillo",
+      "President of Congress": "Shirley Rivera"
+    },
+    "Legislature": "Congress of the Republic",
+    "Constitution": "31 May 1985"
+  },
+  "History": {
+    "Maya Civilization": "16th century",
+    "Spanish Conquest": "16th century",
+    "Independence": {
+      "From Spanish Empire": "15 September 1821",
+      "From First Mexican Empire": "1 July 1823",
+      "From Federal Republic of Central America": "17 April 1839"
+    },
+    "Civil War": "1960 to 1996",
+    "Peace Accord": "Negotiated by United Nations"
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Agriculture, textiles, and remittances",
+    "Major Industries": ["Sugar", "Textiles", "Clothing", "Furniture", "Chemicals", "Petroleum", "Metals"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 201.365,
+      "Per Capita (USD)": 10595
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 102.765,
+      "Per Capita (USD)": 5407
+    },
+    "Currency": "Quetzal (GTQ)",
+    "Gini Index": "48.3 (2014)",
+    "HDI": "0.627 (2021)"
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": ["United Nations", "Organization of American States", "Central American Integration System"]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC−6"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+502",
+    "ISO 3166 Code": "GT",
+    "Internet TLD": ".gt",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Holy Thursday (April)",
+      "Good Friday (April)",
+      "Labor Day (May 1)",
+      "Army Day (June 30)",
+      "Independence Day (September 15)",
+      "Revolution Day (October 20)",
+      "All Saints' Day (November 1)",
+      "Christmas Day (December 25)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of Indigenous and Spanish influences",
+    "Cultural Contributions": ["Traditional music and dance", "Cuisine", "Art"],
+    "Multiethnic": true,
+    "Influences": ["Indigenous and Spanish"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.5,
+    "Exports Growth": "Driven by agriculture and textiles",
+    "Inflation Rate": "4.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Agriculture", "Textiles"],
+      "Challenges": "Balancing economic growth with environmental sustainability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "N/A",
+        "Expectation": "Steady growth into 2024"
+      },
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Central American culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Agriculture", "Textiles"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Air, and Sea transport",
+    "Key Transport Hubs": ["Guatemala City", "Quetzaltenango", "Puerto Barrios"]
+  },
+  "Current Challenges": {
+    "Corruption": "Significant issue",
+    "Judicial Independence": "Compromised",
+    "Freedom of Expression": "Hostile environment for journalists",
+    "Human Rights": "Increased abuses against defenders",
+    "Women and Girls' Rights": "High levels of gender-based violence",
+    "Sexual Orientation and Gender Identity": "Lack of protection for LGBT people"
+  },
+  "Urban Population": {
+    "Guatemala City": "2.45 million",
+    "Villa Nueva": "1.5 million",
+    "Mixco": "690,000",
+    "San Miguel Petapa": "180,000"
+  },
+  "Population Growth": {
+    "2024 Forecast": 18358430,
+    "2025 Forecast": 18636532
+  },
+  "Demographics": {
+    "Life Expectancy": "70.15 years",
+    "Infant Mortality": "20.6 (per 1,000 live births)",
+    "Deaths Under Age 5": "24.9 (per 1,000 live births)",
+    "Median Age": "23.2 years",
+    "Population by Age": {
+      "Adults Over 18": "Significant portion of the population"
+    }
+  },
+  "Culture": {
+    "Multiethnic": true,
+    "Influences": "Indigenous and Spanish"
+  },
+  "Challenges": {
+    "Food Insecurity": "4.6 million facing due to global crises",
+    "Biodiversity": "Part of Mesoamerican Biological Corridor"
+  },
+  "Political Climate": {
+    "Corruption": "High levels and declining ability to prevent",
+    "Judicial Independence": "Significant issues with accountability",
+    "Freedom of Expression": "Hostile environment for journalists and media",
+    "Attacks on Human Rights Defenders": "Increased incidents",
+    "Women and Girls' Rights": "High incidence of gender-based violence and femicides",
+    "Sexual Orientation and Gender Identity": "Lack of adequate protection"
   }
-}
 }
