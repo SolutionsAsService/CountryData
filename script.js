@@ -105,4 +105,3 @@ function displayCountryData(country) {
 
     document.getElementById('info').innerHTML = infoHtml;
 }
-``` ▋
