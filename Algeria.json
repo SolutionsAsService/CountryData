@@ -1,84 +1,92 @@
 {
-  "Algeria":{
-    "Name":{
+  "Name": {
     "Common": "Algeria",
-    "Full": "People's Democratic Republic of Algeria",
+    "Official": "People's Democratic Republic of Algeria",
     "Arabic": "الجمهورية الجزائرية الديمقراطية الشعبية",
     "French": "République algérienne démocratique et populaire"
   },
-  "Status": ["Islamic Insurgency"],
-  "Location": {
-    "Continent": "North Africa",
+  "Geography": {
+    "Capital City": "Algiers",
+    "Largest City": "Algiers",
+    "Major Cities": ["Oran", "Constantine", "Annaba"],
+    "Area": {
+      "Total (km2)": 2381741
+    },
     "Borders": ["Tunisia", "Libya", "Niger", "Mali", "Mauritania", "Western Sahara", "Morocco"],
+    "Region": "Maghreb",
+    "Coordinates": "28°0′N, 3°0′E",
     "Coastline": "Mediterranean Sea",
-    "Geography": "Semi-arid, Sahara in the south",
-    "Area_sq_km": "2,381,741",
-    "Region": "Maghreb"
+    "Landscape": ["Semi-arid", "Sahara in the south"],
+    "Climate": "Varied"
   },
-  "Population": {
-    "2022_Estimate": "45,400,000",
-    "Density_per_sq_km": "19",
-    "Majority_Group": "Arab",
-    "Minority_Groups": ["Berbers"],
-    "Languages": {
-      "Official": ["Arabic", "Tamazight"],
-      "Other": ["Algerian Arabic", "French"]
+  "Government": {
+    "Type": "Unitary semi-presidential republic",
+    "President": "Abdelmadjid Tebboune",
+    "Prime Minister": "Nadir Larbaoui",
+    "Legislature": {
+      "Upper House": "Council of the Nation",
+      "Lower House": "People's National Assembly"
+    },
+    "Local Administration": {
+      "Provinces": 58,
+      "Communes": 1541
+    }
+  },
+  "History": {
+    "Prehistoric": "Oldest archaeological materials in North Africa found in Ain Hanech",
+    "Ancient History": {
+      "Phoenician": "Settlements established along the North African coast",
+      "Carthaginian": "Major influence on indigenous population",
+      "Numidian Kingdom": "Berbers formed a significant part of Carthaginian army"
+    },
+    "Roman Empire": {
+      "Annexation": "After Masinissa's death in 148 BC",
+      "Colonial Activity": "Founded many colonies, major breadbasket of empire"
+    },
+    "Middle Ages": {
+      "Muslim Conquest": "8th century by Umayyad Caliphate",
+      "Local Dynasties": ["Rustamids", "Aghlabids", "Fatimids", "Zirids", "Hammadids", "Almoravids", "Almohads", "Zayyanids"],
+      "Christian Exit": "Evacuated to Sicily by Normans"
+    },
+    "Fatimid Caliphate": "Ruled much of North Africa circa 960–1100"
+  },
+  "Economy": {
+    "GDP (PPP 2023) Total (Billion USD)": 628.990,
+    "GDP per Capita (PPP USD)": 13681,
+    "GDP (Nominal 2023) Total (Billion USD)": 224.107,
+    "GDP per Capita (Nominal USD)": 4874,
+    "Main Sectors": ["Energy exports"],
+    "Natural Resources": ["Oil", "Natural gas"],
+    "Oil Reserves Ranking": 16,
+    "Natural Gas Reserves Ranking": 9,
+    "Currency": "Dinar (DZD)"
+  },
+  "Demographics": {
+    "Population": {
+      "2022 Estimate": 45400000,
+      "Density per km2": 19
+    },
+    "Languages and Ethnic Groups": {
+      "Official Languages": ["Arabic", "Tamazight"],
+      "Other Languages": ["Algerian Arabic", "French"],
+      "Ethnic Groups": ["Arab", "Berbers"]
     },
     "Religion": {
       "Majority": "Sunni Islam",
       "Minority": "Others including Christians and Jews"
     }
   },
-  "Government": {
-    "Type": "Unitary semi-presidential republic",
-    "President": "Abdelmadjid Tebboune",
-    "Prime_Minister": "Nadir Larbaoui",
-    "Legislature": {
-      "Upper_House": "Council of the Nation",
-      "Lower_House": "People's National Assembly"
-    },
-    "Local_Administration": {
-      "Provinces": 58,
-      "Communes": 1541
-    }
+  "Miscellaneous": {
+    "Human Development Index (2021)": 0.745,
+    "Currency": "Dinar (DZD)",
+    "Calling Code": "+213",
+    "Internet TLD": [".dz"],
+    "UNESCO World Heritage Sites": 7,
+    "Public Holidays": [
+      "New Year's Day", "Labor Day", "Independence Day", "Revolution Day", "Eid al-Fitr", "Eid al-Adha", "Islamic New Year", "Prophet's Birthday"
+    ]
   },
-  "Economy": {
-    "GDP_PPP_2023": "$628.990 billion",
-    "GDP_Per_Capita_PPP": "$13,681",
-    "GDP_Nominal_2023": "$224.107 billion",
-    "GDP_Per_Capita_Nominal": "$4,874",
-    "Main_Industries": ["Energy exports"],
-    "Natural_Resources": ["Oil", "Natural gas"],
-    "Oil_Reserves_Ranking": 16,
-    "Natural_Gas_Reserves_Ranking": 9
-  },
-  "Military": {
-    "Size": "One of the largest in Africa",
-    "Budget": "Largest in Africa"
-  },
-  "International_Relations": {
-    "Member_Of": ["African Union", "Arab League", "OIC", "OPEC", "United Nations", "Arab Maghreb Union"]
-  },
-  "Historical_Era": {
-    "Prehistoric": "Oldest archaeological materials in North Africa found in Ain Hanech",
-    "Ancient_History": {
-      "Phoenician": "Settlements established along the North African coast",
-      "Carthaginian": "Major influence on indigenous population",
-      "Numidian_Kingdom": "Berbers formed a significant part of Carthaginian army"
-    },
-    "Roman_Empire": {
-      "Annexation": "After Masinissa's death in 148 BC",
-      "Colonial_Activity": "Founded many colonies, major breadbasket of empire"
-    },
-    "Middle_Ages": {
-      "Muslim_Conquest": "8th century by Umayyad Caliphate",
-      "Local_Dynasties": ["Rustamids", "Aghlabids", "Fatimids", "Zirids", "Hammadids", "Almoravids", "Almohads", "Zayyanids"],
-      "Christian_Exit": "Evacuated to Sicily by Normans"
-    },
-    "Fatimid_Caliphate": "Ruled much of North Africa circa 960–1100"
-  },
-  "References": [
-    "Wikipedia": "https://en.wikipedia.org/wiki/Algeria"
-  ]
-}
+  "International Relations": {
+    "Member Of": ["African Union", "Arab League", "OIC", "OPEC", "United Nations", "Arab Maghreb Union"]
+  }
 }
