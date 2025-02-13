@@ -1,7 +1,8 @@
 {
-  "Zimbabwe": {
-  "Name": "Zimbabwe",
-  "FullName": "Republic of Zimbabwe",
+  "Name": {
+  "Common": "Zimbabwe",
+  "FullName": "Republic of Zimbabwe"
+  },
   "Geography": {
     "Location": "Southern Africa, between the Zambezi and Limpopo Rivers",
     "Borders": {
@@ -152,5 +153,4 @@
     },
     "ZIMSET": "Supporting various sector-specific activities"
   }
-}
 }
