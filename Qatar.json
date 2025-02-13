@@ -1,94 +1,206 @@
 {
-  "Qatar": {
-    "FullName": "State of Qatar",
-    "ArabicName": "دولة قطر",
-    "Local_Name": "Dawlat Qatar",
-    "Etymology": "Derived from the name of a prominent local settlement, evolved through variations like 'Katr', 'Kattar', and 'Guttur'",
-    "Geography": {
-      "Location": "West coast of the Arabian Gulf",
-      "Area": "11,627 sq km",
-      "Climate": "Arid, with hot summers and mild winters",
-      "Land_Use": {
-        "Agricultural_Land": "5.6%",
-        "Forest": "0%",
-        "Other": "94.4%"
-      },
-      "Major_Aquifer": "Arabian Aquifer System"
-    },
-    "Demographics": {
-      "Population": "3,210,000 (2023 est.)",
-      "Urbanization": "99.4%",
-      "Ethnic_Groups": {
-        "Arab": "40%",
-        "South_Asian": "36%",
-        "Other": "24%"
-      },
-      "Languages": {
-        "Official": "Arabic",
-        "Common": "English"
-      },
-      "Religion": {
-        "Islam": "65.5%",
-        "Hinduism": "15.1%",
-        "Christianity": "14.2%",
-        "Other": "5.2%"
+  "Name": {
+    "Common": "Qatar",
+    "Official": "State of Qatar",
+    "Native": {
+      "Arabic": "دولة قطر",
+      "Transliteration": "Dawlat Qatar"
+    }
+  },
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Coat of Arms URL": "URL_to_coat_of_arms_image",
+    "Motto": "N/A",
+    "Anthem": {
+      "Title": "As Salam al Amiri",
+      "Translation": "Peace to the Emir",
+      "Duration": "1 minute and 20 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Asia",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Doha",
+        "Latitude": "25°17′12″N",
+        "Longitude": "51°32′0″E"
       }
     },
-    "Economy": {
-      "
-"GDP": {
-"PPP_2023_Estimate": "$328.134 billion",
-"Per_Capita_PPP": "$114,210",
-"Nominal_2023_Estimate": "$235.500 billion",
-"Per_Capita_Nominal": "$81,968"
-},
-"Resources": {
-"Natural_Gas": "World's third-largest reserves",
-"Oil": "Significant reserves"
-},
-"Exports": "Liquefied natural gas, petroleum products"
-},
-"Government": {
-"Type": "Unitary authoritarian parliamentary semi-constitutional monarchy",
-"Head_Of_State": "Emir Tamim bin Hamad",
-"Head_Of_Government": "Prime Minister Mohammed bin Abdulrahman",
-"Legislature": "Consultative Assembly",
-"Independence": {
-"Day": "September 3, 1971",
-"From": "United Kingdom"
-}
-},
-"Culture_and_Society": {
-"Heritage": "Blend of traditional and modern elements",
-"Sports": "Hosted FIFA Men’s World Cup 2022",
-"Media": {
-"Al_Jazeera": "Global media influence",
-"Domestic_Media": "Limited criticism of state and government"
-},
-"Tourism": "Cultural sites, sports events, desert safaris"
-},
-"Environmental_Issues": {
-"Current_Issues": "Air, land, water pollution, limited freshwater resources",
-"Climate_Change_Efforts": "Party to various international agreements"
-},
-"Health_and_Education": {
-"Literacy_Rate": {
-"Total": "93.5%",
-"Male": "92.4%",
-"Female": "94.7%"
-},
-"School_Life_Expectancy": {
-"Total": "13 years",
-"Male": "12 years",
-"Female": "15 years"
-},
-"Education_Expenditures": "3.2% of GDP"
-},
-"Miscellaneous": {
-"Time_Zone": "UTC+3",
-"Driving_Side": "Right",
-"ISO_Code": "QA",
-"Internet_TLD": ".qa"
-}
-}
+    "Location": "West coast of the Arabian Gulf, bordered by Saudi Arabia to the south and the Arabian Gulf to the north, east, and west",
+    "Area": {
+      "Total (sq km)": 11627,
+      "Rank": "158th",
+      "Water Percentage": "0.5%"
+    },
+    "Topography": ["Flat and barren desert"],
+    "Climate": ["Arid, with hot summers and mild winters"],
+    "Natural Resources": ["Natural Gas", "Oil"],
+    "Land Use": {
+      "Agricultural Land": "5.6%",
+      "Forest": "0%",
+      "Other": "94.4%"
+    },
+    "Major Aquifer": "Arabian Aquifer System",
+    "Time Zones": ["UTC+03:00"],
+    "Largest City": "Doha"
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 3210000,
+      "Density (per sq km)": 276.0
+    },
+    "Ethnic Groups": {
+      "2023": {
+        "Arab": 40.0,
+        "South Asian": 36.0,
+        "Other": 24.0
+      }
+    },
+    "Languages": {
+      "Official": ["Arabic"],
+      "Common": ["English"]
+    },
+    "Religion": {
+      "2023": {
+        "Islam": 65.5,
+        "Hinduism": 15.1,
+        "Christianity": 14.2,
+        "Other": 5.2
+      }
+    },
+    "Demonym": "Qatari"
+  },
+  "Government": {
+    "Type": "Unitary authoritarian parliamentary semi-constitutional monarchy",
+    "Leaders": {
+      "Head of State": "Emir Tamim bin Hamad",
+      "Head of Government": "Prime Minister Mohammed bin Abdulrahman"
+    },
+    "Legislature": "Consultative Assembly",
+    "Constitution": "8 June 2004",
+    "Independence History": {
+      "Independence Day": "3 September 1971",
+      "From": "United Kingdom"
+    }
+  },
+  "History": {
+    "Etymology": "Derived from the name of a prominent local settlement, evolved through variations like 'Katr', 'Kattar', and 'Guttur'"
+  },
+  "Economy": {
+    "Status": "Developed country",
+    "Dependence": "Natural gas, petroleum products",
+    "Major Industries": ["Natural gas", "Petroleum products"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 328.134,
+      "Per Capita (USD)": 114210
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 235.500,
+      "Per Capita (USD)": 81968
+    },
+    "Currency": "Qatari riyal (QAR)",
+    "Gini Index": {
+      "Year": 2022,
+      "Value": 41.1,
+      "Category": "Medium"
+    },
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.848,
+      "Category": "Very High",
+      "Rank": "45th"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": [
+      "United Nations (UN)",
+      "Gulf Cooperation Council (GCC)",
+      "Organization of the Petroleum Exporting Countries (OPEC)",
+      "World Trade Organization (WTO)"
+    ]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+03:00"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+974",
+    "ISO 3166 Code": "QA",
+    "Internet TLD": ".qa",
+    "Public Holidays": [
+      "New Year's Day",
+      "National Sports Day",
+      "Eid al-Fitr",
+      "Eid al-Adha",
+      "National Day"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Blend of traditional and modern elements",
+    "Cultural Contributions": ["Art", "Cuisine", "Literature", "Music"],
+    "Unique Features": ["Hosted FIFA Men’s World Cup 2022", "Al Jazeera global media influence"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.5,
+    "Exports Growth": "Driven by natural gas and petroleum products",
+    "Inflation Rate": "2.5%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Natural gas", "Petroleum products"],
+      "Challenges": "Balancing economic growth with environmental protection"
+    },
+    "Market Performance": {
+      "Equity Market": "Qatar Stock Exchange",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on limited rural areas"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Arabian Gulf and global culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Natural gas", "Petroleum products"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Air, and Sea transport",
+    "Key Transport Hubs": ["Doha"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Low level of political unrest and instability",
+    "Economic Hardships": "Low poverty and unemployment rates",
+    "Natural Disasters": ["Sandstorms"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "80.2 years",
+    "Infant Mortality Rate": "6.3 deaths/1,000 live births",
+    "Health Expenditure of GDP": "5.0% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "3.2% (2020)",
+    "Literacy Rate": {
+      "Total": "93.5%",
+      "Male": "92.4%",
+      "Female": "94.7%"
+    },
+    "School Life Expectancy": {
+      "Total": "13 years",
+      "Male": "12 years",
+      "Female": "15 years"
+    }
+  }
 }
