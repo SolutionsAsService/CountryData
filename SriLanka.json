@@ -1,140 +1,143 @@
 {
-  "Sri_Lanka": {
-    "official_name": "Democratic Socialist Republic of Sri Lanka",
-    "also_known_as": ["Ceylon"],
-    "location": {
-      "region": "South Asia",
-      "coordinates": "6°56′N 79°52′E",
-      "borders": {
-        "maritime": ["Maldives (Southwest)", "India (Northwest)"],
-        "body_of_water": ["Indian Ocean", "Bay of Bengal", "Gulf of Mannar", "Palk Strait"]
+  "Name": {
+    "Common": "Sri Lanka",
+    "OfficialName": "Democratic Socialist Republic of Sri Lanka",
+    "AlsoKnownAs": ["Ceylon"]
+   },
+    "Location": {
+      "Region": "South Asia",
+      "Coordinates": "6°56′N 79°52′E",
+      "Borders": {
+        "Maritime": ["Maldives (Southwest)", "India (Northwest)"],
+        "BodyOfWater": ["Indian Ocean", "Bay of Bengal", "Gulf of Mannar", "Palk Strait"]
       }
     },
-    "flag": "URL_to_flag_image",
-    "emblem": "URL_to_emblem_image",
-    "anthem": {
-      "title": "Sri Lanka Matha",
-      "translation": "Mother Sri Lanka",
-      "duration": "2 minutes and 54 seconds"
+    "NationalSymbols": {
+      "Flag": "URL_to_flag_image",
+      "Emblem": "URL_to_emblem_image",
+      "Anthem": {
+        "Title": "Sri Lanka Matha",
+        "Translation": "Mother Sri Lanka",
+        "Duration": "2 minutes and 54 seconds"
+      }
     },
-    "capital": {
-      "legislative": "Sri Jayawardenepura Kotte",
-      "executive_and_judicial": "Colombo"
+    "Capital": {
+      "Legislative": "Sri Jayawardenepura Kotte",
+      "ExecutiveAndJudicial": "Colombo"
     },
-    "largest_city": "Colombo",
-    "official_languages": ["Sinhala", "Tamil"],
-    "recognized_language": "English",
-    "ethnic_groups": {
-      "2012_statistics": {
+    "LargestCity": "Colombo",
+    "OfficialLanguages": ["Sinhala", "Tamil"],
+    "RecognizedLanguage": "English",
+    "EthnicGroups": {
+      "2012Statistics": {
         "Sinhalese": "74.9%",
-        "Sri_Lankan_Tamils": "11.2%",
-        "Sri_Lankan_Moors": "9.2%",
-        "Indian_Tamils": "4.2%",
-        "others": "0.5%"
+        "SriLankanTamils": "11.2%",
+        "SriLankanMoors": "9.2%",
+        "IndianTamils": "4.2%",
+        "Others": "0.5%"
       }
     },
-    "religion": {
-      "2012_statistics": {
+    "Religion": {
+      "2012Statistics": {
         "Buddhism": "70.2%",
         "Hinduism": "12.6%",
         "Islam": "9.7%",
         "Christianity": "7.4%",
-        "other_none": "0.1%"
+        "OtherNone": "0.1%"
       }
     },
-    "government": {
-      "type": "Unitary semi-presidential republic",
-      "current_leaders": {
+    "Government": {
+      "Type": "Unitary semi-presidential republic",
+      "CurrentLeaders": {
         "President": "Ranil Wickremesinghe",
-        "Prime_Minister": "Dinesh Gunawardena",
-        "Speaker_of_the_Parliament": "Mahinda Yapa Abeywardena",
-        "Chief_Justice": "Jayantha Jayasuriya"
+        "PrimeMinister": "Dinesh Gunawardena",
+        "SpeakerOfTheParliament": "Mahinda Yapa Abeywardena",
+        "ChiefJustice": "Jayantha Jayasuriya"
       },
-      "legislature": "Parliament",
-      "formation_history": {
-        "Kingdom_established": "543 BCE",
-        "Rajarata_established": "437 BCE",
-        "various_kingdoms": [
-          {"Name": "Kingdom of Anuradhapura", "Year":"437 BCE–1017 CE" },
-          {"Name":"Chola Empire", "Year": "1017–1070"},
-          {"Name":"Kingdom of Polonnaruwa", "Year":"1070–1236"},
-          {"Name":"Kingdom of Jaffna", "Year":"1215–1619"},
-          {"Name":"Kingdom of Dambadeniya","Year":"1220–1341"},
-          {"Name":"Kingdom of Gampola","Year":"1341–1412"},
-          {"Name":"Kingdom of Kotte","Year":"1412–1597"},
-          {"Name":"Kingdom of Sitawaka": "Year":"1521–1593"},
-          {"Name":"Kingdom of Kandy": "Year":"1469–1815"}
+      "Legislature": "Parliament",
+      "FormationHistory": {
+        "KingdomEstablished": "543 BCE",
+        "RajarataEstablished": "437 BCE",
+        "VariousKingdoms": [
+          { "Name": "Kingdom of Anuradhapura", "Years": "437 BCE–1017 CE" },
+          { "Name": "Chola Empire", "Years": "1017–1070" },
+          { "Name": "Kingdom of Polonnaruwa", "Years": "1070–1236" },
+          { "Name": "Kingdom of Jaffna", "Years": "1215–1619" },
+          { "Name": "Kingdom of Dambadeniya", "Years": "1220–1341" },
+          { "Name": "Kingdom of Gampola", "Years": "1341–1412" },
+          { "Name": "Kingdom of Kotte", "Years": "1412–1597" },
+          { "Name": "Kingdom of Sitawaka", "Years": "1521–1593" },
+          { "Name": "Kingdom of Kandy", "Years": "1469–1815" }
         ],
-        "colonial_period": [
+        "ColonialPeriod": [
           "Portuguese Ceylon (1597–1658)",
           "Dutch Ceylon (1640–1796)",
           "British Ceylon (1796–1948)"
         ],
         "Independence": "4 February 1948",
-        "Republic_declaration": "22 May 1972",
-        "Current_constitution": "7 September 1978"
+        "RepublicDeclaration": "22 May 1972",
+        "CurrentConstitution": "7 September 1978"
       }
     },
-    "geographical_data": {
-      "total_area": "65,610.2 km2",
-      "water_percentage": "4.4%",
-      "population": {
-        "2022_estimate": "22,037,000",
-        "2012_census": "20,277,600",
-        "density": "337.7/km2"
+    "GeographicalData": {
+      "TotalArea": "65,610.2 km2",
+      "WaterPercentage": "4.4%",
+      "Population": {
+        "2022Estimate": "22,037,000",
+        "2012Census": "20,277,600",
+        "Density": "337.7/km2"
       }
     },
-    "economy": {
-      "GDP_PPP": {
-        "2023_estimate": {
-          "total": "$318.6 billion",
-          "per_capita": "$14,234"
+    "Economy": {
+      "GDPPPP": {
+        "2023Estimate": {
+          "Total": "$318.6 billion",
+          "PerCapita": "$14,234"
         }
       },
-      "GDP_nominal": {
-        "2023_estimate": {
-          "total": "$73.7 billion",
-          "per_capita": "$3,293"
+      "GDPNominal": {
+        "2023Estimate": {
+          "Total": "$73.7 billion",
+          "PerCapita": "$3,293"
         }
       },
-      "Gini_index": "39.8 (2016)",
+      "GiniIndex": "39.8 (2016)",
       "HDI": "0.782 (2021, high)"
     },
-    "currency": "Sri Lankan rupee (Rs) (LKR)",
-    "time_zone": "UTC+5:30 (SLST)",
-    "driving_side": "left",
-    "calling_code": "+94",
-    "ISO_3166_code": "LK",
-    "internet_TLD": [".lk", ".ලංකා", ".இலங்கை"],
-    "official_website": "gov.lk",
-    "history": {
-      "documented_history_span": "3,000 years",
-      "evidence_of_settlements": "125,000 years ago",
-      "Buddhist_writings": "Pāli canon (4th Buddhist council, 29 BCE)",
-      "nicknames": ["Teardrop of India", "Granary of the East"],
-      "strategic_importance": ["Ancient Silk Road", "Maritime Silk Road"],
-      "colonial_and_independence": {
-        "Portuguese_arrival": "Period of Kotte",
-        "Dutch_and_British_period": "After Sinhalese-Portuguese war",
-        "independence_movement": "Early 20th century",
-        "Dominion_status": "1948",
-        "Republic_status": "1972"
+    "Currency": "Sri Lankan Rupee (Rs) (LKR)",
+    "TimeZone": "UTC+5:30 (SLST)",
+    "DrivingSide": "Left",
+    "CallingCode": "+94",
+    "ISO3166Code": "LK",
+    "InternetTLD": [".lk", ".ලංකා", ".இலங்கை"],
+    "OfficialWebsite": "gov.lk",
+    "History": {
+      "DocumentedHistorySpan": "3,000 years",
+      "EvidenceOfSettlements": "125,000 years ago",
+      "BuddhistWritings": "Pāli Canon (4th Buddhist Council, 29 BCE)",
+      "Nicknames": ["Teardrop of India", "Granary of the East"],
+      "StrategicImportance": ["Ancient Silk Road", "Maritime Silk Road"],
+      "ColonialAndIndependence": {
+        "PortugueseArrival": "Period of Kotte",
+        "DutchAndBritishPeriod": "After Sinhalese-Portuguese war",
+        "IndependenceMovement": "Early 20th century",
+        "DominionStatus": "1948",
+        "RepublicStatus": "1972"
       },
-      "civil_war": {
-        "duration": "1983-2009",
-        "outcome": "Defeat of Liberation Tigers of Tamil Eelam"
+      "CivilWar": {
+        "Duration": "1983-2009",
+        "Outcome": "Defeat of Liberation Tigers of Tamil Eelam"
       }
     },
-    "current_challenges": {
-      "economic_crisis": {
-        "currency_collapse": true,
-        "high_inflation": true,
-        "humanitarian_crisis": "Shortage of essentials"
+    "CurrentChallenges": {
+      "EconomicCrisis": {
+        "CurrencyCollapse": true,
+        "HighInflation": true,
+        "HumanitarianCrisis": "Shortage of essentials"
       },
-      "political_unrest": "Street protests demanding government change"
+      "PoliticalUnrest": "Street protests demanding government change"
     },
-    "international_engagements": {
-      "organizations": ["SAARC", "G77", "Non-Aligned Movement", "United Nations", "Commonwealth of Nations"]
+    "InternationalEngagements": {
+      "Organizations": ["SAARC", "G77", "Non-Aligned Movement", "United Nations", "Commonwealth of Nations"]
     }
-  }
 }
