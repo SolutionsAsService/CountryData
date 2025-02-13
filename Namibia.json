@@ -1,7 +1,8 @@
 {
-  "Namibia": {
-    "officialName": "Republic of Namibia",
-    "namesInNationalLanguages": {
+  "Name": {
+    "Common": "Namibia",
+    "Official": "Republic of Namibia",
+    "Native": {
       "Afrikaans": "Republiek van Namibië",
       "German": "Republik Namibia",
       "Khoekhoegowab": "Republiki Namibiab dib",
@@ -10,137 +11,225 @@
       "RuKwangali": "Republika zaNamibia",
       "Setswana": "Rephaboliki ya Namibia",
       "siLozi": "Namibia ye Lukuluhile"
+    }
+  },
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Coat of Arms URL": "URL_to_coat_of_arms_image",
+    "Motto": "Unity, Liberty, Justice",
+    "Anthem": {
+      "Title": "Namibia, Land of the Brave",
+      "Duration": "1 minute and 30 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Africa",
+    "Region": "Southern Africa",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Windhoek",
+        "Latitude": "-22.559722",
+        "Longitude": "17.083611"
+      }
     },
-    "location": {
-      "region": "Southern Africa",
-      "borders": {
-        "AtlanticOcean": "west",
-        "ZambiaAngola": "north",
-        "Botswana": "east",
-        "SouthAfrica": "south and east",
-        "Zimbabwe": "northeast"
-      },
-      "landmark": "Kazungula Bridge to Zambia"
+    "Location": "Southern Africa, bordered by the Atlantic Ocean to the west, Zambia and Angola to the north, Botswana to the east, and South Africa to the south and east, with a short border with Zimbabwe at Kazungula",
+    "Area": {
+      "Total (sq km)": 825615,
+      "Rank": "34th",
+      "Water Percentage": "Negligible"
     },
-    "capitalAndLargestCity": "Windhoek",
-    "officialLanguage": "English",
-    "recognisedNationalLanguages": [
-      "Otjiherero", "Khoekhoegowab", "Oshiwambo", "RuKwangali", "Setswana", "siLozi", "Afrikaans", "German"
-    ],
-    "recognisedRegionalLanguages": [
-      "!Kung", "Gciriku", "Thimbukushu"
-    ],
-    "ethnicGroups2014": {
-      "Ovambo": "49%",
-      "Kavango": "9.2%",
-      "White": "8.0%",
-      "Coloured": "8.0%",
-      "Herero": "7.0%",
-      "Damara": "7.0%",
-      "Nama": "4.7%",
-      "Lozi": "3.5%",
-      "San": "3.0%",
-      "Tswana": "0.6%",
-      "Others": "0.5%"
+    "Borders": {
+      "West": ["Atlantic Ocean"],
+      "North": ["Zambia", "Angola"],
+      "East": ["Botswana"],
+      "South and East": ["South Africa"],
+      "Northeast": ["Zimbabwe"]
     },
-    "religion2013": {
-      "Christianity": "87.9%",
-      "Lutheranism": "43.7%",
-      "Catholicism": "22.8%",
-      "Anglicanism": "17.0%",
-      "OtherChristian": "4.4%",
-      "TraditionalFaiths": "10.2%",
-      "NoReligion": "1.6%",
-      "Others": "0.3%"
+    "Coastline": "1,572 km",
+    "Topography": ["Desert landscapes", "Varied wildlife"],
+    "Climate": ["Arid to semi-arid"],
+    "Natural Resources": ["Diamonds", "Uranium", "Gold", "Silver", "Base metals"],
+    "Time Zones": ["UTC+2 (CAT)"],
+    "Largest City": "Windhoek"
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 2777232,
+      "Density (per sq km)": 3.2
     },
-    "demonym": "Namibian",
-    "government": {
-      "type": "Unitary semi-presidential republic",
-      "president": "Hage Geingob",
-      "vicePresident": "Nangolo Mbumba",
-      "primeMinister": "Saara Kuugongelwa",
-      "deputyPrimeMinister": "Netumbo Nandi-Ndaitwah",
-      "chiefJustice": "Peter Shivute"
+    "Ethnic Groups": {
+      "2014": {
+        "Ovambo": 49,
+        "Kavango": 9.2,
+        "White": 8.0,
+        "Coloured": 8.0,
+        "Herero": 7.0,
+        "Damara": 7.0,
+        "Nama": 4.7,
+        "Lozi": 3.5,
+        "San": 3.0,
+        "Tswana": 0.6,
+        "Others": 0.5
+      }
     },
-    "legislature": {
-      "upperHouse": "National Council",
-      "lowerHouse": "National Assembly"
+    "Languages": {
+      "Official": ["English"],
+      "Recognised National": ["Otjiherero", "Khoekhoegowab", "Oshiwambo", "RuKwangali", "Setswana", "siLozi", "Afrikaans", "German"],
+      "Recognised Regional": ["!Kung", "Gciriku", "Thimbukushu"]
     },
-    "independence": {
-      "fromSouthAfrica": "21 March 1990",
-      "constitutionDate": "9 February 1990"
+    "Religion": {
+      "2013": {
+        "Christianity": 87.9,
+        "Lutheranism": 43.7,
+        "Catholicism": 22.8,
+        "Anglicanism": 17.0,
+        "Other Christian": 4.4,
+        "Traditional Faiths": 10.2,
+        "No Religion": 1.6,
+        "Others": 0.3
+      }
     },
-    "area": {
-      "total": "825615 km2",
-      "waterPercentage": "negligible"
+    "Demonym": "Namibian"
+  },
+  "Government": {
+    "Type": "Unitary semi-presidential republic",
+    "Leaders": {
+      "President": "Hage Geingob",
+      "Vice President": "Nangolo Mbumba",
+      "Prime Minister": "Saara Kuugongelwa-Amadhila",
+      "Deputy Prime Minister": "Netumbo Nandi-Ndaitwah",
+      "Chief Justice": "Peter Shivute"
     },
-    "population2023": {
-      "estimate": "2,777,232",
-      "density": "3.2/km2"
+    "Legislature": {
+      "Upper House": "National Council",
+      "Lower House": "National Assembly"
     },
-    "economy": {
-      "GDP_PPP_2023": {
-        "total": "$30.663 billion",
-        "perCapita": "$11,603"
-      },
-      "GDP_Nominal_2023": {
-        "total": "$12.647 billion",
-        "perCapita": "$4,786"
-      },
-      "Gini2015": "59.1",
-      "HDI2021": "0.615"
+    "Constitution": "9 February 1990",
+    "Independence from South Africa": "21 March 1990"
+  },
+  "History": {
+    "Early Inhabitants": ["San", "Damara", "Nama"],
+    "Bantu Arrival": "14th century",
+    "German Colony": "1884-1915",
+    "Herero and Nama Genocide": "1904-1908",
+    "South African Rule": "1915-1990",
+    "Independence": "21 March 1990"
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Mining, agriculture, tourism",
+    "Major Industries": ["Mining", "Agriculture", "Tourism"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 30.663,
+      "Per Capita (USD)": 11603
     },
-    "currency": {
-      "primary": "Namibian dollar (NAD)",
-      "secondary": "South African rand (ZAR)"
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 12.647,
+      "Per Capita (USD)": 4786
     },
-    "timeZone": "UTC+2 (CAT)",
-    "dateAndDriving": {
-      "dateFormat": "dd/mm/yyyy",
-      "drivingSide": "left"
+    "Currency": {
+      "Primary": "Namibian dollar (NAD)",
+      "Secondary": "South African rand (ZAR)"
     },
-    "communication": {
-      "callingCode": "+264",
-      "ISO3166Code": "NA",
-      "internetTLD": ".na"
+    "Gini Index": {
+      "Year": 2015,
+      "Value": 59.1,
+      "Category": "Very High"
     },
-    "geography": {
-      "description": "Driest country in sub-Saharan Africa",
-      "mainFeatures": ["Desert landscapes", "Varied wildlife"]
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.615,
+      "Category": "Medium",
+      "Rank": "130th"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": [
+      "United Nations (UN)",
+      "Southern African Development Community (SADC)",
+      "African Union (AU)",
+      "Commonwealth of Nations"
+    ]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+2 (CAT)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Left",
+    "Calling Code": "+264",
+    "ISO 3166 Code": "NA",
+    "Internet TLD": ".na",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Independence Day (March 21)",
+      "Workers' Day (May 1)",
+      "Cassinga Day (May 4)",
+      "Africa Day (May 25)",
+      "Heroes' Day (August 26)",
+      "Christmas Day (December 25)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of African and European influences",
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["Diverse ethnic groups", "Varied wildlife and landscapes"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.0,
+    "Exports Growth": "Driven by mining and tourism",
+    "Inflation Rate": "4.5%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Mining", "Tourism"],
+      "Challenges": "Balancing economic growth with social development"
     },
-    "history": {
-      "earlyInhabitants": ["San", "Damara", "Nama"],
-      "bantuArrival": "14th century",
-      "germanColony": "1884-1915",
-      "hereroAndNamaGenocide": "1904-1908",
-      "southAfricanRule": "1915-1990",
-      "independence": "21 March 1990"
+    "Market Performance": {
+      "Equity Market": "N/A",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban population",
+      "Rural Development": "Focus on improving rural living standards"
     },
-    "governmentAndPolitics": {
-      "politicalStructure": "Parliamentary democracy",
-      "currentLeaders": {
-        "president": "Hage Geingob",
-        "vicePresident": "Nangolo Mbumba"
-      },
-      "internationalAffiliations": ["UN", "SADC", "AU", "Commonwealth"]
+    "Cultural Heritage": {
+      "Influence": "Significant on Southern African culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
     },
-    "economy": {
-      "sectors": ["Agriculture", "Tourism", "Mining"],
-      "keyResources": ["Diamonds", "Uranium", "Gold", "Silver"],
-      "manufacturingSector": "Small but growing"
+    "Technology and Innovation": {
+      "Growth Sectors": ["Mining", "Tourism"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
     },
-    "culture": {
-      "ethnicDiversity": true,
-      "languages": "Multiple local and European languages",
-      "motto": "\"Unity, Liberty, Justice\"",
-      "anthem": "Namibia, Land of the Brave"
-    },
-    "flag": "Flag of Namibia",
-    "coatOfArms": "Coat of arms of Namibia",
-    "motto": "\"Unity, Liberty, Justice\"",
-    "anthem": {
-      "title": "Namibia, Land of the Brave",
-      "duration": "1:30"
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air, and Sea transport",
+    "Key Transport Hubs": ["Windhoek", "Walvis Bay"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Low level of political unrest and instability",
+    "Economic Hardships": "High poverty and unemployment rates",
+    "Natural Disasters": ["Droughts"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "65.0 years",
+    "Infant Mortality Rate": "35.2 deaths/1,000 live births",
+    "Health Expenditure of GDP": "6.0% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "8.4% (2020)",
+    "Literacy Rate": {
+      "Total": "91.5%",
+      "Male": "92.9%",
+      "Female": "90.2%"
     }
   }
 }
