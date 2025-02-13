@@ -1,87 +1,222 @@
 {
-  "Peru": {
-  "Country": "Peru",
-    "Names": {
-  "Official Name": "Republic of Peru",
-   "SpanishName": "República del Perú",
-   "QuechuaName":	"Piruw Ripuwlika",
-   "AymaraName": "Piruwxa Ripuwlika" },
-  "Flag": "Flag of Peru",
-  "Coat of Arms": "Coat of arms of Peru",
-  "Motto": "Firme y feliz por la unión (Firm and Happy for the Union)",
-  "Anthem": "Himno Nacional del Perú (National Anthem of Peru)",
-  "Duration of Anthem": "3 minutes and 10 seconds",
-  "March": "Marcha de Banderas (March of Flags)",
-  "Duration of March": "1 minute and 43 seconds",
-  "National Seal": "Gran Sello del Estado (Great Seal of the State)",
-  "Location": {
-    "Capital": "Lima",
-    "Coordinates": "12°2.6′S 77°1.7′W"
+  "Name": {
+    "Common": "Peru",
+    "Official": "Republic of Peru",
+    "Native": {
+      "Spanish": "República del Perú",
+      "Quechua": "Piruw Ripuwlika",
+      "Aymara": "Piruwxa Ripuwlika"
+    }
   },
-  "Official Languages": ["Spanish"],
-  "Co-official Languages": ["Quechua", "Aymara", "Other Indigenous languages"],
-  "Ethnic Groups (2017)": {
-    "Mestizo": "60.2%",
-    "Indigenous": "25.8%",
-    "White": "5.9%",
-    "Black": "3.6%",
-    "Nikkei (Japanese) or Tusán (Chinese)": "0.2%",
-    "Other": "1.0%",
-    "No Answer": "3.3%"
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Coat of Arms URL": "URL_to_coat_of_arms_image",
+    "Motto": "Firme y feliz por la unión (Firm and Happy for the Union)",
+    "Anthem": {
+      "Title": "Himno Nacional del Perú",
+      "Translation": "National Anthem of Peru",
+      "Duration": "3 minutes and 10 seconds"
+    },
+    "March": {
+      "Title": "Marcha de Banderas",
+      "Translation": "March of Flags",
+      "Duration": "1 minute and 43 seconds"
+    },
+    "National Seal": "Gran Sello del Estado (Great Seal of the State)"
   },
-  "Religion (2017)": {
-    "Christianity": "94.5%",
-    "Catholicism": "76.0%",
-    "Other Christian": "18.5%",
-    "No Religion": "5.1%",
-    "Other": "0.4%"
+  "Geography": {
+    "Continent": "South America",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Lima",
+        "Latitude": "12°2.6′S",
+        "Longitude": "77°1.7′W"
+      }
+    },
+    "Location": "Located in western South America, bordered by Ecuador and Colombia to the north, Brazil to the east, Bolivia to the southeast, Chile to the south, and the Pacific Ocean to the west",
+    "Area": {
+      "Total (sq km)": 1285216,
+      "Rank": "19th",
+      "Water Percentage": "0.41%"
+    },
+    "Topography": ["Andes mountains", "Amazon rainforest", "Coastal plains"],
+    "Climate": ["Varied, ranging from arid in the coastal region to tropical in the Amazon basin"],
+    "Natural Resources": ["Copper", "Gold", "Silver", "Petroleum", "Timber", "Fish", "Iron ore", "Coal", "Phosphate"],
+    "Time Zones": ["UTC-5 (PET)"],
+    "Largest City": "Lima"
   },
-  "Demonym": "Peruvian",
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 34352720,
+      "Density (per sq km)": 23.0
+    },
+    "Ethnic Groups": {
+      "2017": {
+        "Mestizo": 60.2,
+        "Indigenous": 25.8,
+        "White": 5.9,
+        "Black": 3.6,
+        "Nikkei (Japanese) or Tusán (Chinese)": 0.2,
+        "Other": 1.0,
+        "No Answer": 3.3
+      }
+    },
+    "Languages": {
+      "Official": ["Spanish"],
+      "Co-official": ["Quechua", "Aymara", "Other Indigenous languages"]
+    },
+    "Religion": {
+      "2017": {
+        "Christianity": 94.5,
+        "Catholicism": 76.0,
+        "Other Christian": 18.5,
+        "No Religion": 5.1,
+        "Other": 0.4
+      }
+    },
+    "Demonym": "Peruvian"
+  },
   "Government": {
     "Type": "Unitary presidential republic",
-    "President": "Dina Boluarte",
-    "First Vice President": "Vacant",
-    "Prime Minister": "Alberto Otárola",
-    "President of Congress": "Alejandro Soto Reyes",
-    "Legislature": "Congress of the Republic"
+    "Leaders": {
+      "President": "Dina Boluarte",
+      "First Vice President": "Vacant",
+      "Prime Minister": "Alberto Otárola",
+      "President of Congress": "Alejandro Soto Reyes"
+    },
+    "Legislature": "Congress of the Republic",
+    "Constitution": "31 December 1993",
+    "Independence History": {
+      "Declared from Spain": "28 July 1821",
+      "Consolidated": "9 December 1824",
+      "Recognized": "14 August 1879"
+    }
   },
-  "Independence from Spain": {
-    "Declared": "28 July 1821",
-    "Consolidated": "9 December 1824",
-    "Recognized": "14 August 1879"
+  "History": {
+    "Historical Context": {
+      "Pre-Colonial Era": ["Notable cultures such as the Inca Empire"],
+      "Colonial Period": ["Spanish conquest and colonization"],
+      "Independence Movement": ["Proclaimed independence in 1821", "Consolidated independence in 1824"],
+      "Modern Era": ["Periods of political and social instability", "Economic growth", "Recent unrest"]
+    }
   },
-  "Area": {
-    "Total": "1,285,216 km2 (496,225 sq mi)",
-    "Water Percentage": "0.41"
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Mining, manufacturing, agriculture, fishing",
+    "Major Industries": ["Mining", "Manufacturing", "Agriculture", "Fishing"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 548.465,
+      "Per Capita (USD)": 15893
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 264.636,
+      "Per Capita (USD)": 7668
+    },
+    "Currency": "Peruvian sol (PEN)",
+    "Gini Index": {
+      "Year": 2019,
+      "Value": 41.5,
+      "Category": "Medium"
+    },
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.762,
+      "Category": "High",
+      "Rank": "84th"
+    }
   },
-  "Population (2023 estimate)": {
-    "Total": "34,352,720",
-    "Density": "23/km2 (59.6/sq mi)"
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": [
+      "United Nations (UN)",
+      "Organization of American States (OAS)",
+      "Pacific Alliance",
+      "Andean Community",
+      "Union of South American Nations (UNASUR)",
+      "World Trade Organization (WTO)"
+    ]
   },
-  "GDP (PPP) 2023 Estimate": {
-    "Total": "Increase $548.465 billion",
-    "Per Capita": "Increase $15,893"
+  "Miscellaneous": {
+    "Time Zone": ["UTC-5 (PET)"],
+    "Date Format": ["dd/mm/yyyy (CE)"],
+    "Driving Side": "Right",
+    "Calling Code": "+51",
+    "ISO 3166 Code": "PE",
+    "Internet TLD": ".pe",
+    "Public Holidays": [
+      "New Year's Day",
+      "Holy Thursday",
+      "Good Friday",
+      "Labour Day",
+      "Feast of Saints Peter and Paul",
+      "Peruvian Independence Day",
+      "Battle of Angamos",
+      "All Saints' Day",
+      "Immaculate Conception",
+      "Christmas Day"
+    ]
   },
-  "GDP (Nominal) 2023 Estimate": {
-    "Total": "Increase $264.636 billion",
-    "Per Capita": "Increase $7,668"
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with influences from indigenous, Spanish, African, and Asian cultures",
+    "Cultural Contributions": ["Art", "Cuisine", "Literature", "Music"],
+    "Unique Features": ["Diverse population", "Varied cultural expressions", "Historical sites like Machu Picchu"]
   },
-  "Gini (2019)": "Positive decrease 41.5 (medium)",
-  "HDI (2021)": {
-    "Index": "0.762 (high)",
-    "Rank": "84th"
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.5,
+    "Exports Growth": "Driven by mining and manufacturing",
+    "Inflation Rate": "2.5%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Mining", "Manufacturing"],
+      "Challenges": "Balancing economic growth with social development"
+    },
+    "Market Performance": {
+      "Equity Market": "Lima Stock Exchange",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
   },
-  "Currency": "Peruvian sol (PEN)",
-  "Time Zone": "UTC−5 (PET)",
-  "Date Format": "dd/mm/yyyy (CE)",
-  "Driving Side": "Right",
-  "Calling Code": "+51",
-  "ISO 3166 Code": "PE",
-  "Internet TLD": ".pe",
-  "History": "Peru has a rich history dating back to the 10th millennium BCE, with notable pre-colonial cultures such as the Inca Empire. It proclaimed independence in 1821 and completed it in 1824.",
-  "Recent History": "Peru has experienced periods of political and social instability, economic growth, and recent unrest.",
-  "Economy": "Peru's main economic activities include mining, manufacturing, agriculture, and fishing. It is part of The Pacific Pumas and ranks high in social freedom.",
-  "Culture": "Peru's diverse population results in a wide variety of cultural expressions in art, cuisine, literature, and music."
-}
-
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on South American and global culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Mining", "Manufacturing"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air, and Sea transport",
+    "Key Transport Hubs": ["Lima", "Callao", "Arequipa"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Moderate level of political unrest and instability",
+    "Economic Hardships": "High poverty and unemployment rates",
+    "Natural Disasters": ["Earthquakes", "Floods"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "76.4 years",
+    "Infant Mortality Rate": "12.0 deaths/1,000 live births",
+    "Health Expenditure of GDP": "5.0% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "4.0% (2020)",
+    "Literacy Rate": {
+      "Total": "94.5%",
+      "Male": "96.0%",
+      "Female": "93.0%"
+    }
+  }
 }
