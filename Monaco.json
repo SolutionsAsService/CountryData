@@ -1,101 +1,203 @@
 {
-    "Monaco": {
-        "Official Names": {
-            "Local": "Principauté de Monaco",
-            "Monégasque": "Prinçipatu de Mùnegu"
-        },
-        "Symbols": {
-            "Flag": "Flag of Monaco",
-            "Coat of Arms": "Coat of arms of Monaco",
-            "Motto": "Deo Juvante (With God's Help)",
-            "Anthem": {
-                "Title": "Hymne Monégasque",
-                "English Translation": "Hymn of Monaco",
-                "Duration": "1 minute and 18 seconds"
-            }
-        },
-        "Location": {
-            "Continent": "Europe",
-            "Borders": {
-                "France": "North, East, and West",
-                "Mediterranean Sea": "South"
-            },
-            "Capital": "Monaco (city-state)",
-            "Largest Quarter": "Monte Carlo",
-            "Coordinates": "43°43′52″N 07°25′12″E"
-        },
-        "Demographics": {
-            "Population": {
-                "2022 Estimate": "39,050",
-                "Density": "18,774 per km2"
-            },
-            "Ethnic Groups": ["Monégasques", "French", "Italians", "Occitans"],
-            "Religion": {
-                "Christianity": "86.0%",
-                "Catholicism": "80.9%",
-                "Other Christian": "5.1%",
-                "No Religion": "11.7%",
-                "Judaism": "1.7%",
-                "Others": "0.6%"
-            },
-            "Languages": {
-                "Official": "French",
-                "Common": ["Italian", "Ligurian"]
-            }
-        },
-        "Government": {
-            "Type": "Unitary parliamentary semi-constitutional monarchy",
-            "Monarch": "Albert II",
-            "Minister of State": "Pierre Dartout",
-            "Legislature": "National Council"
-        },
-        "Independence and Sovereignty": {
-            "House of Grimaldi": "Since 8 January 1297",
-            "Independence from French Empire": "17 May 1814",
-            "Franco-Monégasque Treaty": "2 February 1861",
-            "Constitution": "5 January 1911"
-        },
-        "Geography and Climate": {
-            "Total Area": "2.08 square kilometers",
-            "Climate": "Mediterranean",
-            "Land Reclamation": "Expanded by 20% since 1861"
-        },
-        "Economy": {
-            "GDP (PPP) 2015 Estimate": {
-                "Total": "$7.672 billion",
-                "Per Capita": "$115,700"
-            },
-            "GDP (Nominal) 2019 Estimate": {
-                "Total": "$7.424 billion",
-                "Per Capita": "$190,513"
-            },
-            "Economic Characteristics": "Banking, Tourism, Real Estate",
-            "Tax Haven Status": "No personal income tax",
-            "Wealth": "Over 30% residents are millionaires"
-        },
-        "Population Characteristics": {
-            "Densely Populated": "Most densely-populated sovereign state",
-            "Land Border": "5.47 km",
-            "Shortest Coastline": "Approximately 3.83 km"
-        },
-        "Sports and Culture": {
-            "Formula One": "Monaco Grand Prix",
-            "Football": "AS Monaco in French Ligue 1",
-            "Basketball": "EuroLeague participation",
-            "Marine Conservation": "Oceanographic Museum",
-            "Cultural Events": ["Monte Carlo Rally", "International Circus Festival"]
-        },
-        "Education": "Information not provided",
-        "Flag Description": "Red and white horizontal bands",
-        "Transport": {
-            "Public Transport": "Information not provided",
-            "Traffic": "Right-hand driving"
-        },
-        "International Relations": {
-            "United Nations Member": "Since 1993",
-            "Council of Europe": "Member",
-            "European Union Relations": "Uses Euro, part of Schengen Area",
-            "Francophonie": "Member"
-        }
+  "Name": {
+    "Common": "Monaco",
+    "Official": "Principality of Monaco",
+    "Native": {
+      "Local": "Principauté de Monaco",
+      "Monégasque": "Prinçipatu de Mùnegu"
     }
+  },
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Coat of Arms URL": "URL_to_coat_of_arms_image",
+    "Motto": "Deo Juvante (With God's Help)",
+    "Anthem": {
+      "Title": "Hymne Monégasque",
+      "Translation": "Hymn of Monaco",
+      "Duration": "1 minute and 18 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Europe",
+    "Region": "Western Europe",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Monaco (city-state)",
+        "Latitude": "43°43′52″N",
+        "Longitude": "07°25′12″E"
+      }
+    },
+    "Location": "Western Europe, bordered by France to the north, east, and west, and the Mediterranean Sea to the south",
+    "Area": {
+      "Total (sq km)": 2.08,
+      "Rank": "194th",
+      "Land Reclamation": "Expanded by 20% since 1861"
+    },
+    "Borders": {
+      "Total": 5.47 km,
+      "Countries": ["France"]
+    },
+    "Coastline": "3.83 km",
+    "Topography": ["Hills", "Coastal plains"],
+    "Climate": ["Mediterranean"],
+    "Natural Resources": ["None"],
+    "Time Zones": ["UTC+1 (CET)", "UTC+2 (CEST) during DST"],
+    "Largest Quarter": "Monte Carlo"
+  },
+  "Demographics": {
+    "Population": {
+      "2022 Estimate": 39050,
+      "Density (per sq km)": 18774
+    },
+    "Ethnic Groups": {
+      "2022": ["Monégasques", "French", "Italians", "Occitans"]
+    },
+    "Languages": {
+      "Official": ["French"],
+      "Common": ["Italian", "Ligurian"]
+    },
+    "Religion": {
+      "2022": {
+        "Christianity": 86.0,
+        "Catholicism": 80.9,
+        "Other Christian": 5.1,
+        "No Religion": 11.7,
+        "Judaism": 1.7,
+        "Others": 0.6
+      }
+    },
+    "Demonym": "Monégasque"
+  },
+  "Government": {
+    "Type": "Unitary parliamentary semi-constitutional monarchy",
+    "Leaders": {
+      "Monarch": "Albert II",
+      "Minister of State": "Pierre Dartout"
+    },
+    "Legislature": "National Council",
+    "Constitution": "5 January 1911"
+  },
+  "History": {
+    "House of Grimaldi": "Since 8 January 1297",
+    "Independence from French Empire": "17 May 1814",
+    "Franco-Monégasque Treaty": "2 February 1861",
+    "Constitution Adopted": "5 January 1911"
+  },
+  "Economy": {
+    "Status": "Developed country",
+    "Dependence": "Banking, tourism, real estate",
+    "Major Industries": ["Banking", "Tourism", "Real estate"],
+    "GDP (PPP 2015)": {
+      "Total (Billion USD)": 7.672,
+      "Per Capita (USD)": 115700
+    },
+    "GDP (Nominal 2019)": {
+      "Total (Billion USD)": 7.424,
+      "Per Capita (USD)": 190513
+    },
+    "Currency": "Euro (EUR)",
+    "Gini Index": "N/A",
+    "HDI": {
+      "Year": 2021,
+      "Value": "N/A",
+      "Category": "N/A",
+      "Rank": "N/A"
+    },
+    "Tax Haven Status": "No personal income tax",
+    "Wealth": "Over 30% residents are millionaires"
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": [
+      "United Nations (UN)",
+      "Council of Europe",
+      "Francophonie",
+      "Schengen Area"
+    ]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+1 (CET)", "UTC+2 (CEST) during DST"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+377",
+    "ISO 3166 Code": "MC",
+    "Internet TLD": ".mc",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Saint Devota's Day (January 27)",
+      "Easter Monday (Varies)",
+      "Labour Day (May 1)",
+      "Ascension Day (Varies)",
+      "Whit Monday (Varies)",
+      "Corpus Christi (Varies)",
+      "Assumption Day (August 15)",
+      "All Saints' Day (November 1)",
+      "National Day (November 19)",
+      "Immaculate Conception (December 8)",
+      "Christmas Day (December 25)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of French and Italian influences",
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["Participation in Formula One (Monaco Grand Prix)", "AS Monaco in French Ligue 1", "EuroLeague basketball participation"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.0,
+    "Exports Growth": "Driven by banking and tourism",
+    "Inflation Rate": "2.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Banking", "Tourism"],
+      "Challenges": "Balancing economic growth with environmental protection"
+    },
+    "Market Performance": {
+      "Equity Market": "N/A",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving urban living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on French and Italian culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Banking", "Tourism"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Sea transport",
+    "Key Transport Hubs": ["Monaco", "Monte Carlo"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Low level of political unrest and instability",
+    "Economic Hardships": "Low unemployment and poverty rates",
+    "Natural Disasters": ["N/A"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "89.5 years",
+    "Infant Mortality Rate": "1.8 deaths/1,000 live births",
+    "Health Expenditure of GDP": "10.2% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "5.0% (2020)",
+    "Literacy Rate": {
+      "Total": "99.9%",
+      "Male": "99.9%",
+      "Female": "99.9%"
+    }
+  }
 }
