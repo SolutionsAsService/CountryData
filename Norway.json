@@ -1,168 +1,240 @@
 {
-  "Norway": {
-    "officialNames": {
-      "Bokmal": "Kongeriket Norge",
+  "Name": {
+    "Common": "Norway",
+    "Official": "Kingdom of Norway",
+    "Native": {
+      "Bokmål": "Kongeriket Norge",
       "Nynorsk": "Kongeriket Noreg",
-      "NorthernSami": "Norgga gonagasriika",
-      "LuleSami": "Vuona gånågisrijkka",
-      "SouthernSami": "Nöörjen gånkarïjhke",
+      "Northern Sami": "Norgga gonagasriika",
+      "Lule Sami": "Vuona gånågisrijkka",
+      "Southern Sami": "Nöörjen gånkarïjhke",
       "Kven": "Norjan kuninkhaanvaltakunta"
-    },
-    "symbols": {
-      "flag": "Flag of Norway",
-      "coatOfArms": "Coat of arms of Norway",
-      "nationalAnthem": {
-        "title": "Ja, vi elsker dette landet",
-        "duration": "1:03",
-        "translation": "Yes, we love this country"
+    }
+  },
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Coat of Arms URL": "URL_to_coat_of_arms_image",
+    "Motto": "N/A",
+    "Anthem": {
+      "National": {
+        "Title": "Ja, vi elsker dette landet",
+        "Translation": "Yes, we love this country",
+        "Duration": "1 minute and 3 seconds"
       },
-      "royalAnthem": {
-        "title": "Kongesangen",
-        "duration": "1:18",
-        "translation": "King's Song"
+      "Royal": {
+        "Title": "Kongesangen",
+        "Translation": "King's Song",
+        "Duration": "1 minute and 18 seconds"
+      }
+    }
+  },
+  "Geography": {
+    "Continent": "Europe",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Oslo",
+        "Latitude": "59.9333° N",
+        "Longitude": "10.7167° E"
       }
     },
-    "location": {
-      "continent": "Europe",
-      "coordinates": "59°56′N 10°41′E",
-      "territories": ["Svalbard", "Jan Mayen", "Bouvet Island"],
-      "antarcticClaims": ["Peter I Island", "Queen Maud Land"]
+    "Location": "Northern Europe, bordered by Sweden to the east, Finland and Russia to the northeast, and the Skagerrak strait to the south, with coastlines facing the North Atlantic Ocean and the Barents Sea",
+    "Area": {
+      "Total (sq km)": 385207,
+      "Rank": "61st",
+      "Water Percentage": "5.32%"
     },
-    "capital": "Oslo",
-    "officialLanguages": ["Norwegian", "Sami"],
-    "recognisedNationalLanguages": ["Kven", "Romani", "Scandoromani", "Norwegian Sign Language"],
-    "ethnicGroups2021": {
-      "Norwegian": "81.5%",
-      "NonNorwegian": "18.5%"
+    "Borders": {
+      "East": ["Sweden"],
+      "Northeast": ["Finland", "Russia"],
+      "South": ["Skagerrak strait"]
     },
-    "religion2021": {
-      "Christianity": "74.9%",
-      "NoReligion": "21.2%",
-      "Islam": "3.1%",
-      "Other": "0.8%"
+    "Topography": ["Mountainous terrain", "Fjords", "Glaciers", "Coastal plains"],
+    "Climate": ["Temperate along the coast", "Colder inland"],
+    "Natural Resources": ["Petroleum", "Natural gas", "Iron ore", "Copper", "Lead", "Zinc", "Timber", "Hydropower"],
+    "Time Zones": ["UTC+01:00"],
+    "Largest City": "Oslo",
+    "Territories": ["Svalbard", "Jan Mayen", "Bouvet Island"],
+    "Antarctic Claims": ["Peter I Island", "Queen Maud Land"]
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 5488984,
+      "Density (per sq km)": 14.3
     },
-    "government": {
-      "type": "Unitary parliamentary constitutional monarchy",
-      "monarch": "Harald V",
-      "primeMinister": "Jonas Gahr Støre",
-      "presidentOfStorting": "Masud Gharahkhani",
-      "chiefJustice": "Toril Marie Øie",
-      "legislature": "Storting"
+    "Ethnic Groups": {
+      "2021": {
+        "Norwegian": 81.5,
+        "Non-Norwegian": 18.5
+      }
     },
-    "historicalTimeline": {
-      "StateEstablished": "872",
-      "OldKingdomPeak": "1263",
-      "KalmarUnion": "1397",
-      "DenmarkNorway": "1524",
-      "ReEstablishedState": "25 February 1814",
+    "Languages": {
+      "Official": ["Norwegian", "Sami"],
+      "Recognised National": ["Kven", "Romani", "Scandoromani", "Norwegian Sign Language"]
+    },
+    "Religion": {
+      "2021": {
+        "Christianity": 74.9,
+        "No Religion": 21.2,
+        "Islam": 3.1,
+        "Other": 0.8
+      }
+    },
+    "Demonym": "Norwegian"
+  },
+  "Government": {
+    "Type": "Unitary parliamentary constitutional monarchy",
+    "Leaders": {
+      "Monarch": "Harald V",
+      "Prime Minister": "Jonas Gahr Støre",
+      "President of Storting": "Masud Gharahkhani",
+      "Chief Justice": "Toril Marie Øie"
+    },
+    "Legislature": "Storting",
+    "Constitution": "17 May 1814",
+    "Independence History": {
+      "State Established": "872",
+      "Old Kingdom Peak": "1263",
+      "Kalmar Union": "1397",
+      "Denmark-Norway": "1524",
+      "Re-Established State": "25 February 1814",
       "Constitution": "17 May 1814",
-      "UnionWithSweden": "4 November 1814",
-      "DissolutionUnionWithSweden": "7 June 1905"
+      "Union with Sweden": "4 November 1814",
+      "Dissolution Union with Sweden": "7 June 1905"
+    }
+  },
+  "History": {
+    "Historical Timeline": {
+      "State Established": "872",
+      "Old Kingdom Peak": "1263",
+      "Kalmar Union": "1397",
+      "Denmark-Norway": "1524",
+      "Re-Established State": "25 February 1814",
+      "Constitution": "17 May 1814",
+      "Union with Sweden": "4 November 1814",
+      "Dissolution Union with Sweden": "7 June 1905"
+    }
+  },
+  "Economy": {
+    "Status": "Developed country",
+    "Dependence": "Petroleum, natural gas, minerals, timber, seafood, hydropower",
+    "Major Industries": ["Petroleum", "Natural gas", "Minerals", "Timber", "Seafood", "Hydropower"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 452.964,
+      "Per Capita (USD)": 82236
     },
-    "geography": {
-      "totalArea": "385,207 km2",
-      "waterPercentage": "5.32%",
-      "populationEstimate2023": "5,488,984",
-      "populationDensity": "14.3/km2"
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 546.768,
+      "Per Capita (USD)": 99266
     },
-    "economy":
-      {
-        "GDP_PPP_2023": {
-          "total": "$452.964 billion",
-          "perCapita": "$82,236"
-        },
-        "GDP_Nominal_2023": {
-          "total": "$546.768 billion",
-          "perCapita": "$99,266"
-        },
-        "GiniIndex2020": "25.3",
-        "HDI_2021": "0.961",
-        "currency": "Norwegian krone (NOK)",
-        "mainIndustries": {
-          "petroleum": "25% of GDP",
-          "naturalGas": "World's largest producer outside Middle East",
-          "otherResources": ["minerals", "lumber", "seafood", "fresh water"]
-        },
-        "sovereignWealthFundValue": "US$1.3 trillion"
+    "Currency": "Norwegian krone (NOK)",
+    "Gini Index": {
+      "Year": 2020,
+      "Value": 25.3,
+      "Category": "Low"
+    },
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.961,
+      "Category": "Very High",
+      "Rank": "1st"
+    },
+    "Sovereign Wealth Fund Value": "US$1.3 trillion"
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": [
+      "United Nations (UN)",
+      "North Atlantic Treaty Organization (NATO)",
+      "European Free Trade Association (EFTA)",
+      "Council of Europe",
+      "Antarctic Treaty",
+      "Nordic Council",
+      "European Economic Area (EEA)",
+      "World Trade Organization (WTO)",
+      "Organisation for Economic Co-operation and Development (OECD)"
+    ]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+01:00"],
+    "Date Format": ["dd.mm.yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+47",
+    "ISO 3166 Code": "NO",
+    "Internet TLD": [".no", ".sj", ".bv"],
+    "Public Holidays": [
+      "New Year's Day",
+      "Maundy Thursday",
+      "Good Friday",
+      "Easter Monday",
+      "Labour Day",
+      "Constitution Day",
+      "Ascension Day",
+      "Whit Monday",
+      "Christmas Day",
+      "Boxing Day"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of Norse and Scandinavian influences",
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["Nordic welfare model", "Egalitarian ideals", "Self-determination for Sami people"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.0,
+    "Exports Growth": "Driven by petroleum and natural gas",
+    "Inflation Rate": "2.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Petroleum", "Natural gas"],
+      "Challenges": "Balancing economic growth with environmental protection"
+    },
+    "Market Performance": {
+      "Equity Market": "Oslo Stock Exchange",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
       }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban population",
+      "Rural Development": "Focus on improving rural living standards"
     },
-    "demographics": {
-      "dateFormat": "dd.mm.yyyy",
-      "drivingSide": "right",
-      "callingCode": "+47",
-      "ISO3166Code": "NO",
-      "internetTLD": ".no",
-      "additionalTLDs": [".sj", ".bv"]
+    "Cultural Heritage": {
+      "Influence": "Significant on Scandinavian and global culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
     },
-    "culture": {
-      "welfareModel": "Nordic welfare model",
-      "values": "Egalitarian ideals",
-      "selfDetermination": {
-        "SamiParliament": true,
-        "FinnmarkAct": true
-      },
-      "internationalRelations": {
-        "UN": "founding member",
-        "NATO": "member",
-        "EFTA": "member",
-        "CouncilOfEurope": "member",
-        "AntarcticTreaty": "member",
-        "NordicCouncil": "member",
-        "EEA": "member",
-        "WTO": "member",
-        "OECD": "member",
-        "SchengenArea": "part of"
-      },
-      "unofficialMotto": "Enige og tro inntil Dovre faller (United and loyal until Dovre falls)"
+    "Technology and Innovation": {
+      "Growth Sectors": ["Petroleum", "Natural gas"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
     },
-    "etymology": {},
-    "history": {},
-    "geography": {
-      "neighbors": ["Sweden", "Finland", "Russia"],
-      "borders": {
-        "easternBorderWithSweden": true,
-        "bordersWithFinlandAndRussia": true,
-        "skagerrakStraitToTheSouth": true
-      },
-      "coastline": {
-        "facingNorthAtlanticOcean": true,
-        "facingBarentsSea": true
-      }
-    },
-    "politicsAndGovernment": {},
-    "economy": {
-      "nordicWelfareModel": true,
-      "universalHealthCare": true,
-      "comprehensiveSocialSecuritySystem": true,
-      "ownershipInIndustrialSectors": true,
-      "naturalResources": {
-        "petroleum": true,
-        "naturalGas": true,
-        "minerals": true,
-        "lumber": true,
-        "seafood": true,
-        "freshWater": true
-      },
-      "worldRankings": {
-        "perCapitaIncome": "4th highest",
-        "oilAndNaturalGasProducer": "largest outside Middle East"
-      }
-    },
-    "demographics": {
-      "populationTrends": {
-        "2023Estimate": "5,488,984",
-        "populationDensity": "14.3/km2"
-      },
-      "ethnicComposition": {
-        "norwegianMajority": "81.5%",
-        "nonNorwegianMinority": "18.5%"
-      },
-      "religiousComposition": {
-        "christianityMajority": "74.9%",
-        "noReligion": "21.2%",
-        "islam": "3.1%",
-        "otherReligions": "0.8%"
-      }
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air, and Sea transport",
+    "Key Transport Hubs": ["Oslo", "Bergen", "Stavanger"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Low level of political unrest and instability",
+    "Economic Hardships": "Low poverty and unemployment rates",
+    "Natural Disasters": ["Avalanches"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "82.5 years",
+    "Infant Mortality Rate": "2.8 deaths/1,000 live births",
+    "Health Expenditure of GDP": "10.5% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "7.6% (2020)",
+    "Literacy Rate": {
+      "Total": "99.0%",
+      "Male": "99.0%",
+      "Female": "99.0%"
     }
   }
 }
