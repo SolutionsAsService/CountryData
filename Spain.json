@@ -1,83 +1,151 @@
 {
-    "Spain": {
-        "Official Names": {
-            "English": "Kingdom of Spain",
-            "Spanish": "Reino de España",
-            "Catalan": "Regne d'Espanya",
-             "Basque":	"Espainiako Erresuma",
-             "Galician": "Reino de España"
-             "Occitan": "Reiaume d'Espanha"
-        },
-        "Flag": "Described Image",
-        "Coat of Arms": "Described Image",
-        "Motto": "Plus ultra ('Further Beyond')",
-        "Anthem": "Marcha Real ('Royal March')",
-        "Capital": "Madrid",
-        "Official Language": "Spanish",
-        "Nationality": {
-            "Spanish": "87.1%",
-            "Foreigners": "12.9%"
-        },
-        "Religion": {
-            "Roman Catholicism": "56.0%",
-            "Non-practicing Catholic": "37.5%",
-            "Atheist": "14.9%",
-            "Agnostic": "12.6%",
-            "Indifferent or No Religion": "12.3%",
-            "Other Religion": "2.7%"
-        },
-        "Demonym": "Spaniard, Spanish",
-        "Government": {
-            "Type": "Unitary parliamentary constitutional monarchy",
-            "Monarch": "Felipe VI",
-            "Prime Minister": "Pedro Sánchez"
-        },
-        "Legislature": {
-            "Upper House": "Senate",
-            "Lower House": "Congress of Deputies"
-        },
-        "Independence and Formation": {
-            "Dynastic Union": "20 January 1479",
-            "Sole Sovereign": "14 March 1516",
-            "Centralized State": "9 June 1715",
-            "First Constitution": "19 March 1812",
-            "Current Constitution": "29 December 1978",
-            "EEC Accession": "1 January 1986"
-        },
-        "Area": "505,994 square kilometers",
-        "Population": {
-            "2023 Estimate": "48,446,594",
-            "Density": "94 per square kilometer"
-        },
-        "Economy": {
-            "GDP (PPP, 2023)": "$2.413 trillion",
-            "Per Capita GDP (PPP)": "$50,471",
-            "GDP (Nominal, 2023)": "$1.582 trillion",
-            "Per Capita GDP (Nominal)": "$33,090"
-        },
-        "Gini Coefficient": "32.0 (medium)",
-        "HDI": "0.905 (very high, 27th)",
-        "Currency": "Euro (€) (EUR)",
-        "Time Zone": "UTC±0 to +1 (WET and CET)",
-        "Driving Side": "right",
-        "Calling Code": "+34",
-        "ISO 3166 Code": "ES",
-        "Internet TLD": ".es",
-        "Geographical Features": {
-            "Location": "Southwestern Europe",
-            "Borders": ["France", "Andorra", "Bay of Biscay", "Mediterranean Sea", "Gibraltar", "Portugal"],
-            "Territories": ["Canary Islands", "Balearic Islands", "Ceuta", "Melilla"]
-        },
-        "Historical Context": {
-            "Early Inhabitants": ["Iberian and Celtic tribes"],
-            "Roman and Islamic Rule": ["Hispania", "Umayyad Caliphate", "Al-Andalus"],
-            "Reconquista and Unification": ["Catholic Monarchs", "1492 Granada conquest"]
-        },
-        "Cultural Aspects": {
-            "Influence": ["Age of Discovery", "Spanish Empire", "Siglo de Oro"],
-            "Language": "Spanish (2nd most spoken native language worldwide)",
-            "UNESCO World Heritage": "Numerous sites",
-            "Cuisine and Arts": "Influential globally"
+    "Name": {
+      "Common": "Spain",
+      "Official": "Kingdom of Spain",
+      "Native": {
+        "Spanish": "Reino de España",
+        "Catalan": "Regne d'Espanya",
+        "Basque": "Espainiako Erresuma",
+        "Galician": "Reino de España",
+        "Occitan": "Reiaume d'Espanha"
+      }
+    },
+    "Symbols": {
+      "Flag": "A horizontal tricolor of red and yellow with the national coat of arms on the hoist side of the red stripe.",
+      "Coat of Arms": "A shield representing historic Spanish kingdoms, flanked by the Pillars of Hercules with 'Plus Ultra' on a banner.",
+      "Motto": "Plus ultra ('Further Beyond')",
+      "Anthem": {
+        "Title": "Marcha Real",
+        "Translation": "Royal March",
+        "Duration": "52 seconds"
+      },
+      "National Seal": "Great Seal of Spain"
+    },
+    "Geography": {
+      "Continent": "Europe",
+      "Coordinates": {
+        "Capital": {
+          "Name": "Madrid",
+          "Latitude": "40°25′N",
+          "Longitude": "3°42′W"
         }
+      },
+      "Location": "Southwestern Europe, bordered by France, Andorra, the Bay of Biscay, the Mediterranean Sea, Gibraltar, and Portugal.",
+      "Area": {
+        "Total (sq km)": 505994,
+        "Rank": "52nd",
+        "Water Percentage": "1.04%"
+      },
+      "Topography": [
+        "Meseta Central",
+        "Pyrenees Mountains",
+        "Sierra Nevada",
+        "Rivers (Ebro, Tagus, Guadalquivir)"
+      ],
+      "Climate": [
+        "Mediterranean",
+        "Oceanic",
+        "Continental",
+        "Arid (southeastern regions)"
+      ],
+      "Natural Resources": [
+        "Coal",
+        "Iron ore",
+        "Copper",
+        "Lead",
+        "Uranium",
+        "Mercury",
+        "Zinc",
+        "Tungsten",
+        "Gypsum",
+        "Potash",
+        "Hydropower"
+      ],
+      "Time Zones": [
+        "UTC±0 (WET)",
+        "UTC+1 (CET)",
+        "UTC+2 (CEST in Summer)"
+      ],
+      "Largest City": "Madrid"
+    },
+    "Demographics": {
+      "Population": {
+        "2023 Estimate": 48446594,
+        "Density (per sq km)": 94
+      },
+      "Ethnic Groups": {
+        "2023": {
+          "Spanish": 87.1,
+          "Foreigners": 12.9
+        }
+      },
+      "Languages": {
+        "Official": ["Spanish"],
+        "Recognized Regional": [
+          "Catalan",
+          "Basque",
+          "Galician",
+          "Occitan (Aranese)"
+        ]
+      },
+      "Religion": {
+        "2022": {
+          "Christianity": 56.0,
+          "Catholicism": 37.5,
+          "Atheist": 14.9,
+          "Agnostic": 12.6,
+          "No Religion": 12.3,
+          "Other": 2.7
+        }
+      },
+      "Demonym": "Spanish, Spaniard"
+    },
+    "Government": {
+      "Type": "Unitary parliamentary constitutional monarchy",
+      "Monarch": "Felipe VI",
+      "Prime Minister": "Pedro Sánchez",
+      "Legislature": {
+        "Upper House": "Senate",
+        "Lower House": "Congress of Deputies"
+      }
+    },
+    "Independence and Formation": {
+      "Dynastic Union": "20 January 1479",
+      "Sole Sovereign": "14 March 1516",
+      "Centralized State": "9 June 1715",
+      "First Constitution": "19 March 1812",
+      "Current Constitution": "29 December 1978",
+      "EEC Accession": "1 January 1986"
+    },
+    "Economy": {
+      "GDP (PPP, 2023)": "$2.413 trillion",
+      "Per Capita GDP (PPP)": "$50,471",
+      "GDP (Nominal, 2023)": "$1.582 trillion",
+      "Per Capita GDP (Nominal)": "$33,090",
+      "Gini Coefficient": "32.0 (medium)",
+      "HDI": "0.905 (very high, 27th)",
+      "Currency": "Euro (€) (EUR)"
+    },
+    "Infrastructure": {
+      "Time Zone": "UTC±0 to +1 (WET and CET)",
+      "Driving Side": "Right",
+      "Calling Code": "+34",
+      "ISO 3166 Code": "ES",
+      "Internet TLD": ".es"
+    },
+    "Geopolitical Features": {
+      "Borders": ["France", "Andorra", "Bay of Biscay", "Mediterranean Sea", "Gibraltar", "Portugal"],
+      "Territories": ["Canary Islands", "Balearic Islands", "Ceuta", "Melilla"]
+    },
+    "Historical Context": {
+      "Early Inhabitants": ["Iberian and Celtic tribes"],
+      "Roman and Islamic Rule": ["Hispania", "Umayyad Caliphate", "Al-Andalus"],
+      "Reconquista and Unification": ["Catholic Monarchs", "1492 Granada conquest"]
+    },
+    "Cultural Aspects": {
+      "Influence": ["Age of Discovery", "Spanish Empire", "Siglo de Oro"],
+      "Language": "Spanish (2nd most spoken native language worldwide)",
+      "UNESCO World Heritage": "Numerous sites",
+      "Cuisine and Arts": "Influential globally"
     }
 }
