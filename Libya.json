@@ -1,68 +1,192 @@
 {
-  "Libya": {
-    "Name": {
+  "Name": {
+    "Common": "Libya",
     "Official": "State of Libya",
     "Native": "دولة ليبيا",
     "Transliteration": "Dawlat Lībiyā"
+  },
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Emblem URL": "URL_to_emblem_image",
+    "Anthem": {
+      "Title": "Libya, Libya, Libya",
+      "Translation": "Libya, Libya, Libya",
+      "Duration": "1 minute and 30 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Africa",
+    "Region": "Maghreb, North Africa",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Tripoli",
+        "Latitude": "32°52′N",
+        "Longitude": "13°11′E"
+      }
     },
-    "Status": ["Islamic Insurgency",	"Libyan crisis"],
-    "geography": {
-      "region": "Maghreb, North Africa",
-      "Historical_Regions": ["Tripolitania", "Fezzan", "Cyrenaica"]
-      "coordinates": "32°52′N 13°11′E",
-      "borders": ["Mediterranean Sea", "Egypt", "Sudan", "Chad", "Niger", "Algeria", "Tunisia"],
-      "area_km2": 1759541,
-      "location_in_Africa": "Northern"
+    "Location": "Northern Africa, bordered by the Mediterranean Sea to the north, Egypt to the east, Sudan to the southeast, Chad to the south, Niger to the southwest, Algeria to the west, and Tunisia to the northwest",
+    "Area": {
+      "Total (km2)": 1759541,
+      "Rank": "17th",
+      "Water Percentage": "N/A"
     },
-    "demographics": {
-      "population_2023_estimate": 7252573,
-      "density_per_km2": 3.74
+    "Borders": {
+      "Mediterranean Sea": "north",
+      "Egypt": "east",
+      "Sudan": "southeast",
+      "Chad": "south",
+      "Niger": "southwest",
+      "Algeria": "west",
+      "Tunisia": "northwest"
     },
-    "capital_largest_city": "Tripoli",
-    "official_language": "Arabic",
-    "ethnic_groups": {
-      "Arabs": "92%",
-      "Berbers": "5%",
-      "Others": "3%"
+    "Coastline": "Mediterranean Sea",
+    "Terrain": ["Coastal plain, desert, mountains in the south"],
+    "Climate": ["Mediterranean along coast; dry, extreme desert interior"],
+    "Natural Resources": ["Petroleum, natural gas, gypsum"],
+    "Time Zones": ["UTC+2 (EET)"],
+    "Largest City": "Tripoli"
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 7252573,
+      "Density (per km2)": 3.74
     },
-    "religion": {
-      "Islam": "99.7%",
-      "Others": "0.3%"
+    "Ethnic Groups": {
+      "2023": {
+        "Arabs": 92,
+        "Berbers": 5,
+        "Others": 3
+      }
     },
-    "government": {
-      "type": "Unitary republic under a provisional unity government",
-      "leaders": {
-        "Chairman_Presidential_Council": "Mohamed al-Menfi",
-        "Vice_Chairman": "Musa Al-Koni",
-        "Prime_Minister": "Abdul Hamid Dbeibeh (disputed)"
-      },
-      "legislature": "House of Representatives"
+    "Languages": {
+      "Official": ["Arabic"]
     },
-    "history": {
-      "independence_from_Italy": "10 February 1947",
-      "kingdom_established": "24 December 1951",
-      "Gaddafi_coup_d'etat": "1 September 1969",
-      "socialist_people's_jamahiriya": "2 March 1977",
-      "first_civil_war": "17 February 2011",
-      "NATO_invasion": "19 March 2011",
-      "end_second_civil_war": "23 October 2020"
+    "Religion": {
+      "2023": {
+        "Islam": 99.7,
+        "Others": 0.3
+      }
     },
-    "economy": {
-      "GDP_PPP_2023_estimate": {
-        "total": "$166.887 billion",
-        "per_capita": "$24,381"
-      },
-      "GDP_nominal_2023_estimate": {
-        "total": "$40.194 billion",
-        "per_capita": "$5,872"
-      },
-      "HDI_2021": 0.718
+    "Demonym": "Libyan"
+  },
+  "Government": {
+    "Type": "Unitary republic under a provisional unity government",
+    "Leaders": {
+      "Chairman of the Presidential Council": "Mohamed al-Menfi",
+      "Vice Chairman": "Musa Al-Koni",
+      "Prime Minister": "Abdul Hamid Dbeibeh (disputed)"
     },
-    "currency": "Libyan dinar (LYD)",
-    "time_zone": "UTC+2 (EET)",
-    "driving_side": "right",
-    "calling_code": "+218",
-    "ISO_3166_code": "LY",
-    "internet_TLD": ".ly"
+    "Legislature": "House of Representatives",
+    "Constitution": "Interim Constitutional Declaration (2011)"
+  },
+  "History": {
+    "Independence from Italy": "10 February 1947",
+    "Kingdom Established": "24 December 1951",
+    "Gaddafi Coup d'Etat": "1 September 1969",
+    "Socialist People's Jamahiriya": "2 March 1977",
+    "First Civil War": "17 February 2011",
+    "NATO Invasion": "19 March 2011",
+    "End of Second Civil War": "23 October 2020"
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Oil, natural gas, minerals",
+    "Major Industries": ["Petroleum", "Petrochemicals", "Aluminum", "Iron and Steel"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 166.887,
+      "Per Capita (USD)": 24381
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 40.194,
+      "Per Capita (USD)": 5872
+    },
+    "Currency": "Libyan dinar (LYD)",
+    "Gini Index": "N/A",
+    "HDI": {
+      "Score": 0.718,
+      "Rank": "105th"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": ["United Nations (UN)", "African Union (AU)", "Arab League", "Organisation of Islamic Cooperation (OIC)"]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+2 (EET)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+218",
+    "ISO 3166 Code": "LY",
+    "Internet TLD": ".ly",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Independence Day (December 24)",
+      "Revolution Day (February 17)",
+      "Eid al-Fitr (Varies)",
+      "Eid al-Adha (Varies)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of Arab and Berber influences",
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["Historical regions of Tripolitania, Fezzan, and Cyrenaica"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 4.0,
+    "Exports Growth": "Driven by oil and natural gas",
+    "Inflation Rate": "15.0%",
+    "Policy Response": {
+      "Focus": "Economic stabilization and infrastructure development",
+      "Areas": ["Oil", "Natural Gas"],
+      "Challenges": "Balancing economic growth with political stability"
+    },
+    "Market Performance": {
+      "Equity Market": "N/A",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on North African culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Oil", "Natural Gas", "Services"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air, and Sea transport",
+    "Key Transport Hubs": ["Tripoli", "Benghazi", "Misrata"]
+  },
+  "Current Challenges": {
+    "Political Instability": "High level of political unrest and instability",
+    "Economic Hardships": "Severe economic crisis with high unemployment and poverty rates",
+    "Natural Disasters": ["Drought"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "72.8 years",
+    "Infant Mortality Rate": "11.5 deaths/1,000 live births",
+    "Health Expenditure of GDP": "4.9% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "3.7% (2020)",
+    "Literacy Rate": {
+      "Total": "91.0%",
+      "Male": "95.0%",
+      "Female": "87.0%"
+    }
   }
 }
