@@ -1,98 +1,217 @@
 {
-    "Slovenia": {
-        "Official Names": {
-            "Slovene": "Republika Slovenija",
-            "English": "Republic of Slovenia",
-            "Abbreviation": "RS"
-        },
-        "Symbols": {
-            "Flag": "Flag of Slovenia",
-            "Coat of Arms": "Coat of arms of Slovenia",
-            "Motto": "Virtus Unita Fortior ('United virtue is stronger')",
-            "Anthem": {
-                "Title": "Zdravljica ('A Toast')",
-                "Duration": "57 seconds"
-            }
-        },
-        "Location": {
-            "Region": "Southern Central Europe",
-            "Coordinates": "46°03′05″N 14°30′22″E",
-            "Borders": ["Italy", "Austria", "Hungary", "Croatia", "Adriatic Sea"]
-        },
-        "Language": {
-            "Official": "Slovene",
-            "Regional": ["Italian", "Hungarian"]
-        },
-        "Ethnic Groups (2002)": {
-            "Slovenes": "83.1%",
-            "Serbs": "2.0%",
-            "Croats": "1.8%",
-            "Bosniaks": "1.6%",
-            "Romani": "0.4%",
-            "Hungarians": "0.3%",
-            "Italians": "0.1%",
-            "Others": "2.2%",
-            "Unspecified": "8.9%"
-        },
-        "Religion (2018)": {
-            "Christianity": "77.8%",
-            "Catholicism": "73.4%",
-            "Orthodoxy": "3.7%",
-            "Other Christian": "0.7%",
-            "No Religion": "18.3%",
-            "Other": "3.9%"
-        },
-        "Government": {
-            "Type": "Unitary parliamentary republic",
-            "President": "Nataša Pirc Musar",
-            "Prime Minister": "Robert Golob",
-            "Legislature": {
-                "Upper House": "National Council",
-                "Lower House": "National Assembly"
-            }
-        },
-        "Establishment": {
-            "State of Slovenes, Croats, and Serbs": "29 October 1918",
-            "Kingdom of Yugoslavia": "1 December 1918",
-            "Independence from Yugoslavia": "25 June 1991"
-        },
-        "Geography": {
-            "Total Area": "20,271 square kilometers",
-            "Terrain": "Mountainous and forested",
-            "Climate": "Temperate continental and sub-mediterranean",
-            "Highest Point": "Triglav"
-        },
-        "Population": {
-            "2022 Estimate": "2,120,937",
-            "2002 Census": "1,964,036",
-            "Density": "103 per km2"
-        },
-        "Economy": {
-            "GDP (PPP) 2023 Estimate": {
-                "Total": "$108.683 billion",
-                "Per Capita": "$51,406"
-            },
-            "GDP (Nominal) 2023 Estimate": {
-                "Total": "$68.394 billion",
-                "Per Capita": "$32,350"
-            },
-            "Gini (2020)": "23.5",
-            "HDI (2021)": "0.918",
-            "Currency": "Euro (€)"
-        },
-        "Demographics": {
-            "Major Cities": ["Ljubljana", "Maribor", "Kranj", "Celje", "Koper"],
-            "Official Language": "Slovene",
-            "Ethnic Composition": "Primarily Slovene, with Italian and Hungarian minorities"
-        },
-        "Culture": {
-            "Historical Influence": "Slavic, Germanic, and Romance",
-            "Cultural Highlights": "Rich in literature, music, and cuisine",
-            "European Integration": "EU, Eurozone, Schengen, OSCE, OECD, NATO member"
-        },
-        "Historical Overview": {
-            "Medieval History": "Part of Holy Roman Empire, Habsburg Monarchy",
-            "Modern History": "Part of Yugoslavia, Independence in 1991"
-        }
+  "Name": {
+    "Common": "Slovenia",
+    "Official": "Republic of Slovenia",
+    "Native": {
+      "Slovene": "Republika Slovenija"
     }
+  },
+  "Symbols": {
+    "Flag": "Flag of Slovenia",
+    "Coat of Arms": "Coat of arms of Slovenia",
+    "Motto": "Virtus Unita Fortior ('United virtue is stronger')",
+    "Anthem": {
+      "Title": "Zdravljica",
+      "Translation": "A Toast",
+      "Duration": "57 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Europe",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Ljubljana",
+        "Latitude": "46°03′05″N",
+        "Longitude": "14°30′22″E"
+      }
+    },
+    "Location": "Southern Central Europe, bordered by Italy to the west, Austria to the north, Hungary to the northeast, Croatia to the south and southeast, and the Adriatic Sea to the southwest.",
+    "Area": {
+      "Total (sq km)": 20271,
+      "Terrain": "Mountainous and forested",
+      "Climate": ["Temperate continental", "Sub-mediterranean"],
+      "Highest Point": "Triglav"
+    },
+    "Natural Resources": ["Lignite", "Lead", "Zinc", "Building stone", "Hydropower"],
+    "Time Zones": ["UTC+1 (CET)", "UTC+2 (CEST in Summer)"],
+    "Largest City": "Ljubljana"
+  },
+  "Demographics": {
+    "Population": {
+      "2022 Estimate": 2120937,
+      "2002 Census": 1964036,
+      "Density (per sq km)": 103
+    },
+    "Ethnic Groups": {
+      "2002": {
+        "Slovenes": 83.1,
+        "Serbs": 2.0,
+        "Croats": 1.8,
+        "Bosniaks": 1.6,
+        "Romani": 0.4,
+        "Hungarians": 0.3,
+        "Italians": 0.1,
+        "Others": 2.2,
+        "Unspecified": 8.9
+      }
+    },
+    "Languages": {
+      "Official": ["Slovene"],
+      "Regional": ["Italian", "Hungarian"]
+    },
+    "Religion": {
+      "2018": {
+        "Christianity": 77.8,
+        "Catholicism": 73.4,
+        "Orthodoxy": 3.7,
+        "Other Christian": 0.7,
+        "No Religion": 18.3,
+        "Other": 3.9
+      }
+    },
+    "Demonym": "Slovene"
+  },
+  "Government": {
+    "Type": "Unitary parliamentary republic",
+    "Leaders": {
+      "President": "Nataša Pirc Musar",
+      "Prime Minister": "Robert Golob"
+    },
+    "Legislature": {
+      "Upper House": "National Council",
+      "Lower House": "National Assembly"
+    },
+    "Constitution": "23 December 1991",
+    "Independence History": {
+      "State of Slovenes, Croats, and Serbs": "29 October 1918",
+      "Kingdom of Yugoslavia": "1 December 1918",
+      "Independence from Yugoslavia": "25 June 1991"
+    }
+  },
+  "History": {
+    "Historical Context": {
+      "Medieval History": "Part of Holy Roman Empire, Habsburg Monarchy",
+      "Modern History": "Part of Yugoslavia, Independence in 1991"
+    }
+  },
+  "Economy": {
+    "Status": "High-income advanced economy",
+    "Dependence": "Manufacturing, services, tourism",
+    "Major Industries": ["Automotive", "Pharmaceuticals", "Electrical equipment", "Machinery", "Chemicals"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 108.683,
+      "Per Capita (USD)": 51406
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 68.394,
+      "Per Capita (USD)": 32350
+    },
+    "Currency": "Euro (€)",
+    "Gini Index": {
+      "Year": 2020,
+      "Value": 23.5,
+      "Category": "Low"
+    },
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.918,
+      "Category": "Very High",
+      "Rank": "22nd"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": [
+      "European Union (EU)",
+      "Eurozone",
+      "Schengen Area",
+      "United Nations (UN)",
+      "North Atlantic Treaty Organization (NATO)",
+      "Organisation for Economic Co-operation and Development (OECD)",
+      "Organization for Security and Co-operation in Europe (OSCE)"
+    ]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+1 (CET)", "UTC+2 (CEST in Summer)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+386",
+    "ISO 3166 Code": "SI",
+    "Internet TLD": [".si"],
+    "Public Holidays": [
+      "New Year's Day",
+      "Prešeren Day",
+      "Easter Monday",
+      "Labor Day",
+      "Statehood Day",
+      "Assumption Day",
+      "Reformation Day",
+      "All Saints' Day",
+      "Christmas Day",
+      "Independence and Unity Day"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with influences from Slavic, Germanic, and Romance cultures",
+    "Cultural Contributions": ["Literature", "Music", "Cuisine"],
+    "Unique Features": ["Traditional folk music and dance", "Slovenian wine", "Alpine and Mediterranean cultural influences"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.2,
+    "Exports Growth": "Driven by manufacturing and services sectors",
+    "Inflation Rate": "1.8%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Manufacturing", "Services"],
+      "Challenges": "Balancing economic growth with social development"
+    },
+    "Market Performance": {
+      "Equity Market": "Ljubljana Stock Exchange",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban population, with Ljubljana being the primary urban center",
+      "Rural Development": "Focus on improving rural infrastructure and living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Central European and global culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Manufacturing", "Services"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education and improving literacy rates",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air, and Sea transport",
+    "Key Transport Hubs": ["Ljubljana Jože Pučnik Airport", "Port of Koper"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Low level of political unrest and instability",
+    "Economic Hardships": "Moderate poverty and unemployment rates",
+    "Natural Disasters": ["Floods", "Earthquakes"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "81.2 years",
+    "Infant Mortality Rate": "2.1 deaths/1,000 live births",
+    "Health Expenditure of GDP": "8.5% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "4.5% (2020)",
+    "Literacy Rate": {
+      "Total": "99.7%",
+      "Male": "99.8%",
+      "Female": "99.6%"
+    }
+  }
 }
