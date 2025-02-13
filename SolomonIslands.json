@@ -1,188 +1,206 @@
 {
-  "Solomon_Islands": {
-    "name": "Solomon Islands",
-    "local_name": "Solomon Aelan",
-    "flag": "Flag of Solomon Islands",
-    "coat_of_arms": "Coat of arms of Solomon Islands",
-    "motto": "To Lead is to Serve",
-    "anthem": "God Save Our Solomon Islands",
-    "capital": "Honiara",
-    "coordinates": "9°25′55″S 159°57′20″E",
-    "official_languages": ["English", "Pijin"],
-    "ethnic_groups": {
-      "Melanesian": "95.3%",
-      "Polynesian": "3.1%",
-      "Micronesian": "1.2%",
-      "Others": "0.4%"
+  "Name": {
+    "Common": "Solomon Islands",
+    "Official": "Solomon Islands",
+    "Native": "Solomon Aelan"
+  },
+  "Symbols": {
+    "Flag": "Flag of Solomon Islands",
+    "Coat of Arms": "Coat of arms of Solomon Islands",
+    "Motto": "To Lead is to Serve",
+    "Anthem": {
+      "Title": "God Save Our Solomon Islands",
+      "Duration": "1 minute and 20 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Oceania",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Honiara",
+        "Latitude": "9°25′55″S",
+        "Longitude": "159°57′20″E"
+      }
     },
-    "religion": {
-      "Christianity": "97.4%",
-      "Protestantism": "76.6%",
-      "Catholicism": "19.0%",
-      "Other_Christian": "1.8%",
-      "Folk_religions": "1.2%",
-      "Others_or_none": "1.4%"
+    "Location": "Southwest Pacific Ocean, east of Papua New Guinea",
+    "Area": {
+      "Total (sq km)": 30407,
+      "Land (sq km)": 27986,
+      "Water Percentage": 3.2
     },
-    "demonym": "Solomon Islander",
-    "government_type": "Unitary parliamentary constitutional monarchy",
-    "monarch": "Charles III",
-    "governor_general": "Sir David Vunagi",
-    "prime_minister": "Manasseh Sogavare",
-    "legislature": "National Parliament",
-    "independence": "7 July 1978",
-    "area": {
-      "total_km2": 30407,
-      "land_km2": 27986,
-      "water_percent": 3.2
+    "Topography": ["Mostly rugged mountains", "Low coral atolls"],
+    "Climate": ["Tropical monsoon"],
+    "Natural Resources": ["Fish", "Forests"],
+    "Time Zones": ["UTC+11"],
+    "Largest City": "Honiara"
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 734887,
+      "2019 Census": 720956,
+      "Density (per sq km)": 24.2
     },
-    "population": {
-      "estimate_2023": 734887,
-      "census_2019": 720956,
-      "density_per_km2": 24.2
+    "Ethnic Groups": {
+      "2019": {
+        "Melanesian": 95.3,
+        "Polynesian": 3.1,
+        "Micronesian": 1.2,
+        "Others": 0.4
+      }
     },
-    "gdp": {
-      "ppp_total_2019": "$1.479 billion",
-      "ppp_per_capita_2019": "$2,307",
-      "nominal_total_2019": "$1.511 billion",
-      "nominal_per_capita_2019": "$2,357"
+    "Languages": {
+      "Official": ["English", "Pijin"]
     },
-    "gini": {
-      "year": 2013,
-      "index": 37.1
+    "Religion": {
+      "2019": {
+        "Christianity": 97.4,
+        "Protestantism": 76.6,
+        "Catholicism": 19.0,
+        "Other Christian": 1.8,
+        "Folk Religions": 1.2,
+        "Others or None": 1.4
+      }
     },
-    "hdi": {
-      "year": 2021,
-      "index": 0.564,
-      "rank": 155
+    "Demonym": "Solomon Islander"
+  },
+  "Government": {
+    "Type": "Unitary parliamentary constitutional monarchy",
+    "Leaders": {
+      "Monarch": "Charles III",
+      "Governor General": "Sir David Vunagi",
+      "Prime Minister": "Manasseh Sogavare"
     },
-    "currency": "Solomon Islands dollar (SBD)",
-    "time_zone": "UTC+11",
-    "driving_side": "left",
-    "calling_code": "+677",
-    "iso_3166_code": "SB",
-    "internet_tld": ".sb",
-    "geography": {
-      "total_area_sq_km": 28496,
-      "landmass_area_sq_km": 10938,
-      "major_islands": ["Choiseul", "New Georgia", "Santa Isabel", "Guadalcanal", "Malaita", "Makira"],
-      "terrain": "Mostly rugged mountains with some low coral atolls",
-      "highest_poin
-{
-  "Solomon_Islands": {
-    "name": "Solomon Islands",
-    "local_name": "Solomon Aelan",
-    "flag": "Flag of Solomon Islands",
-    "coat_of_arms": "Coat of arms of Solomon Islands",
-    "motto": "To Lead is to Serve",
-    "anthem": "God Save Our Solomon Islands",
-    "capital": "Honiara",
-    "coordinates": "9°25′55″S 159°57′20″E",
-    "official_languages": ["English", "Pijin"],
-    "ethnic_groups": {
-      "Melanesian": "95.3%",
-      "Polynesian": "3.1%",
-      "Micronesian": "1.2%",
-      "Others": "0.4%"
+    "Legislature": "National Parliament",
+    "Constitution": "7 July 1978",
+    "Independence History": {
+      "From United Kingdom": "7 July 1978"
+    }
+  },
+  "History": {
+    "Historical Context": {
+      "First Settlement Period": "30,000 - 28,800 BC",
+      "Significant Migration": "Lapita people",
+      "First European Contact": "1568 by Álvaro de Mendaña",
+      "British Protectorate Establishment": "1893",
+      "World War II Significance": ["Solomon Islands campaign", "Battle of Guadalcanal"],
+      "Post War Developments": ["Maasina Ruru movement", "Moro Movement"],
+      "Independence from United Kingdom": "1978",
+      "Recent Developments": ["Tribal hostilities in 1998", "RAMSI intervention in 2003"]
+    }
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Fishing, forestry, agriculture",
+    "Major Industries": ["Fishing", "Forestry"],
+    "GDP (PPP 2019)": {
+      "Total (Billion USD)": 1.479,
+      "Per Capita (USD)": 2307
     },
-    "religion": {
-      "Christianity": "97.4%",
-      "Protestantism": "76.6%",
-      "Catholicism": "19.0%",
-      "Other_Christian": "1.8%",
-      "Folk_religions": "1.2%",
-      "Others_or_none": "1.4%"
+    "GDP (Nominal 2019)": {
+      "Total (Billion USD)": 1.511,
+      "Per Capita (USD)": 2357
     },
-    "demonym": "Solomon Islander",
-    "government_type": "Unitary parliamentary constitutional monarchy",
-    "monarch": "Charles III",
-    "governor_general": "Sir David Vunagi",
-    "prime_minister": "Manasseh Sogavare",
-    "legislature": "National Parliament",
-    "independence": "7 July 1978",
-    "area": {
-      "total_km2": 30407,
-      "land_km2": 27986,
-      "water_percent": 3.2
+    "Currency": "Solomon Islands Dollar (SBD)",
+    "Gini Index": {
+      "Year": 2013,
+      "Value": 37.1,
+      "Category": "Medium"
     },
-    "population": {
-      "estimate_2023": 734887,
-      "census_2019": 720956,
-      "density_per_km2": 24.2
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.564,
+      "Category": "Medium",
+      "Rank": "155th"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in regional and international affairs",
+    "Membership": [
+      "United Nations (UN)",
+      "Pacific Islands Forum (PIF)",
+      "Commonwealth of Nations",
+      "World Trade Organization (WTO)"
+    ]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+11"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Left",
+    "Calling Code": "+677",
+    "ISO 3166 Code": "SB",
+    "Internet TLD": [".sb"],
+    "Public Holidays": [
+      "New Year's Day",
+      "Good Friday",
+      "Easter Monday",
+      "Whit Monday",
+      "Queen's Official Birthday",
+      "Independence Day",
+      "Christmas Day",
+      "Boxing Day"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with Melanesian, Polynesian, and Micronesian influences",
+    "Cultural Contributions": ["Music", "Dance", "Art", "Cuisine"],
+    "Unique Features": ["Traditional practices like pottery, weaving, wood carving", "Communal family structure with strong ties to extended family"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 4.0,
+    "Exports Growth": "Driven by fishing and forestry sectors",
+    "Inflation Rate": "3.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Fishing", "Forestry"],
+      "Challenges": "Balancing economic growth with social development"
     },
-    "gdp": {
-      "ppp_total_2019": "$1.479 billion",
-      "ppp_per_capita_2019": "$2,307",
-      "nominal_total_2019": "$1.511 billion",
-      "nominal_per_capita_2019": "$2,357"
+    "Market Performance": {
+      "Equity Market": "Solomon Islands Stock Exchange",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban population, with Honiara being the primary urban center",
+      "Rural Development": "Focus on improving rural infrastructure and living standards"
     },
-    "gini": {
-      "year": 2013,
-      "index": 37.1
+    "Cultural Heritage": {
+      "Influence": "Significant on Pacific and global culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
     },
-    "hdi": {
-      "year": 2021,
-      "index": 0.564,
-      "rank": 155
+    "Technology and Innovation": {
+      "Growth Sectors": ["Fishing", "Forestry"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
     },
-    "currency": "Solomon Islands dollar (SBD)",
-    "time_zone": "UTC+11",
-    "driving_side": "left",
-    "calling_code": "+677",
-    "iso_3166_code": "SB",
-    "internet_tld": ".sb",
-    "geography": {
-      "total_area_sq_km": 28496,
-      "landmass_area_sq_km": 10938,
-      "major_islands": ["Choiseul", "New Georgia", "Santa Isabel", "Guadalcanal", "Malaita", "Makira"],
-      "terrain": "Mostly rugged mountains with some low coral atolls",
-      "highest_point": "Mount Popomanaseu",
-      "highest_point_altitude_m": 2332,
-      "climate": "Tropical monsoon",
-      "average_temperature_range_deg_c": {
-        "mean_daily_max": 27.4,
-        "mean_daily_min": 23.6
-      },
-      "average_annual_precipitation_mm": 3669
-    },
-    "economy": {
-      "main_industries": ["Fishing", "Forestry"],
-      "agricultural_land_percent": 3.9,
-      "forest_area_percent": 78.9,
-      "natural_resources": ["Fish", "Forests"],
-      "education_expenditure_percent_of_gdp": 12.8,
-      "revenue_from_forest_resources_percent_of_gdp": 20.27
-    },
-    "demographics": {
-      "urban_population_percent": 26,
-      "adult_obesity_rate_percent": 22.5,
-      "tobacco_use_percent": 36.5,
-      "children_under_5_underweight_percent": 16.2,
-      "currently_married_women_percent": 64.1
-    },
-    
-
-    "environment": {
-      "current_issues": ["Deforestation", "Soil erosion", "Coral reef damage"],
-      "carbon_dioxide_emissions_megatons": 0.17,
-      "methane_emissions_megatons": 0.43,
-      "particulate_matter_emissions_micrograms_per_cubic_meter": 7.83,
-      "total_renewable_water_resources_billion_cubic_meters": 44.7
-    },
-    "history": {
-      "first_settlement_period": "30,000 - 28,800 BC",
-      "significant_migration": "Lapita people",
-      "first_european_contact": "1568 by Álvaro de Mendaña",
-      "british_protectorate_establishment": "1893",
-      "world_war_ii_significance": ["Solomon Islands campaign", "Battle of Guadalcanal"],
-      "post_war_developments": ["Maasina Ruru movement", "Moro Movement"],
-      "independence_from_United_Kingdom": "1978",
-      "recent_developments": ["Tribal hostilities in 1998", "RAMSI intervention in 2003"]
-    },
-    "culture": {
-      "dominant_religions": ["Church of Melanesia (Anglican) 29%", "Roman Catholic 19%"],
-      "communal_family_structure": "Strong ties with extended family",
-      "language_group_term": "Wantok",
-      "traditional_practices": ["Pottery", "Weaving", "Wood carving"]
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education and improving literacy rates",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Sea, and Air transport",
+    "Key Transport Hubs": ["Honiara International Airport", "Port of Honiara"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Moderate level of political unrest and instability",
+    "Economic Hardships": "High poverty and unemployment rates",
+    "Natural Disasters": ["Cyclones", "Earthquakes"],
+    "Health Issues": ["Malaria", "COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "73.2 years",
+    "Infant Mortality Rate": "11.1 deaths/1,000 live births",
+    "Health Expenditure of GDP": "5.8% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "12.8% (2020)",
+    "Literacy Rate": {
+      "Total": "84.1%",
+      "Male": "88.2%",
+      "Female": "80.0%"
     }
   }
 }
