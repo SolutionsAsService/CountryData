@@ -1,109 +1,213 @@
 {
-  "Latvia":{
-  "Country": "Latvia",
-  "Official_Name": "Republic of Latvia",
-  "Native_Name": {
-    "Latvian": "Latvijas Republika",
-    "Latgalian": "Latvejas Republika",
-    "Livonian": "Lețmō Vabāmō"
-  },
-  "Flag": "Three horizontal bands of maroon (top and bottom) and white (middle)",
-  "Anthem": "Dievs, svētī Latviju! (God Bless Latvia!)",
-  "Capital": "Riga",
-  "Coordinates": "56°57′N 24°6′E",
-  "Official_Languages": "Latvian",
-  "Recognized_Languages": ["Livonian", "Latgalian"],
-  "Ethnic_Groups": {
-    "2022": {
-      "Latvians": 63.0,
-      "Russians": 24.2,
-      "Belarusians": 3.1,
-      "Ukrainians": 2.2,
-      "Poles": 1.9,
-      "Lithuanians": 1.1,
-      "Roma": 0.3,
-      "Jews": 0.2,
-      "Others_Unspecified": 4.0
+  "Name": {
+    "Common": "Latvia",
+    "Official": "Republic of Latvia",
+    "Native": {
+      "Latvian": "Latvijas Republika",
+      "Latgalian": "Latvejas Republika",
+      "Livonian": "Lețmō Vabāmō"
     }
   },
-  "Religion": {
-    "2018": {
-      "Christianity_Total": 64,
-      "Lutheranism": 36,
-      "Catholicism": 17,
-      "Orthodoxy": 9,
-      "Other_Christian": 2,
-      "No_Religion": 35,
-      "Others": 1
+  "Symbols": {
+    "Flag": "Three horizontal bands of maroon (top and bottom) and white (middle)",
+    "Emblem": "URL_to_emblem_image",
+    "Anthem": {
+      "Title": "Dievs, svētī Latviju!",
+      "Translation": "God Bless Latvia!",
+      "Duration": "1 minute and 10 seconds"
     }
+  },
+  "Geography": {
+    "Continent": "Europe",
+    "Region": "Northern Europe, Baltic region",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Riga",
+        "Latitude": "56°57′N",
+        "Longitude": "24°6′E"
+      }
+    },
+    "Location": "Baltic region of Northern Europe, bordered by Russia to the east, Belarus to the southeast, Estonia to the north, Lithuania to the south, and maritime borders with Sweden to the west",
+    "Area": {
+      "Total (km2)": 64589,
+      "Rank": "122nd",
+      "Water Percentage": "2.09%"
+    },
+    "Borders": {
+      "Russia": "east",
+      "Belarus": "southeast",
+      "Estonia": "north",
+      "Lithuania": "south"
+    },
+    "Coastline": "Gulf of Riga and Baltic Sea",
+    "Terrain": ["Lowland plains, rolling hills, and numerous lakes"],
+    "Climate": ["Maritime; wet, moderate winters and cool summers"],
+    "Natural Resources": ["Peat, limestone, dolomite, amber, hydropower, timber"],
+    "Time Zones": ["UTC+2 (EET)", "UTC+3 (EEST) during DST"],
+    "Largest City": "Riga"
+  },
+  "Demographics": {
+    "Population": {
+      "2022 Estimate": 1842226,
+      "Density (per km2)": 29.6
+    },
+    "Ethnic Groups": {
+      "2022": {
+        "Latvians": 63.0,
+        "Russians": 24.2,
+        "Belarusians": 3.1,
+        "Ukrainians": 2.2,
+        "Poles": 1.9,
+        "Lithuanians": 1.1,
+        "Roma": 0.3,
+        "Jews": 0.2,
+        "Others/Unspecified": 4.0
+      }
+    },
+    "Languages": {
+      "Official": ["Latvian"],
+      "Recognized": ["Livonian", "Latgalian"]
+    },
+    "Religion": {
+      "2018": {
+        "Christianity": {
+          "Total": 64,
+          "Lutheranism": 36,
+          "Catholicism": 17,
+          "Orthodoxy": 9,
+          "Other Christian": 2
+        },
+        "No Religion": 35,
+        "Others": 1
+      }
+    },
+    "Demonym": "Latvian"
   },
   "Government": {
     "Type": "Unitary parliamentary republic",
-    "President": "Edgars Rinkēvičs",
-    "Prime_Minister": "Evika Siliņa",
-    "Speaker_of_Saeima": "Daiga Mieriņa"
-  },
-  "Legislature": "Saeima",
-  "Independence": {
-    "Declared": "18 November 1918",
-    "Recognised": "26 January 1921",
-    "Constitution_Adopted": "7 November 1922",
-    "Restored": "21 August 1991",
-    "EU_Joined": "1 May 2004"
-  },
-  "Area": {
-    "Total": "64,589 km2",
-    "Rank": 122,
-    "Water_Percentage": 2.09
-  },
-  "Population": {
-    "2022_Estimate": "1,842,226",
-    "Density": "29.6/km2"
-  },
-  "GDP": {
-    "PPP_2023_Estimate": {
-      "Total": "$76.550 billion",
-      "Per_Capita": "$40,891"
+    "Leaders": {
+      "President": "Edgars Rinkēvičs",
+      "Prime Minister": "Evika Siliņa",
+      "Speaker of the Saeima": "Daiga Mieriņa"
     },
-    "Nominal_2023_Estimate": {
-      "Total": "$46.668 billion",
-      "Per_Capita": "$24,929"
+    "Legislature": "Saeima",
+    "Constitution": "7 November 1922"
+  },
+  "History": {
+    "Independence": {
+      "Declared": "18 November 1918",
+      "Recognised": "26 January 1921",
+      "Constitution Adopted": "7 November 1922",
+      "Restored": "21 August 1991",
+      "EU Joined": "1 May 2004"
     }
   },
-  "Gini_Index": {
-    "2021": 35.7
-  },
-  "HDI": {
-    "2021": 0.863
-  },
-  "Currency": "Euro (€) (EUR)",
-  "Time_Zone": "UTC+2 (EET)",
-  "Summer_DST": "UTC+3 (EEST)",
-  "Driving_Side": "right",
-  "Calling_Code": "+371",
-  "ISO_Code": "LV",
-  "Internet_TLD": ".lv",
-  "Geography": {
-    "Location": "Baltic region of Northern Europe",
-    "Climate": "Maritime; wet, moderate winters",
-    "Land_Use": {
-      "Agricultural_Land_Percentage": 29.2,
-      "Forest_Percentage": 54.1
+  "Economy": {
+    "Status": "Developed country",
+    "Dependence": "Services, manufacturing, agriculture",
+    "Major Industries": ["Wood products, processed foods, textiles, machinery, electronics"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 76.550,
+      "Per Capita (USD)": 40891
     },
-    "Bordering_Countries": ["Russia", "Belarus", "Estonia", "Lithuania"],
-    "Maritime_Borders": ["Sweden"]
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 46.668,
+      "Per Capita (USD)": 24929
+    },
+    "Currency": "Euro (€) (EUR)",
+    "Gini Index": 35.7,
+    "HDI": {
+      "Score": 0.863,
+      "Rank": "39th"
+    }
   },
-  "Culture_and_History": {
-    "Art_Nouveau_Architecture": "Riga has the finest collection in Europe",
-    "Unique_Facts": [
-      "Home to a large variety of deciduous and coniferous tree species",
-      "High rates of fashion models",
-      "Shortage of women compared to men"
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": ["United Nations (UN)", "European Union (EU)", "North Atlantic Treaty Organization (NATO)", "World Trade Organization (WTO)", "Schengen Area"]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+2 (EET)", "UTC+3 (EEST) during DST"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+371",
+    "ISO 3166 Code": "LV",
+    "Internet TLD": ".lv",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Good Friday (Varies)",
+      "Easter Monday (Varies)",
+      "Labour Day (May 1)",
+      "Restoration of Independence Day (May 4)",
+      "Midsummer's Eve (June 23)",
+      "Midsummer's Day (June 24)",
+      "Proclamation Day of the Republic of Latvia (November 18)",
+      "Christmas Eve (December 24)",
+      "Christmas Day (December 25)",
+      "Boxing Day (December 26)",
+      "New Year's Eve (December 31)"
     ]
   },
-  "Environmental_Aspects": {
-    "Forest_Coverage": "Approximately 56%",
-    "Rivers": "Around 12,500 rivers, streams and large ditches"
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of Latvian, Russian, and German influences",
+    "Cultural Contributions": ["Art Nouveau architecture", "Music", "Dance", "Cuisine"],
+    "Unique Features": ["Highest concentration of Art Nouveau buildings in Europe", "Home to a large variety of deciduous and coniferous tree species"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.0,
+    "Exports Growth": "Driven by manufacturing and services",
+    "Inflation Rate": "2.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Manufacturing", "Services"],
+      "Challenges": "Balancing economic growth with environmental sustainability"
+    },
+    "Market Performance": {
+      "Equity Market": "N/A",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Baltic and Northern European culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Manufacturing", "Services", "Agriculture"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air, and Sea transport",
+    "Key Transport Hubs": ["Riga", "Ventspils", "Liepāja"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Occasional protests and political unrest",
+    "Economic Hardships": "High unemployment and poverty rates",
+    "Natural Disasters": ["Floods"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "75.4 years",
+    "Infant Mortality Rate": "3.9 deaths/1,000 live births",
+    "Health Expenditure of GDP": "6.2% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "5.3% (2020)",
+    "Literacy Rate": {
+      "Total": "99.9%",
+      "Male": "99.9%",
+      "Female": "99.9%"
+    }
   }
-}
 }
