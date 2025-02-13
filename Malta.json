@@ -1,95 +1,208 @@
 {
-  "Malta": {
-    "general_information": {
-      "official_name": "Republic of Malta",
-      "maltese_name": "Repubblika ta' Malta",
-      "flag": "Flag of Malta",
-      "coat_of_arms": "Coat of arms of Malta",
-      "motto": "Virtute et constantia",
-      "anthem": "L-Innu Malti",
-      "location": "Southern Europe, Mediterranean Sea",
-      "coordinates": {
-        "capital": {
-          "Valletta": "35°54′N 14°31′E"
-        }
-      },
-      "largest_administrative_unit": "St. Paul's Bay",
-      "official_languages": ["Maltese", "English"],
-      "ethnic_groups": {
-        "Maltese": "77.8%",
-        "Non-Maltese": "22.2%"
-      },
-      "religion": {
-        "Christianity": "88.5%",
-        "Catholicism": "82.6%",
-        "Other_Christian": "5.9%",
-        "No_religion": "5.1%",
-        "Islam": "3.9%",
-        "Hinduism": "1.4%",
-        "Other": "1.1%"
-      },
-      "demonym": "Maltese"
-    },
-    "government": {
-      "type": "Unitary parliamentary republic",
-      "president": "George Vella",
-      "prime_minister": "Robert Abela",
-      "legislature": "Parliament of Malta"
-    },
-    "independence": {
-      "from_UK": "21 September 1964",
-      "republic": "13 December 1974",
-      "EU_membership": "1 May 2004"
-    },
-    "geography": {
-      "total_area_km2": 316,
-      "water_percentage": 0.001,
-      "location_relative": {
-        "Sicily": "80 km south",
-        "Tunisia": "284 km east",
-        "Libya": "333 km north"
+  "Name": {
+    "Common": "Malta",
+    "Official": "Republic of Malta",
+    "Native": {
+      "Maltese": "Repubblika ta' Malta"
+    }
+  },
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Coat of Arms URL": "URL_to_coat_of_arms_image",
+    "Motto": "Virtute et constantia",
+    "Anthem": {
+      "Title": "L-Innu Malti",
+      "Translation": "The Maltese Hymn",
+      "Duration": "1 minute and 30 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Europe",
+    "Region": "Southern Europe, Mediterranean Sea",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Valletta",
+        "Latitude": "35°54′N",
+        "Longitude": "14°31′E"
       }
     },
-    "economy": {
-      "currency": "Euro (€) (EUR)",
-      "GDP_PPP": {
-        "total": "$33.303 billion",
-        "per_capita": "$63,481"
-      },
-      "GDP_nominal": {
-        "total": "$20.311 billion",
-        "per_capita": "$38,715"
-      },
-      "Gini_index": "28.0 (Low)",
-      "HDI": "0.918 (Very High)"
+    "Location": "Southern Europe, Mediterranean Sea, south of Sicily, east of Tunisia, and north of Libya",
+    "Area": {
+      "Total (km2)": 316,
+      "Rank": "186th",
+      "Water Percentage": "0.001%"
     },
-    "demographics": {
-      "population_2021": 519562,
-      "density_per_km2": 1649,
-      "urban_area_population": 480134
+    "Borders": {
+      "Ocean": "Mediterranean Sea"
     },
-    "infrastructure": {
-      "time_zone": "UTC+1 (CET)",
-      "summer_DST": "UTC+2 (CEST)",
-      "driving_side": "left",
-      "iso_code": "MT",
-      "internet_TLD": [".mt", ".eu"]
+    "Coastline": "196.8 km",
+    "Topography": ["Low hills", "Terraced fields"],
+    "Climate": ["Mediterranean"],
+    "Natural Resources": ["Limestone", "Salt", "Arable land"],
+    "Time Zones": ["UTC+1 (CET)", "UTC+2 (CEST) during DST"],
+    "Largest Administrative Unit": "St. Paul's Bay"
+  },
+  "Demographics": {
+    "Population": {
+      "2021 Census": 519562,
+      "Density (per km2)": 1649,
+      "Urban Area Population": 480134
     },
-    "culture": {
-      "state_religion": "Catholicism",
-      "freedom_of_religion": true,
-      "tourism_focus": "Mediterranean tourist destination",
-      "UNESCO_World_Heritage_Sites": ["Ħal Saflieni Hypogeum", "Valletta", "Megalithic Temples"],
-      "influence": "Historically and culturally tied to Italy and Sicily",
-      "Italian_language_proficiency": "62 to 66 percent"
+    "Ethnic Groups": {
+      "2021": {
+        "Maltese": 77.8,
+        "Non-Maltese": 22.2
+      }
     },
-    "history": {
-      "inhabitation_since": "Approximately 5900 BC",
-      "strategic_importance": "Naval base in the Mediterranean",
-      "succession_of_powers": ["Phoenicians", "Carthaginians", "Greeks", "Romans", "Arabs", "Normans", "Aragonese", "Knights of St. John", "French", "British"],
-      "British_colony": "1813",
-      "WWII_significance": "Allied base for operations in North Africa and the Mediterranean",
-      "independence_act": "1964"
+    "Languages": {
+      "Official": ["Maltese", "English"]
+    },
+    "Religion": {
+      "2021": {
+        "Christianity": 88.5,
+        "Catholicism": 82.6,
+        "Other Christian": 5.9,
+        "No Religion": 5.1,
+        "Islam": 3.9,
+        "Hinduism": 1.4,
+        "Other": 1.1
+      }
+    },
+    "Demonym": "Maltese"
+  },
+  "Government": {
+    "Type": "Unitary parliamentary republic",
+    "Leaders": {
+      "President": "George Vella",
+      "Prime Minister": "Robert Abela",
+      "Speaker of Parliament": "Angelo Farrugia"
+    },
+    "Legislature": "Parliament of Malta",
+    "Constitution": "13 December 1974"
+  },
+  "History": {
+    "Inhabitation Since": "Approximately 5900 BC",
+    "Strategic Importance": "Naval base in the Mediterranean",
+    "Succession of Powers": ["Phoenicians", "Carthaginians", "Greeks", "Romans", "Arabs", "Normans", "Aragonese", "Knights of St. John", "French", "British"],
+    "British Colony": "1813",
+    "WWII Significance": "Allied base for operations in North Africa and the Mediterranean",
+    "Independence Act": "21 September 1964",
+    "Republic Proclaimed": "13 December 1974",
+    "EU Membership": "1 May 2004"
+  },
+  "Economy": {
+    "Status": "Developed country",
+    "Dependence": "Tourism, manufacturing, services",
+    "Major Industries": ["Tourism", "Electronics", "Pharmaceuticals", "Shipbuilding"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 33.303,
+      "Per Capita (USD)": 63481
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 20.311,
+      "Per Capita (USD)": 38715
+    },
+    "Currency": "Euro (€) (EUR)",
+    "Gini Index": {
+      "Year": 2023,
+      "Value": 28.0,
+      "Category": "Low"
+    },
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.918,
+      "Category": "Very High",
+      "Rank": "28th"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": ["United Nations (UN)", "European Union (EU)", "Commonwealth of Nations", "Council of Europe", "World Trade Organization (WTO)"]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+1 (CET)", "UTC+2 (CEST) during DST"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Left",
+    "Calling Code": "+356",
+    "ISO 3166 Code": "MT",
+    "Internet TLD": [".mt", ".eu"],
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Feast of St. Paul's Shipwreck (February 10)",
+      "Freedom Day (March 31)",
+      "Good Friday (Varies)",
+      "Easter Monday (Varies)",
+      "Labour Day (May 1)",
+      "Sette Giugno (June 7)",
+      "Feast of St. Peter and St. Paul (June 29)",
+      "Feast of the Assumption (August 15)",
+      "Victory Day (September 8)",
+      "Independence Day (September 21)",
+      "Republic Day (December 13)",
+      "Christmas Day (December 25)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of Mediterranean and European influences",
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["UNESCO World Heritage Sites: Ħal Saflieni Hypogeum, Valletta, Megalithic Temples", "Italian language proficiency: 62 to 66 percent", "State religion: Catholicism"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.5,
+    "Exports Growth": "Driven by tourism and manufacturing",
+    "Inflation Rate": "2.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Tourism", "Manufacturing"],
+      "Challenges": "Balancing economic growth with environmental protection"
+    },
+    "Market Performance": {
+      "Equity Market": "N/A",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Mediterranean and European culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Tourism", "Manufacturing", "Services"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Sea, Air transport",
+    "Key Transport Hubs": ["Valletta", "Marsaxlokk", "Birkirkara"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Low level of political unrest and instability",
+    "Economic Hardships": "Moderate unemployment and poverty rates",
+    "Natural Disasters": ["Drought"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "82.4 years",
+    "Infant Mortality Rate": "3.8 deaths/1,000 live births",
+    "Health Expenditure of GDP": "9.1% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "5.2% (2020)",
+    "Literacy Rate": {
+      "Total": "99.5%",
+      "Male": "99.6%",
+      "Female": "99.4%"
     }
   }
 }
