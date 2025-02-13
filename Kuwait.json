@@ -1,82 +1,193 @@
 {
-  "State of Kuwait": {
-    "Common_Name": "Kuwait",
-    "Official Name in Arabic": "دولة الكويت",
-    "Pronunciation": "/ kʊˈweɪt /",
-    "Flag": "Flag of Kuwait",
-    "Emblem": "Emblem of Kuwait",
-    "Anthem": "an-Nashīd al-Waṭani (National Anthem)",
-    "Location": "Northern edge of Eastern Arabia, tip of the Persian Gulf",
+  "Name": {
+    "Common": "Kuwait",
+    "Official": {
+      "English": "State of Kuwait",
+      "Arabic": "دولة الكويت",
+      "Pronunciation": "/ kʊˈweɪt /"
+    }
+  },
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Emblem URL": "URL_to_emblem_image",
+    "Anthem": {
+      "Title": "an-Nashīd al-Waṭani",
+      "Translation": "National Anthem",
+      "Duration": "1 minute and 3 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Asia",
+    "Region": "Northern edge of Eastern Arabia, tip of the Persian Gulf",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Kuwait City",
+        "Latitude": "29°22′N",
+        "Longitude": "47°58′E"
+      }
+    },
+    "Location": "Northern edge of Eastern Arabia, at the tip of the Persian Gulf, bordered by Iraq to the north, Saudi Arabia to the south, and maritime borders with Iran",
+    "Area": {
+      "Total (km2)": 17818,
+      "Rank": "152nd",
+      "Water Percentage": "N/A"
+    },
     "Borders": {
       "North": "Iraq",
       "South": "Saudi Arabia",
       "Maritime Borders": "Iran"
     },
-    "Capital and Largest City": "Kuwait City",
-    "Official Language": "Arabic",
-    "Other Languages": [
-      "English", "Tagalog", "Pidgin Arabic", "Hindi", "Persian",
-      "Bengali", "Urdu", "French", "Malayalam", "Pashto",
-      "Turkish", "Armenian", "Kurdish"
-    ],
-    "Ethnic Groups (2018)": {
-      "Arabs": "57.8%",
-      "Asians": "40.3%",
-      "Africans": "1.0%",
-      "Others": "0.9%"
+    "Coastline": "Persian Gulf",
+    "Terrain": ["Flat to slightly undulating desert plain"],
+    "Climate": ["Arid; hot summers, short cool winters"],
+    "Natural Resources": ["Petroleum, fish, shrimp, natural gas"],
+    "Time Zones": ["UTC+3"],
+    "Largest City": "Kuwait City"
+  },
+  "Demographics": {
+    "Population": {
+      "2022 Estimate": 4294621,
+      "Density (per km2)": 241
     },
-    "Religion (2013)": {
-      "Islam (official)": "76.7%",
-      "Christianity": "17.3%",
-      "Others": "6.0%"
+    "Ethnic Groups": {
+      "2018": {
+        "Arabs": 57.8,
+        "Asians": 40.3,
+        "Africans": 1.0,
+        "Others": 0.9
+      }
     },
-    "Demonym": "Kuwaiti",
-    "Government": "Unitary parliamentary constitutional elective monarchy",
-    "Current Leaders": {
+    "Languages": {
+      "Official": ["Arabic"],
+      "Other": ["English", "Tagalog", "Pidgin Arabic", "Hindi", "Persian", "Bengali", "Urdu", "French", "Malayalam", "Pashto", "Turkish", "Armenian", "Kurdish"]
+    },
+    "Religion": {
+      "2013": {
+        "Islam (official)": 76.7,
+        "Christianity": 17.3,
+        "Others": 6.0
+      }
+    },
+    "Demonym": "Kuwaiti"
+  },
+  "Government": {
+    "Type": "Unitary parliamentary constitutional elective monarchy",
+    "Leaders": {
       "Emir": "Mishal Al-Ahmad Al-Jaber Al-Sabah",
       "Crown Prince": "Vacant",
       "Prime Minister": "Mohammad Sabah Al-Salem Al-Sabah",
       "Speaker of National Assembly": "Ahmed Al-Sadoun"
     },
     "Legislature": "National Assembly",
-    "Establishment History": {
-      "Sheikhdom of Kuwait": "1716",
-      "Independence from Bani Khalid Emirate": "1752",
-      "Anglo-Kuwaiti Agreement": "23 January 1899",
-      "Anglo-Ottoman Convention": "29 July 1913",
-      "End of Treaties with United Kingdom": "19 June 1961",
-      "Admission to United Nations": "14 May 1963",
-      "Current Constitution": "11 November 1962",
-      "Kuwait Governorate": "28 August 1990",
-      "Restoration of Constitution": "28 February 1991"
+    "Constitution": "11 November 1962"
+  },
+  "History": {
+    "Early Inhabitants": ["Neolithic traders", "Mesopotamians in Failaka Island"],
+    "Dilmun Civilization": "Around 4000 BC to 2000 BC",
+    "Pre-Oil Era": "Trade port between Mesopotamia, Persia, India",
+    "Oil Discovery": "1938",
+    "Modern Era": "Post 1946 large-scale modernization based on oil",
+    "Iraqi Invasion": "1990, ended in 1991 with military intervention"
+  },
+  "Economy": {
+    "Status": "Developed country",
+    "Dependence": "Petroleum, natural gas, fish, shrimp",
+    "Major Industries": ["Petroleum", "Petrochemicals", "Cement", "Water desalination", "Construction materials"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 256.593,
+      "Per Capita (USD)": 51764
     },
-    "Area": "17,818 km²",
-    "Population (2022 Estimate)": "4,294,621",
-    "GDP (PPP, 2023 Estimate)": {
-      "Total": "$256.593 billion",
-      "Per Capita": "$51,764"
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 159.687,
+      "Per Capita (USD)": 32215
     },
-    "GDP (Nominal, 2023 Estimate)": {
-      "Total": "$159.687 billion",
-      "Per Capita": "$32,215"
-    },
-    "HDI (2021)": "0.831 (Very high, 50th)",
-    "Currency": "Kuwaiti dinar",
-    "Time Zone": "UTC+3 (AST)",
+    "Currency": "Kuwaiti dinar (KWD)",
+    "Gini Index": "N/A",
+    "HDI": {
+      "Score": 0.831,
+      "Rank": "50th"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": ["Gulf Cooperation Council (GCC)", "United Nations (UN)", "Arab League", "Organization of the Petroleum Exporting Countries (OPEC)", "Organisation of Islamic Cooperation (OIC)"]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+3"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+965",
     "ISO 3166 Code": "KW",
     "Internet TLD": ".kw",
-    "Official Website": "www.e.gov.kw",
-    "Historical Context": {
-      "Early Inhabitants": "Neolithic traders, Mesopotamians in Failaka Island",
-      "Dilmun Civilization": "Around 4000 BC to 2000 BC",
-      "Pre-Oil Era": "Trade port between Mesopotamia, Persia, India",
-      "Oil Discovery": "1938",
-      "Modern Era": "Post 1946 large-scale modernization based on oil",
-      "Iraqi Invasion": "1990, ended in 1991 with military intervention"
-    },
-    "Cultural Influence": "Regionally influential in theatre, radio, music, TV soap opera",
-    "International Affiliations": [
-      "GCC", "UN", "Arab League", "OPEC", "OIC"
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "National Day (February 25)",
+      "Liberation Day (February 26)",
+      "Eid al-Fitr (Varies)",
+      "Eid al-Adha (Varies)"
     ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of Arab, Islamic, and Western influences",
+    "Cultural Contributions": ["Theatre", "Radio", "Music", "TV soap operas"],
+    "Unique Features": ["Regionally influential in media and arts"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 2.5,
+    "Exports Growth": "Driven by petroleum and petrochemicals",
+    "Inflation Rate": "3.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Petroleum", "Petrochemicals"],
+      "Challenges": "Balancing economic growth with environmental sustainability"
+    },
+    "Market Performance": {
+      "Equity Market": "N/A",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Arab and Islamic culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Petroleum", "Petrochemicals", "Services"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Air, and Sea transport",
+    "Key Transport Hubs": ["Kuwait City"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Occasional protests and political unrest",
+    "Economic Hardships": "Dependency on oil revenues",
+    "Natural Disasters": ["Drought"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "75.6 years",
+    "Infant Mortality Rate": "7.3 deaths/1,000 live births",
+    "Health Expenditure of GDP": "3.9% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "4.5% (2020)",
+    "Literacy Rate": {
+      "Total": "96.2%",
+      "Male": "96.8%",
+      "Female": "95.6%"
+    }
   }
 }
