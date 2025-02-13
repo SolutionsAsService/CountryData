@@ -1,81 +1,198 @@
 {
-    "São Tomé and Príncipe": {
-        "Official Names": {
-            "Portuguese": "República Democrática de São Tomé e Príncipe",
-            "English": "Democratic Republic of São Tomé and Príncipe"
-        },
-        "Symbols": {
-            "Flag": "Flag of São Tomé and Príncipe",
-            "Coat of Arms": "Coat of arms of São Tomé and Príncipe",
-            "Motto": "Unidade, Disciplina, Trabalho (Unity, Discipline, Labour)",
-            "Anthem": {
-                "Title": "Independência total",
-                "English Translation": "Total Independence",
-                "Duration": "2 minutes and 5 seconds"
-            }
-        },
-        "Location": {
-            "Region": "Gulf of Guinea, Central Africa",
-            "Coordinates": {
-                "Capital": "0°20′N 6°44′E",
-                "Largest Settlement": "Dogana"
-            }
-        },
-        "Languages": {
-            "Official": "Portuguese",
-            "Recognised Regional": ["Forro", "Angolar", "Principense"]
-        },
-        "Religion": {
-            "Christianity": "81.1%",
-            "No Religion": "13.2%",
-            "Folk Religions": "3.1%",
-            "Others": "2.4%"
-        },
-        "Government": {
-            "Type": "Unitary semi-presidential republic",
-            "President": "Carlos Vila Nova",
-            "Prime Minister": "Patrice Trovoada",
-            "Legislature": "National Assembly"
-        },
-        "Independence": {
-            "From Portugal": "12 July 1975"
-        },
-        "Geography": {
-            "Total Area": "964 square kilometers",
-            "Archipelagos": ["São Tomé", "Príncipe"],
-            "Location": "Approximately 250 and 225 km off the coast of Gabon"
-        },
-        "Population": {
-            "2023 Estimate": "220,372",
-            "Density": "199.7 per km2"
-        },
-        "Economy": {
-            "GDP (PPP) 2023 Estimate": {
-                "Total": "$962 million",
-                "Per Capita": "$4,146"
-            },
-            "GDP (Nominal) 2023 Estimate": {
-                "Total": "$674 million",
-                "Per Capita": "$2,904"
-            },
-            "Gini (2017)": "56.3",
-            "HDI (2021)": "0.618",
-            "Currency": "Dobra (STN)"
-        },
-        "Demographics": {
-            "Ethnicity": "African and mestiço descent",
-            "Major Religion": "Christianity"
-        },
-        "Culture": {
-            "Influences": "Portuguese rule",
-            "Music": "Fusion of European and African influences",
-            "Language Community": "Community of Portuguese Language Countries"
-        },
-        "Historical Overview": {
-            "Discovery": "1470 by Portuguese explorers",
-            "Colonization": "16th century",
-            "Independence": "1975",
-            "Post-Independence": "Stable and democratic country"
-        }
+  "Name": {
+    "Common": "São Tomé and Príncipe",
+    "Official": "Democratic Republic of São Tomé and Príncipe",
+    "Native": {
+      "Portuguese": "República Democrática de São Tomé e Príncipe"
     }
+  },
+  "Symbols": {
+    "Flag": "Flag of São Tomé and Príncipe",
+    "Coat of Arms": "Coat of arms of São Tomé and Príncipe",
+    "Motto": "Unidade, Disciplina, Trabalho (Unity, Discipline, Labour)",
+    "Anthem": {
+      "Title": "Independência total",
+      "Translation": "Total Independence",
+      "Duration": "2 minutes and 5 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Africa",
+    "Coordinates": {
+      "Capital": {
+        "Name": "São Tomé",
+        "Latitude": "0°20′N",
+        "Longitude": "6°44′E"
+      }
+    },
+    "Location": "Gulf of Guinea, Central Africa, approximately 250 and 225 km off the coast of Gabon",
+    "Area": {
+      "Total (sq km)": 964,
+      "Water Percentage": "Negligible"
+    },
+    "Archipelagos": ["São Tomé", "Príncipe"],
+    "Topography": ["Volcanic origin, with rugged terrain and lush forests"],
+    "Climate": ["Tropical, with a wet season from October to May and a dry season from June to September"],
+    "Natural Resources": ["Fisheries, Hydropower"],
+    "Time Zones": ["UTC+00:00"],
+    "Largest City": "São Tomé"
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 220372,
+      "Density (per sq km)": 199.7
+    },
+    "Ethnic Groups": {
+      "2023": {
+        "African and mestiço descent": 100
+      }
+    },
+    "Languages": {
+      "Official": ["Portuguese"],
+      "Recognized Regional": ["Forro", "Angolar", "Principense"]
+    },
+    "Religion": {
+      "2023": {
+        "Christianity": 81.1,
+        "No Religion": 13.2,
+        "Folk Religions": 3.1,
+        "Others": 2.4
+      }
+    },
+    "Demonym": "São Toméan"
+  },
+  "Government": {
+    "Type": "Unitary semi-presidential republic",
+    "Leaders": {
+      "President": "Carlos Vila Nova",
+      "Prime Minister": "Patrice Trovoada"
+    },
+    "Legislature": "National Assembly",
+    "Constitution": "15 December 1975",
+    "Independence History": {
+      "From Portugal": "12 July 1975"
+    }
+  },
+  "History": {
+    "Historical Context": {
+      "Discovery": "1470 by Portuguese explorers",
+      "Colonization": "16th century",
+      "Independence": "12 July 1975",
+      "Post-Independence": "Stable and democratic country"
+    }
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Agriculture, tourism, fishing",
+    "Major Industries": ["Agriculture", "Tourism", "Fishing"],
+    "GDP (PPP 2023)": {
+      "Total (Million USD)": 962,
+      "Per Capita (USD)": 4146
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Million USD)": 674,
+      "Per Capita (USD)": 2904
+    },
+    "Currency": "Dobra (STN)",
+    "Gini Index": {
+      "Year": 2017,
+      "Value": 56.3,
+      "Category": "High"
+    },
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.618,
+      "Category": "Medium",
+      "Rank": "135th"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in regional and international affairs",
+    "Membership": [
+      "United Nations (UN)",
+      "African Union (AU)",
+      "Community of Portuguese Language Countries (CPLP)",
+      "Economic Community of Central African States (ECCAS)",
+      "World Trade Organization (WTO)"
+    ]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+00:00"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+239",
+    "ISO 3166 Code": "ST",
+    "Internet TLD": [".st"],
+    "Public Holidays": [
+      "New Year's Day",
+      "Independence Day",
+      "Labor Day",
+      "Children's Day",
+      "Armed Forces Day",
+      "Christmas Day"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage influenced by Portuguese rule",
+    "Cultural Contributions": ["Music", "Cuisine", "Literature"],
+    "Unique Features": ["Fusion of European and African influences in music and dance", "Traditional festivals"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.5,
+    "Exports Growth": "Driven by agriculture and tourism sectors",
+    "Inflation Rate": "4.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Agriculture", "Tourism"],
+      "Challenges": "Balancing economic growth with social development"
+    },
+    "Market Performance": {
+      "Equity Market": "São Tomé and Príncipe Stock Exchange",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban population, with São Tomé being the primary urban center",
+      "Rural Development": "Focus on improving rural infrastructure and living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Central African and global culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Agriculture", "Tourism"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education and improving literacy rates",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Sea, and Air transport",
+    "Key Transport Hubs": ["São Tomé International Airport", "Port of São Tomé"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Low level of political unrest and instability",
+    "Economic Hardships": "High poverty and unemployment rates",
+    "Natural Disasters": ["Floods", "Tropical storms"],
+    "Health Issues": ["Malaria", "HIV/AIDS", "COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "67.5 years",
+    "Infant Mortality Rate": "35.6 deaths/1,000 live births",
+    "Health Expenditure of GDP": "6.0% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "5.0% (2020)",
+    "Literacy Rate": {
+      "Total": "92.8%",
+      "Male": "94.2%",
+      "Female": "91.4%"
+    }
+  }
 }
