@@ -1,97 +1,170 @@
 {
-  "Country_Name": "Republic of South Sudan",
-  "Local_Name": "South Sudan",
-  "ISO_Code": "SS",
-  "Capital": "Juba",
-  "Official_Language": "English",
-  "Recognised_National_Languages": [
-    "Dinka", "Nuer", "Bari", "Murle", "Luo", "Ma'di", "Otuho", "Zande", "Around 60 other languages"
-  ],
-  "Spoken_Languages": [
-    "Dinka", "Bari", "Juba Arabic", "Nuer", "Zande", "Jur (Luo)", "Murle", "Shilluk", "Kanuri", "Various others"
-  ],
-  "Religion": {
-    "Christianity": "60.5%",
-    "Traditional_Faiths": "32.9%",
-    "Islam": "6.2%",
-    "Others_or_None": "0.4%"
-  },
-  "Demonym": "South Sudanese",
-  "Government_Type": "Federal Transitional Presidential Republic",
-  "Leaders": {
-    "President": "Salva Kiir Mayardit",
-    "First_Vice_President": "Riek Machar",
-    "Speaker": "Jemma Nunu Kumba",
-    "Chief_Justice": "Chan Reec Madut"
-  },
-  "Legislature": {
-    "Upper_House": "Council of States",
-    "Lower_House": "Transitional National Legislative Assembly"
-  },
-  "Independence_From_Sudan": {
-    "Autonomy_Date": "9 July 2005",
-    "Declared_and_Recognized": "9 July 2011"
-  },
-  "Area": {
-    "Total_sq_km": 644329,
-    "Ranking": 41
-  },
-  "Population": {
-    "2023_Estimate": 12118379,
-    "Ranking": 80,
-    "Density_per_sq_km": 13.33
-  },
-  "GDP": {
-    "PPP_2022_Estimate": {
-      "Total": "$13.6 billion",
-      "Per_Capita": "$934",
-      "Ranking": 157
-    },
-    "Nominal_2022_Estimate": {
-      "Total": "$4.7 billion",
-      "Per_Capita": "$326",
-      "Ranking": 164
+  "Name": {
+    "Common": "South Sudan",
+    "Official": "Republic of South Sudan",
+    "Local": "South Sudan",
+    "Native": {
+      "English": "South Sudan"
     }
   },
-  "Gini_Index": {
-    "2016": 44.1,
-    "Category": "Medium"
+  "Status": [
+    "Post Colonial",
+    "Transitional State"
+  ],
+  "Symbols": {
+    "Flag": "Flag of South Sudan – a horizontal tricolour of black, red, and green, separated by thin white stripes, with a sky-blue triangle at the hoist bearing a yellow star",
+    "Coat of Arms": "Coat of arms of South Sudan – featuring an African fish eagle with outstretched wings holding crossed spears and a spade, with a scroll bearing the motto 'Justice, Liberty, Prosperity'",
+    "Anthem": {
+      "Title": "South Sudan Oyee!",
+      "Translation": "South Sudan Hurrah!",
+      "Adopted": "2011-07-09",
+      "Composer": "Students and teachers of the University of Juba"
+    }
   },
-  "HDI": {
-    "2023": 0.379,
-    "Category": "Low",
-    "Ranking": 191
-  },
-  "Currency": "South Sudanese pound (SSP)",
-  "Time_Zone": "UTC+2 (Central Africa Time)",
-  "Date_Format": "dd/mm/yyyy",
-  "Driving_Side": "Right",
-  "Calling_Code": "+211",
-  "Internet_TLD": ".ss",
   "Geography": {
-    "Land_Boundaries_km": 4797,
-    "Bordering_Countries": [
-      "Central African Republic", "Democratic Republic of the Congo", "Ethiopia", "Kenya", "Sudan", "Uganda"
-    ],
-    "Topography": {
-      "Imatong_Mountains": {
-        "Highest_Point": "Mount Kinyeti",
-        "Height_m": 3187
-      }
+    "Continent": "Africa",
+    "Coordinates": {
+      "Latitude": "7°N",
+      "Longitude": "31°E"
     },
-    "Natural_Resources": [
-      "Tropical forest", "Swamps", "Grassland", "White Nile"
+    "Location": "Landlocked country in East-Central Africa, bordered by Sudan to the north, Ethiopia to the east, Kenya, Uganda and the Democratic Republic of the Congo to the south, and the Central African Republic to the west",
+    "Area": {
+      "Total_sq_km": 644329,
+      "Ranking": 41
+    },
+    "NaturalFeatures": {
+      "Topography": {
+        "HighestPoint": "Mount Kinyeti",
+        "Height_m": 3187,
+        "MountainRange": "Imatong Mountains"
+      },
+      "NaturalResources": [
+        "Tropical forest",
+        "Swamps",
+        "Grassland",
+        "White Nile"
+      ]
+    },
+    "Borders": {
+      "LandBoundaries_km": 4797,
+      "BorderingCountries": [
+        "Central African Republic",
+        "Democratic Republic of the Congo",
+        "Ethiopia",
+        "Kenya",
+        "Sudan",
+        "Uganda"
+      ]
+    },
+    "DisputedAreas": [
+      "Kafia Kingi",
+      "Ilemi Triangle"
     ]
   },
-  "Disputed_Areas": ["Kafia Kingi", "Ilemi Triangle"],
-  "Economic_Overview": {
-    "Industry_Development": "Severely underdeveloped",
-    "Poverty_Rate": "66% under $2 a day",
-    "Agriculture": "Major livelihood",
-    "Oil_Production": "Significant",
-    "Infrastructure": "Limited"
+  "Government": {
+    "GovernmentType": "Federal Transitional Presidential Republic",
+    "Independence": {
+      "AutonomyDate": "2005-07-09",
+      "DeclaredIndependence": "2011-07-09",
+      "From": "Sudan"
+    },
+    "Leaders": {
+      "President": "Salva Kiir Mayardit",
+      "FirstVicePresident": "Riek Machar",
+      "Speaker": "Jemma Nunu Kumba",
+      "ChiefJustice": "Chan Reec Madut"
+    },
+    "Legislature": {
+      "UpperHouse": "Council of States",
+      "LowerHouse": "Transitional National Legislative Assembly"
+    },
+    "InternationalRelations": [
+      "United Nations",
+      "African Union",
+      "East African Community",
+      "Intergovernmental Authority on Development"
+    ]
   },
-  "International_Relations": [
-    "Member of United Nations", "African Union", "East African Community", "Intergovernmental Authority on Development"
-  ]
+  "Demographics": {
+    "Population": {
+      "2023_Estimate": 12118379,
+      "Ranking": 80,
+      "Density_per_sq_km": 13.33,
+      "UrbanPercentage": "21.6%",
+      "RuralPercentage": "78.4%"
+    },
+    "Demonym": "South Sudanese",
+    "Languages": {
+      "Official": "English",
+      "RecognisedNationalLanguages": [
+        "Dinka",
+        "Nuer",
+        "Bari",
+        "Murle",
+        "Luo",
+        "Ma'di",
+        "Otuho",
+        "Zande",
+        "Approximately 60 other languages"
+      ],
+      "Spoken": [
+        "Dinka",
+        "Bari",
+        "Juba Arabic",
+        "Nuer",
+        "Zande",
+        "Jur (Luo)",
+        "Murle",
+        "Shilluk",
+        "Kanuri",
+        "Various others"
+      ]
+    },
+    "Religion": {
+      "Christianity": "60.5%",
+      "Traditional_Faiths": "32.9%",
+      "Islam": "6.2%",
+      "Others_or_None": "0.4%"
+    }
+  },
+  "Economy": {
+    "GDP": {
+      "PPP": {
+        "Total": "$13.6 billion",
+        "PerCapita": "$934",
+        "Ranking": 157,
+        "Year": 2022
+      },
+      "Nominal": {
+        "Total": "$4.7 billion",
+        "PerCapita": "$326",
+        "Ranking": 164,
+        "Year": 2022
+      }
+    },
+    "GiniIndex": {
+      "2016": 44.1,
+      "Category": "Medium"
+    },
+    "HDI": {
+      "2023": 0.379,
+      "Category": "Low",
+      "Ranking": 191
+    },
+    "Currency": "South Sudanese pound (SSP)",
+    "EconomicOverview": {
+      "IndustryDevelopment": "Severely underdeveloped",
+      "PovertyRate": "66% under $2 a day",
+      "Agriculture": "Major livelihood",
+      "OilProduction": "Significant",
+      "Infrastructure": "Limited"
+    }
+  },
+  "Misc": {
+    "TimeZone": "UTC+2 (Central Africa Time)",
+    "DateFormat": "dd/mm/yyyy",
+    "DrivingSide": "Right",
+    "CallingCode": "+211",
+    "InternetTLD": ".ss"
+  }
 }
