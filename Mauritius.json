@@ -1,131 +1,213 @@
 {
-  "Mauritius": {
-  "French": "Maurice"
-  "Proninciatuon": ["mɔʁis", "moʁis"] ,
-  "MauritianCreole": "Moris",
-  "FullName": "Republic of Mauritius",
-  "alternative_names": {
-    "French": "République de Maurice",
-    "Mauritian_Creole": "Repiblik Moris"
-  },
-  "location": {
-    "region": "Indian Ocean",
-    "proximity": "Southeastern coast of East Africa, East of Madagascar",
-    "coordinates": "20.2°S 57.5°E"
-  },
-  "area": {
-    "total_sq_km": 2040,
-    "total_sq_mi": 790,
-    "water_percentage": 0.07,
-    "exclusive_economic_zone_sq_km": 2300000
-  },
-  "population": {
-    "2019_estimate": 1265475,
-    "2011_census": 1235260,
-    "density_per_sq_km": 618.24
-  },
-  "government": {
-    "type": "Unitary parliamentary republic",
-    "president": "Prithvirajsing Roopun",
-    "vice_president": "Eddy Boissézon",
-    "prime_minister": "Pravind Jugnauth",
-    "legislature": "National Assembly"
-  },
-  "independence": {
-    "from_United_Kingdom": "12 March 1968",
-    "republic_declaration": "12 March 1992"
-  },
-  "economic_data": {
-    "GDP_PPP": {
-      "total_2023_estimate": "$37.012 billion",
-      "per_capita_2023_estimate": "$29,349"
-    },
-    "GDP_nominal": {
-      "total_2023_estimate": "$14.819 billion",
-      "per_capita_2023_estimate": "$11,751"
+  "Name": {
+    "Common": "Mauritius",
+    "Official": "Republic of Mauritius",
+    "Native": {
+      "French": "Maurice",
+      "Pronunciation": ["mɔʁis", "moʁis"],
+      "Mauritian Creole": "Moris"
     }
   },
-  "social_indices": {
-    "Gini_index_2017": 36.8,
-    "HDI_2021": 0.802
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Coat of Arms URL": "URL_to_coat_of_arms_image",
+    "Motto": "Stella Clavisque Maris Indici (Star and Key of the Indian Ocean)",
+    "Anthem": {
+      "Title": "Motherland",
+      "Duration": "1 minute and 20 seconds"
+    }
   },
-  "currency": "Mauritian rupee (MUR)",
-  "official_languages": {
-    "de_jure": "None",
-    "de_facto": ["English", "French"]
+  "Geography": {
+    "Continent": "Africa",
+    "Region": "Indian Ocean",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Port Louis",
+        "Latitude": "20.2°S",
+        "Longitude": "57.5°E"
+      }
+    },
+    "Location": "Southeastern coast of East Africa, east of Madagascar",
+    "Area": {
+      "Total (sq km)": 2040,
+      "Total (sq mi)": 790,
+      "Exclusive Economic Zone (sq km)": 2300000,
+      "Water Percentage": "0.07%"
+    },
+    "Borders": {
+      "Ocean": "Indian Ocean"
+    },
+    "Coastline": "177 km",
+    "Topography": ["Coastal plain", "Central plateau", "Mountains"],
+    "Climate": ["Tropical"],
+    "Natural Resources": ["Fish", "Sugarcane", "Tea"],
+    "Time Zones": ["UTC+4"],
+    "Largest City": "Port Louis"
   },
-  "ethnic_groups": {
-    "Indian": "67%",
-    "Creoles": "28%",
-    "Chinese": "3%",
-    "French": "2%"
+  "Demographics": {
+    "Population": {
+      "2019 Estimate": 1265475,
+      "Density (per sq km)": 618.24,
+      "2011 Census": 1235260
+    },
+    "Ethnic Groups": {
+      "2023": {
+        "Indian": 67,
+        "Creoles": 28,
+        "Chinese": 3,
+        "French": 2
+      }
+    },
+    "Languages": {
+      "Official": ["None (de jure)", "English and French (de facto)"],
+      "Spoken at Home": {
+        "Mauritian Creole": 90.0,
+        "Bhojpuri": 5.1,
+        "French": 4.4,
+        "English": 0.6
+      }
+    },
+    "Religion": {
+      "2023": {
+        "Hinduism": 48.54,
+        "Christianity": 32.71,
+        "Islam": 17.30,
+        "Others/None": 1.45
+      }
+    },
+    "Demonym": "Mauritian"
   },
-  "religions": {
-    "Hinduism": "48.54%",
-    "Christianity": "32.71%",
-    "Islam": "17.30%",
-    "Others_None": "1.45%"
+  "Government": {
+    "Type": "Unitary parliamentary republic",
+    "Leaders": {
+      "President": "Prithvirajsing Roopun",
+      "Vice President": "Eddy Boissézon",
+      "Prime Minister": "Pravind Jugnauth"
+    },
+    "Legislature": "National Assembly",
+    "Constitution": "12 March 1992"
   },
-  "symbols": {
-    "flag": "Flag of Mauritius",
-    "coat_of_arms": "Coat of arms of Mauritius",
-    "national_anthem": "Motherland",
-    "motto": "Stella Clavisque Maris Indici - Star and Key of the Indian Ocean"
+  "History": {
+    "Early Discovery": "Arab sailors (circa 975 AD)",
+    "Portuguese Visit": "1507",
+    "Dutch Settlement": "1598",
+    "French Control": "1715",
+    "British Rule": "1810",
+    "Independence": {
+      "From United Kingdom": "12 March 1968",
+      "Republic Declaration": "12 March 1992"
+    },
+    "Chagos Archipelago Issue": {
+      "Separation": "1965",
+      "Current Status": "Disputed, claimed by Mauritius"
+    }
   },
-  "islands": {
-    "main_island": "Mauritius",
-    "other_islands": ["Rodrigues", "Agaléga", "St. Brandon"],
-    "Mascarene_Islands": ["Mauritius", "Rodrigues", "Réunion"]
+  "Economy": {
+    "Status": "Developed country",
+    "Dependence": "Tourism, manufacturing, services",
+    "Major Industries": ["Tourism", "Textiles", "Financial services"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 37.012,
+      "Per Capita (USD)": 29349
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 14.819,
+      "Per Capita (USD)": 11751
+    },
+    "Currency": "Mauritian rupee (MUR)",
+    "Gini Index": {
+      "Year": 2017,
+      "Value": 36.8,
+      "Category": "Medium"
+    },
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.802,
+      "Category": "Very High",
+      "Rank": "63rd"
+    }
   },
-  "territorial_disputes": {
-    "Chagos_Archipelago": "Claimed by Mauritius",
-    "Tromelin": "Disputed with France"
- 
-},
-   "languages_spoken_at_home": {
-"Mauritian_Creole": "90.0%",
-"Bhojpuri": "5.1%",
-"French": "4.4%",
-"English": "0.6%"
-},
-"historical_background": {
-"early_discovery": "Arab sailors (circa 975 AD)",
-"portuguese_visit": "1507",
-"dutch_settlement": "1598",
-"french_control": "1715",
-"british_rule": "1810",
-"independence": "1968",
-"chagos_archipelago_issue": {
-"separation": "1965",
-"current_status": "Disputed, claimed by Mauritius"
-}
-},
-"demographics": {
-"ethnic_composition": {
-"Indo-Mauritians": "Majority",
-"Creoles": "Significant minority",
-"Sino-Mauritians": "Minority",
-"Franco-Mauritians": "Minority"
-},
-"religious_diversity": "Hinduism as major religion"
-},
-"governance": {
-"political_system": "Westminster parliamentary system",
-"democracy_status": "Full democracy",
-"human_development_index": "Very high",
-"economic_classification": "High-income economy"
-},
-"culture": {
-"influences": "Diverse due to colonialism",
-"known_for": "Biodiverse flora and fauna, home of the extinct dodo"
-},
-"miscellaneous": {
-"time_zone": "UTC+4",
-"date_format": "dd/mm/yyyy",
-"driving_side": "left",
-"calling_code": "+230",
-"internet_tld": ".mu",
-"iso_code": "MU"
-}
-}
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": ["United Nations (UN)", "African Union (AU)", "Commonwealth of Nations", "Indian Ocean Commission (IOC)"]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+4"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Left",
+    "Calling Code": "+230",
+    "ISO 3166 Code": "MU",
+    "Internet TLD": ".mu",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Abolition of Slavery (February 1)",
+      "Independence and Republic Day (March 12)",
+      "Labour Day (May 1)",
+      "Diwali (Varies)",
+      "Christmas Day (December 25)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of African, Indian, Chinese, and European influences",
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["Home of the extinct dodo", "Biodiverse flora and fauna"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 4.0,
+    "Exports Growth": "Driven by tourism and manufacturing",
+    "Inflation Rate": "3.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Tourism", "Manufacturing"],
+      "Challenges": "Balancing economic growth with environmental protection"
+    },
+    "Market Performance": {
+      "Equity Market": "N/A",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on African and Indian Ocean culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Tourism", "Manufacturing", "Services"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Sea, Air transport",
+    "Key Transport Hubs": ["Port Louis", "Curepipe", "Vacoas"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Low level of political unrest and instability",
+    "Economic Hardships": "Moderate unemployment and poverty rates",
+    "Natural Disasters": ["Cyclones"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "74.5 years",
+    "Infant Mortality Rate": "12.5 deaths/1,000 live births",
+    "Health Expenditure of GDP": "5.6% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "5.0% (2020)",
+    "Literacy Rate": {
+      "Total": "92.7%",
+      "Male": "94.1%",
+      "Female": "91.3%"
+    }
+  }
 }
