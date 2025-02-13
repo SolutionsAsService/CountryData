@@ -55,7 +55,7 @@ function fetchCountryData(countryName) {
 function displayCountryData(country) {
     const name = country.Name?.Common || null;
     const officialName = country.Name?.Official || null;
-    const nativeName = country.Name?.Native || null;
+    const nativeName = country.Name?.Native ? Object.entries(country.Name.Native).map(([lang, val]) => `${lang}: ${val}`).join(', ') : null;
     const capitalCity = country.Geography?.Capital?.Name || null;
     const largestCity = country.Geography?.LargestCity || null;
     const majorCities = country.Geography?.MajorCities ? country.Geography.MajorCities.join(', ') : null;
@@ -63,7 +63,7 @@ function displayCountryData(country) {
     const population = country.Demographics?.Population?.["2023 Estimate"] || country.Demographics?.Population?.["2022 Estimate"] || null;
     const populationDensity = country.Demographics?.Population?.Density || null;
     const ethnicGroups = country.Demographics?.EthnicGroups ? Object.entries(country.Demographics.EthnicGroups).map(([key, value]) => `${key}: ${value}`).join(', ') : null;
-    const languages = country.Demographics?.Languages ? country.Demographics.Languages.join(', ') : null;
+    const languages = country.Demographics?.Languages ? Object.entries(country.Demographics.Languages).map(([key, value]) => `${key}: ${value}`).join(', ') : null;
     const religion = country.Demographics?.Religion ? Object.entries(country.Demographics.Religion).map(([key, value]) => `${key}: ${value}`).join(', ') : null;
     const governmentType = country.Government?.Type || null;
     const president = country.Government?.Leaders?.President || null;
@@ -86,7 +86,7 @@ function displayCountryData(country) {
 
     let infoHtml = `<h2>${name || "Unknown"}</h2>`;
     if (officialName) infoHtml += `<p><strong>Official Name:</strong> ${officialName}</p>`;
-    if (nativeName) infoHtml += `<p><strong>Native Name:</strong> ${Object.entries(nativeName).map(([key, value]) => `${key}: ${value}`).join(', ')}</p>`;
+    if (nativeName) infoHtml += `<p><strong>Native Name:</strong> ${nativeName}</p>`;
     if (capitalCity) infoHtml += `<p><strong>Capital City:</strong> ${capitalCity}</p>`;
     if (largestCity) infoHtml += `<p><strong>Largest City:</strong> ${largestCity}</p>`;
     if (majorCities) infoHtml += `<p><strong>Major Cities:</strong> ${majorCities}</p>`;
