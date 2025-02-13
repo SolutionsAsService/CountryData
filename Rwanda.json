@@ -3,8 +3,13 @@
     "GeneralInformation": {
       "OfficialName": "Republic of Rwanda",
       "Motto": "Ubumwe, Umurimo, Gukunda Igihugu (Unity, Work, Patriotism)",
-      "Anthem": "Rwanda Nziza (Beautiful Rwanda)",
+      "Anthem": {
+        "Title": "Rwanda Nziza",
+        "Translation": "Beautiful Rwanda",
+        "Duration": "1 minute and 40 seconds"
+      },
       "Capital": "Kigali",
+      "Largest City": "Kigali",
       "OfficialLanguages": ["Kinyarwanda", "French", "English", "Swahili"],
       "EthnicGroups": {
         "Hutu": "85%",
@@ -23,34 +28,198 @@
         "President": "Paul Kagame",
         "PrimeMinister": "Édouard Ngirente"
       },
-      "Independence": "1 July 1962",
-      "Area": "26,338 km2",
-      "Population": "13,400,541 (2023 estimate)",
+      "Independence": {
+        "Declared": "1 July 1962",
+        "From": "Belgium"
+      },
+      "Constitution": "26 May 2003",
+      "Area": {
+        "Total (sq km)": 26338,
+        "Rank": "149th",
+        "Water Percentage": "5.3%"
+      },
+      "Population": {
+        "2023 Estimate": 13400541,
+        "Density (per sq km)": 509.0
+      },
       "GDP_PPP": {
-        "Total": "$42.346 billion",
-        "PerCapita": "$3,136"
+        "Total (Billion USD)": 42.346,
+        "Per Capita (USD)": 3136
+      },
+      "GDP_Nominal": {
+        "Total (Billion USD)": 10.934,
+        "Per Capita (USD)": 815
       },
       "Currency": "Rwandan franc (RWF)",
       "TimeZone": "UTC+2",
-      "DrivingSide": "right",
+      "DrivingSide": "Right",
       "CallingCode": "+250",
-      "InternetTLD": ".rw"
+      "InternetTLD": ".rw",
+      "HDI": {
+        "Year": 2021,
+        "Value": 0.543,
+        "Category": "Low",
+        "Rank": "160th"
+      },
+      "Gini Index": {
+        "Year": 2022,
+        "Value": 43.7,
+        "Category": "High"
+      }
     },
     "GeographicalInformation": {
       "Provinces": {
-        // Detailed data for each province
+        "Kigali": {
+          "Area (sq km)": 730,
+          "Population": 1200000
+        },
+        "Southern Province": {
+          "Area (sq km)": 5963,
+          "Population": 2590000
+        },
+        "Western Province": {
+          "Area (sq km)": 5883,
+          "Population": 2840000
+        },
+        "Northern Province": {
+          "Area (sq km)": 3290,
+          "Population": 1630000
+        },
+        "Eastern Province": {
+          "Area (sq km)": 9392,
+          "Population": 2700000
+        }
       },
       "Districts": {
-        // Detailed data for each district
+        "Kigali": ["Nyarugenge", "Gasabo", "Kicukiro"],
+        "Southern Province": ["Huye", "Gisagara", "Nyanza", "Nyaruguru", "Muhanga", "Kamonyi", "Ruhango"],
+        "Western Province": ["Rusizi", "Nyamasheke", "Karongi", "Rutsiro", "Rubavu", "Ngororero", "Nyabihu"],
+        "Northern Province": ["Musanze", "Gakenke", "Burera", "Rulindo", "Gicumbi"],
+        "Eastern Province": ["Bugesera", "Gatsibo", "Kayonza", "Kirehe", "Ngoma", "Nyagatare", "Rwamagana"]
       },
       "Sectors": {
-        // Detailed data for each sector
+        "Nyarugenge": ["Nyarugenge", "Nyamirambo", "Kanyinya"],
+        "Gasabo": ["Remera", "Kimironko", "Kacyiru"],
+        "Kicukiro": ["Kicukiro", "Nyarugunga", "Gahanga"],
+        // More sectors for each district
       },
       "Cells": {
-        // Detailed data for each cell
+        "Nyarugenge": ["Nyarugenge", "Nyamirambo", "Kanyinya"],
+        "Gasabo": ["Remera", "Kimironko", "Kacyiru"],
+        "Kicukiro": ["Kicukiro", "Nyarugunga", "Gahanga"],
+        // More cells for each sector
       },
       "Villages": {
-        // Detailed data for each village
+        "Nyarugenge": ["Nyarugenge", "Nyamirambo", "Kanyinya"],
+        "Gasabo": ["Remera", "Kimironko", "Kacyiru"],
+        "Kicukiro": ["Kicukiro", "Nyarugunga", "Gahanga"],
+        // More villages for each cell
+      }
+    },
+    "History": {
+      "Pre-Colonial Period": "Rwanda's early history is marked by the establishment of the Kingdom of Rwanda in the 15th century, which was characterized by a centralized monarchy and expansionist policies.",
+      "Colonial Period": "Rwanda was colonized by Germany in 1884 and later by Belgium in 1916. The colonial period saw the reinforcement of ethnic divisions and indirect rule through local Tutsi leaders.",
+      "Independence": "Rwanda gained independence from Belgium on 1 July 1962. The post-independence period was marked by political instability and ethnic tensions between the Hutu and Tutsi populations.",
+      "Genocide": "In 1994, Rwanda experienced a devastating genocide, where an estimated 800,000 Tutsi and moderate Hutu were killed in a span of 100 days.",
+      "Post-Genocide Era": "Following the genocide, the Rwandan Patriotic Front (RPF) led by Paul Kagame took control of the country. The post-genocide era has been marked by efforts in reconciliation, economic development, and political stability."
+    },
+    "Economy": {
+      "Status": "Developing country",
+      "Growth": "Rwanda has experienced significant economic growth since the early 2000s, largely driven by sectors such as agriculture, mining, tourism, and services.",
+      "Main Sectors": ["Agriculture", "Mining", "Tourism", "Services"],
+      "Notable Companies": ["Bank of Kigali", "Brasseries et Limonaderies du Rwanda (BRALIRWA)", "MTN Rwanda"]
+    },
+    "Social and Cultural Aspects": {
+      "Population Dynamics": {
+        "Urbanization Trends": "Increasing urban population, with Kigali being the primary urban center",
+        "Rural Development": "Focus on improving rural infrastructure and living standards"
+      },
+      "Cultural Heritage": {
+        "Influence": "Rwanda's culture is heavily influenced by its history, traditions, and the impact of colonialism",
+        "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+      },
+      "Technology and Innovation": {
+        "Growth Sectors": ["ICT", "Finance", "Agriculture"],
+        "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+      },
+      "Education and Healthcare": {
+        "Education System": "State-driven with emphasis on multilingual education and improving literacy rates",
+        "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+      }
+    },
+    "Transport": {
+      "Major Modes": "Road and Air transport",
+      "Key Transport Hubs": ["Kigali International Airport", "Kigali"]
+    },
+    "Current Challenges": {
+      "Political Instability": "Low level of political unrest and instability",
+      "Economic Hardships": "High poverty and unemployment rates",
+      "Natural Disasters": ["Floods", "Droughts"],
+      "Health Issues": ["Malaria", "HIV/AIDS", "COVID-19 pandemic"]
+    },
+    "Healthcare": {
+      "Life Expectancy": "69.6 years",
+      "Infant Mortality Rate": "29.0 deaths/1,000 live births",
+      "Health Expenditure of GDP": "6.5% (2020)"
+    },
+    "Education": {
+      "Expenditures of GDP": "5.2% (2020)",
+      "Literacy Rate": {
+        "Total": "76.5%",
+        "Male": "81.1%",
+        "Female": "72.1%"
+      }
+    },
+    "International Relations": {
+      "Global Role": "Active in international affairs",
+      "Membership": [
+        "United Nations (UN)",
+        "African Union (AU)",
+        "East African Community (EAC)",
+        "Commonwealth of Nations",
+        "Organisation Internationale de la Francophonie (OIF)",
+        "World Trade Organization (WTO)"
+      ]
+    },
+    "Miscellaneous": {
+      "Time Zone": ["UTC+2"],
+      "Date Format": ["dd/mm/yyyy"],
+      "Driving Side": "Right",
+      "Calling Code": "+250",
+      "ISO 3166 Code": "RW",
+      "Internet TLD": [".rw"],
+      "Public Holidays": [
+        "New Year's Day",
+        "Heroes' Day",
+        "Genocide Memorial Day",
+        "Labor Day",
+        "Independence Day",
+        "Liberation Day",
+        "Assumption Day",
+        "Christmas Day",
+        "Boxing Day"
+      ]
+    },
+    "Significant Cultural Aspects": {
+      "Legacy": "Rwanda's culture is a blend of traditional and modern influences, with a strong emphasis on community and family",
+      "Cultural Contributions": ["Art", "Cuisine", "Literature", "Music"],
+      "Unique Features": ["Traditional dance (Intore)", "Umuganura Festival", "Kinyarwanda language"]
+    },
+    "Economic Outlook 2024": {
+      "Real GDP Growth Forecast": 6.0,
+      "Exports Growth": "Driven by agriculture and mining sectors",
+      "Inflation Rate": "4.0%",
+      "Policy Response": {
+        "Focus": "Economic diversification and sustainability",
+        "Areas": ["Agriculture", "Mining"],
+        "Challenges": "Balancing economic growth with social development"
+      },
+      "Market Performance": {
+        "Equity Market": "Rwanda Stock Exchange",
+        "Commodity Imports": {
+          "Energy": "Significant",
+          "Raw Materials": "Increased demand"
+        }
       }
     }
   }
