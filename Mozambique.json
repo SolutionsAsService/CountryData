@@ -1,78 +1,217 @@
 {
-  "Mozambique": {
-    "General Information": {
-      "Official Name": "Republic of Mozambique",
-      "PortugueseName": "Moçambique",
-      "PortugueseOfficial": "República de Moçambique",
-      "ChichewaName": "Mozambiki",
-      "SwahiliName": "Msumbiji",
-      "TsongaName": "Muzambhiki",
-      "Etymology": "Named after the Island of Mozambique, derived from Arab trader Mussa Bin Bique",
-      "Capital": "Maputo",
-      "Coordinates": "25°57′S 32°35′E",
-      "Official Language": "Portuguese",
-      "Recognised Regional Languages": ["Makhuwa", "Sena", "Tsonga", "Lomwe", "Changana"],
-      "Ethnic Groups (2017)": {
-        "Black African": "99%",
-        "Mestiço": "0.8%",
-        "Other": "0.2%"
-      },
-      "Religion (2020)": {
-        "Christianity": "55.8%",
-        "Traditional Faiths": "26.1%",
-        "Islam": "17.5%",
-        "No Religion": "0.5%",
-        "Other": "0.3%"
-      },
-      "Government Type": "Unitary dominant-party semi-presidential republic under an authoritarian government",
-      "Leaders": {
-        "President": "Filipe Nyusi",
-        "Prime Minister": "Adriano Maleiane"
-      },
-      "Independence from Portugal": "25 June 1975",
-      "UN Membership Admission": "16 September 1975",
-      "Current Constitution": "21 December 2004"
+  "Name": {
+    "Common": "Mozambique",
+    "Official": "Republic of Mozambique",
+    "Native": {
+      "Portuguese": "República de Moçambique",
+      "Chichewa": "Mozambiki",
+      "Swahili": "Msumbiji",
+      "Tsonga": "Muzambhiki"
     },
-    "Geography": {
-      "Total Area": "801,590 km2",
-      "Water Percentage": "2.2%",
-      "Location": "Southeastern Africa",
-      "Borders": ["Tanzania", "Malawi", "Zambia", "Zimbabwe", "Eswatini", "South Africa"],
-      "Coastline": "Fronting the Mozambique Channel, separating mainland Africa from Madagascar"
+    "Etymology": "Named after the Island of Mozambique, derived from Arab trader Mussa Bin Bique"
+  },
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Coat of Arms URL": "URL_to_coat_of_arms_image",
+    "Motto": "Unidade, Trabalho, Vigilância (Unity, Work, Vigilance)",
+    "Anthem": {
+      "Title": "Pátria Amada",
+      "Translation": "Beloved Homeland",
+      "Duration": "1 minute and 20 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Africa",
+    "Region": "Southeastern Africa",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Maputo",
+        "Latitude": "25°57′S",
+        "Longitude": "32°35′E"
+      }
     },
-    "Demographics": {
-      "Population (2023 Estimate)": "34,173,805",
-      "Density": "28.7/km2",
-      "Population Composition": "Overwhelmingly Bantu peoples"
+    "Location": "Southeastern Africa, bordered by Tanzania to the north, Malawi and Zambia to the northwest, Zimbabwe to the west, Eswatini and South Africa to the southwest, and fronting the Mozambique Channel to the east",
+    "Area": {
+      "Total (sq km)": 801590,
+      "Rank": "35th",
+      "Water Percentage": "2.2%"
     },
-    "Economy": {
-      "GDP (PPP) 2023 Estimate": {
-        "Total": "$53.710 billion",
-        "Per Capita": "$1,584"
-      },
-      "GDP (Nominal) 2023 Estimate": {
-        "Total": "$21.936 billion",
-        "Per Capita": "$647"
-      },
-      "Main Economic Activities": ["Fishery", "Agriculture", "Food and Beverages Industry", "Chemical Manufacturing", "Aluminium", "Oil"],
-      "Major Trading Partners": ["South Africa", "Portugal", "Other European Markets"]
+    "Borders": {
+      "North": ["Tanzania"],
+      "Northwest": ["Malawi", "Zambia"],
+      "West": ["Zimbabwe"],
+      "Southwest": ["Eswatini", "South Africa"]
     },
-    "Social and Cultural Aspects": {
-      "Languages": "46 languages spoken, including Mozambican Sign Language",
-      "Largest Religion": "Christianity",
-      "Significant Religious Minorities": ["Islam", "African Traditional Religions"],
-      "Membership in International Organizations": [
-        "United Nations", "African Union", "Commonwealth of Nations", "Organisation of Islamic Cooperation",
-        "Community of Portuguese Language Countries", "Non-Aligned Movement", "Southern African Development Community", 
-        "Observer at La Francophonie"
-      ]
+    "Coastline": "2,470 km",
+    "Topography": ["Coastal lowlands", "Central uplands", "High plateaus"],
+    "Climate": ["Tropical to subtropical"],
+    "Natural Resources": ["Coal", "Titanium", "Natural gas", "Hydropower", "Arable land"],
+    "Time Zones": ["UTC+2"],
+    "Largest City": "Maputo"
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 34173805,
+      "Density (per sq km)": 28.7
     },
-    "Historical Context": {
-      "Early History": "Series of Swahili port towns developed between the 7th and 11th centuries",
-      "Medieval Period": "Trade with Somalia, Ethiopia, Egypt, Arabia, Persia, and India",
-      "Portuguese Colonisation": "Began in 1505, lasting over four centuries",
-      "Independence": "Gained in 1975, followed by civil war from 1977 to 1992",
-      "Modern History": "First multiparty elections in 1994, now a relatively stable presidential republic"
+    "Ethnic Groups": {
+      "2017": {
+        "Black African": 99,
+        "Mestiço": 0.8,
+        "Other": 0.2
+      }
+    },
+    "Languages": {
+      "Official": ["Portuguese"],
+      "Recognised Regional": ["Makhuwa", "Sena", "Tsonga", "Lomwe", "Changana"]
+    },
+    "Religion": {
+      "2020": {
+        "Christianity": 55.8,
+        "Traditional Faiths": 26.1,
+        "Islam": 17.5,
+        "No Religion": 0.5,
+        "Other": 0.3
+      }
+    },
+    "Demonym": "Mozambican"
+  },
+  "Government": {
+    "Type": "Unitary dominant-party semi-presidential republic under an authoritarian government",
+    "Leaders": {
+      "President": "Filipe Nyusi",
+      "Prime Minister": "Adriano Maleiane"
+    },
+    "Legislature": "Assembly of the Republic",
+    "Constitution": "21 December 2004",
+    "Independence from Portugal": "25 June 1975",
+    "UN Membership Admission": "16 September 1975"
+  },
+  "History": {
+    "Early History": "Series of Swahili port towns developed between the 7th and 11th centuries",
+    "Medieval Period": "Trade with Somalia, Ethiopia, Egypt, Arabia, Persia, and India",
+    "Portuguese Colonisation": "Began in 1505, lasting over four centuries",
+    "Independence": "Gained in 1975, followed by civil war from 1977 to 1992",
+    "Modern History": "First multiparty elections in 1994, now a relatively stable presidential republic"
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Agriculture, fishery, mining",
+    "Major Industries": ["Fishery", "Agriculture", "Food and Beverages Industry", "Chemical Manufacturing", "Aluminium", "Oil"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 53.710,
+      "Per Capita (USD)": 1584
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 21.936,
+      "Per Capita (USD)": 647
+    },
+    "Currency": "Mozambican metical (MZN)",
+    "Gini Index": {
+      "Year": 2015,
+      "Value": 40.3,
+      "Category": "High"
+    },
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.456,
+      "Category": "Low",
+      "Rank": "181st"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": [
+      "United Nations (UN)",
+      "African Union",
+      "Commonwealth of Nations",
+      "Organisation of Islamic Cooperation",
+      "Community of Portuguese Language Countries",
+      "Non-Aligned Movement",
+      "Southern African Development Community (SADC)",
+      "Observer at La Francophonie"
+    ]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+2"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Left",
+    "Calling Code": "+258",
+    "ISO 3166 Code": "MZ",
+    "Internet TLD": ".mz",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Heroes' Day (February 3)",
+      "Women's Day (April 7)",
+      "Workers' Day (May 1)",
+      "Independence Day (June 25)",
+      "Victory Day (September 7)",
+      "Armed Forces Day (September 25)",
+      "Peace and Reconciliation Day (October 4)",
+      "Family Day (December 25)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of African, Arab, and Portuguese influences",
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["Diverse linguistic landscape with 46 languages spoken", "Strong traditions in music and dance"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 5.0,
+    "Exports Growth": "Driven by agriculture and mining",
+    "Inflation Rate": "6.5%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Agriculture", "Mining"],
+      "Challenges": "Balancing economic growth with social development"
+    },
+    "Market Performance": {
+      "Equity Market": "N/A",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on African and Portuguese culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Agriculture", "Mining"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air, and Sea transport",
+    "Key Transport Hubs": ["Maputo", "Beira", "Nacala"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Moderate level of political unrest and instability",
+    "Economic Hardships": "High poverty and unemployment rates",
+    "Natural Disasters": ["Cyclones"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "60.2 years",
+    "Infant Mortality Rate": "53.1 deaths/1,000 live births",
+    "Health Expenditure of GDP": "6.0% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "5.5% (2020)",
+    "Literacy Rate": {
+      "Total": "63.5%",
+      "Male": "73.3%",
+      "Female": "54.6%"
     }
   }
 }
