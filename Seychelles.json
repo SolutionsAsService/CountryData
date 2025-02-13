@@ -1,122 +1,213 @@
 {
-  "Seychelles": {
-    "official_name": "Republic of Seychelles",
-    "alternative_names": {
-      "French": "R\u00e9publique des Seychelles",
-      "Seychellois_Creole": "Repiblik Sesel"
+  "Name": {
+    "Common": "Seychelles",
+    "Official": "Republic of Seychelles",
+    "Native": {
+      "French": "République des Seychelles",
+      "Seychellois Creole": "Repiblik Sesel"
+    }
+  },
+  "Symbols": {
+    "Flag": "Flag of Seychelles",
+    "Coat of Arms": "Coat of arms of Seychelles",
+    "Motto": {
+      "Latin": "Finis Coronat Opus",
+      "English Translation": "The End Crowns the Work"
     },
-    "description": "An island country and archipelagic state consisting of 115 islands in the Indian Ocean.",
-    "location": {
-      "geographical_position": "East of mainland Africa",
-      "coordinates": {
-        "latitude": "4\u00b037\u2032S",
-        "longitude": "55\u00b027\u2032E"
-      },
-      "neighboring_entities": ["Comoros", "Madagascar", "Mauritius", "Mayotte", "R\u00e9union", "Maldives", "Chagos Archipelago"]
-    },
-    "capital_city": "Victoria",
-    "size": {
-      "area_km2": 457,
-      "area_sq_mi": 176,
-      "area_rank": "181st",
-      "smallest_country_in_africa": true
-    },
-    "population": {
-      "2022_estimate": 100060,
-      "population_rank": "200th",
-      "density_per_km2": 262.3,
-      "density_per_sq_mi": 679.4
-    },
-    "government": {
-      "type": "Unitary presidential republic",
-      "president": "Wavel Ramkalawan",
-      "vice_president": "Ahmed Afif",
-      "legislature": "Lasanble Nasyonal"
-    },
-    "independence": {
-      "from_United_Kingdom": "29 June 1976"
-    },
-    "economy": {
-      "GDP_PPP_2023_estimate": {
-        "total": "$4.175 billion",
-        "per_capita": "$41,828",
-        "rank": "177th"
-      },
-      "GDP_nominal_2023_estimate": {
-        "total": "$2.085 billion",
-        "per_capita": "$20,889",
-        "rank": "186th"
-      },
-      "Gini_index_2018": 32.1,
-      "HDI_2021": 0.785,
-      "HDI_rank": "72nd"
-    },
-    "currency": "Seychellois rupee (SCR)",
-    "time_zone": "UTC+4 (SCT)",
-    "driving_side": "left",
-    "calling_code": "+248",
-    "ISO_3166_code": "SC",
-    "Internet_TLD": ".sc",
-    "history": {
-      "initial_inhabitance": "uninhabited prior to 16th century",
-      "colonial_history": {
-        "faced_French_and_British_interests": "until late 18th century",
-        "under_full_British_control": "late 18th century"
-      },
-      "post_independence_development": {
-        "from_agricultural_to_diversified_economy": true,
-        "nominal_GDP_growth_1976_to_2015": "nearly 700%",
-        "PPP_GDP_growth_1976_to_2015": "nearly 1600%",
-        "foreign_investment_encouragement": "since late 2010s"
+    "Anthem": {
+      "Title": "Koste Seselwa",
+      "Translation": "Join together all Seychellois",
+      "Duration": "1 minute and 8 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Africa",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Victoria",
+        "Latitude": "4°37′S",
+        "Longitude": "55°27′E"
       }
     },
-    "current_status": {
-      "highest_nominal_GDP_per_capita_in_Africa": true,
-      "second_highest_HDI_in_Africa": true,
-      "V-Dem_Democracy_indices_2023": {
-        "worldwide_rank": 43,
-        "africa_rank": 1
+    "Location": "An island country and archipelagic state consisting of 115 islands in the Indian Ocean, east of mainland Africa",
+    "Area": {
+      "Total (sq km)": 457,
+      "Total (sq mi)": 176,
+      "Rank": "181st",
+      "Smallest Country in Africa": true
+    },
+    "Topography": ["Granite islands", "Coral atolls"],
+    "Climate": ["Tropical rainforest climate, with high humidity and temperatures"],
+    "Natural Resources": ["Fish", "Coconuts", "Cinnamon"],
+    "Time Zones": ["UTC+4 (SCT)"],
+    "Largest City": "Victoria"
+  },
+  "Demographics": {
+    "Population": {
+      "2022 Estimate": 100060,
+      "Density (per sq km)": 262.3,
+      "Density (per sq mi)": 679.4,
+      "Rank": "200th"
+    },
+    "Ethnic Groups": {
+      "2022": {
+        "Seychellois Creoles": "Majority",
+        "Others": "Minority"
       }
     },
-    "culture_and_society": {
-      "influences": ["French", "British", "African", "Chinese", "Indian"],
-      "member_of": ["United Nations", "African Union", "Southern African Development Community", "Commonwealth of Nations"]
+    "Languages": {
+      "Official": ["English", "French", "Seychellois Creole"]
     },
-    "languages": {
-      "official": ["English", "French", "Seychellois Creole"]
+    "Religion": {
+      "2020": {
+        "Christianity": 94.7,
+        "No Religion": 2.4,
+        "Hinduism": 2.4,
+        "Islam": 0.9,
+        "Others": 0.5
+      }
     },
-    "religion_2020": {
-      "Christianity": "94.7%",
-      "no_religion": "2.4%",
-      "Hinduism": "2.4%",
-      "Islam": "0.9%",
-      "others": "0.5%"
+    "Demonym": "Seychellois"
+  },
+  "Government": {
+    "Type": "Unitary presidential republic",
+    "Leaders": {
+      "President": "Wavel Ramkalawan",
+      "Vice President": "Ahmed Afif"
     },
-    "ethnic_groups": {
-      "Seychellois_Creoles": "majority",
-      "others": "minority"
-    },
-    "symbols": {
-      "flag": "Flag of Seychelles",
-      "coat_of_arms": "Coat of arms of Seychelles",
-      "motto": {
-        "Latin": "Finis Coronat Opus",
-        "English_translation": "The End Crowns the Work"
+    "Legislature": "Lasanble Nasyonal",
+    "Constitution": "18 June 1993",
+    "Independence History": {
+      "From United Kingdom": "29 June 1976"
+    }
+  },
+  "History": {
+    "Historical Context": {
+      "Initial Inhabitance": "Uninhabited prior to 16th century",
+      "Colonial History": {
+        "Faced French and British interests until late 18th century": true,
+        "Under full British control": "Late 18th century"
       },
-      "anthem": {
-        "title": "Koste Seselwa",
-        "English_translation": "Join together all Seychellois",
-        "duration": "1 minute and 8 seconds"
+      "Post-Independence Development": {
+        "From agricultural to diversified economy": true,
+        "Nominal GDP growth 1976 to 2015": "Nearly 700%",
+        "PPP GDP growth 1976 to 2015": "Nearly 1600%",
+        "Foreign investment encouragement since late 2010s": true
       }
+    }
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Tourism, fisheries, agriculture",
+    "Major Industries": ["Tourism", "Fisheries", "Agriculture"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 4.175,
+      "Per Capita (USD)": 41828,
+      "Rank": "177th"
     },
-    "sections": [
-      "History",
-      "Politics",
-      "Geography",
-      "Demographics",
-      "Economy",
-      "Culture",
-      "Notable people"
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 2.085,
+      "Per Capita (USD)": 20889,
+      "Rank": "186th"
+    },
+    "Currency": "Seychellois Rupee (SCR)",
+    "Gini Index": {
+      "Year": 2018,
+      "Value": 32.1,
+      "Category": "Medium"
+    },
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.785,
+      "Category": "High",
+      "Rank": "72nd"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": [
+      "United Nations (UN)",
+      "African Union (AU)",
+      "Southern African Development Community (SADC)",
+      "Commonwealth of Nations"
     ]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+4 (SCT)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Left",
+    "Calling Code": "+248",
+    "ISO 3166 Code": "SC",
+    "Internet TLD": [".sc"],
+    "Public Holidays": [
+      "New Year's Day",
+      "Labour Day",
+      "Independence Day",
+      "Constitution Day",
+      "Christmas Day"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage influenced by French, British, African, Chinese, and Indian cultures",
+    "Cultural Contributions": ["Music", "Cuisine", "Literature", "Dance"],
+    "Unique Features": ["Traditional Creole music and dance", "Seychelles Carnival", "Aldabra Atoll (UNESCO World Heritage Site)"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 4.2,
+    "Exports Growth": "Driven by tourism and fisheries sectors",
+    "Inflation Rate": "3.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Tourism", "Fisheries"],
+      "Challenges": "Balancing economic growth with social development"
+    },
+    "Market Performance": {
+      "Equity Market": "Seychelles Securities Exchange",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population, with Victoria being the primary urban center",
+      "Rural Development": "Focus on improving rural infrastructure and living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Indian Ocean and global culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Tourism", "Fisheries"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education and improving literacy rates",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Sea, and Air transport",
+    "Key Transport Hubs": ["Seychelles International Airport", "Port of Victoria"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Low level of political unrest and instability",
+    "Economic Hardships": "Moderate poverty and unemployment rates",
+    "Natural Disasters": ["Cyclones", "Floods"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "73.5 years",
+    "Infant Mortality Rate": "11.2 deaths/1,000 live births",
+    "Health Expenditure of GDP": "5.9% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "6.3% (2020)",
+    "Literacy Rate": {
+      "Total": "95.9%",
+      "Male": "96.5%",
+      "Female": "95.3%"
+    }
   }
 }
