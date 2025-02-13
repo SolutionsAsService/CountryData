@@ -1,100 +1,330 @@
 {
-  "NewZealand": {
-    "officialName": "New Zealand",
-    "MaoriName": "Aotearoa",
-    "geography": {
-      "location": "Southwestern Pacific Ocean",
-      "mainLandmasses": ["North Island (Te Ika-a-Māui)", "South Island (Te Waipounamu)"],
-      "smallerIslandsCount": 700,
-      "proximity": {
-        "eastOf": "Australia",
-        "southOf": ["New Caledonia", "Fiji", "Tonga"]
-      },
-      "topography": "Varied, including Southern Alps",
-      "totalArea": "268,021"
+  "Name": {
+    "Common": "New Zealand",
+    "Official": "New Zealand",
+    "Native": {
+      "Maori": "Aotearoa"
+    }
+  },
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Coat of Arms URL": "URL_to_coat_of_arms_image",
+    "Motto": "God Defend New Zealand",
+    "Anthem": {
+      "Title": "God Defend New Zealand",
+      "Translation": "Aotearoa",
+      "Duration": "2 minutes and 30 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Oceania",
+    "Region": "Southwestern Pacific Ocean",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Wellington",
+        "Latitude": "-41.2865° S",
+        "Longitude": "174.7762° E"
+      }
     },
-    "demographics": {
-      "population2024": 5269938,
-      "ethnicGroups": {
+    "Location": "Southwestern Pacific Ocean, east of Australia, south of New Caledonia, Fiji, and Tonga",
+    "Area": {
+      "Total (sq km)": 268021,
+      "Rank": "75th",
+      "Water Percentage": "1.6%"
+    },
+    "Main Landmasses": ["North Island (Te Ika-a-Māui)", "South Island (Te Waipounamu)"],
+    "Smaller Islands Count": 700,
+    "Topography": ["Varied, including Southern Alps"],
+    "Climate": ["Temperate maritime"],
+    "Natural Resources": ["Natural gas", "Iron ore", "Sand", "Gold", "Limestone"],
+    "Time Zones": ["UTC+12 (NZST)", "UTC+13 (NZDT)"],
+    "Largest City": "Auckland"
+  },
+  "Demographics": {
+    "Population": {
+      "2024 Estimate": 5269938,
+      "Density (per sq km)": 19.7
+    },
+    "Ethnic Groups": {
+      "2024": {
         "European": 70.2,
         "Maori": 16.5,
         "Asian": 15.1,
-        "PacificPeoples": 8.1,
-        "MELAAfrican": 1.5,
+        "Pacific Peoples": 8.1,
+        "MELAA (Middle Eastern, Latin American, African)": 1.5,
         "Other": 1.2
-      },
-      "religions": {
-        "noReligion": 48.2,
+      }
+    },
+    "Languages": {
+      "Official": ["English", "Maori", "NZ Sign Language"]
+    },
+    "Religion": {
+      "2024": {
+        "No Religion": 48.2,
         "Christianity": 36.5,
         "Hinduism": 2.7,
         "Islam": 1.3,
         "Buddhism": 1.1,
-        "MaoriReligions": 1.3,
+        "Maori Religions": 1.3,
         "Other": 1.9,
         "Unanswered": 6.7
       }
     },
-    "government": {
-      "type": "Unitary parliamentary constitutional monarchy",
-      "monarch": "Charles III",
-      "governorGeneral": "Cindy Kiro",
-      "primeMinister": "Christopher Luxon",
-      "legislature": "Parliament (House of Representatives)",
-      "independenceStages": {
-        "TreatyOfWaitangi": "1840-02-06",
-        "ResponsibleGovernment": "1856-05-07",
-        "Dominion": "1907-09-26",
-        "StatuteOfWestminsterAdopted": "1947-11-25",
-        "ConstitutionAct": "1987-01-01"
-      }
+    "Demonym": "New Zealander"
+  },
+  "Government": {
+    "Type": "Unitary parliamentary constitutional monarchy",
+    "Leaders": {
+      "Monarch": "Charles III",
+      "Governor General": "Cindy Kiro",
+      "Prime Minister": "Christopher Luxon"
     },
-    "economy": {
-      "GDP_PPP_2023": {
-        "total": 279183000000,
-        "perCapita": 53809
-      },
-      "GDP_Nominal_2023": {
-        "total": 249415000000,
-        "perCapita": 48071
-      },
-      "GiniIndex": {
-        "year2022": 30.0
-      },
-      "HDI": {
-        "year2021": 0.937
-      },
-      "currency": "New Zealand dollar (NZD)"
+    "Legislature": "Parliament (House of Representatives)",
+    "Independence Stages": {
+      "Treaty of Waitangi": "1840-02-06",
+      "Responsible Government": "1856-05-07",
+      "Dominion": "1907-09-26",
+      "Statute of Westminster Adopted": "1947-11-25",
+      "Constitution Act": "1987-01-01"
     },
-    "culture": {
-      "primaryInfluences": ["Maori", "British settlers"],
-      "officialLanguages": ["English", "Maori", "NZ Sign Language"],
-      "uniqueTraits": {
-        "firstToIntroduceMinimumWage": true,
-        "firstToGiveWomenRightToVote": true
-      }
+    "Constitution": "Unwritten, based on various statutes, conventions, and legal documents"
+  },
+  "History": {
+    "Initial Settlement": {
+      "Period": "1280-1350",
+      "Settlers": "Polynesians"
     },
-    "miscellaneous": {
-      "capital": "Wellington",
-      "largestCity": "Auckland",
-      "timeZone": ["UTC+12 (NZST)", "UTC+13 (NZDT)"],
-      "driveSide": "left",
-      "callingCode": "+64",
-      "ISO3166Code": "NZ",
-      "internetTLD": ".nz"
+    "First European Contact": {
+      "Year": 1642,
+      "Explorer": "Abel Tasman"
     },
-    "internationalRelations": {
-      "memberOf": ["United Nations", "Commonwealth of Nations", "ANZUS", "UKUSA", "OECD", "ASEAN Plus Six", "Asia-Pacific Economic Cooperation", "Pacific Community", "Pacific Islands Forum"],
-      "closeRelations": ["United States", "United Kingdom", "Australia"]
+    "Treaty of Waitangi": {
+      "Date": "1840-02-06",
+      "Significance": "British sovereignty established"
     },
-    "significantEvents2024": [
-      {"event": "Hokitika Wildfoods Festival", "date": "2024-03-09"},
-      {"event": "World of Music, Arts and Dance", "location": "New Plymouth", "date": "2024-03-15"},
-      {"event": "King's Birthday Honours Announced", "date": "2024-06-03"},
-      {"event": "Tauranga City Council Elections", "date": "2024-07"},
-      {"event": "Royal Visit by King Charles III and Queen Camilla", "date": "2024-10"}
+    "Colonial Status": {
+      "Year Established": 1841,
+      "Conflicts": "Colonial government vs Maori tribes"
+    },
+    "Status Changes": {
+      "Dominion": 1907,
+      "Full Statutory Independence": 1947
+    },
+    "Population Composition": {
+      "Majority": "European descent",
+      "Largest Minority": "Maori",
+      "Others": ["Asians", "Pacific Islanders"]
+    }
+  },
+  "Economy": {
+    "Status": "Developed country",
+    "Dependence": "Services, industry, agriculture",
+    "Major Industries": ["Services", "Industry", "Agriculture"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 279.183,
+      "Per Capita (USD)": 53809
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 249.415,
+      "Per Capita (USD)": 48071
+    },
+    "Currency": "New Zealand dollar (NZD)",
+    "Gini Index": {
+      "Year": 2022,
+      "Value": 30.0,
+      "Category": "Low"
+    },
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.937,
+      "Category": "Very High",
+      "Rank": "14th"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": [
+      "United Nations (UN)",
+      "Commonwealth of Nations",
+      "ANZUS",
+      "UKUSA",
+      "Organisation for Economic Co-operation and Development (OECD)",
+      "ASEAN Plus Six",
+      "Asia-Pacific Economic Cooperation (APEC)",
+      "Pacific Community",
+      "Pacific Islands Forum"
     ],
-    
-  "publicHolidays2024": [
+    "Close Relations": ["United States", "United Kingdom", "Australia"]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+12 (NZST)", "UTC+13 (NZDT)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Left",
+    "Calling Code": "+64",
+    "ISO 3166 Code": "NZ",
+    "Internet TLD": ".nz",
+    "Public Holidays": [
+      "New Year's Day",
+      "Day after New Year's Day",
+      "Waitangi Day",
+      "Good Friday",
+      "Easter Monday",
+      "Anzac Day",
+      "King's Birthday",
+      "Matariki",
+      "Labour Day",
+      "Christmas Day",
+      "Boxing Day"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of Maori and British influences",
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["First to introduce minimum wage", "First to give women the right to vote"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.0,
+    "Exports Growth": "Driven by services and agriculture",
+    "Inflation Rate": "2.5%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Services", "Agriculture"],
+      "Challenges": "Balancing economic growth with environmental protection"
+    },
+    "Market Performance": {
+      "Equity Market": "NZX",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Oceania and global culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Services", "Agriculture"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air, and Sea transport",
+    "Key Transport Hubs": ["Auckland", "Wellington", "Christchurch"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Low level of political unrest and instability",
+    "Economic Hardships": "Moderate poverty and unemployment rates",
+    "Natural Disasters": ["Earthquakes"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "82.1 years",
+    "Infant Mortality Rate": "4.2 deaths/1,000 live births",
+    "Health Expenditure of GDP": "9.4% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "6.3% (2020)",
+    "Literacy Rate": {
+      "Total": "99.0%",
+      "Male": "99.2%",
+      "Female": "98.8%"
+    }
+  },
+  "Historical Context": {
+    "Initial Settlement": {
+      "Period": "1280-1350",
+      "Settlers": "Polynesians"
+    },
+    "First European Contact": {
+      "Year": 1642,
+      "Explorer": "Abel Tasman"
+    },
+    "Treaty of Waitangi": {
+      "Date": "1840-02-06",
+      "Significance": "British sovereignty established"
+    },
+    "Colonial Status": {
+      "Year Established": 1841,
+      "Conflicts": "Colonial government vs Maori tribes"
+    },
+    "Status Changes": {
+      "Dominion": 1907,
+      "Full Statutory Independence": 1947
+    },
+    "Population Composition": {
+      "Majority": "European descent",
+      "Largest Minority": "Maori",
+      "Others": ["Asians", "Pacific Islanders"]
+    }
+  },
+  "Geological Features": {
+    "Major Mountain Ranges": ["Southern Alps"],
+    "Notable Geological Processes": ["Tectonic uplift", "Volcanic eruptions"]
+  },
+  "Economic Transformations": {
+    "1980s": "From protectionist to liberalised free-trade economy",
+    "Dominant Sectors": ["Services", "Industry", "Agriculture"],
+    "Tourism": "Significant source of revenue"
+  },
+  "Administrative Divisions": {
+    "Regional Councils": 11,
+    "Territorial Authorities": 67
+  },
+  "External Territories": {
+    "Tokelau": "Dependent territory",
+    "Cook Islands": "Self-governing in free association",
+    "Niue": "Self-governing in free association",
+    "Ross Dependency": "Territorial claim in Antarctica"
+  },
+  "International Affiliations": [
+    "United Nations",
+    "Commonwealth of Nations",
+    "ANZUS",
+    "UKUSA",
+    "OECD",
+    "ASEAN Plus Six",
+    "Asia-Pacific Economic Cooperation",
+    "Pacific Community",
+    "Pacific Islands Forum"
+  ],
+  "Diplomatic Relations": {
+    "Close Relations With": ["United States", "United Kingdom", "Australia"],
+    "Shared Identity": "Trans-Tasman with Australia"
+  },
+  "Significant Events 2024": [
+    {
+      "Event": "Hokitika Wildfoods Festival",
+      "Date": "2024-03-09"
+    },
+    {
+      "Event": "World of Music, Arts and Dance",
+      "Location": "New Plymouth",
+      "Date": "2024-03-15"
+    },
+    {
+      "Event": "King's Birthday Honours Announced",
+      "Date": "2024-06-03"
+    },
+    {
+      "Event": "Tauranga City Council Elections",
+      "Date": "2024-07"
+    },
+    {
+      "Event": "Royal Visit by King Charles III and Queen Camilla",
+      "Date": "2024-10"
+    }
+  ],
+  "Public Holidays 2024": [
     "New Year's Day",
     "Day after New Year's Day",
     "Waitangi Day",
@@ -106,66 +336,5 @@
     "Labour Day",
     "Christmas Day",
     "Boxing Day"
-  ],
-  "historicalContext": {
-    "initialSettlement": {
-      "period": "1280-1350",
-      "settlers": "Polynesians"
-    },
-    "firstEuropeanContact": {
-      "year": 1642,
-      "explorer": "Abel Tasman"
-    },
-    "TreatyOfWaitangi": {
-      "date": "1840-02-06",
-      "significance": "British sovereignty established"
-    },
-    "colonialStatus": {
-      "yearEstablished": 1841,
-      "conflicts": "Colonial government vs Maori tribes"
-    },
-    "statusChanges": {
-      "Dominion": 1907,
-      "FullStatutoryIndependence": 1947
-    },
-    "populationComposition": {
-      "majority": "European descent",
-      "largestMinority": "Maori",
-      "others": ["Asians", "Pacific Islanders"]
-    }
-  },
-  "geologicalFeatures": {
-    "majorMountainRanges": ["Southern Alps"],
-    "notableGeologicalProcesses": ["Tectonic uplift", "Volcanic eruptions"]
-  },
-  "economicTransformations": {
-    "1980s": "From protectionist to liberalised free-trade economy",
-    "dominantSectors": ["Services", "Industry", "Agriculture"],
-    "tourism": "Significant source of revenue"
-  },
-  "administrativeDivisions": {
-    "regionalCouncils": 11,
-    "territorialAuthorities": 67
-  },
-  "externalTerritories": {
-    "Tokelau": "Dependent territory",
-    "CookIslands": "Self-governing in free association",
-    "Niue": "Self-governing in free association",
-    "RossDependency": "Territorial claim in Antarctica"
-  },
-  "internationalAffiliations": [
-    "United Nations",
-    "Commonwealth of Nations",
-    "ANZUS",
-    "UKUSA",
-    "OECD",
-    "ASEAN Plus Six",
-    "Asia-Pacific Economic Cooperation",
-    "Pacific Community",
-    "Pacific Islands Forum"
-  ],
-  "diplomaticRelations": {
-    "closeRelationsWith": ["United States", "United Kingdom", "Australia"],
-    "sharedIdentity": "Trans-Tasman with Australia"
-  }
+  ]
 }
