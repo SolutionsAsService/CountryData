@@ -2,10 +2,43 @@
   "Name": {
     "Common": "Mexico",
     "Official": "United Mexican States",
-    "Native": "Estados Unitos Amicanos"
+    "Native": "Estados Unidos Mexicanos"
+  },
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Coat of Arms URL": "URL_to_coat_of_arms_image",
+    "Motto": "La Patria es Primero (The Homeland is First)",
+    "Anthem": {
+      "Title": "Himno Nacional Mexicano",
+      "Translation": "Mexican National Anthem",
+      "Duration": "4 minutes and 15 seconds"
+    }
   },
   "Geography": {
-    "Capital City": "Mexico City",
+    "Continent": "North America",
+    "Region": "Latin America",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Mexico City",
+        "Latitude": "19.432608",
+        "Longitude": "-99.133209"
+      }
+    },
+    "Location": "Southern part of North America, bordered by the United States to the north, Belize and Guatemala to the southeast, and the Pacific Ocean to the west and south",
+    "Area": {
+      "Total (sq km)": 1972550,
+      "Rank": "14th",
+      "Water Percentage": "2.5%"
+    },
+    "Borders": {
+      "Total": 3,
+      "Countries": ["United States", "Belize", "Guatemala"]
+    },
+    "Coastline": "9,330 km",
+    "Topography": ["Mountain ranges (Sierra Madre)", "High plateaus", "Coastal lowlands"],
+    "Climate": ["Varies from tropical to desert"],
+    "Natural Resources": ["Petroleum", "Silver", "Copper", "Gold", "Lead", "Zinc", "Natural gas", "Timber"],
+    "Time Zones": ["UTC−8 to −5"],
     "Largest City": "Mexico City",
     "Major Cities": [
       "Guadalajara",
@@ -15,65 +48,163 @@
       "Tijuana",
       "León",
       "Ciudad Juárez"
-    ],
-    "Area": {
-      "Total (km2)": "1972550"
-    },
-    "Time Zones": "UTC−8 to −5",
-    "Total Borders": "3",
-    "Driving Side": "Right"
-  },
-  "Government": {
-    "Type": "Federal presidential republic",
-    "President": "Andrés Manuel López Obrador",
-    "Prime Minister": "N/A",
-    "Legislature": {
-      "Upper House": "Senate",
-      "Lower House": "Chamber of Deputies"
-    }
-  },
-  "History": {
-    "Pre-Columbian": "Human presence since 8,000 BCE",
-    "Colonial Period": "Spanish Conquest in 1521, leading to the establishment of New Spain",
-    "Independence": "Declared on 27 September 1821",
-    "20th Century": "Mexican Revolution from 1910 to 1920, NAFTA signed in 1994"
-  },
-  "Economy": {
-    "GDP (PPP 2023) Total (Trillion USD)": "3.277",
-    "GDP (Nominal 2023) Total (Trillion USD)": "1.811",
-    "GDP per Capita (PPP USD)": "24975",
-    "GDP per Capita (Nominal USD)": "13803"
+    ]
   },
   "Demographics": {
     "Population": {
-      "2023 Estimate": "129875529",
-      "Density per km2": "61"
+      "2023 Estimate": 129875529,
+      "Density (per sq km)": 61
     },
-    "Languages and Ethnic Groups": {
-      "Official Languages": "Spanish",
-      "Ethnic Groups": {
-        "Mestizo": "62%",
-        "Amerindian": "21%",
-        "White": "15%",
-        "Other": "2%"
+    "Ethnic Groups": {
+      "2023": {
+        "Mestizo": 62,
+        "Amerindian": 21,
+        "White": 15,
+        "Other": 2
       }
     },
+    "Languages": {
+      "Official": ["Spanish"],
+      "Recognised National": ["Indigenous languages"]
+    },
     "Religion": {
-      "Primary": "Christianity",
-      "Christianity": "71%",
-      "Minorities": {
-        "No Religion": "17%",
-        "Other Religion": "12%"
+      "2023": {
+        "Christianity": 71,
+        "No Religion": 17,
+        "Other Religion": 12
+      }
+    },
+    "Demonym": "Mexican"
+  },
+  "Government": {
+    "Type": "Federal presidential republic",
+    "Leaders": {
+      "President": "Andrés Manuel López Obrador",
+      "Prime Minister": "N/A"
+    },
+    "Legislature": {
+      "Upper House": "Senate",
+      "Lower House": "Chamber of Deputies"
+    },
+    "Constitution": "5 February 1917"
+  },
+  "History": {
+    "Pre-Columbian": "Human presence since 8,000 BCE",
+    "Colonial Period": "Spanish Conquest in 1521, establishment of New Spain",
+    "Independence": {
+      "Declared": "27 September 1821",
+      "Recognised": "28 September 1821"
+    },
+    "20th Century": "Mexican Revolution from 1910 to 1920, NAFTA signed in 1994",
+    "Recent Developments": "Ongoing challenges with drug cartels and violence"
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Manufacturing, oil production, tourism",
+    "Major Industries": ["Automobiles", "Oil", "Electronics", "Tourism", "Mining"],
+    "GDP (PPP 2023)": {
+      "Total (Trillion USD)": 3.277,
+      "Per Capita (USD)": 24975
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Trillion USD)": 1.811,
+      "Per Capita (USD)": 13803
+    },
+    "Currency": "Mexican peso (MXN)",
+    "Gini Index": {
+      "Year": 2023,
+      "Value": 45.4,
+      "Category": "High"
+    },
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.758,
+      "Category": "High",
+      "Rank": "74th"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": ["United Nations (UN)", "Organization of American States (OAS)", "Group of 20 (G20)", "North American Free Trade Agreement (NAFTA)", "Pacific Alliance"]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC−8 to −5"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+52",
+    "ISO 3166 Code": "MX",
+    "Internet TLD": [".mx"],
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Constitution Day (February 5)",
+      "Benito Juárez's Birthday (March 21)",
+      "Labor Day (May 1)",
+      "Independence Day (September 16)",
+      "Revolution Day (November 20)",
+      "Christmas Day (December 25)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of Indigenous and Spanish influences",
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["UNESCO World Heritage Sites: 35", "Mesoamerican pyramids", "Vibrant festivals and traditions"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 2.5,
+    "Exports Growth": "Driven by manufacturing and oil production",
+    "Inflation Rate": "3.5%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Manufacturing", "Oil production"],
+      "Challenges": "Balancing economic growth with social development"
+    },
+    "Market Performance": {
+      "Equity Market": "N/A",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
       }
     }
   },
-  "Miscellaneous": {
-    "Human Development Index (2021)": "0.758",
-    "Currency": "Mexican peso (MXN)",
-    "Calling Code": "+52",
-    "Internet TLD": [
-      ".mx"
-    ],
-    "UNESCO World Heritage Sites": "35"
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Latin American culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Manufacturing", "Oil production", "Tourism"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air, and Sea transport",
+    "Key Transport Hubs": ["Mexico City", "Guadalajara", "Monterrey"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Moderate level of political unrest and instability",
+    "Economic Hardships": "High poverty and unemployment rates",
+    "Natural Disasters": ["Earthquakes"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "75.3 years",
+    "Infant Mortality Rate": "12.1 deaths/1,000 live births",
+    "Health Expenditure of GDP": "6.2% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "5.3% (2020)",
+    "Literacy Rate": {
+      "Total": "95.4%",
+      "Male": "96.2%",
+      "Female": "94.6%"
+    }
   }
 }
