@@ -1,99 +1,214 @@
 {
-  "Morocco":{
-    "Name": {
-     "Common": "Morocco",
-     "Official": "Kingdom of Morocco",
-     "Arabic":  "المملكة المغربية",
-     "Romanized": "al-Mamlakah al-Maghribiyah",
-     "Berber": "ⵜⴰⴳⵍⴷⵉⵜ ⵏ ⵍⵎⵖⵔⵉⴱ"
-   },
-  "Status": ["Islamic Insurgency", "Western Sahara Conflict"],
-  "Location": {
+  "Name": {
+    "Common": "Morocco",
+    "Official": "Kingdom of Morocco",
+    "Native": {
+      "Arabic": "المملكة المغربية",
+      "Romanized": "al-Mamlakah al-Maghribiyah",
+      "Berber": "ⵜⴰⴳⵍⴷⵉⵜ ⵏ ⵍⵎⵖⵔⵉⴱ"
+    }
+  },
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Coat of Arms URL": "URL_to_coat_of_arms_image",
+    "Motto": "God, Homeland, King",
+    "Anthem": {
+      "Title": "Hymne Chérifien",
+      "Translation": "Cherifian Anthem",
+      "Duration": "1 minute and 23 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Africa",
     "Region": "North Africa",
-    "Borders": {
-      "North": "Mediterranean Sea",
-      "West": "Atlantic Ocean",
-      "East": "Algeria",
-      "South": "Western Sahara"
+    "Coordinates": {
+      "Capital": {
+        "Name": "Rabat",
+        "Latitude": "34°2′N",
+        "Longitude": "6°51′W"
+      }
     },
-    "Claims": ["Ceuta", "Melilla", "Peñón de Vélez de la Gomera", "Spanish-controlled islands"]
+    "Location": "North Africa, bordered by the Mediterranean Sea to the north, the Atlantic Ocean to the west, Algeria to the east, and Western Sahara to the south",
+    "Area": {
+      "Total (sq km)": 446550,
+      "Including Claimed Territories (sq km)": 712550,
+      "Rank": "57th",
+      "Water Percentage": "2.6%"
+    },
+    "Borders": {
+      "North": ["Mediterranean Sea"],
+      "West": ["Atlantic Ocean"],
+      "East": ["Algeria"],
+      "South": ["Western Sahara"]
+    },
+    "Claims": ["Ceuta", "Melilla", "Peñón de Vélez de la Gomera", "Spanish-controlled islands"],
+    "Topography": ["Mountainous country", "Atlas Mountains"],
+    "Climate": ["Mediterranean climate in north", "Semi-arid climate towards interior"],
+    "Natural Resources": ["Phosphates", "Iron ore", "Manganese", "Lead", "Zinc", "Fish"],
+    "Time Zones": ["UTC+1"],
+    "Largest City": "Casablanca"
   },
-   "Geography": {
-  "Terrain": ["Mountainous country", "Atlas Mountains"],
-  "Climate": ["Mediterranean climate in north", "Semi-arid climate towards interior"]
-},
-  "Area": {
-    "Total": "446,550 km² (excluding disputed territories)",
-    "Including_Claimed_Territories": "712,550 km²"
-  },
-  "Population": {
-    "2023_Estimate": "36,459,000",
-    "2022_Estimate": "37,984,655",
-    "2014_Census": "33,848,242",
-    "Density": "50.0/km²"
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 36459000,
+      "2022 Estimate": 37984655,
+      "2014 Census": 33848242,
+      "Density (per sq km)": 50.0
+    },
+    "Ethnic Groups": {
+      "2023": {
+        "Arab-Berber": 99.1,
+        "Other": 0.9
+      }
+    },
+    "Languages": {
+      "Official": ["Arabic"],
+      "Recognised": ["Berber (Tamazight)"],
+      "Common": ["French", "Moroccan Arabic"]
+    },
+    "Religion": {
+      "2023": {
+        "Islam": 99.6,
+        "Sunni": 99.23,
+        "Shia": 0.45,
+        "Others": 0.3
+      }
+    },
+    "Demonym": "Moroccan"
   },
   "Government": {
     "Type": "Unitary parliamentary semi-constitutional monarchy",
-    "King": "Mohammed VI",
-    "Prime_Minister": "Aziz Akhannouch",
+    "Leaders": {
+      "King": "Mohammed VI",
+      "Prime Minister": "Aziz Akhannouch"
+    },
     "Legislature": {
-      "Upper_House": "House of Councillors",
-      "Lower_House": "House of Representatives"
+      "Upper House": "House of Councillors",
+      "Lower House": "House of Representatives"
+    },
+    "Constitution": "1 July 2011"
+  },
+  "History": {
+    "Historical Eras": {
+      "Paleolithic Era": "Over 300,000 years ago",
+      "First Moroccan State": "788",
+      "Almoravid and Almohad Dynasties": "11th and 12th centuries",
+      "Independence from France": "1956"
     }
   },
-  "Historical_Eras": {
-    "Paleolithic_Era": "Over 300,000 years ago",
-    "First_Moroccan_State": "788",
-    "Almoravid_and_Almohad_Dynasties": "11th and 12th centuries",
-    "Independence": "1956"
-  },
   "Economy": {
-    "GDP_PPP_2023_Estimate": {
-      "Total": "$385.337 billion",
-      "Per_Capita": "$10,408"
+    "Status": "Developing country",
+    "Dependence": "Agriculture, mining, tourism",
+    "Major Industries": ["Agriculture", "Mining", "Tourism", "Textiles"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 385.337,
+      "Per Capita (USD)": 10408
     },
-    "GDP_Nominal_2023_Estimate": {
-      "Total": "$147.343 billion",
-      "Per_Capita": "$3,979"
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 147.343,
+      "Per Capita (USD)": 3979
     },
-    "Gini_Index": "40.3 (2015)",
-    "HDI": "0.683 (2021)"
-  },
-  "Culture_and_Society": {
-    "Religion": {
-      "Islam": "99.6%",
-      "Sunni": "99.23%",
-      "Shia": "0.45%",
-      "Others": "0.3%"
+    "Currency": "Moroccan dirham (MAD)",
+    "Gini Index": {
+      "Year": 2015,
+      "Value": 40.3,
+      "Category": "High"
     },
-    "Languages": ["Arabic", "Berber (Tamazight)", "French", "Moroccan Arabic"],
-    "Identity": "Mix of Arab, Berber, African, and European cultures"
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.683,
+      "Category": "Medium",
+      "Rank": "121st"
+    }
   },
-  "Demographics": {
-    "Age_Structure": {
-      "0-14_Years": "26.01%",
-      "15-64_Years": "65.92%",
-      "65_Years_and_Over": "8.06%"
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": [
+      "United Nations (UN)",
+      "Arab League",
+      "Arab Maghreb Union",
+      "Union for the Mediterranean",
+      "African Union"
+    ],
+    "Disputed Territories": ["Western Sahara"]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+1"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+212",
+    "ISO 3166 Code": "MA",
+    "Internet TLD": ".ma",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Labour Day (May 1)",
+      "Throne Day (July 30)",
+      "Oued Ed-Dahab Day (August 14)",
+      "Revolution Day (August 20)",
+      "Independence Day (November 18)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of Arab, Berber, African, and European influences",
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["Blend of modern and traditional lifestyles", "Famous for its medinas and souks"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.2,
+    "Exports Growth": "Driven by agriculture and mining",
+    "Inflation Rate": "4.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Agriculture", "Mining"],
+      "Challenges": "Balancing economic growth with social development"
     },
-    "Median_Age": "30.2 years (2023 est.)",
-    "Birth_Rate": "17.1 births/1,000 population (2023 est.)",
-    "Death_Rate": "6.6 deaths/1,000 population (2023 est.)",
-    "Net_Migration_Rate": "-1.7 migrant(s)/1,000 population (2023 est.)"
+    "Market Performance": {
+      "Equity Market": "N/A",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
   },
-  "Health": {
-    "Current_Health_Expenditure": "6% of GDP (2020)",
-    "Physicians_Density": "0.73 physicians/1,000 population (2017)",
-    "Hospital_Bed_Density": "1 beds/1,000 population (2017)",
-    "Maternal_Mortality_Ratio": "72 deaths/100,000 live births (2020 est.)"
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on North African culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Agriculture", "Tourism"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
   },
-   "Education": {
-   "Primary_Languages": ["Arabic", "French"],
-    "Challenges": ["Diverse linguistic landscape", "Regional disparities in access and quality"]
-   },
-    "International_Relations": {
-      "Membership": ["Arab League", "Arab Maghreb Union", "Union for the Mediterranean", "African Union"],
-      "Role": "Middle power in global affairs",
-      "Disputed_Territories": ["Western Sahara"]
- }
-}
+  "Transport": {
+    "Major Modes": "Road, Rail, Air, and Sea transport",
+    "Key Transport Hubs": ["Casablanca", "Tangier", "Marrakech"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Moderate level of political unrest and instability",
+    "Economic Hardships": "High poverty and unemployment rates",
+    "Natural Disasters": ["Earthquakes"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "76.7 years",
+    "Infant Mortality Rate": "18.3 deaths/1,000 live births",
+    "Health Expenditure of GDP": "6.0% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "5.2% (2020)",
+    "Literacy Rate": {
+      "Total": "73.2%",
+      "Male": "82.2%",
+      "Female": "64.6%"
+    }
+  }
 }
