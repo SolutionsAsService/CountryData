@@ -1,108 +1,213 @@
 {
   "Saint_Kitts_and_Nevis": {
-    "official_name": "Federation of Saint Christopher and Nevis",
-    "also_known_as": ["Saint Christopher and Nevis"],
-    "description": "Island country in the West Indies, Leeward Islands chain of the Lesser Antilles.",
-    "location": {
-      "region": "Caribbean Sea",
-      "coordinates": "17°18′N 62°44′W",
-      "nearby_entities": ["Anguilla", "Sint Eustatius", "Saba", "Saint Barthélemy", "Saint-Martin/Sint Maarten", "Antigua and Barbuda", "Redonda", "Montserrat"]
-    },
-    "capital_and_largest_city": "Basseterre",
-    "official_languages": "English",
-    "vernacular_language": "Saint Kitts Creole",
-    "ethnic_groups_2020": {
-      "African": "92.5%",
-      "Multiracial": "3%",
-      "European": "2.1%",
-      "Indian": "1.6%",
-      "Other": "0.5%",
-      "Unspecified": "0.3%"
-    },
-    "religion_2020": {
-      "Christianity": "94.6%",
-      "Protestantism": "81.3%",
-      "Other Christian": "13.3%",
-      "No Religion": "2.6%",
-      "Hinduism": "1.5%",
-      "Other": "1.3%"
-    },
-    "demonym": ["Kittitian", "Nevisian"],
-    "government": {
-      "type": "Federal parliamentary constitutional monarchy",
-      "monarch": "Charles III",
-      "governor_general": "Marcella Liburd",
-      "prime_minister": "Terrance Drew",
-      "legislature": "National Assembly"
-    },
-    "independence": {
-      "associated_state": "27 February 1967",
-      "declared": "19 September 1983"
-    },
-    "territory": {
-    "total_area_km2": 261,
-    "total_area_sq_mi": 101,
-    "area_rank": "188th",
-    "water_percentage": "Negligible"
-    },
-    "population": {
-      "2021_estimate": 47606,
-      "2023_census": 54338,
-      "density_per_km2": 164,
-      "density_per_sq_mi": 424.8
-    },
-    "GDP": {
-      "PPP_2023_estimate": {
-        "total": "$1.8 billion",
-        "per_capita": "$29,893"
+    "GeneralInformation": {
+      "OfficialName": "Federation of Saint Christopher and Nevis",
+      "Motto": "Country Above Self",
+      "Anthem": {
+        "Title": "Oh Land of Beauty!",
+        "Duration": "1 minute and 20 seconds"
       },
-      "nominal_2023_estimate": {
-        "total": "$1 billion",
-        "per_capita": "$18,158"
+      "Capital": "Basseterre",
+      "Largest City": "Basseterre",
+      "OfficialLanguages": ["English"],
+      "VernacularLanguage": ["Saint Kitts Creole"]
+    },
+    "Geography": {
+      "Region": "Caribbean Sea",
+      "Coordinates": {
+        "Latitude": "17°18′N",
+        "Longitude": "62°44′W"
+      },
+      "Location": "Island country in the West Indies, Leeward Islands chain of the Lesser Antilles",
+      "NearbyEntities": ["Anguilla", "Sint Eustatius", "Saba", "Saint Barthélemy", "Saint-Martin/Sint Maarten", "Antigua and Barbuda", "Redonda", "Montserrat"],
+      "Area": {
+        "Total (sq km)": 261,
+        "Total (sq mi)": 101,
+        "Rank": "188th",
+        "Water Percentage": "Negligible"
+      },
+      "Climate": "Tropical, tempered by constant sea breezes",
+      "Topography": ["Volcanic origin, mountainous terrain"],
+      "Natural Resources": ["Arable land", "Fish"],
+      "TimeZones": ["UTC-4 (AST)"],
+      "Largest City": "Basseterre"
+    },
+    "Demographics": {
+      "Population": {
+        "2021 Estimate": 47606,
+        "2023 Census": 54338,
+        "Density (per sq km)": 164,
+        "Density (per sq mi)": 424.8
+      },
+      "Ethnic Groups": {
+        "2020": {
+          "African": 92.5,
+          "Multiracial": 3.0,
+          "European": 2.1,
+          "Indian": 1.6,
+          "Other": 0.5,
+          "Unspecified": 0.3
+        }
+      },
+      "Languages": {
+        "Official": ["English"],
+        "Vernacular": ["Saint Kitts Creole"]
+      },
+      "Religion": {
+        "2020": {
+          "Christianity": 94.6,
+          "Protestantism": 81.3,
+          "Other Christian": 13.3,
+          "No Religion": 2.6,
+          "Hinduism": 1.5,
+          "Other": 1.3
+        }
+      },
+      "Demonym": ["Kittitian", "Nevisian"]
+    },
+    "Government": {
+      "Type": "Federal parliamentary constitutional monarchy",
+      "Leaders": {
+        "Monarch": "Charles III",
+        "Governor General": "Marcella Liburd",
+        "Prime Minister": "Terrance Drew"
+      },
+      "Legislature": "National Assembly",
+      "Constitution": "19 September 1983",
+      "Independence": {
+        "Associated State": "27 February 1967",
+        "Declared": "19 September 1983"
       }
     },
-    "HDI_2019": {
-      "value": "0.779",
-      "rank": "74th"
+    "History": {
+      "Historical Context": {
+        "Pre-Colonial Era": "Inhabited by Kalinago people before European colonization",
+        "Colonial Period": "Colonized by the British and French in the 17th century, became a British colony in 1783",
+        "Independence": "Gained independence from the United Kingdom on 19 September 1983"
+      }
     },
-    "currency": "East Caribbean dollar (EC$) (XCD)",
-    "time_zone": "UTC-4 (AST)",
-    "driving_side": "left",
-    "calling_code": "+1 869",
-    "ISO_3166_code": "KN",
-    "Internet_TLD": ".kn",
-    "additional_information": {
-      "climate": "Tropical, tempered by constant sea breezes",
-      "major_urban_areas": {
-        "Basseterre": 14000
+    "Economy": {
+      "Status": "Developing country",
+      "Dependence": "Tourism, agriculture, light manufacturing",
+      "Major Industries": ["Tourism", "Agriculture", "Light manufacturing"],
+      "GDP (PPP 2023)": {
+        "Total (Billion USD)": 1.8,
+        "Per Capita (USD)": 29893
       },
-      "sex_ratio": {
-        "at_birth": "1.02 male(s)/female",
-        "0-14_years": "1 male(s)/female",
-        "15-24_years": "0.94 male(s)/female",
-        "25-54_years": "1.05 male(s)/female",
-        "55-64_years": "1.01 male(s)/female",
-        "65_years_and_over": "0.89 male(s)/female",
-        "total_population": "1 male(s)/female"
+      "GDP (Nominal 2023)": {
+        "Total (Billion USD)": 1.0,
+        "Per Capita (USD)": 18158
       },
-      "infant_mortality_rate": "8.5 deaths/1,000 live births",
-      "life_expectancy_at_birth": {
-        "total_population": "76.83 years",
-        "male": "74.37 years",
-        "female": "79.34 years"
+      "Currency": "East Caribbean dollar (EC$) (XCD)",
+      "Gini Index": {
+        "Year": 2022,
+        "Value": 38.4,
+        "Category": "Medium"
       },
-      "total_fertility_rate": "1.77 children born/woman",
-      "current_health_expenditure": "5.3% of GDP",
-      "physicians_density": "2.68 physicians/1,000 population",
-      "hospital_bed_density": "4.8 beds/1,000 population",
-      "HIV_AIDS_adult_prevalence_rate": "0.5%",
-      "education_expenditures": "2.6% of GDP",
-      "school_life_expectancy": {
-        "total": "17 years",
-        "male": "16 years",
-        "female": "19 years"
+      "HDI": {
+        "Year": 2019,
+        "Value": 0.779,
+        "Category": "High",
+        "Rank": "74th"
+      }
+    },
+    "International Relations": {
+      "Global Role": "Active in regional and international affairs",
+      "Membership": [
+        "United Nations (UN)",
+        "Caribbean Community (CARICOM)",
+        "Organisation of Eastern Caribbean States (OECS)",
+        "Commonwealth of Nations",
+        "World Trade Organization (WTO)"
+      ]
+    },
+    "Miscellaneous": {
+      "Time Zone": ["UTC-4 (AST)"],
+      "Date Format": ["dd/mm/yyyy"],
+      "Driving Side": "Left",
+      "Calling Code": "+1 869",
+      "ISO 3166 Code": "KN",
+      "Internet TLD": [".kn"],
+      "Public Holidays": [
+        "New Year's Day",
+        "Good Friday",
+        "Easter Monday",
+        "Labour Day",
+        "Whit Monday",
+        "Emancipation Day",
+        "Independence Day",
+        "National Heroes Day",
+        "Christmas Day",
+        "Boxing Day"
+      ]
+    },
+    "Significant Cultural Aspects": {
+      "Legacy": "Blend of African, European, and Caribbean influences",
+      "Cultural Contributions": ["Carnival", "Music", "Cuisine", "Literature"],
+      "Unique Features": ["Saint Kitts Music Festival", "Nevis Culturama"]
+    },
+    "Social and Cultural Aspects": {
+      "Population Dynamics": {
+        "Urbanization Trends": "Increasing urban population, with Basseterre being the primary urban center",
+        "Rural Development": "Focus on improving rural infrastructure and living standards"
       },
-      "environmental_issues": ["Deforestation", "Soil erosion", "Water pollution"]
+      "Cultural Heritage": {
+        "Influence": "Significant on Caribbean culture",
+        "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+      },
+      "Technology and Innovation": {
+        "Growth Sectors": ["Tourism", "Agriculture"],
+        "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+      },
+      "Education and Healthcare": {
+        "Education System": "State-driven with emphasis on multilingual education and improving literacy rates",
+        "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+      }
+    },
+    "Transport": {
+      "Major Modes": "Road and Sea transport",
+      "Key Transport Hubs": ["Basseterre", "Charlestown"]
+    },
+    "Current Challenges": {
+      "Political Instability": "Low level of political unrest and instability",
+      "Economic Hardships": "Moderate poverty and unemployment rates",
+      "Natural Disasters": ["Hurricanes", "Earthquakes"],
+      "Health Issues": ["COVID-19 pandemic"]
+    },
+    "Healthcare": {
+      "Life Expectancy": "76.83 years",
+      "Infant Mortality Rate": "8.5 deaths/1,000 live births",
+      "Health Expenditure of GDP": "5.3% (2020)"
+    },
+    "Education": {
+      "Expenditures of GDP": "2.6% (2020)",
+      "Literacy Rate": {
+        "Total": "98.0%",
+        "Male": "97.5%",
+        "Female": "98.5%"
+      },
+      "School Life Expectancy": {
+        "Total": "17 years",
+        "Male": "16 years",
+        "Female": "19 years"
+      }
+    },
+    "Economic Outlook 2024": {
+      "Real GDP Growth Forecast": 3.5,
+      "Exports Growth": "Driven by tourism and agriculture sectors",
+      "Inflation Rate": "2.5%",
+      "Policy Response": {
+        "Focus": "Economic diversification and sustainability",
+        "Areas": ["Tourism", "Agriculture"],
+        "Challenges": "Balancing economic growth with social development"
+      },
+      "Market Performance": {
+        "Equity Market": "Eastern Caribbean Securities Exchange",
+        "Commodity Imports": {
+          "Energy": "Significant",
+          "Raw Materials": "Increased demand"
+        }
+      }
     }
   }
 }
