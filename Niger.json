@@ -1,103 +1,211 @@
 {
-    "Niger": {
-        "Official Names": {
-            "Local": "République du Niger",
-            "English": "Republic of the Niger"
-        },
-        "Status": ["Islamic Insurgency", "Boko Haram insurgency", "Anglophone Crisis"],
-        "Symbols": {
-            "Flag": "Flag of Niger",
-            "Coat of Arms": "Coat of arms of Niger",
-            "Motto": "Fraternité, Travail, Progrès (Fraternity, Work, Progress)",
-            "Anthem": {
-                "Title": "L'Honneur de la Patrie",
-                "English Translation": "The Honour of the Fatherland",
-                "Duration": "0 seconds"
-            }
-        },
-        "Location": {
-            "Region": "West Africa",
-            "Borders": {
-                "Libya": "Northeast",
-                "Chad": "East",
-                "Nigeria": "South",
-                "Benin": "Southwest",
-                "Burkina Faso": "Southwest",
-                "Mali": "West",
-                "Algeria": "Northwest"
-            },
-            "Capital and Largest City": "Niamey",
-            "Coordinates": "13°32′N 2°05′E"
-        },
-        "Demographics": {
-            "Population": {
-                "2023 Estimate": "25,396,840",
-                "Density": "12.1 per km2"
-            },
-            "Ethnic Groups (2021)": {
-                "Hausa": "53.1%",
-                "Zarma & Songhay": "21.2%",
-                "Tuareg": "11.0%",
-                "Fulani": "6.5%",
-                "Kanuri": "5.9%",
-                "Others": "See full list"
-            },
-            "Religion (2012)": {
-                "Islam": "99.3%",
-                "Christianity": "0.3%",
-                "Animism": "0.2%",
-                "Irreligion": "0.1%"
-            },
-            "Languages": {
-                "Official": "French",
-                "National": "See full list"
-            }
-        },
-        "Government": {
-            "Type": "Unitary republic under a military junta",
-            "CNSP President": "Abdourahamane Tchiani",
-            "CNSP Vice President": "Salifou Modi",
-            "Prime Minister": "Ali Lamine Zeine",
-            "Legislature": "National Council for the Safeguard of the Homeland",
-            "Independence from France": "3 August 1960",
-            "2023 Coup d'état": "26 July 2023"
-        },
-        "Geography": {
-            "Total Area": "1,267,000 square kilometers",
-            "Landlocked": true,
-            "Sahara Desert": "Over 80% of land"
-        },
-        "Economy": {
-            "GDP (PPP) 2023 Estimate": {
-                "Total": "$42.739 billion",
-                "Per Capita": "$1,579"
-            },
-            "GDP (Nominal) 2023 Estimate": {
-                "Total": "$17.073 billion",
-                "Per Capita": "$630"
-            },
-            "Gini Index (2014)": "34.0",
-            "HDI (2021)": "0.400",
-            "Currency": "West African CFA franc (XOF)",
-            "Economic Challenges": ["Landlocked position", "Desert terrain", "Low literacy rate", "Insurgencies", "High fertility rates"]
-        },
-        "Culture": {
-            "Ethnic Diversity": true,
-            "Official Language": "French",
-            "National Languages": "See full list"
-        },
-        "International Relations": {
-            "UN Membership": true,
-            "African Union": "Member",
-            "ECOWAS": true
-        },
-        "Historical Overview": {
-            "Pre-colonial States": ["Kanem–Bornu Empire", "Mali Empire", "Sultanate of Agadez", "Songhai Empire"],
-            "Colonial Era": "Part of French West Africa",
-            "Post-independence": "Periods of military rule and coups",
-            "Recent Constitution": "Enacted in 2010"
-        },
-        "Education": "Information not provided",
-        "Transport": "Information not provided"
+  "Name": {
+    "Common": "Niger",
+    "Official": "Republic of the Niger",
+    "Native": {
+      "Local": "République du Niger"
     }
+  },
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Coat of Arms URL": "URL_to_coat_of_arms_image",
+    "Motto": "Fraternité, Travail, Progrès (Fraternity, Work, Progress)",
+    "Anthem": {
+      "Title": "L'Honneur de la Patrie",
+      "Translation": "The Honour of the Fatherland",
+      "Duration": "0 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Africa",
+    "Region": "West Africa",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Niamey",
+        "Latitude": "13.5333° N",
+        "Longitude": "2.0833° E"
+      }
+    },
+    "Location": "West Africa, bordered by Libya to the northeast, Chad to the east, Nigeria to the south, Benin and Burkina Faso to the southwest, Mali to the west, and Algeria to the northwest",
+    "Area": {
+      "Total (sq km)": 1267000,
+      "Rank": "22nd",
+      "Water Percentage": "0.02%"
+    },
+    "Borders": {
+      "Northeast": ["Libya"],
+      "East": ["Chad"],
+      "South": ["Nigeria"],
+      "Southwest": ["Benin", "Burkina Faso"],
+      "West": ["Mali"],
+      "Northwest": ["Algeria"]
+    },
+    "Topography": ["Desert", "Savanna", "Sahel"],
+    "Climate": ["Hot desert climate"],
+    "Natural Resources": ["Uranium", "Coal", "Iron ore", "Tin", "Phosphates"],
+    "Time Zones": ["UTC+01:00"],
+    "Largest City": "Niamey"
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 25396840,
+      "Density (per sq km)": 12.1
+    },
+    "Ethnic Groups": {
+      "2021": {
+        "Hausa": 53.1,
+        "Zarma & Songhay": 21.2,
+        "Tuareg": 11.0,
+        "Fulani": 6.5,
+        "Kanuri": 5.9,
+        "Others": "Various"
+      }
+    },
+    "Languages": {
+      "Official": ["French"],
+      "National": ["Hausa", "Zarma", "Songhay", "Tuareg", "Fulani", "Kanuri", "Arabic"]
+    },
+    "Religion": {
+      "2012": {
+        "Islam": 99.3,
+        "Christianity": 0.3,
+        "Animism": 0.2,
+        "Irreligion": 0.1
+      }
+    },
+    "Demonym": "Nigerien"
+  },
+  "Government": {
+    "Type": "Unitary republic under a military junta",
+    "Leaders": {
+      "CNSP President": "Abdourahamane Tchiani",
+      "CNSP Vice President": "Salifou Modi",
+      "Prime Minister": "Ali Lamine Zeine"
+    },
+    "Legislature": "National Council for the Safeguard of the Homeland",
+    "Constitution": "25 November 2010",
+    "Independence from France": "3 August 1960",
+    "2023 Coup d'état": "26 July 2023"
+  },
+  "History": {
+    "Pre-colonial States": ["Kanem–Bornu Empire", "Mali Empire", "Sultanate of Agadez", "Songhai Empire"],
+    "Colonial Era": "Part of French West Africa",
+    "Post-independence": "Periods of military rule and coups",
+    "Recent Constitution": "Enacted in 2010"
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Agriculture, mining, livestock",
+    "Major Industries": ["Agriculture", "Mining", "Livestock"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 42.739,
+      "Per Capita (USD)": 1579
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 17.073,
+      "Per Capita (USD)": 630
+    },
+    "Currency": "West African CFA franc (XOF)",
+    "Gini Index": {
+      "Year": 2014,
+      "Value": 34.0,
+      "Category": "Medium"
+    },
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.400,
+      "Category": "Low",
+      "Rank": "189th"
+    },
+    "Economic Challenges": ["Landlocked position", "Desert terrain", "Low literacy rate", "Insurgencies", "High fertility rates"]
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": [
+      "United Nations (UN)",
+      "African Union",
+      "Economic Community of West African States (ECOWAS)"
+    ]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+01:00"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+227",
+    "ISO 3166 Code": "NE",
+    "Internet TLD": ".ne",
+    "Public Holidays": [
+      "New Year's Day",
+      "Easter Monday",
+      "Labour Day",
+      "Independence Day",
+      "Eid al-Fitr",
+      "Eid al-Adha",
+      "Nigerien Republic Day",
+      "Christmas Day"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of indigenous and French influences",
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["Ethnic diversity", "Traditional festivals and ceremonies"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 5.0,
+    "Exports Growth": "Driven by mining and agriculture",
+    "Inflation Rate": "4.5%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Agriculture", "Mining"],
+      "Challenges": "Balancing economic growth with social development"
+    },
+    "Market Performance": {
+      "Equity Market": "N/A",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on West African culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Agriculture", "Mining"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Air transport",
+    "Key Transport Hubs": ["Niamey", "Zinder", "Agadez"]
+  },
+  "Current Challenges": {
+    "Political Instability": "High level of political unrest and instability",
+    "Economic Hardships": "High poverty and unemployment rates",
+    "Natural Disasters": ["Droughts"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "62.0 years",
+    "Infant Mortality Rate": "47.3 deaths/1,000 live births",
+    "Health Expenditure of GDP": "5.0% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "4.2% (2020)",
+    "Literacy Rate": {
+      "Total": "35.0%",
+      "Male": "42.9%",
+      "Female": "27.4%"
+    }
+  }
 }
