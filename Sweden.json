@@ -1,95 +1,96 @@
 {
-  "Sweden": {
-    "officialName": "Kingdom of Sweden",
-    "localName": "Konungariket Sverige",
-    "flag": "Flag of Sweden",
-    "coatOfArms": "Coat of arms of Sweden",
-    "anthems": {
-      "nationalAnthem": "Du gamla, du fria",
-      "royalAnthem": "Kungssången"
-    },
-    "geography": {
-      "location": "Scandinavian Peninsula, Northern Europe",
-      "borders": ["Norway", "Finland"],
-      "connection": "Bridge-tunnel across the Öresund to Denmark",
-      "capitalAndLargestCity": "Stockholm",
-      "coordinates": "59°21′N 18°4′E",
-      "totalArea": 450295,
-      "waterPercentage": 8.97,
-      "landscape": {
-        "dominatedBy": ["forests", "lakes"],
-        "majorRivers": "Scandes range tributaries to the Baltic Sea",
-        "coastline": "Extensive",
-        "climate": ["Temperate in south", "Subarctic in north"]
-      }
-    },
-    "demographics": {
-      "population": {
-        "2023Estimate": 10540886,
-        "density": 25,
-        "urbanPopulationPercentage": 88.7
-      },
-      "languages": {
-        "officialLanguage": "Swedish",
-        "nationalMinorityLanguages": ["Sámi", "Finnish", "Meänkieli", "Romani", "Yiddish"]
-      },
-      "religion": {
-        "Christianity": 61.4,
-        "NoReligion": 36.0,
-        "Islam": 2.3
-      }
-    },
-    "government": {
-      "type": "Unitary parliamentary constitutional monarchy",
-      "monarch": "Carl XVI Gustaf",
-      "riksdagSpeaker": "Andreas Norlén",
-      "primeMinister": "Ulf Kristersson",
-      "legislature": "Riksdag"
-    },
-    "economy": {
-      "GDP_PPP_2023": {
-        "total": 715995000000,
-        "perCapita": 66209
-      },
-      "GDP_Nominal_2023": {
-        "total": 597110000000,
-        "perCapita": 55215
-      },
-      "GiniIndex": 27.6,
-      "HDI": 0.947,
-      "currency": "Swedish krona (SEK)"
-    },
-    "miscellaneous": {
-      "timeZone": ["UTC+1 (CET)", "UTC+2 (CEST)"],
-      "driveSide": "right",
-      "isoCode": "SE",
-      "internetTLD": ".se",
-      "officialWebsite": "sweden.se"
-    },
-    "socialWelfareSystem": {
-      "healthCare": "Universal",
-      "education": "Tertiary education for citizens"
-    },
-    "internationalAffiliations": [
-      "European Union",
-      "United Nations",
-      "Nordic Council",
-      "Schengen Area",
-      "Council of Europe",
-      "World Trade Organization",
-      "Organisation for Economic Co-operation and Development (OECD)"
-    ],
-    "environmentalConcerns": {
-      "issues": ["Marine pollution", "Acid rain", "Air pollution", "Timber harvesting practices"],
-      "agreements": [
-        "Air Pollution",
-        "Climate Change",
-        "Desertification",
-        "Endangered Species",
-        "Law of the Sea",
-        "Ozone Layer Protection",
-        "Wetlands"
-      ]
+  "Name": {
+    "Common": "Sweden",
+    "Official": "Kingdom of Sweden",
+    "Swedish": "Konungariket Sverige"
+  },
+  "Geography": {
+    "Capital City": "Stockholm",
+    "Region": "Scandinavian Peninsula, Northern Europe",
+    "Borders": ["Norway", "Finland"],
+    "Connection": "Bridge-tunnel across the Öresund to Denmark",
+    "Coordinates": "59°21′N 18°4′E",
+    "Area": "450,295 square kilometers",
+    "Water Percentage": 8.97,
+    "Landscape": {
+      "Dominated By": ["Forests", "Lakes"],
+      "Major Rivers": "Scandes range tributaries to the Baltic Sea",
+      "Coastline": "Extensive",
+      "Climate": ["Temperate in south", "Subarctic in north"]
     }
-  }
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 10540886,
+      "Density": "25 per square kilometer",
+      "Urban Population Percentage": 88.7
+    },
+    "Languages": {
+      "Official Language": "Swedish",
+      "National Minority Languages": ["Sámi", "Finnish", "Meänkieli", "Romani", "Yiddish"]
+    },
+    "Religion": {
+      "Christianity": "61.4%",
+      "No Religion": "36.0%",
+      "Islam": "2.3%"
+    }
+  },
+  "Government": {
+    "Type": "Unitary parliamentary constitutional monarchy",
+    "Monarch": "Carl XVI Gustaf",
+    "Riksdag Speaker": "Andreas Norlén",
+    "Prime Minister": "Ulf Kristersson",
+    "Legislature": "Riksdag"
+  },
+  "Economy": {
+    "GDP_PPP_2023": {
+      "Total": "$715,995,000,000",
+      "Per Capita": "$66,209"
+    },
+    "GDP_Nominal_2023": {
+      "Total": "$597,110,000,000",
+      "Per Capita": "$55,215"
+    },
+    "Gini Index": 27.6,
+    "HDI": 0.947,
+    "Currency": "Swedish krona (SEK)"
+  },
+  "Social Welfare System": {
+    "Health Care": "Universal",
+    "Education": "Tertiary education for citizens"
+  },
+  "International Affiliations": [
+    "European Union",
+    "United Nations",
+    "Nordic Council",
+    "Schengen Area",
+    "Council of Europe",
+    "World Trade Organization",
+    "Organisation for Economic Co-operation and Development (OECD)"
+  ],
+  "Environmental Concerns": {
+    "Issues": ["Marine pollution", "Acid rain", "Air pollution", "Timber harvesting practices"],
+    "Agreements": [
+      "Air Pollution",
+      "Climate Change",
+      "Desertification",
+      "Endangered Species",
+      "Law of the Sea",
+      "Ozone Layer Protection",
+      "Wetlands"
+    ]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+1 (CET)", "UTC+2 (CEST)"],
+    "Drive Side": "Right",
+    "ISO Code": "SE",
+    "Internet TLD": ".se",
+    "Official Website": "https://sweden.se"
+  },
+  "Anthem": {
+    "National Anthem": "Du gamla, du fria",
+    "Royal Anthem": "Kungssången"
+  },
+  "Flag": "A blue field with a yellow Scandinavian cross extending to the edges.",
+  "Coat of Arms": "A shield divided into four fields featuring three crowns and a lion, representing Sweden’s historical regions, supported by two lions and topped with a royal crown."
 }
