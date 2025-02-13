@@ -1,158 +1,203 @@
 {
-  "Malawi": {
-    "officialName": "Republic of Malawi",
-    "formerName": "Nyasaland",
-    "location": {
-      "region": "Southeastern Africa",
-      "landlocked": true,
-      "borders": {
-        "Zambia": "west",
-        "Tanzania": "north and northeast",
-        "Mozambique": "east, south, southwest"
+  "Name": {
+    "Common": "Madagascar",
+    "Official": "Republic of Madagascar",
+    "Native": {
+      "Malagasy": "Repoblikan'i Madagasikara",
+      "French": "République de Madagascar"
+    }
+  },
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Coat of Arms URL": "URL_to_coat_of_arms_image",
+    "Motto": {
+      "Malagasy": "Fitiavana, Tanindrazana, Fandrosoana",
+      "French": "Amour, Patrie, Progrès",
+      "English": "Love, Fatherland, Progress"
+    },
+    "Anthem": {
+      "Title": "Ry Tanindrazanay malala ô!",
+      "Duration": "1 minute and 30 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Africa",
+    "Region": "Southeastern coast of Africa",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Antananarivo",
+        "Latitude": "18°55′S",
+        "Longitude": "47°31′E"
       }
     },
-    "capitalAndLargestCity": "Lilongwe",
-    "otherMajorCities": ["Blantyre", "Mzuzu", "Zomba"],
-    "officialLanguage": "English",
-    "recognisedRegionalLanguages": [
-      "Chewa", "Tumbuka", "Yao", "Tonga", "Sena", "Lomwe", "Ngonde", "Lambya"
-    ],
-    "ethnicGroups2018": {
-      "Chewa": "25.2%",
-      "Tumbuka": "20.4%",
-      "Lomwe": "17.9%",
-      "Yao": "15.3%",
-      "Ngoni": "5.4%",
-      "Sena": "4.8%",
-      "Mang'anja": "3.2%",
-      "Nyanja": "1.9%",
-      "Tonga": "1.8%",
-      "Ngonde": "1.0%",
-      "Lambya": "0.6%",
-      "Sukwa": "0.5%",
-      "Other": "1.1%"
+    "Location": "Southeastern coast of Africa, off the eastern coast of Southern Africa, east of Mozambique",
+    "Area": {
+      "Total (sq km)": 587041,
+      "Rank": "46th",
+      "Water Percentage": "N/A"
     },
-    "religion2018": {
-      "Christianity": "82.3%",
-      "Protestantism": "58.5%",
-      "Catholicism": "17.2%",
-      "OtherChristian": "6.6%",
-      "Islam": "13.8%",
-      "TraditionalFaiths": "2.1%",
-      "None": "1.6%",
-      "Other": "0.6%"
+    "Borders": {
+      "Ocean": "Indian Ocean"
     },
-    "demonym": "Malawian",
-    "government": {
-      "type": "Unitary presidential republic",
-      "president": "Lazarus Chakwera",
-      "vicePresident": "Saulos Chilima",
-      "houseSpeaker": "Catherine Gotani Hara",
-      "chiefJustice": "Rizine Mzikamanda"
+    "Coastline": "4,828 km",
+    "Topography": ["Low-lying coastal area", "Central plateau"],
+    "Climate": ["Subtropical to tropical maritime"],
+    "Natural Resources": ["Graphite", "Chromite", "Coal", "Bauxite", "Salt", "Quartz", "Petroleum"],
+    "Time Zones": ["UTC+3"],
+    "Largest City": "Antananarivo"
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 28812195,
+      "Density (per km2)": 49.1
     },
-    "legislature": "National Assembly",
-    "independence": {
-      "fromUnitedKingdom": "6 July 1964",
-      "republicDeclaration": "6 July 1966"
-    },
-    "area": {
-      "total": "118,484 km2",
-      "waterPercentage": "20.6%"
-    },
-    "population2020": {
-      "estimate": "20,091,635",
-      "census2018": "17,563,749",
-      "density": "153.1/km2"
-    },
-    "economy": {
-      "GDP_PPP_2023": {
-        "total": "$37.919 billion",
-        "perCapita": "$1,668"
-      },
-      "GDP_Nominal_2023": {
-        "total": "$13.176 billion",
-        "perCapita": "$579"
-      },
-      "Gini2016": "44.7",
-      "HDI2021": "0.512"
-    },
-    "currency": "Malawian kwacha (MWK)",
-    "timeZone": "UTC+2 (CAT)",
-    "dateAndDriving": {
-      "dateFormat": "dd/mm/yyyy",
-      "drivingSide": "left"
-    },
-    "communication": {
-      "callingCode": "+265",
-      "ISO3166Code": "MW",
-      "internetTLD": ".mw"
-    },
-    "geography": {
-      "features": "Landlocked, diverse terrain",
-      "climate": "Subtropical"
-    },
-    "history": {
-      "earlySettlement": "10th century by migrating Bantu groups",
-      "britishColonization": "1891 as British Central African Protectorate",
-      "federationOfRhodesiaAndNyasaland": "1953-1963",
-      "independence": "1964",
-      "postIndependence": {
-        "initialPrimeMinister": "Hastings Banda",
-        "onePartyState":"1966-1993",
-        "multipartySystem": "Introduced in 1993",
-        "democraticElections": "Since 1994"
+    "Ethnic Groups": {
+      "2023": {
+        "Merina": 26,
+        "Betsimisaraka": 15,
+        "Betsileo": 12,
+        "Tsimihety": 7,
+        "Sakalava": 6,
+        "Antaisaka": 5,
+        "Antandroy": 5,
+        "Others": 24
       }
     },
-    "governmentAndPolitics": {
-      "politicalStructure": "Democratic multi-party republic",
-      "currentLeaders": {
-        "president": "Lazarus Chakwera",
-        "vicePresident": "Saulos Chilima"
-      },
-      "internationalAffiliations": ["UN", "Commonwealth", "SADC", "COMESA", "AU"]
+    "Languages": {
+      "Official": ["Malagasy", "French"]
     },
-    "economy": {
-      "mainSectors": ["Agriculture", "Tourism", "Manufacturing"],
-      "keyChallenges": ["Economic expansion", "Education", "Healthcare", "Environmental protection"],
-      "developmentAid": "Dependence on outside aid",
-      "unemploymentIssues": true,
-      "policiesForImprovement": {
-        "economicPolicies": true,
-        "educationReforms": true,
-        "healthcareImprovements": true
+    "Religion": {
+      "2023": {
+        "Christianity": 84.7,
+        "Protestantism": 45.8,
+        "Catholicism": 38.1,
+        "Traditional Faiths": 4.7,
+        "Islam": 3.1
       }
     },
-    "demographics": {
-      "populationGrowth": "Rapidly growing",
-      "urbanization": "Concentration in Lilongwe and other major cities",
-      "ruralPopulation": "Predominantly rural"
+    "Demonym": "Malagasy"
+  },
+  "Government": {
+    "Type": "Unitary semi-presidential republic",
+    "Leaders": {
+      "President": "Andry Rajoelina",
+      "Prime Minister": "Christian Ntsay",
+      "Speaker of Parliament": "Christine Razanamahasoa"
     },
-    "culture": {
-      "linguisticDiversity": "Multiple local languages",
-      "religiousBeliefs": "Diverse",
-      "nationalIdentity": "Malawian nationality",
-      "ethnicUnity": true
+    "Legislature": {
+      "Upper House": "Senate",
+      "Lower House": "National Assembly"
     },
-    "scienceAndTechnology": {},
-    "womenInMalawi": {
-      "genderEquality": "Efforts towards improvement",
-      "womenInLeadership": "Increasing representation"
+    "Constitution": "11 December 2010"
+  },
+  "History": {
+    "Settlement": "First settled by Austronesian peoples",
+    "Kingdoms": ["Kingdom of Madagascar", "French Colony"],
+    "Independence from France": "26 June 1960",
+    "Historical Events": [
+      "First European sighting by Captain Diago Diaz in 1500",
+      "Deposition of Ranavalona III in 1897"
+    ]
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Agriculture, mining, textiles",
+    "Major Industries": ["Agriculture", "Mining", "Textiles", "Tourism"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 56.754,
+      "Per Capita (USD)": 1970
     },
-    "military": {
-      "defenseForces": {
-        "army": true,
-        "navy": false,
-        "airWing": true
-      },
-      "foreignPolicy": "Pro-Western"
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 15.763,
+      "Per Capita (USD)": 547
     },
-    "motto": "\"Unity and Freedom\"",
-    "anthem": {
-      "title": "Mlungu dalitsani Malaŵi",
-      "duration": "0:52",
-      "translation": "O God Bless Our Land of Malawi"
+    "Currency": "Ariary (MGA)",
+    "Gini Index": 42.6,
+    "HDI": {
+      "Score": 0.501,
+      "Rank": "164th"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": ["United Nations (UN)", "African Union (AU)", "Southern African Development Community (SADC)", "Indian Ocean Commission (IOC)"]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+3"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+261",
+    "ISO 3166 Code": "MG",
+    "Internet TLD": ".mg",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Independence Day (June 26)",
+      "Christmas Day (December 25)",
+      "Easter Monday (Varies)",
+      "Labour Day (May 1)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of African, Asian, and European influences",
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["National garment: Lamba", "National animal: Ring-tailed lemur", "National dish: Romazava"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 4.0,
+    "Exports Growth": "Driven by agriculture and mining",
+    "Inflation Rate": "7.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and poverty reduction",
+      "Areas": ["Agriculture", "Mining"],
+      "Challenges": "Balancing economic growth with social development"
     },
-    "flag": "Flag of Malawi",
-    "coatOfArms": "Coat of arms of Malawi"
+    "Market Performance": {
+      "Equity Market": "N/A",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on African and Indian Ocean culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Agriculture", "Mining", "Tourism"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air transport",
+    "Key Transport Hubs": ["Antananarivo", "Toamasina", "Antsirabe"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Occasional protests and political unrest",
+    "Economic Hardships": "High poverty and unemployment rates",
+    "Natural Disasters": ["Cyclones"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "66.3 years",
+    "Infant Mortality Rate": "32.8 deaths/1,000 live births",
+    "Health Expenditure of GDP": "5.6% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "3.2% (2020)",
+    "Literacy Rate": {
+      "Total": "74.8%",
+      "Male": "76.5%",
+      "Female": "73.2%"
+    }
   }
 }
