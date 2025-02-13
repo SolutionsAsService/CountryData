@@ -1,103 +1,201 @@
 {
-  "Lesotho": {
-    "official_name": "Kingdom of Lesotho",
-    "native_names": {
+  "Name": {
+    "Common": "Lesotho",
+    "Official": "Kingdom of Lesotho",
+    "Native": {
       "Sotho": "Naha ea Lesotho"
-    },
-    "description": "Landlocked country in Southern Africa, an enclave of South Africa.",
-    "location": {
-      "region": "Southern Africa",
-      "coordinates": "29°28′S 27°56′E",
-      "surrounded_by": "South Africa"
-    },
-    "capital_and_largest_city": "Maseru",
-    "official_languages": ["Sesotho", "English"],
-    "ethnic_groups_2020": {
-      "Basotho": "99.7%",
-      "Others": "0.3%"
-    },
-    "religion_2020": {
-      "Christianity": "92.1%",
-      "Traditional Faiths": "6.6%",
-      "No Religion": "1.0%",
-      "Others": "0.3%"
-    },
-    "demonym": {
-      "singular": "Mosotho",
-      "plural": "Basotho"
-    },
-    "government": {
-      "type": "Unitary parliamentary constitutional monarchy",
-      "monarch": "Letsie III",
-      "prime_minister": "Sam Matekane",
-      "legislature": {
-        "upper_house": "Senate",
-        "lower_house": "National Assembly"
+    }
+  },
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Emblem URL": "URL_to_emblem_image",
+    "Anthem": {
+      "Title": "Lesotho Fatše La Bo-ntata Rona",
+      "Translation": "Lesotho, Land of Our Fathers",
+      "Duration": "1 minute and 30 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Africa",
+    "Region": "Southern Africa",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Maseru",
+        "Latitude": "29°28′S",
+        "Longitude": "27°56′E"
       }
     },
-    "independence": {
-      "declared": "4 October 1966",
-      "from": "United Kingdom"
+    "Location": "Landlocked country in Southern Africa, an enclave of South Africa",
+    "Area": {
+      "Total (km2)": 30355,
+      "Total (sq mi)": 11720,
+      "Rank": "142nd",
+      "Water Percentage": "0.0032%"
     },
-    "territory": {
-      "total_area_km2": 30355,
-      "total_area_sq_mi": 11720,
-      "water_percentage": 0.0032
+    "Borders": {
+      "Surrounded by": "South Africa"
     },
-    "population": {
-      "2023_estimate": 2210646,
-      "density_per_km2": 68.1,
-      "density_per_sq_mi": 176.4
+    "Coastline": "None (landlocked)",
+    "Terrain": ["Mountainous with the Maloti Mountains"],
+    "Climate": ["Temperate with hot, wet summers and cold, dry winters"],
+    "Natural Resources": ["Water, diamonds, sand, clay, building stone"],
+    "Time Zones": ["UTC+2"],
+    "Largest City": "Maseru"
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 2210646,
+      "Density (per km2)": 68.1,
+      "Density (per sq mi)": 176.4
     },
-    "GDP": {
-      "PPP_2023_estimate": {
-        "total": "$6.915 billion",
-        "per_capita": "$3,234"
-      },
-      "nominal_2023_estimate": {
-        "total": "$2.373 billion",
-        "per_capita": "$1,110"
+    "Ethnic Groups": {
+      "2020": {
+        "Basotho": 99.7,
+        "Others": 0.3
       }
     },
-    "Gini_2017": "44.9",
-    "HDI_2021": {
-      "value": "0.514",
-      "rank": "168th"
+    "Languages": {
+      "Official": ["Sesotho", "English"]
     },
-    "currency": ["Lesotho loti (LSL)", "South African rand (ZAR)"],
-    "time_zone": "UTC+2",
-    "driving_side": "left",
-    "calling_code": "+266",
-    "ISO_3166_code": "LS",
-    "Internet_TLD": ".ls",
-    "geographical_features": {
-      "mountain_ranges": "Maloti Mountains",
-      "highest_peak": "Highest in Southern Africa"
-    },
-    "historical_background": {
-      "formation_year": 1822,
-      "founder": "King Moshoeshoe I",
-      "British_protectorate": "1868",
-      "crown_colony": "1884",
-      "independence_year": 1966,
-      "post_independence": {
-        "initial_ruling_party": "Basotho National Party",
-        "constitutional_restoration": 1993,
-        "military_rule_period": "1986-1993"
+    "Religion": {
+      "2020": {
+        "Christianity": 92.1,
+        "Traditional Faiths": 6.6,
+        "No Religion": 1.0,
+        "Others": 0.3
       }
     },
-    "socioeconomic_challenges": {
-      "poverty_line_below": "Almost half of the population",
-      "HIV_AIDS_prevalence_rate": "Second-highest in the world",
-      "literacy_rate": "81.02% as of 2021",
-      "universal_primary_education_goal": true
+    "Demonym": {
+      "Singular": "Mosotho",
+      "Plural": "Basotho"
+    }
+  },
+  "Government": {
+    "Type": "Unitary parliamentary constitutional monarchy",
+    "Leaders": {
+      "Monarch": "Letsie III",
+      "Prime Minister": "Sam Matekane",
+      "Speaker of the National Assembly": "Sephiri Motanyane"
     },
-    "international_relations": {
-      "member_of": ["United Nations", "Non-Aligned Movement", "Commonwealth of Nations", "African Union", "Southern African Development Community"],
-      "V-Dem_Democracy_indices_2023_ranking": {
-        "worldwide": 64,
-        "in_Africa": 7
+    "Legislature": {
+      "Upper House": "Senate",
+      "Lower House": "National Assembly"
+    },
+    "Constitution": "2 April 1993"
+  },
+  "History": {
+    "Formation Year": "1822",
+    "Founder": "King Moshoeshoe I",
+    "British Protectorate": "1868",
+    "Crown Colony": "1884",
+    "Independence Year": "1966",
+    "Post-Independence": {
+      "Initial Ruling Party": "Basotho National Party",
+      "Constitutional Restoration": "1993",
+      "Military Rule Period": "1986-1993"
+    }
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Agriculture, mining, remittances from migrant labor",
+    "Major Industries": ["Agriculture", "Mining", "Textiles", "Water"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 6.915,
+      "Per Capita (USD)": 3234
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 2.373,
+      "Per Capita (USD)": 1110
+    },
+    "Currency": ["Lesotho loti (LSL)", "South African rand (ZAR)"],
+    "Gini Index": 44.9,
+    "HDI": {
+      "Score": 0.514,
+      "Rank": "168th"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": ["United Nations (UN)", "Non-Aligned Movement (NAM)", "Commonwealth of Nations", "African Union (AU)", "Southern African Development Community (SADC)"]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+2"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Left",
+    "Calling Code": "+266",
+    "ISO 3166 Code": "LS",
+    "Internet TLD": ".ls",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Moshoeshoe's Day (March 11)",
+      "Independence Day (October 4)",
+      "Christmas Day (December 25)",
+      "Boxing Day (December 26)",
+      "Good Friday (Varies)",
+      "Easter Monday (Varies)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a strong emphasis on traditional customs and values",
+    "Cultural Contributions": ["Music", "Dance", "Art", "Weaving"],
+    "Unique Features": ["Distinctive Basotho hat", "Traditional Basotho blanket"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 2.8,
+    "Exports Growth": "Driven by textiles and water",
+    "Inflation Rate": "5.5%",
+    "Policy Response": {
+      "Focus": "Economic diversification and poverty reduction",
+      "Areas": ["Agriculture", "Mining", "Textiles"],
+      "Challenges": "Balancing economic growth with social development"
+    },
+    "Market Performance": {
+      "Equity Market": "N/A",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
       }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Southern African culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Agriculture", "Mining", "Textiles"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on universal primary education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air transport",
+    "Key Transport Hubs": ["Maseru", "Mafeteng", "Teyateyaneng"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Occasional protests and political unrest",
+    "Economic Hardships": "High poverty and unemployment rates",
+    "Natural Disasters": ["Drought"],
+    "Health Issues": ["High HIV/AIDS prevalence"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "54.3 years",
+    "Infant Mortality Rate": "58.2 deaths/1,000 live births",
+    "Health Expenditure of GDP": "11.5% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "9.1% (2020)",
+    "Literacy Rate": {
+      "Total": "81.02%",
+      "Male": "73.5%",
+      "Female": "88.6%"
     }
   }
 }
