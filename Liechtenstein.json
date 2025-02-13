@@ -1,105 +1,210 @@
 {
-    "Liechtenstein": {
-        "Official Names": {
-            "English": "Principality of Liechtenstein",
-            "German": "Fürstentum Liechtenstein"
-        },
-        "Symbols": {
-            "Flag": "Flag of Liechtenstein",
-            "Coat of Arms": "Coat of arms of Liechtenstein",
-            "Motto": "Für Gott, Fürst und Vaterland (For God, Prince and Fatherland)",
-            "Anthem": {
-                "Title": "Oben am jungen Rhein",
-                "English Translation": "High on the Young Rhine",
-                "Duration": "1 minute and 25 seconds"
-            }
-        },
-        "Location": {
-            "Continent": "Europe",
-            "Borders": {
-                "Switzerland": "West and South",
-                "Austria": "East and North"
-            },
-            "Landlocked": true,
-            "DoubleLandlocked": true,
-            "Capital": "Vaduz",
-            "Largest Municipality": "Schaan",
-            "Coordinates": "47°10′00″N 9°30′35″E"
-        },
-        "Demographics": {
-            "Population": {
-                "2023 Estimate": "39,584",
-                "Density": "237 per km2"
-            },
-            "Ethnic Groups (2017)": {
-                "Liechtensteiners": "66.2%",
-                "Swiss": "9.5%",
-                "Austrians": "5.8%",
-                "Germans": "4.2%",
-                "Italians":"3.1%",
-                 "Portuguese": "1.9%",
-                 "Turks": "1.6%",
-                 "Kosovar Albanians": "1.1%",
-                 "Spaniards": "1.0%",
-                  "Others": "5.6%"
-           },
-"Religion (2015)": {
-"Christianity": "83.2%",
-"Catholicism": "73.4%",
-"Other Christian": "9.8%",
-"No Religion": "7.0%",
-"Islam": "5.9%",
-"Others": "3.9%"
-}
-},
-"Government": {
-"Type": "Unitary parliamentary semi-constitutional monarchy with elements of a direct democracy",
-"Monarch": "Hans-Adam II",
-"Regent": "Alois",
-"Prime Minister": "Daniel Risch",
-"Legislature": "Landtag",
-"Independence as Principality": {
-"Union between Vaduz and Schellenberg": "23 January 1719",
-"Treaty of Pressburg": "12 July 1806",
-"Separation from German Confederation": "23 August 1866"
-}
-},
-"Geography": {
-"Total Area": "160 square kilometers",
-"Water Percentage": "2.7%"
-},
-"Economy": {
-"GDP (PPP) 2013 Estimate": {
-"Total": "$5.3 billion",
-"Per Capita": "$98,432"
-},
-"GDP (Nominal) 2020 Estimate": {
-"Total": "$6.872 billion",
-"Per Capita": "$180,000"
-},
-"HDI (2021)": "0.935"
-},
-"Currency": "Swiss franc (CHF)",
-"Time Zone": "UTC+01:00 (CET)",
-"Driving Side": "right",
-"Calling Code": "+423",
-"ISO 3166 Code": "LI",
-"Internet TLD": ".li",
-"Education": "Information not provided",
-"Transport": "Information not provided",
-"Culture": {
-"Winter Sport Destination": "Due to its mountainous terrain",
-"Former Billionaire Tax Haven": "No longer on any official blacklists of uncooperative tax haven countries"
-},
-"Media": "Information not provided",
-"Sports": "Information not provided",
-"Security and Defense": {
-"Military Status": "Liechtenstein does not have a military",
-"International Affiliations": ["United Nations", "European Free Trade Association", "Council of Europe"],
-"EU Relations": {
-"Non-EU Member": "Participates in the Schengen Area and the European Economic Area",
-"Customs Union": "With Switzerland"
-}
-}
-}
+  "Name": {
+    "Common": "Liechtenstein",
+    "Official": "Principality of Liechtenstein",
+    "Native": {
+      "German": "Fürstentum Liechtenstein"
+    }
+  },
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Coat of Arms URL": "URL_to_coat_of_arms_image",
+    "Motto": "Für Gott, Fürst und Vaterland (For God, Prince and Fatherland)",
+    "Anthem": {
+      "Title": "Oben am jungen Rhein",
+      "Translation": "High on the Young Rhine",
+      "Duration": "1 minute and 25 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Europe",
+    "Region": "Central Europe",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Vaduz",
+        "Latitude": "47°08′N",
+        "Longitude": "9°31′E"
+      }
+    },
+    "Location": "Landlocked country in Central Europe, bordered by Switzerland to the west and south, and Austria to the east and north",
+    "Area": {
+      "Total (km2)": 160,
+      "Rank": "189th",
+      "Water Percentage": "2.7%"
+    },
+    "Borders": {
+      "Switzerland": "west and south",
+      "Austria": "east and north"
+    },
+    "Double Landlocked": true,
+    "Coastline": "None (landlocked)",
+    "Terrain": ["Mountainous with the Alps"],
+    "Climate": ["Continental; cold winters and mild summers"],
+    "Natural Resources": ["Hydropower, arable land"],
+    "Time Zones": ["UTC+01:00 (CET)"],
+    "Largest Municipality": "Schaan"
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 39584,
+      "Density (per km2)": 237
+    },
+    "Ethnic Groups": {
+      "2017": {
+        "Liechtensteiners": 66.2,
+        "Swiss": 9.5,
+        "Austrians": 5.8,
+        "Germans": 4.2,
+        "Italians": 3.1,
+        "Portuguese": 1.9,
+        "Turks": 1.6,
+        "Kosovar Albanians": 1.1,
+        "Spaniards": 1.0,
+        "Others": 5.6
+      }
+    },
+    "Languages": {
+      "Official": ["German"]
+    },
+    "Religion": {
+      "2015": {
+        "Christianity": 83.2,
+        "Catholicism": 73.4,
+        "Other Christian": 9.8,
+        "No Religion": 7.0,
+        "Islam": 5.9,
+        "Others": 3.9
+      }
+    },
+    "Demonym": "Liechtensteiner"
+  },
+  "Government": {
+    "Type": "Unitary parliamentary semi-constitutional monarchy with elements of a direct democracy",
+    "Leaders": {
+      "Monarch": "Hans-Adam II",
+      "Regent": "Alois",
+      "Prime Minister": "Daniel Risch",
+      "Speaker of Parliament": "Albert Frick"
+    },
+    "Legislature": "Landtag",
+    "Constitution": "5 October 1921"
+  },
+  "History": {
+    "Independence as Principality": {
+      "Union between Vaduz and Schellenberg": "23 January 1719",
+      "Treaty of Pressburg": "12 July 1806",
+      "Separation from German Confederation": "23 August 1866"
+    }
+  },
+  "Economy": {
+    "Status": "Developed country",
+    "Dependence": "Financial services, manufacturing, tourism",
+    "Major Industries": ["Banking", "Pharmaceuticals", "Electronics", "Tourism"],
+    "GDP (PPP 2013)": {
+      "Total (Billion USD)": 5.3,
+      "Per Capita (USD)": 98432
+    },
+    "GDP (Nominal 2020)": {
+      "Total (Billion USD)": 6.872,
+      "Per Capita (USD)": 180000
+    },
+    "Currency": "Swiss franc (CHF)",
+    "Gini Index": "N/A",
+    "HDI": {
+      "Score": 0.935,
+      "Rank": "17th"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": ["United Nations (UN)", "European Free Trade Association (EFTA)", "Council of Europe"],
+    "EU Relations": {
+      "Non-EU Member": "Participates in the Schengen Area and the European Economic Area",
+      "Customs Union": "With Switzerland"
+    }
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+01:00 (CET)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+423",
+    "ISO 3166 Code": "LI",
+    "Internet TLD": ".li",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Epiphany (January 6)",
+      "Candlemas (February 2)",
+      "Easter Monday (Varies)",
+      "Labor Day (May 1)",
+      "Ascension Day (Varies)",
+      "Whit Monday (Varies)",
+      "National Day (August 15)",
+      "All Saints' Day (November 1)",
+      "Christmas Day (December 25)",
+      "St. Stephen's Day (December 26)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of Germanic and Alpine influences",
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["Winter sport destination due to its mountainous terrain", "Former billionaire tax haven"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 2.5,
+    "Exports Growth": "Driven by financial services and manufacturing",
+    "Inflation Rate": "1.5%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Financial Services", "Manufacturing"],
+      "Challenges": "Balancing economic growth with environmental protection"
+    },
+    "Market Performance": {
+      "Equity Market": "N/A",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Central European culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Financial Services", "Manufacturing", "Tourism"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air transport",
+    "Key Transport Hubs": ["Vaduz", "Schaan"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Low level of political unrest and instability",
+    "Economic Hardships": "Low unemployment and poverty rates",
+    "Natural Disasters": ["Flooding"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "82.4 years",
+    "Infant Mortality Rate": "3.5 deaths/1,000 live births",
+    "Health Expenditure of GDP": "8.3% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "4.8% (2020)",
+    "Literacy Rate": {
+      "Total": "100%",
+      "Male": "100%",
+      "Female": "100%"
+    }
+  }
 }
