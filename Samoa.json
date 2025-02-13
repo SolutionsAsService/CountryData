@@ -1,131 +1,211 @@
 {
-  "Samoa": {
-    "General_Information": {
-        "Name":{
-        "Common": "Samoa",
-        "Official": "Independent State of Samoa",
-        "Samoan": "Malo Saʻoloto Tutoʻatasi o Sāmoa",
-        "Former": "Western Samoa",
-        },
-      "Flag": "Flag of Samoa",
-      "Coat_of_Arms": "Coat of arms of Samoa",
-      "Motto": "Faʻavae i le Atua Sāmoa ('Samoa is founded on God')",
-      "Anthem": {
-        "Title": "O Le Fuʻa o le Saʻolotoga o Samoa ('The Banner of Freedom')",
-        "Duration": "1 minute and 14 seconds"
-      },
-      "Location":{
-        "main islands": ["Savai'i", "Upolu"], 
-        "smaller, inhabited islands": [ "Manono", "Apolima"],
-        "several smaller, uninhabited islands": ["Aleipata Islands": ["Nu'utele", "Nu'ulua", "Fanuatapu", "Namua"],
-         "American Samoa": { "Distance": "64 km (40 mi)", "Direction": "west" },
-          "Tonga": {"Distance": "889 km (552 mi)", "Direction": "northeast" },
-          "Fiji": {"Distance": "1,152 km (716 mi)", "Direction": "northeast" }, 
-          "Wallis and Futuna": {"Distance": "483 km (300 mi)", "Direction": "east"}, 
-          "Tuvalu": {"Distance": "1,151 km (715 mi)", "Direction": "southeast" } ,
-          "Tokelau": {"Distance": "519 km (322 mi)", "Direction": "south"} , 
-          "Hawaii": {"Distance": "4,190 km (2,600 mi)", "Direction": "southwest"},
-          "Niue": {"Distance":"610 km (380 mi)", "Direction": "northwest"} ,
-      "Map": "Map of Samoa",
-          },
-      "Capital_and_Largest_City": {
-        "Name": "Apia",
-        "Coordinates": "13°50′00″S 171°45′44″W"
-      },
-      "Official_Languages": ["Samoan", "English"],
-      "Ethnic_Groups_2021": {
-        "Samoans": "92.6%",
-        "Euronesians": "7.0%",
-        "Europeans": "0.3%",
-        "Others": "0.1%"
-      },
-      "Religion_2021": {
-        "Christianity": "97.9%",
-        "Protestantism": "54.9%",
-        "Catholicism": "18.8%",
-        "Mormonism": "16.9%",
-        "Other_Christian": "7.3%",
-        "No_Religion": "1.7%",
-        "Others": "0.4%"
-      },
-      "Demonym": "Samoan",
-      "Government_Type": "Unitary parliamentary republic",
-      "Leaders": {
-        "President": "Tuimalealiʻifano Vaʻaletoʻa Sualauvi II",
-        "Prime_Minister": "Fiamē Naomi Mataʻafa",
-        "Assembly_Speaker": "Papali’i Li’o Taeu Masipau"
-      },
-      "Legislature": "Legislative Assembly",
-      "Independence": {
-        "Treaty_of_Berlin": "14 June 1889",
-        "Tripartite_Convention": "16 February 1900",
-        "Colonisation_by_Germany": "1 March 1900",
-        "Occupied_by_New_Zealand": "30 August 1914",
-        "League_Mandate": "17 December 1920",
-        "UN_Trusteeship": "13 December 1946",
-        "Western_Samoa_Act_1961": "1 January 1962",
-        "UN_Admission": "15 December 1976",
-        "Name_Change": "4 July 1997"
-      },
-      "Area": {
-        "Total": "2,831 km2",
-        "Water_Percentage": "0.3"
-      },
-      "Population_2021": {
-        "Census": "205,557",
-        "Density": "70/km2"
-      },
-      "GDP_PPP_2018_Estimate": {
-        "Total": "$1.188 billion",
-        "Per_Capita": "$5,962"
-      },
-      "GDP_Nominal_2018_Estimate": {
-        "Total": "$881 million",
-        "Per_Capita": "$4,420"
-      },
-      "Gini_2013": "38.7 medium",
-      "HDI_2021": {
-        "Score": "0.707",
-        "Rank": "111th"
-      },
-      "Currency": "Tālā (WS$) (WST)",
-      "Time_Zone": "UTC+13 (WST)",
-      "Date_Format": "dd/mm/yyyy",
-      "Driving_Side": "left",
-      "Calling_Code": "+685",
-      "ISO_3166_Code": "WS",
-      "Internet_TLD": ".ws",
-      "Major_Islands": ["Savai'i", "Upolu", "Manono", "Apolima"],
-      "Smaller_Islands": ["Aleipata Islands", "Nu'utele", "Nu'ulua", "Fanuatapu", "Namua"]
-    },
-    "History": {
-      "Prehistoric_Settlement": "Lapita people discovered and settled the Samoan Islands around 3,500 years ago",
-      "European_Explorers": "Referred to as the 'Navigator Islands'",
-      "Colonial_History": "German colony, then under British and New Zealand administration",
-      "Independence": "Became independent in 1962"
-    },
-    "Government_and_Politics": {
-      "System": "Unitary parliamentary democracy",
-      "Administrative_Divisions": "11 administrative divisions",
-      "International_Status": "Member of the Commonwealth of Nations"
-    },
-    "Geography": {
-      "Description": "Polynesian island country in the South Pacific Ocean",
-      "Location": "Near American Samoa, Tonga, Fiji, Wallis and Futuna, Tuvalu, Tokelau, Hawaii, Niue"
-    },
-    "Economy": {
-      "Status": "Details of Samoa's economy, major industries, and trade"
-    },
-    "Demographics": {
-      "Population_Composition": "Primarily Samoan with Euronesian and European minorities",
-      "Language": "Samoan and English as official languages"
-    },
-    "Education": {
-      "System": "Details of the education system in Samoa"
-    },
-    "Culture": {
-      "Influences": "Rich Samoan cultural identity and traditions",
-      "Significance": "Developed a unique Samoan language and cultural identity"
+  "Name": {
+    "Common": "Samoa",
+    "Official": "Independent State of Samoa",
+    "Native": {
+      "Samoan": "Malo Saʻoloto Tutoʻatasi o Sāmoa",
+      "Former": "Western Samoa"
     }
+  },
+  "Symbols": {
+    "Flag": "Flag of Samoa",
+    "Coat of Arms": "Coat of arms of Samoa",
+    "Motto": "Faʻavae i le Atua Sāmoa ('Samoa is founded on God')",
+    "Anthem": {
+      "Title": "O Le Fuʻa o le Saʻolotoga o Samoa ('The Banner of Freedom')",
+      "Duration": "1 minute and 14 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Oceania",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Apia",
+        "Latitude": "13°50′00″S",
+        "Longitude": "171°45′44″W"
+      }
+    },
+    "Location": "Polynesian island country in the South Pacific Ocean, near American Samoa, Tonga, Fiji, Wallis and Futuna, Tuvalu, Tokelau, Hawaii, Niue",
+    "Area": {
+      "Total (sq km)": 2831,
+      "Water Percentage": "0.3"
+    },
+    "Topography": ["Volcanic origin, with rugged mountains, fertile valleys, and coral reefs"],
+    "Climate": ["Tropical, with two distinct seasons: a wet season from November to April and a dry season from May to October"],
+    "Natural Resources": ["Timber", "Fish", "Hydropower"],
+    "Time Zones": ["UTC+13 (WST)"],
+    "Largest City": "Apia"
+  },
+  "Demographics": {
+    "Population": {
+      "2021 Census": 205557,
+      "Density (per sq km)": 70
+    },
+    "Ethnic Groups": {
+      "2021": {
+        "Samoans": 92.6,
+        "Euronesians": 7.0,
+        "Europeans": 0.3,
+        "Others": 0.1
+      }
+    },
+    "Languages": {
+      "Official": ["Samoan", "English"]
+    },
+    "Religion": {
+      "2021": {
+        "Christianity": 97.9,
+        "Protestantism": 54.9,
+        "Catholicism": 18.8,
+        "Mormonism": 16.9,
+        "Other Christian": 7.3,
+        "No Religion": 1.7,
+        "Others": 0.4
+      }
+    },
+    "Demonym": "Samoan"
+  },
+  "Government": {
+    "Type": "Unitary parliamentary republic",
+    "Leaders": {
+      "President": "Tuimalealiʻifano Vaʻaletoʻa Sualauvi II",
+      "Prime Minister": "Fiamē Naomi Mataʻafa",
+      "Assembly Speaker": "Papali’i Li’o Taeu Masipau"
+    },
+    "Legislature": "Legislative Assembly",
+    "Constitution": "1 January 1962",
+    "Independence History": {
+      "Treaty of Berlin": "14 June 1889",
+      "Tripartite Convention": "16 February 1900",
+      "Colonisation by Germany": "1 March 1900",
+      "Occupied by New Zealand": "30 August 1914",
+      "League Mandate": "17 December 1920",
+      "UN Trusteeship": "13 December 1946",
+      "Western Samoa Act 1961": "1 January 1962",
+      "UN Admission": "15 December 1976",
+      "Name Change": "4 July 1997"
+    }
+  },
+  "History": {
+    "Historical Context": {
+      "Prehistoric Settlement": "Lapita people discovered and settled the Samoan Islands around 3,500 years ago",
+      "European Explorers": "Referred to as the 'Navigator Islands' by European explorers",
+      "Colonial History": "Became a German colony in 1900, then under New Zealand administration after World War I",
+      "Independence": "Became independent on 1 January 1962, the first Polynesian nation to do so"
+    }
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Agriculture, tourism, remittances",
+    "Major Industries": ["Agriculture", "Tourism", "Fishing", "Manufacturing"],
+    "GDP (PPP 2018)": {
+      "Total (Billion USD)": 1.188,
+      "Per Capita (USD)": 5962
+    },
+    "GDP (Nominal 2018)": {
+      "Total (Billion USD)": 0.881,
+      "Per Capita (USD)": 4420
+    },
+    "Currency": "Tālā (WS$) (WST)",
+    "Gini Index": {
+      "Year": 2013,
+      "Value": 38.7,
+      "Category": "Medium"
+    },
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.707,
+      "Category": "High",
+      "Rank": "111th"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in regional and international affairs",
+    "Membership": [
+      "United Nations (UN)",
+      "Commonwealth of Nations",
+      "Pacific Islands Forum (PIF)",
+      "World Trade Organization (WTO)"
+    ]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+13 (WST)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Left",
+    "Calling Code": "+685",
+    "ISO 3166 Code": "WS",
+    "Internet TLD": [".ws"],
+    "Public Holidays": [
+      "New Year's Day",
+      "Good Friday",
+      "Easter Monday",
+      "Independence Day",
+      "White Sunday",
+      "Christmas Day",
+      "Boxing Day"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich Samoan cultural identity and traditions, with influences from Polynesian heritage",
+    "Cultural Contributions": ["Art", "Cuisine", "Literature", "Music"],
+    "Unique Features": ["Developed a unique Samoan language, dance (Siva), and cultural practices (Fa'a Samoa)", "Festivals like Teuila Festival and Independence Day celebrations"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.1,
+    "Exports Growth": "Driven by agriculture and fishing sectors",
+    "Inflation Rate": "3.5%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Agriculture", "Tourism"],
+      "Challenges": "Balancing economic growth with social development"
+    },
+    "Market Performance": {
+      "Equity Market": "Samoa Stock Exchange",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban population, with Apia being the primary urban center",
+      "Rural Development": "Focus on improving rural infrastructure and living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Polynesian and global culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Agriculture", "Tourism"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education and improving literacy rates",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Sea, and Air transport",
+    "Key Transport Hubs": ["Faleolo International Airport", "Apia Harbour"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Low level of political unrest and instability",
+    "Economic Hardships": "Moderate poverty and unemployment rates",
+    "Natural Disasters": ["Cyclones", "Earthquakes", "Tsunamis"],
+    "Health Issues": ["Non-communicable diseases", "COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "75.2 years",
+    "Infant Mortality Rate": "16.7 deaths/1,000 live births",
+    "Health Expenditure of GDP": "7.2% (2020)",
+    "Physicians Density": "0.5 physicians/1,000 population",
+    "Hospital Bed Density": "2.0 beds/1,000 population",
+    "Major Hospitals": ["Tupua Tamasese Meaole Hospital", "Malietoa Tanumafili II Hospital"]
+  },
+  "Education": {
+    "System": "Compulsory education for children aged 5 to 14, free primary and secondary education",
+    "Literacy Rate": "99%",
+    "Higher Education": ["National University of Samoa", "University of the South Pacific's Alafua Campus"]
   }
 }
