@@ -1,0 +1,138 @@
+{
+    "Name": {
+      "Common": "North Cyprus",
+      "Official": "Turkish Republic of Northern Cyprus",
+      "Native": {
+        "Turkish": "Kuzey Kıbrıs Türk Cumhuriyeti"
+      }
+    },
+    "NationalSymbols": {
+      "Flag": "A red field featuring a white crescent and a star with a white silhouette of Cyprus superimposed on the hoist side",
+      "CoatOfArms": "A shield displaying a white map of Cyprus with olive branches, set against a red background",
+      "Motto": "N/A",
+      "Anthem": {
+        "Title": "Kıbrıs Marşı",
+        "Translation": "Cyprus March",
+        "Duration": "Approximately 1 minute and 30 seconds"
+      }
+    },
+    "Geography": {
+      "Continent": "Europe",
+      "Coordinates": {
+        "Capital": {
+          "Name": "North Nicosia (Lefkoşa)",
+          "Latitude": "35°10′N",
+          "Longitude": "33°22′E"
+        }
+      },
+      "Location": "Eastern Mediterranean, comprising the northern portion of the island of Cyprus",
+      "Area": {
+        "Total_sq_km": 3355,
+        "Rank": "N/A"
+      },
+      "Topography": [
+        "Northern Mountains",
+        "Central Plains",
+        "Coastal Areas along the Mediterranean"
+      ],
+      "Climate": [
+        "Mediterranean"
+      ],
+      "NaturalResources": [
+        "Agricultural Land",
+        "Mineral Deposits"
+      ],
+      "TimeZones": [
+        "UTC+2 (Eastern European Time)",
+        "UTC+3 (Eastern European Summer Time)"
+      ],
+      "LargestCity": "North Nicosia (Lefkoşa)"
+    },
+    "Demographics": {
+      "Population": {
+        "2023Estimate": 326000,
+        "Density_per_sq_km": "Approximately 97"
+      },
+      "EthnicGroups": {
+        "2023Estimate": {
+          "TurkishCypriots": "98%",
+          "Others": "2%"
+        }
+      },
+      "Languages": {
+        "Official": ["Turkish"],
+        "RecognizedRegional": ["English (widely used)"]
+      },
+      "Religion": {
+        "2023Estimate": {
+          "Islam": "Approximately 99% (predominantly Sunni)",
+          "Other": "1%"
+        }
+      },
+      "Demonym": "Turkish Cypriot"
+    },
+    "Government": {
+      "Type": "De facto presidential republic",
+      "CurrentLeaders": {
+        "President": "Ersin Tatar",
+        "PrimeMinister": "Faiz Sucuoğlu"
+      },
+      "Legislature": "Assembly of the Republic",
+      "IndependenceAndFormation": {
+        "DeclarationOfIndependence": "15 November 1983",
+        "HistoricalBackground": "Following intercommunal conflict and the Turkish invasion of Cyprus in 1974, the northern region declared independence in 1983. It is recognized only by Turkey."
+      }
+    },
+    "Economy": {
+      "GDPPPP": {
+        "2023Estimate": {
+          "Total": "$8 billion (approx.)",
+          "PerCapita": "$24,500 (approx.)"
+        }
+      },
+      "GDPNominal": {
+        "2023Estimate": {
+          "Total": "$3.5 billion (approx.)",
+          "PerCapita": "$10,700 (approx.)"
+        }
+      },
+      "GiniCoefficient": "32.0 (medium, approximate)",
+      "HDI": "0.850 (very high, approximate)",
+      "Currency": "Turkish Lira (₺) (TRY) – officially used; Euros are also common in tourism"
+    },
+    "Infrastructure": {
+      "TimeZone": "UTC+2 (EET); UTC+3 in summer (EEST)",
+      "DrivingSide": "Left",
+      "CallingCode": "+90 (unofficial, as North Cyprus uses Turkey’s code)",
+      "ISO3166Code": "N/A (unrecognized)",
+      "InternetTLD": [".nc.tr (unofficial)"],
+      "OfficialWebsite": "https://www.trncinfo.com"
+    },
+    "HistoricalContext": {
+      "AncientHistory": "Part of ancient Cyprus with Greek, Phoenician, and Roman settlements",
+      "MedievalPeriod": "Ruled by Byzantines, Lusignans, Venetians, and Ottomans",
+      "ModernEra": "Came under British colonial rule until 1960; division of Cyprus followed intercommunal tensions and the 1974 Turkish invasion",
+      "PoliticalStatus": "De facto independent since 1983; recognized only by Turkey"
+    },
+    "CulturalAspects": {
+      "Influence": [
+        "Turkish",
+        "Cypriot",
+        "Mediterranean"
+      ],
+      "Language": "Turkish (primary); English widely used in business and tourism",
+      "Cuisine": "Meze, kebabs, fresh seafood, and local Cypriot specialties",
+      "UNESCOWorldHeritage": "Several archaeological sites and historic landmarks, though most UNESCO sites are in the internationally recognized southern part of Cyprus"
+    },
+    "GeopoliticalFeatures": {
+      "Location": "Eastern Mediterranean, on the island of Cyprus",
+      "Borders": ["De jure borders with the Republic of Cyprus (entire island)"],
+      "Territories": "De facto control of the northern third of Cyprus"
+    },
+    "InternationalEngagements": {
+      "Organizations": [
+        "Organization of Islamic Cooperation (OIC) – as observer",
+        "Various international economic and cultural forums (limited participation due to non-recognition)"
+      ]
+    }
+}
