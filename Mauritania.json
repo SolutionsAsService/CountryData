@@ -1,68 +1,201 @@
 {
-    "Mauritania": {
-        "Name": {
-            "Common": "Mauritania",
-            "Official": "Islamic Republic of Mauritania",
-            "Arabic": "الجمهورية الإسلامية الموريتانية",
-            "Romanized": "al-Jumhūrīyah al-Islāmīyah al-Mūrītānīyah"
-        },
-        "Status": ["Islamic Insurgency"],
-        "Symbols": {
-        "Flag": "Described Image",
-        "Seal": "Described Image",
-        "Motto": "Honour, Fraternity, Justice",
-        "Anthem": "Land of the Proud, Guided by Noblemen",
-        },
-        "Capital and Largest City": "Nouakchott",
-        "Official Language": "Arabic",
-        "Recognised National Languages": ["Pulaar", "Soninke", "Wolof"],
-        "Ethnic Groups": {
-            "Haratin": "40%",
-            "Arab-Berber": "30%",
-            "Halpulaar, Fulani, Mande, and Wolof": "30%"
-        },
-        "Religion": "Sunni Islam (official)",
-        "Government": {
-            "Type": "Unitary presidential Islamic republic",
-            "President": "Mohamed Ould Ghazouani",
-            "Prime Minister": "Mohamed Ould Bilal",
-            "National Assembly President": "Mohamed Ould Meguett"
-        },
-        "Independence": {
-            "Republic Established": "28 November 1958",
-            "From France": "28 November 1960",
-            "Constitution": "12 July 1991"
-        },
-        "Area": "1,030,000 square kilometers",
-        "Population": {
-            "2023 Estimate": "4,244,878",
-            "Density": "3.4 per square kilometer"
-        },
-        "Economy": {
-            "GDP (PPP, 2023)": "$33.414 billion",
-            "Per Capita (PPP)": "$7,542",
-            "GDP (Nominal, 2023)": "$10.357 billion",
-            "Per Capita (Nominal)": "$2,337"
-        },
-        "Gini Coefficient": "32.6 (medium)",
-        "HDI": "0.556 (medium, 158th)",
-        "Currency": "Ouguiya (MRU)",
-        "Time Zone": "UTC (GMT)",
-        "Driving Side": "right",
-        "ISO 3166 Code": "MR",
-        "Internet TLD": ".mr",
-        "Historical Context": {
-            "Early Settlement": "Berber kingdom of Mauretania",
-            "Arab Conquest": "Umayyad Caliphate in 7th century",
-            "French Colonization": "Early 20th century",
-            "Independence": "1960",
-            "Recent Political History": "Military coups and dictatorship"
-        },
-        "Cultural Aspects": {
-            "Arab Identity": "Part of Arab world",
-            "Ethnic Composition": "Bidhan, Haratin, Sub-Saharan groups",
-            "Natural Resources": ["Iron ore", "Petroleum"],
-            "Human Rights Issues": "Perpetuation of slavery"
-        }
+  "Name": {
+    "Common": "Mauritania",
+    "Official": "Islamic Republic of Mauritania",
+    "Native": {
+      "Arabic": "الجمهورية الإسلامية الموريتانية",
+      "Romanized": "al-Jumhūrīyah al-Islāmīyah al-Mūrītānīyah"
     }
+  },
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Seal URL": "URL_to_seal_image",
+    "Motto": "Honour, Fraternity, Justice",
+    "Anthem": {
+      "Title": "Land of the Proud, Guided by Noblemen",
+      "Duration": "1 minute and 30 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Africa",
+    "Region": "West Africa",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Nouakchott",
+        "Latitude": "18°05′N",
+        "Longitude": "15°58′W"
+      }
+    },
+    "Location": "West Africa, bordered by Western Sahara to the north, Algeria to the northeast, Mali to the east and southeast, Senegal to the southwest, and the Atlantic Ocean to the west",
+    "Area": {
+      "Total (sq km)": 1030000,
+      "Rank": "29th",
+      "Water Percentage": "N/A"
+    },
+    "Borders": {
+      "North": ["Western Sahara"],
+      "Northeast": ["Algeria"],
+      "East and Southeast": ["Mali"],
+      "Southwest": ["Senegal"],
+      "West": ["Atlantic Ocean"]
+    },
+    "Coastline": "754 km",
+    "Topography": ["Deserts", "Plateaus"],
+    "Climate": ["Arid desert"],
+    "Natural Resources": ["Iron ore", "Petroleum", "Fish"],
+    "Time Zones": ["UTC (GMT)"],
+    "Largest City": "Nouakchott"
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 4244878,
+      "Density (per km2)": 3.4
+    },
+    "Ethnic Groups": {
+      "2023": {
+        "Haratin": 40,
+        "Arab-Berber": 30,
+        "Halpulaar, Fulani, Mande, and Wolof": 30
+      }
+    },
+    "Languages": {
+      "Official": ["Arabic"],
+      "Recognised National": ["Pulaar", "Soninke", "Wolof"],
+      "Working": ["French"]
+    },
+    "Religion": {
+      "2023": {
+        "Sunni Islam": 100
+      }
+    },
+    "Demonym": "Mauritanian"
+  },
+  "Government": {
+    "Type": "Unitary presidential Islamic republic",
+    "Leaders": {
+      "President": "Mohamed Ould Ghazouani",
+      "Prime Minister": "Mohamed Ould Bilal",
+      "National Assembly President": "Mohamed Ould Meguett"
+    },
+    "Legislature": "National Assembly",
+    "Constitution": "12 July 1991"
+  },
+  "History": {
+    "Early Settlement": "Berber kingdom of Mauretania",
+    "Arab Conquest": "Umayyad Caliphate in 7th century",
+    "French Colonization": "Early 20th century",
+    "Independence": {
+      "Republic Established": "28 November 1958",
+      "From France": "28 November 1960"
+    },
+    "Recent Political History": "Military coups and dictatorship"
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Mining, agriculture, fishing",
+    "Major Industries": ["Mining", "Fishing", "Agriculture"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 33.414,
+      "Per Capita (USD)": 7542
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 10.357,
+      "Per Capita (USD)": 2337
+    },
+    "Currency": "Ouguiya (MRU)",
+    "Gini Index": {
+      "Year": 2023,
+      "Value": 32.6,
+      "Category": "Medium"
+    },
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.556,
+      "Category": "Medium",
+      "Rank": "158th"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": ["United Nations (UN)", "African Union (AU)", "Organisation of Islamic Cooperation (OIC)", "Arab Maghreb Union (AMU)"]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC (GMT)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+222",
+    "ISO 3166 Code": "MR",
+    "Internet TLD": ".mr",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Independence Day (November 28)",
+      "Labour Day (May 1)",
+      "Eid al-Fitr (Varies)",
+      "Eid al-Adha (Varies)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of Arab and African influences",
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["Part of the Arab world", "Ethnic composition: Bidhan, Haratin, Sub-Saharan groups", "Natural resources: Iron ore, Petroleum"],
+    "Human Rights Issues": ["Perpetuation of slavery"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 4.0,
+    "Exports Growth": "Driven by mining and fishing",
+    "Inflation Rate": "4.5%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Mining", "Fishing"],
+      "Challenges": "Balancing economic growth with social development"
+    },
+    "Market Performance": {
+      "Equity Market": "N/A",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Arab and West African culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Mining", "Fishing", "Agriculture"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Sea transport",
+    "Key Transport Hubs": ["Nouakchott", "Nouadhibou"]
+  },
+  "Current Challenges": {
+    "Political Instability": "High level of political unrest and instability",
+    "Economic Hardships": "High poverty and unemployment rates",
+    "Natural Disasters": ["Drought"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "64.5 years",
+    "Infant Mortality Rate": "55.2 deaths/1,000 live births",
+    "Health Expenditure of GDP": "4.3% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "4.1% (2020)",
+    "Literacy Rate": {
+      "Total": "52.1%",
+      "Male": "62.4%",
+      "Female": "41.8%"
+    }
+  }
 }
