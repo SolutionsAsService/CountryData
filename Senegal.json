@@ -1,106 +1,127 @@
 {
-  "Senegal": {
-    "Name": {
+  "Name": {
+    "Common": "Senegal",
     "Official": "Republic of Senegal",
-    "Common": "Senegal"
-    },
-    "Status": ["Casamance conflict"],
+    "Native": {
+      "French": "République du Sénégal"
+    }
+  },
+  "Symbols": {
     "Flag": "Flag of Senegal",
-    "CoatOfArms": "Coat of arms of Senegal",
-    "Motto": "\"Un Peuple, Un But, Une Foi\" (French for \"One People, One Goal, One Faith\")",
+    "Coat of Arms": "Coat of arms of Senegal",
+    "Motto": "\"Un Peuple, Un But, Une Foi\" (One People, One Goal, One Faith)",
     "Anthem": {
       "Title": "Le Lion rouge (The Red Lion)",
       "Duration": "56 seconds"
-    },
-    "CapitalAndLargestCity": "Dakar",
+    }
+  },
+  "Geography": {
+    "Continent": "Africa",
     "Coordinates": {
-      "Latitude": "14°40′N",
-      "Longitude": "17°25′W"
+      "Capital": {
+        "Name": "Dakar",
+        "Latitude": "14°40′N",
+        "Longitude": "17°25′W"
+      }
     },
-    "OfficialLanguage": "French",
-    "NationalLanguages": [
-      "Wolof",
-      "Serer",
-      "Diola",
-      "Hassaniya Arabic",
-      "Pulaar",
-      "Soninke",
-      "Mandinka"
-    ],
-    "LinguaFranca": [
-      "Wolof",
-      "French",
-      "Pulaar",
-      "Serer",
-      "Diola",
-      "Hassaniya Arabic",
-      "Soninke",
-      "Malinke",
-      "Arabic"
-    ],
-    "EthnicGroups2019": {
-      "Wolof": "39.7%",
-      "Fula": "27.5%",
-      "Serer": "16.0%",
-      "Mandinka": "4.9%",
-      "Jola": "4.2%",
-      "Soninke": "2.4%",
-      "Others": "5.4%"
+    "Location": "Westernmost country in the mainland of the Old World, or Afro-Eurasia",
+    "Area": {
+      "Total (sq km)": 196722,
+      "Water Percentage": "2.1"
     },
-    "Demonym": "Senegalese",
-    "GovernmentType": "Unitary presidential republic",
+    "Topography": ["Flat plains", "Hills in the southeast", "Coastal areas"],
+    "Climate": ["Typically Sahelian, with a rainy season from June to October"],
+    "Natural Resources": ["Fish", "Phosphates", "Iron ore"],
+    "Time Zones": ["UTC (GMT)"],
+    "Largest City": "Dakar"
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 18384660,
+      "Density (per sq km)": 93.5
+    },
+    "Ethnic Groups": {
+      "2019": {
+        "Wolof": 39.7,
+        "Fula": 27.5,
+        "Serer": 16.0,
+        "Mandinka": 4.9,
+        "Jola": 4.2,
+        "Soninke": 2.4,
+        "Others": 5.4
+      }
+    },
+    "Languages": {
+      "Official": ["French"],
+      "National": ["Wolof", "Serer", "Diola", "Hassaniya Arabic", "Pulaar", "Soninke", "Mandinka"],
+      "Lingua Franca": ["Wolof", "French", "Pulaar", "Serer", "Diola", "Hassaniya Arabic", "Soninke", "Malinke", "Arabic"]
+    },
+    "Religion": {
+      "2010": {
+        "Islam": 93.0,
+        "Sunni": 85,
+        "Shia": 10,
+        "Christianity": 4.4,
+        "Hinduism": 1.1,
+        "Unaffiliated": 0.7,
+        "Buddhism": 0.3
+      }
+    },
+    "Demonym": "Senegalese"
+  },
+  "Government": {
+    "Type": "Unitary presidential republic",
     "Leaders": {
       "President": "Macky Sall",
-      "PrimeMinister": "Amadou Ba",
-      "PresidentOfTheNationalAssembly": "Amadou Mame Diop"
+      "Prime Minister": "Amadou Ba",
+      "President of the National Assembly": "Amadou Mame Diop"
     },
     "Legislature": "National Assembly",
-    "IndependenceHistory": {
-      "RepublicEstablished": "25 November 1957",
-      "IndependenceFromFrance": "4 April 1960",
-      "WithdrawalFromMaliFederation": "20 August 1960",
-      "AsSenegal": "22 September 1960",
-      "DissolutionOfSenegambiaConfederation": "30 September 1989"
+    "Constitution": "7 March 1963",
+    "Independence History": {
+      "Republic Established": "25 November 1957",
+      "Independence from France": "4 April 1960",
+      "Withdrawal from Mali Federation": "20 August 1960",
+      "As Senegal": "22 September 1960",
+      "Dissolution of Senegambia Confederation": "30 September 1989"
+    }
+  },
+  "History": {
+    "Historical Context": {
+      "Republic Established": "25 November 1957",
+      "Independence from France": "4 April 1960",
+      "Withdrawal from Mali Federation": "20 August 1960",
+      "As Senegal": "22 September 1960",
+      "Dissolution of Senegambia Confederation": "30 September 1989"
+    }
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Agriculture, mining, tourism, services",
+    "Major Industries": ["Agriculture", "Mining", "Tourism", "Services"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 78.547,
+      "Per Capita (USD)": 4324
     },
-    "Area": {
-      "TotalKm2": "196,722",
-      "Rank": "86th",
-      "WaterPercentage": "2.1"
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 31.141,
+      "Per Capita (USD)": 1714
     },
-    "Population2023Estimate": "18,384,660",
-    "PopulationRank": "67th",
-    "GDP_PPP_2023Estimate": {
-      "Total": "$78.547 billion",
-      "PerCapita": "$4,324",
-      "Rank": "106th"
-    },
-    "GDP_Nominal_2023Estimate": {
-      "Total": "$31.141 billion",
-      "PerCapita": "$1,714",
-      "Rank": "111th"
-    },
-    "Gini_2011": "40.3",
-    "HDI_2021": "0.511",
-    "HDIRank": "170th",
     "Currency": "West African CFA franc (XOF)",
-    "TimeZone": "UTC (GMT)",
-    "Dateformat": "mm/dd/yyyy",
-    "Drivingside": "right",
-    "CallingCode": "+221",
-    "ISO3166Code": "SN",
-    "InternetTLD": ".sn",
-    "GeographicNotes": "Westernmost country in the mainland of the Old World, or Afro-Eurasia",
-    "Climate": "Typically Sahelian, with a rainy season",
-    "EconomicAndSocialIndicators": {
-      "Classification": "Heavily indebted poor country",
-      "DevelopmentBasis": "Education, with almost half the state's budget spent on it",
-      "MajorIndustries": [
-        "Agriculture",
-        "Mining",
-        "Tourism",
-        "Services"
-      ]
+    "Gini Index": {
+      "Year": 2011,
+      "Value": 40.3,
+      "Category": "Medium"
     },
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.511,
+      "Category": "Low",
+      "Rank": "170th"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in regional and international affairs",
     "Membership": [
       "African Union",
       "United Nations",
@@ -108,7 +129,87 @@
       "Organisation internationale de la Francophonie",
       "Organisation of Islamic Cooperation",
       "Community of Sahel-Saharan States"
-    ],
-    "CulturalNotes": "Known for the Paris-Dakar Rally in motor sports"
+    ]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC (GMT)"],
+    "Date Format": ["mm/dd/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+221",
+    "ISO 3166 Code": "SN",
+    "Internet TLD": [".sn"],
+    "Public Holidays": [
+      "New Year's Day",
+      "Independence Day",
+      "Labor Day",
+      "Korité",
+      "Tabaski",
+      "Assumption Day",
+      "All Saints' Day",
+      "Christmas Day"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Known for the Paris-Dakar Rally in motor sports",
+    "Cultural Contributions": ["Art", "Cuisine", "Literature", "Music"],
+    "Unique Features": ["Gorée Island", "Lac Rose", "Dakar's vibrant culture"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 5.2,
+    "Exports Growth": "Driven by agriculture and mining sectors",
+    "Inflation Rate": "2.5%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Agriculture", "Mining"],
+      "Challenges": "Balancing economic growth with social development"
+    },
+    "Market Performance": {
+      "Equity Market": "Bourse Régionale des Valeurs Mobilières (BRVM)",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban population, with Dakar being the primary urban center",
+      "Rural Development": "Focus on improving rural infrastructure and living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on West African and global culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Agriculture", "Mining"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education and improving literacy rates",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air, and Sea transport",
+    "Key Transport Hubs": ["Blaise Diagne International Airport", "Port of Dakar"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Moderate level of political unrest and instability",
+    "Economic Hardships": "High poverty and unemployment rates",
+    "Natural Disasters": ["Floods", "Droughts"],
+    "Health Issues": ["Malaria", "HIV/AIDS", "COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "67.5 years",
+    "Infant Mortality Rate": "34.0 deaths/1,000 live births",
+    "Health Expenditure of GDP": "5.3% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "6.0% (2020)",
+    "Literacy Rate": {
+      "Total": "52.1%",
+      "Male": "61.8%",
+      "Female": "42.9%"
+    }
   }
 }
