@@ -1,119 +1,222 @@
 {
-    "Mongolia": {
-        "Official Names": {
-            "Mongolian": "Монгол Улс",
-            "Mongolian Script": "ᠮᠤᠩᠭᠤᠯ ᠤᠯᠤᠰ"
-        },
-        "Symbols": {
-            "Flag": "Flag of Mongolia",
-            "Emblem": "Emblem of Mongolia",
-            "Anthem": {
-                "Title": "Mongol ulsyn töriin duulal",
-                "Translation": "National Anthem of Mongolia",
-                "Duration": "1 minute and 40 seconds"
-            }
-        },
-        "Location and Geography": {
-            "Continent": "East Asia",
-            "Borders": {
-                "North": "Russia",
-                "South": "China",
-                "Proximity to Kazakhstan": "37 km from the western extremity"
-            },
-            "Area": "1,564,116 square kilometers",
-            "Terrain": {
-                "Major": ["Grassy steppe", "Mountains in the north and west", "Gobi Desert in the south"]
-            },
-            "Capital and Largest City": "Ulaanbaatar",
-            "Water Percentage": "0.67%"
-        },
-        "Demographics": {
-            "Population": {
-                "2020 Estimate": "3,227,863",
-                "Density": "2.07 per km2"
-            },
-            "Ethnic Groups": {
-                "2020 Statistics": {
-                    "Mongols": "95%",
-                    "Kazakhs": "4%",
-                    "Others": "1%"
-                }
-            },
-            "Religion": {
-                "2020 Statistics": {
-                    "Buddhism": "51.7%",
-                    "No religion": "40.6%",
-                    "Islam": "3.2%",
-                    "Shamanism": "2.5%",
-                    "Christianity": "1.3%",
-                    "Others": "0.7%"
-                }
-            },
-            "Languages": {
-                "Official": "Mongolian",
-                "Scripts": ["Cyrillic", "Traditional Mongolian"]
-            }
-        },
-        "Government and Politics": {
-            "Type": "Unitary semi-presidential republic",
-            "President": "Ukhnaagiin Khürelsükh",
-            "Prime Minister": "Luvsannamsrain Oyun-Erdene",
-            "State Great Khural Chairman": "Gombojavyn Zandanshatar",
-            "Legislature": "State Great Khural",
-            "Formation History": {
-                "Xiongnu Confederacy": "209 BC",
-                "Mongol Empire": "1206",
-                "Qing Dynasty Conquest Completion": "1691",
-                "Independence from Qing": "29 December 1911",
-                "Mongolian People's Republic": "26 November 1924",
-                "Current Constitution": "13 February 1992"
-            }
-        },
-        "Economy": {
-            "GDP (PPP) 2023 Estimate": {
-                "Total": "$52.989 billion",
-                "Per Capita": "$15,087"
-            },
-        "GDP (Nominal) 2023 Estimate": {
-            "Total": "$18.782 billion",
-            "Per Capita": "$5,348"
-        },
-        "Gini Index (2018)": "32.7",
-        "HDI (2021)": "0.739",
-        "Currency": "Tögrög (MNT)"
-    },
-    "Infrastructure": {
-        "Time Zone": ["UTC+7", "UTC+8"],
-        "Date Format": "yyyy.mm.dd (CE)",
-        "Driving Side": "right",
-        "Calling Code": "+976",
-        "ISO 3166 Code": "MN",
-        "Internet TLD": [".mn", ".мон"]
-    },
-    "Culture": {
-        "Nomadic Heritage": "Approximately 30% of the population is nomadic or semi-nomadic",
-        "Horse Culture": "Integral part of the society",
-        "Religious Affiliations": {
-            "Majority": "Buddhism",
-            "Others": ["Shamanism", "Islam", "Christianity"]
-        },
-        "Ethnic Diversity": "Predominantly ethnic Mongols with a significant Kazakh minority",
-        "International Affiliations": ["United Nations", "Asia Cooperation Dialogue", "G77", "Asian Infrastructure Investment Bank", "Non-Aligned Movement", "NATO global partner", "World Trade Organization"]
-    },
-    "Historical Context": {
-        "Ancient Empires": ["Xiongnu", "Xianbei", "Rouran", "First Turkic Khaganate", "Second Turkic Khaganate", "Uyghur Khaganate"],
-        "Mongol Empire": "Founded by Genghis Khan in 1206",
-        "Yuan Dynasty": "Established by Kublai Khan",
-        "Post-Yuan Era": "Retreat to Mongolia with a pattern of factional conflict",
-        "Tibetan Buddhism": "Spread in the 16th century",
-        "Qing Dynasty": "Absorbed Mongolia in the 17th century",
-        "20th Century": {
-            "Early": "Large Buddhist monk population",
-            "1911": "Independence declared from Qing dynasty",
-            "1921": "Achieved independence from the Republic of China",
-            "1924": "Mongolian People's Republic as a socialist state",
-            "1989-1992": "Democratic revolution and transition to a market economy"
-        }
+  "Name": {
+    "Common": "Mongolia",
+    "Official": {
+      "Mongolian": "Монгол Улс",
+      "Mongolian Script": "ᠮᠤᠩᠭᠤᠯ ᠤᠯᠤᠰ"
     }
-}
+  },
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Emblem URL": "URL_to_emblem_image",
+    "Anthem": {
+      "Title": "Mongol ulsyn töriin duulal",
+      "Translation": "National Anthem of Mongolia",
+      "Duration": "1 minute and 40 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Asia",
+    "Region": "East Asia",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Ulaanbaatar",
+        "Latitude": "47°55′N",
+        "Longitude": "106°55′E"
+      }
+    },
+    "Location": "East Asia, bordered by Russia to the north and China to the south, 37 km from the western extremity of Kazakhstan",
+    "Area": {
+      "Total (sq km)": 1564116,
+      "Rank": "18th",
+      "Water Percentage": "0.67%"
+    },
+    "Borders": {
+      "North": ["Russia"],
+      "South": ["China"]
+    },
+    "Topography": ["Grassy steppe", "Mountains in the north and west", "Gobi Desert in the south"],
+    "Climate": ["Continental"],
+    "Natural Resources": ["Coal", "Copper", "Gold", "Uranium", "Rare earth elements"],
+    "Time Zones": ["UTC+7", "UTC+8"],
+    "Largest City": "Ulaanbaatar"
+  },
+  "Demographics": {
+    "Population": {
+      "2020 Estimate": 3227863,
+      "Density (per sq km)": 2.07
+    },
+    "Ethnic Groups": {
+      "2020 Statistics": {
+        "Mongols": 95,
+        "Kazakhs": 4,
+        "Others": 1
+      }
+    },
+    "Languages": {
+      "Official": ["Mongolian"],
+      "Scripts": ["Cyrillic", "Traditional Mongolian"]
+    },
+    "Religion": {
+      "2020 Statistics": {
+        "Buddhism": 51.7,
+        "No Religion": 40.6,
+        "Islam": 3.2,
+        "Shamanism": 2.5,
+        "Christianity": 1.3,
+        "Others": 0.7
+      }
+    },
+    "Demonym": "Mongolian"
+  },
+  "Government": {
+    "Type": "Unitary semi-presidential republic",
+    "Leaders": {
+      "President": "Ukhnaagiin Khürelsükh",
+      "Prime Minister": "Luvsannamsrain Oyun-Erdene",
+      "State Great Khural Chairman": "Gombojavyn Zandanshatar"
+    },
+    "Legislature": "State Great Khural",
+    "Constitution": "13 February 1992"
+  },
+  "History": {
+    "Formation": {
+      "Xiongnu Confederacy": "209 BC",
+      "Mongol Empire": "1206",
+      "Qing Dynasty Conquest Completion": "1691",
+      "Independence from Qing": "29 December 1911",
+      "Mongolian People's Republic": "26 November 1924",
+      "Current Constitution": "13 February 1992"
+    },
+    "Ancient Empires": ["Xiongnu", "Xianbei", "Rouran", "First Turkic Khaganate", "Second Turkic Khaganate", "Uyghur Khaganate"],
+    "Mongol Empire": "Founded by Genghis Khan in 1206",
+    "Yuan Dynasty": "Established by Kublai Khan",
+    "Post-Yuan Era": "Retreat to Mongolia with a pattern of factional conflict",
+    "Tibetan Buddhism": "Spread in the 16th century",
+    "Qing Dynasty": "Absorbed Mongolia in the 17th century",
+    "20th Century": {
+      "Early": "Large Buddhist monk population",
+      "1911": "Independence declared from Qing dynasty",
+      "1921": "Achieved independence from the Republic of China",
+      "1924": "Mongolian People's Republic as a socialist state",
+      "1989-1992": "Democratic revolution and transition to a market economy"
+    }
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Mining, agriculture, livestock",
+    "Major Industries": ["Mining", "Agriculture", "Tourism"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 52.989,
+      "Per Capita (USD)": 15087
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 18.782,
+      "Per Capita (USD)": 5348
+    },
+    "Currency": "Tögrög (MNT)",
+    "Gini Index": {
+      "Year": 2018,
+      "Value": 32.7,
+      "Category": "Medium"
+    },
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.739,
+      "Category": "High",
+      "Rank": "99th"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": [
+      "United Nations (UN)",
+      "Asia Cooperation Dialogue",
+      "G77",
+      "Asian Infrastructure Investment Bank (AIIB)",
+      "Non-Aligned Movement",
+      "NATO global partner",
+      "World Trade Organization (WTO)"
+    ]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+7", "UTC+8"],
+    "Date Format": ["yyyy.mm.dd (CE)"],
+    "Driving Side": "Right",
+    "Calling Code": "+976",
+    "ISO 3166 Code": "MN",
+    "Internet TLD": [".mn", ".мон"],
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Lunar New Year (Varies)",
+      "International Women's Day (March 8)",
+      "Labour Day (May 1)",
+      "Independence Day (July 11)",
+      "National Day (November 26)",
+      "Christmas Day (December 25)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of nomadic and settled influences",
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["Nomadic heritage with approximately 30% of the population being nomadic or semi-nomadic", "Horse culture as an integral part of society"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 4.5,
+    "Exports Growth": "Driven by mining and agriculture",
+    "Inflation Rate": "5.2%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Mining", "Agriculture"],
+      "Challenges": "Balancing economic growth with social development"
+    },
+    "Market Performance": {
+      "Equity Market": "N/A",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on East Asian culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Mining", "Agriculture"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail transport",
+    "Key Transport Hubs": ["Ulaanbaatar", "Darkhan"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Moderate level of political unrest and instability",
+    "Economic Hardships": "High poverty and unemployment rates",
+    "Natural Disasters": ["Dzuds (severe winter conditions)"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "70.5 years",
+    "Infant Mortality Rate": "15.9 deaths/1,000 live births",
+    "Health Expenditure of GDP": "5.1% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "5.7% (2020)",
+    "Literacy Rate": {
+      "Total": "98.4%",
+      "Male": "98.6%",
+      "Female": "98.2%"
+    }
+  }
 }
