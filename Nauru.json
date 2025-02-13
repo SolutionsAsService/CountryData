@@ -1,123 +1,210 @@
 {
-  "Nauru": {
-    "General_Information": {
-        "Name":{
-        "Common": "Nauru",
-        "Official": "Republic of Nauru",
-        "Local": "Repubrikin Naoero",
-        },
-      "Type": "Micronation",
-      "Flag": "Flag of Nauru",
-      "Coat_of_Arms": "Coat of arms of Nauru",
-      "Motto": "God's will first",
-      "Anthem": {
-        "Title": "Nauru Bwiema",
-        "Translation": "Nauru, our homeland",
-        "Duration": "1 minute and 19 seconds"
-      },
-      "Location":{
-        "General": "Micronesia, Central Pacific",
-        "nearest neighbour": {"Banaba of Kiribati": { "Distance": "300 km (190 mi)", "Direction": "east" }},
-        "northwest": "Tuvalu":{ "Distance":"1,300 km (810 mi)", "Direction": "northwest"
-        "northeast": "Solomon Islands",
-        "east-northeast": "Papua New Guinea", 
-        "southeast": "Federated States of Micronesia",
-        "south": "Marshall Islands",
+  "Name": {
+    "Common": "Nauru",
+    "Official": "Republic of Nauru",
+    "Native": {
+      "Local": "Repubrikin Naoero"
+    }
+  },
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Coat of Arms URL": "URL_to_coat_of_arms_image",
+    "Motto": "God's will first",
+    "Anthem": {
+      "Title": "Nauru Bwiema",
+      "Translation": "Nauru, our homeland",
+      "Duration": "1 minute and 19 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Oceania",
+    "Region": "Micronesia, Central Pacific",
+    "Coordinates": {
       "Capital": {
         "Name": "Yaren",
-        "Coordinates": "0°31′39″S 166°56′06″E"
+        "Latitude": "-0.5275",
+        "Longitude": "166.935"
       }
+    },
+    "Location": "Island country in Micronesia, Central Pacific",
+    "Area": {
+      "Total (sq km)": 21,
+      "Rank": "193rd",
+      "Water Percentage": "0.57%"
+    },
+    "Borders": {
+      "Ocean": "Pacific Ocean"
+    },
+    "Nearest Neighbours": {
+      "Banaba (Kiribati)": {
+        "Distance": "300 km (190 mi)",
+        "Direction": "east"
       },
-      "Largest_City": "Denigomodu",
-      "Official_Languages": ["Nauruan", "English"],
-      "Demonym": "Nauruan",
-      "Government_Type": "Unitary parliamentary republic with an executive presidency under a non-partisan democracy",
+      "Tuvalu": {
+        "Distance": "1,300 km (810 mi)",
+        "Direction": "northwest"
+      },
+      "Solomon Islands": "Northeast",
+      "Papua New Guinea": "East-northeast",
+      "Federated States of Micronesia": "Southeast",
+      "Marshall Islands": "South"
+    },
+    "Coastline": "30 km",
+    "Topography": ["Low-lying island", "Phosphate plateau"],
+    "Climate": ["Tropical"],
+    "Natural Resources": ["Phosphate rock"],
+    "Time Zones": ["UTC+12"],
+    "Largest City": "Denigomodu"
+  },
+  "Demographics": {
+    "Population": {
+      "2020 Estimate": 10834,
+      "2011 Census": 10084,
+      "Density (per sq km)": 480
+    },
+    "Ethnic Groups": {
+      "2020": {
+        "Nauruan": 88.9,
+        "Other Pacific Islander": 7.6,
+        "Chinese": 3.0,
+        "European": 0.5
+      }
+    },
+    "Languages": {
+      "Official": ["Nauruan", "English"]
+    },
+    "Religion": {
+      "2020": {
+        "Christianity": 95.0,
+        "Other": 5.0
+      }
+    },
+    "Demonym": "Nauruan"
+  },
+  "Government": {
+    "Type": "Unitary parliamentary republic with an executive presidency under a non-partisan democracy",
+    "Leaders": {
       "President": "David Adeang",
-      "Speaker_of_Parliament": "Marcus Stephen",
-      "Independence_Date": "31 January 1968",
-      "Area": {
-        "Total": "21 km2",
-        "Rank": "193rd",
-        "Water_Percentage": "0.57"
-      },
-      "Population": {
-        "2020_Estimate": "10,834",
-        "2011_Census": "10,084",
-        "Density": "480/km2"
-      },
-      "GDP_PPP": {
-        "2021_Estimate": {
-          "Total": "$132 million",
-          "Per_Capita": "$9,995"
-        }
-      },
-      "GDP_Nominal": {
-        "2021_Estimate": {
-          "Total": "$133 million",
-          "Per_Capita": "$10,125"
-        }
-      },
-      "Currency": "Australian dollar (AUD)",
-      "Time_Zone": "UTC+12",
-      "Driving_Side": "left",
-      "Calling_Code": "+674",
-      "ISO_3166_Code": "NR",
-      "Internet_TLD": ".nr",
-      "Settlement_History": "Settled by people from Micronesia circa 1000 BCE"
+      "Speaker of Parliament": "Marcus Stephen"
     },
-    "History": {
-      "Colonial_Period": "Annexed by the German Empire in the late 19th century",
-      "Post_World_War_I": "League of Nations mandate administered by Australia, New Zealand, and the United Kingdom",
-      "World_War_II": "Occupied by Japanese troops",
-      "Post_World_War_II": "Entered into United Nations trusteeship",
-      "Independence": "Gained in 1968"
+    "Legislature": "Parliament of Nauru",
+    "Constitution": "29 January 1968",
+    "Independence from Australia": "31 January 1968"
+  },
+  "History": {
+    "Early Settlement": "Settled by people from Micronesia circa 1000 BCE",
+    "Colonial Period": "Annexed by the German Empire in the late 19th century",
+    "Post World War I": "League of Nations mandate administered by Australia, New Zealand, and the United Kingdom",
+    "World War II": "Occupied by Japanese troops",
+    "Post World War II": "Entered into United Nations trusteeship",
+    "Independence": "Gained in 1968"
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Phosphate mining, foreign aid",
+    "Major Industries": ["Phosphate-rock mining"],
+    "Economic Challenges": ["Resource curse", "Exhaustion of phosphate reserves"],
+    "Economic Aid": "Dependence on Australian aid",
+    "GDP (PPP 2021)": {
+      "Total (Million USD)": 132,
+      "Per Capita (USD)": 9995
     },
-    "Geography": {
-      "Description": "Island country and microstate in Oceania",
-      "Nearest_Neighbour": "Banaba of Kiribati",
-      "Geographical_Position": {
-        "Northwest_of": "Tuvalu",
-        "Northeast_of": "Solomon Islands",
-        "East_Northeast_of": "Papua New Guinea",
-        "Southeast_of": "Federated States of Micronesia",
-        "South_of": "Marshall Islands"
+    "GDP (Nominal 2021)": {
+      "Total (Million USD)": 133,
+      "Per Capita (USD)": 10125
+    },
+    "Currency": "Australian dollar (AUD)",
+    "Gini Index": "N/A",
+    "HDI": {
+      "Year": 2021,
+      "Value": "N/A",
+      "Category": "N/A",
+      "Rank": "N/A"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": [
+      "United Nations (UN)",
+      "Commonwealth of Nations",
+      "Organization of African, Caribbean, and Pacific States"
+    ]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+12"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Left",
+    "Calling Code": "+674",
+    "ISO 3166 Code": "NR",
+    "Internet TLD": ".nr",
+    "Public Holidays": [
+      "Independence Day (January 31)",
+      "Constitution Day (May 17)",
+      "Angam Day (October 26)",
+      "Christmas Day (December 25)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of Micronesian influences",
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["Unique customs and traditions of Nauruan people"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 2.0,
+    "Exports Growth": "Limited due to resource constraints",
+    "Inflation Rate": "3.0%",
+    "Policy Response": {
+      "Focus": "Economic stabilization and diversification",
+      "Areas": ["Phosphate mining", "Tourism"],
+      "Challenges": "Resource depletion and dependence on foreign aid"
+    },
+    "Market Performance": {
+      "Equity Market": "N/A",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
       }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Limited due to small land area"
     },
-    "Politics": {
-      "Government_System": "Unitary parliamentary republic with an executive presidency",
-      "Political_Status": "Non-partisan democracy",
-      "International_Relations": "Member of the United Nations, Commonwealth of Nations, Organization of African, Caribbean, and Pacific States"
+    "Cultural Heritage": {
+      "Influence": "Significant on Micronesian culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
     },
-    "Economy": {
-      "Main_Industry": "Phosphate-rock mining",
-      "Economic_Challenges": "Resource curse, exhaustion of phosphate reserves",
-      "Economic_Aid": "Dependence on Australian aid"
+    "Technology and Innovation": {
+      "Growth Sectors": ["Phosphate mining", "Tourism"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
     },
-    "Demographics": {
-      "Population_Size": "Approximately 10,800",
-      "Ranking": "World's third-smallest population"
-    },
-    "Culture": {
-      "Influences": "Micronesian heritage",
-      "Local_Customs": "Unique customs and traditions of Nauruan people"
-    },
-    "Public_Services": {
-      "Healthcare": "Local healthcare facilities and services",
-      "Education": "Schools and educational institutions"
-    },
-    "Transport": {
-      "Modes_of_Transport": "Road, air, and sea transport facilities"
-    },
-    "Resources": {
-      "Primary_Resource": "Phosphate rock",
-      "Mining_History": "Over a century of strip mining operations"
-    },
-    "Environmental_Impact": {
-      "Damage": "Severe harm to the environment due to phosphate mining"
-    },
-    "Asylum_Seeker_Detention_Centre": {
-      "Establishment": "Hosts the Nauru Regional Processing Centre",
-      "Controversy": "Controversial offshore Australian immigration detention facility"
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Air, and Sea transport",
+    "Key Transport Hubs": ["Nauru International Airport"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Low level of political unrest and instability",
+    "Economic Hardships": "High poverty and unemployment rates",
+    "Natural Disasters": ["Cyclones"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "63.0 years",
+    "Infant Mortality Rate": "30.1 deaths/1,000 live births",
+    "Health Expenditure of GDP": "7.0% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "6.0% (2020)",
+    "Literacy Rate": {
+      "Total": "96.0%",
+      "Male": "97.0%",
+      "Female": "95.0%"
     }
   }
 }
