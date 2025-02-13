@@ -1,114 +1,222 @@
 {
-  "Moldova": {
-  "Country": "Moldova",
-  "OfficialName": "Republic of Moldova",
-  "RomanianName": "Republica Moldova",
-  "Location": {
+  "Name": {
+    "Common": "Moldova",
+    "Official": "Republic of Moldova",
+    "Native": {
+      "Romanian": "Republica Moldova"
+    }
+  },
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Coat of Arms URL": "URL_to_coat_of_arms_image",
+    "Motto": "None",
+    "Anthem": {
+      "Title": "Limba noastră",
+      "Translation": "Our Language",
+      "Duration": "2 minutes and 35 seconds"
+    }
+  },
+  "Geography": {
     "Continent": "Europe",
     "Region": "Eastern Europe",
-    "Coordinates": "47°0′N 28°55′E",
-    "Borders": {
-      "West": "Romania",
-      "North": "Ukraine",
-      "East": "Ukraine",
-      "South": "Ukraine"
+    "Coordinates": {
+      "Capital": {
+        "Name": "Chișinău",
+        "Latitude": "47°0′N",
+        "Longitude": "28°55′E"
+      }
     },
+    "Location": "Eastern Europe, bordered by Romania to the west and Ukraine to the north, east, and south",
     "Area": {
-      "Total": "33,843 km2",
-      "WaterPercentage": 1.4
-    }
+      "Total (sq km)": 33843,
+      "Rank": "135th",
+      "Water Percentage": "1.4%"
+    },
+    "Borders": {
+      "West": ["Romania"],
+      "North": ["Ukraine"],
+      "East": ["Ukraine"],
+      "South": ["Ukraine"]
+    },
+    "Coastline": "None (landlocked)",
+    "Topography": ["Hills", "Plains"],
+    "Climate": ["Moderate continental"],
+    "Natural Resources": ["Lignite", "Phosphorites", "Gypsum", "Limestone"],
+    "Time Zones": ["UTC+2 (EET)", "UTC+3 (EEST) during DST"],
+    "Largest City": "Chișinău"
   },
   "Demographics": {
     "Population": {
-      "2023_Estimate": 2512758,
-      "2014_Census": 2804801,
-      "Density": "82.8/km2"
+      "2023 Estimate": 2512758,
+      "2014 Census": 2804801,
+      "Density (per sq km)": 82.8
     },
-    "EthnicGroups_2014": {
-      "Moldovans_Romanians": "82.07%",
-      "Ukrainians": "6.57%",
-      "Gagauzes": "4.57%",
-      "Russians": "4.06%",
-      "Bulgarians": "1.88%",
-      "Other": "0.85%"
+    "Ethnic Groups": {
+      "2014": {
+        "Moldovans/Romanians": 82.07,
+        "Ukrainians": 6.57,
+        "Gagauzes": 4.57,
+        "Russians": 4.06,
+        "Bulgarians": 1.88,
+        "Other": 0.85
+      }
     },
     "Languages": {
-      "Official": "Romanian",
-      "RecognisedMinorityLanguages": ["Belarusian", "Bulgarian", "Gagauz", "German", "Hebrew", "Polish", "Romani", "Russian", "Ukrainian"]
+      "Official": ["Romanian"],
+      "Recognised Minority": ["Belarusian", "Bulgarian", "Gagauz", "German", "Hebrew", "Polish", "Romani", "Russian", "Ukrainian"]
     },
-    "Religion_2014": {
-      "Christianity": "91.8%",
-      "EasternOrthodoxy": "90.1%",
-      "OtherChristian": "1.7%",
-      "OtherReligions": "0.3%",
-      "NoReligion": "5.5%",
-      "Unspecified": "2.4%"
-    }
+    "Religion": {
+      "2014": {
+        "Christianity": 91.8,
+        "Eastern Orthodoxy": 90.1,
+        "Other Christian": 1.7,
+        "Other Religions": 0.3,
+        "No Religion": 5.5,
+        "Unspecified": 2.4
+      }
+    },
+    "Demonym": "Moldovan"
   },
   "Government": {
     "Type": "Unitary parliamentary republic",
-    "President": "Maia Sandu",
-    "PrimeMinister": "Dorin Recean",
-    "PresidentOfParliament": "Igor Grosu",
-    "Legislature": "Parliament"
+    "Leaders": {
+      "President": "Maia Sandu",
+      "Prime Minister": "Dorin Recean",
+      "President of Parliament": "Igor Grosu"
+    },
+    "Legislature": "Parliament",
+    "Constitution": "29 July 1994"
+  },
+  "History": {
+    "Moldavian Principality": "Established in 1346",
+    "Union with Romania": "9 April 1918",
+    "Moldavian SSR": "Established on 2 August 1940",
+    "Independence from Soviet Union": "27 August 1991",
+    "Constitution Adopted": "29 July 1994"
   },
   "Economy": {
-    "GDP_PPP_2023": {
-      "Total": "$42.217 billion",
-      "PerCapita": "$16,915"
+    "Status": "Developing country",
+    "Dependence": "Agriculture, remittances",
+    "Major Industries": ["Agriculture", "Food processing", "Textiles"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 42.217,
+      "Per Capita (USD)": 16915
     },
-    "GDP_Nominal_2023": {
-      "Total": "$16.000 billion",
-      "PerCapita": "$6,410"
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 16.000,
+      "Per Capita (USD)": 6410
     },
-    "GiniCoefficient_2019": "26.0",
-    "HDI_2021": "0.767",
     "Currency": "Moldovan leu (MDL)",
-    "Budget_2024": {
-      "Revenues": "66.6 billion lei",
-      "Expenditures": "82 billion lei",
-      "Deficit": "15.6 billion lei",
-      "Deficit_PercentageOfGDP": "4.6%"
+    "Gini Index": {
+      "Year": 2019,
+      "Value": 26.0,
+      "Category": "Low"
+    },
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.767,
+      "Category": "High",
+      "Rank": "80th"
+    },
+    "Budget (2024)": {
+      "Revenues (Billion MDL)": 66.6,
+      "Expenditures (Billion MDL)": 82.0,
+      "Deficit (Billion MDL)": 15.6,
+      "Deficit (% of GDP)": 4.6
     }
   },
-  "SocialIssues": {
-    "Poverty": "Second poorest country in Europe by GDP per capita",
-    "Development": "One of the lowest HDIs in Europe",
-    "Innovation": "60th in Global Innovation Index 2023"
-  },
-  "CulturalAspects": {
-    "Anthem": "Limba noastră",
-    "Flag": "Flag of Moldova",
-    "CoatOfArms": "Coat of arms of Moldova",
-    "NationalHolidays": [
-      "New Year's Day",
-      "Orthodox Christmas Day",
-      "International Women's Day",
-      "Labour Day",
-      "Orthodox Easter",
-      "Victory Day",
-      "Independence Day",
-      "Romanian Language Day",
-      "Catholic Christmas"
-    ],
-    "Participation": [
-      "Eurovision Song Contest 2024"
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": [
+      "United Nations (UN)",
+      "Council of Europe",
+      "World Trade Organization (WTO)",
+      "Organization for Security and Co-operation in Europe (OSCE)",
+      "GUAM Organization for Democracy and Economic Development (GUAM)",
+      "Black Sea Economic Cooperation (BSEC)",
+      "Association Trio (with Georgia and Ukraine)"
     ]
   },
-  "ExternalRelations": {
-    "UN_Member": true,
-    "CouncilOfEurope_Member": true,
-    "WTO_Member": true,
-    "OSCE_Member": true,
-    "GUAM_Member": true,
-    "BlackSeaEconomicCooperation_Member": true,
-    "AssociationTrio_Member": true
+  "Miscellaneous": {
+    "Time Zone": ["UTC+2 (EET)", "UTC+3 (EEST) during DST"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+373",
+    "ISO 3166 Code": "MD",
+    "Internet TLD": ".md",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Orthodox Christmas Day (January 7)",
+      "International Women's Day (March 8)",
+      "Labour Day (May 1)",
+      "Orthodox Easter (Varies)",
+      "Victory Day (May 9)",
+      "Independence Day (August 27)",
+      "Romanian Language Day (August 31)",
+      "Catholic Christmas (December 25)"
+    ]
   },
-  "HistoricalContext": {
-    "MoldavianPrincipality_Origin": "1346",
-    "UnionWithRomania": "9 April 1918",
-    "MoldavianSSR_Establishment": "2 August 1940",
-    "IndependenceFromSovietUnion": "27 August 1991",
-    "ConstitutionAdopted": "29 July 1994"
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of Romanian and Russian influences",
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["Participation in Eurovision Song Contest", "Famous for its wine industry"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.0,
+    "Exports Growth": "Driven by agriculture and food processing",
+    "Inflation Rate": "5.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Agriculture", "Food processing"],
+      "Challenges": "Balancing economic growth with social development"
+    },
+    "Market Performance": {
+      "Equity Market": "N/A",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Romanian and Eastern European culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Agriculture", "Food processing"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail transport",
+    "Key Transport Hubs": ["Chișinău", "Bălți"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Moderate level of political unrest and instability",
+    "Economic Hardships": "High poverty and unemployment rates",
+    "Natural Disasters": ["Floods"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "72.2 years",
+    "Infant Mortality Rate": "12.7 deaths/1,000 live births",
+    "Health Expenditure of GDP": "4.2% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "4.9% (2020)",
+    "Literacy Rate": {
+      "Total": "99.4%",
+      "Male": "99.6%",
+      "Female": "99.2%"
+    }
   }
 }
