@@ -1,172 +1,288 @@
 {
-  "South Africa": {
-  "CommonName": "South Africa",
-  "FullName": "Republic of South Africa",
-  "OtherName": [
-  {"Union of South Africa"},
-  { "Zulu":	"iRiphabhuliki yaseNingizimu Afrika"},
-  {"Xhosa": "iRiphabhlikhi yoMzantsi Afrika"},
-  {"Afrikaans": "Republiek van Suid-Afrika"},
-  {"Pedi": "Repabliki ya Afrika-Borwa"},
-  {"Southern Sotho":	"Rephaboliki ya Afrika Borwa"},
-  {"Tswana":	"Rephaboliki ya Aforika Borwa",
-  {"Tsonga":	"Riphabliki ya Afrika Dzonga",
-  {"Swati": "iRiphabhulikhi yaseNingizimu-Afrika",
-  {"Venda": "Riphabuḽiki ya Afurika Tshipembe",
-  {"Southern Ndebele":	"iRiphabliki yeSewula Afrika"
-  ],
-  "Type": {
-    "Status": [ "Post Colonial", "Failed State" ],
+  "Name": {
+    "Common": "South Africa",
+    "Official": "Republic of South Africa",
+    "Native": {
+      "Zulu": "iRiphabhuliki yaseNingizimu Afrika",
+      "Xhosa": "iRiphabhlikhi yoMzantsi Afrika",
+      "Afrikaans": "Republiek van Suid-Afrika",
+      "Pedi": "Repabliki ya Afrika-Borwa",
+      "Southern Sotho": "Rephaboliki ya Afrika Borwa",
+      "Tswana": "Rephaboliki ya Aforika Borwa",
+      "Tsonga": "Riphabliki ya Afrika Dzonga",
+      "Swati": "iRiphabhulikhi yaseNingizimu-Afrika",
+      "Venda": "Riphabuḽiki ya Afurika Tshipembe",
+      "Southern Ndebele": "iRiphabliki yeSewula Afrika"
+    }
   },
-    "History": {
-      "PostColonial": ["Dutch", "British"]
-    },
-  "Location": {
+  "Status": ["Post Colonial", "Failed State"],
+  "Symbols": {
+    "Flag": "Flag of South Africa",
+    "Coat of Arms": "Coat of arms of South Africa",
+    "Anthem": {
+      "Title": "Nkosi Sikelel' iAfrika",
+      "Translation": "God Bless Africa",
+      "Duration": "1 minute and 48 seconds"
+    }
+  },
+  "Geography": {
     "Continent": "Africa",
-    "coordinates": "29°00′S 24°00′E",
-    "Border": [
-      {"Namibia": "north"},
-      {"Botswana": "north"},
-      {"Zimbabwe": "north"},
-      {"Mozambique": "east"},
-      {"Eswatini": "east"},
-      {"Lesotho": "enclave"}
-    ],
-    "coastline": "2,798 kilometers"
+    "Coordinates": {
+      "Latitude": "29°00′S",
+      "Longitude": "24°00′E"
+    },
+    "Location": "Southernmost country in Africa, bordered by Namibia, Botswana, Zimbabwe, Mozambique, Eswatini, and Lesotho (enclave).",
+    "Area": {
+      "Total (sq km)": 1221037,
+      "Rank": "24th",
+      "Coastline": "2,798 kilometers",
+      "Terrain": "Diverse, including plateaus, mountains, and coastal plains",
+      "Climate": ["Desert", "Subtropical", "Mediterranean-like"]
+    },
+    "Natural Resources": ["Gold", "Diamonds", "Platinum", "Coal", "Iron ore", "Manganese", "Nickel", "Uranium"],
+    "Time Zones": ["UTC+2"],
+    "Largest City": "Johannesburg"
   },
-  "CapitalCity": {
-    "Number": 3,
-    "Executive": "Pretoria",
-    "Legislative": "Cape Town",
-    "Judicial": "Bloemfontein"
-  },
-  "largest_city": "Johannesburg",
-  "official_languages": [
-    "Afrikaans", "English", "Ndebele", "Sepedi", "Sesotho", "Setswana", "South African Sign Language", "Swazi", "Tshivenda", "Xhosa", "Xitsonga", "Zulu"
-  ],
-  "Ethnic": {
-    "2022": {
-      "Black": "81.4%",
-      "Coloured": "8.2%",
-      "White": "7.3%",
-      "Asian": "2.7%"
-    }
-  },
-  "Religion": {
-    "2016": {
-      "Christianity": "78.0%",
-      "Protestantism": "58.3%",
-      "Other_Christian": "19.7%",
-      "No_Religion": "10.9%",
-      "Traditional_Faiths": "4.4%",
-      "Islam": "1.7%",
-      "Hinduism": "1.0%",
-      "Other": "2.7%",
-      "Undetermined": "1.4%"
-    }
-  },
-  "Government": {
-    "type": "Unitary parliamentary republic with an executive presidency",
-    "Classification": "One Party Dominant - ANC",
-    "president": "Cyril Ramaphosa",
-    "deputy_president": "Paul Mashatile",
-    "chairperson_national_council": "Amos Masondo",
-    "speaker_national_assembly": "Nosiviwe Mapisa-Nqakula",
-    "chief_justice": "Raymond Zondo"
-  },
-  "legislature": {
-    "upper_house": "National Council",
-    "lower_house": "National Assembly"
-  },
-  "independence": {
-    "from_United_Kingdom": {
-      "union": "31 May 1910",
-      "statute_of_westminster": "11 December 1931",
-      "republic": "31 May 1961",
-      "democratisation": "27 April 1994"
-    }
-  },
-  "area": {
-    "total": "1,221,037 km²",
-    "rank": "24th"
-  },
-  "population": {
-    "2022_census": "62,027,503",
-    "rank": "23rd",
-    "density": "50.8/km²"
-  },
-  "economy": {
-    "classification": "Middle income country",
-    "natural_resources": "Abundant",
-    "stock_exchange": "Top twenty globally",
-    "challenges": {
-      "electricity_supply_shortages": {
-        "start_year": 2007,
-        "daily_duration": "up to 9 hours",
-        "impacts": ["economic activity", "operating costs"]
-      },
-      "structural_growth_weakness": true,
-      "COVID-19_impact": true,
-      "unemployment_rate": "Not fully recovered since pandemic",
-      "inequality": "Among highest globally",
-      "poverty_rate": "Estimated 63% in 2022",
-      "Corruption": true,
-      "InfrastructureDecay": {
-           "IndustialCargoByRoad": "70 percent",
-           "Transnet2022Loss; "306,000,000",
-           "WastewaterPlantFalure: "2/3",
-      
-           
+  "Demographics": {
+    "Population": {
+      "2022 Census": 62027503,
+      "Density (per sq km)": 50.8,
+      "Rank": "23rd"
+    },
+    "Ethnic Groups": {
+      "2022": {
+        "Black": 81.4,
+        "Coloured": 8.2,
+        "White": 7.3,
+        "Asian": 2.7
       }
     },
-    "GDP_growth": {
+    "Languages": {
+      "Official": ["Afrikaans", "English", "Ndebele", "Sepedi", "Sesotho", "Setswana", "South African Sign Language", "Swazi", "Tshivenda", "Xhosa", "Xitsonga", "Zulu"]
+    },
+    "Religion": {
+      "2016": {
+        "Christianity": 78.0,
+        "Protestantism": 58.3,
+        "Other Christian": 19.7,
+        "No Religion": 10.9,
+        "Traditional Faiths": 4.4,
+        "Islam": 1.7,
+        "Hinduism": 1.0,
+        "Other": 2.7,
+        "Undetermined": 1.4
+      }
+    },
+    "Demonym": "South African"
+  },
+  "Government": {
+    "Type": "Unitary parliamentary republic with an executive presidency",
+    "Classification": "One Party Dominant - ANC",
+    "Leaders": {
+      "President": "Cyril Ramaphosa",
+      "Deputy President": "Paul Mashatile",
+      "Chairperson of the National Council": "Amos Masondo",
+      "Speaker of the National Assembly": "Nosiviwe Mapisa-Nqakula",
+      "Chief Justice": "Raymond Zondo"
+    },
+    "Legislature": {
+      "Upper House": "National Council",
+      "Lower House": "National Assembly"
+    },
+    "Constitution": "4 February 1997",
+    "Independence History": {
+      "From United Kingdom": {
+        "Union": "31 May 1910",
+        "Statute of Westminster": "11 December 1931",
+        "Republic": "31 May 1961",
+        "Democratisation": "27 April 1994"
+      }
+    }
+  },
+  "History": {
+    "Historical Context": {
+      "Colonial History": ["Dutch", "British"],
+      "Post Colonial": ["Dutch", "British"],
+      "Apartheid Era": "1948-1994",
+      "Democratic Era": "Since 1994"
+    }
+  },
+  "Economy": {
+    "Status": "Middle income country",
+    "Dependence": "Mining, Agriculture, Manufacturing, Services",
+    "Major Industries": ["Mining", "Manufacturing", "Services"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 808.6,
+      "Per Capita (USD)": 12980
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 418.0,
+      "Per Capita (USD)": 6710
+    },
+    "Currency": "South African Rand (ZAR)",
+    "Gini Index": {
+      "Year": 2021,
+      "Value": 63.0,
+      "Category": "Very High"
+    },
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.709,
+      "Category": "High",
+      "Rank": "114th"
+    },
+    "Economic Challenges": {
+      "Electricity Supply Shortages": {
+        "Start Year": 2007,
+        "Daily Duration": "Up to 9 hours",
+        "Impacts": ["Economic activity", "Operating costs"]
+      },
+      "Structural Growth Weakness": true,
+      "COVID-19 Impact": true,
+      "Unemployment Rate": "Not fully recovered since pandemic",
+      "Inequality": "Among highest globally",
+      "Poverty Rate": "Estimated 63% in 2022",
+      "Corruption": true,
+      "Infrastructure Decay": {
+        "Industrial Cargo By Road": "70 percent",
+        "Transnet 2022 Loss": "306,000,000",
+        "Wastewater Plant Failure": "2/3"
+      }
+    },
+    "GDP Growth": {
       "2022": "2%",
       "2021": "4.9%"
     },
-    "key_sectors": ["services", "mining", "manufacturing"],
-    "agriculture": {
-      "status": "Net exporter",
-      "focus": ["Wine production", "subsistence farming"],
-      "reforms": ["land reform", "market deregulation"]
+    "Key Sectors": ["Services", "Mining", "Manufacturing"],
+    "Agriculture": {
+      "Status": "Net exporter",
+      "Focus": ["Wine production", "Subsistence farming"],
+      "Reforms": ["Land reform", "Market deregulation"]
     }
   },
-  "demographics": {
-    "diversity": "Multiethnic society",
-    "major_ethnic_groups": ["Basotho", "Xhosa", "Zulu", "Bapedi", "Venda", "Tsonga", "Tswana", "Swazi", "Ndebele"],
-    "white_population_origin": ["Dutch", "Portuguese", "Flemish", "Norwegian", "German", "Greek", "English", "French Huguenot", "Polish", "Italian", "Irish", "Welsh", "Scottish"],
-    "language_divisions": {
-      "Afrikaans_speakers": "Mostly Coloured and White South Africans",
-      "English_speakers": "Common in public and commercial life"
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": [
+      "United Nations (UN)",
+      "African Union (AU)",
+      "Southern African Development Community (SADC)",
+      "BRICS",
+      "Commonwealth of Nations",
+      "World Trade Organization (WTO)"
+    ]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+2"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Left",
+    "Calling Code": "+27",
+    "ISO 3166 Code": "ZA",
+    "Internet TLD": [".za"],
+    "Public Holidays": [
+      "New Year's Day",
+      "Human Rights Day",
+      "Good Friday",
+      "Family Day",
+      "Freedom Day",
+      "Workers' Day",
+      "Youth Day",
+      "National Women's Day",
+      "Heritage Day",
+      "Day of Reconciliation",
+      "Christmas Day",
+      "Day of Goodwill"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with influences from African, European, and Asian cultures",
+    "Cultural Contributions": ["Music", "Dance", "Art", "Cuisine"],
+    "Unique Features": ["Traditional African music and dance", "South African cuisine with dishes like bobotie and biltong", "Historical sites like Robben Island and the Cradle of Humankind"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 2.3,
+    "Exports Growth": "Driven by mining and manufacturing sectors",
+    "Inflation Rate": "4.5%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Mining", "Manufacturing"],
+      "Challenges": "Balancing economic growth with social development"
+    },
+    "Market Performance": {
+      "Equity Market": "Johannesburg Stock Exchange (JSE)",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
     }
   },
-  "geography": {
-    "coastline_length": "2,500 km",
-    "highest_peak": "Njesuthi, 3,408 meters",
-    "climate_zones": {
-      "deserts": "Northwest",
-      "subtropical": "East",
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban population, with Johannesburg, Cape Town, and Durban being the primary urban centers",
+      "Rural Development": "Focus on improving rural infrastructure and living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on African and global culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Mining", "Manufacturing"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education and improving literacy rates",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air, and Sea transport",
+    "Key Transport Hubs": ["OR Tambo International Airport", "Port of Durban"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Moderate level of political unrest and instability",
+    "Economic Hardships": "High poverty and unemployment rates",
+    "Natural Disasters": ["Droughts", "Floods"],
+    "Health Issues": ["HIV/AIDS", "COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "64.1 years",
+    "Infant Mortality Rate": "25.7 deaths/1,000 live births",
+    "Health Expenditure of GDP": "8.1% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "6.2% (2020)",
+    "Literacy Rate": {
+      "Total": "94.3%",
+      "Male": "95.0%",
+      "Female": "93.6%"
+    }
+  },
+  "Geography": {
+    "Coastline Length": "2,500 km",
+    "Highest Peak": "Njesuthi, 3,408 meters",
+    "Climate Zones": {
+      "Deserts": "Northwest",
+      "Subtropical": "East",
       "Mediterranean-like": "Southwest"
     },
-    "landscapes": {
-      "Highveld_plateau": "Central",
+    "Landscapes": {
+      "Highveld Plateau": "Central",
       "Bushveld": "North of Johannesburg",
       "Lowveld": "Towards Indian Ocean"
     },
-    "Drakensberg_Mountains": {
-      "skiing_opportunities": "Limited",
-      "Prince_Edward_Islands": "Only possession"
+    "Drakensberg Mountains": {
+      "Skiing Opportunities": "Limited",
+      "Prince Edward Islands": "Only possession"
     }
   },
-  "flora_fauna": {
-    "plant_diversity": "Over 20,000 different plants",
-    "dominant_biome": "Grassland",
-    "fynbos_biome": {
-      "location": "Western Cape",
-      "floral_diversity": "One of the richest"
+  "Flora Fauna": {
+    "Plant Diversity": "Over 20,000 different plants",
+    "Dominant Biome": "Grassland",
+    "Fynbos Biome": {
+      "Location": "Western Cape",
+      "Floral Diversity": "One of the richest"
     },
-    "forested_area": "Only 1%",
-    "wildlife": ["lions", "leopards", "kudus", "blue wildebeest", "white rhinos", "impalas", "hyenas", "hippopotamus", "giraffes"],
-    "conservation_areas": ["Kruger National Park", "Mala Mala Reserve"]
+    "Forested Area": "Only 1%",
+    "Wildlife": ["Lions", "Leopards", "Kudus", "Blue Wildebeest", "White Rhinos", "Impalas", "Hyenas", "Hippopotamus", "Giraffes"],
+    "Conservation Areas": ["Kruger National Park", "Mala Mala Reserve"]
   }
-}
 }
