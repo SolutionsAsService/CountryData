@@ -1,104 +1,208 @@
 {
-  "Federated_States_of_Micronesia": {
-    "basic_information": {
-      "official_name": "The Federated States of Micronesia",
-      "abbreviation": "FSM",
-      "motto": "Peace, Unity, Liberty",
-      "anthem": "Patriots of Micronesia",
-      "duration_of_anthem": "2 minutes and 3 seconds",
-      "capital": "Palikir",
-      "coordinates_of_capital": "6°55′N 158°11′E",
-      "largest_town": "Weno",
-      "official_language": "English",
-      "recognized_regional_languages": ["Chuukese", "Kosraean", "Pohnpeian", "Yapese"],
-      "flag_description": "Flag of the Federated States of Micronesia",
-      "seal_description": "Seal of the Federated States of Micronesia",
-      "internet_TLD": ".fm",
-      "website": "FSMGov.org"
-    },
-    "demographics": {
-      "ethnic_groups": {
-        "Chuukese": "48.8%",
-        "Pohnpeian": "24.2%",
-        "Kosraean": "6.2%",
-        "Yapese": "5.2%",
-        "Outer_Yapese": "4.5%",
-        "Asian": "1.8%",
-        "Polynesian": "1.5%",
-        "other": "6.4%",
-        "unknown": "1.4%"
-      },
-      "religion": {
-        "Christianity": {
-          "total": "95.3%",
-          "Roman_Catholic": "52.6%",
-          "Protestant": "41.7%",
-          "other_Christian": "1.0%"
-        },
-        "folk_religions": "4.1%",
-        "none_other": "0.6%"
-      },
-      "population_estimate_2019": "104,468",
-      "population_density": "158.1/km2"
-    },
-    "government": {
-      "type": "Federal assembly-independent republic under a non-partisan democracy",
-      "president": "Wesley Simina",
-      "vice_president": "Aren Palik",
-      "legislature": "Congress",
-      "independence_from_USA": {
-        "republic_proclaimed": "May 10, 1979",
-        "compact_of_free_association": "November 3, 1986"
+  "Name": {
+    "Common": "Federated States of Micronesia",
+    "Official": "The Federated States of Micronesia",
+    "Abbreviation": "FSM",
+    "Native": {
+      "English": "Federated States of Micronesia"
+    }
+  },
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Seal URL": "URL_to_seal_image",
+    "Motto": "Peace, Unity, Liberty",
+    "Anthem": {
+      "Title": "Patriots of Micronesia",
+      "Duration": "2 minutes and 3 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Oceania",
+    "Region": "Micronesia",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Palikir",
+        "Latitude": "6°55′N",
+        "Longitude": "158°11′E"
       }
     },
-    "geography": {
-      "total_area": "702 km2",
-      "water_percentage": "negligible",
-      "number_of_islands": "approximately 607",
-      "main_islands": ["Yap", "Chuuk", "Pohnpei", "Kosrae"],
-      "location": {
-        "longitude_range": "approximately 2,700 km",
-        "position": ["north of the equator", "northeast of Indonesia and Papua New Guinea", "south of Guam and the Marianas", "west of Nauru and the Marshall Islands", "east of Palau and the Philippines"],
-        "proximity_to_other_countries": ["2,900 km north of eastern Australia", "3,400 km southeast of Japan", "4,000 km southwest of the Hawaiian Islands"]
-      },
-      "exclusive_economic_zone": "nearly 3 million km2"
+    "Location": "North of the equator, northeast of Indonesia and Papua New Guinea, south of Guam and the Marianas, west of Nauru and the Marshall Islands, east of Palau and the Philippines",
+    "Area": {
+      "Total (sq km)": 702,
+      "Rank": "175th",
+      "Water Percentage": "Negligible",
+      "Exclusive Economic Zone (sq km)": 3000000
     },
-    "economy": {
-      "GDP_PPP_2019_estimate": {
-        "total": "$367 million",
-        "per_capita": "$3,584"
-      },
-      "GDP_nominal_2019_estimate": {
-        "total": "$383 million",
-        "per_capita": "$3,735"
-      },
-      "Gini_index_2013": "40.1 (medium)",
-      "HDI_2021": "0.628 (medium, 134th)",
-      "currency": "United States dollar (USD)"
+    "Borders": {
+      "Ocean": "Pacific Ocean"
     },
-    "society": {
-      "education": {},
-      "healthcare": {},
-      "media": {},
-      "cultural_practices": {}
+    "Coastline": "N/A",
+    "Topography": ["Islands", "Atolls"],
+    "Climate": ["Tropical"],
+    "Natural Resources": ["Fish", "Forests", "Marine products"],
+    "Time Zones": ["UTC+10", "UTC+11"],
+    "Largest City": "Weno",
+    "Main Islands": ["Yap", "Chuuk", "Pohnpei", "Kosrae"],
+    "Number of Islands": "Approximately 607"
+  },
+  "Demographics": {
+    "Population": {
+      "2019 Estimate": 104468,
+      "Density (per sq km)": 158.1
     },
-    "transportation": {
-      "infrastructure": {},
-      "public_transport": {},
-      "airports": {},
-      "ports_and_harbors": {}
+    "Ethnic Groups": {
+      "2019": {
+        "Chuukese": 48.8,
+        "Pohnpeian": 24.2,
+        "Kosraean": 6.2,
+        "Yapese": 5.2,
+        "Outer Yapese": 4.5,
+        "Asian": 1.8,
+        "Polynesian": 1.5,
+        "Other": 6.4,
+        "Unknown": 1.4
+      }
     },
-    "sports": {},
-    "culture": {
-      "traditional_cultural_practices": {},
-      "arts_and_music": {},
-      "cuisine": {},
-      "festivals": {}
+    "Languages": {
+      "Official": ["English"],
+      "Recognised Regional": ["Chuukese", "Kosraean", "Pohnpeian", "Yapese"]
     },
-    "history": {
-      "pre_colonial_period": {},
-      "colonial_history": {},
-      "post_independence": {}
+    "Religion": {
+      "2019": {
+        "Christianity": {
+          "Total": 95.3,
+          "Roman Catholic": 52.6,
+          "Protestant": 41.7,
+          "Other Christian": 1.0
+        },
+        "Folk Religions": 4.1,
+        "None/Other": 0.6
+      }
+    },
+    "Demonym": "Micronesian"
+  },
+  "Government": {
+    "Type": "Federal assembly-independent republic under a non-partisan democracy",
+    "Leaders": {
+      "President": "Wesley Simina",
+      "Vice President": "Aren Palik"
+    },
+    "Legislature": "Congress",
+    "Constitution": "10 May 1979"
+  },
+  "History": {
+    "Pre-Colonial Period": "Early settlement by Micronesian peoples",
+    "Colonial History": "Spanish rule, German administration, Japanese mandate, US trusteeship",
+    "Independence": {
+      "Republic Proclaimed": "10 May 1979",
+      "Compact of Free Association": "3 November 1986"
+    }
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Fishing, subsistence agriculture, US aid",
+    "Major Industries": ["Fishing", "Agriculture", "Tourism"],
+    "GDP (PPP 2019)": {
+      "Total (Million USD)": 367,
+      "Per Capita (USD)": 3584
+    },
+    "GDP (Nominal 2019)": {
+      "Total (Million USD)": 383,
+      "Per Capita (USD)": 3735
+    },
+    "Currency": "United States dollar (USD)",
+    "Gini Index": {
+      "Year": 2013,
+      "Value": 40.1,
+      "Category": "Medium"
+    },
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.628,
+      "Category": "Medium",
+      "Rank": "134th"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": ["United Nations (UN)", "Pacific Community (SPC)", "Pacific Islands Forum (PIF)"]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+10", "UTC+11"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+691",
+    "ISO 3166 Code": "FM",
+    "Internet TLD": ".fm",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Constitution Day (May 10)",
+      "Independence Day (November 3)",
+      "Christmas Day (December 25)",
+      "Good Friday (Varies)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of Micronesian and colonial influences",
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["Traditional navigation skills", "Micronesian stick charts"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 2.0,
+    "Exports Growth": "Driven by fishing and tourism",
+    "Inflation Rate": "2.5%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Fishing", "Tourism"],
+      "Challenges": "Balancing economic growth with environmental protection"
+    },
+    "Market Performance": {
+      "Equity Market": "N/A",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Micronesian culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Fishing", "Tourism"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Sea, Air transport",
+    "Key Transport Hubs": ["Palikir", "Weno"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Low level of political unrest and instability",
+    "Economic Hardships": "High unemployment and poverty rates",
+    "Natural Disasters": ["Typhoons"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "68.5 years",
+    "Infant Mortality Rate": "23.5 deaths/1,000 live births",
+    "Health Expenditure of GDP": "12.1% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "7.2% (2020)",
+    "Literacy Rate": {
+      "Total": "89.3%",
+      "Male": "90.1%",
+      "Female": "88.5%"
     }
   }
 }
