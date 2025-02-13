@@ -1,85 +1,233 @@
 {
-  "Oman": {
-  "FullName": "Sultanate of Oman",
-  "ArabicName": "سلطنة عُمان",
-  "Location": "West Asia",
-  "Geographical Location": {
+  "Name": {
+    "Common": "Oman",
+    "Official": "Sultanate of Oman",
+    "Native": {
+      "Arabic": "سلطنة عُمان"
+    }
+  },
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Coat of Arms URL": "URL_to_coat_of_arms_image",
+    "Motto": "N/A",
+    "Anthem": {
+      "Title": "Nashid as-Salaam as-Sultani",
+      "Translation": "Royal Salute Anthem",
+      "Duration": "1 minute and 15 seconds"
+    }
+  },
+  "Geography": {
     "Continent": "Asia",
-    "Situated": "Southeastern coast of the Arabian Peninsula, spanning the mouth of the Persian Gulf"
-  },
-  "Borders": {
-    "Land Borders": {
-      "Saudi Arabia": "Northwest",
-      "United Arab Emirates": "North",
-      "Yemen": "West"
+    "Coordinates": {
+      "Capital": {
+        "Name": "Muscat",
+        "Latitude": "23.5889° N",
+        "Longitude": "58.4083° E"
+      }
     },
-    "Maritime Borders": {
-      "Iran": "North",
-      "Pakistan": "Northeast"
+    "Location": "Southeastern coast of the Arabian Peninsula, spanning the mouth of the Persian Gulf, bordered by Saudi Arabia to the northwest, United Arab Emirates to the north, and Yemen to the west, with maritime borders with Iran to the north and Pakistan to the northeast",
+    "Area": {
+      "Total (sq km)": 309500,
+      "Rank": "70th",
+      "Water Percentage": "0.1%"
+    },
+    "Borders": {
+      "Land": {
+        "Northwest": ["Saudi Arabia"],
+        "North": ["United Arab Emirates"],
+        "West": ["Yemen"]
+      },
+      "Maritime": {
+        "North": ["Iran"],
+        "Northeast": ["Pakistan"]
+      }
+    },
+    "Topography": ["Deserts", "Mountain ranges", "Coastal plains"],
+    "Climate": ["Arid desert climate"],
+    "Natural Resources": ["Petroleum", "Natural gas", "Copper", "Asbestos", "Marble", "Limestone", "Chromium", "Gypsum"],
+    "Time Zones": ["UTC+04:00"],
+    "Largest City": "Muscat"
+  },
+  "Demographics": {
+    "Population": {
+      "2021 Estimate": 4520471,
+      "Density (per sq km)": 14.6
+    },
+    "Ethnic Groups": {
+      "2021": {
+        "Omani": 88.7,
+        "Non-Omani": 11.3
+      }
+    },
+    "Languages": {
+      "Official": ["Arabic"],
+      "Recognised National": ["Baluchi", "English", "Hindi", "Urdu"]
+    },
+    "Religion": {
+      "2023": {
+        "Islam": 88.9,
+        "Sunni": 47.2,
+        "Ibadi": 35.2,
+        "Shia": 6.5,
+        "Hinduism": 5.5,
+        "Christianity": 3.6,
+        "Others": 2.0
+      }
+    },
+    "Demonym": "Omani"
+  },
+  "Government": {
+    "Type": "Unitary Islamic absolute monarchy",
+    "Leaders": {
+      "Sultan": "Haitham bin Tariq",
+      "Crown Prince": "Theyazin bin Haitham"
+    },
+    "Legislature": {
+      "Council of Oman": {
+        "Upper House": "Council of State (Majlis al-Dawla)",
+        "Lower House": "Consultative Assembly (Majlis al-Shura)"
+      }
+    },
+    "Constitution": "6 November 1996 (established); 2011 (amended); 2021 (amended)",
+    "Independence History": {
+      "Azd Tribe Migration": "130",
+      "Al-Julanda": "629",
+      "Imamate Established": "751",
+      "Nabhani Dynasty": "1154",
+      "Portuguese Rule": "1507–1656",
+      "Yaruba Dynasty": "1624",
+      "Al Said Dynasty": "1744",
+      "Muscat and Oman": "8 January 1856",
+      "Sultanate of Oman": "9 August 1970"
     }
   },
-  "Capital and Largest City": {
-    "Name": "Muscat",
-    "Coordinates": "23°35′20″N 58°24′30″E"
-  },
-  "Official Language": "Arabic",
-  "Religion (2023)": {
-    "Islam (Official)": "88.9%",
-    "Sunni": "47.2%",
-    "Ibadi": "35.2%",
-    "Shia": "6.5%",
-    "Hinduism": "5.5%",
-    "Christianity": "3.6%",
-    "Others": "2.0%"
-  },
-  "Government": "Unitary Islamic absolute monarchy",
-  "Leaders": {
-    "Sultan": "Haitham bin Tariq",
-    "Crown Prince": "Theyazin bin Haitham"
-  },
-  "Legislature": {
-    "Council of Oman": {
-      "Upper House": "Council of State (Majlis al-Dawla)",
-      "Lower House": "Consultative Assembly (Majlis al-Shura)"
+  "History": {
+    "Establishment History": {
+      "Azd Tribe Migration": "130",
+      "Al-Julanda": "629",
+      "Imamate Established": "751",
+      "Nabhani Dynasty": "1154",
+      "Portuguese Rule": "1507–1656",
+      "Yaruba Dynasty": "1624",
+      "Al Said Dynasty": "1744",
+      "Muscat and Oman": "8 January 1856",
+      "Sultanate of Oman": "9 August 1970",
+      "Basic Statute": "6 November 1996 (established); 2011 (amended); 2021 (amended)"
     }
   },
-  "Establishment History": {
-    "Azd Tribe Migration": 130,
-    "Al-Julanda": 629,
-    "Imamate Established": 751,
-    "Nabhani Dynasty": 1154,
-    "Portuguese Rule": "1507–1656",
-    "Yaruba Dynasty": 1624,
-    "Al Said Dynasty": 1744,
-    "Muscat and Oman": "8 January 1856",
-    "Sultanate of Oman": "9 August 1970",
-    "Basic Statute": "6 November 1996 (established); 2011 (amended); 2021 (amended)"
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Petroleum, natural gas, tourism, fish trading, agriculture",
+    "Major Industries": ["Petroleum", "Natural gas", "Tourism", "Fish trading", "Agriculture"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 200.295,
+      "Per Capita (USD)": 39336
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 108.282,
+      "Per Capita (USD)": 21265
+    },
+    "Currency": "Omani rial (OMR)",
+    "Gini Index": {
+      "Year": 2018,
+      "Value": 30.75,
+      "Category": "Medium"
+    },
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.816,
+      "Category": "Very High",
+      "Rank": "60th"
+    }
   },
-  "Area": "309,500 km2",
-  "Population (2021)": "4,520,471",
-  "GDP (PPP) 2023": {
-    "Total": "$200.295 billion",
-    "Per Capita": "$39,336"
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": [
+      "United Nations (UN)",
+      "Arab League",
+      "Gulf Cooperation Council (GCC)",
+      "Non-Aligned Movement",
+      "Organisation of Islamic Cooperation (OIC)"
+    ]
   },
-  "GDP (Nominal) 2023": {
-    "Total": "$108.282 billion",
-    "Per Capita": "$21,265"
+  "Miscellaneous": {
+    "Time Zone": ["UTC+04:00"],
+    "Date Format": ["dd.mm.yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+968",
+    "ISO 3166 Code": "OM",
+    "Internet TLD": [".om", "عمان."],
+    "Public Holidays": [
+      "New Year's Day",
+      "Islamic New Year",
+      "Eid al-Fitr",
+      "Eid al-Adha",
+      "Renaissance Day",
+      "National Day",
+      "Christmas Day"
+    ]
   },
-  "Gini (2018)": "30.75 (Medium)",
-  "HDI (2021)": "0.816 (Very High)",
-  "Currency": "Omani rial (OMR)",
-  "Time Zone": "UTC+4",
-  "Date Format": "dd.mm.yyyy",
-  "Driving Side": "right",
-  "Calling Code": "+968",
-  "ISO 3166 Code": "OM",
-  "Internet TLD": [".om", "عمان."],
-  "Key Attributes": {
-    "Oldest Independent State in Arab World": true,
-    "Member of": ["United Nations", "Arab League", "Gulf Cooperation Council", "Non-Aligned Movement", "Organisation of Islamic Cooperation"],
-    "Oil Reserves Ranking": "22nd globally",
-    "UNDP Development Ranking (2010)": "Most improved nation in the world in terms of development over 40 years"
+  "Significant Cultural Aspects": {
+    "Legacy": "Oldest independent state in the Arab world",
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["Blend of Arab, African, and Indian influences", "Rich maritime history"]
   },
-  "Economic Activities": ["Tourism", "Fish Trading", "Agriculture"]
-}
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.5,
+    "Exports Growth": "Driven by petroleum and natural gas",
+    "Inflation Rate": "2.2%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Petroleum", "Natural gas"],
+      "Challenges": "Balancing economic growth with environmental protection"
+    },
+    "Market Performance": {
+      "Equity Market": "Muscat Securities Market",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Arab and global culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Petroleum", "Natural gas"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Air, and Sea transport",
+    "Key Transport Hubs": ["Muscat", "Salalah", "Sohar"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Low level of political unrest and instability",
+    "Economic Hardships": "Moderate poverty and unemployment rates",
+    "Natural Disasters": ["Cyclones"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "77.3 years",
+    "Infant Mortality Rate": "9.2 deaths/1,000 live births",
+    "Health Expenditure of GDP": "4.3% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "5.1% (2020)",
+    "Literacy Rate": {
+      "Total": "95.7%",
+      "Male": "97.3%",
+      "Female": "94.1%"
+    }
+  }
 }
