@@ -1,62 +1,90 @@
 {
-  "Nepal":{
-  "Name": "Nepal",
-  "FullName": "Federal Democratic Republic of Nepal",
-  "NepaliName": "सङ्घीय लोकतान्त्रिक गणतन्त्र नेपाल",
-
-"Motto": "जननी जन्मभूमिश्च स्वर्गादपि गरीयसी (Sanskrit)",
-"MottoRomanized": "Janani Janmabhumishcha Swargadapi Gariyasi",
-"MottoLit.": "Mother and Motherland are Greater Than Heaven",
-    "Anthem": "सयौँ थुँगा फूलका (Nepali)",
-  "AnthemRomanized": "Sayaun Thunga Phulka",
-  "AnthemLit.":"Made of Hundreds of Flowers",
-  "Geography": {
-    "Region": "South Asia",
-    "Terrain": "Himalayas, Indo-Gangetic Plain",
-    "Features": [
-      "Eight of the world's ten tallest mountains",
-      "Mount Everest - the highest point on Earth"
-    ],
-    "Borders": {
-      "North": "Tibet Autonomous Region of China",
-      "SouthEastWest": "India",
-      "CloseProximity": ["Bangladesh", "Bhutan"]
+  "Name": {
+    "Common": "Nepal",
+    "Official": "Federal Democratic Republic of Nepal",
+    "Native": {
+      "Nepali": "सङ्घीय लोकतान्त्रिक गणतन्त्र नेपाल"
     }
   },
-  "Capital": "Kathmandu",
-  "OfficialLanguages": ["Nepali"],
-  "RecognisedNationalLanguages": "All mother-tongues",
-  "EthnicGroups_2011": {
-    "KhasArya": "31.25%",
-    "Chhetri": "16.6%",
-    "Bahun": "12.2%",
-    "Other": "Various"
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Coat of Arms URL": "URL_to_coat_of_arms_image",
+    "Motto": "जननी जन्मभूमिश्च स्वर्गादपि गरीयसी (Janani Janmabhumishcha Swargadapi Gariyasi - Mother and Motherland are Greater Than Heaven)",
+    "Anthem": {
+      "Title": "सयौँ थुँगा फूलका (Sayaun Thunga Phulka)",
+      "Translation": "Made of Hundreds of Flowers",
+      "Duration": "2 minutes"
+    }
   },
-  "Religion_2021": {
-    "Hinduism": "81.19%",
-    "Buddhism": "8.21%",
-    "Islam": "5.09%",
-    "Others": "Various"
+  "Geography": {
+    "Continent": "Asia",
+    "Region": "South Asia",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Kathmandu",
+        "Latitude": "27.7172° N",
+        "Longitude": "85.3240° E"
+      }
+    },
+    "Location": "Landlocked country in South Asia, bordered by the Tibet Autonomous Region of China to the north and India to the south, east, and west, with close proximity to Bangladesh and Bhutan",
+    "Area": {
+      "Total (sq km)": 147516,
+      "Rank": "93rd",
+      "Water Percentage": "2.8%"
+    },
+    "Borders": {
+      "North": ["Tibet Autonomous Region of China"],
+      "South": ["India"],
+      "East": ["India"],
+      "West": ["India"],
+      "Close Proximity": ["Bangladesh", "Bhutan"]
+    },
+    "Topography": ["Himalayas", "Indo-Gangetic Plain"],
+    "Climate": ["Varies from tropical to alpine"],
+    "Natural Resources": ["Water, Hydropower, Minerals, Forests"],
+    "Time Zones": ["UTC+05:45"],
+    "Largest City": "Kathmandu"
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 30000000,
+      "Density (per sq km)": 203.4
+    },
+    "Ethnic Groups": {
+      "2011": {
+        "Khas Arya": 31.25,
+        "Chhetri": 16.6,
+        "Bahun": 12.2,
+        "Other": "Various"
+      }
+    },
+    "Languages": {
+      "Official": ["Nepali"],
+      "Recognised National": ["All mother-tongues"]
+    },
+    "Religion": {
+      "2021": {
+        "Hinduism": 81.19,
+        "Buddhism": 8.21,
+        "Islam": 5.09,
+        "Others": "Various"
+      }
+    },
+    "Demonym": "Nepali"
   },
   "Government": {
     "Type": "Federal parliamentary republic",
     "Leaders": {
       "President": "Ram Chandra Poudel",
-      "PrimeMinister": "Pushpa Kamal Dahal"
-    }
+      "Prime Minister": "Pushpa Kamal Dahal"
+    },
+    "Legislature": {
+      "Upper House": "National Assembly",
+      "Lower House": "House of Representatives"
+    },
+    "Constitution": "20 September 2015"
   },
-  "Economy": {
-    "GDP_PPP_2023": "$150.800 billion",
-    "GDP_Nominal_2023": "$41.339 billion",
-    "MainSectors": ["Agriculture", "Services", "Tourism"]
-  },
-  "Culture": {
-    "MusicAndDance": "Diverse, influenced by altitude and ethnicity",
-    "Languages": "123 spoken, including Nepali, Maithili, Bhojpuri",
-    "Religions": "Hinduism, Buddhism, Islam, Indigenous Kirant",
-    "Festivals": ["Dashain", "Tihar", "Chhath", "Buddha Jayanti"]
-  },
-  "HistoricalContext": {
+  "History": {
     "Ancient": "Vedic period, Birthplace of Gautama Buddha",
     "Medieval": "Newar confederacy, Silk Road trade",
     "Modern": {
@@ -64,10 +92,117 @@
       "Constitution": "2015 - Secular federal parliamentary republic"
     }
   },
-  "EnvironmentalIssues": "High pollution levels",
-  "InternationalRelations": {
-    "UN_Member": "1955",
-    "Treaties": ["India", "China"],
-    "SAARC_FoundingMember": true
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Agriculture, services, tourism",
+    "Major Industries": ["Agriculture", "Services", "Tourism"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 150.800,
+      "Per Capita (USD)": 5000
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 41.339,
+      "Per Capita (USD)": 1378
+    },
+    "Currency": "Nepalese rupee (NPR)",
+    "Gini Index": {
+      "Year": 2023,
+      "Value": 32.8,
+      "Category": "Medium"
+    },
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.602,
+      "Category": "Medium",
+      "Rank": "142nd"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": [
+      "United Nations (UN)",
+      "South Asian Association for Regional Cooperation (SAARC)",
+      "World Trade Organization (WTO)",
+      "Asian Development Bank (ADB)"
+    ]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+05:45"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Left",
+    "Calling Code": "+977",
+    "ISO 3166 Code": "NP",
+    "Internet TLD": ".np",
+    "Public Holidays": [
+      "New Year's Day (April 14)",
+      "Independence Day (February 19)",
+      "Dashain (Varies)",
+      "Tihar (Varies)",
+      "Chhath (Varies)",
+      "Buddha Jayanti (Varies)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of Hindu and Buddhist influences",
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["Eight of the world's ten tallest mountains, including Mount Everest"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 5.5,
+    "Exports Growth": "Driven by agriculture and tourism",
+    "Inflation Rate": "6.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Agriculture", "Tourism"],
+      "Challenges": "Balancing economic growth with environmental protection"
+    },
+    "Market Performance": {
+      "Equity Market": "N/A",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on South Asian culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Agriculture", "Tourism"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Air transport",
+    "Key Transport Hubs": ["Tribhuvan International Airport"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Moderate level of political unrest and instability",
+    "Economic Hardships": "High poverty and unemployment rates",
+    "Natural Disasters": ["Earthquakes"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "70.5 years",
+    "Infant Mortality Rate": "25.6 deaths/1,000 live births",
+    "Health Expenditure of GDP": "5.8% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "4.1% (2020)",
+    "Literacy Rate": {
+      "Total": "67.9%",
+      "Male": "78.6%",
+      "Female": "59.7%"
+    }
   }
 }
