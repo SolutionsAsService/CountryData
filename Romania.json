@@ -1,120 +1,241 @@
 {
-  "Country_Name": "Romania",
-  "Local_Name": "România (Romanian)",
-  "Anthem": "Deșteaptă-te, române! (Awaken thee, Romanian!)",
-  "Location": {
-    "Continent": "Europe",
-    "Borders": [
-      "Ukraine",
-      "Hungary",
-      "Serbia",
-      "Bulgaria",
-      "Moldova",
-      "Black Sea"
-    ],
-    "Geographic_Coordinates": "44°25′N 26°06′E",
-    "Climate": "Predominantly continental"
-  },
-  "Area": {
-    "Total_km2": 238400,
-    "Rank": 81,
-    "Water_Percentage": 3
-  },
-  "Population": {
-    "2023_Estimate": 19051562,
-    "2021_Census": 19053815,
-    "Density_per_km2": 79.9
-  },
-  "GDP": {
-    "PPP_2023_Estimate": {
-      "Total": "$780.797 billion",
-      "Per_Capita": "$41,029"
-    },
-    "Nominal_2023_Estimate": {
-      "Total": "$350.414 billion",
-      "Per_Capita": "$18,413"
+  "Name": {
+    "Common": "Romania",
+    "Official": "Romanian Republic",
+    "Native": {
+      "Romanian": "România"
     }
   },
-  "Ethnic_Groups_2021": {
-    "Romanians": "89.3%",
-    "Hungarians": "6.0%",
-    "Romani": "3.4%",
-    "Others": "1.2%"
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Coat of Arms URL": "URL_to_coat_of_arms_image",
+    "Anthem": {
+      "Title": "Deșteaptă-te, române!",
+      "Translation": "Awaken thee, Romanian!",
+      "Duration": "3 minutes and 15 seconds"
+    }
   },
-  "Religion_2021": {
-    "Christianity": "84.8%",
-    "Romanian_Orthodoxy": "73.4%",
-    "Protestantism": "6.2%",
-    "Catholicism": "4.5%",
-    "Other": "0.7%",
-    "Undeclared": "9.0%"
-  },
-  "Official_Language": "Romanian",
-  "Minority_Languages": [
-    "Albanian",
-    "Armenian",
-    "Bulgarian",
-    "Croatian",
-    "Czech",
-    "German",
-    "Greek",
-    "Italian",
-    "Macedonian",
-    "Hungarian",
-    "Polish",
-    "Portuguese",
-    "Romani",
-    "Russian",
-    "Ruthenian",
-    "Serbian",
-    "Slovak",
-    "Tatar",
-    "Turkish",
-    "Ukrainian",
-    "Yiddish"
-  ],
-  "Government": "Unitary semi-presidential republic",
-  "Leaders": {
-    "President": "Klaus Iohannis",
-    "Prime_Minister": "Marcel Ciolacu"
-  },
-  "Legislature": {
-    "Upper_house": "Senate",
-    "Lower_house": "Chamber of Deputies"
-  },
-  "Independence": {
-    "From_Ottoman_Empire": "9 May 1877/1878",
-    "Great_Union": "1 December 1918/1921",
-    "Current_state_form": "27 December 1989"
-  },
-  "EU_Accession": "1 January 2007",
-  "Time_Zone": "UTC+2 (EET), Summer (DST) UTC+3 (EEST)",
-  "ISO_3166_Code": "RO",
-  "Internet_TLD": [".ro", ".eu"],
   "Geography": {
-    "Danube_River": "Flows southeast for 2,857 km before emptying into Romania's Danube Delta",
-    "Carpathian_Mountains": "Cross Romania including Moldoveanu Peak at 2,544 m"
+    "Continent": "Europe",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Bucharest",
+        "Latitude": "44°25′N",
+        "Longitude": "26°06′E"
+      }
+    },
+    "Location": "Located in Southeastern Europe, bordered by Ukraine to the north, Hungary to the west, Serbia to the southwest, Bulgaria to the south, Moldova to the east, and the Black Sea to the southeast",
+    "Area": {
+      "Total (sq km)": 238400,
+      "Rank": "81st",
+      "Water Percentage": "3.0%"
+    },
+    "Topography": ["Plains", "Mountains (Carpathians)", "Rivers (Danube)"],
+    "Climate": ["Predominantly continental"],
+    "Natural Resources": ["Petroleum", "Natural gas", "Coal", "Iron ore", "Salt", "Timber", "Hydropower"],
+    "Time Zones": ["UTC+02:00 (EET)", "UTC+03:00 (EEST in Summer)"],
+    "Largest City": "Bucharest"
   },
-  "Historical_Summary": {
-    "Early_Settlement": "Lower Paleolithic",
-    "Dacia_and_Roman_Empire": "Conquest and Romanisation during late antiquity",
-    "Modern_State_Formation": "Personal union of Moldavia and Wallachia in 1859",
-    "Independence": "From Ottoman Empire in 1877",
-    "World_War_I": "Joined Allied Powers in 1916",
-    "World_War_II": "Initially Axis side, then joined Allies in 1944",
-    "Communist_Period": "Became socialist republic and member of Warsaw Pact post-World War II",
-    "Post_1989_Revolution": "Transitioned towards democracy and market economy"
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 19051562,
+      "2021 Census": 19053815,
+      "Density (per sq km)": 79.9
+    },
+    "Ethnic Groups": {
+      "2021": {
+        "Romanians": 89.3,
+        "Hungarians": 6.0,
+        "Romani": 3.4,
+        "Others": 1.2
+      }
+    },
+    "Languages": {
+      "Official": ["Romanian"],
+      "Recognized Regional": [
+        "Albanian",
+        "Armenian",
+        "Bulgarian",
+        "Croatian",
+        "Czech",
+        "German",
+        "Greek",
+        "Italian",
+        "Macedonian",
+        "Hungarian",
+        "Polish",
+        "Portuguese",
+        "Romani",
+        "Russian",
+        "Ruthenian",
+        "Serbian",
+        "Slovak",
+        "Tatar",
+        "Turkish",
+        "Ukrainian",
+        "Yiddish"
+      ]
+    },
+    "Religion": {
+      "2021": {
+        "Christianity": 84.8,
+        "Romanian Orthodoxy": 73.4,
+        "Protestantism": 6.2,
+        "Catholicism": 4.5,
+        "Other": 0.7,
+        "Undeclared": 9.0
+      }
+    },
+    "Demonym": "Romanian"
+  },
+  "Government": {
+    "Type": "Unitary semi-presidential constitutional republic",
+    "Leaders": {
+      "President": "Klaus Iohannis",
+      "Prime Minister": "Marcel Ciolacu"
+    },
+    "Legislature": {
+      "Upper House": "Senate",
+      "Lower House": "Chamber of Deputies"
+    },
+    "Constitution": "8 December 1991",
+    "Independence History": {
+      "From Ottoman Empire": "9 May 1877",
+      "Great Union": "1 December 1918",
+      "Current state form": "27 December 1989"
+    },
+    "EU Accession": "1 January 2007"
+  },
+  "History": {
+    "Historical Context": {
+      "Early Settlement": "Lower Paleolithic",
+      "Dacia and Roman Empire": "Conquest and Romanisation during late antiquity",
+      "Modern State Formation": "Personal union of Moldavia and Wallachia in 1859",
+      "Independence": "From Ottoman Empire in 1877",
+      "World War I": "Joined Allied Powers in 1916",
+      "World War II": "Initially Axis side, then joined Allies in 1944",
+      "Communist Period": "Became socialist republic and member of Warsaw Pact post-World War II",
+      "Post-1989 Revolution": "Transitioned towards democracy and market economy"
+    }
   },
   "Economy": {
     "Status": "Developing country",
     "Growth": "Among fastest growing in EU",
-    "Main_Sectors": "Services, automotive, electric energy",
-    "Notable_Companies": ["Automobile Dacia", "OMV Petrom"]
+    "Major Industries": ["Services", "Automotive", "Electric energy"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 780.797,
+      "Per Capita (USD)": 41029
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 350.414,
+      "Per Capita (USD)": 18413
+    },
+    "Currency": "Romanian leu (RON)",
+    "Gini Index": {
+      "Year": 2022,
+      "Value": 34.8,
+      "Category": "Medium"
+    },
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.828,
+      "Category": "Very High",
+      "Rank": "49th"
+    }
   },
-  "Demographics": {
-    "Ethnic_Majority": "Romanians",
-    "Primary_Religion": "Eastern Orthodox Christianity",
-    "Language": "Romanian (Romance language, specifically Eastern Romance)"
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": [
+      "United Nations (UN)",
+      "European Union (EU)",
+      "North Atlantic Treaty Organization (NATO)",
+      "Council of Europe",
+      "Black Sea Economic Cooperation (BSEC)",
+      "World Trade Organization (WTO)"
+    ]
   },
-  "Membership": ["United Nations", "European Union", "NATO", "Council of Europe", "BSEC", "WTO"]
+  "Miscellaneous": {
+    "Time Zone": ["UTC+02:00 (EET)", "UTC+03:00 (EEST in Summer)"],
+    "Date Format": ["dd.mm.yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+40",
+    "ISO 3166 Code": "RO",
+    "Internet TLD": [".ro", ".eu"],
+    "Public Holidays": [
+      "New Year's Day",
+      "Union Day",
+      "Orthodox Easter",
+      "Labour Day",
+      "Children's Day",
+      "Pentecost",
+      "Assumption Day",
+      "St Andrew's Day",
+      "National Day",
+      "Christmas Day",
+      "Second Day of Christmas"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Influenced by Latin, Slavic, Greek, Ottoman cultures",
+    "Cultural Contributions": ["Art", "Cuisine", "Literature", "Music"],
+    "Unique Features": ["Romanian folklore", "Traditional festivals"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 4.5,
+    "Exports Growth": "Driven by automotive and electric energy sectors",
+    "Inflation Rate": "3.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Services", "Automotive"],
+      "Challenges": "Balancing economic growth with social development"
+    },
+    "Market Performance": {
+      "Equity Market": "Bucharest Stock Exchange",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Eastern European and global culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Services", "Automotive"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air, and Sea transport",
+    "Key Transport Hubs": ["Bucharest", "Cluj-Napoca", "Timișoara"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Moderate level of political unrest and instability",
+    "Economic Hardships": "High poverty and unemployment rates",
+    "Natural Disasters": ["Floods", "Earthquakes"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "75.9 years",
+    "Infant Mortality Rate": "5.6 deaths/1,000 live births",
+    "Health Expenditure of GDP": "5.2% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "3.1% (2020)",
+    "Literacy Rate": {
+      "Total": "98.8%",
+      "Male": "98.9%",
+      "Female": "98.7%"
+    }
+  }
 }
