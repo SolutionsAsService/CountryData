@@ -1,98 +1,220 @@
 {
-  "Phillipines":{
-  "FullName": "Republic of the Philippines",
-  "native_name": "Republika ng Pilipinas",
-  "location": {
-    "continent": "Asia",
-    "region": "Southeast Asia",
-    "coordinates": "13°00'N 122°00'E",
-    "archipelago": "More than 7,000 islands",
-    "maritime_borders": ["Taiwan", "Japan", "Palau", "Indonesia", "Malaysia", "Vietnam", "China"]
-    "seaborders": [
-      {"South China Sea": "west"},
-      {"Philippine Sea": "east"},
-      {"Celebes Sea": "south"}
-    ]
-  },
-  "capital_city": "Manila",
-  "largest_city": "Quezon City",
-  "area": "300,000 km2",
-  "population": {
-    "2023_estimate": 114755000
-  },
-  "government": {
-    "type": "Unitary presidential constitutional republic",
-    "president": "Ferdinand Marcos Jr.",
-    "vice_president": "Sara Duterte",
-    "legislature": {
-      "upper_house": "Senate",
-      "lower_house": "House of Representatives"
+  "Name": {
+    "Common": "Philippines",
+    "Official": "Republic of the Philippines",
+    "Native": {
+      "Filipino": "Republika ng Pilipinas"
     }
   },
-  "economy": {
-    "GDP_PPP": {
-      "2023_estimate_total": "$1.278 trillion",
-      "per_capita": "$11,326"
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Coat of Arms URL": "URL_to_coat_of_arms_image",
+    "Motto": "Maka-Diyos, Maka-Tao, Makakalikasan at Makabansa (For God, People, Nature and Country)",
+    "Anthem": {
+      "Title": "Lupang Hinirang",
+      "Translation": "Chosen Land",
+      "Duration": "1 minute and 30 seconds"
     },
-    "GDP_nominal": {
-      "2023_estimate_total": "$435.675 billion",
-      "per_capita": "$3,859"
-    },
-    "currency": "Philippine peso (₱) (PHP)"
+    "National Seal": "Great Seal of the Philippines"
   },
-  "Ethnic": {
-    "2010": [
-      {"Visayan": "33.7%"},
-      {"Tagalog": "24.4%"},
-      {"Ilocano": "8.4%"},
-      {"Bicolano": "6.8%"},
-      {"Other": "26.2%"}
+  "Geography": {
+    "Continent": "Asia",
+    "Region": "Southeast Asia",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Manila",
+        "Latitude": "14°35′N",
+        "Longitude": "120°58′E"
+      }
+    },
+    "Location": "An archipelago composed of more than 7,000 islands in Southeast Asia, with maritime borders with Taiwan, Japan, Palau, Indonesia, Malaysia, Vietnam, and China",
+    "Area": {
+      "Total (sq km)": 300000,
+      "Rank": "72nd",
+      "Water Percentage": "1.5%"
+    },
+    "Borders": {
+      "West": ["South China Sea"],
+      "East": ["Philippine Sea"],
+      "South": ["Celebes Sea"]
+    },
+    "Topography": ["Mountain ranges", "Plains", "Coastal areas"],
+    "Climate": ["Tropical maritime"],
+    "Natural Resources": ["Timber", "Petroleum", "Nickel", "Cobalt", "Silver", "Gold", "Salt", "Copper"],
+    "Time Zones": ["UTC+08:00"],
+    "Largest City": "Quezon City"
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 114755000,
+      "Density (per sq km)": 382.5
+    },
+    "Ethnic Groups": {
+      "2010": {
+        "Visayan": 33.7,
+        "Tagalog": 24.4,
+        "Ilocano": 8.4,
+        "Bicolano": 6.8,
+        "Other": 26.2
+      }
+    },
+    "Languages": {
+      "Official": ["Filipino", "English"],
+      "Recognized Regional": ["19 languages"],
+      "Other Recognized": ["Spanish", "Arabic"]
+    },
+    "Religion": {
+      "2015": {
+        "Christianity": 90.1,
+        "Catholicism": 80.6,
+        "Other Christian": 9.5,
+        "Islam": 6.4,
+        "Other / None": 3.5
+      }
+    },
+    "Demonym": "Filipino"
+  },
+  "Government": {
+    "Type": "Unitary presidential constitutional republic",
+    "Leaders": {
+      "President": "Ferdinand Marcos Jr.",
+      "Vice President": "Sara Duterte"
+    },
+    "Legislature": {
+      "Upper House": "Senate",
+      "Lower House": "House of Representatives"
+    },
+    "Constitution": "2 February 1987",
+    "Independence History": {
+      "Declared from Spain": "12 June 1898",
+      "Recognized by USA": "4 July 1946"
+    }
+  },
+  "History": {
+    "Historical Context": {
+      "Early Inhabitants": "Negritos",
+      "Influences": ["Animism", "Hinduism", "Islam"],
+      "Colonial Period": ["Spanish", "American"],
+      "Independence": "1946",
+      "Recent": "Transition from agricultural to service and manufacturing economy"
+    }
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Agriculture, services, manufacturing",
+    "Major Industries": ["Electronics", "Textiles", "Business process outsourcing", "Food processing", "Chemicals", "Shipbuilding"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 1278,
+      "Per Capita (USD)": 11326
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 435.675,
+      "Per Capita (USD)": 3859
+    },
+    "Currency": "Philippine peso (₱) (PHP)",
+    "Gini Index": {
+      "Year": 2022,
+      "Value": 42.3,
+      "Category": "High"
+    },
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.718,
+      "Category": "High",
+      "Rank": "107th"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": [
+      "United Nations (UN)",
+      "World Trade Organization (WTO)",
+      "Association of Southeast Asian Nations (ASEAN)",
+      "Asia-Pacific Economic Cooperation (APEC)",
+      "East Asia Summit (EAS)",
+      "Non-Aligned Movement (NAM)"
+    ],
+    "Relationship with USA": "Major non-NATO ally"
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+08:00"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+63",
+    "ISO 3166 Code": "PH",
+    "Internet TLD": ".ph",
+    "Public Holidays": [
+      "New Year's Day",
+      "Maundy Thursday",
+      "Good Friday",
+      "Independence Day",
+      "National Heroes Day",
+      "Bonifacio Day",
+      "Christmas Day",
+      "Rizal Day"
     ]
   },
-  "languages": {
-    "official": ["Filipino", "English"],
-    "recognized_regional": ["19 languages"],
-    "other_recognized": ["Spanish", "Arabic"]
+  "Significant Cultural Aspects": {
+    "Legacy": "Unique blend of diversity and homogeneity with influences from European, American, and Asian cultures",
+    "Cultural Contributions": ["Art", "Cuisine", "Literature", "Music"],
+    "Unique Features": ["Diverse ethnic groups", "Traditional festivals", "Historical sites"]
   },
-  "religion": {
-    "2015_statistics": [
-      {"Christianity": "90.1%", "Catholicism": "80.6%", "Other Christian": "9.5%"},
-      {"Islam": "6.4%"},
-      {"Other / None": "3.5%"}
-    ]
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 5.0,
+    "Exports Growth": "Driven by electronics and business process outsourcing",
+    "Inflation Rate": "3.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Services", "Manufacturing"],
+      "Challenges": "Balancing economic growth with environmental protection"
+    },
+    "Market Performance": {
+      "Equity Market": "Philippine Stock Exchange",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
   },
-  "history": {
-    "early_inhabitants": "Negritos",
-    "influences": ["Animism", "Hinduism", "Islam"],
-    "colonial_period": ["Spanish", "American"],
-    "independence": "1946",
-    "recent": "Transition from agricultural to service and manufacturing economy"
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Southeast Asian and global culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Electronics", "Business process outsourcing"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
   },
-  "geography": {
-    "island_groups": ["Luzon", "Visayas", "Mindanao"],
-    "notable_islands": ["Luzon", "Mindanao", "Palawan", "Negros", "Cebu"],
-    "highest_point": "Mount Apo",
-    "natural_disasters": ["Earthquakes", "Typhoons"]
+  "Transport": {
+    "Major Modes": "Road, Air, and Sea transport",
+    "Key Transport Hubs": ["Manila", "Cebu", "Davao"]
   },
-  "Culture": {
-    "diversity": "Unique blend of diversity and homogeneity",
-    "influences": ["European", "American", "Asian"],
-    "food": ["Rice", "Meat", "Fruits", "Vegetables"],
-    "traditional_attire": ["Barong", "Terno", "Malong"],
-    "arts": "Influence of Spanish, American, and indigenous cultures",
-    "family_structure": "Extended family, including godparents in Catholic families"
+  "Current Challenges": {
+    "Political Instability": "Moderate level of political unrest and instability",
+    "Economic Hardships": "High poverty and unemployment rates",
+    "Natural Disasters": ["Earthquakes", "Typhoons"],
+    "Health Issues": ["COVID-19 pandemic"]
   },
-  "international_relations": {
-    "memberships": ["United Nations", "World Trade Organization", "ASEAN", "Asia-Pacific Economic Cooperation", "East Asia Summit", "Non-Aligned Movement"],
-    "relationship_with_usa": "Major non-NATO ally"
+  "Healthcare": {
+    "Life Expectancy": "71.2 years",
+    "Infant Mortality Rate": "21.4 deaths/1,000 live births",
+    "Health Expenditure of GDP": "4.4% (2020)"
   },
-  "environmental_challenges": {
-    "degradation": "Severe environmental degradation in late 20th century",
-    "conservation_efforts": "Efforts in education, health, and infrastructure for sustainable growth"
-  },
-  "educational_system": {
-    "public_school_system": "Well-established with high literacy rates",
-    "focus": "Cultural unity and socioeconomic progress"
+  "Education": {
+    "Expenditures of GDP": "3.2% (2020)",
+    "Literacy Rate": {
+      "Total": "98.2%",
+      "Male": "98.0%",
+      "Female": "98.4%"
+    }
   }
-}
 }
