@@ -1,85 +1,210 @@
 {
-  "Malaysia": {
-    "officialName": "Malaysia",
-    "flagDescription": "Blue rectangle with a gold star and crescent in the canton, 14 horizontal red and white stripes",
-    "coatOfArmsDescription": "Shield showing symbols of Malaysian states with star and crescent, supported by two tigers",
-    "motto": "Bersekutu Bertambah Mutu ('Unity is Strength')",
-    "anthem": "Negaraku ('My Country')",
-    "geography": {
-      "regions": ["Peninsular Malaysia", "East Malaysia"],
-      "totalArea": 330803,
-      "capital": "Kuala Lumpur",
-      "administrativeCenter": "Putrajaya",
-      "borders": {
-         "Peninsular Malaysia":{ 
-           "landmaritime": "Thailand", 
-            "maritime": ["Singapore", "Vietnam", "Indonesia"] },
-          "East Malaysia":{
-            "landmaritime": [ "Brunei", "Indonesia"],
-            "maritime": ["Philippines", "Vietnam"]
+  "Name": {
+    "Common": "Malaysia",
+    "Official": "Malaysia",
+    "Native": {
+      "Malay": "Malaysia"
+    }
+  },
+  "Symbols": {
+    "Flag Description": "Blue rectangle with a gold star and crescent in the canton, 14 horizontal red and white stripes",
+    "Coat of Arms Description": "Shield showing symbols of Malaysian states with star and crescent, supported by two tigers",
+    "Motto": "Bersekutu Bertambah Mutu ('Unity is Strength')",
+    "Anthem": {
+      "Title": "Negaraku",
+      "Translation": "My Country",
+      "Duration": "1 minute and 27 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Asia",
+    "Region": "Southeast Asia",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Kuala Lumpur",
+        "Latitude": "3°8′N",
+        "Longitude": "101°41′E"
+      },
+      "Administrative Center": {
+        "Name": "Putrajaya",
+        "Latitude": "2°55′N",
+        "Longitude": "101°41′E"
       }
     },
-    "demographics": {
-      "population2023Estimate": 33200000,
-      "ethnicGroups": {
+    "Location": "Southeast Asia, consisting of Peninsular Malaysia and East Malaysia on the island of Borneo",
+    "Area": {
+      "Total (km2)": 330803,
+      "Rank": "66th",
+      "Water Percentage": "N/A"
+    },
+    "Borders": {
+      "Peninsular Malaysia": {
+        "Land": ["Thailand"],
+        "Maritime": ["Singapore", "Vietnam", "Indonesia"]
+      },
+      "East Malaysia": {
+        "Land": ["Brunei", "Indonesia"],
+        "Maritime": ["Philippines", "Vietnam"]
+      }
+    },
+    "Coastline": "4,675 km",
+    "Topography": ["Mountainous regions", "Coastal plains"],
+    "Climate": ["Equatorial; hot and humid throughout the year"],
+    "Natural Resources": ["Tin", "Petroleum", "Timber", "Copper", "Iron ore", "Natural gas"],
+    "Time Zones": ["UTC+8"],
+    "Largest City": "Kuala Lumpur"
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 33200000,
+      "Density (per km2)": 100.3
+    },
+    "Ethnic Groups": {
+      "2023": {
         "Bumiputera": 69.7,
         "Chinese": 22.9,
-        "Indian": 6.6
-      },
-      "religion": {
-        "SunniIslam": 63.5,
+        "Indian": 6.6,
+        "Others": 0.8
+      }
+    },
+    "Languages": {
+      "Official": ["Malay"],
+      "Widely Spoken": ["English"]
+    },
+    "Religion": {
+      "2023": {
+        "Sunni Islam": 63.5,
         "Buddhism": 18.7,
         "Christianity": 9.1,
-        "Hinduism": 6.1
+        "Hinduism": 6.1,
+        "Others": 2.6
       }
     },
-    "government": {
-      "type": "Federal parliamentary constitutional elective monarchy",
-      "monarch": "Abdullah",
-      "primeMinister": "Anwar Ibrahim",
-      "legislature": {
-        "upperHouse": "Dewan Negara (Senate)",
-        "lowerHouse": "Dewan Rakyat (House of Representatives)"
+    "Demonym": "Malaysian"
+  },
+  "Government": {
+    "Type": "Federal parliamentary constitutional elective monarchy",
+    "Leaders": {
+      "Monarch": "Abdullah",
+      "Prime Minister": "Anwar Ibrahim",
+      "Deputy Prime Minister": "Fadillah Yusof"
+    },
+    "Legislature": {
+      "Upper House": "Dewan Negara (Senate)",
+      "Lower House": "Dewan Rakyat (House of Representatives)"
+    },
+    "Constitution": "31 August 1957"
+  },
+  "History": {
+    "Colonial Era": "British Empire (18th century onwards)",
+    "Japanese Occupation": "World War Two",
+    "Independence from the United Kingdom": "31 August 1957",
+    "Formation of Malaysia": "16 September 1963"
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Natural resources, commerce, tourism, medical tourism",
+    "Major Industries": ["Electronics", "Petroleum and natural gas", "Palm oil", "Rubber", "Timber"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 1225,
+      "Per Capita (USD)": 37082
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 430.895,
+      "Per Capita (USD)": 13034
+    },
+    "Currency": "Malaysian ringgit (MYR)",
+    "Gini Index": 41.2,
+    "HDI": {
+      "Score": 0.803,
+      "Rank": "62nd"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": ["Organisation of Islamic Cooperation (OIC)", "East Asia Summit (EAS)", "Association of Southeast Asian Nations (ASEAN)", "Non-Aligned Movement (NAM)", "Commonwealth of Nations (Commonwealth)", "Asia-Pacific Economic Cooperation (APEC)"]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+8"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Left",
+    "Calling Code": "+60",
+    "ISO 3166 Code": "MY",
+    "Internet TLD": ".my",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Chinese New Year (Varies)",
+      "Hari Raya Aidilfitri (Varies)",
+      "Hari Raya Haji (Varies)",
+      "Labour Day (May 1)",
+      "King's Birthday (June 6)",
+      "National Day (August 31)",
+      "Malaysia Day (September 16)",
+      "Deepavali (Varies)",
+      "Christmas Day (December 25)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of Malay, Chinese, Indian, and indigenous influences",
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["Diversity of ethnic groups", "High level of English proficiency", "Strong tradition of festivals and celebrations"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 4.5,
+    "Exports Growth": "Driven by electronics and petroleum",
+    "Inflation Rate": "2.5%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Natural resources", "Commerce", "Tourism"],
+      "Challenges": "Balancing economic growth with environmental protection"
+    },
+    "Market Performance": {
+      "Equity Market": "N/A",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
       }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
     },
-    "economy": {
-      "GDP_PPP_2023Estimate": {
-        "total": 1225000000000,
-        "perCapita": 37082
-      },
-      "GDP_Nominal_2023Estimate": {
-        "total": 430895000000,
-        "perCapita": 13034
-      },
-      "GiniIndex": 41.2,
-      "HDI": 0.803
+    "Cultural Heritage": {
+      "Influence": "Significant on Southeast Asian culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
     },
-    "currency": "Malaysian ringgit (MYR)",
-    "timeZone": "UTC+8",
-    "drivingSide": "left",
-    "callingCode": "+60",
-    "isoCode": "MY",
-    "internetTLD": ".my",
-    "origin": {
-      "BritishEmpire": "18th century onwards",
-      "JapaneseOccupation": "World War Two",
-      "Independence": "31 August 1957"
+    "Technology and Innovation": {
+      "Growth Sectors": ["Electronics", "Petroleum", "Tourism"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
     },
-    "socioPoliticalContext": {
-      "multiethnicSociety": true,
-      "officialLanguage": "Malay",
-      "englishProficiency": "Widely spoken",
-      "legalSystem": "Based on common law",
-      "headOfState": "Elected monarch",
-      "headOfGovernment": "Prime minister",
-      "economicDrivers": ["Natural resources", "Commerce", "Tourism", "Medical tourism"],
-      "internationalAffiliations": ["OIC", "EAS", "ASEAN", "NAM", "Commonwealth", "APEC"]
-    },
-    "humanRightsIssues": {
-      "freedomOfSpeech": "Challenges with censorship",
-      "religiousFreedom": "Restrictions on non-Sunni branches of Islam",
-      "LGBTQRights": "State-sponsored discrimination",
-      "women'sRights": "Ongoing efforts to amend citizenship laws"
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air, and Sea transport",
+    "Key Transport Hubs": ["Kuala Lumpur", "George Town", "Johor Bahru"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Occasional protests and political unrest",
+    "Economic Hardships": "Moderate unemployment and poverty rates",
+    "Natural Disasters": ["Flooding"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "76.5 years",
+    "Infant Mortality Rate": "7.2 deaths/1,000 live births",
+    "Health Expenditure of GDP": "4.2% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "5.0% (2020)",
+    "Literacy Rate": {
+      "Total": "95.3%",
+      "Male": "96.5%",
+      "Female": "94.1%"
     }
   }
 }
