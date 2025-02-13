@@ -1,81 +1,203 @@
 {
-    "San Marino": {
-        "Official Names": {
-            "Italian": "Repubblica di San Marino",
-            "English": "Republic of San Marino"
-        },
-        "Symbols": {
-            "Flag": "Flag of San Marino",
-            "Coat of Arms": "Coat of arms of San Marino",
-            "Motto": "Libertas (Freedom)",
-            "Anthem": {
-                "Title": "Inno Nazionale della Repubblica",
-                "English Translation": "National Anthem of the Republic",
-                "Duration": "1 minute and 35 seconds"
-            }
-        },
-        "Location": {
-            "Region": "Europe",
-            "Coordinates": "43°56′N 12°26′E",
-            "Largest Settlement": "Dogana",
-            "Proximity": "Northeastern end near Rimini on the Adriatic coast"
-        },
-        "Languages": {
-            "Official": "Italian",
-            "Other": "Romagnol"
-        },
-        "Religion": {
-            "Christianity": "91.5%",
-            "Agnosticism": "5.6%",
-            "Atheism": "1.9%",
-            "Other": "1%"
-        },
-        "Government": {
-            "Type": "Unitary parliamentary diarchic directorial republic",
-            "Captains Regent": ["Filippo Tamagnini", "Gaetano Troina"],
-            "Secretary for Foreign and Political Affairs": "Luca Beccari",
-            "Legislature": "Grand and General Council"
-        },
-        "Independence": {
-            "From Roman Empire": "3 September 301",
-            "From Papal States": "1291",
-            "Constitution": {
-                "Statutes": "8 October 1600",
-                "Declaration of Citizen Rights": "12 July 1978"
-            }
-        },
-        "Geography": {
-            "Total Area": "61.2 square kilometers",
-            "Location": "Landlocked within Italy",
-            "Landmarks": ["Monte Titano", "City of San Marino"]
-        },
-        "Population": {
-            "2022 Estimate": "33,660",
-            "Density": "520 per km2"
-        },
-        "Economy": {
-            "GDP (PPP) 2023 Estimate": {
-                "Total": "$2.872 billion",
-                "Per Capita": "$84,135"
-            },
-            "GDP (Nominal) 2023 Estimate": {
-                "Total": "$1.998 billion",
-                "Per Capita": "$58,540"
-            },
-            "HDI (2021)": "0.853",
-            "Currency": "Euro (€) (EUR)",
-            "Main Sectors": ["Finance", "Industry", "Services", "Retail", "Tourism"]
-        },
-        "Transport": "Information not provided",
-        "Culture": {
-            "National Heritage": "Founded by Saint Marinus",
-            "Constitutional Practice": "Captains Regent elected every six months",
-            "Healthcare System": "Ranked third by the World Health Organization"
-        },
-        "Historical Overview": {
-            "Oldest Sovereign State": true,
-            "Oldest Constitutional Republic": true,
-            "Founder": "Saint Marinus, 301 AD"
-        }
+  "Name": {
+    "Common": "San Marino",
+    "Official": "Republic of San Marino",
+    "Native": {
+      "Italian": "Repubblica di San Marino"
     }
+  },
+  "Symbols": {
+    "Flag": "Flag of San Marino",
+    "Coat of Arms": "Coat of arms of San Marino",
+    "Motto": "Libertas (Freedom)",
+    "Anthem": {
+      "Title": "Inno Nazionale della Repubblica",
+      "Translation": "National Anthem of the Republic",
+      "Duration": "1 minute and 35 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Europe",
+    "Coordinates": {
+      "Capital": {
+        "Name": "San Marino",
+        "Latitude": "43°56′N",
+        "Longitude": "12°26′E"
+      }
+    },
+    "Location": "Landlocked within Italy, near Rimini on the Adriatic coast",
+    "Area": {
+      "Total (sq km)": 61.2,
+      "Water Percentage": "Negligible"
+    },
+    "Topography": ["Hilly terrain", "Highest point: Monte Titano"],
+    "Climate": ["Mediterranean climate"],
+    "Natural Resources": ["Building stone"],
+    "Time Zones": ["UTC+01:00 (CET)", "UTC+02:00 (CEST in Summer)"],
+    "Largest City": "Dogana"
+  },
+  "Demographics": {
+    "Population": {
+      "2022 Estimate": 33660,
+      "Density (per sq km)": 520
+    },
+    "Ethnic Groups": {
+      "2022": {
+        "Sanmarinese": 85.5,
+        "Italian": 14.5
+      }
+    },
+    "Languages": {
+      "Official": ["Italian"],
+      "Other": ["Romagnol"]
+    },
+    "Religion": {
+      "2022": {
+        "Christianity": 91.5,
+        "Agnosticism": 5.6,
+        "Atheism": 1.9,
+        "Other": 1.0
+      }
+    },
+    "Demonym": "Sanmarinese"
+  },
+  "Government": {
+    "Type": "Unitary parliamentary diarchic directorial republic",
+    "Leaders": {
+      "Captains Regent": ["Filippo Tamagnini", "Gaetano Troina"],
+      "Secretary for Foreign and Political Affairs": "Luca Beccari"
+    },
+    "Legislature": "Grand and General Council",
+    "Constitution": {
+      "Statutes": "8 October 1600",
+      "Declaration of Citizen Rights": "12 July 1978"
+    },
+    "Independence History": {
+      "From Roman Empire": "3 September 301",
+      "From Papal States": "1291"
+    }
+  },
+  "History": {
+    "Historical Context": {
+      "Oldest Sovereign State": true,
+      "Oldest Constitutional Republic": true,
+      "Founder": "Saint Marinus, 301 AD"
+    }
+  },
+  "Economy": {
+    "Status": "Developed country",
+    "Dependence": "Finance, industry, services, retail, tourism",
+    "Major Industries": ["Finance", "Industry", "Services", "Retail", "Tourism"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 2.872,
+      "Per Capita (USD)": 84135
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 1.998,
+      "Per Capita (USD)": 58540
+    },
+    "Currency": "Euro (€) (EUR)",
+    "Gini Index": {
+      "Year": 2022,
+      "Value": 33.0,
+      "Category": "Medium"
+    },
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.853,
+      "Category": "Very High",
+      "Rank": "42nd"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": [
+      "United Nations (UN)",
+      "Council of Europe",
+      "World Health Organization (WHO)",
+      "World Trade Organization (WTO)"
+    ]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+01:00 (CET)", "UTC+02:00 (CEST in Summer)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+378",
+    "ISO 3166 Code": "SM",
+    "Internet TLD": [".sm"],
+    "Public Holidays": [
+      "New Year's Day",
+      "Epiphany",
+      "Liberation Day",
+      "Labour Day",
+      "Corpus Christi",
+      "Republic Day",
+      "All Saints' Day",
+      "Christmas Day",
+      "Boxing Day"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage, with influences from Italian culture",
+    "Cultural Contributions": ["Art", "Cuisine", "Literature", "Music"],
+    "Unique Features": ["Oldest continuous constitutional republic", "Traditional festivals", "Monte Titano and historic centre of the City of San Marino as UNESCO World Heritage Sites"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 2.8,
+    "Exports Growth": "Driven by finance and tourism sectors",
+    "Inflation Rate": "1.5%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Finance", "Tourism"],
+      "Challenges": "Balancing economic growth with social development"
+    },
+    "Market Performance": {
+      "Equity Market": "San Marino Stock Exchange",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Italian and global culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Finance", "Tourism"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Ranked third by the World Health Organization"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road transport",
+    "Key Transport Hubs": ["San Marino", "Dogana"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Low level of political unrest and instability",
+    "Economic Hardships": "Low poverty and unemployment rates",
+    "Natural Disasters": ["Earthquakes"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "83.5 years",
+    "Infant Mortality Rate": "3.4 deaths/1,000 live births",
+    "Health Expenditure of GDP": "6.0% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "4.5% (2020)",
+    "Literacy Rate": {
+      "Total": "99.8%",
+      "Male": "99.8%",
+      "Female": "99.8%"
+    }
+  }
 }
