@@ -1,58 +1,219 @@
 {
-  "North Macedonia": {
-  "FullName": "Republic of North Macedonia",
-  "FormerName": "The Former Yugoslav Republic of Macedonia",
-  "alternate_names": ["Macedonia", "Makedonija", "Republika Makedonija"],
-  "location": {
-    "continent": "Europe",
-    "coordinates": "42°0′N 21°26′E",
-    "borders": [
-      {"Kosovo": "northwest"},
-      {"Serbia": "north"},
-      {"Bulgaria": "east"},
-      {"Greece": "south"},
-      {"Albania": "west"}
+  "Name": {
+    "Common": "North Macedonia",
+    "Official": "Republic of North Macedonia",
+    "Native": {
+      "Macedonian": "Република Северна Македонија"
+    },
+    "Former": "The Former Yugoslav Republic of Macedonia",
+    "Alternate": ["Macedonia", "Makedonija", "Republika Makedonija"]
+  },
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Coat of Arms URL": "URL_to_coat_of_arms_image",
+    "Motto": "N/A",
+    "Anthem": {
+      "Title": "Denes nad Makedonija",
+      "Translation": "Today over Macedonia",
+      "Duration": "1 minute and 30 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Europe",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Skopje",
+        "Latitude": "42°0′N",
+        "Longitude": "21°26′E"
+      }
+    },
+    "Location": "Europe, bordered by Kosovo to the northwest, Serbia to the north, Bulgaria to the east, Greece to the south, and Albania to the west",
+    "Area": {
+      "Total (sq km)": 25713,
+      "Rank": "145th",
+      "Water Percentage": "1.9%"
+    },
+    "Borders": {
+      "Northwest": ["Kosovo"],
+      "North": ["Serbia"],
+      "East": ["Bulgaria"],
+      "South": ["Greece"],
+      "West": ["Albania"]
+    },
+    "Topography": ["Mountainous terrain", "Valleys", "Basins"],
+    "Climate": ["Continental", "Mediterranean"],
+    "Natural Resources": ["Iron ore", "Copper", "Lead", "Zinc", "Chromite", "Manganese", "Nickel", "Tungsten", "Gold", "Silver"],
+    "Time Zones": ["UTC+01:00"],
+    "Largest City": "Skopje"
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 1820000,
+      "Density (per sq km)": 70.8
+    },
+    "Ethnic Groups": {
+      "2023": {
+        "Macedonians": 58.4,
+        "Albanians": 24.3,
+        "Turks": 3.9,
+        "Roma": 2.5,
+        "Serbs": 1.3,
+        "Bosniaks": 0.9,
+        "Aromanians": 0.5,
+        "Others": 1.0,
+        "Unspecified": 7.2
+      }
+    },
+    "Languages": {
+      "Official": ["Macedonian"],
+      "Recognised": ["Albanian", "Turkish", "Romani", "Serbian", "Bosnian", "Aromanian"]
+    },
+    "Religion": {
+      "2023": {
+        "Eastern Orthodoxy": 64.8,
+        "Islam": 33.3,
+        "Others": 1.9
+      }
+    },
+    "Demonym": "Macedonian"
+  },
+  "Government": {
+    "Type": "Unitary parliamentary republic",
+    "Leaders": {
+      "President": "Stevo Pendarovski",
+      "Prime Minister": "Dimitar Kovačevski"
+    },
+    "Legislature": "Assembly",
+    "Constitution": "20 November 1991",
+    "Independence History": {
+      "Independence from Yugoslavia": "8 September 1991",
+      "International Recognition": "8 April 1993",
+      "NATO Membership": "27 March 2020"
+    }
+  },
+  "History": {
+    "Ancient Period": [
+      {"Kingdom of Paeonia": "6th century BC"},
+      {"Achaemenid Empire": "Late 6th century BC"},
+      {"Kingdom of Macedonia": "4th century BC"},
+      {"Roman Republic": "2nd century BC"}
+    ],
+    "Medieval Period": [
+      {"Byzantine Empire": "5th century onwards"},
+      {"Slavic tribes": "6th century"}
+    ],
+    "Modern Period": [
+      {"Ottoman Empire": "Mid-14th to early 20th century"},
+      {"Kingdom of Serbs, Croats, and Slovenes": "Post WWI"},
+      {"Communist Yugoslavia": "1945-1991"},
+      {"Independence": "1991"}
     ]
   },
-  "capital_city": "Skopje",
-  "population": {
-    "2023_estimate": 1820000,
-    "ethnic_composition": [
-      {"Macedonians": "58.4%"},
-      {"Albanians": "24.3%"},
-      {"Turks": "3.9%"},
-      {"Roma": "2.5%"},
-      {"Serbs": "1.3%"},
-      {"Bosniaks": "0.9%"},
-      {"Aromanians": "0.5%"},
-      {"Others": "1.0%"},
-      {"Unspecified": "7.2%"}
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Industry, services, agriculture",
+    "Major Industries": ["Industry", "Services", "Agriculture"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 44.055,
+      "Per Capita (USD)": 21391
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 15.801,
+      "Per Capita (USD)": 7672
+    },
+    "Currency": "Macedonian denar (MKD)",
+    "Gini Index": {
+      "Year": 2023,
+      "Value": 33.0,
+      "Category": "Medium"
+    },
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.759,
+      "Category": "High",
+      "Rank": "82nd"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": [
+      "United Nations (UN)",
+      "North Atlantic Treaty Organization (NATO)",
+      "Council of Europe",
+      "World Bank",
+      "Organization for Security and Co-operation in Europe (OSCE)",
+      "Central European Free Trade Agreement (CEFTA)",
+      "Black Sea Economic Cooperation (BSEC)",
+      "World Trade Organization (WTO)"
+    ],
+    "EU Candidate": true
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+01:00"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+389",
+    "ISO 3166 Code": "MK",
+    "Internet TLD": ".mk",
+    "Public Holidays": [
+      "New Year's Day",
+      "Orthodox Christmas",
+      "Easter Monday",
+      "Labor Day",
+      "Independence Day",
+      "Day of the Macedonian Revolutionary Struggle",
+      "Republic Day",
+      "Victory Day",
+      "Christmas Day"
     ]
   },
-  "government": {
-    "type": "Unitary parliamentary republic",
-    "president": "Stevo Pendarovski",
-    "prime_minister": "Dimitar Kovačevski",
-    "legislature": "Assembly"
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of Slavic and Byzantine influences",
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["Macedonian Orthodox traditions", "Traditional folk dances", "Festivals"]
   },
-  "economy": {
-    "GDP_PPP": {
-      "2023_estimate_total": "$44.055 billion",
-      "per_capita": "$21,391"
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 4.0,
+    "Exports Growth": "Driven by industry and services",
+    "Inflation Rate": "2.5%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Industry", "Services"],
+      "Challenges": "Balancing economic growth with social development"
     },
-    "GDP_nominal": {
-      "2023_estimate_total": "$15.801 billion",
-      "per_capita": "$7,672"
-    },
-    "currency": "Macedonian denar (MKD)"
+    "Market Performance": {
+      "Equity Market": "N/A",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
   },
-  "education": {
-    "expenditure_per_pupil": {
-      "primary_school": "$995",
-      "secondary_school": "$1,355",
-      "universities": "$1,198"
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban population",
+      "Rural Development": "Focus on improving rural living standards"
     },
-    "educational_attainment": [
+    "Cultural Heritage": {
+      "Influence": "Significant on Balkan and global culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Industry", "Services"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Education": {
+    "Expenditure per Pupil": {
+      "Primary School": "$995",
+      "Secondary School": "$1355",
+      "Universities": "$1198"
+    },
+    "Educational Attainment": [
       {"No schooling": "0.582%"},
       {"Basic education": "2.051%"},
       {"Primary education": "16.818%"},
@@ -60,36 +221,19 @@
       {"Higher education": "24.616%"}
     ]
   },
-  "history": {
-    "ancient_period": [
-      {"Kingdom of Paeonia": "6th century BC"},
-      {"Achaemenid Empire": "Late 6th century BC"},
-      {"Kingdom of Macedonia": "4th century BC"},
-      {"Roman Republic": "2nd century BC"}
-    ],
-    "medieval_period": [
-      {"Byzantine Empire": "5th century onwards"},
-      {"Slavic tribes": "6th century"}
-    ],
-    "modern_period": [
-      {"Ottoman Empire": "Mid-14th to early 20th century"},
-      {"Kingdom of Serbs, Croats and Slovenes": "Post WWI"},
-      {"Communist Yugoslavia": "1945-1991"},
-      {"Independence": "1991"}
-    ]
+  "Transport": {
+    "Major Modes": "Road, Rail, Air transport",
+    "Key Transport Hubs": ["Skopje", "Bitola", "Ohrid"]
   },
-  "international_relations": {
-    "member_of": [
-      "United Nations",
-      "NATO",
-      "Council of Europe",
-      "World Bank",
-      "OSCE",
-      "CEFTA",
-      "BSEC",
-      "WTO"
-    ],
-    "EU_candidate": true
+  "Current Challenges": {
+    "Political Instability": "Low level of political unrest and instability",
+    "Economic Hardships": "Moderate poverty and unemployment rates",
+    "Natural Disasters": ["Earthquakes"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "75.5 years",
+    "Infant Mortality Rate": "10.2 deaths/1,000 live births",
+    "Health Expenditure of GDP": "6.5% (2020)"
   }
-}
 }
