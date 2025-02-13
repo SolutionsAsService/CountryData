@@ -1,159 +1,207 @@
 {
-  "Republic of Maldives": {
-    "local_name": "ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ",
-    "romanized_name": "Dhivehi Raajjeyge Jumhooriyyaa",
-    "pronunciation": "[diʋehi ɾaːd͡ʒːeːge d͡ʒumhuːɾijjaː]",
-    "description": "Country and archipelagic state in South Asia, situated in the Indian Ocean.",
-    "location": {
-      "relative": "Southwest of Sri Lanka and India",
-      "distance_from_mainland": "750 kilometres (470 miles; 400 nautical miles)"
+  "Name": {
+    "Common": "Maldives",
+    "Official": "Republic of Maldives",
+    "Native": {
+      "Local Name": "ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ",
+      "Romanized Name": "Dhivehi Raajjeyge Jumhooriyyaa",
+      "Pronunciation": "[diʋehi ɾaːd͡ʒːeːge d͡ʒumhuːɾijjaː]"
+    }
+  },
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Emblem URL": "URL_to_emblem_image",
+    "Motto": {
+      "Language": "Arabic",
+      "Text": "الدولة المحلديبية",
+      "Translation": "State of the Mahal Dibiyat"
     },
-    "atolls": "26",
-    "atoll_range": {
-      "north": "Ihavandhippolhu Atoll",
-      "south": "Addu Atoll"
-    },
-    "symbols": {
-      "flag": "Flag of Maldives",
-      "emblem": "Emblem of Maldives",
-      "motto": {
-        "language": "Arabic",
-        "text": "الدولة المحلديبية",
-        "translation": "State of the Mahal Dibiyat"
-      },
-      "anthem": {
-        "title": "Qaumee Salaam",
-        "language": "Dhivehi",
-        "translation": "National Salute",
-        "duration": "1 minute and 9 seconds"
+    "Anthem": {
+      "Title": "Qaumee Salaam",
+      "Language": "Dhivehi",
+      "Translation": "National Salute",
+      "Duration": "1 minute and 9 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Asia",
+    "Region": "South Asia",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Malé",
+        "Latitude": "4°10′31″N",
+        "Longitude": "73°30′32″E"
       }
     },
-    "capital": {
-      "name": "Malé",
-      "coordinates": "4°10′31″N 73°30′32″E"
+    "Location": "Southwest of Sri Lanka and India, 750 kilometres (470 miles; 400 nautical miles) from the mainland",
+    "Area": {
+      "Total (sq km)": 298,
+      "Rank": "187th",
+      "Water Percentage": "N/A"
     },
-    "languages": {
-      "official": "Dhivehi",
-      "common": "English"
+    "Borders": {
+      "Ocean": "Indian Ocean"
     },
-    "ethnicity": {
-      "2022": [
-        {
-          "ethnicity": "Maldivians",
-          "percentage": 100
-        }
-      ]
+    "Coastline": "N/A",
+    "Topography": ["26 atolls", "Low-lying islands"],
+    "Climate": ["Tropical monsoon"],
+    "Natural Resources": ["Fish", "Coral", "Marine resources"],
+    "Time Zones": ["UTC+5 (Maldives Time)"],
+    "Largest City": "Malé"
+  },
+  "Demographics": {
+    "Population": {
+      "2022 Census": 515132,
+      "Rank": "167th",
+      "Density (per km2)": 1728.63
     },
-    "religion": "Islam (official)",
-    "government": {
-      "type": "Unitary presidential constitutional republic",
-      "president": "Mohamed Muizzu",
-      "vice_president": "Hussain Mohamed Latheef",
-      "speaker_of_majlis": "Mohamed Aslam",
-      "chief_justice": "Ahmed Muthasim Adnan",
-      "cabinet": "Cabinet Ministers",
-      "legislature": "People's Majlis",
-      "independence": {
-        "from_UK": "26 July 1965",
-        "republic_proclaimed": "11 November 1968",
-        "current_constitution": "7 August 2008"
+    "Ethnic Groups": {
+      "2022": {
+        "Maldivians": 100
       }
     },
-    "area": {
-      "total_sq_km": 298,
-      "rank": 187
+    "Languages": {
+      "Official": ["Dhivehi"],
+      "Common": ["English"]
     },
-    "population": {
-      "2022_census": 515132,
-      "rank": 167,
-      "density_per_sq_km": 1728.63
+    "Religion": {
+      "2022": {
+        "Islam": 100
+      }
     },
-    "economy": {
-      "GDP_PPP": {
-        "2023_estimate": {
-          "total": "$14.740 billion",
-          "per_capita": "$37,093",
-          "rank": 157
-        },
-        "GDP_nominal": {
-          "2023_estimate": {
-            "total": "$6.977 billion",
-            "per_capita": "$17,558",
-            "rank": 161
-          }
-        },
-        "gini": {
-          "year": 2017,
-          "value": 31.3,
-          "category": "medium"
+    "Demonym": "Maldivian"
+  },
+  "Government": {
+    "Type": "Unitary presidential constitutional republic",
+    "Leaders": {
+      "President": "Mohamed Muizzu",
+      "Vice President": "Hussain Mohamed Latheef",
+      "Speaker of Majlis": "Mohamed Aslam",
+      "Chief Justice": "Ahmed Muthasim Adnan"
+    },
+    "Legislature": "People's Majlis",
+    "Constitution": "7 August 2008"
+  },
+  "History": {
+    "Inhabitation": "Over 2,500 years",
+    "First Contact": {
+      "Year": 947,
+      "With": "Arab travellers"
+    },
+    "Islam Arrival": "12th century",
+    "Sultanate Establishment": "Soon after Islam arrival",
+    "European Colonial Influence": "Mid-16th century onwards",
+    "British Protectorate": "1887",
+    "Independence from UK": "26 July 1965",
+    "Republic Establishment": "11 November 1968"
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Fishing, tourism",
+    "Major Industries": ["Fishing", "Tourism"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 14.740,
+      "Per Capita (USD)": 37093
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 6.977,
+      "Per Capita (USD)": 17558
+    },
+    "Currency": ["Maldivian rufiyaa (MVR)", "United States dollar (USD, used in Maldivian resort islands)"],
+    "Gini Index": {
+      "Year": 2017,
+      "Value": 31.3,
+      "Category": "Medium"
     },
     "HDI": {
-      "year": 2021,
-      "value": 0.747,
-      "category": "high",
-      "rank": 90
+      "Year": 2021,
+      "Value": 0.747,
+      "Category": "High",
+      "Rank": "90th"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": ["United Nations (UN)", "Commonwealth of Nations", "Organisation of Islamic Cooperation (OIC)", "Non-Aligned Movement (NAM)", "South Asian Association for Regional Cooperation (SAARC)", "Dialogue Partner of the Shanghai Cooperation Organisation (SCO)"]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+5 (Maldives Time)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Left",
+    "Calling Code": "+960",
+    "ISO 3166 Code": "MV",
+    "Internet TLD": ".mv",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Independence Day (July 26)",
+      "Republic Day (November 11)",
+      "National Day (Varies)",
+      "Victory Day (November 3)",
+      "Eid al-Fitr (Varies)",
+      "Eid al-Adha (Varies)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of South Asian, Arab, and African influences",
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["The only country in the world that is 100% Muslim by law"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 5.0,
+    "Exports Growth": "Driven by tourism and fishing",
+    "Inflation Rate": "3.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Fishing", "Tourism"],
+      "Challenges": "Balancing economic growth with environmental protection"
+    },
+    "Market Performance": {
+      "Equity Market": "N/A",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on South Asian culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Fishing", "Tourism"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Sea, Air transport",
+    "Key Transport Hubs": ["Malé", "Hulhulé Island"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Occasional protests and political unrest",
+    "Economic Hardships": "Moderate unemployment and poverty rates",
+    "Natural Disasters": ["Rising sea levels"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "78.5 years",
+    "Infant Mortality Rate": "8.1 deaths/1,000 live births",
+    "Health Expenditure of GDP": "9.2% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "4.8% (2020)",
+    "Literacy Rate": {
+      "Total": "98.8%",
+      "Male": "98.5%",
+      "Female": "99.1%"
     }
   }
-},
-"currency": [
-  "Maldivian rufiyaa (MVR)",
-  "United States dollar (USD, used in Maldivian resort islands)"
-],
-"miscellaneous": {
-  "time_zone": "UTC+5 (Maldives Time)",
-  "date_format": "dd/mm/yyyy",
-  "driving_side": "left",
-  "calling_code": "+960",
-  "ISO_3166_code": "MV",
-  "internet_TLD": ".mv"
-},
-"geography": {
-  "territory_span": "90,000 square kilometres (35,000 sq mi) including the sea",
-  "land_area_sq_km": 298,
-  "description": "Smallest country in Asia and one of the world's most geographically dispersed sovereign states.",
-  "elevation": {
-    "average": "1.5 metres (4 ft 11 in) above sea level",
-    "highest_point": {
-      "name": "Mount Villingili",
-      "height": "2.4 metres (7 ft 10 in)"
-    }
-  },
-  "archipelago_location": "Chagos–Laccadive Ridge"
-},
-"history": {
-  "inhabitation": "Over 2,500 years",
-  "first_contact": {
-    "year": 947,
-    "with": "Arab travellers"
-  },
-  "islam_arrival": "12th century",
-  "sultanate_establishment": "Soon after Islam arrival",
-  "european_colonial_influence": "Mid-16th century onwards",
-  "british_protectorate": "1887",
-  "independence_from_UK": "1965",
-  "republic_establishment": "1968"
-},
-"international_affiliations": [
-  "United Nations",
-  "Commonwealth of Nations",
-  "Organisation of Islamic Cooperation",
-  "Non-Aligned Movement",
-  "South Asian Association for Regional Cooperation",
-  "Dialogue Partner of the Shanghai Cooperation Organisation"
-],
-"economic_sectors": {
-  "dominant": "Fishing",
-  "growing": "Tourism"
-},
-"HDI_status": {
-  "rating": "High",
-  "per_capita_income": "Higher than other SAARC nations"
-},
-"commonwealth_membership": {
-  "initial_membership": "July 1982",
-  "withdrawal": "October 2016",
-  "reason_for_withdrawal": "Protest against allegations of human rights abuses and failing democracy",
-  "rejoining": "1 February 2020"
-}
-}
 }
