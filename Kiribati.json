@@ -1,112 +1,189 @@
 {
-  "Kiribati": {
-    "official_name": "Republic of Kiribati",
-    "local_name": "Kiribati (Gilbertese)",
-    "description": "An island country in the Micronesia subregion of Oceania in the central Pacific Ocean.",
-    "population": {
-      "2020_census": "over 119,000",
-      "2021_estimate": "121,388",
-      "major_population_center": "South Tarawa on Tarawa atoll"
-    },
-    "geographical_details": {
-      "total_land_area": "811 km2",
-      "total_ocean_area": "3,441,810 km2",
-      "location": "Straddles the equator and the 180th meridian",
-      "time_zone_extremes": "UTC+12, +13, +14"
-    },
-    "flag": "URL_to_flag_image",
-    "coat_of_arms": "URL_to_coat_of_arms_image",
-    "motto": "Te Mauri, te Raoi ao te Tabomoa (Health, Peace and Prosperity)",
-    "anthem": {
-      "title": "Kunan Kiribati",
-      "translation": "Song of Kiribati",
-      "duration": "45 seconds"
-    },
-    "capital": {
-      "name": "South Tarawa",
-      "coordinates": "1°28′N 173°2′E"
-    },
-    "official_languages": ["English", "Gilbertese"],
-    "ethnic_groups": {
-      "2020_census": {
-        "Gilbertese": "95.7%",
-        "Other": "4.3%"
+  "Name": {
+    "Common": "Kiribati",
+    "Official": "Republic of Kiribati",
+    "Local": "Kiribati (Gilbertese)"
+  },
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Coat of Arms URL": "URL_to_coat_of_arms_image",
+    "Motto": "Te Mauri, te Raoi ao te Tabomoa (Health, Peace and Prosperity)",
+    "National Anthem": {
+      "Title": "Kunan Kiribati",
+      "Translation": "Song of Kiribati",
+      "Duration": "45 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Oceania",
+    "Region": "Micronesia",
+    "Coordinates": {
+      "Capital": {
+        "Name": "South Tarawa",
+        "Latitude": "1°28′N",
+        "Longitude": "173°2′E"
       }
     },
-    "religion": {
-      "2020_census": {
-        "Christianity": "96.2%",
-        "Roman_Catholic": "58.9%",
-        "Uniting_Church": "21.2%",
-        "Other_Christian": "16.1%",
-        "Baháʼí_Faith": "2.1%",
-        "Other_none": "1.7%"
+    "Location": "Straddles the equator and the 180th meridian in the central Pacific Ocean",
+    "Area": {
+      "Total Land (km2)": 811,
+      "Total Ocean (km2)": 3441810,
+      "Rank": "172nd",
+      "Water Percentage": "N/A"
+    },
+    "Borders": {},
+    "Coastline": "Extensive due to numerous islands and atolls",
+    "Terrain": ["Low-lying coral atolls"],
+    "Climate": ["Tropical; marine, hot and humid, moderated by trade winds"],
+    "Natural Resources": ["Fish, copra, phosphates (formerly)"],
+    "Time Zones": ["UTC+12", "UTC+13", "UTC+14"],
+    "Largest City": "South Tarawa"
+  },
+  "Demographics": {
+    "Population": {
+      "2020 Census": 119000,
+      "2021 Estimate": 121388,
+      "Density (per km2)": 149.7
+    },
+    "Ethnic Groups": {
+      "2020 Census": {
+        "Gilbertese": 95.7,
+        "Other": 4.3
       }
     },
-    "government": {
-      "type": "Unitary parliamentary republic with an executive presidency",
-      "current_leaders": {
-        "President": "Taneti Maamau",
-        "Vice-President": "Teuea Toatu"
-      },
-      "legislature": "House of Assembly",
-      "independence": {
-        "from_UK_and_US": "12 July 1979",
-        "Treaty_of_Tarawa": "20 September 1979"
+    "Languages": {
+      "Official": ["English", "Gilbertese"]
+    },
+    "Religion": {
+      "2020 Census": {
+        "Christianity": 96.2,
+        "Roman Catholic": 58.9,
+        "Uniting Church": 21.2,
+        "Other Christian": 16.1,
+        "Baháʼí Faith": 2.1,
+        "Other/None": 1.7
       }
     },
-    "economy": {
-      "GDP_PPP": {
-        "2023_estimate": {
-          "total": "$297 million",
-          "per_capita": "$2,381"
-        }
-      },
-      "GDP_nominal": {
-        "2023_estimate": {
-          "total": "$248 million",
-          "per_capita": "$1,989"
-        }
-      },
-      "HDI": "0.624 (2021, medium · 136th)"
+    "Demonym": "I-Kiribati"
+  },
+  "Government": {
+    "Type": "Unitary parliamentary republic with an executive presidency",
+    "Leaders": {
+      "President": "Taneti Maamau",
+      "Vice President": "Teuea Toatu"
     },
-    "currency": "Australian dollar (AUD)",
-    "driving_side": "left",
-    "calling_code": "+686",
-    "ISO_3166_code": "KI",
-    "internet_TLD": ".ki",
-    "historical_overview": {
-      "initial_inhabitation": "Over 2,500 years ago",
-      "phosphate_export": "Prior to independence",
-      "independence": "1979 from the UK and US"
+    "Legislature": "House of Assembly",
+    "Constitution": "12 July 1979"
+  },
+  "History": {
+    "Early Inhabitants": "Over 2,500 years ago",
+    "European Contact": "1606 by Spanish explorers",
+    "Colonial Era": "British protectorate established in 1892",
+    "Independence": {
+      "From UK and US": "12 July 1979",
+      "Treaty of Tarawa": "20 September 1979"
+    }
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Fisheries, export of copra, international aid",
+    "Major Industries": ["Fisheries", "Copra"],
+    "GDP (PPP 2023)": {
+      "Total (Million USD)": 297,
+      "Per Capita (USD)": 2381
     },
-    "economic_activities": {
-      "current_main_activities": ["Fisheries", "Export of copra"],
-      "aid_dependency": "Highly dependent on international aid"
+    "GDP (Nominal 2023)": {
+      "Total (Million USD)": 248,
+      "Per Capita (USD)": 1989
     },
-    "international_affiliations": [
-      "Pacific Community",
-      "Commonwealth of Nations",
-      "International Monetary Fund",
-      "World Bank",
-      "Organisation of African, Caribbean and Pacific States",
-      "United Nations (since 1999)"
-    ],
-    "environmental_challenges": {
-      "vulnerabilities": ["Climate change", "Tsunamis"],
-      "policy
-_focus": "Addressing climate change as part of the Alliance of Small Island States"
-},
-"communications_and_media": {
-// This section can include details about Kiribati's communication infrastructure, media landscape, internet access, etc.
-},
-"culture": {
-// This section can detail Kiribati's cultural aspects, traditions, festivals, arts, and crafts.
-},
-"pronunciation_and_etymology": {
-"pronunciation": "KIRR-ih-BASS",
-"meaning": {
-etymology of the name 'Kiribati'.
-}
-}
+    "Currency": "Australian dollar (AUD)",
+    "Gini Index": "N/A",
+    "HDI": {
+      "Score": 0.624,
+      "Rank": "136th"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": ["Pacific Community", "Commonwealth of Nations", "International Monetary Fund", "World Bank", "Organisation of African, Caribbean and Pacific States", "United Nations (since 1999)"]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+12", "UTC+13", "UTC+14"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Left",
+    "Calling Code": "+686",
+    "ISO 3166 Code": "KI",
+    "Internet TLD": ".ki",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Independence Day (July 12)",
+      "Christmas Day (December 25)",
+      "Boxing Day (December 26)",
+      "Youth Day (August 4)",
+      "Health Day (August 6)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of Micronesian and Western influences",
+    "Cultural Contributions": ["Traditional dance", "Music", "Arts and crafts"],
+    "Unique Features": ["Cultural emphasis on community and family"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 2.5,
+    "Exports Growth": "Driven by fisheries and copra",
+    "Inflation Rate": "3.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Fisheries", "Copra"],
+      "Challenges": "Balancing economic growth with climate change impacts"
+    },
+    "Market Performance": {
+      "Equity Market": "N/A",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population in South Tarawa",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Micronesian culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Fisheries", "Copra"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Air, and Sea transport",
+    "Key Transport Hubs": ["South Tarawa", "Kiritimati"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Occasional protests and political unrest",
+    "Economic Hardships": "High unemployment and poverty rates",
+    "Natural Disasters": ["Tsunamis"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "68.5 years",
+    "Infant Mortality Rate": "30 deaths/1,000 live births",
+    "Health Expenditure of GDP": "10.1% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "5.8% (2020)",
+    "Literacy Rate": {
+      "Total": "91.0%",
+      "Male": "92.0%",
+      "Female": "90.0%"
+    }
+  }
 }
