@@ -1,80 +1,198 @@
 {
-  "Kyrgyzstan": {
-    "official_name": "Kyrgyz Republic",
-    "alternative_names": ["Kirghizia",  "Kirgiziya"],
-    "Formerly": "Kirgiz Soviet Socialist Republic",
-    "location": {
-      "continent": "Asia",
-      "region": "Central Asia",
-      "coordinates": "42°52′N, 74°36′E",
-      "border_countries": ["Kazakhstan", "China", "Tajikistan", "Uzbekistan"],
-      "terrain": ["Tian Shan", "Pamir mountain ranges"],
-      "major_bodies_of_water": ["Lake Issyk-Kul", "Lake Song-Köl", "Naryn River", "Syr Darya"]
-    },
-    "political_structure": {
-      "government_type": "Unitary presidential republic",
-      "president": "Sadyr Japarov",
-      "prime_minister": "Akylbek Japarov",
-      "legislature": "Supreme Council",
-      "capital_city": "Bishkek"
-    },
-    "demographics": {
-      "population": 6916000,
-      "ethnic_groups": {
-        "Kyrgyz": "77.7%",
-        "Uzbeks": "14.1%",
-        "Russians": "3.9%",
-        "Dungans": "1.0%",
-        "Uyghurs": "0.5%",
-        "Others": "2.8%"
-      },
-      "languages": ["Kyrgyz", "Russian"],
-      "religions": {
-        "Islam": "90%",
-        "Christianity": "7%",
-        "Others": "3%"
+  "Name": {
+    "Common": "Kyrgyzstan",
+    "Official": "Kyrgyz Republic",
+    "Alternative": ["Kirghizia", "Kirgiziya"]
+  },
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Emblem URL": "URL_to_emblem_image",
+    "Anthem": {
+      "Title": "Kyrgyz Respublikasynyn Mamlekettik Gimni",
+      "Translation": "National Anthem of the Kyrgyz Republic",
+      "Duration": "1 minute and 26 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Asia",
+    "Region": "Central Asia",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Bishkek",
+        "Latitude": "42°52′N",
+        "Longitude": "74°36′E"
       }
     },
-    "economy": {
-      "GDP_PPP": "$44.623 billion",
-      "GDP_nominal": "$12.681 billion",
-      "GDP_per_capita_PPP": "$6438",
-      "GDP_per_capita_nominal": "$1829",
-      "main_industries": ["Gold", "Coal", "Uranium"]
+    "Location": "Central Asia, bordered by Kazakhstan to the north, China to the east, Tajikistan to the south, and Uzbekistan to the west",
+    "Area": {
+      "Total (km2)": 199951,
+      "Rank": "85th",
+      "Water Percentage": "N/A"
     },
-    "development_goals_2024": [
-      "Strengthening state institutional capacity",
-      "Enhancing quality of education and healthcare",
-      "Fostering sustainable economic growth and job creation",
-      "Expanding international cooperation",
-      "Promoting environmental sustainability"
-    ],
-    "historical_milestones": {
-      "Yenisei Kyrgyz Khaganate": "693",
-      "Annexation by Russian Empire": "1876",
-      "Soviet era": ["Kara-Kirghiz AO", "Kirghiz ASSR", "Kirghiz SSR"],
-      "Declaration of Sovereignty": "1990",
-      "Independence from USSR": "1991"
+    "Borders": {
+      "Kazakhstan": "north",
+      "China": "east",
+      "Tajikistan": "south",
+      "Uzbekistan": "west"
     },
-    "geographical_features": {
-      "Issyk-Kul_Region": "Second-largest saline lake",
-      "Tian_Shan_System": ["Chatkal range", "Talas range"],
-      "Alay_Valley_Pamir_Mountains": "High mountain valley"
+    "Coastline": "None (landlocked)",
+    "Terrain": ["Mountainous with the Tian Shan and Pamir mountain ranges"],
+    "Climate": ["Continental, with hot summers and cold, snowy winters"],
+    "Natural Resources": ["Gold, coal, uranium, mercury, antimony"],
+    "Time Zones": ["UTC+6"],
+    "Largest City": "Bishkek"
+  },
+  "Demographics": {
+    "Population": {
+      "2022 Estimate": 6916000,
+      "Density (per km2)": 34.6
     },
-    "public_holidays": [
-      "New Year's Day", 
-      "Christmas", 
-      "Defender of the Fatherland Day", 
-      "International Women's Day", 
-      "Nooruz Mairamy",
-      "Day of the People's April Revolution",
-      "Orozo Ait",
-      "International Workers' Day",
-      "Constitution Day",
-      "Great Patriotic War Against Fascism Victory Day",
-      "Kurman Ait",
-      "Independence Day",
-      "Days of History and Commemoration of Ancestors"
+    "Ethnic Groups": {
+      "2022": {
+        "Kyrgyz": 77.7,
+        "Uzbeks": 14.1,
+        "Russians": 3.9,
+        "Dungans": 1.0,
+        "Uyghurs": 0.5,
+        "Others": 2.8
+      }
+    },
+    "Languages": {
+      "Official": ["Kyrgyz", "Russian"]
+    },
+    "Religion": {
+      "2022": {
+        "Islam": 90,
+        "Christianity": 7,
+        "Others": 3
+      }
+    },
+    "Demonym": "Kyrgyzstani"
+  },
+  "Government": {
+    "Type": "Unitary presidential republic",
+    "Leaders": {
+      "President": "Sadyr Japarov",
+      "Prime Minister": "Akylbek Japarov",
+      "Speaker of the Supreme Council": "Nurlanbek Shakiev"
+    },
+    "Legislature": "Supreme Council",
+    "Constitution": "2010"
+  },
+  "History": {
+    "Yenisei Kyrgyz Khaganate": "693",
+    "Annexation by Russian Empire": "1876",
+    "Soviet Era": ["Kara-Kirghiz AO", "Kirghiz ASSR", "Kirghiz SSR"],
+    "Declaration of Sovereignty": "1990",
+    "Independence from USSR": "1991"
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Gold mining, agriculture, remittances",
+    "Major Industries": ["Gold", "Coal", "Uranium", "Agriculture"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 44.623,
+      "Per Capita (USD)": 6438
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 12.681,
+      "Per Capita (USD)": 1829
+    },
+    "Currency": "Kyrgyz som (KGS)",
+    "Gini Index": "29.0",
+    "HDI": {
+      "Score": 0.693,
+      "Rank": "120th"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": ["United Nations (UN)", "Shanghai Cooperation Organisation (SCO)", "Commonwealth of Independent States (CIS)", "Eurasian Economic Union (EAEU)"]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+6"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+996",
+    "ISO 3166 Code": "KG",
+    "Internet TLD": ".kg",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Christmas (January 7)",
+      "Defender of the Fatherland Day (February 23)",
+      "International Women's Day (March 8)",
+      "Nooruz Mairamy (March 21)",
+      "Day of the People's April Revolution (April 7)",
+      "Orozo Ait (Varies)",
+      "International Workers' Day (May 1)",
+      "Constitution Day (May 5)",
+      "Great Patriotic War Against Fascism Victory Day (May 9)",
+      "Kurman Ait (Varies)",
+      "Independence Day (August 31)",
+      "Days of History and Commemoration of Ancestors (November 7-8)"
     ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of Turkic, Persian, Russian, and Mongol influences",
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["Nomadic traditions", "Yurt craftsmanship"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 4.5,
+    "Exports Growth": "Driven by gold and agriculture",
+    "Inflation Rate": "5.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Gold", "Agriculture"],
+      "Challenges": "Balancing economic growth with environmental sustainability"
+    },
+    "Market Performance": {
+      "Equity Market": "N/A",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Central Asian culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Gold", "Agriculture", "Services"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air transport",
+    "Key Transport Hubs": ["Bishkek", "Osh"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Occasional protests and political unrest",
+    "Economic Hardships": "High unemployment and poverty rates",
+    "Natural Disasters": ["Earthquakes"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "71.5 years",
+    "Infant Mortality Rate": "23.4 deaths/1,000 live births",
+    "Health Expenditure of GDP": "6.4% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "5.8% (2020)",
+    "Literacy Rate": {
+      "Total": "99.2%",
+      "Male": "99.4%",
+      "Female": "99.0%"
+    }
   }
 }
