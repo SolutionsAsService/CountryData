@@ -1,115 +1,220 @@
 {
-  "Palau": {
-    "General Information": {
-       "Name": {
-        "Common": "Palau"
-        "Official": "Republic of Palau",
-        "Local": "Beluu er a Palau",
-       },
-      "Anthem": "Belau rekid",
-      "National Name": "Beluu er a Belau",
-      "Flag": "URL to Flag Image",
-      "Seal": "URL to Seal Image",
-      "Capital": "Ngerulmud",
-      "Largest City": "Koror",
-     "Location": {
-      "maritimeBoundaries":{
-         "international waters": "north", 
-          "Federated States of Micronesia": "east", 
-          "Indonesia": "south", 
-          "Philippines": "northwest"
-      "Coordinates": {
-        "Capital": "7°30′N 134°37′E",
-        "Largest City": "7°20′N 134°29′E"
+  "General Information": {
+    "Name": {
+      "Common": "Palau",
+      "Official": "Republic of Palau",
+      "Local": "Beluu er a Palau"
+    },
+    "Anthem": {
+      "Title": "Belau rekid",
+      "Translation": "Our Palau",
+      "Duration": "1 minute and 20 seconds"
+    },
+    "Flag URL": "URL_to_Flag_Image",
+    "Seal URL": "URL_to_Seal_Image",
+    "Capital": {
+      "Name": "Ngerulmud",
+      "Coordinates": "7°30′N 134°37′E"
+    },
+    "Largest City": {
+      "Name": "Koror",
+      "Coordinates": "7°20′N 134°29′E"
+    },
+    "Location": {
+      "Continent": "Asia",
+      "Region": "Micronesia, western Pacific Ocean",
+      "Maritime Boundaries": {
+        "North": "International waters",
+        "East": "Federated States of Micronesia",
+        "South": "Indonesia",
+        "Northwest": "Philippines"
       }
     },
-      "Official Languages": ["Palauan", "English"],
-      "Recognized Regional Languages": ["Japanese", "Sonsorolese", "Tobian"],
-      "Area": "459 square kilometers",
-      "Population": {
-        "2021 Estimate": "18,024",
-        "2020 Census": "17,614"
-      },
-      "Government Type": "Presidential republic in free association with the US",
-      "Demonym": "Palauan",
-      "Independence": {
-        "From the United States": "1 October 1994",
-        "Constitution Adopted": "2 April 1979"
-      },
-      "Time Zone": "UTC+9",
-      "Currency": "United States Dollar (USD)",
-      "Internet TLD": ".pw",
-      "Calling Code": "+680",
-      "ISO 3166 Code": "PW",
-      "Driving Side": "right",
-      "Date Format": "DD-MM-YYYY"
+    "Official Languages": ["Palauan", "English"],
+    "Recognized Regional Languages": ["Japanese", "Sonsorolese", "Tobian"],
+    "Area": "459 square kilometers",
+    "Population": {
+      "2021 Estimate": 18024,
+      "2020 Census": 17614
     },
-    "Etymology": {
-      "Local Name": "Belau",
-      "Derived From": "Palauan word for 'village', beluu",
-      "Alternate Names": ["Los Palaos", "Pelew Islands"]
+    "Government Type": "Presidential republic in free association with the US",
+    "Demonym": "Palauan",
+    "Independence": {
+      "From the United States": "1 October 1994",
+      "Constitution Adopted": "2 April 1979"
     },
-    "History": {
-      "First Settlement": "Around 2,000 years ago",
-      "Matrilineal Society": "Established by A.D. 600",
-      "European Contact": "First conscious discovery in December 1696",
-      "Colonial History": [
-        "Part of Spanish East Indies in 1885",
-        "Sold to Germany in 1899",
-        "Japanese-ruled South Seas Mandate after WWI"
-      ],
-      "Independence": "Gained in 1994"
-    },
-    "Politics and Government": {
-      "Political System": "Presidential republic",
+    "Time Zone": "UTC+09:00",
+    "Currency": "United States Dollar (USD)",
+    "Internet TLD": ".pw",
+    "Calling Code": "+680",
+    "ISO 3166 Code": "PW",
+    "Driving Side": "Right",
+    "Date Format": "DD-MM-YYYY"
+  },
+  "Etymology": {
+    "Local Name": "Beluu er a Belau",
+    "Derived From": "Palauan word for 'village', beluu",
+    "Alternate Names": ["Los Palaos", "Pelew Islands"]
+  },
+  "History": {
+    "First Settlement": "Around 2,000 years ago",
+    "Matrilineal Society": "Established by A.D. 600",
+    "European Contact": "First conscious discovery in December 1696",
+    "Colonial History": [
+      "Part of Spanish East Indies in 1885",
+      "Sold to Germany in 1899",
+      "Japanese-ruled South Seas Mandate after WWI"
+    ],
+    "Independence": "Gained in 1994"
+  },
+  "Politics and Government": {
+    "Political System": "Presidential republic",
+    "Leaders": {
       "President": "Surangel Whipps Jr.",
-      "Vice President": "Uduch Sengebau Senior",
-      "Legislature": "Palau National Congress",
-      "Judiciary": {
-        "Supreme Court": {},
-        "National Court": {},
-        "Court of Common Pleas": {}
-      },
-      "Military": {
-        "Defense": "Responsibility of the United States",
-        "Compact of Free Association": "50 years"
+      "Vice President": "Uduch Sengebau Senior"
+    },
+    "Legislature": "Palau National Congress",
+    "Judiciary": {
+      "Supreme Court": {},
+      "National Court": {},
+      "Court of Common Pleas": {}
+    },
+    "Military": {
+      "Defense": "Responsibility of the United States",
+      "Compact of Free Association": "50 years"
+    }
+  },
+  "Geography": {
+    "Location": "Micronesia, western Pacific Ocean",
+    "Islands Count": "Approximately 340",
+    "Climate": "Tropical, hot and humid"
+  },
+  "Economy": {
+    "GDP (PPP 2018)": {
+      "Total (Billion USD)": 0.300,
+      "Per Capita (USD)": 16296
+    },
+    "GDP (Nominal 2018)": {
+      "Total (Billion USD)": 0.322,
+      "Per Capita (USD)": 17438
+    },
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.767,
+      "Category": "High",
+      "Rank": "60th"
+    },
+    "Main Industries": ["Tourism", "Subsistence agriculture", "Fishing"],
+    "Foreign Aid": "Significant part of GNP"
+  },
+  "Demographics": {
+    "Ethnic Groups": {
+      "2021": {
+        "Palauan": 65.2,
+        "Asian": 31.6,
+        "Carolinian": 1.2,
+        "European": 1.0
       }
     },
-    "Geography": {
-      "Location": "Micronesia, western Pacific Ocean",
-      "Islands Count": "Approximately 340",
-      "Climate": "Tropical, hot and humid"
-    },
-    "Economy": {
-      "GDP (PPP) 2018": {
-        "Total": "$300 million",
-        "Per Capita": "$16,296"
-      },
-      "GDP (Nominal) 2018": {
-        "Total": "$322 million",
-        "Per Capita": "$17,438"
-      },
-      "HDI (2021)": "0.767 (high)",
-      "Main Industries": ["Tourism", "Subsistence agriculture", "Fishing"],
-      "Foreign Aid": "Significant part of GNP"
-    },
-    "Demographics": {
-      "Ethnic Groups": {
-        "Palauan": "65.2%",
-        "Asian": "31.6%",
-        "Carolinian": "1.2%",
-        "European": "1.0%"
-      },
-      "Religions": {
-        "Christianity": "78.7%",
-        "No Religion": "10.1%",
-        "Modekngei": "5.1%",
-        "Islam": "4.9%"
+    "Religions": {
+      "2021": {
+        "Christianity": 78.7,
+        "No Religion": 10.1,
+        "Modekngei": 5.1,
+        "Islam": 4.9
       }
     },
-    "Culture": {
-      "Influences": ["Micronesian", "Melanesian", "Asian", "Western"],
-      "Descent": ["Micronesian", "Melanesian", "Austronesian"]
+    "Demonym": "Palauan"
+  },
+  "Culture": {
+    "Influences": ["Micronesian", "Melanesian", "Asian", "Western"],
+    "Descent": ["Micronesian", "Melanesian", "Austronesian"],
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["Blend of Micronesian and Austronesian influences"]
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": [
+      "United Nations (UN)",
+      "Pacific Islands Forum (PIF)",
+      "Alliance of Small Island States (AOSIS)",
+      "World Bank",
+      "International Monetary Fund (IMF)"
+    ]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+09:00"],
+    "Date Format": ["DD-MM-YYYY"],
+    "Driving Side": "Right",
+    "Calling Code": "+680",
+    "ISO 3166 Code": "PW",
+    "Internet TLD": ".pw",
+    "Public Holidays": [
+      "New Year's Day",
+      "Independence Day",
+      "Christmas Day",
+      "Good Friday",
+      "Labor Day",
+      "Presidents' Day",
+      "Senior Citizens' Day"
+    ]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.5,
+    "Exports Growth": "Driven by tourism and fishing",
+    "Inflation Rate": "2.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Tourism", "Fishing"],
+      "Challenges": "Balancing economic growth with environmental protection"
+    },
+    "Market Performance": {
+      "Equity Market": "N/A",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Micronesian and global culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Tourism", "Fishing"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Air, and Sea transport",
+    "Key Transport Hubs": ["Koror", "Ngerulmud"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Low level of political unrest and instability",
+    "Economic Hardships": "Moderate poverty and unemployment rates",
+    "Natural Disasters": ["Typhoons"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "73.5 years",
+    "Infant Mortality Rate": "11.2 deaths/1,000 live births",
+    "Health Expenditure of GDP": "5.6% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "7.2% (2020)",
+    "Literacy Rate": {
+      "Total": "99.5%",
+      "Male": "99.5%",
+      "Female": "99.5%"
     }
   }
 }
