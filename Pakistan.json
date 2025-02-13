@@ -1,73 +1,215 @@
 {
-    "Pakistan": {
-        "Name": {
-        "Official": "Islamic Republic of Pakistan",
-         "Common":"Pakistan",
-        "Urdu": "اسلامی جمہوریہ پاكستان",
-        "Romanization":"Islāmī Jumhūriyah Pākistān"
-        },
-        "Status": ["Large Border Disputes", "Kashmir conflict", "Insurgency in Balochistan"],
-        "Symbol": {
-        "Flag": "Described Image",
-        "State Emblem": "Described Image",
-        "Motto": "Faith, Unity, Discipline",
-        "Anthem": "The National Anthem"
-         },
-        "Capital": "Islamabad",
-        "Largest City": "Karachi",
-        "Official Languages": ["Urdu", "English"],
-        "Native Languages": "Over 77 languages",
-        "Ethnic Groups": "Varied",
-        "Religion": {
-            "Islam": "96.5%",
-            "Hinduism": "2.1%",
-            "Christianity": "1.3%",
-            "Other": "0.1%"
-        },
-        "Demonym": "Pakistani",
-        "Government": {
-            "Type": "Federal Islamic parliamentary republic",
-            "President": "Arif Alvi",
-            "Prime Minister": "Anwaar ul Haq Kakar (caretaker)",
-            "Senate Chairman": "Sadiq Sanjrani",
-            "National Assembly Speaker": "Raja Pervaiz Ashraf",
-            "Chief Justice": "Qazi Faez Isa"
-        },
-        "Independence from the United Kingdom": {
-            "Declaration": "23 March 1940",
-            "Recognized Dominion": "14 August 1947",
-            "Republic": "23 March 1956",
-            "Current Constitution": "14 August 1973"
-        },
-        "Area": "881,913 square kilometers",
-        "Population": {
-            "2023 Census": "241,499,431",
-            "Density": "273.8 per square kilometer"
-        },
-        "Economy": {
-            "GDP (PPP, 2023)": "$1.568 trillion",
-            "Per Capita (PPP)": "$6,773",
-            "GDP (Nominal, 2023)": "$340.636 billion",
-            "Per Capita (Nominal)": "$1,471"
-        },
-        "Gini Coefficient": "31.6 (medium)",
-        "HDI": "0.544 (low, 161st)",
-        "Currency": "Pakistani rupee (PKR)",
-        "Time Zone": "UTC+05:00",
-        "Driving Side": "left",
-        "Calling Code": "+92",
-        "ISO 3166 Code": "PK",
-        "Internet TLD": ".pk",
-        "Historical Context": {
-            "Ancient Civilizations": ["Mehrgarh", "Indus Valley", "Gandhara"],
-            "Imperial History": ["Achaemenid", "Maurya", "Mughals", "British Raj"],
-            "Independence and Partition": "1947",
-            "Post-Independence": "Military and democratic governments"
-        },
-        "Cultural Aspects": {
-            "Diverse Ethnic Groups": "Various ethnicities",
-            "Languages": "Over 77 languages",
-            "Rich Cultural Heritage": "Music, literature, sports, cuisine"
-        }
+  "Name": {
+    "Common": "Pakistan",
+    "Official": "Islamic Republic of Pakistan",
+    "Native": {
+      "Urdu": "اسلامی جمہوریہ پاكستان",
+      "Romanization": "Islāmī Jumhūriyah Pākistān"
     }
+  },
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "State Emblem URL": "URL_to_state_emblem_image",
+    "Motto": "Faith, Unity, Discipline",
+    "Anthem": {
+      "Title": "Qaumi Taranah",
+      "Translation": "The National Anthem",
+      "Duration": "1 minute and 20 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Asia",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Islamabad",
+        "Latitude": "33.6844° N",
+        "Longitude": "73.0479° E"
+      }
+    },
+    "Location": "South Asia, bordered by India to the east, Afghanistan to the west, Iran to the southwest, and China to the north, with a coastline along the Arabian Sea to the south",
+    "Area": {
+      "Total (sq km)": 881913,
+      "Rank": "33rd",
+      "Water Percentage": "3.1%"
+    },
+    "Borders": {
+      "East": ["India"],
+      "West": ["Afghanistan"],
+      "Southwest": ["Iran"],
+      "North": ["China"]
+    },
+    "Topography": ["Mountain ranges", "Deserts", "Plains", "Plateaus"],
+    "Climate": ["Varies from tropical to temperate, with arid conditions in the coastal south"],
+    "Natural Resources": ["Coal", "Natural gas", "Petroleum", "Copper", "Iron ore", "Gold"],
+    "Time Zones": ["UTC+05:00"],
+    "Largest City": "Karachi"
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Census": 241499431,
+      "Density (per sq km)": 273.8
+    },
+    "Ethnic Groups": "Various ethnicities",
+    "Languages": {
+      "Official": ["Urdu", "English"],
+      "Recognised National": ["Punjabi", "Sindhi", "Pashto", "Balochi", "Saraiki", "Hindko", "Brahui", "Kashmiri", "Shina", "Balti"]
+    },
+    "Religion": {
+      "2023": {
+        "Islam": 96.5,
+        "Hinduism": 2.1,
+        "Christianity": 1.3,
+        "Other": 0.1
+      }
+    },
+    "Demonym": "Pakistani"
+  },
+  "Government": {
+    "Type": "Federal Islamic parliamentary republic",
+    "Leaders": {
+      "President": "Arif Alvi",
+      "Prime Minister": "Anwaar ul Haq Kakar (caretaker)",
+      "Senate Chairman": "Sadiq Sanjrani",
+      "National Assembly Speaker": "Raja Pervaiz Ashraf",
+      "Chief Justice": "Qazi Faez Isa"
+    },
+    "Legislature": {
+      "Upper House": "Senate",
+      "Lower House": "National Assembly"
+    },
+    "Constitution": "14 August 1973",
+    "Independence History": {
+      "Declaration": "23 March 1940",
+      "Recognized Dominion": "14 August 1947",
+      "Republic": "23 March 1956",
+      "Current Constitution": "14 August 1973"
+    }
+  },
+  "History": {
+    "Historical Context": {
+      "Ancient Civilizations": ["Mehrgarh", "Indus Valley", "Gandhara"],
+      "Imperial History": ["Achaemenid", "Maurya", "Mughals", "British Raj"],
+      "Independence and Partition": "1947",
+      "Post-Independence": "Military and democratic governments"
+    }
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Agriculture, industry, services",
+    "Major Industries": ["Textiles", "Agriculture", "Manufacturing", "Services"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 1568,
+      "Per Capita (USD)": 6773
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 340.636,
+      "Per Capita (USD)": 1471
+    },
+    "Currency": "Pakistani rupee (PKR)",
+    "Gini Index": {
+      "Year": 2023,
+      "Value": 31.6,
+      "Category": "Medium"
+    },
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.544,
+      "Category": "Low",
+      "Rank": "161st"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": [
+      "United Nations (UN)",
+      "Commonwealth of Nations",
+      "Organisation of Islamic Cooperation (OIC)",
+      "South Asian Association for Regional Cooperation (SAARC)",
+      "Shanghai Cooperation Organisation (SCO)",
+      "World Trade Organization (WTO)"
+    ]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+05:00"],
+    "Date Format": ["dd.mm.yyyy"],
+    "Driving Side": "Left",
+    "Calling Code": "+92",
+    "ISO 3166 Code": "PK",
+    "Internet TLD": ".pk",
+    "Public Holidays": [
+      "New Year's Day",
+      "Pakistan Day",
+      "Labour Day",
+      "Eid al-Fitr",
+      "Eid al-Adha",
+      "Independence Day",
+      "Defence Day",
+      "Iqbal Day",
+      "Quaid-e-Azam Day",
+      "Christmas Day"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of South Asian, Central Asian, and Middle Eastern influences",
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["Diverse ethnic groups", "Over 77 languages", "Rich cultural heritage"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 4.0,
+    "Exports Growth": "Driven by textiles and agriculture",
+    "Inflation Rate": "6.5%",
+    "Policy Response": {
+      "Focus": "Economic stabilization and growth",
+      "Areas": ["Agriculture", "Industry"],
+      "Challenges": "Balancing economic growth with social development"
+    },
+    "Market Performance": {
+      "Equity Market": "Pakistan Stock Exchange",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on South Asian and global culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Agriculture", "Industry"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air, and Sea transport",
+    "Key Transport Hubs": ["Karachi", "Lahore", "Islamabad"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Moderate level of political unrest and instability",
+    "Economic Hardships": "High poverty and unemployment rates",
+    "Natural Disasters": ["Floods", "Earthquakes"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "67.5 years",
+    "Infant Mortality Rate": "54.2 deaths/1,000 live births",
+    "Health Expenditure of GDP": "2.8% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "2.5% (2020)",
+    "Literacy Rate": {
+      "Total": "59.1%",
+      "Male": "71.1%",
+      "Female": "47.1%"
+    }
+  }
 }
