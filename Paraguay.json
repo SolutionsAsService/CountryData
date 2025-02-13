@@ -1,101 +1,224 @@
 {
-  "Paraguay": {
-    "Name":{
-       "Full": "Republic of Paraguay",
-       "Spanish": "República del Paraguay",
-       "Guarani":"Paraguái Tavakuairetã"
-    },
-  "Capital": "Asunción",
-  "Location": {
-    "Landlocked": true,
-    "Borders":{
-    {"Argentina": ["southwest","south"] },
-    {"Brazil": ["east", "northeast"] },
-    {"Bolivia": "northwest"}
-       },
-    "Coordinates": {
-    "Latitude": "25°16′S",
-    "Longitude": "57°40′W"
-     },
-    "Area": "406,752 km2",
-},
-  "Population": {
-    "2022 Census": "6,109,644",
-    "Density": "15/km2"
+  "Name": {
+    "Common": "Paraguay",
+    "Official": "Republic of Paraguay",
+    "Native": {
+      "Spanish": "República del Paraguay",
+      "Guarani": "Paraguái Tavakuairetã"
+    }
   },
-  "Official Languages": ["Spanish", "Guarani"],
-  "Religion": {
-    "Christianity": "96.1%",
-    "Catholicism": "88.3%",
-    "Other Christian": "7.8%",
-    "No Religion": "2.6%",
-    "Other": "0.4%",
-    "Unspecified": "0.8%"
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Coat of Arms URL": "URL_to_coat_of_arms_image",
+    "Motto": "Paz y Justicia (Peace and Justice)",
+    "Anthem": {
+      "Title": "Paraguayos, República o Muerte",
+      "Translation": "Paraguayans, The Republic or Death",
+      "Duration": "3 minutes and 30 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "South America",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Asunción",
+        "Latitude": "25°16′S",
+        "Longitude": "57°40′W"
+      }
+    },
+    "Location": "Landlocked country in Central South America, bordered by Argentina to the southwest and south, Brazil to the east and northeast, and Bolivia to the northwest",
+    "Area": {
+      "Total (sq km)": 406752,
+      "Rank": "60th",
+      "Water Percentage": "2.9%"
+    },
+    "Borders": {
+      "Southwest": ["Argentina"],
+      "South": ["Argentina"],
+      "East": ["Brazil"],
+      "Northeast": ["Brazil"],
+      "Northwest": ["Bolivia"]
+    },
+    "Topography": ["Gran Chaco region", "Eastern hills", "Plains"],
+    "Climate": ["Subtropical to temperate"],
+    "Natural Resources": ["Hydroelectric sites", "Forests"],
+    "Time Zones": ["UTC-4 (PYT)", "UTC-3 (PYST in Summer)"],
+    "Largest City": "Asunción"
+  },
+  "Demographics": {
+    "Population": {
+      "2022 Census": 6109644,
+      "Density (per sq km)": 15.0
+    },
+    "Ethnic Groups": {
+      "2022": {
+        "Mestizo": 95.0,
+        "Other": 5.0
+      }
+    },
+    "Languages": {
+      "Official": ["Spanish", "Guarani"],
+      "Recognised National": ["Other indigenous languages"]
+    },
+    "Religion": {
+      "2022": {
+        "Christianity": 96.1,
+        "Catholicism": 88.3,
+        "Other Christian": 7.8,
+        "No Religion": 2.6,
+        "Other": 0.4,
+        "Unspecified": 0.8
+      }
+    },
+    "Demonym": "Paraguayan"
   },
   "Government": {
     "Type": "Unitary presidential constitutional republic",
-    "President": "Santiago Peña",
-    "Vice President": "Pedro Alliana",
+    "Leaders": {
+      "President": "Santiago Peña",
+      "Vice President": "Pedro Alliana"
+    },
     "Legislature": {
       "Congress": {
         "Upper House": "Senate",
         "Lower House": "Chamber of Deputies"
       }
+    },
+    "Constitution": "20 June 1992",
+    "Independence History": {
+      "Declared": "14 May 1811",
+      "Recognized": "25 November 1842"
     }
   },
-  "Independence": {
-    "Declared": "14 May 1811",
-    "Recognized": "25 November 1842",
-    "Current Constitution": "20 June 1992"
-  },
-  "GDP (PPP)": {
-    "2023 Estimate": {
-      "Total": "$117.349 billion",
-      "Per Capita": "$19,809"
+  "History": {
+    "Historical Context": {
+      "Spanish Conquest": "1524",
+      "Asunción Established": "1537",
+      "Jesuit Missions": "17th century",
+      "Independence from Spain": "Early 19th century",
+      "Paraguayan War": "1864–1870",
+      "Chaco War": "1932–1935",
+      "Stroessner Regime": "1954–1989",
+      "Democratic Era": "Post-1989"
     }
   },
-  "GDP (Nominal)": {
-    "2023 Estimate": {
-      "Total": "$44.142 billion",
-      "Per Capita": "$7,243"
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Agriculture, industry, services",
+    "Major Industries": ["Sugar", "Cement", "Textiles", "Beverages", "Wood products", "Steel", "Metallurgic", "Electric power"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 117.349,
+      "Per Capita (USD)": 19809
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 44.142,
+      "Per Capita (USD)": 7243
+    },
+    "Currency": "Paraguayan guaraní (PYG)",
+    "Gini Index": {
+      "Year": 2020,
+      "Value": 43.5,
+      "Category": "High"
+    },
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.717,
+      "Category": "High",
+      "Rank": "98th"
     }
   },
-  "Gini (2020)": "43.5",
-  "HDI (2021)": "0.717",
-  "Currency": "Guaraní (PYG)",
-  "Time Zone": "UTC–4 (PYT), UTC–3 (PYST in Summer)",
-  "Driving Side": "right",
-  "Calling Code": "+595",
-  "ISO 3166 Code": "PY",
-  "Internet TLD": ".py",
-  "Ethnic Groups": {
-    "Mestizo": "95%"
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": [
+      "United Nations (UN)",
+      "Organization of American States (OAS)",
+      "Southern Common Market (Mercosur)",
+      "Union of South American Nations (UNASUR)",
+      "Community of Latin American and Caribbean States (CELAC)",
+      "World Trade Organization (WTO)"
+    ]
   },
-  "Natural Resources": ["Hydroelectric sites", "forests"],
-  "Main Industries": ["Sugar", "cement", "textiles", "beverages", "wood products", "steel", "metallurgic", "electric power"],
-  "Export Commodities": ["Electricity", "soybeans", "livestock feed", "cotton", "meat", "edible oils", "wood", "leather"],
-  "Import Commodities": ["Road vehicles", "consumer goods", "tobacco", "petroleum products", "pesticides", "electrical machinery", "tractors", "chemicals", "vehicle parts"],
-  "Export Partners": {
-    "Brazil": "31.7%",
-    "Russia": "9.1%",
-    "Chile": "7.1%",
-    "Argentina": "7%"
+  "Miscellaneous": {
+    "Time Zone": ["UTC-4 (PYT)", "UTC-3 (PYST in Summer)"],
+    "Date Format": ["dd.mm.yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+595",
+    "ISO 3166 Code": "PY",
+    "Internet TLD": ".py",
+    "Public Holidays": [
+      "New Year's Day",
+      "Heroes Day",
+      "Maundy Thursday",
+      "Good Friday",
+      "Labor Day",
+      "Independence Day",
+      "Chaco Armistice Day",
+      "Boquerón Day",
+      "Virgin of Caacupé Day",
+      "Christmas Day"
+    ]
   },
-  "Import Partners": {
-    "Brazil": "25.4%",
-    "China": "23.7%",
-    "Argentina": "14.8%",
-    "USA": "7.9%"
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of indigenous and Spanish influences",
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["Bilingual nation", "Guarani culture", "Traditional festivals"]
   },
-  "Literacy Rate": "91.6%",
-  "Key Historical Points": {
-    "Spanish Conquest": "1524",
-    "Asunción Established": "1537",
-    "Jesuit Missions": "17th century",
-    "Independence from Spain": "Early 19th century",
-    "Paraguayan War": "1864–1870",
-    "Chaco War": "1932–1935",
-    "Stroessner Regime": "1954-1989",
-    "Democratic Era": "Post-1989"
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 4.2,
+    "Exports Growth": "Driven by agriculture and industry",
+    "Inflation Rate": "3.8%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Agriculture", "Industry"],
+      "Challenges": "Balancing economic growth with social development"
+    },
+    "Market Performance": {
+      "Equity Market": "Asunción Stock Exchange",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on South American culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Agriculture", "Industry"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Air, and River transport",
+    "Key Transport Hubs": ["Asunción", "Ciudad del Este", "Encarnación"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Low level of political unrest and instability",
+    "Economic Hardships": "Moderate poverty and unemployment rates",
+    "Natural Disasters": ["Floods"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "74.7 years",
+    "Infant Mortality Rate": "16.3 deaths/1,000 live births",
+    "Health Expenditure of GDP": "5.6% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "3.9% (2020)",
+    "Literacy Rate": {
+      "Total": "91.6%",
+      "Male": "93.1%",
+      "Female": "90.2%"
+    }
   }
 }
