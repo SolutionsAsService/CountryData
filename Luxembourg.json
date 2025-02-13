@@ -1,89 +1,210 @@
 {
-    "Luxembourg": {
-        "Official Name": "Grand Duchy of Luxembourg",
-        "Local Names": {
-            "Luxembourgish": "Groussherzogtum Lëtzebuerg",
-            "French": "Grand-Duché de Luxembourg",
-            "German": "Großherzogtum Luxemburg"
-        },
-        "Symbols": {
-            "Flag": "Flag of Luxembourg",
-            "Coat of Arms": "Coat of arms of Luxembourg",
-            "Motto": "Mir wëlle bleiwe wat mir sinn ('We want to remain what we are')",
-            "Anthem": "Ons Heemecht ('Our Homeland')",
-            "Royal Anthem": "De Wilhelmus"
-        },
-        "Location": {
-            "Continent": "Europe",
-            "Capital": "Luxembourg City",
-            "Coordinates": "49°48′52″N 06°07′54″E"
-        },
-        "Languages": {
-            "National Language": "Luxembourgish",
-            "Administrative Languages": ["Luxembourgish", "French", "German"]
-        },
-        "Nationality": {
-            "2023 Composition": {
-                "Luxembourgers": "52.8%",
-                "Portuguese": "14.5%",
-                "French": "7.6%",
-                "Italians": "3.7%",
-                "Others": "21.4%"
-            }
-        },
-        "Religion": {
-            "Christianity": "73.2%",
-            "Catholicism": "63.8%",
-            "Other Christian": "9.4%",
-            "No Religion": "23.4%",
-            "Other Religions": "3.2%"
-        },
-        "Government": {
-            "Type": "Unitary parliamentary constitutional monarchy",
-            "Grand Duke": "Henri",
-            "Prime Minister": "Luc Frieden",
-            "Deputy Prime Minister": "Xavier Bettel",
-            "Speaker": "Claude Wiseler",
-            "Legislature": "Chamber of Deputies"
-        },
-        "Independence and Historical Key Events": {
-            "From French Empire": "15 March 1815",
-            "Treaty of London": ["19 April 1839", "11 May 1867"],
-            "End of Personal Union with Netherlands": "23 November 1890",
-            "World War I and II": ["1 August 1914", "1944/1945"],
-            "United Nations Admission": "24 October 1945",
-            "EEC Founding": "1 January 1958"
-        },
-        "Area": {
-            "Total": "2,586.4 square kilometers",
-            "Water Percentage": "0.23%"
-        },
-        "Population": {
-            "2023 Estimate": "660,809",
-            "2021 Census": "643,941",
-            "Density": "255 per square kilometer"
-        },
-        "Economy": {
-            "GDP (PPP, 2023)": {
-                "Total": "$94.152 billion",
-                "Per Capita": "$143,303"
-            },
-            "GDP (Nominal, 2023)": {
-                "Total": "$89.095 billion",
-                "Per Capita": "$135,605"
-            },
-            "Gini Index": "32.3",
-            "HDI": "0.930"
-        },
-        "Currency": "Euro (€) (EUR)",
-        "Time Zone": "CET (UTC+1), CEST (UTC+2 in summer)",
-        "Date Format": "dd.mm.yyyy",
-        "Driving Side": "right",
-        "Calling Code": "+352",
-        "ISO 3166 Code": "LU",
-        "Internet TLD": ".lu",
-        "UNESCO World Heritage Site": "City of Luxembourg",
-        "International Memberships": ["European Union", "OECD", "United Nations", "NATO", "Benelux"],
-        "UN Security Council": "2013 and 2014"
+  "Name": {
+    "Common": "Luxembourg",
+    "Official": "Grand Duchy of Luxembourg",
+    "Native": {
+      "Luxembourgish": "Groussherzogtum Lëtzebuerg",
+      "French": "Grand-Duché de Luxembourg",
+      "German": "Großherzogtum Luxemburg"
     }
+  },
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Coat of Arms URL": "URL_to_coat_of_arms_image",
+    "Motto": "Mir wëlle bleiwe wat mir sinn (We want to remain what we are)",
+    "Anthem": {
+      "Title": "Ons Heemecht",
+      "Translation": "Our Homeland",
+      "Duration": "1 minute and 30 seconds"
+    },
+    "Royal Anthem": {
+      "Title": "De Wilhelmus",
+      "Duration": "2 minutes"
+    }
+  },
+  "Geography": {
+    "Continent": "Europe",
+    "Region": "Western Europe",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Luxembourg City",
+        "Latitude": "49°48′52″N",
+        "Longitude": "06°07′54″E"
+      }
+    },
+    "Location": "Western Europe, bordered by Belgium to the west and north, Germany to the east, and France to the south",
+    "Area": {
+      "Total (km2)": 2586.4,
+      "Rank": "167th",
+      "Water Percentage": "0.23%"
+    },
+    "Borders": {
+      "Belgium": "west and north",
+      "Germany": "east",
+      "France": "south"
+    },
+    "Coastline": "None (landlocked)",
+    "Terrain": ["Gently rolling uplands, broad valleys"],
+    "Climate": ["Modified continental with mild winters and cool summers"],
+    "Natural Resources": ["Iron ore, arable land"],
+    "Time Zones": ["CET (UTC+1)", "CEST (UTC+2) during DST"],
+    "Largest City": "Luxembourg City"
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 660809,
+      "Density (per km2)": 255
+    },
+    "Ethnic Groups": {
+      "2023": {
+        "Luxembourgers": 52.8,
+        "Portuguese": 14.5,
+        "French": 7.6,
+        "Italians": 3.7,
+        "Others": 21.4
+      }
+    },
+    "Languages": {
+      "National": ["Luxembourgish"],
+      "Administrative": ["Luxembourgish", "French", "German"]
+    },
+    "Religion": {
+      "2021": {
+        "Christianity": 73.2,
+        "Catholicism": 63.8,
+        "Other Christian": 9.4,
+        "No Religion": 23.4,
+        "Other Religions": 3.2
+      }
+    },
+    "Demonym": "Luxembourger"
+  },
+  "Government": {
+    "Type": "Unitary parliamentary constitutional monarchy",
+    "Leaders": {
+      "Grand Duke": "Henri",
+      "Prime Minister": "Luc Frieden",
+      "Deputy Prime Minister": "Xavier Bettel",
+      "Speaker of Parliament": "Claude Wiseler"
+    },
+    "Legislature": "Chamber of Deputies",
+    "Constitution": "17 October 1868"
+  },
+  "History": {
+    "Independence and Historical Key Events": {
+      "From French Empire": "15 March 1815",
+      "Treaty of London": ["19 April 1839", "11 May 1867"],
+      "End of Personal Union with Netherlands": "23 November 1890",
+      "World War I and II": ["1 August 1914", "1944/1945"],
+      "United Nations Admission": "24 October 1945",
+      "EEC Founding": "1 January 1958"
+    }
+  },
+  "Economy": {
+    "Status": "Developed country",
+    "Dependence": "Banking, finance, steel, agriculture",
+    "Major Industries": ["Banking", "Finance", "Steel", "Agriculture"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 94.152,
+      "Per Capita (USD)": 143303
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 89.095,
+      "Per Capita (USD)": 135605
+    },
+    "Currency": "Euro (€) (EUR)",
+    "Gini Index": 32.3,
+    "HDI": {
+      "Score": 0.930,
+      "Rank": "23rd"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": ["European Union (EU)", "Organisation for Economic Co-operation and Development (OECD)", "United Nations (UN)", "North Atlantic Treaty Organization (NATO)", "Benelux Economic Union (Benelux)"]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["CET (UTC+1)", "CEST (UTC+2) during DST"],
+    "Date Format": ["dd.mm.yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+352",
+    "ISO 3166 Code": "LU",
+    "Internet TLD": ".lu",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Easter Monday (Varies)",
+      "Labor Day (May 1)",
+      "Europe Day (May 9)",
+      "Ascension Day (Varies)",
+      "Whit Monday (Varies)",
+      "National Day (June 23)",
+      "Assumption Day (August 15)",
+      "All Saints' Day (November 1)",
+      "Christmas Day (December 25)",
+      "Boxing Day (December 26)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of Luxembourgish, French, and German influences",
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["UNESCO World Heritage Site of the City of Luxembourg"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.0,
+    "Exports Growth": "Driven by banking and finance",
+    "Inflation Rate": "2.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Banking", "Finance"],
+      "Challenges": "Balancing economic growth with environmental protection"
+    },
+    "Market Performance": {
+      "Equity Market": "N/A",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Western European culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Banking", "Finance", "Steel"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air transport",
+    "Key Transport Hubs": ["Luxembourg City"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Low level of political unrest and instability",
+    "Economic Hardships": "Low unemployment and poverty rates",
+    "Natural Disasters": ["Flooding"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "82.0 years",
+    "Infant Mortality Rate": "2.8 deaths/1,000 live births",
+    "Health Expenditure of GDP": "6.3% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "4.6% (2020)",
+    "Literacy Rate": {
+      "Total": "100%",
+      "Male": "100%",
+      "Female": "100%"
+    }
+  }
 }
