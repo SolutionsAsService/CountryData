@@ -1,94 +1,216 @@
 {
-  "Papua New Guinea": {
-  "FullName": "Independent State of Papua New Guinea",
-  "TokPisinName": "Independen Stet bilong Papua Niugini",
-  "HiriMotuName": "Independen Stet bilong Papua Niu Gini",
-  "Abbreviation": "PNG",
-  "location": {
-    "continent": "Oceania",
-    "coordinates": "09°28′44″S 147°08′58″E",
-    "borders": ["Indonesia to the west"],
-    "maritime_borders": ["Australia to the south", "Solomon Islands to the east"]
+  "Name": {
+    "Common": "Papua New Guinea",
+    "Official": "Independent State of Papua New Guinea",
+    "Native": {
+      "Tok Pisin": "Independen Stet bilong Papua Niugini",
+      "Hiri Motu": "Independen Stet bilong Papua Niu Gini"
+    },
+    "Abbreviation": "PNG"
   },
-  "capital_city": "Port Moresby",
-  "area": {
-    "total_km2": 462840,
-    "rank": 54
-  },
-  "population": {
-    "2023_estimate": 9507000,
-    "2011_census": 7257324,
-    "density_per_km2": 15
-  },
-  "government": {
-    "type": "Unitary parliamentary constitutional monarchy",
-    "monarch": "Charles III",
-    "governor_general": "Bob Dadae",
-    "prime_minister": "James Marape",
-    "legislature": "National Parliament"
-  },
-  "independence": {
-    "from_Australia": {
-      "Papua_and_New_Guinea_Act": "1 July 1949",
-      "declared_and_recognised": "16 September 1975"
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Coat of Arms URL": "URL_to_coat_of_arms_image",
+    "Motto": "Unity in Diversity",
+    "Anthem": {
+      "Title": "O Arise, All You Sons",
+      "Translation": "N/A",
+      "Duration": "1 minute and 20 seconds"
     }
   },
-  "Language": {
-    "official": ["English", "Hiri Motu", "PNG Sign Language", "Tok Pisin"],
-    "indigenous": 851
-  },
-  "ethnic_groups": ["Papuan"],
-  "religion": {
-    "Christianity": "95.5%",
-    "Protestantism": "64.3%",
-    "Catholicism": "26.0%",
-    "Other_Christian": "5.2%",
-    "Unspecified": "3.1%",
-    "Others_None": "1.4%"
-  },
-  "economy": {
-    "GDP_PPP": {
-      "2023_estimate_total": "$41.785 billion",
-      "per_capita": "$3,403"
+  "Geography": {
+    "Continent": "Oceania",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Port Moresby",
+        "Latitude": "09°28′44″S",
+        "Longitude": "147°08′58″E"
+      }
     },
-    "GDP_nominal": {
-      "2023_estimate_total": "$31.692 billion",
-      "per_capita": "$2,581"
+    "Location": "Oceania, bordered by Indonesia to the west, with maritime borders with Australia to the south and Solomon Islands to the east",
+    "Area": {
+      "Total (sq km)": 462840,
+      "Rank": "54th",
+      "Water Percentage": "2.0%"
     },
-    "sectors": {
-      "agricultural_forestry_fishing": "majority labor force",
-      "minerals_energy_extraction": "most export earnings and GDP"
+    "Borders": {
+      "West": ["Indonesia"]
+    },
+    "Maritime Borders": {
+      "South": ["Australia"],
+      "East": ["Solomon Islands"]
+    },
+    "Topography": ["Mountainous terrain", "Coastal plains", "Rainforests"],
+    "Climate": ["Tropical"],
+    "Natural Resources": ["Gold", "Copper", "Oil", "Natural gas", "Timber", "Fish"],
+    "Time Zones": ["UTC+10:00"],
+    "Largest City": "Port Moresby",
+    "Major Islands": ["New Britain", "New Ireland", "Bougainville", "600 smaller islands and atolls"],
+    "Exclusive Economic Zone (sq km)": 2402288
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 9507000,
+      "2011 Census": 7257324,
+      "Density (per sq km)": 15.0
+    },
+    "Ethnic Groups": ["Papuan"],
+    "Languages": {
+      "Official": ["English", "Hiri Motu", "PNG Sign Language", "Tok Pisin"],
+      "Indigenous": 851
+    },
+    "Religion": {
+      "2023": {
+        "Christianity": 95.5,
+        "Protestantism": 64.3,
+        "Catholicism": 26.0,
+        "Other Christian": 5.2,
+        "Unspecified": 3.1,
+        "Others/None": 1.4
+      }
+    },
+    "Demonym": "Papua New Guinean"
+  },
+  "Government": {
+    "Type": "Unitary parliamentary constitutional monarchy",
+    "Leaders": {
+      "Monarch": "Charles III",
+      "Governor General": "Bob Dadae",
+      "Prime Minister": "James Marape"
+    },
+    "Legislature": "National Parliament",
+    "Constitution": "16 September 1975",
+    "Independence History": {
+      "From Australia": {
+        "Papua and New Guinea Act": "1 July 1949",
+        "Declared and Recognised": "16 September 1975"
+      }
     }
   },
-  "demographics": {
-    "life_expectancy": 69.7,
-    "fertility_rate": 3.85,
-    "literacy_rate": 64.2
+  "History": {
+    "Historical Context": {
+      "Pre-Colonial Era": ["Papuan and Austronesian settlers"],
+      "Colonial Period": ["German New Guinea", "British New Guinea", "Australian administration"],
+      "20th Century": ["World War II impact", "Path to independence"],
+      "Modern Era": ["Post-independence development", "Political stability and challenges"]
+    }
   },
-  "administrative_divisions": {
-    "regions": 4,
-    "provinces": 22,
-    "districts": "multiple",
-    "local_level_governments": "multiple"
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Agriculture, minerals, energy extraction",
+    "Major Industries": ["Agriculture", "Forestry", "Fishing", "Minerals", "Energy"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 41.785,
+      "Per Capita (USD)": 3403
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 31.692,
+      "Per Capita (USD)": 2581
+    },
+    "Currency": "Papua New Guinean kina (PGK)",
+    "Gini Index": {
+      "Year": 2023,
+      "Value": 41.9,
+      "Category": "High"
+    },
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.555,
+      "Category": "Medium",
+      "Rank": "155th"
+    }
   },
-  "geography": {
-    "island_country": true,
-    "major_islands": ["New Britain", "New Ireland", "Bougainville", "600 smaller islands and atolls"],
-    "exclusive_economic_zone_km2": 2402288
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": [
+      "United Nations (UN)",
+      "Commonwealth of Nations",
+      "Association of Southeast Asian Nations (ASEAN) - Observer State",
+      "Pacific Islands Forum (PIF)",
+      "Melanesian Spearhead Group (MSG)",
+      "World Bank",
+      "International Monetary Fund (IMF)"
+    ]
   },
-  "international_relations": {
-    "UN_Member": true,
-    "commonwealth_member": true,
-    "ASEAN_observer_state": true
+  "Miscellaneous": {
+    "Time Zone": ["UTC+10:00"],
+    "Date Format": ["dd.mm.yyyy"],
+    "Driving Side": "Left",
+    "Calling Code": "+675",
+    "ISO 3166 Code": "PG",
+    "Internet TLD": ".pg",
+    "Public Holidays": [
+      "New Year's Day",
+      "Good Friday",
+      "Easter Monday",
+      "Queen's Birthday",
+      "Remembrance Day",
+      "Independence Day",
+      "Christmas Day",
+      "Boxing Day"
+    ]
   },
-  "environmental_issues": [
-    "rain forest loss",
-    "soil erosion",
-    "water quality degradation",
-    "biodiversity loss",
-    "mining impact",
-    "drought",
-    "inappropriate farming practices"
-  ]
-}
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with diverse ethnic groups and languages",
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["Extensive linguistic diversity", "Traditional customs and rituals"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.8,
+    "Exports Growth": "Driven by minerals and energy extraction",
+    "Inflation Rate": "4.5%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Agriculture", "Minerals"],
+      "Challenges": "Balancing economic growth with environmental protection"
+    },
+    "Market Performance": {
+      "Equity Market": "Port Moresby Stock Exchange",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Melanesian and global culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Agriculture", "Minerals"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Air, and Sea transport",
+    "Key Transport Hubs": ["Port Moresby", "Lae", "Madang"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Moderate level of political unrest and instability",
+    "Economic Hardships": "High poverty and unemployment rates",
+    "Natural Disasters": ["Earthquakes", "Volcanic eruptions"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "69.7 years",
+    "Infant Mortality Rate": "36.5 deaths/1,000 live births",
+    "Health Expenditure of GDP": "4.2% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "4.1% (2020)",
+    "Literacy Rate": {
+      "Total": "64.2%",
+      "Male": "71.1%",
+      "Female": "57.3%"
+    }
+  }
 }
