@@ -1,75 +1,212 @@
 {
-  "Singapore": {
-  "FullName": "Republic of Singapore",
-  "MalayName":	"Republik Singapura",
-   "MandarinName":	"新加坡共和国",
-  "TamilName":	"சிங்கப்பூர் குடியரசு",
-   "Etymology": {
-    "EnglishName": "Singapore",
-    "LocalName": "Singapura",
-    "Meaning": "Lion City",
-    "DerivedFrom": "Sanskrit Siṃhapura"
+  "Name": {
+    "Common": "Singapore",
+    "Official": "Republic of Singapore",
+    "Native": {
+      "Malay": "Republik Singapura",
+      "Mandarin": "新加坡共和国",
+      "Tamil": "சிங்கப்பூர் குடியரசு"
+    }
   },
-  "History": {
-    "EarlyHistory": "Maritime emporium, known as Temasek",
-    "BritishColonisation": "1819, by Stamford Raffles",
-    "WWII": "Occupied by Japan in 1942",
-    "Independence": "1965, from Malaysia"
+  "Etymology": {
+    "English Name": "Singapore",
+    "Local Name": "Singapura",
+    "Meaning": "Lion City",
+    "Derived From": "Sanskrit Siṃhapura"
+  },
+  "Symbols": {
+    "Flag": "Flag of Singapore",
+    "Coat of Arms": "Coat of arms of Singapore",
+    "Motto": "Majulah Singapura (Onward Singapore)",
+    "Anthem": {
+      "Title": "Majulah Singapura",
+      "Translation": "Onward Singapore",
+      "Duration": "1 minute and 13 seconds"
+    }
   },
   "Geography": {
-    "Location": "Southeast Asia",
-    "Coordinates": "1°17′N 103°50′E",
-    "Area": "734.3 km2",
-    "MainIsland": "Singapore Island",
-    "TotalIslands": "63+ satellite islands and islets"
+    "Continent": "Asia",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Singapore",
+        "Latitude": "1°17′N",
+        "Longitude": "103°50′E"
+      }
+    },
+    "Location": "Southeast Asia, at the southern tip of the Malay Peninsula",
+    "Area": {
+      "Total (sq km)": 734.3,
+      "Total Islands": "63+ satellite islands and islets"
+    },
+    "Topography": ["Low-lying, with a central plateau", "Highest point: Bukit Timah Hill"],
+    "Climate": ["Tropical rainforest climate, with no distinct seasons"],
+    "Natural Resources": ["Fish", "Deepwater ports"],
+    "Time Zones": ["UTC+08:00"],
+    "Largest City": "Singapore"
   },
   "Demographics": {
     "Population": {
-      "2023Estimate": "5,917,600",
-      "Density": "7,804/km2"
+      "2023 Estimate": 5917600,
+      "Density (per sq km)": 7804
     },
-    "EthnicGroups": {
-      "Chinese": "74.3%",
-      "Malay": "13.5%",
-      "Indian": "9.0%",
-      "Others": "3.2%"
+    "Ethnic Groups": {
+      "2023": {
+        "Chinese": 74.3,
+        "Malay": 13.5,
+        "Indian": 9.0,
+        "Others": 3.2
+      }
     },
     "Languages": {
       "Official": ["English", "Malay", "Mandarin", "Tamil"],
       "National": "Malay"
     },
     "Religion": {
-      "Buddhism": "31.1%",
-      "NoReligion": "20.0%",
-      "Christianity": "18.9%",
-      "Islam": "15.6%",
-      "Others": ["Taoism", "Hinduism"]
-    }
+      "2020": {
+        "Buddhism": 31.1,
+        "No Religion": 20.0,
+        "Christianity": 18.9,
+        "Islam": 15.6,
+        "Others": ["Taoism", "Hinduism"]
+      }
+    },
+    "Demonym": "Singaporean"
   },
   "Government": {
     "Type": "Unitary dominant-party parliamentary republic",
-    "President": "Tharman Shanmugaratnam",
-    "PrimeMinister": "Lee Hsien Loong"
+    "Leaders": {
+      "President": "Tharman Shanmugaratnam",
+      "Prime Minister": "Lee Hsien Loong"
+    },
+    "Legislature": "Parliament",
+    "Constitution": "9 August 1965",
+    "Independence History": {
+      "From Malaysia": "9 August 1965"
+    }
+  },
+  "History": {
+    "Historical Context": {
+      "Early History": "Maritime emporium, known as Temasek",
+      "British Colonisation": "1819, by Stamford Raffles",
+      "WWII": "Occupied by Japan in 1942",
+      "Independence": "1965, from Malaysia"
+    }
   },
   "Economy": {
-    "GDP_PPP_2023": "$753.273 billion",
-    "GDP_Nominal_2023": "$497.347 billion",
-    "GDP_PerCapita_PPP": "$133,107",
-    "GDP_PerCapita_Nominal": "$87,884",
-    "GiniIndex": "45.9 (2017)",
-    "HDI": "0.939 (2021)"
+    "Status": "Highly developed free-market economy",
+    "Dependence": "Trade, finance, manufacturing",
+    "Major Industries": ["Electronics", "Pharmaceuticals", "Financial services", "Tourism"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 753.273,
+      "Per Capita (USD)": 133107
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 497.347,
+      "Per Capita (USD)": 87884
+    },
+    "Currency": "Singapore Dollar (SGD)",
+    "Gini Index": {
+      "Year": 2017,
+      "Value": 45.9,
+      "Category": "Medium"
+    },
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.939,
+      "Category": "Very High",
+      "Rank": "11th"
+    }
   },
-  "Culture": {
-    "CulturalSymbols": ["Merlion", "Gardens by the Bay"],
-    "Housing": "92% home ownership rate",
-    "Education": "Top in global math-and-science-education ranking",
-    "UniqueLaws": ["Ban on chewing gum", "Urine Detection Device in elevators"]
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": [
+      "ASEAN",
+      "United Nations (UN)",
+      "World Trade Organization (WTO)",
+      "Commonwealth of Nations"
+    ]
   },
-  "InternationalAffiliations": [
-    "ASEAN",
-    "United Nations",
-    "World Trade Organization",
-    "Commonwealth of Nations"
-  ]
-}
+  "Miscellaneous": {
+    "Time Zone": ["UTC+08:00"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Left",
+    "Calling Code": "+65",
+    "ISO 3166 Code": "SG",
+    "Internet TLD": [".sg"],
+    "Public Holidays": [
+      "New Year's Day",
+      "Chinese New Year",
+      "Good Friday",
+      "Labour Day",
+      "Hari Raya Puasa",
+      "Vesak Day",
+      "Hari Raya Haji",
+      "National Day",
+      "Deepavali",
+      "Christmas Day"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with influences from Malay, Chinese, Indian, and Western cultures",
+    "Cultural Contributions": ["Music", "Cuisine", "Literature", "Dance"],
+    "Unique Features": ["Merlion", "Gardens by the Bay", "Hawker centres", "Singapore Botanic Gardens (UNESCO World Heritage Site)"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.1,
+    "Exports Growth": "Driven by electronics and pharmaceuticals sectors",
+    "Inflation Rate": "1.5%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Trade", "Finance", "Manufacturing"],
+      "Challenges": "Balancing economic growth with social development"
+    },
+    "Market Performance": {
+      "Equity Market": "Singapore Exchange (SGX)",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Highly urbanized, with the entire city-state being urban",
+      "Rural Development": "Limited, focus on urban infrastructure"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Southeast Asian and global culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Electronics", "Pharmaceuticals"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education and global competitiveness",
+      "Healthcare Services": "Highly developed, with modern facilities and services"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air, and Sea transport",
+    "Key Transport Hubs": ["Changi Airport", "Port of Singapore"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Low level of political unrest and instability",
+    "Economic Hardships": "Moderate poverty and unemployment rates",
+    "Natural Disasters": ["Low risk, occasional haze from forest fires in nearby countries"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "83.6 years",
+    "Infant Mortality Rate": "1.7 deaths/1,000 live births",
+    "Health Expenditure of GDP": "4.9% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "3.1% (2020)",
+    "Literacy Rate": {
+      "Total": "97.5%",
+      "Male": "98.0%",
+      "Female": "97.0%"
+    }
+  }
 }
