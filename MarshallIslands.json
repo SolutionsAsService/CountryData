@@ -1,93 +1,191 @@
 {
-    "The Marshall Islands": {
-        "Official Names": {
-            "Marshallese": "Aolepān Aorōkin Ṃajeḷ",
-            "English": "Republic of the Marshall Islands"
-        },
-        "Symbols": {
-            "Flag": "Flag of the Marshall Islands",
-            "Seal": "Seal of the Marshall Islands",
-            "Motto": "Jepilpilin ke ejukaan (Accomplishment through joint effort)",
-            "Anthem": {
-                "Title": "Forever Marshall Islands",
-                "Duration": "2 minutes and 19 seconds"
-            }
-        },
-        "Location": {
-            "Region": "Micronesia, Northwestern Pacific Ocean",
-            "Capital": "Majuro",
-            "Coordinates": "7°7′N 171°4′E",
-            "Territory": {
-                "Atolls": "29 coral atolls",
-                "Islands": "5 islands",
-                "Island Chains": ["Ratak", "Ralik"]
-            },
-            "Maritime Boundaries": ["Wake Island", "Kiribati", "Nauru", "Federated States of Micronesia"]
-        },
-        "Demographics": {
-            "Population": {
-                "2021 Census": "42,418",
-                "Density": "233 per km2"
-            },
-            "Ethnic Groups (2021)": {
-                "Marshallese": "95.6%",
-                "Filipino": "1.1%",
-                "Others": "3.3%"
-            },
-            "Religion (2021)": {
-                "Christianity": "96.2%",
-                "Protestantism": "79.9%",
-                "Catholicism": "9.3%",
-                "Other Christian": "7.0%",
-                "No Religion": "1.1%",
-                "Others": "2.7%"
-            },
-            "Languages": {
-                "Official": ["Marshallese", "English"],
-                "Others": "See full list"
-            }
-        },
-        "Government": {
-            "Type": "Unitary parliamentary republic with an executive presidency",
-            "President": "Hilda Heine",
-            "Speaker": "Brenson Wase",
-            "Legislature": "Nitijela",
-            "Independence from the United States": {
-                "Self-government": "May 1, 1979",
-                "Compact of Free Association": "October 21, 1986"
-            }
-        },
-        "Geography": {
-            "Total Area": "181.43 square kilometers",
-            "Water Proportion": "97.87%"
-        },
-        "Economy": {
-            "GDP (PPP) 2019 Estimate": {
-                "Total": "$215 million",
-                "Per Capita": "$3,789"
-            },
-            "GDP (Nominal) 2019 Estimate": {
-                "Total": "$220 million",
-                "Per Capita": "$3,866"
-            },
-            "Currency": "United States dollar (USD)",
-            "Economic Sectors": ["Service", "Fishing", "Agriculture"],
-            "Aid": "Significant part of GDP from U.S. aid"
-        },
-        "Education": "Information not provided",
-        "Transportation": {
-            "Modes": "Information not provided",
-            "Infrastructure": "Information not provided"
-        },
-        "Culture": {
-            "Traditions": "Austronesian heritage",
-            "Religious Practice": ["United Church of Christ", "Assemblies of God"]
-        },
-        "Sports": "Information not provided",
-        "Media and Communications": "Information not provided",
-        "International Relations": {
-            "United Nations Membership": "Since 1991",
-            "Pacific Community Membership": "Since 1983"
-        }
+  "Name": {
+    "Common": "The Marshall Islands",
+    "Official": {
+      "Marshallese": "Aolepān Aorōkin Ṃajeḷ",
+      "English": "Republic of the Marshall Islands"
     }
+  },
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Seal URL": "URL_to_seal_image",
+    "Motto": "Jepilpilin ke ejukaan (Accomplishment through joint effort)",
+    "Anthem": {
+      "Title": "Forever Marshall Islands",
+      "Duration": "2 minutes and 19 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Oceania",
+    "Region": "Micronesia, Northwestern Pacific Ocean",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Majuro",
+        "Latitude": "7°7′N",
+        "Longitude": "171°4′E"
+      }
+    },
+    "Location": "Micronesia, Northwestern Pacific Ocean, bordered by Wake Island, Kiribati, Nauru, and the Federated States of Micronesia",
+    "Area": {
+      "Total (sq km)": 181.43,
+      "Rank": "187th",
+      "Water Percentage": "97.87%"
+    },
+    "Borders": {
+      "Ocean": "Pacific Ocean"
+    },
+    "Coastline": "370.4 km",
+    "Topography": ["Atolls", "Islands"],
+    "Climate": ["Tropical"],
+    "Natural Resources": ["Coconut products", "Marine products"],
+    "Time Zones": ["UTC+12"],
+    "Largest City": "Majuro"
+  },
+  "Demographics": {
+    "Population": {
+      "2021 Census": 42418,
+      "Density (per km2)": 233
+    },
+    "Ethnic Groups": {
+      "2021": {
+        "Marshallese": 95.6,
+        "Filipino": 1.1,
+        "Others": 3.3
+      }
+    },
+    "Languages": {
+      "Official": ["Marshallese", "English"],
+      "Others": ["See full list"]
+    },
+    "Religion": {
+      "2021": {
+        "Christianity": 96.2,
+        "Protestantism": 79.9,
+        "Catholicism": 9.3,
+        "Other Christian": 7.0,
+        "No Religion": 1.1,
+        "Others": 2.7
+      }
+    },
+    "Demonym": "Marshallese"
+  },
+  "Government": {
+    "Type": "Unitary parliamentary republic with an executive presidency",
+    "Leaders": {
+      "President": "Hilda Heine",
+      "Speaker of Nitijela": "Brenson Wase"
+    },
+    "Legislature": "Nitijela",
+    "Constitution": "1 May 1979"
+  },
+  "History": {
+    "Colonial History": ["Spanish Empire", "German Empire", "Japanese Empire", "United States"],
+    "Independence from the United States": {
+      "Self-government": "1 May 1979",
+      "Compact of Free Association": "21 October 1986"
+    },
+    "United Nations Membership": "1991",
+    "Pacific Community Membership": "1983"
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Service, fishing, agriculture",
+    "Major Industries": ["Service", "Fishing", "Agriculture"],
+    "GDP (PPP 2019)": {
+      "Total (Million USD)": 215,
+      "Per Capita (USD)": 3789
+    },
+    "GDP (Nominal 2019)": {
+      "Total (Million USD)": 220,
+      "Per Capita (USD)": 3866
+    },
+    "Currency": "United States dollar (USD)",
+    "Gini Index": "N/A",
+    "HDI": {
+      "Score": "N/A",
+      "Rank": "N/A"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": ["United Nations (UN)", "Pacific Community (SPC)"]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+12"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+692",
+    "ISO 3166 Code": "MH",
+    "Internet TLD": ".mh",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Constitution Day (May 1)",
+      "Independence Day (October 21)",
+      "Christmas Day (December 25)",
+      "Good Friday (Varies)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with Austronesian influences",
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["Traditional navigation skills", "Marshallese stick charts"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 2.5,
+    "Exports Growth": "Driven by fishing and services",
+    "Inflation Rate": "2.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Fishing", "Services"],
+      "Challenges": "Balancing economic growth with environmental protection"
+    },
+    "Market Performance": {
+      "Equity Market": "N/A",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Micronesian culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Fishing", "Services"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Sea, Air transport",
+    "Key Transport Hubs": ["Majuro", "Kwajalein"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Low level of political unrest and instability",
+    "Economic Hardships": "High unemployment and poverty rates",
+    "Natural Disasters": ["Rising sea levels"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "69.2 years",
+    "Infant Mortality Rate": "16.5 deaths/1,000 live births",
+    "Health Expenditure of GDP": "12.4% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "6.3% (2020)",
+    "Literacy Rate": {
+      "Total": "95.6%",
+      "Male": "96.0%",
+      "Female": "95.2%"
+    }
+  }
 }
