@@ -1,95 +1,201 @@
 {
-  "SierraLeone": {
-    "type": [ "Country", "Republic"],
-    "properties": {
-      "officialName": "Republic of Sierra Leone",
-      "location": "Southwest coast of West Africa",
-      "borders": {
-        "southeast": "Liberia",
-        "north": "Guinea"
-      },
-      "area": {
-        "total": "71,740 km2",
-        "waterPercentage": 1.1
-      },
-      "climate": "Tropical",
-      "environments": ["Savanna", "Rainforests"],
-      "population": {
-        "2015Census": 7092113,
-        "2023Estimate": 8908040
-      },
-      "capital": {
-        "name": "Freetown",
-        "coordinates": "08°30′00″N 12°06′00″W"
-      },
-      "officialLanguage": "English",
-      "nationalLanguages": ["Krio"],
-      "ethnicGroups": [
-        {"Mende": 35.5},
-        {"Temne": 33.2},
-        {"Limba": 6.4},
-        // Other groups...
-      ],
-      "government": {
-        "type": "Unitary presidential republic",
-        "president": "Julius Maada Bio",
-        "vicePresident": "Mohamed Juldeh Jalloh",
-        "chiefMinister": "David Sengeh",
-        "speakerOfParliament": "Abass Chernor Bundu",
-        "legislature": "Parliament"
-      },
-      "independence": {
-        "fromUK": {
-          "dominion": "27 April 1961",
-          "republic": "19 April 1971"
-        }
-      },
-      "GDP": {
-        "PPP": {
-          "2023Estimate": {
-            "total": "$17.784 billion",
-            "perCapita": "$2,097"
-          }
-        },
-        "nominal": {
-          "2023Estimate": {
-            "total": "$3.519 billion",
-            "perCapita": "$414"
-          }
-        }
-      },
-      "Gini": {
-        "2018": 35.7
-      },
-      "HDI": {
-        "2021": 0.477
-      },
-      "currency": "Leone (SLL)",
-      "timeZone": "UTC (GMT)",
-      "drivingSide": "right",
-      "callingCode": "+232",
-      "ISO3166Code": "SL",
-      "internetTLD": ".sl",
-      "historicalContext": {
-        "colonialEra": "British Sierra Leone",
-        "civilWar": "1991 - 2002",
-        "majorEthnicGroups": ["Temne", "Mende"]
-      },
-      "culture": {
-        "religions": {
-          "Muslims": "75%",
-          "Christians": "influential minority"
-        },
-        "languages": "Krio spoken by 97%",
-        "naturalResources": ["Diamond", "Gold", "Bauxite", "Aluminium"]
-      },
-      "memberships": [
-        "United Nations",
-        "African Union",
-        "ECOWAS",
-        "Commonwealth of Nations"
-        // Other memberships...
-      ]
+  "Name": {
+    "Common": "Sierra Leone",
+    "Official": "Republic of Sierra Leone",
+    "Native": {
+      "Krio": "Salone"
+    }
+  },
+  "Symbols": {
+    "Flag": "Flag of Sierra Leone",
+    "Coat of Arms": "Coat of arms of Sierra Leone",
+    "Motto": "Unity, Freedom, Justice",
+    "Anthem": {
+      "Title": "High We Exalt Thee, Realm of the Free",
+      "Duration": "1 minute and 25 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Africa",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Freetown",
+        "Latitude": "08°30′00″N",
+        "Longitude": "12°06′00″W"
+      }
+    },
+    "Location": "Southwest coast of West Africa, bordered by Liberia to the southeast and Guinea to the north.",
+    "Area": {
+      "Total (sq km)": 71740,
+      "Water Percentage": 1.1
+    },
+    "Topography": ["Savanna", "Rainforests", "Mountains", "Beaches"],
+    "Climate": ["Tropical climate, with a rainy season from May to November and a dry season from December to April"],
+    "Natural Resources": ["Diamonds", "Gold", "Bauxite", "Aluminium"],
+    "Time Zones": ["UTC (GMT)"],
+    "Largest City": "Freetown"
+  },
+  "Demographics": {
+    "Population": {
+      "2015 Census": 7092113,
+      "2023 Estimate": 8908040,
+      "Density (per sq km)": 124.2
+    },
+    "Ethnic Groups": {
+      "2015": {
+        "Mende": 35.5,
+        "Temne": 33.2,
+        "Limba": 6.4,
+        "Others": 24.9
+      }
+    },
+    "Languages": {
+      "Official": ["English"],
+      "National": ["Krio"]
+    },
+    "Religion": {
+      "2020": {
+        "Islam": 75,
+        "Christianity": "Influential Minority"
+      }
+    },
+    "Demonym": "Sierra Leonean"
+  },
+  "Government": {
+    "Type": "Unitary presidential republic",
+    "Leaders": {
+      "President": "Julius Maada Bio",
+      "Vice President": "Mohamed Juldeh Jalloh",
+      "Chief Minister": "David Sengeh",
+      "Speaker of Parliament": "Abass Chernor Bundu"
+    },
+    "Legislature": "Parliament",
+    "Constitution": "1 October 1991",
+    "Independence History": {
+      "From UK": {
+        "Dominion": "27 April 1961",
+        "Republic": "19 April 1971"
+      }
+    }
+  },
+  "History": {
+    "Historical Context": {
+      "Colonial Era": "British Sierra Leone",
+      "Civil War": "1991 - 2002",
+      "Major Ethnic Groups": ["Temne", "Mende"]
+    }
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Agriculture, mining",
+    "Major Industries": ["Agriculture", "Mining"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 17.784,
+      "Per Capita (USD)": 2097
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 3.519,
+      "Per Capita (USD)": 414
+    },
+    "Currency": "Leone (SLL)",
+    "Gini Index": {
+      "Year": 2018,
+      "Value": 35.7,
+      "Category": "Medium"
+    },
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.477,
+      "Category": "Low",
+      "Rank": "181st"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in regional and international affairs",
+    "Membership": [
+      "United Nations (UN)",
+      "African Union (AU)",
+      "Economic Community of West African States (ECOWAS)",
+      "Commonwealth of Nations"
+    ]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC (GMT)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+232",
+    "ISO 3166 Code": "SL",
+    "Internet TLD": [".sl"],
+    "Public Holidays": [
+      "New Year's Day",
+      "Independence Day",
+      "Labor Day",
+      "Eid al-Fitr",
+      "Eid al-Adha",
+      "Christmas Day"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with influences from various ethnic groups",
+    "Cultural Contributions": ["Music", "Cuisine", "Literature", "Dance"],
+    "Unique Features": ["Traditional music and dance", "Cultural festivals", "Historic sites like Bunce Island"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 4.5,
+    "Exports Growth": "Driven by mining and agriculture sectors",
+    "Inflation Rate": "3.5%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Mining", "Agriculture"],
+      "Challenges": "Balancing economic growth with social development"
+    },
+    "Market Performance": {
+      "Equity Market": "Sierra Leone Stock Exchange",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban population, with Freetown being the primary urban center",
+      "Rural Development": "Focus on improving rural infrastructure and living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on West African and global culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Mining", "Agriculture"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education and improving literacy rates",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Sea, and Air transport",
+    "Key Transport Hubs": ["Lungi International Airport", "Port of Freetown"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Moderate level of political unrest and instability",
+    "Economic Hardships": "High poverty and unemployment rates",
+    "Natural Disasters": ["Floods", "Landslides"],
+    "Health Issues": ["Malaria", "Ebola", "COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "54.3 years",
+    "Infant Mortality Rate": "78.5 deaths/1,000 live births",
+    "Health Expenditure of GDP": "11.1% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "7.2% (2020)",
+    "Literacy Rate": {
+      "Total": "43.2%",
+      "Male": "51.3%",
+      "Female": "35.4%"
     }
   }
 }
