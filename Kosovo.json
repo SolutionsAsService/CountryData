@@ -1,102 +1,199 @@
 {
-    "Kosovo": {
-        "Official Names": {
-            "Local": "Republika e Kosovës",
-            "Serbian": "Република Косово",
-            "Romanized": "Republika Kosovo",
-            "English": "Republic of Kosovo"
-        },
-        "Symbols": {
-            "Flag": "Flag of Kosovo",
-            "Coat of Arms": "Coat of arms of Kosovo",
-            "Anthem": {
-                "Title": "Himni i Republikës së Kosovës",
-                "English Translation": "Anthem of the Republic of Kosovo",
-                "Duration": "58 seconds"
-            }
-        },
-        "Location": {
-            "Region": "Southeast Europe",
-            "Borders": {
-                "Serbia": "North and East",
-                "North Macedonia": "Southeast",
-                "Albania": "Southwest",
-                "Montenegro": "West"
-            },
-            "Capital and Largest City": "Pristina",
-            "Coordinates": "42°40′N 21°10′E"
-        },
-        "Status": {
-            "Diplomatic Recognition": "Recognised by 102 out of 193 member states of the United Nations",
-            "Claimed by": "Serbia as the Autonomous Province of Kosovo and Metohija"
-        },
-        "Demographics": {
-            "Population": {
-                "2022 Estimate": "1,761,985",
-                "Density": "162 per km2"
-            },
-            "Ethnic Groups (2019)": {
-                "Albanians": "92%",
-                "Serbs": "4%",
-                "Bosniaks": "2%",
-                "Turks": "1%",
-                "Romani": "1%",
-                "Others": "See full list"
-            },
-            "Religion (2020)": {
-                "Islam": "93%",
-                "Christianity": "6%",
-                "No Religion": "<1%",
-                "Others": "<1%"
-            },
-            "Languages": {
-                "Official": ["Albanian", "Serbian"],
-                "Regional": ["Bosnian", "Turkish", "Romani"]
-            }
-        },
-        "Government": {
-            "Type": "Unitary parliamentary republic",
-            "President": "Vjosa Osmani",
-            "Prime Minister": "Albin Kurti",
-            "Chairman of the Assembly": "Glauk Konjufca",
-            "Legislature": "Assembly"
-        },
-        "Geography": {
-            "Total Area": "10,887 square kilometers",
-            "Terrain": {
-                "Plains and Fields": "Metohija and the Kosovo field",
-                "Mountains": ["Accursed Mountains", "Šar Mountains"]
-            }
-        },
-        "Economy": {
-            "GDP (PPP) 2024 Estimate": {
-                "Total": "$29.629 billion",
-                "Per Capita": "$16,760"
-            },
-            "GDP (Nominal) 2024 Estimate": {
-                "Total": "$11.226 billion",
-                "Per Capita": "$6,337"
-            },
-            "Gini Index (2017)": "29.0",
-            "HDI (2021)": "0.762",
-            "Currency": "Euro (€) (EUR)"
-        },
-        "Infrastructure": "Information not provided",
-        "Culture": {
-            "Cultural Diversity": true,
-            "Official Language": "Albanian and Serbian",
-            "Major Religions": ["Islam", "Christianity"]
-        },
-        "International Relations": {
-            "UN Status": "Non-member",
-            "IMF, World Bank, EBRD Member": true,
-            "EU Application": "Filed in December 2022"
-        },
-        "Historical Overview": {
-            "Ancient History": ["Kingdom of Dardania", "Roman Empire", "Byzantine Empire"],
-            "Medieval History": ["Serbian medieval state", "Ottoman Empire"],
-            "Modern History": ["Autonomous Province within Yugoslavia", "Kosovo War", "UN Administration"],
-            "Independence": "Declared on 17 February 2008"
-        }
+  "Name": {
+    "Common": "Kosovo",
+    "Official": {
+      "Local": "Republika e Kosovës",
+      "Serbian": "Република Косово",
+      "Romanized": "Republika Kosovo",
+      "English": "Republic of Kosovo"
     }
+  },
+  "Symbols": {
+    "Flag": "URL_to_flag_image",
+    "Coat of Arms": "URL_to_coat_of_arms_image",
+    "Anthem": {
+      "Title": "Himni i Republikës së Kosovës",
+      "English Translation": "Anthem of the Republic of Kosovo",
+      "Duration": "58 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Europe",
+    "Region": "Southeast Europe",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Pristina",
+        "Latitude": "42°40′N",
+        "Longitude": "21°10′E"
+      }
+    },
+    "Location": "Landlocked country in Southeast Europe, bordered by Serbia to the north and east, North Macedonia to the southeast, Albania to the southwest, and Montenegro to the west",
+    "Area": {
+      "Total (km2)": 10887,
+      "Rank": "158th",
+      "Water Percentage": "N/A"
+    },
+    "Borders": {
+      "Serbia": ["north", "east"],
+      "North Macedonia": "southeast",
+      "Albania": "southwest",
+      "Montenegro": "west"
+    },
+    "Coastline": "None (landlocked)",
+    "Terrain": ["Plains and fields in Metohija and the Kosovo field; mountains including the Accursed Mountains and Šar Mountains"],
+    "Climate": ["Continental, with warm summers and cold, snowy winters"],
+    "Natural Resources": ["Lignite, lead, zinc, silver, nickel"],
+    "Time Zone": ["UTC+1"],
+    "Largest City": "Pristina"
+  },
+  "Demographics": {
+    "Population": {
+      "2022 Estimate": 1761985,
+      "Density (per km2)": 162
+    },
+    "Ethnic Groups": {
+      "2019": {
+        "Albanians": 92,
+        "Serbs": 4,
+        "Bosniaks": 2,
+        "Turks": 1,
+        "Romani": 1,
+        "Others": "See full list"
+      }
+    },
+    "Languages": {
+      "Official": ["Albanian", "Serbian"],
+      "Regional": ["Bosnian", "Turkish", "Romani"]
+    },
+    "Religion": {
+      "2020": {
+        "Islam": 93,
+        "Christianity": 6,
+        "No Religion": "<1",
+        "Others": "<1"
+      }
+    },
+    "Demonym": "Kosovar"
+  },
+  "Government": {
+    "Type": "Unitary parliamentary republic",
+    "Leaders": {
+      "President": "Vjosa Osmani",
+      "Prime Minister": "Albin Kurti",
+      "Chairman of the Assembly": "Glauk Konjufca"
+    },
+    "Legislature": "Assembly",
+    "Constitution": "15 June 2008"
+  },
+  "History": {
+    "Ancient History": ["Kingdom of Dardania", "Roman Empire", "Byzantine Empire"],
+    "Medieval History": ["Serbian medieval state", "Ottoman Empire"],
+    "Modern History": ["Autonomous Province within Yugoslavia", "Kosovo War", "UN Administration"],
+    "Independence": "Declared on 17 February 2008"
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Mining, agriculture, services",
+    "Major Industries": ["Mining", "Energy", "Agriculture", "Construction"],
+    "GDP (PPP 2024)": {
+      "Total (Billion USD)": 29.629,
+      "Per Capita (USD)": 16760
+    },
+    "GDP (Nominal 2024)": {
+      "Total (Billion USD)": 11.226,
+      "Per Capita (USD)": 6337
+    },
+    "Currency": "Euro (€) (EUR)",
+    "Gini Index": 29.0,
+    "HDI": {
+      "Score": 0.762,
+      "Rank": "66th"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Recognition": "Recognised by 102 out of 193 member states of the United Nations",
+    "Membership": ["International Monetary Fund", "World Bank", "European Bank for Reconstruction and Development"],
+    "UN Status": "Non-member",
+    "EU Application": "Filed in December 2022"
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+1"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+383",
+    "ISO 3166 Code": "XK",
+    "Internet TLD": ".xk",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Independence Day (February 17)",
+      "Constitution Day (June 15)",
+      "Christmas Day (December 25)",
+      "Eid al-Fitr (Varies)",
+      "Eid al-Adha (Varies)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of Albanian, Serbian, and Ottoman influences",
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["Diverse cultural and religious landscape"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.5,
+    "Exports Growth": "Driven by mining and agriculture",
+    "Inflation Rate": "2.5%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Mining", "Agriculture"],
+      "Challenges": "Balancing economic growth with political stability"
+    },
+    "Market Performance": {
+      "Equity Market": "N/A",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Southeast European culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Mining", "Agriculture", "Services"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air transport",
+    "Key Transport Hubs": ["Pristina", "Peja", "Mitrovica"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Occasional protests and political unrest",
+    "Economic Hardships": "High unemployment and poverty rates",
+    "Natural Disasters": ["Earthquakes"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "72.4 years",
+    "Infant Mortality Rate": "12.3 deaths/1,000 live births",
+    "Health Expenditure of GDP": "4.2% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "4.5% (2020)",
+    "Literacy Rate": {
+      "Total": "98.7%",
+      "Male": "99.1%",
+      "Female": "98.3%"
+    }
+  }
 }
