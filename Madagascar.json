@@ -1,89 +1,203 @@
 {
-  "Madagascar": {
-    "General Information": {
-       "Name":{
-        "Common": "Madagascar",
-      "Official": "Republic of Madagascar",
-      "Local": {
-         "Malagasy": "Repoblikan'i Madagasikara",
-         "French": "République de Madagascar" }
-       },
-      "Motto": {
-        "Malagasy": "Fitiavana, Tanindrazana, Fandrosoana",
-        "French": "Amour, Patrie, Progrès",
-        "English": "Love, Fatherland, Progress"
-      },
-      "Anthem": "Ry Tanindrazanay malala ô!",
-      "Capital and Largest City": "Antananarivo",
-       "Location": {
-        "Coordinates": "18°55′S 47°31′E",
-        "OffOf": "eastern coast of Southern Africa", 
-        "east": "Mozambique"
-       },
-      "Official Languages": ["Malagasy", "French"],
-      "Currency": "Ariary (MGA)",
-      "Time Zone": "UTC+3",
-      "Date Format": "dd/mm/yyyy",
-      "Driving Side": "right",
-      "Calling Code": "+261",
-      "ISO 3166 Code": "MG",
-      "Internet TLD": ".mg"
+  "Name": {
+    "Common": "Madagascar",
+    "Official": "Republic of Madagascar",
+    "Native": {
+      "Malagasy": "Repoblikan'i Madagasikara",
+      "French": "République de Madagascar"
+    }
+  },
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Coat of Arms URL": "URL_to_coat_of_arms_image",
+    "Motto": {
+      "Malagasy": "Fitiavana, Tanindrazana, Fandrosoana",
+      "French": "Amour, Patrie, Progrès",
+      "English": "Love, Fatherland, Progress"
     },
-    "Geography": {
-      "Location": "Southeastern coast of Africa",
-      "Area": "587,041 sq km",
-      "Climate": "Subtropical to tropical maritime",
-      "Topography": "Low-lying coastal area, central plateau"
-    },
-    "History": {
-      "Settlement": "First settled by Austronesian peoples",
-      "Kingdoms": ["Kingdom of Madagascar", "French Colony", "Independence from France on 26 June 1960"],
-      "Historical Events": [
-        "First European sighting by Captain Diago Diaz in 1500",
-        "Deposition of Ranavalona III in 1897"
-      ]
-    },
-    "Government": {
-      "Type": "Unitary semi-presidential republic",
-      "President": "Andry Rajoelina",
-      "Prime Minister": "Christian Ntsay",
-      "Legislature": {
-        "Upper House": "Senate",
-        "Lower House": "National Assembly"
-      },
-      "Independence Day": "26 June"
-    },
-    "Economy": {
-      "GDP (PPP) 2023": "$56.754 billion",
-      "GDP (Nominal) 2023": "$15.763 billion",
-      "Gini (2012)": "42.6",
-      "HDI (2021)": "0.501"
-    },
-    "Demographics": {
-      "Population Estimate 2023": "28,812,195",
-      "Ethnic Groups": [
-        "26% Merina",
-        "15% Betsimisaraka",
-        "12% Betsileo",
-        "7% Tsimihety",
-        "6% Sakalava",
-        "5% Antaisaka",
-        "5% Antandroy",
-        "24% others"
-      ],
-      "Religions": {
-        "Christianity": "84.7%",
-        "Protestantism": "45.8%",
-        "Catholicism": "38.1%",
-        "Traditional Faiths": "4.7%",
-        "Islam": "3.1%"
+    "Anthem": {
+      "Title": "Ry Tanindrazanay malala ô!",
+      "Duration": "1 minute and 30 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Africa",
+    "Region": "Southeastern coast of Africa",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Antananarivo",
+        "Latitude": "18°55′S",
+        "Longitude": "47°31′E"
       }
     },
-    "Culture": {
-      "Garment": "Lamba",
-      "National Animal": "Ring-tailed lemur",
-      "National Dish": "Romazava",
-      "Highest Mountain": "Maromokotro, 2876 meters"
+    "Location": "Southeastern coast of Africa, off the eastern coast of Southern Africa, east of Mozambique",
+    "Area": {
+      "Total (sq km)": 587041,
+      "Rank": "46th",
+      "Water Percentage": "N/A"
+    },
+    "Borders": {
+      "Ocean": "Indian Ocean"
+    },
+    "Coastline": "4,828 km",
+    "Topography": ["Low-lying coastal area", "Central plateau"],
+    "Climate": ["Subtropical to tropical maritime"],
+    "Natural Resources": ["Graphite", "Chromite", "Coal", "Bauxite", "Salt", "Quartz", "Petroleum"],
+    "Time Zones": ["UTC+3"],
+    "Largest City": "Antananarivo"
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 28812195,
+      "Density (per km2)": 49.1
+    },
+    "Ethnic Groups": {
+      "2023": {
+        "Merina": 26,
+        "Betsimisaraka": 15,
+        "Betsileo": 12,
+        "Tsimihety": 7,
+        "Sakalava": 6,
+        "Antaisaka": 5,
+        "Antandroy": 5,
+        "Others": 24
+      }
+    },
+    "Languages": {
+      "Official": ["Malagasy", "French"]
+    },
+    "Religion": {
+      "2023": {
+        "Christianity": 84.7,
+        "Protestantism": 45.8,
+        "Catholicism": 38.1,
+        "Traditional Faiths": 4.7,
+        "Islam": 3.1
+      }
+    },
+    "Demonym": "Malagasy"
+  },
+  "Government": {
+    "Type": "Unitary semi-presidential republic",
+    "Leaders": {
+      "President": "Andry Rajoelina",
+      "Prime Minister": "Christian Ntsay",
+      "Speaker of Parliament": "Christine Razanamahasoa"
+    },
+    "Legislature": {
+      "Upper House": "Senate",
+      "Lower House": "National Assembly"
+    },
+    "Constitution": "11 December 2010"
+  },
+  "History": {
+    "Settlement": "First settled by Austronesian peoples",
+    "Kingdoms": ["Kingdom of Madagascar", "French Colony"],
+    "Independence from France": "26 June 1960",
+    "Historical Events": [
+      "First European sighting by Captain Diago Diaz in 1500",
+      "Deposition of Ranavalona III in 1897"
+    ]
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Agriculture, mining, textiles",
+    "Major Industries": ["Agriculture", "Mining", "Textiles", "Tourism"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 56.754,
+      "Per Capita (USD)": 1970
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 15.763,
+      "Per Capita (USD)": 547
+    },
+    "Currency": "Ariary (MGA)",
+    "Gini Index": 42.6,
+    "HDI": {
+      "Score": 0.501,
+      "Rank": "164th"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": ["United Nations (UN)", "African Union (AU)", "Southern African Development Community (SADC)", "Indian Ocean Commission (IOC)"]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+3"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+261",
+    "ISO 3166 Code": "MG",
+    "Internet TLD": ".mg",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Independence Day (June 26)",
+      "Christmas Day (December 25)",
+      "Easter Monday (Varies)",
+      "Labour Day (May 1)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of African, Asian, and European influences",
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["National garment: Lamba", "National animal: Ring-tailed lemur", "National dish: Romazava"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 4.0,
+    "Exports Growth": "Driven by agriculture and mining",
+    "Inflation Rate": "7.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and poverty reduction",
+      "Areas": ["Agriculture", "Mining"],
+      "Challenges": "Balancing economic growth with social development"
+    },
+    "Market Performance": {
+      "Equity Market": "N/A",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on African and Indian Ocean culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Agriculture", "Mining", "Tourism"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air transport",
+    "Key Transport Hubs": ["Antananarivo", "Toamasina", "Antsirabe"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Occasional protests and political unrest",
+    "Economic Hardships": "High poverty and unemployment rates",
+    "Natural Disasters": ["Cyclones"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "66.3 years",
+    "Infant Mortality Rate": "32.8 deaths/1,000 live births",
+    "Health Expenditure of GDP": "5.6% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "3.2% (2020)",
+    "Literacy Rate": {
+      "Total": "74.8%",
+      "Male": "76.5%",
+      "Female": "73.2%"
     }
   }
 }
