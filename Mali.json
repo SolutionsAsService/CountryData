@@ -1,93 +1,205 @@
 {
-  "Mali": {
-    "Name":{
-     "Common": "Mali",
-     "Official": "Republic of Mali",
-     "Bambara": "Mali ka Fasojamana",
-     "Fula": "Republik bu Maali",
-     "Hassaniyya":	"جُمْهُورِيَّةْ مَالِي (Jumhūriyyet Māli)",
-     "Soninke":	"Mali Tɔgɔbadugu",
-     "Tamasheq":	"ⵜⴰⴳⴷⵓⴷⴰ ⵏ ⵎⴰⵍⵉ (Tagduda n Mali)"
+  "Name": {
+    "Common": "Mali",
+    "Official": "Republic of Mali",
+    "Native": {
+      "Bambara": "Mali ka Fasojamana",
+      "Fula": "Republik bu Maali",
+      "Hassaniyya": "جُمْهُورِيَّةْ مَالِي (Jumhūriyyet Māli)",
+      "Soninke": "Mali Tɔgɔbadugu",
+      "Tamasheq": "ⵜⴰⴳⴷⵓⴷⴰ ⵏ ⵎⴰⵍⵉ (Tagduda n Mali)"
+    }
+  },
+  "Symbols": {
+    "Flag URL": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
+    "Coat of Arms URL": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Coat_of_arms_of_Mali.svg",
+    "Anthem": {
+      "Title": "Le Mali",
+      "Duration": "1 minute and 30 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Africa",
+    "Region": "West Africa",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Bamako",
+        "Latitude": "12°39′00″N",
+        "Longitude": "8°00′00″W"
+      }
     },
-    "Status": ["Islamic Insurgency"],
-    "Symbols":{
-  "Flag_URL": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-  "Coat_of_Arms_URL": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Coat_of_arms_of_Mali.svg",
-  "Anthem": "Le Mali"
-  },
-  "Capital": "Bamako",
-    "Location":{
-      "General": "West Africa",
-      "Border":{ 
-        "north": "Algeria", 
-        "east": "Niger", 
-        "northwest": "Mauritania",
-        "south": ["Burkina Faso", "Côte d'Ivoire" ]
-        "west": ["Guinea", "Senegal"]
+    "Location": "West Africa, bordered by Algeria to the north, Niger to the east, Burkina Faso and Côte d'Ivoire to the south, Guinea to the southwest, Senegal to the west, and Mauritania to the northwest",
+    "Area": {
+      "Total (km2)": 1241238,
+      "Rank": "23rd",
+      "Water Percentage": "N/A"
     },
-  "Official_Languages": ["Bambara", "Bobo", "Bozo", "Dogon", "Fula", "Hassaniyya", "Kassonke", "Maninke", "Minyanka", "Senufo", "Songhay", "Soninke", "Tamasheq"],
-  "Working_Language": "French",
-  "Ethnic_Groups_2023": {
-    "Bambara": "33.3%",
-    "Fula": "13.3%",
-    "Soninke": "9.6%",
-    "Senufo_Bwa": "9.6%",
-    "Malinke": "8.8%",
-    "Dogon": "8.7%",
-    "Songhai": "5.9%",
-    "Tuareg": "3.5%",
-    "Bobo": "2.1%",
-    "Others": "4.5%"
+    "Borders": {
+      "North": ["Algeria"],
+      "East": ["Niger"],
+      "South": ["Burkina Faso", "Côte d'Ivoire"],
+      "Southwest": ["Guinea"],
+      "West": ["Senegal"],
+      "Northwest": ["Mauritania"]
+    },
+    "Coastline": "None (landlocked)",
+    "Topography": ["Northern deserts", "Central savannas", "Southern forests"],
+    "Climate": ["Subtropical to arid"],
+    "Natural Resources": ["Gold", "Phosphates", "Kaolin", "Salt"],
+    "Time Zones": ["UTC (GMT)"],
+    "Largest City": "Bamako"
   },
-  "Religion_2021": {
-    "Islam": "95%",
-    "Others": "5%"
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 21359722,
+      "Density (per km2)": 11.7
+    },
+    "Ethnic Groups": {
+      "2023": {
+        "Bambara": 33.3,
+        "Fula": 13.3,
+        "Soninke": 9.6,
+        "Senufo/Bwa": 9.6,
+        "Malinke": 8.8,
+        "Dogon": 8.7,
+        "Songhai": 5.9,
+        "Tuareg": 3.5,
+        "Bobo": 2.1,
+        "Others": 4.5
+      }
+    },
+    "Languages": {
+      "Official": ["Bambara", "Bobo", "Bozo", "Dogon", "Fula", "Hassaniyya", "Kassonke", "Maninke", "Minyanka", "Senufo", "Songhay", "Soninke", "Tamasheq"],
+      "Working": ["French"]
+    },
+    "Religion": {
+      "2021": {
+        "Islam": 95,
+        "Others": 5
+      }
+    },
+    "Demonym": "Malian"
   },
-  "Government_Type": "Unitary presidential republic under a military junta",
-  "Leaders": {
-    "President_Interim": "Assimi Goïta",
-    "Prime_Minister_Interim": "Choguel Kokalla Maïga"
+  "Government": {
+    "Type": "Unitary presidential republic under a military junta",
+    "Leaders": {
+      "President (Interim)": "Assimi Goïta",
+      "Prime Minister (Interim)": "Choguel Kokalla Maïga"
+    },
+    "Legislature": "National Assembly",
+    "Constitution": "22 September 1960"
   },
-  "Legislature": "National Assembly",
-  "Formation_and_Independence": {
-    "Sudanese_Republic_Establishment": "24 November 1958",
-    "Mali_Federation_Merger": "4 April 1959",
-    "Independence_From_France": "20 June 1960",
-    "Mali_Federation_Dissolution": "20 August 1960",
-    "Republic_Declaration": "22 September 1960"
+  "History": {
+    "Early Empires": ["Ghana Empire", "Mali Empire", "Songhai Empire"],
+    "Colonial History": "Part of French West Africa",
+    "Formation and Independence": {
+      "Sudanese Republic Establishment": "24 November 1958",
+      "Mali Federation Merger": "4 April 1959",
+      "Independence from France": "20 June 1960",
+      "Mali Federation Dissolution": "20 August 1960",
+      "Republic Declaration": "22 September 1960"
+    },
+    "Post-Colonial Developments": "Independence in 1960, followed by political instability"
   },
-  "Geographical_Details": {
-    "Total_Area": "1,241,238 km2",
-    "Population_2023": "21,359,722",
-    "Population_Density": "11.7/km2"
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Agriculture, mining",
+    "Major Industries": ["Agriculture", "Mining", "Textiles"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 61.625,
+      "Per Capita (USD)": 2639
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 21.309,
+      "Per Capita (USD)": 912
+    },
+    "Currency": "West African CFA franc (XOF)",
+    "Gini Index": 33.0,
+    "HDI": {
+      "Score": 0.428,
+      "Rank": "184th"
+    }
   },
-  "Economic_Indicators": {
-    "GDP_PPP_2023_Total": "$61.625 billion",
-    "GDP_PPP_Per_Capita": "$2,639",
-    "GDP_Nominal_2023_Total": "$21.309 billion",
-    "GDP_Nominal_Per_Capita": "$912"
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": ["United Nations (UN)", "African Union (AU)", "Economic Community of West African States (ECOWAS)"]
   },
-  "Gini_Index": "33.0",
-  "HDI": "0.428",
-  "Currency": "West African CFA franc (XOF)",
-  "Time_Zone": "UTC (GMT)",
-  "ISO_3166_Code": "ML",
-  "Internet_TLD": ".ml",
-  "Cultural_Aspects": {
-    "National_Languages": ["Bambara", "Fula", "Soninke", "Tamasheq"],
-    "Major_Cities": ["Bamako", "Sikasso", "Mopti"],
-    "Cuisine": ["Jollof rice", "Maafe"],
-    "Music": ["Kora music", "Malian blues"],
-    "Art": ["Bogolanfini textiles", "Wooden sculptures"]
+  "Miscellaneous": {
+    "Time Zone": ["UTC (GMT)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+223",
+    "ISO 3166 Code": "ML",
+    "Internet TLD": ".ml",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Independence Day (September 22)",
+      "Labor Day (May 1)",
+      "Eid al-Fitr (Varies)",
+      "Eid al-Adha (Varies)"
+    ]
   },
-  "Historical_Background": {
-    "Early_Empires": ["Ghana Empire", "Mali Empire", "Songhai Empire"],
-    "Colonial_History": "Part of French West Africa",
-    "Post-Colonial_Developments": "Independence in 1960, followed by political instability"
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of African and Islamic influences",
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["National languages: Bambara, Fula, Soninke, Tamasheq", "National garment: Boubou", "National dish: Jollof rice"]
   },
-  "International_Relations": {
-    "United_Nations": true,
-    "African_Union": true,
-    "Economic_Community_of_West_African_States": true
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 5.0,
+    "Exports Growth": "Driven by agriculture and mining",
+    "Inflation Rate": "3.5%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Agriculture", "Mining"],
+      "Challenges": "Balancing economic growth with social development"
+    },
+    "Market Performance": {
+      "Equity Market": "N/A",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on West African culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Agriculture", "Mining", "Textiles"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air transport",
+    "Key Transport Hubs": ["Bamako", "Sikasso", "Mopti"]
+  },
+  "Current Challenges": {
+    "Political Instability": "High level of political unrest and instability",
+    "Economic Hardships": "High poverty and unemployment rates",
+    "Natural Disasters": ["Drought"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "59.7 years",
+    "Infant Mortality Rate": "67.6 deaths/1,000 live births",
+    "Health Expenditure of GDP": "4.7% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "3.8% (2020)",
+    "Literacy Rate": {
+      "Total": "35.5%",
+      "Male": "45.1%",
+      "Female": "26.6%"
+    }
   }
 }
