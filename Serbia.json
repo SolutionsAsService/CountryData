@@ -1,111 +1,221 @@
 {
-  "Serbia": {
-  "Country": "Serbia",
-  "OfficialName": "Republic of Serbia",
-  "SerbianName": "Република Србија",
-  "Romanized": "Republika Srbija",
-  "Geography": {
-    "Location": "Southeast and Central Europe",
-    "Borders": {
-      "North": "Hungary",
-      "Northeast": "Romania",
-      "Southeast": "Bulgaria",
-      "South": "North Macedonia",
-      "West": ["Croatia", "Bosnia and Herzegovina"],
-      "Southwest": "Montenegro",
-      "Disputed": "Albania (through Kosovo)"
-    },
-    "Capital": {
-      "Name": "Belgrade",
-      "Coordinates": "44°48′N 20°28′E"
-    },
-    "Area": {
-      "Total": "88,499 km2",
-      "ExcludingKosovo": "77,474 km2"
+  "Name": {
+    "Common": "Serbia",
+    "Official": "Republic of Serbia",
+    "Native": {
+      "Serbian": "Република Србија",
+      "Romanized": "Republika Srbija"
     }
   },
-  "Demographics": {
-    "Population2022": "6,647,003 (excluding Kosovo)",
-    "EthnicGroups2022": {
-      "Serbs": "84.4%",
-      "Hungarians": "2.6%",
-      "Bosniaks": "2.2%",
-      "Roma": "1.2%",
-      "Other_Unanswered": "9.6%"
-    },
-    "Religion2022": {
-      "Christianity": "86.6%",
-      "SerbianOrthodoxy": "81.1%",
-      "Catholicism": "3.9%",
-      "OtherChristian": "1.6%",
-      "Islam": "4.2%",
-      "NoReligion": "1.1%",
-      "Other_Unanswered": "8.0%"
+  "Symbols": {
+    "Flag": "Flag of Serbia",
+    "Coat of Arms": "Coat of arms of Serbia",
+    "Motto": "Bože pravde (God of Justice)",
+    "Anthem": {
+      "Title": "Bože pravde",
+      "Translation": "God of Justice",
+      "Duration": "1 minute and 30 seconds"
     }
+  },
+  "Geography": {
+    "Continent": "Europe",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Belgrade",
+        "Latitude": "44°48′N",
+        "Longitude": "20°28′E"
+      }
+    },
+    "Location": "Southeast and Central Europe, bordered by Hungary to the north, Romania to the northeast, Bulgaria to the southeast, North Macedonia to the south, Croatia and Bosnia and Herzegovina to the west, Montenegro to the southwest, and Albania (through Kosovo) to the south.",
+    "Area": {
+      "Total (sq km)": 88499,
+      "Excluding Kosovo (sq km)": 77474
+    },
+    "Topography": ["Plains in the north", "Mountains in the south", "Rivers (Danube, Sava)"],
+    "Climate": ["Continental climate, with hot summers and cold winters"],
+    "Natural Resources": ["Coal", "Natural gas", "Oil", "Copper", "Iron ore"],
+    "Time Zones": ["UTC+1 (CET)"],
+    "Largest City": "Belgrade"
+  },
+  "Demographics": {
+    "Population": {
+      "2022 Estimate": 6647003,
+      "Density (per sq km)": 75
+    },
+    "Ethnic Groups": {
+      "2022": {
+        "Serbs": 84.4,
+        "Hungarians": 2.6,
+        "Bosniaks": 2.2,
+        "Roma": 1.2,
+        "Other/Unanswered": 9.6
+      }
+    },
+    "Languages": {
+      "Official": ["Serbian"]
+    },
+    "Religion": {
+      "2022": {
+        "Christianity": 86.6,
+        "Serbian Orthodoxy": 81.1,
+        "Catholicism": 3.9,
+        "Other Christian": 1.6,
+        "Islam": 4.2,
+        "No Religion": 1.1,
+        "Other/Unanswered": 8.0
+      }
+    },
+    "Demonym": "Serbian"
   },
   "Government": {
     "Type": "Unitary parliamentary republic",
-    "President": "Aleksandar Vučić",
-    "PrimeMinister": "Ana Brnabić",
-    "PresidentNationalAssembly": "Vladimir Orlić",
-    "Legislature": "National Assembly"
-  },
-  "History": {
-    "Establishment": {
+    "Leaders": {
+      "President": "Aleksandar Vučić",
+      "Prime Minister": "Ana Brnabić",
+      "President of the National Assembly": "Vladimir Orlić"
+    },
+    "Legislature": "National Assembly",
+    "Constitution": "8 November 2006",
+    "Independence History": {
       "Principality": "780",
       "Kingdom": "1217",
       "Empire": "1346",
-      "OttomanConquest": "1459–1804",
-      "SerbianRevolution": "1804–1835",
-      "IndependenceRecognized": "1878",
-      "KingdomOfSerbia": "1882",
+      "Ottoman Conquest": "1459–1804",
+      "Serbian Revolution": "1804–1835",
+      "Independence Recognized": "1878",
+      "Kingdom of Serbia": "1882",
       "Yugoslavia": "1918",
-      "SerbiaAndMontenegro": "1992",
-      "IndependenceRestored": "2006"
+      "Serbia and Montenegro": "1992",
+      "Independence Restored": "2006"
+    }
+  },
+  "History": {
+    "Historical Context": {
+      "Principality": "780",
+      "Kingdom": "1217",
+      "Empire": "1346",
+      "Ottoman Conquest": "1459–1804",
+      "Serbian Revolution": "1804–1835",
+      "Independence Recognized": "1878",
+      "Kingdom of Serbia": "1882",
+      "Yugoslavia": "1918",
+      "Serbia and Montenegro": "1992",
+      "Independence Restored": "2006"
     }
   },
   "Economy": {
-    "GDP_PPP_2023": {
-      "Total": "$173.075 billion",
-      "PerCapita": "$26,074"
+    "Status": "Developing country",
+    "Dependence": "Information technology, agriculture, renewable energy, tourism",
+    "Major Industries": ["Information Technology", "Agriculture", "Renewable Energy", "Tourism"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 173.075,
+      "Per Capita (USD)": 26074
     },
-    "GDP_Nominal_2023": {
-      "Total": "$75.015 billion",
-      "PerCapita": "$11,301"
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 75.015,
+      "Per Capita (USD)": 11301
     },
-    "GiniIndex": "33.3 (2019)",
-    "HDI": "0.802 (2021)"
+    "Currency": "Serbian Dinar (RSD)",
+    "Gini Index": {
+      "Year": 2019,
+      "Value": 33.3,
+      "Category": "Medium"
+    },
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.802,
+      "Category": "Very High",
+      "Rank": "64th"
+    }
   },
-  "Currency": "Serbian dinar (RSD)",
-  "Timezone": "UTC+1 (CET)",
-  "DrivingSide": "right",
-  "CallingCode": "+381",
-  "ISOCode": "RS",
-  "InternetTLD": ".rs.срб",
-  "CulturalAspects": {
-    "Anthem": "Bože pravde (God of Justice)",
-    "Flag": "Flag of Serbia",
-    "CoatOfArms": "Coat of arms of Serbia"
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": [
+      "United Nations (UN)",
+      "Council of Europe",
+      "Organization for Security and Co-operation in Europe (OSCE)",
+      "World Trade Organization (WTO)"
+    ]
   },
-  "PublicHolidays2024": [
-    "New Year's Day (January 1)",
-    "Christmas Day (January 7)",
-    "Statehood Day (February 15 and 16)",
-    "Labor Day (May 1 and 2)",
-    "Orthodox Good Friday (May 3)",
-    "Orthodox Holy Saturday (May 4)",
-    "Orthodox Easter Day (May 5)",
-    "Orthodox Easter Monday (May 6)"
-  ],
-  "SignificantEvents": {
-    "2024WorldAthleticsCrossCountryChampionships": "Serbia hosting",
-    "2024SummerOlympics": "Serbian participation"
+  "Miscellaneous": {
+    "Time Zone": ["UTC+1 (CET)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+381",
+    "ISO 3166 Code": "RS",
+    "Internet TLD": [".rs", ".срб"],
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Christmas Day (January 7)",
+      "Statehood Day (February 15 and 16)",
+      "Labor Day (May 1 and 2)",
+      "Orthodox Good Friday (May 3)",
+      "Orthodox Holy Saturday (May 4)",
+      "Orthodox Easter Day (May 5)",
+      "Orthodox Easter Monday (May 6)"
+    ]
   },
-  "InvestmentOpportunities": [
-    "Information Technology and Innovation",
-    "Agriculture",
-    "Renewable Energy",
-    "Tourism and Hospitality"
-  ]
-}
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage, with influences from Byzantine, Ottoman, and Austro-Hungarian empires",
+    "Cultural Contributions": ["Art", "Cuisine", "Literature", "Music"],
+    "Unique Features": ["Medieval monasteries", "Traditional Serbian music and dance", "Festivals like EXIT and Guca Trumpet Festival"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 4.0,
+    "Exports Growth": "Driven by information technology and agricultural sectors",
+    "Inflation Rate": "2.5%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Information Technology", "Agriculture"],
+      "Challenges": "Balancing economic growth with social development"
+    },
+    "Market Performance": {
+      "Equity Market": "Belgrade Stock Exchange",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban population, with Belgrade being the primary urban center",
+      "Rural Development": "Focus on improving rural infrastructure and living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Balkan and global culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Information Technology", "Agriculture"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air, and River transport",
+    "Key Transport Hubs": ["Belgrade Nikola Tesla Airport", "Port of Belgrade"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Moderate level of political unrest and instability",
+    "Economic Hardships": "High poverty and unemployment rates",
+    "Natural Disasters": ["Floods", "Earthquakes"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "75.5 years",
+    "Infant Mortality Rate": "5.4 deaths/1,000 live births",
+    "Health Expenditure of GDP": "5.8% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "4.7% (2020)",
+    "Literacy Rate": {
+      "Total": "98.0%",
+      "Male": "98.5%",
+      "Female": "97.5%"
+    }
+  }
 }
