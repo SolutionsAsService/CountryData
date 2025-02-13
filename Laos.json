@@ -1,79 +1,200 @@
 {
-  "Laos": {
-    "officialName": "Lao People's Democratic Republic",
-    "flagDescription": "Red and blue with a white circle in the center",
-    "emblemDescription": "A circle depicting hydroelectric dam, roads, rice fields, forests, and a gear",
-    "motto": "Peace, Independence, Democracy, Unity and Prosperity",
-    "anthem": "Pheng Xat Lao ('Hymn of the Lao People')",
-    "geography": {
-      "location": "Indochinese Peninsula, Southeast Asia",
-      "area": 236800,
-      "landlocked": true,
-      "borders": ["Myanmar", "China", "Vietnam", "Cambodia", "Thailand"]
+  "Name": {
+    "Common": "Laos",
+    "Official": "Lao People's Democratic Republic",
+    "Local": "ສາທາລະນະ ປະໄຕ ລາວ"
+  },
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Emblem URL": "URL_to_emblem_image",
+    "Motto": "Peace, Independence, Democracy, Unity and Prosperity",
+    "National Anthem": {
+      "Title": "Pheng Xat Lao",
+      "Translation": "Hymn of the Lao People",
+      "Duration": "1 minute and 20 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Asia",
+    "Region": "Southeast Asia",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Vientiane",
+        "Latitude": "17°58′N",
+        "Longitude": "102°36′E"
+      }
     },
-    "capital": "Vientiane",
-    "officialLanguage": "Lao",
-    "ethnicGroups": {
-      "Lao": 53.2,
-      "Khmu": 11,
-      "Hmong": 9.2,
-      "Phu Thai": 3.4,
-      "Tai": 3.1,
-      "Makong": 2.5,
-      "Katang": 2.2,
-      "Lue": 2.0,
-      "Akha": 1.8,
-      "Others": 11.6
+    "Location": "Indochinese Peninsula, Southeast Asia, bordered by Myanmar and China to the northwest, Vietnam to the east, Cambodia to the southeast, and Thailand to the west",
+    "Area": {
+      "Total (km2)": 236800,
+      "Rank": "82nd",
+      "Water Percentage": "2.0%"
     },
-    "religion": {
-      "Buddhism": 66.0,
-      "TaiFolkReligion": 30.7,
-      "Christianity": 1.5,
-      "Others_None": 1.8
+    "Borders": {
+      "Myanmar": "northwest",
+      "China": "northwest",
+      "Vietnam": "east",
+      "Cambodia": "southeast",
+      "Thailand": "west"
     },
-    "government": {
-      "type": "Unitary Marxist-Leninist one-party socialist republic",
-      "president": "Thongloun Sisoulith",
-      "vicePresidents": ["Bounthong Chitmany", "Pany Yathotou"],
-      "primeMinister": "Sonexay Siphandone",
-      "nationalAssemblyPresident": "Saysomphone Phomvihane"
+    "Coastline": "None (landlocked)",
+    "Terrain": ["Mountainous with some plains and plateaus"],
+    "Climate": ["Tropical monsoon; rainy season from May to November and dry season from December to April"],
+    "Natural Resources": ["Timber, hydropower, gypsum, tin, gold, gemstones"],
+    "Time Zones": ["UTC+7"],
+    "Largest City": "Vientiane"
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 7499200,
+      "Density (per km2)": 31.7
     },
-    "economy": {
-      "GDP_PPP_2023Estimate": {
-        "total": 74205000000,
-        "perCapita": 9787
-      },
-      "GDP_Nominal_2023Estimate": {
-        "total": 14244000000,
-        "perCapita": 1878
-      },
-      "GiniIndex": 36.4,
-      "HDI": 0.607
+    "Ethnic Groups": {
+      "2023": {
+        "Lao": 53.2,
+        "Khmu": 11.0,
+        "Hmong": 9.2,
+        "Phu Thai": 3.4,
+        "Tai": 3.1,
+        "Makong": 2.5,
+        "Katang": 2.2,
+        "Lue": 2.0,
+        "Akha": 1.8,
+        "Others": 11.6
+      }
     },
-    "currency": "Kip (LAK)",
-    "timeZone": "UTC+7",
-    "drivingSide": "right",
-    "callingCode": "+856",
-    "isoCode": "LA",
-    "internetTLD": ".la",
-    "historicalContext": {
-      "LanXangKingdom": "13th to 18th century",
-      "FrenchProtectorate": "1893 to 1953",
-      "Independence": "1953",
-      "CommunistRuleEstablished": "1975",
-      "CurrentConstitution": "1991"
+    "Languages": {
+      "Official": ["Lao"]
     },
-    "socioeconomicChallenges": {
-      "economicGrowthRate": "4 percent in 2024",
-      "inflationRateReduction": "From 40.30 percent to 24.3 percent",
-      "centralBankGoals": "Reducing inflation to single digits by end of 2024",
-      "ASEANChairmanship": "2024",
-      "tourismDevelopment": "Visit Laos Year 2024 campaign"
+    "Religion": {
+      "2023": {
+        "Buddhism": 66.0,
+        "Tai Folk Religion": 30.7,
+        "Christianity": 1.5,
+        "Others/None": 1.8
+      }
     },
-    "culturalAspects": {
-      "ethnicDiversity": "Multiple ethnic groups with distinct cultures",
-      "touristAttractions": "Natural landscapes, temples, and historical sites",
-      "traditionalCuisine": "Known for its unique flavors and dishes"
+    "Demonym": "Laotian"
+  },
+  "Government": {
+    "Type": "Unitary Marxist-Leninist one-party socialist republic",
+    "Leaders": {
+      "President": "Thongloun Sisoulith",
+      "Vice Presidents": ["Bounthong Chitmany", "Pany Yathotou"],
+      "Prime Minister": "Sonexay Siphandone",
+      "National Assembly President": "Saysomphone Phomvihane"
+    },
+    "Legislature": "National Assembly",
+    "Constitution": "1991"
+  },
+  "History": {
+    "Lan Xang Kingdom": "13th to 18th century",
+    "French Protectorate": "1893 to 1953",
+    "Independence": "1953",
+    "Communist Rule Established": "1975",
+    "Current Constitution": "1991"
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Agriculture, hydropower, mining, tourism",
+    "Major Industries": ["Agriculture", "Hydropower", "Mining", "Tourism"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 74.205,
+      "Per Capita (USD)": 9787
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 14.244,
+      "Per Capita (USD)": 1878
+    },
+    "Currency": "Kip (LAK)",
+    "Gini Index": 36.4,
+    "HDI": {
+      "Score": 0.607,
+      "Rank": "137th"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": ["United Nations (UN)", "Association of Southeast Asian Nations (ASEAN)", "World Trade Organization (WTO)", "Asia-Pacific Economic Cooperation (APEC)"]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+7"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+856",
+    "ISO 3166 Code": "LA",
+    "Internet TLD": ".la",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Lao New Year (April 13-15)",
+      "Labor Day (May 1)",
+      "National Day (December 2)",
+      "Boun Bang Fai (Rocket Festival in May)",
+      "Boun Khao Padap Din (Grave Festival in September)",
+      "Boun Ok Phansa (End of Buddhist Lent in October)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of Lao, Tai, and French influences",
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["Distinctive Lao cuisine", "Traditional festivals"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 4.0,
+    "Exports Growth": "Driven by agriculture and hydropower",
+    "Inflation Rate": "24.3%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Agriculture", "Hydropower"],
+      "Challenges": "Balancing economic growth with environmental sustainability"
+    },
+    "Market Performance": {
+      "Equity Market": "N/A",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Southeast Asian culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Agriculture", "Hydropower", "Tourism"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air transport",
+    "Key Transport Hubs": ["Vientiane", "Luang Prabang", "Pakse"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Occasional protests and political unrest",
+    "Economic Hardships": "High inflation and poverty rates",
+    "Natural Disasters": ["Floods"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "67.5 years",
+    "Infant Mortality Rate": "48.5 deaths/1,000 live births",
+    "Health Expenditure of GDP": "3.5% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "4.2% (2020)",
+    "Literacy Rate": {
+      "Total": "84.7%",
+      "Male": "89.1%",
+      "Female": "80.4%"
     }
   }
 }
