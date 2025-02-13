@@ -1,18 +1,47 @@
 {
-  "Myanmar": {
-  "FullName": "Republic of the Union of Myanmar",
-  "AlsoKnownAs": "Burma",
-    "Status": ["Civil War", "Deep Internal Conflict"],
+  "Name": {
+    "Common": "Myanmar",
+    "Official": "Republic of the Union of Myanmar",
+    "Also Known As": "Burma",
+    "Native": {
+      "Burmese": "ပြည်ထောင်စု သမ္မတ မြန်မာနိုင်ငံတော်",
+      "Romanized": "Pyidaunzu Thanmăda Myăma Nainngandaw"
+    }
+  },
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Coat of Arms URL": "URL_to_coat_of_arms_image",
+    "Motto": "Unity, Justice, and Prosperity",
+    "Anthem": {
+      "Title": "Kaba Ma Kyei",
+      "Translation": "Till the End of the World, Myanmar",
+      "Duration": "2 minutes and 10 seconds"
+    }
+  },
   "Geography": {
-    "Location": "Southeast Asia",
-    "Area": {
-      "Total": "676,579 km²",
-      "WaterPercentage": 3.06
+    "Continent": "Asia",
+    "Region": "Southeast Asia",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Naypyidaw",
+        "Latitude": "19°45′N",
+        "Longitude": "96°6′E"
+      }
     },
-    "Borders": ["Bangladesh", "India", "China", "Laos", "Thailand"],
-    "Coastline": "1,384 mi",
-    "Capital": "Naypyidaw",
-    "LargestCity": "Yangon",
+    "Location": "Southeast Asia, bordered by Bangladesh and India to the northwest, China to the northeast, Laos and Thailand to the east and southeast, and the Andaman Sea and the Bay of Bengal to the south and southwest",
+    "Area": {
+      "Total (sq km)": 676579,
+      "Rank": "40th",
+      "Water Percentage": "3.06%"
+    },
+    "Borders": {
+      "Northwest": ["Bangladesh", "India"],
+      "Northeast": ["China"],
+      "East": ["Laos"],
+      "Southeast": ["Thailand"]
+    },
+    "Coastline": "2,228 km",
+    "Topography": ["Lowlands", "Highlands"],
     "Climate": {
       "Lowlands": "Tropical monsoon",
       "Highlands": {
@@ -20,62 +49,177 @@
         "Temperate": "3,000 m",
         "Alpine": "Above 3,500 m"
       }
-    }
+    },
+    "Natural Resources": ["Petroleum", "Natural gas", "Timber", "Tin", "Antimony", "Zinc", "Copper", "Tungsten", "Lead", "Coal", "Marble", "Limestone", "Precious stones", "Hydropower"],
+    "Time Zones": ["UTC+06:30"],
+    "Largest City": "Yangon"
   },
   "Demographics": {
-    "Population2022Estimate": 57,526,449,
-    "Density": "76.0/km²",
-    "EthnicGroups": {
-      "Bamar": "68%",
-      "Shan": "9%",
-      "Karen": "7%",
-      "Rakhine": "4%",
-      "Chinese": "3%",
-      "Indian": "2%",
-      "Mon": "2%",
-      "Other": "5%"
+    "Population": {
+      "2022 Estimate": 57526449,
+      "Density (per sq km)": 76.0
+    },
+    "Ethnic Groups": {
+      "2022": {
+        "Bamar": 68,
+        "Shan": 9,
+        "Karen": 7,
+        "Rakhine": 4,
+        "Chinese": 3,
+        "Indian": 2,
+        "Mon": 2,
+        "Other": 5
+      }
+    },
+    "Languages": {
+      "Official": ["Burmese"],
+      "Recognised Regional": ["Shan", "Karen", "Kachin", "Rakhine", "Mon"]
     },
     "Religion": {
-      "Buddhism": "87.9%",
-      "Christianity": "6.2%",
-      "Islam": "4.3%",
-      "Other": "1.6%"
-    }
+      "2022": {
+        "Buddhism": 87.9,
+        "Christianity": 6.2,
+        "Islam": 4.3,
+        "Other": 1.6
+      }
+    },
+    "Demonym": "Burmese"
   },
   "Government": {
     "Type": "Unitary assembly-independent republic under a military junta",
-    "President": "Myint Swe (acting)",
-    "SACChairmanAndPrimeMinister": "Min Aung Hlaing",
-    "SACViceChairmanAndDeputyPrimeMinister": "Soe Win",
-    "Legislature": "State Administration Council"
+    "Leaders": {
+      "President": "Myint Swe (acting)",
+      "SAC Chairman and Prime Minister": "Min Aung Hlaing",
+      "SAC Vice Chairman and Deputy Prime Minister": "Soe Win"
+    },
+    "Legislature": "State Administration Council",
+    "Constitution": "29 May 2008"
+  },
+  "History": {
+    "Historical Eras": [
+      "Pagan Kingdom (849 AD)",
+      "Toungoo Dynasty (1510 AD)",
+      "Konbaung Dynasty (1752 AD)",
+      "Annexation by Britain (1886)",
+      "Independence from UK (1948)",
+      "1962 Coup d'état",
+      "Renamed from Burma to Myanmar (1989)",
+      "2021 Coup d'état"
+    ]
   },
   "Economy": {
-    "GDP_PPP_2023Estimate": {
-      "Total": "$277.767 billion",
-      "PerCapita": "$5,124"
+    "Status": "Developing country",
+    "Dependence": "Agriculture, oil and gas, mining",
+    "Major Industries": ["Agriculture", "Oil and gas", "Mining", "Textiles", "Wood products"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 277.767,
+      "Per Capita (USD)": 5124
     },
-    "GDP_Nominal_2023Estimate": {
-      "Total": "$74.861 billion",
-      "PerCapita": "$1,381"
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 74.861,
+      "Per Capita (USD)": 1381
     },
-    "GiniIndex": "30.7 (2017)",
-    "HDI": "0.585 (2021)"
+    "Currency": "Kyat (MMK)",
+    "Gini Index": {
+      "Year": 2017,
+      "Value": 30.7,
+      "Category": "Medium"
+    },
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.585,
+      "Category": "Medium",
+      "Rank": "149th"
+    }
   },
-  "Currency": "Kyat (MMK)",
-  "Timezone": "UTC+06:30",
-  "DrivingSide": "right",
-  "CallingCode": "+95",
-  "ISO3166Code": "MM",
-  "InternetTLD": ".mm",
-  "History": [
-    "Pagan Kingdom (849 AD)",
-    "Toungoo Dynasty (1510 AD)",
-    "Konbaung Dynasty (1752 AD)",
-    "Annexation by Britain (1886)",
-    "Independence from UK (1948)",
-    "1962 Coup d'état",
-    "Renamed from Burma to Myanmar (1989)",
-    "2021 Coup d'état"
-  ]
-}
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": [
+      "United Nations (UN)",
+      "Association of Southeast Asian Nations (ASEAN)",
+      "Non-Aligned Movement",
+      "Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC)",
+      "East Asia Summit"
+    ]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+06:30"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+95",
+    "ISO 3166 Code": "MM",
+    "Internet TLD": ".mm",
+    "Public Holidays": [
+      "Independence Day (January 4)",
+      "Union Day (February 12)",
+      "Peasants' Day (March 2)",
+      "Armed Forces Day (March 27)",
+      "Labour Day (May 1)",
+      "Martyrs' Day (July 19)",
+      "Christmas Day (December 25)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of Bamar and ethnic minority influences",
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["Deeply rooted in Buddhism", "Diverse ethnic groups and traditions"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 2.5,
+    "Exports Growth": "Driven by agriculture and textiles",
+    "Inflation Rate": "8.0%",
+    "Policy Response": {
+      "Focus": "Economic stabilization and recovery",
+      "Areas": ["Agriculture", "Textiles"],
+      "Challenges": "Balancing economic growth with political stability"
+    },
+    "Market Performance": {
+      "Equity Market": "N/A",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Southeast Asian culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Agriculture", "Textiles"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air, and Sea transport",
+    "Key Transport Hubs": ["Yangon", "Mandalay", "Naypyidaw"]
+  },
+  "Current Challenges": {
+    "Political Instability": "High level of political unrest and instability",
+    "Economic Hardships": "High poverty and unemployment rates",
+    "Natural Disasters": ["Cyclones"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "67.1 years",
+    "Infant Mortality Rate": "37.7 deaths/1,000 live births",
+    "Health Expenditure of GDP": "4.7% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "2.5% (2020)",
+    "Literacy Rate": {
+      "Total": "75.6%",
+      "Male": "80.2%",
+      "Female": "71.0%"
+    }
+  }
 }
