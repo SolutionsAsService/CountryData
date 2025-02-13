@@ -1,90 +1,221 @@
 {
   "Name": {
     "Common": "Russia",
-    "Official": "Russian Federation"
-  },
-  "Geography": {
-    "Capital City": "Moscow",
-    "Largest City": "Moscow",
-    "Major Cities": [
-      "Saint Petersburg",
-      "Novosibirsk",
-      "Yekaterinburg",
-      "Nizhny Novgorod",
-      "Chelyabinsk",
-      "Krasnoyarsk",
-      "Kazan"
-    ],
-    "Area": {
-      "Total (km2)": "17098246",
-      "Rank": "1",
-      "Water Percentage": "13%"
-    },
-    "Time Zones": "11",
-    "Total Borders": "14",
-    "Driving Side": "Right"
-  },
-  "Government": {
-    "Type": "Federal semi-presidential republic",
-    "Regime": "Authoritarian dictatorship",
-    "President": "Vladimir Putin",
-    "Prime Minister": "Mikhail Mishustin",
-    "Legislature": {
-      "Upper House": "Federation Council",
-      "Lower House": "State Duma"
+    "Official": "Russian Federation",
+    "Native": {
+      "Russian": "Российская Федерация (Rossiyskaya Federatsiya)"
     }
   },
-  "History": {
-    "Early Slavic State": "Kievan Rus",
-    "Adoption of Orthodoxy": "988",
-    "Formation of Tsardom": "16 January 1547",
-    "Russian Empire Established": "2 November 1721",
-    "Russian Revolution": "1917",
-    "Soviet Union Established": "30 December 1922",
-    "Soviet Dissolution": "1991",
-    "Current Constitution": "12 December 1993"
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Coat of Arms URL": "URL_to_coat_of_arms_image",
+    "Anthem": {
+      "Title": "Gosudarstvenny Gimn Rossiyskoy Federatsii",
+      "Translation": "State Anthem of the Russian Federation",
+      "Duration": "3 minutes and 50 seconds"
+    }
   },
-  "Economy": {
-    "GDP (PPP 2023) Total (Trillion USD)": "5.056",
-    "GDP (Nominal 2023) Total (Trillion USD)": "1.862",
-    "GDP per Capita (PPP USD)": "35310",
-    "GDP per Capita (Nominal USD)": "13006"
+  "Geography": {
+    "Continent": "Europe and Asia",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Moscow",
+        "Latitude": "55°45′N",
+        "Longitude": "37°37′E"
+      }
+    },
+    "Location": "Spanning Eastern Europe and Northern Asia, bordered by Norway, Finland, Estonia, Latvia, Lithuania, Poland (via Kaliningrad Oblast), Belarus, Ukraine, Georgia, Azerbaijan, Kazakhstan, China, Mongolia, and North Korea",
+    "Area": {
+      "Total (sq km)": 17098246,
+      "Rank": "1st",
+      "Water Percentage": "13%"
+    },
+    "Topography": ["Plains", "Mountains (Caucasus, Ural)", "Tundra", "Taiga", "Steppes", "Rivers (Volga, Yenisei, Lena)"],
+    "Climate": ["Varied, ranging from humid continental in much of European Russia to subarctic and polar in Siberia"],
+    "Natural Resources": ["Oil", "Natural gas", "Coal", "Iron ore", "Gold", "Timber"],
+    "Time Zones": ["11"],
+    "Largest City": "Moscow"
   },
   "Demographics": {
     "Population": {
-      "2022 Estimate": "147182123",
-      "2021 Census": "144699673",
-      "Density per km2": "8.4"
+      "2022 Estimate": 147182123,
+      "2021 Census": 144699673,
+      "Density (per sq km)": 8.4
     },
-    "Languages and Ethnic Groups": {
-      "Official Languages": "Russian",
-      "Ethnic Groups": {
-        "Russian": "71.7%",
-        "Tatar": "3.2%",
-        "Bashkir": "1.1%",
-        "Chechen": "1.1%",
-        "Other": "11.3%"
+    "Ethnic Groups": {
+      "2021": {
+        "Russian": 71.7,
+        "Tatar": 3.2,
+        "Bashkir": 1.1,
+        "Chechen": 1.1,
+        "Other": 11.3
       }
     },
+    "Languages": {
+      "Official": ["Russian"],
+      "Recognized Regional": ["Tatar", "Chechen", "Bashkir"]
+    },
     "Religion": {
-      "Primary": "Russian Orthodox",
-      "Christianity": "61%",
-      "Minorities": {
-        "Islam": "9%",
+      "2021": {
+        "Christianity": 61.0,
+        "Russian Orthodox": 40.0,
+        "Other Christian": 21.0,
+        "Islam": 9.0,
         "Buddhism": "Included in other",
-        "No Religion": "24%"
+        "No Religion": 24.0,
+        "Other": 6.0
+      }
+    },
+    "Demonym": "Russian"
+  },
+  "Government": {
+    "Type": "Federal semi-presidential constitutional republic",
+    "Leaders": {
+      "President": "Vladimir Putin",
+      "Prime Minister": "Mikhail Mishustin"
+    },
+    "Legislature": {
+      "Upper House": "Federation Council",
+      "Lower House": "State Duma"
+    },
+    "Constitution": "12 December 1993",
+    "Independence History": {
+      "Kievan Rus": "882",
+      "Tsardom of Russia": "16 January 1547",
+      "Russian Empire": "2 November 1721",
+      "Russian Revolution": "1917",
+      "Soviet Union": "30 December 1922",
+      "Russian Federation": "25 December 1991"
+    }
+  },
+  "History": {
+    "Historical Context": {
+      "Early Slavic State": "Kievan Rus",
+      "Adoption of Orthodoxy": "988",
+      "Formation of Tsardom": "16 January 1547",
+      "Russian Empire Established": "2 November 1721",
+      "Russian Revolution": "1917",
+      "Soviet Union Established": "30 December 1922",
+      "Soviet Dissolution": "1991",
+      "Current Constitution": "12 December 1993"
+    }
+  },
+  "Economy": {
+    "Status": "Developed country",
+    "Dependence": "Oil, natural gas, mining, defense industry",
+    "Major Industries": ["Oil", "Natural gas", "Mining", "Defense", "Aerospace", "Automotive"],
+    "GDP (PPP 2023)": {
+      "Total (Trillion USD)": 5.056,
+      "Per Capita (USD)": 35310
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Trillion USD)": 1.862,
+      "Per Capita (USD)": 13006
+    },
+    "Currency": "Russian Ruble (RUB)",
+    "Gini Index": {
+      "Year": 2022,
+      "Value": 37.5,
+      "Category": "Medium"
+    },
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.822,
+      "Category": "Very High",
+      "Rank": "52nd"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": [
+      "United Nations (UN)",
+      "Commonwealth of Independent States (CIS)",
+      "Eurasian Economic Union (EAEU)",
+      "Shanghai Cooperation Organisation (SCO)",
+      "BRICS",
+      "Organization for Security and Co-operation in Europe (OSCE)",
+      "World Trade Organization (WTO)"
+    ]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+2 to UTC+12"],
+    "Date Format": ["dd.mm.yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+7",
+    "ISO 3166 Code": "RU",
+    "Internet TLD": [".ru", ".рф"],
+    "Public Holidays": [
+      "New Year’s Day",
+      "Orthodox Christmas Day",
+      "Defender of the Fatherland Day",
+      "International Women's Day",
+      "Spring and Labor Day",
+      "Victory Day",
+      "Russia Day",
+      "Unity Day"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with influences from Slavic, Finno-Ugric, Turkic cultures",
+    "Cultural Contributions": ["Art", "Cuisine", "Literature", "Music"],
+    "Unique Features": ["Russian ballet", "Traditional festivals", "Russian Orthodox churches"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 2.5,
+    "Exports Growth": "Driven by oil and natural gas sectors",
+    "Inflation Rate": "4.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Oil", "Natural gas"],
+      "Challenges": "Balancing economic growth with social development"
+    },
+    "Market Performance": {
+      "Equity Market": "Moscow Exchange",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
       }
     }
   },
-  "Miscellaneous": {
-    "Human Development Index (2021)": "0.822",
-    "Currency": "Ruble",
-    "Calling Code": "+7",
-    "Internet TLD": [
-      ".ru",
-      ".рф"
-    ],
-    "UNESCO World Heritage Sites": "30"
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Eurasian and global culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Oil", "Natural gas"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air, and Sea transport",
+    "Key Transport Hubs": ["Moscow", "Saint Petersburg", "Novosibirsk"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Moderate level of political unrest and instability",
+    "Economic Hardships": "Moderate poverty and unemployment rates",
+    "Natural Disasters": ["Floods", "Forest fires"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "73.1 years",
+    "Infant Mortality Rate": "5.4 deaths/1,000 live births",
+    "Health Expenditure of GDP": "5.3% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "4.1% (2020)",
+    "Literacy Rate": {
+      "Total": "99.7%",
+      "Male": "99.7%",
+      "Female": "99.7%"
+    }
   }
 }
-
