@@ -1,78 +1,220 @@
 {
-  "Nicaragua":{
-  "Country": "Nicaragua",
-  "FullName": "Republic of Nicaragua",
-   "SpanishName": "República de Nicaragua",
-  "Geography": {
-    "Location": "Central America",
-    "Borders": ["Honduras", "Caribbean", "Costa Rica", "Pacific Ocean"],
-    "Capital": "Managua",
-    "SignificantFeatures": ["Largest in Central America", "Land of lakes and volcanoes"]
-  },
-  "History": {
-    "PreColonial": "Diverse indigenous cultures",
-    "SpanishConquest": {
-      "InitialDiscovery": "1502 by Christopher Columbus",
-      "Conquest": "1522 by Gil González Dávila",
-      "Colonization": {
-        "PermanentSettlements": "1524",
-        "MajorCities": ["Granada", "León"]
-      }
-    },
-    "Independence": {
-      "FromSpain": "1821",
-      "MosquitoCoast": {
-        "ColonizedBy": "England",
-        "AutonomousTerritory": "1860"
-      }
-    },
-    "ModernEra": {
-      "PoliticalUnrest": ["Nicaraguan Revolution", "Contra War"],
-      "CulturalDiversity": ["Folklore", "Cuisine", "Music", "Literature"]
+  "Name": {
+    "Common": "Nicaragua",
+    "Official": "Republic of Nicaragua",
+    "Native": {
+      "Spanish": "República de Nicaragua"
     }
+  },
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Coat of Arms URL": "URL_to_coat_of_arms_image",
+    "Motto": "En Dios Confiamos (In God We Trust)",
+    "Anthem": {
+      "Title": "Salve a ti, Nicaragua",
+      "Translation": "Hail to thee, Nicaragua",
+      "Duration": "1 minute and 20 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "North America",
+    "Region": "Central America",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Managua",
+        "Latitude": "12.1364° N",
+        "Longitude": "86.2514° W"
+      }
+    },
+    "Location": "Central America, bordered by Honduras to the north, the Caribbean Sea to the east, Costa Rica to the south, and the Pacific Ocean to the west",
+    "Area": {
+      "Total (sq km)": 130373,
+      "Rank": "96th",
+      "Water Percentage": "7.14%"
+    },
+    "Borders": {
+      "North": ["Honduras"],
+      "East": ["Caribbean Sea"],
+      "South": ["Costa Rica"],
+      "West": ["Pacific Ocean"]
+    },
+    "Significant Features": ["Largest country in Central America", "Land of lakes and volcanoes"],
+    "Topography": ["Volcanic mountain ranges", "Large lakes", "Coastal plains"],
+    "Climate": ["Tropical in lowlands", "Cooler in highlands"],
+    "Natural Resources": ["Gold", "Silver", "Copper", "Tungsten", "Lead", "Zinc", "Timber", "Fish"],
+    "Time Zones": ["UTC-06:00"],
+    "Largest City": "Managua"
   },
   "Demographics": {
-    "Population": "6,804,000 (2023 est.)",
-    "EthnicGroups": {
-      "Mestizo": "69%",
-      "White": "17%",
-      "Black": "9%",
-      "Indigenous": "5%"
+    "Population": {
+      "2023 Estimate": 6804000,
+      "Density (per sq km)": 52.2
     },
-    "Languages": ["Spanish", "Indigenous Languages", "English"],
+    "Ethnic Groups": {
+      "2023": {
+        "Mestizo": 69,
+        "White": 17,
+        "Black": 9,
+        "Indigenous": 5
+      }
+    },
+    "Languages": {
+      "Official": ["Spanish"],
+      "Recognised": ["Indigenous languages", "English"]
+    },
     "Religion": {
-      "Christianity": "84.4%",
-      "NoReligion": "14.7%",
-      "Other": "0.9%"
-    }
+      "2023": {
+        "Christianity": 84.4,
+        "No Religion": 14.7,
+        "Other": 0.9
+      }
+    },
+    "Demonym": "Nicaraguan"
   },
   "Government": {
     "Type": "Unitary presidential republic",
-    "CurrentLeaders": {
+    "Leaders": {
       "President": "Daniel Ortega",
-      "VicePresident": "Rosario Murillo"
+      "Vice President": "Rosario Murillo"
     },
-    "Legislature": "National Assembly"
+    "Legislature": "National Assembly",
+    "Constitution": "9 January 1987"
+  },
+  "History": {
+    "Pre-Colonial": "Diverse indigenous cultures",
+    "Spanish Conquest": {
+      "Initial Discovery": "1502 by Christopher Columbus",
+      "Conquest": "1522 by Gil González Dávila",
+      "Colonization": {
+        "Permanent Settlements": "1524",
+        "Major Cities": ["Granada", "León"]
+      }
+    },
+    "Independence": {
+      "From Spain": "1821",
+      "Mosquito Coast": {
+        "Colonized By": "England",
+        "Autonomous Territory": "1860"
+      }
+    },
+    "Modern Era": {
+      "Political Unrest": ["Nicaraguan Revolution", "Contra War"],
+      "Cultural Diversity": ["Folklore", "Cuisine", "Music", "Literature"]
+    }
   },
   "Economy": {
-    "MainSectors": ["Light manufacturing", "Services", "Agriculture"],
-    "GDP": {
-      "PPP": "$51.022 billion (2023)",
-      "Nominal": "$17.353 billion (2023)"
+    "Status": "Developing country",
+    "Dependence": "Light manufacturing, services, agriculture",
+    "Major Industries": ["Light manufacturing", "Services", "Agriculture"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 51.022,
+      "Per Capita (USD)": 7500
     },
-    "Currency": "Córdoba (NIO)"
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 17.353,
+      "Per Capita (USD)": 2550
+    },
+    "Currency": "Nicaraguan córdoba (NIO)",
+    "Gini Index": {
+      "Year": 2023,
+      "Value": 46.2,
+      "Category": "High"
+    },
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.660,
+      "Category": "Medium",
+      "Rank": "128th"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": [
+      "United Nations (UN)",
+      "Non-Aligned Movement",
+      "Bolivarian Alliance for the Peoples of Our America (ALBA)",
+      "Community of Latin American and Caribbean States (CELAC)"
+    ]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC-06:00"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+505",
+    "ISO 3166 Code": "NI",
+    "Internet TLD": ".ni",
+    "Public Holidays": [
+      "New Year's Day",
+      "Holy Thursday",
+      "Good Friday",
+      "Labor Day",
+      "Battle of San Jacinto",
+      "Independence Day",
+      "Immaculate Conception",
+      "Christmas Day"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of indigenous and Spanish influences",
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["Marimba music", "Dance music on Caribbean coast", "Festivals like La Purísima and Palo de Mayo"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 4.0,
+    "Exports Growth": "Driven by light manufacturing and agriculture",
+    "Inflation Rate": "5.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Light manufacturing", "Agriculture"],
+      "Challenges": "Balancing economic growth with social development"
+    },
+    "Market Performance": {
+      "Equity Market": "N/A",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Central American culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Light manufacturing", "Agriculture"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Air, and Sea transport",
+    "Key Transport Hubs": ["Managua", "Corinto", "Bluefields"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Moderate level of political unrest and instability",
+    "Economic Hardships": "High poverty and unemployment rates",
+    "Natural Disasters": ["Hurricanes", "Earthquakes"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "75.4 years",
+    "Infant Mortality Rate": "18.1 deaths/1,000 live births",
+    "Health Expenditure of GDP": "6.5% (2020)"
   },
   "Education": {
-    "System": ["Free and compulsory elementary education", "Higher education variety"],
-    "LiteracyCampaigns": ["1980 campaign reduced illiteracy significantly"]
-  },
-  "Culture": {
-    "Influences": ["Indigenous", "Spanish"],
-    "Music": ["Marimba", "Dance music on Caribbean coast"],
-    "Festivals": ["La Purísima", "Palo de Mayo"]
-  },
-  "InternationalRelations": {
-    "UN_FoundingMember": true,
-    "Membership": ["Non-Aligned Movement", "Bolivarian Alliance", "Community of Latin American and Caribbean States"]
+    "Expenditures of GDP": "4.7% (2020)",
+    "Literacy Rate": {
+      "Total": "82.6%",
+      "Male": "83.5%",
+      "Female": "81.7%"
+    }
   }
 }
