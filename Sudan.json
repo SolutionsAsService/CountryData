@@ -1,103 +1,128 @@
 {
-  "Sudan": {
-  "Country_Name": "Republic of the Sudan",
-  "Local_Name": "Jumhūriyyat as-Sūdān",
-  "Arabic_Name" : "مهورية السودان",
-  "Status": ["Civil War"],
-  "ISO_Code": "SD",
-  "Capital": "Khartoum",
-  "Major_Cities": ["Omdurman", "Port Sudan", "Kassala", "Kosti", "Juba"],
-  "Area": {
-    "Total_sq_km": 1861484,
-    "Land_sq_km": 1731671,
-    "Water_sq_km": 129813
-  },
-  "Population": {
-    "2023_Estimate": 49197555,
-    "Density_per_sq_km": 21.3,
-    "Growth_Rate": 2.55
-  },
-  "Ethnic_Groups": [
-    {"Sudanese Arab": "70%"},
-    {"Fur": null},
-    {"Beja": null},
-    {"Nuba": null},
-    {"Ingessana": null},
-    {"Uduk": null},
-    {"Fallata": null},
-    {"Masalit": null},
-    {"Dajo": null},
-    {"Gimir": null},
-    {"Tunjur": null},
-    {"Berti": null}
-  ],
-  "Languages": {
-    "Official": ["Arabic", "English"],
-    "Recognised": ["Nubian", "Ta Bedawie", "Fur"]
-  },
-  "Religions": {
-    "Sunni Muslim": "majority",
-    "Christianity": "small minority",
-    "Traditional Faiths": null
-  },
-  "Government": {
-    "Type": "Presidential Republic",
-    "Executive_Branch": {
-      "Chief_of_State": "General Abd-al-Fatah al-BURHAN",
-      "Head_of_Government": "Acting Prime Minister Osman HUSSEIN"
+  "Name": {
+    "Common": "Sudan",
+    "Official": "Republic of the Sudan",
+    "Local": "Jumhūriyyat as-Sūdān",
+    "Arabic": "مهورية السودان"
     },
-    "Legislative_Branch": {
-      "Description": "Transitional Legislative Council pending"
-    }
-  },
-  "Economy": {
-    "GDP_PPP": "172.651 billion USD",
-    "GDP_Per_Capita": "3604 USD",
-    "Industries": [
-      "oil", 
-      "cotton ginning", 
-      "textiles", 
-      "cement", 
-      "edible oils", 
-      "sugar", 
-      "soap distilling", 
-      "shoes", 
-      "petroleum refining", 
-      "pharmaceuticals", 
-      "armaments", 
-      "automobile/light truck assembly", 
-      "milling"
+    "Status": ["Civil War", "Transitional"],
+    "ISO_Code": "SD",
+    "Capital": "Khartoum",
+    "Major_Cities": [
+      "Khartoum",
+      "Omdurman",
+      "Port Sudan",
+      "Kassala",
+      "Nyala",
+      "El-Obeid"
     ],
-    "Agriculture": [
-      "sugar cane", 
-      "sorghum", 
-      "milk", 
-      "groundnuts", 
-      "onions", 
-      "sesame seed", 
-      "goat milk", 
-      "millet", 
-      "bananas", 
-      "wheat"
-    ],
-    "Exports": {
-      "Commodities": ["gold", "crude petroleum", "sesame seeds", "sheep", "goats", "cotton", "ground nuts"],
-      "Major_Partners": ["United Arab Emirates", "China", "Saudi Arabia", "India", "Egypt"]
+    "Area": {
+      "Total_sq_km": 1861484,
+      "Land_sq_km": 1731671,
+      "Water_sq_km": 129813
     },
-    "Imports": {
-      "Commodities": ["raw sugar", "wheat", "packaged medicines", "jewelry", "tires", "cars and vehicle parts"],
-      "Major_Partners": ["China", "India", "United Arab Emirates", "Egypt"]
-    }
-  },
-  "Geography": {
-    "Terrain": "flat with mountains in east and west",
-    "Climate": "hot and dry; arid desert; rainy season varies by region"
-  },
-  "History": {
-    "Independence_Date": "1 January 1956",
-    "Historical_Periods": ["Kingdom of Kush", "Turco-Egyptian Sudan", "Mahdist State", "Anglo-Egyptian Condominium"],
-    "Recent_Events": ["Secession of South Sudan in 2011", "Sudanese Revolution in 2018"]
-  },
-  "International_Affiliations": ["United Nations", "Arab League", "African Union", "COMESA", "Non-Aligned Movement", "Organisation of Islamic Cooperation"]
-}
+    "Population": {
+      "2023_Estimate": 49197555,
+      "Density_per_sq_km": 21.3,
+      "Growth_Rate": 2.55
+    },
+    "Ethnic_Groups": [
+      { "Sudanese Arab": "70%" },
+      { "Fur": "Varies by region" },
+      { "Beja": "Significant in eastern regions" },
+      { "Nuba": "Notable minority" },
+      { "Ingessana": "Present in the Blue Nile area" },
+      { "Uduk": "Small minority" },
+      { "Fallata": "Present" },
+      { "Masalit": "Present" },
+      { "Dajo": "Present" },
+      { "Gimir": "Present" },
+      { "Tunjur": "Present" },
+      { "Berti": "Present" }
+    ],
+    "Languages": {
+      "Official": ["Arabic", "English"],
+      "Recognised": ["Nubian", "Ta Bedawie", "Fur"]
+    },
+    "Religions": {
+      "Sunni Muslim": "Majority",
+      "Christianity": "Small minority",
+      "Traditional_Faiths": "Practiced in some rural areas"
+    },
+    "Government": {
+      "Type": "Presidential Republic (Transitional)",
+      "Executive_Branch": {
+        "Chief_of_State": "General Abd-al-Fatah al-Burhan",
+        "Head_of_Government": "Acting Prime Minister Osman Hussein"
+      },
+      "Legislative_Branch": {
+        "Description": "Transitional Legislative Council pending establishment"
+      }
+    },
+    "Economy": {
+      "GDP_PPP": "172.651 billion USD",
+      "GDP_Per_Capita": "3604 USD",
+      "Industries": [
+        "Oil extraction and refining",
+        "Cotton ginning",
+        "Textiles",
+        "Cement production",
+        "Edible oils",
+        "Sugar processing",
+        "Soap distilling",
+        "Shoemaking",
+        "Pharmaceuticals",
+        "Armaments",
+        "Automobile/light truck assembly",
+        "Milling"
+      ],
+      "Agriculture": [
+        "Sugar cane",
+        "Sorghum",
+        "Milk production",
+        "Groundnuts",
+        "Onions",
+        "Sesame seeds",
+        "Goat milk",
+        "Millet",
+        "Bananas",
+        "Wheat"
+      ],
+      "Exports": {
+        "Commodities": ["Gold", "Crude petroleum", "Sesame seeds", "Sheep", "Goats", "Cotton", "Groundnuts"],
+        "Major_Partners": ["United Arab Emirates", "China", "Saudi Arabia", "India", "Egypt"]
+      },
+      "Imports": {
+        "Commodities": ["Raw sugar", "Wheat", "Packaged medicines", "Jewelry", "Tires", "Cars and vehicle parts"],
+        "Major_Partners": ["China", "India", "United Arab Emirates", "Egypt"]
+      },
+      "Currency": "Sudanese Pound (SDG)"
+    },
+    "Geography": {
+      "Terrain": "Vast desert plains in the north (including the Nubian Desert), semi-arid regions with scattered mountains in the east (Red Sea Hills) and west (Nuba Mountains), and fertile river valleys along the Blue Nile and White Nile.",
+      "Climate": "Hot desert climate in the north; tropical savanna in the south; overall arid with a short, regionally variable rainy season"
+    },
+    "History": {
+      "Independence_Date": "1 January 1956",
+      "Historical_Periods": [
+        "Kingdom of Kush (Ancient Nubia)",
+        "Turco-Egyptian Sudan (1820–1885)",
+        "Mahdist State (1885–1899)",
+        "Anglo-Egyptian Condominium (1899–1956)"
+      ],
+      "Recent_Events": [
+        "Secession of South Sudan in 2011",
+        "Sudanese Revolution in 2018",
+        "Formation of Transitional Government (2019–present)"
+      ]
+    },
+    "International_Affiliations": [
+      "United Nations",
+      "Arab League",
+      "African Union",
+      "COMESA",
+      "Non-Aligned Movement",
+      "Organisation of Islamic Cooperation"
+    ]
+  }
 }
