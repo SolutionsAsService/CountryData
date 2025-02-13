@@ -1,82 +1,218 @@
 {
-  "Panama":{
-  "Country": "Panama",
-  "Official_Name": "Republic of Panama",
-  "Location": {
+  "Name": {
+    "Common": "Panama",
+    "Official": "Republic of Panama",
+    "Native": {
+      "Spanish": "República de Panamá"
+    }
+  },
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Coat of Arms URL": "URL_to_coat_of_arms_image",
+    "Motto": "Pro Mundi Beneficio (For the Benefit of the World)",
+    "Anthem": {
+      "Title": "Himno Istmeño",
+      "Translation": "Isthmus Hymn",
+      "Duration": "1 minute and 30 seconds"
+    }
+  },
+  "Geography": {
     "Continent": "Central America",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Panama City",
+        "Latitude": "8.9833° N",
+        "Longitude": "79.5167° W"
+      }
+    },
+    "Location": "Central America, bordered by Costa Rica to the west, Colombia to the southeast, the Caribbean Sea to the north, and the Pacific Ocean to the south",
+    "Area": {
+      "Total (sq km)": 75417,
+      "Rank": "116th",
+      "Water Percentage": "2.9%"
+    },
     "Borders": {
-      "West": "Costa Rica",
-      "Southeast": "Colombia",
-      "North": "Caribbean Sea",
-      "South": "Pacific Ocean"
+      "West": ["Costa Rica"],
+      "Southeast": ["Colombia"],
+      "North": ["Caribbean Sea"],
+      "South": ["Pacific Ocean"]
     },
-    "Region": "Transcontinental (Central and South America)"
+    "Topography": ["Mountainous interior", "Coastal plains", "Tropical rainforests"],
+    "Climate": ["Tropical maritime"],
+    "Natural Resources": ["Copper", "Mahogany forests", "Shrimp", "Hydropower"],
+    "Time Zones": ["UTC-05:00"],
+    "Largest City": "Panama City"
   },
-  "Area": {
-    "Total": "75,417 km²",
-    "Rank": 116,
-    "Water_Percentage": 2.9
-  },
-  "Population": {
-    "2023_Estimate": "4,462,000",
-    "Density": "56/km²"
-  },
-  "Capital": "Panama City",
-  "LargestCity": "Panama City",
-  "Government": {
-    "Type": "Unitary presidential republic",
-    "President": "Laurentino Cortizo",
-    "Vice_President": "José Gabriel Carrizo",
-    "Legislature": "National Assembly"
-  },
-  "Independence": {
-    "From_Spanish_Empire": "November 28, 1821",
-    "Union_With_Gran_Colombia": "December 1821",
-    "From_Republic_of_Colombia": "November 3, 1903",
-    "Current_Constitution": "October 11, 1972"
-  },
-  "Economy": {
-    "GDP_PPP_2023_Estimate": {
-      "Total": "$190.306 billion",
-      "Per_Capita": "$42,738"
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 4462000,
+      "Density (per sq km)": 56.0
     },
-    "GDP_Nominal_2023_Estimate": {
-      "Total": "$82.348 billion",
-      "Per_Capita": "$18,493"
+    "Ethnic Groups": {
+      "2023": {
+        "Mestizo": 65.0,
+        "Indigenous": 12.3,
+        "Black": 9.2,
+        "Mulatto": 6.8,
+        "White": 6.7
+      }
     },
-    "Gini_Index": "49.9 (2017)",
-    "HDI": "0.805 (2021)"
-  },
-   "Culture_and_Society": {
-    "Ethnic_Groups": {
-      "Mestizo": "65.0%",
-      "Indigenous": "12.3%",
-      "Black": "9.2%",
-      "Mulatto": "6.8%",
-      "White": "6.7%"
+    "Languages": {
+      "Official": ["Spanish"],
+      "Recognised National": ["English", "Indigenous languages"]
     },
     "Religion": {
-      "Christianity": "91.5%",
-      "Roman_Catholic": "63.2%",
-      "Protestant": "25.0%",
-      "Other_Christian": "3.3%",
-      "No_Religion": "7.6%",
-      "Other": "0.9%"
+      "2023": {
+        "Christianity": 91.5,
+        "Roman Catholic": 63.2,
+        "Protestant": 25.0,
+        "Other Christian": 3.3,
+        "No Religion": 7.6,
+        "Other": 0.9
+      }
     },
-    "Languages": ["Spanish"],
     "Demonym": "Panamanian"
   },
-  "Health_and_Education": {
-    "Life_Expectancy": "78.4 years",
-    "Literacy_Rate": "95.7%",
-    "Education_Expenditures": "3.9% of GDP"
+  "Government": {
+    "Type": "Unitary presidential republic",
+    "Leaders": {
+      "President": "Laurentino Cortizo",
+      "Vice President": "José Gabriel Carrizo"
+    },
+    "Legislature": "National Assembly",
+    "Constitution": "11 October 1972",
+    "Independence History": {
+      "From Spanish Empire": "28 November 1821",
+      "Union with Gran Colombia": "December 1821",
+      "From Republic of Colombia": "3 November 1903"
+    }
   },
-  "Environmental_Factors": {
-    "Climate": "Tropical maritime",
-    "Major_Environmental_Issues": ["Water pollution", "Deforestation", "Land degradation", "Air pollution in urban areas", "Mining impacts"]
+  "History": {
+    "Historical Context": {
+      "Pre-Columbian Era": ["Cueva", "Chibchan-speaking tribes"],
+      "Colonial Period": ["Part of the Spanish Empire", "Administrative center of the Viceroyalty of New Granada"],
+      "19th Century": ["Independence from Spain", "Union with Gran Colombia"],
+      "20th Century": ["Separation from Colombia", "Construction of the Panama Canal", "US influence and control"],
+      "Modern Era": ["Transition to democracy", "US invasion in 1989", "Economic growth and development"]
+    }
   },
-  "International_Relations": {
-    "Membership": ["United Nations", "OAS", "LAIA", "G77", "WHO", "NAM"]
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Services, banking, and commerce",
+    "Major Industries": ["Services", "Banking", "Commerce", "Tourism", "Construction"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 190.306,
+      "Per Capita (USD)": 42738
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 82.348,
+      "Per Capita (USD)": 18493
+    },
+    "Currency": "Balboa (PAB), United States Dollar (USD)",
+    "Gini Index": {
+      "Year": 2017,
+      "Value": 49.9,
+      "Category": "High"
+    },
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.805,
+      "Category": "Very High",
+      "Rank": "57th"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": [
+      "United Nations (UN)",
+      "Organization of American States (OAS)",
+      "Latin American Integration Association (LAIA)",
+      "Group of 77 (G77)",
+      "World Health Organization (WHO)",
+      "Non-Aligned Movement (NAM)"
+    ]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC-05:00"],
+    "Date Format": ["dd.mm.yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+507",
+    "ISO 3166 Code": "PA",
+    "Internet TLD": ".pa",
+    "Public Holidays": [
+      "New Year's Day",
+      "Martyrs' Day",
+      "Carnival",
+      "Good Friday",
+      "Labor Day",
+      "Separation Day",
+      "Flag Day",
+      "Independence Day",
+      "Mother's Day",
+      "Christmas Day"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of indigenous, African, and Spanish influences",
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["Panama Canal", "Multicultural society", "Biodiversity"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 4.5,
+    "Exports Growth": "Driven by services and commerce",
+    "Inflation Rate": "2.3%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Services", "Commerce"],
+      "Challenges": "Balancing economic growth with social development"
+    },
+    "Market Performance": {
+      "Equity Market": "Panama Stock Exchange",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Central and South American culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Services", "Banking"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Air, and Sea transport",
+    "Key Transport Hubs": ["Panama City", "Colón", "David"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Low level of political unrest and instability",
+    "Economic Hardships": "Moderate poverty and unemployment rates",
+    "Natural Disasters": ["Floods"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "78.4 years",
+    "Infant Mortality Rate": "13.8 deaths/1,000 live births",
+    "Health Expenditure of GDP": "8.0% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "3.9% (2020)",
+    "Literacy Rate": {
+      "Total": "95.7%",
+      "Male": "96.2%",
+      "Female": "95.2%"
+    }
   }
-}
 }
