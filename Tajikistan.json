@@ -1,183 +1,214 @@
 {
-    "Names": {
-      "Common": "Tajikistan",
-      "Tajik": "Ҷумҳурии Тоҷикистон",
+  "Name": {
+    "Common": "Tajikistan",
+    "Official": "Republic of Tajikistan",
+    "Native": {
+      "Tajik": "Ҷумҳурияи Тоҷикистон",
       "Russian": "Республика Таджикистан"
+    }
+  },
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Coat of Arms URL": "URL_to_coat_of_arms_image",
+    "Anthem": {
+      "Title": "Surudi Milli",
+      "Translation": "National Anthem",
+      "Duration": "Not provided"
     },
-    "Flag": "Described Image",
-    "Emblem": "Described Image",
-    "Motto": "Istiqlol, Ozodí, Vatan ('Independence, Freedom, Homeland')",
-    "Anthem": "Surudi Milli ('National Anthem')",
-    "Capital": "Dushanbe",
-    "Official_Languages": {
-      "National": "Persian",
-      "Interethnic": "Russian"
+    "Motto": "Istiqlol, Ozodí, Vatan ('Independence, Freedom, Homeland')"
+  },
+  "Geography": {
+    "Continent": "Asia",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Dushanbe",
+        "Latitude": "38°32′N",
+        "Longitude": "68°46′E"
+      }
     },
-    "Spoken_Languages": [
-      "Persian",
-      "Russian",
-      "Uzbek",
-      "Kyrgyz",
-      "Turkmen",
-      "Shughni",
-      "Rushani",
-      "Yaghnobi",
-      "Bartangi",
-      "Sanglechi-Ishkashimi",
-      "Central Asian Arabic",
-      "Parya",
-      "Bukhori",
-      "Tatar",
-      "Wakhiothers"
+    "Location": "Central Asia, bordered by Afghanistan, Uzbekistan, Kyrgyzstan, and China",
+    "Area": {
+      "Total (sq km)": 142326,
+      "Rank": "N/A",
+      "Water Percentage": "N/A"
+    },
+    "Topography": [
+      "Mountainous regions",
+      "Deep valleys",
+      "High plateaus"
     ],
-    "Ethnic_Groups": {
-      "Tajiks": "84.3%",
-      "Uzbeks": "12.2%",
-      "Kyrgyz": "0.8%",
-      "Pamiris": "0.4%",
-      "East_Slavs": "0.5%",
-      "Others": "2.2%"
+    "Climate": [
+      "Continental climate with hot summers and cold winters",
+      "Highland regions experience more severe weather"
+    ],
+    "Natural Resources": [
+      "Hydropower",
+      "Minerals"
+    ],
+    "Time Zones": [
+      "UTC+5"
+    ],
+    "Largest City": "Dushanbe"
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 10077600,
+      "Density (per sq km)": 48.6
+    },
+    "Ethnic Groups": {
+      "Estimates": {
+        "Tajiks": "84.3%",
+        "Uzbeks": "12.2%",
+        "Kyrgyz": "0.8%",
+        "Pamiris": "0.4%",
+        "East Slavs": "0.5%",
+        "Others": "2.2%"
+      }
+    },
+    "Languages": {
+      "Official": [
+        "Persian",
+        "Russian"
+      ],
+      "Spoken": [
+        "Persian",
+        "Russian",
+        "Uzbek",
+        "Kyrgyz",
+        "Turkmen",
+        "Shughni",
+        "Rushani",
+        "Yaghnobi",
+        "Bartangi",
+        "Sanglechi-Ishkashimi",
+        "Central Asian Arabic",
+        "Parya",
+        "Bukhori",
+        "Tatar",
+        "Wakhiothers"
+      ]
     },
     "Religion": {
-      "Islam": "96.4%",
-      "Christianity": "1.8%",
-      "Irreligion": "1.5%",
-      "Others": "0.3%"
-    },
-    "Demonym": [
-      "Tajikistani",
-      "Tajik"
-    ],
-    "Government": {
-      "Type": "Unitary presidential republic under an authoritarian dictatorship",
-      "President": "Emomali Rahmon",
-      "Prime_Minister": "Kokhir Rasulzoda",
-      "Legislature": {
-        "Upper_House": "National Assembly",
-        "Lower_House": "Assembly of Representatives"
+      "Estimates": {
+        "Islam": "96.4%",
+        "Christianity": "1.8%",
+        "Irreligion": "1.5%",
+        "Others": "0.3%"
       }
+    }
+  },
+  "Government": {
+    "Type": "Unitary presidential republic under an authoritarian dictatorship",
+    "Head_of_State": "President Emomali Rahmon",
+    "Head_of_Government": "Prime Minister Kokhir Rasulzoda",
+    "Legislature": {
+      "Upper House": "National Assembly",
+      "Lower House": "Assembly of Representatives"
     },
     "Independence": {
       "Declared": "9 September 1991",
       "Recognized": "26 December 1991",
-      "Current_Constitution": "6 November 1994"
-    },
-    "Area": "142,326 square kilometers",
-    "Population": {
-      "2023_Estimate": "10,077,600",
-      "Density": "48.6 per square kilometer"
-    },
-    "Economy": {
-      "GDP_PPP_2023": {
-        "Total": "$53.679 billion",
-        "Per_Capita": "$5,360"
-      },
-      "GDP_Nominal_2023": {
-        "Total": "$11.816 billion",
-        "Per_Capita": "$1,180"
-      },
-      "Gini_Coefficient": "34 (medium)",
-      "HDI": "0.685 (medium, 122nd)",
-      "Currency": "Somoni (TJS)"
-    },
-    "Infrastructure": {
-      "Time_Zone": "UTC+5 (TJT)",
-      "Driving_Side": "right",
-      "Calling_Code": "+992",
-      "ISO_3166_Code": "TJ",
-      "Internet_TLD": ".tj"
-    },
-    "Geography": {
-      "Location": "Central Asia",
-      "Borders": [
-        "Afghanistan",
-        "Uzbekistan",
-        "Kyrgyzstan",
-        "China"
-      ],
-      "Topography": "Predominantly mountainous",
-      "Climate": "Continental climate with hot summers and cold winters; high-altitude regions experience more severe weather conditions"
-    },
-    "History": {
-      "Ancient_Cultures": [
-        "Sarazm",
-        "Achaemenid Empire",
-        "Sasanian Empire"
-      ],
-      "Modern_History": [
-        "Part of Russian Empire",
-        "Soviet Republic",
-        "Independence from USSR"
-      ],
-      "Post_Independence": "Following its independence in 1991, Tajikistan experienced a civil war during the 1990s, leading to a period of reconstruction and gradual stabilization under President Emomali Rahmon."
-    },
-    "Culture": {
-      "Heritage": "Rich traditions in music, dance, literature, and art, heavily influenced by Persian culture",
-      "Festivals": [
-        "Navruz (Persian New Year)",
-        "Independence Day",
-        "Various religious and local festivals"
-      ],
-      "Languages_Diversity": "Notable linguistic diversity especially in regions like Gorno-Badakhshan oblast"
-    },
-    "International_Relations": {
-      "Memberships": [
-        "United Nations",
-        "Commonwealth of Independent States (CIS)",
-        "Organization for Security and Co-operation in Europe (OSCE)",
-        "Organisation of Islamic Cooperation (OIC)",
-        "Economic Cooperation Organization (ECO)",
-        "Shanghai Cooperation Organisation (SCO)",
-        "Collective Security Treaty Organization (CSTO)"
-      ],
-      "Regional_Relations": "Tajikistan maintains complex relations with its neighbors and major powers such as Russia and China, balancing regional security and economic cooperation."
-    },
-    "Economics_and_Trade": {
-      "Economic_Dependence": [
-        "Remittances from citizens working abroad",
-        "Aluminium production",
-        "Cotton production",
-        "Agriculture"
-      ],
-      "Key_Exports": [
-        "Aluminium",
-        "Cotton",
-        "Fruits and vegetables",
-        "Hydropower"
-      ],
-      "Key_Imports": [
-        "Machinery",
-        "Equipment",
-        "Food products",
-        "Chemicals"
-      ]
-    },
-    "Transportation": {
-      "Major_Airports": [
-        "Dushanbe International Airport"
-      ],
-      "Road_Network": "Extensive road network connecting major cities and neighboring countries",
-      "Railways": "Limited railway infrastructure primarily used for freight transport"
-    },
-    "Education_and_Health": {
-      "Education": "Ongoing reforms aimed at expanding and improving access to education across the country",
-      "Healthcare": "Healthcare system faces challenges in rural areas, with government initiatives focused on improving service delivery and infrastructure"
-    },
-    "Tourism": {
-      "Attractions": [
-        "Pamir Mountains",
-        "Fann Mountains",
-        "Ancient Silk Road sites",
-        "Cultural and historical sites in Dushanbe"
-      ],
-      "Challenges": "Tourism development is hindered by infrastructure limitations and regional security concerns, though efforts are underway to promote sustainable tourism"
-    },
-    "Environment": {
-      "Issues": [
-        "Water resource management",
-        "Land degradation",
-        "Urban pollution"
-      ],
-      "Conservation_Efforts": "Initiatives are in place to preserve natural habitats, promote sustainable development, and address environmental challenges"
+      "Current Constitution": "6 November 1994"
     }
+  },
+  "History": {
+    "Ancient_Cultures": [
+      "Sarazm",
+      "Achaemenid Empire",
+      "Sasanian Empire"
+    ],
+    "Modern_History": [
+      "Part of the Russian Empire",
+      "Soviet Republic",
+      "Independence from the USSR in 1991"
+    ],
+    "Post_Independence": "The country experienced a civil war during the 1990s, followed by a period of reconstruction and gradual stabilization under President Emomali Rahmon."
+  },
+  "Culture": {
+    "Heritage": "Rich traditions in music, dance, literature, and art influenced by Persian culture",
+    "Festivals": [
+      "Navruz (Persian New Year)",
+      "Independence Day",
+      "Various religious and local festivals"
+    ],
+    "Languages_Diversity": "Notable linguistic diversity, particularly in regions such as Gorno-Badakhshan oblast",
+    "Traditional_Crafts": [
+      "Carpet weaving",
+      "Embroidery",
+      "Metalwork"
+    ]
+  },
+  "Economy": {
+    "GDP": {
+      "PPP": {
+        "Total": "$53.679 billion",
+        "Per Capita": "$5,360"
+      },
+      "Nominal": {
+        "Total": "$11.816 billion",
+        "Per Capita": "$1,180"
+      }
+    },
+    "Gini_Coefficient": "34 (medium)",
+    "HDI": "0.685 (medium, 122nd)",
+    "Currency": "Somoni (TJS)",
+    "Key_Exports": [
+      "Aluminium",
+      "Cotton",
+      "Fruits and vegetables",
+      "Hydropower"
+    ],
+    "Key_Imports": [
+      "Machinery",
+      "Equipment",
+      "Food products",
+      "Chemicals"
+    ],
+    "Economic_Challenges": [
+      "Dependence on remittances",
+      "Limited diversification",
+      "Infrastructure constraints"
+    ]
+  },
+  "International_Relations": {
+    "Memberships": [
+      "United Nations (UN)",
+      "Commonwealth of Independent States (CIS)",
+      "Organization for Security and Co-operation in Europe (OSCE)",
+      "Organisation of Islamic Cooperation (OIC)",
+      "Economic Cooperation Organization (ECO)",
+      "Shanghai Cooperation Organisation (SCO)",
+      "Collective Security Treaty Organization (CSTO)"
+    ],
+    "Regional_Relations": "Maintains complex and strategic relationships with neighboring countries and major powers, balancing interests with Russia, China, and others."
+  },
+  "Transportation": {
+    "Major_Airports": [
+      "Dushanbe International Airport"
+    ],
+    "Road_Network": "Extensive network connecting major cities and bordering nations",
+    "Railways": "Limited railway infrastructure primarily used for freight transport",
+    "Public_Transport": "Urban bus services and shared taxis in major cities"
+  },
+  "Education_and_Health": {
+    "Education": "Ongoing reforms to improve access, quality, and infrastructure in both urban and rural areas",
+    "Healthcare": "A developing healthcare system facing challenges in rural regions with government initiatives aimed at improvement"
+  },
+  "Tourism": {
+    "Attractions": [
+      "Pamir Mountains",
+      "Fann Mountains",
+      "Ancient Silk Road sites",
+      "Cultural and historical sites in Dushanbe"
+    ],
+    "Tourism_Challenges": "Hindered by infrastructure limitations and regional security concerns; efforts are underway to develop sustainable tourism initiatives"
+  },
+  "Environment": {
+    "Issues": [
+      "Water resource management",
+      "Land degradation",
+      "Urban pollution"
+    ],
+    "Conservation_Efforts": "Ongoing initiatives to preserve natural habitats, promote sustainable development, and address environmental challenges"
+  }
 }
