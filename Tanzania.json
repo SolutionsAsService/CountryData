@@ -1,63 +1,254 @@
 {
-  "Tanzania": {
-    "GeneralInformation": {
-      "OfficialName": "United Republic of Tanzania",
-      "SwahiliName": "Jamhuri ya Muungano wa Tanzania",
-      "Motto": "Uhuru na Umoja (Freedom and Unity)",
-      "Anthem": "Mungu ibariki Afrika (God Bless Africa)",
-      "Capital": "Dodoma",
-      "LargestCity": "Dar es Salaam",
-      "OfficialLanguages": ["Swahili", "English"],
-      "EthnicGroups": "Over 100 ethnic groups",
-      "Religions": {
+  "Name": {
+    "Common": "Tanzania",
+    "Official": "United Republic of Tanzania",
+    "Native": {
+      "Swahili": "Jamhuri ya Muungano wa Tanzania",
+      "English": "United Republic of Tanzania"
+    }
+  },
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Coat of Arms URL": "URL_to_coat_of_arms_image",
+    "Anthem": {
+      "Title": "Mungu ibariki Afrika",
+      "Translation": "God Bless Africa",
+      "Duration": "Not provided"
+    },
+    "Motto": "Uhuru na Umoja (Freedom and Unity)"
+  },
+  "Geography": {
+    "Continent": "Africa",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Dodoma",
+        "Latitude": "6°10′S",
+        "Longitude": "35°45′E"
+      }
+    },
+    "Location": "Located in East Africa, Tanzania is bordered by Kenya and Uganda to the north; Rwanda, Burundi, and the Democratic Republic of the Congo to the west; Zambia, Malawi, and Mozambique to the south; and the Indian Ocean to the east.",
+    "Area": {
+      "Total (sq km)": 947303,
+      "Rank": "31st in Africa by area",
+      "Water Percentage": "N/A"
+    },
+    "Topography": [
+      "Expansive plains and plateaus",
+      "Mountain ranges including Mount Kilimanjaro",
+      "Great Rift Valley",
+      "Coastal areas along the Indian Ocean"
+    ],
+    "Climate": [
+      "Tropical along the coast",
+      "Arid and semi-arid in the interior",
+      "Temperate in highland regions"
+    ],
+    "Natural Resources": [
+      "Natural gas",
+      "Minerals",
+      "Fertile agricultural land",
+      "Fisheries"
+    ],
+    "Time Zones": [
+      "UTC+3"
+    ],
+    "Largest City": "Dar es Salaam"
+  },
+  "Demographics": {
+    "Population": {
+      "2022 Census": "61,741,120",
+      "Density (per sq km)": 65
+    },
+    "Ethnic Groups": "Home to over 100 ethnic groups, including the Sukuma, Chagga, Haya, Nyamwezi, and many others",
+    "Languages": {
+      "Official": [
+        "Swahili",
+        "English"
+      ],
+      "Regional": "Numerous indigenous languages are spoken across different communities"
+    },
+    "Religion": {
+      "Estimates": {
         "Christianity": "63.1%",
         "Islam": "34.1%",
-        "Other": ["No religion", "Traditional faiths", "Others"]
-      },
-      "GovernmentType": "Unitary socialist dominant-party presidential republic",
-      "Leaders": {
-        "President": "Samia Suluhu Hassan",
-        "VicePresident": "Philip Mpango",
-        "PrimeMinister": "Kassim Majaliwa"
-      },
-      "Independence": ["Tanganyika (9 December 1961)", "Zanzibar (10 December 1963)", "Merger (26 April 1964)"],
-      "Area": "947,303 km2",
-      "Population": "61,741,120 (2022 census)",
-      "GDP_PPP": {
-        "Total": "$227.725 billion",
-        "PerCapita": "$3,595"
-      },
-      "Currency": "Tanzanian shilling (TZS)",
-      "TimeZone": "UTC+3",
-      "DrivingSide": "left",
-      "CallingCode": "+255",
-      "InternetTLD": ".tz"
+        "Other": "Includes traditional faiths and no religion"
+      }
+    }
+  },
+  "Government": {
+    "Type": "Unitary socialist dominant-party presidential republic",
+    "Leaders": {
+      "President": "Samia Suluhu Hassan",
+      "Vice President": "Philip Mpango",
+      "Prime Minister": "Kassim Majaliwa"
     },
-    "GeographicalInformation": {
-      "Regions": {
-        "TotalNumber": 26,
-        "List": ["Shinyanga", "Mara", "Dar-es-salaam", ...]
+    "Independence": {
+      "Tanganyika": "9 December 1961",
+      "Zanzibar": "10 December 1963",
+      "Merger": "26 April 1964"
+    },
+    "Capital": "Dodoma"
+  },
+  "History": {
+    "Pre-Colonial": "The region was home to diverse kingdoms and established trade networks.",
+    "Colonial_Period": "Colonized by Germany (in parts) and later administered by the British as Tanganyika; Zanzibar maintained a distinct history as a sultanate.",
+    "Post_Independence": "Following independence, Tanganyika and Zanzibar merged in 1964 to form Tanzania. The country experienced a long period of single-party rule followed by a transition to multiparty democracy."
+  },
+  "Culture": {
+    "Heritage": "A rich mosaic of traditions influenced by African, Arab, and Indian cultures.",
+    "Festivals": [
+      "Sauti za Busara",
+      "Zanzibar International Film Festival",
+      "Numerous local and traditional cultural festivals"
+    ],
+    "Traditional_Crafts": [
+      "Wood carving",
+      "Textile production",
+      "Basket weaving"
+    ],
+    "Cuisine": "Features staples such as ugali, rice, and an array of local fruits, vegetables, and spices reflecting the country's diverse heritage."
+  },
+  "Economy": {
+    "GDP": {
+      "PPP": {
+        "Total": "$227.725 billion",
+        "Per Capita": "$3,595"
       },
-      "Districts": {
-        "TotalNumber": 158,
-        "Example": {
-          "Region": "Mbeya",
-          "Districts": ["Mbeya cbd", "Mbeya", "Rungwe", ...]
-        }
-      },
-      "Wards": {
-        "TotalNumber": 3964,
-        "Example": {
-          "District": "Rungwe",
-          "Wards": ["Bulyaga", "Bagamoyo", "Makandana", ...]
-        }
-      },
-      "Streets": {
-        "TotalNumber": 16741,
-        "Example": {
-          "Ward": "Kiwira",
-          "Streets": ["Mpandapanda", "Kikota", "Ibula", ...]
-        }
+      "Nominal": {
+        "Total": "Not provided",
+        "Per Capita": "Not provided"
+      }
+    },
+    "Currency": "Tanzanian shilling (TZS)",
+    "Economic_Challenges": [
+      "Dependence on agriculture",
+      "Infrastructure development",
+      "Poverty reduction"
+    ],
+    "Key_Exports": [
+      "Gold",
+      "Coffee",
+      "Cocoa",
+      "Cashews",
+      "Cloves"
+    ],
+    "Key_Imports": [
+      "Machinery",
+      "Refined petroleum",
+      "Consumer goods"
+    ]
+  },
+  "International_Relations": {
+    "Memberships": [
+      "United Nations (UN)",
+      "African Union (AU)",
+      "Commonwealth",
+      "East African Community (EAC)",
+      "Southern African Development Community (SADC)"
+    ],
+    "Bilateral_Relations": "Actively engages in diplomacy, particularly within Africa and the Commonwealth, fostering regional integration and economic cooperation."
+  },
+  "Transportation": {
+    "Major_Airports": [
+      "Julius Nyerere International Airport (Dar es Salaam)",
+      "Kilimanjaro International Airport"
+    ],
+    "Road_Network": "An extensive network connecting major cities and rural areas, though road quality varies regionally.",
+    "Railways": "Developing railway infrastructure with ongoing projects to enhance regional connectivity.",
+    "Ports": "Key ports include Dar es Salaam and Zanzibar, which serve as major gateways for international trade."
+  },
+  "Education_and_Health": {
+    "Education": "The government has initiated reforms to improve literacy and higher education, supported by international aid and local development programs.",
+    "Healthcare": "The healthcare system faces challenges in terms of access and quality, particularly in rural areas, with ongoing initiatives aimed at reform and improvement."
+  },
+  "Tourism": {
+    "Attractions": [
+      "Mount Kilimanjaro",
+      "Serengeti National Park",
+      "Ngorongoro Crater",
+      "Zanzibar beaches",
+      "Lake Victoria"
+    ],
+    "Tourism_Challenges": "Despite its rich natural and cultural attractions, tourism is challenged by infrastructure constraints and the need for sustainable environmental practices."
+  },
+  "Environment": {
+    "Issues": [
+      "Deforestation",
+      "Wildlife conservation",
+      "Water scarcity in certain regions",
+      "Impacts of climate change"
+    ],
+    "Conservation_Efforts": "Numerous initiatives are in place to protect biodiversity, promote sustainable land use, and improve environmental management through national parks and community-based projects."
+  },
+  "Administrative_Divisions": {
+    "Regions": {
+      "TotalNumber": 31,
+      "List": [
+        "Arusha",
+        "Dar es Salaam",
+        "Dodoma",
+        "Geita",
+        "Iringa",
+        "Kagera",
+        "Katavi",
+        "Kigoma",
+        "Kilimanjaro",
+        "Lindi",
+        "Manyara",
+        "Mara",
+        "Mbeya",
+        "Morogoro",
+        "Mtwara",
+        "Mwanza",
+        "Njombe",
+        "Pemba North",
+        "Pemba South",
+        "Rukwa",
+        "Ruvuma",
+        "Shinyanga",
+        "Simiyu",
+        "Singida",
+        "Songwe",
+        "Tabora",
+        "Tanga",
+        "Zanzibar North",
+        "Zanzibar Urban/West",
+        "Zanzibar South"
+      ]
+    },
+    "Districts": {
+      "TotalNumber": 158,
+      "Example": {
+        "Region": "Mbeya",
+        "Districts": [
+          "Mbeya CBD",
+          "Mbeya Urban",
+          "Rungwe",
+          "Chunya",
+          "Kyela"
+        ]
+      }
+    },
+    "Wards": {
+      "TotalNumber": 3964,
+      "Example": {
+        "District": "Rungwe",
+        "Wards": [
+          "Bulyaga",
+          "Bagamoyo",
+          "Makandana"
+        ]
+      }
+    },
+    "Streets": {
+      "TotalNumber": 16741,
+      "Example": {
+        "Ward": "Kiwira",
+        "Streets": [
+          "Mpandapanda",
+          "Kikota",
+          "Ibula"
+        ]
       }
     }
   }
