@@ -1,89 +1,183 @@
 {
-    "Tajikistan": {
-        "Official Names": {
-            "Tajik": "Ҷумҳурии Тоҷикистон",
-            "Russian": "Республика Таджикистан"
-        },
-        "Flag": "Described Image",
-        "Emblem": "Described Image",
-        "Motto": "Istiqlol, Ozodí, Vatan ('Independence, Freedom, Homeland')",
-        "Anthem": "Surudi Milli ('National Anthem')",
-        "Capital": "Dushanbe",
-        "Official Languages": {
-            "National": "Persian",
-            "Interethnic": "Russian"
-        },
-        "Spoken Languages": [
-            "Persian", "Russian", "Uzbek", "Kyrgyz", "Turkmen", 
-            "Shughni", "Rushani", "Yaghnobi", "Bartangi", 
-            "Sanglechi-Ishkashimi", "Central Asian Arabic", 
-            "Parya", "Bukhori", "Tatar", "Wakhiothers"
-        ],
-        "Ethnic Groups": {
-            "Tajiks": "84.3%",
-            "Uzbeks": "12.2%",
-            "Kyrgyz": "0.8%",
-            "Pamiris": "0.4%",
-            "East Slavs": "0.5%",
-            "Others": "2.2%"
-        },
-        "Religion": {
-            "Islam": "96.4%",
-            "Christianity": "1.8%",
-            "Irreligion": "1.5%",
-            "Others": "0.3%"
-        },
-        "Demonym": ["Tajikistani", "Tajik"],
-        "Government": {
-            "Type": "Unitary presidential republic under an authoritarian dictatorship",
-            "President": "Emomali Rahmon",
-            "Prime Minister": "Kokhir Rasulzoda"
-        },
-        "Legislature": {
-            "Upper House": "National Assembly",
-            "Lower House": "Assembly of Representatives"
-        },
-        "Independence": {
-            "Declared": "9 September 1991",
-            "Recognized": "26 December 1991",
-            "Current Constitution": "6 November 1994"
-        },
-        "Area": "142,326 square kilometers",
-        "Population": {
-            "2023 Estimate": "10,077,600",
-            "Density": "48.6 per square kilometer"
-        },
-        "Economy": {
-            "GDP (PPP, 2023)": {
-                "Total": "$53.679 billion",
-                "Per Capita": "$5,360"
-            },
-            "GDP (Nominal, 2023)": {
-                "Total": "$11.816 billion",
-                "Per Capita": "$1,180"
-            }
-        },
-        "Gini Coefficient": "34 (medium)",
-        "HDI": "0.685 (medium, 122nd)",
-        "Currency": "Somoni (TJS)",
-        "Time Zone": "UTC+5 (TJT)",
-        "Driving Side": "right",
-        "Calling Code": "+992",
-        "ISO 3166 Code": "TJ",
-        "Internet TLD": ".tj",
-        "Geographical Features": {
-            "Location": "Central Asia",
-            "Borders": ["Afghanistan", "Uzbekistan", "Kyrgyzstan", "China"],
-            "Topography": "Predominantly mountainous"
-        },
-        "Historical Context": {
-            "Ancient Cultures": ["Sarazm", "Achaemenid Empire", "Sasanian Empire"],
-            "Modern History": ["Part of Russian Empire", "Soviet Republic", "Independence from USSR"]
-        },
-        "Cultural Aspects": {
-            "Languages Diversity": "Multiple languages in Gorno-Badakhshan oblast",
-            "Economic Dependence": ["Remittances", "Aluminium", "Cotton production"],
-            "International Relations": ["Member of UN", "CIS", "OSCE", "OIC", "ECO", "SCO", "CSTO"]
-        }
+    "Names": {
+      "Common": "Tajikistan",
+      "Tajik": "Ҷумҳурии Тоҷикистон",
+      "Russian": "Республика Таджикистан"
+    },
+    "Flag": "Described Image",
+    "Emblem": "Described Image",
+    "Motto": "Istiqlol, Ozodí, Vatan ('Independence, Freedom, Homeland')",
+    "Anthem": "Surudi Milli ('National Anthem')",
+    "Capital": "Dushanbe",
+    "Official_Languages": {
+      "National": "Persian",
+      "Interethnic": "Russian"
+    },
+    "Spoken_Languages": [
+      "Persian",
+      "Russian",
+      "Uzbek",
+      "Kyrgyz",
+      "Turkmen",
+      "Shughni",
+      "Rushani",
+      "Yaghnobi",
+      "Bartangi",
+      "Sanglechi-Ishkashimi",
+      "Central Asian Arabic",
+      "Parya",
+      "Bukhori",
+      "Tatar",
+      "Wakhiothers"
+    ],
+    "Ethnic_Groups": {
+      "Tajiks": "84.3%",
+      "Uzbeks": "12.2%",
+      "Kyrgyz": "0.8%",
+      "Pamiris": "0.4%",
+      "East_Slavs": "0.5%",
+      "Others": "2.2%"
+    },
+    "Religion": {
+      "Islam": "96.4%",
+      "Christianity": "1.8%",
+      "Irreligion": "1.5%",
+      "Others": "0.3%"
+    },
+    "Demonym": [
+      "Tajikistani",
+      "Tajik"
+    ],
+    "Government": {
+      "Type": "Unitary presidential republic under an authoritarian dictatorship",
+      "President": "Emomali Rahmon",
+      "Prime_Minister": "Kokhir Rasulzoda",
+      "Legislature": {
+        "Upper_House": "National Assembly",
+        "Lower_House": "Assembly of Representatives"
+      }
+    },
+    "Independence": {
+      "Declared": "9 September 1991",
+      "Recognized": "26 December 1991",
+      "Current_Constitution": "6 November 1994"
+    },
+    "Area": "142,326 square kilometers",
+    "Population": {
+      "2023_Estimate": "10,077,600",
+      "Density": "48.6 per square kilometer"
+    },
+    "Economy": {
+      "GDP_PPP_2023": {
+        "Total": "$53.679 billion",
+        "Per_Capita": "$5,360"
+      },
+      "GDP_Nominal_2023": {
+        "Total": "$11.816 billion",
+        "Per_Capita": "$1,180"
+      },
+      "Gini_Coefficient": "34 (medium)",
+      "HDI": "0.685 (medium, 122nd)",
+      "Currency": "Somoni (TJS)"
+    },
+    "Infrastructure": {
+      "Time_Zone": "UTC+5 (TJT)",
+      "Driving_Side": "right",
+      "Calling_Code": "+992",
+      "ISO_3166_Code": "TJ",
+      "Internet_TLD": ".tj"
+    },
+    "Geography": {
+      "Location": "Central Asia",
+      "Borders": [
+        "Afghanistan",
+        "Uzbekistan",
+        "Kyrgyzstan",
+        "China"
+      ],
+      "Topography": "Predominantly mountainous",
+      "Climate": "Continental climate with hot summers and cold winters; high-altitude regions experience more severe weather conditions"
+    },
+    "History": {
+      "Ancient_Cultures": [
+        "Sarazm",
+        "Achaemenid Empire",
+        "Sasanian Empire"
+      ],
+      "Modern_History": [
+        "Part of Russian Empire",
+        "Soviet Republic",
+        "Independence from USSR"
+      ],
+      "Post_Independence": "Following its independence in 1991, Tajikistan experienced a civil war during the 1990s, leading to a period of reconstruction and gradual stabilization under President Emomali Rahmon."
+    },
+    "Culture": {
+      "Heritage": "Rich traditions in music, dance, literature, and art, heavily influenced by Persian culture",
+      "Festivals": [
+        "Navruz (Persian New Year)",
+        "Independence Day",
+        "Various religious and local festivals"
+      ],
+      "Languages_Diversity": "Notable linguistic diversity especially in regions like Gorno-Badakhshan oblast"
+    },
+    "International_Relations": {
+      "Memberships": [
+        "United Nations",
+        "Commonwealth of Independent States (CIS)",
+        "Organization for Security and Co-operation in Europe (OSCE)",
+        "Organisation of Islamic Cooperation (OIC)",
+        "Economic Cooperation Organization (ECO)",
+        "Shanghai Cooperation Organisation (SCO)",
+        "Collective Security Treaty Organization (CSTO)"
+      ],
+      "Regional_Relations": "Tajikistan maintains complex relations with its neighbors and major powers such as Russia and China, balancing regional security and economic cooperation."
+    },
+    "Economics_and_Trade": {
+      "Economic_Dependence": [
+        "Remittances from citizens working abroad",
+        "Aluminium production",
+        "Cotton production",
+        "Agriculture"
+      ],
+      "Key_Exports": [
+        "Aluminium",
+        "Cotton",
+        "Fruits and vegetables",
+        "Hydropower"
+      ],
+      "Key_Imports": [
+        "Machinery",
+        "Equipment",
+        "Food products",
+        "Chemicals"
+      ]
+    },
+    "Transportation": {
+      "Major_Airports": [
+        "Dushanbe International Airport"
+      ],
+      "Road_Network": "Extensive road network connecting major cities and neighboring countries",
+      "Railways": "Limited railway infrastructure primarily used for freight transport"
+    },
+    "Education_and_Health": {
+      "Education": "Ongoing reforms aimed at expanding and improving access to education across the country",
+      "Healthcare": "Healthcare system faces challenges in rural areas, with government initiatives focused on improving service delivery and infrastructure"
+    },
+    "Tourism": {
+      "Attractions": [
+        "Pamir Mountains",
+        "Fann Mountains",
+        "Ancient Silk Road sites",
+        "Cultural and historical sites in Dushanbe"
+      ],
+      "Challenges": "Tourism development is hindered by infrastructure limitations and regional security concerns, though efforts are underway to promote sustainable tourism"
+    },
+    "Environment": {
+      "Issues": [
+        "Water resource management",
+        "Land degradation",
+        "Urban pollution"
+      ],
+      "Conservation_Efforts": "Initiatives are in place to preserve natural habitats, promote sustainable development, and address environmental challenges"
     }
 }
