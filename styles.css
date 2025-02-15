@@ -4,62 +4,69 @@
 body, html {
     margin: 0;
     padding: 0;
-    font-family: 'Arial', sans-serif;
+    font-family: 'Inter', sans-serif; /* Sleek, modern font */
     height: 100%;
+    background-color: #fafafa; /* Light, neutral background */
+    color: #333; /* Dark text for contrast */
 }
 
 /* Header */
 #header {
-    background-color: #1d3557;
+    background-color: #000; /* Dark, professional header */
     color: white;
-    padding: 15px;
+    padding: 20px 0; /* Increased padding for a more spacious feel */
     text-align: center;
-    font-size: 28px;
-    font-weight: bold;
+    font-size: 32px; /* Larger font for a bold header */
+    font-weight: 600; /* Slightly lighter font weight for readability */
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
     z-index: 1000;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+    letter-spacing: 0.5px; /* Spacing for better legibility */
 }
 
 /* Map container */
 #map {
-    height: calc(100vh - 70px); /* Adjust height to exclude header */
-    margin-top: 70px; /* Space for header */
+    height: calc(100vh - 80px); /* Adjust height for header */
+    margin-top: 80px; /* Increased margin for header spacing */
 }
 
 /* Information box */
 #info {
     position: absolute;
-    top: 80px; /* Adjust for header */
+    top: 90px; /* Adjust for header */
     right: 20px;
-    background: white;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-    max-width: 350px;
+    background: #ffffff;
+    padding: 25px;
+    border-radius: 12px; /* Soft, rounded corners */
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15); /* Enhanced shadow for a modern look */
+    max-width: 380px;
     overflow-y: auto;
     max-height: 80vh;
     z-index: 1000; /* Ensure the info box is above the map layers */
-    transition: all 0.3s ease-in-out;
+    transition: transform 0.3s ease, opacity 0.3s ease; /* Smooth transitions */
+    opacity: 1;
 }
 
 #info h2 {
     margin-top: 0;
-    color: #e63946;
+    font-size: 24px;
+    color: #e63946; /* Accent color for headings */
+    font-weight: 700; /* Bold headings */
 }
 
 #info p {
     margin: 10px 0;
-    line-height: 1.5;
+    line-height: 1.7;
+    font-size: 16px;
 }
 
 /* Responsive design */
 @media (max-width: 768px) {
     #info {
-        top: 70px;
+        top: 80px;
         left: 50%;
         transform: translateX(-50%);
         width: calc(100% - 40px);
@@ -69,8 +76,8 @@ body, html {
     }
 
     #map {
-        height: calc(100vh - 70px); /* Adjust height to exclude header */
-        margin-top: 70px; /* Space for header */
+        height: calc(100vh - 80px); /* Adjust height for header */
+        margin-top: 80px; /* Space for header */
     }
 }
 
@@ -80,33 +87,37 @@ body, html {
 }
 
 #info::-webkit-scrollbar-thumb {
-    background: #888;
+    background: #ccc;
     border-radius: 4px;
 }
 
 #info::-webkit-scrollbar-thumb:hover {
-    background: #555;
+    background: #888;
 }
 
-/* Additional styling for a modern look */
+/* Additional styling for a modern, sleek look */
 body {
-    background: #f1faee;
-    color: #333;
+    background: #fafafa; /* Soft light background */
+    color: #333; /* Dark text for high contrast */
 }
 
 a {
     color: #1d3557;
     text-decoration: none;
+    transition: color 0.3s ease; /* Smooth color transition for links */
 }
 
 a:hover {
+    color: #e63946; /* Accent color on hover */
     text-decoration: underline;
 }
 
+/* Box-shadow utility */
 .box-shadow {
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
+/* Transition effect for smooth interactions */
 .transition {
     transition: all 0.3s ease-in-out;
 }
