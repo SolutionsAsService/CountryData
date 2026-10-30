@@ -1,0 +1,51 @@
+{
+  "AmericanPhilippines": {
+    "colonialPeriod": "1898-1946",
+    "majorEvents": {
+      "spanishAmericanWar": "April 1898",
+      "treatyOfParis": {
+        "date": "December 10, 1898",
+        "description": "Spain ceded the Philippines to the United States."
+      },
+      "philippineAmericanWar": "1899-1902",
+      "insularGovernment": {
+        "period": "1900-1935",
+        "firstGovernorGeneral": "William Howard Taft"
+      },
+      "philippineCommonwealth": {
+        "establishment": "1935",
+        "firstPresident": "Manuel L. Quezon"
+      },
+      "japaneseOccupation": "1941-1945",
+      "independence": "July 4, 1946"
+    },
+    "worldWarIIVeteranBenefits": "Placeholder for information on benefits provided to Filipino World War II veterans by the US",
+    "americanNeocolonialism": {
+      "description": "Social, political, and economic exploitation post-independence, including historical erasure.",
+      "militaryPresence": {
+        "bases": "More than twenty-three U.S. military bases since 1947",
+        "interventions": ["Vietnam War", "Korean War"]
+      },
+      "visitingForcesAgreement": {
+        "year": "1998",
+        "implications": "Legal protection for American soldiers committing crimes on Philippine soil.",
+        "notableCase": {
+          "year": "2006",
+          "sentence": "40 years in Philippine prison for rape",
+          "outcome": "Transferred to American Embassy and released after three years"
+        }
+      }
+    },
+    "governanceTransition": {
+      "philippineRevolutionSpanishAmericanWar": "Transition from Spanish colony to American possession",
+      "insularGovernmentToCommonwealth": "Preparation for independence through the Commonwealth",
+      "independence": "Formal recognition of independence by the United States"
+    },
+    "economy": {
+      "colonialImpact": "Placeholder for economic policies and impacts during American colonial period"
+    },
+    "culture": {
+      "americanInfluence": "Placeholder for cultural influences and changes during and post-American colonial period"
+    }
+  }
+}

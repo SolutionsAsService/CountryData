@@ -1,0 +1,207 @@
+{
+  "Name": {
+    "Common": "Maldives",
+    "Official": "Republic of Maldives",
+    "Native": {
+      "Local Name": "ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ",
+      "Romanized Name": "Dhivehi Raajjeyge Jumhooriyyaa",
+      "Pronunciation": "[diʋehi ɾaːd͡ʒːeːge d͡ʒumhuːɾijjaː]"
+    }
+  },
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Emblem URL": "URL_to_emblem_image",
+    "Motto": {
+      "Language": "Arabic",
+      "Text": "الدولة المحلديبية",
+      "Translation": "State of the Mahal Dibiyat"
+    },
+    "Anthem": {
+      "Title": "Qaumee Salaam",
+      "Language": "Dhivehi",
+      "Translation": "National Salute",
+      "Duration": "1 minute and 9 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Asia",
+    "Region": "South Asia",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Malé",
+        "Latitude": "4°10′31″N",
+        "Longitude": "73°30′32″E"
+      }
+    },
+    "Location": "Southwest of Sri Lanka and India, 750 kilometres (470 miles; 400 nautical miles) from the mainland",
+    "Area": {
+      "Total (sq km)": 298,
+      "Rank": "187th",
+      "Water Percentage": "N/A"
+    },
+    "Borders": {
+      "Ocean": "Indian Ocean"
+    },
+    "Coastline": "N/A",
+    "Topography": ["26 atolls", "Low-lying islands"],
+    "Climate": ["Tropical monsoon"],
+    "Natural Resources": ["Fish", "Coral", "Marine resources"],
+    "Time Zones": ["UTC+5 (Maldives Time)"],
+    "Largest City": "Malé"
+  },
+  "Demographics": {
+    "Population": {
+      "2022 Census": 515132,
+      "Rank": "167th",
+      "Density (per km2)": 1728.63
+    },
+    "Ethnic Groups": {
+      "2022": {
+        "Maldivians": 100
+      }
+    },
+    "Languages": {
+      "Official": ["Dhivehi"],
+      "Common": ["English"]
+    },
+    "Religion": {
+      "2022": {
+        "Islam": 100
+      }
+    },
+    "Demonym": "Maldivian"
+  },
+  "Government": {
+    "Type": "Unitary presidential constitutional republic",
+    "Leaders": {
+      "President": "Mohamed Muizzu",
+      "Vice President": "Hussain Mohamed Latheef",
+      "Speaker of Majlis": "Mohamed Aslam",
+      "Chief Justice": "Ahmed Muthasim Adnan"
+    },
+    "Legislature": "People's Majlis",
+    "Constitution": "7 August 2008"
+  },
+  "History": {
+    "Inhabitation": "Over 2,500 years",
+    "First Contact": {
+      "Year": 947,
+      "With": "Arab travellers"
+    },
+    "Islam Arrival": "12th century",
+    "Sultanate Establishment": "Soon after Islam arrival",
+    "European Colonial Influence": "Mid-16th century onwards",
+    "British Protectorate": "1887",
+    "Independence from UK": "26 July 1965",
+    "Republic Establishment": "11 November 1968"
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Fishing, tourism",
+    "Major Industries": ["Fishing", "Tourism"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 14.740,
+      "Per Capita (USD)": 37093
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 6.977,
+      "Per Capita (USD)": 17558
+    },
+    "Currency": ["Maldivian rufiyaa (MVR)", "United States dollar (USD, used in Maldivian resort islands)"],
+    "Gini Index": {
+      "Year": 2017,
+      "Value": 31.3,
+      "Category": "Medium"
+    },
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.747,
+      "Category": "High",
+      "Rank": "90th"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": ["United Nations (UN)", "Commonwealth of Nations", "Organisation of Islamic Cooperation (OIC)", "Non-Aligned Movement (NAM)", "South Asian Association for Regional Cooperation (SAARC)", "Dialogue Partner of the Shanghai Cooperation Organisation (SCO)"]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+5 (Maldives Time)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Left",
+    "Calling Code": "+960",
+    "ISO 3166 Code": "MV",
+    "Internet TLD": ".mv",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Independence Day (July 26)",
+      "Republic Day (November 11)",
+      "National Day (Varies)",
+      "Victory Day (November 3)",
+      "Eid al-Fitr (Varies)",
+      "Eid al-Adha (Varies)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of South Asian, Arab, and African influences",
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["The only country in the world that is 100% Muslim by law"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 5.0,
+    "Exports Growth": "Driven by tourism and fishing",
+    "Inflation Rate": "3.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Fishing", "Tourism"],
+      "Challenges": "Balancing economic growth with environmental protection"
+    },
+    "Market Performance": {
+      "Equity Market": "N/A",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on South Asian culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Fishing", "Tourism"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Sea, Air transport",
+    "Key Transport Hubs": ["Malé", "Hulhulé Island"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Occasional protests and political unrest",
+    "Economic Hardships": "Moderate unemployment and poverty rates",
+    "Natural Disasters": ["Rising sea levels"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "78.5 years",
+    "Infant Mortality Rate": "8.1 deaths/1,000 live births",
+    "Health Expenditure of GDP": "9.2% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "4.8% (2020)",
+    "Literacy Rate": {
+      "Total": "98.8%",
+      "Male": "98.5%",
+      "Female": "99.1%"
+    }
+  }
+}

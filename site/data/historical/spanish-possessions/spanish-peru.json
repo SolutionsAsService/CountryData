@@ -1,0 +1,66 @@
+{
+  "ViceroyaltyOfPeru": {
+    "name": "Viceroyalty of Peru",
+    "period": "1542-1824",
+    "motto": "Plus Ultra",
+    "anthem": "Marcha Real",
+    "flag": "Flag of Spain as used in Viceroyalty of Peru",
+    "coatOfArms": "Coat of arms of Lima",
+    "location": {
+      "initialTerritory": "1542–1718",
+      "finalTerritory": "1776–1824",
+      "capital": ["Lima (1535–1821)", "Cuzco (1821–1824)"]
+    },
+    "commonLanguages": ["Spanish", "Quechua", "Kichwa", "Aymara", "Puquina", "Mapudungun"],
+    "religion": "Roman Catholic",
+    "government": {
+      "type": "Monarchy",
+      "monarchs": [
+        {"name": "Charles I", "period": "1544–46", "first": true},
+        {"name": "Ferdinand VII", "period": "1816–24", "last": true}
+      ],
+      "viceroys": [
+        {"name": "Blasco Núñez Vela", "period": "1544–46", "first": true},
+        {"name": "José de la Serna e Hinojosa", "period": "1821–24", "last": true}
+      ]
+    },
+    "historicalEra": "Spanish Empire",
+    "significantEvents": {
+      "establishment": "20 November 1542",
+      "vilcabamba": "May 1572",
+      "newGranada": "27 May 1717",
+      "rioDeLaPlata": "1 August 1776",
+      "independence": "28 July 1821",
+      "battleOfAyacucho": "9 December 1824"
+    },
+    "area": "1,340,000 km2",
+    "currency": "Spanish dollar",
+    "predecessors": [
+      "Neo-Inca State",
+      "Governorate of New Castile",
+      "Governorate of New Toledo",
+      "Province of Tierra Firme",
+      "Governorate of New Andalusia",
+      "Kingdom of Chile"
+    ],
+    "successors": [
+      "Free Province of Guayaquil",
+      "Protectorate of Peru",
+      "Viceroyalty of New Granada",
+      "Viceroyalty of the Río de la Plata"
+    ],
+    "territorialChanges": {
+      "tordesillasTreaty": "1580-1640",
+      "18thCenturyViceroyaltiesCreation": ["Viceroyalty of New Granada", "Viceroyalty of Río de la Plata"],
+      "economicShift": "Trade shift to Buenos Aires",
+      "decay": "Fall of mining and textile production"
+    },
+    "independenceMovements": "Early nineteenth century led to the formation of modern South American countries",
+    "history": "Placeholder for detailed historical narrative",
+    "politics": "Placeholder for political structure and dynamics",
+    "economy": "Placeholder for economic activities and changes",
+    "demographics": "Placeholder for population details and ethnic composition",
+    "culture": "Placeholder for cultural developments and influences",
+    "science": "Placeholder for scientific advancements and contributions"
+  }
+}

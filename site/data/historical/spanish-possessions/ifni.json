@@ -1,0 +1,79 @@
+{
+  "Ifni": {
+    "period": "1934–1969",
+    "status": [
+      "Colony of Spain (1934–1946)",
+      "Constituent of Spanish West Africa (1946–1958)",
+      "Province of Spain (1958–1969)"
+    ],
+    "capital": "Sidi Ifni",
+    "languages": [
+      "Spanish",
+      "Arabic"
+    ],
+    "religion": [
+      "Catholicism",
+      "Islam"
+    ],
+    "government": {
+      "type": "Colonial administration",
+      "headOfState": [
+        {
+          "period": "1934–1936",
+          "name": "Niceto Alcalá-Zamora"
+        },
+        {
+          "period": "1936–1969",
+          "name": "Francisco Franco"
+        }
+      ],
+      "governmentDelegate": [
+        {
+          "period": "1934–1935",
+          "name": "Rodríguez de la Herranza"
+        },
+        {
+          "period": "1957–1958",
+          "name": "Francisco Mena Díaz"
+        }
+      ],
+      "governorGeneral": [
+        {
+          "period": "1958–1959",
+          "name": "Mariano Gómez-Zamalloa y Quirce"
+        },
+        {
+          "period": "1967–1969",
+          "name": "José Rodríguez"
+        }
+      ]
+    },
+    "historicalEra": [
+      "Interwar period",
+      "World War II",
+      "Cold War",
+      "Decolonisation of Africa"
+    ],
+    "significantEvents": {
+      "treatyOfWadRas": "26 April 1860",
+      "established": "12 January 1934",
+      "ifniWar": "23 October 1957",
+      "treatyOfAngraDeCintra": "1 April 1958",
+      "retrocededToMorocco": "30 June 1969"
+    },
+    "currency": "Spanish peseta",
+    "predecessors": [
+      "Sultanate of Morocco"
+    ],
+    "successors": [
+      "Kingdom of Morocco"
+    ],
+    "historicalContext": {
+      "origin": "Spain's presence can be traced back to Santa Cruz de la Mar Pequeña in 1476. Interest rekindled in the 19th century leading to the cession of the territory by Morocco in 1860.",
+      "establishment": "1934, after Colonel Osvaldo Capaz took possession on behalf of the Second Spanish Republic.",
+      "ifniWar": "The Moroccan Army of Liberation attacked the territory in 1957, leading to the War of Ifni.",
+      "retrocessionToMorocco": "On June 30, 1969, Spain ceded Ifni to Morocco by the Treaty of Fez, ratified on April 22, 1969."
+    },
+    "modernTerritory": "Part of Morocco, known as Sidi Ifni, encompassing a larger territory than the former Spanish province."
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "Name": {
+    "Common": "France",
+    "Official": "French Republic",
+    "Native": {
+      "French": "République française"
+    }
+  },
+  "Symbols": {
+    "Flag": "A vertical tricolour of blue, white, and red",
+    "Emblem": "A lictor's fasces topped with a Phrygian cap, surrounded by an oak and olive branch, with the motto 'Liberté, égalité, fraternité'",
+    "Motto": "Liberté, égalité, fraternité (Liberty, Equality, Fraternity)",
+    "Anthem": {
+      "Title": "La Marseillaise",
+      "Duration": "1 minute and 20 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Europe",
+    "Region": "Western Europe",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Paris",
+        "Latitude": "48°51′N",
+        "Longitude": "2°21′E"
+      }
+    },
+    "Location": "Located primarily in Western Europe, with several overseas regions and territories",
+    "Area": {
+      "Total (km2)": 643801,
+      "Metropolitan France (IGN, km2)": 551695,
+      "Metropolitan France (Cadastre, km2)": 543940.9,
+      "Rank": "42",
+      "Water Percentage": "0.86%"
+    },
+    "Borders": {
+      "Land Borders": ["Belgium", "Luxembourg", "Germany", "Switzerland", "Italy", "Monaco", "Andorra", "Spain"],
+      "Maritime Borders": ["United Kingdom"]
+    },
+    "Geographical Area": "From the Rhine to the Atlantic, Mediterranean to English Channel",
+    "Natural Resources": ["Coal", "Iron ore", "Bauxite", "Zinc", "Uranium", "Timber", "Fish"],
+    "Climate": ["Temperate; mild winters, cool summers in north; hot summers in south"],
+    "Time Zones": ["UTC+1 (Central European Time)", "UTC+2 (Central European Summer Time)"],
+    "Largest City": "Paris"
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 68042591,
+      "Metropolitan France": 65834837,
+      "Density Total (per km2)": 105.4627,
+      "Density Metropolitan (per km2)": 121
+    },
+    "Ethnic Groups": {
+      "2021": {
+        "French": 92.2,
+        "Other": 7.8
+      }
+    },
+    "Languages": {
+      "Official": ["French"]
+    },
+    "Religion": {
+      "2020": {
+        "No Religion": 53,
+        "Christianity": 34,
+        "Islam": 11,
+        "Judaism": 0.5,
+        "Buddhism": 0.5,
+        "Other": 1
+      }
+    },
+    "Demonym": "French"
+  },
+  "Government": {
+    "Type": "Unitary semi-presidential republic",
+    "Leaders": {
+      "President": "Emmanuel Macron",
+      "Prime Minister": "Gabriel Attal",
+      "President of the Senate": "Gérard Larcher",
+      "President of the National Assembly": "Yaël Braun-Pivet"
+    },
+    "Legislature": {
+      "Upper House": "Senate",
+      "Lower House": "National Assembly"
+    },
+    "Constitution": "4 October 1958"
+  },
+  "History": {
+    "Ancient History": "Settlement by Celtic Gauls, Roman annexation",
+    "Early Middle Ages": "Formation of the Kingdom of Francia",
+    "High Middle Ages": "Feudal kingdom, Hundred Years' War with England",
+    "French Renaissance": "Cultural flourish, colonial empire",
+    "Modern History": {
+      "French Revolution": "1789, Declaration of the Rights of Man",
+      "Napoleonic Era": "Early 19th century, First French Empire",
+      "Post-Napoleon": "Period of decline, formation of Third Republic",
+      "20th Century": "World Wars, Fourth and Fifth Republics"
+    }
+  },
+  "Economy": {
+    "Status": "Developed country",
+    "Dependence": "Highly diversified, with strong industrial, technology, and services sectors",
+    "Major Industries": ["Aerospace", "Automotive", "Luxury goods", "Railway", "Agriculture", "Energy"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 3868,
+      "Per Capita (USD)": 58765
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 3049,
+      "Per Capita (USD)": 46315
+    },
+    "Currency": ["Euro (€) (EUR)", "CFP franc (XPF)"],
+    "Gini Index": "29.8 (2022)",
+    "HDI": "0.903 (2021)"
+  },
+  "International Relations": {
+    "UN Member": true,
+    "EU Member": true,
+    "NATO Member": true,
+    "Schengen Area Member": true,
+    "OECD Member": true
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+1 (Central European Time)", "UTC+2 (Central European Summer Time)"],
+    "Date Format": ["dd/mm/yyyy (AD)"],
+    "Driving Side": "Right",
+    "Calling Code": "+33",
+    "ISO 3166 Code": "FR",
+    "Internet TLD": ".fr",
+    "Overseas Territories": ["French Guiana", "Saint Pierre and Miquelon", "French West Indies", "Oceania and Indian Ocean islands"],
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Easter Monday (April)",
+      "Labor Day (May 1)",
+      "Victory in Europe Day (May 8)",
+      "Ascension Day (May)",
+      "Bastille Day (July 14)",
+      "Assumption of Mary (August 15)",
+      "All Saints' Day (November 1)",
+      "Armistice Day (November 11)",
+      "Christmas Day (December 25)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Global centre of art, science, and philosophy",
+    "Cultural Contributions": ["Literature", "Cinema", "Fashion", "Cuisine"],
+    "UNESCO World Heritage Sites": "Third-largest number worldwide",
+    "Tourism": "World's leading tourist destination"
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 2.0,
+    "Exports Growth": "Driven by technology, aerospace, and luxury goods",
+    "Inflation Rate": "1.8%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Technology", "Industry", "Services"],
+      "Challenges": "Balancing economic growth with environmental sustainability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "CAC 40",
+        "Expectation": "Steady growth into 2024"
+      },
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Western European culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Technology", "Industry", "Services"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "National Performance Metrics": {
+    "Education": "High performance",
+    "Economic Competitiveness": "High",
+    "Civil Liberties": "Strong",
+    "Quality of Life": "High",
+    "Human Development": "Very high"
+  }
+}

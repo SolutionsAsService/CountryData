@@ -1,0 +1,118 @@
+{
+  "Name": {
+    "Common": "Bolivia",
+    "Official": "Plurinational State of Bolivia",
+    "Spanish": "Estado Plurinacional de Bolivia"
+  },
+  "Geography": {
+    "Continent": "South America",
+    "Borders": ["Brazil", "Paraguay", "Argentina", "Chile", "Peru"],
+    "Area": {
+      "Total (km2)": 1098581,
+      "Rank": "28",
+      "Water Percentage": "1.29%"
+    },
+    "Time Zones": "1",
+    "Driving Side": "Right",
+    "Coordinates": "16°29′S 68°08′W",
+    "Major Cities": ["La Paz", "Sucre", "Santa Cruz de la Sierra", "Cochabamba", "Oruro", "Potosí"],
+    "Natural Resources": ["Natural gas", "Petroleum", "Zinc", "Tungsten", "Antimony", "Silver", "Iron"]
+  },
+  "Government": {
+    "Type": "Unitary presidential republic",
+    "President": "Luis Arce",
+    "Vice President": "David Choquehuanca",
+    "Legislature": "Plurinational Legislative Assembly",
+    "Administrative Capital": {
+      "Name": "La Paz",
+      "Coordinates": "16°29′S 68°08′W"
+    },
+    "Constitutional Capital": {
+      "Name": "Sucre",
+      "Coordinates": "19°02′S 65°15′W"
+    }
+  },
+  "History": {
+    "Pre-Columbian Civilizations": "Tiwanaku, Inca Empire",
+    "Spanish Colonization": "1538",
+    "Independence Declared": "6 August 1825",
+    "Republic Established": "6 August 1825",
+    "Plurinational State": "7 February 2009"
+  },
+  "Economy": {
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 125.428,
+      "Per Capita (USD)": 10340
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 46.796,
+      "Per Capita (USD)": 3857
+    },
+    "Currency": "Boliviano (BOB)",
+    "Gini Index": "47.0 (2015)",
+    "HDI": "0.718 (2021)"
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 12172000,
+      "Density per km2": 10.4
+    },
+    "Ethnic Groups": {
+      "Mestizo": 68,
+      "Indigenous": 20,
+      "White": 5,
+      "Cholo": 2,
+      "Black": 1,
+      "Other": 1,
+      "Unspecified": 3
+    },
+    "Languages": ["Spanish", "Quechua", "Aymara", "Guarani", "Other Indigenous languages"],
+    "Religion": {
+      "Christianity": 89.3,
+      "Catholicism": 70.1,
+      "Protestantism": 17.3,
+      "Other Christian": 1.9,
+      "No Religion": 10.1,
+      "Other": 0.6
+    }
+  },
+  "Health": {
+    "Life Expectancy": 72.5,
+    "Infant Mortality Rate": 22.3,
+    "Maternal Mortality Ratio": 161,
+    "Physicians Density": 1.03,
+    "Hospital Bed Density": 1.3,
+    "Major Infectious Diseases": ["Bacterial diarrhea", "Hepatitis A", "Dengue fever", "Malaria"]
+  },
+  "Education": {
+    "Expenditures (% of GDP)": 9.8,
+    "Literacy": {
+      "Total": 92.5,
+      "Male": 96.5,
+      "Female": 88.6
+    }
+  },
+  "Environmental Issues": {
+    "Deforestation": true,
+    "Soil Erosion": true,
+    "Water Pollution": true,
+    "Loss of Biodiversity": true
+  },
+  "Human Rights": {
+    "Judicial Independence": false,
+    "Protest-Related Violence": true,
+    "Authoritarian Era Abuses": true,
+    "Covid-19 Impact": true,
+    "Detention Conditions": true,
+    "Freedom of Expression": true,
+    "Indigenous Rights": true
+  },
+  "Miscellaneous": {
+    "Internet TLD": ".bo",
+    "Calling Code": "+591",
+    "ISO 3166 Code": "BO",
+    "Time Zone": "UTC-4",
+    "Date Format": "YYYY-MM-DD",
+    "UNESCO World Heritage Sites": 7
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "Name": {
+    "Common": "Slovakia",
+    "Official": "Slovak Republic",
+    "Native": "Slovenská republika"
+  },
+  "Symbols": {
+    "Flag": "Three horizontal bands of white, blue, and red with a coat of arms on the left side",
+    "Coat of Arms": "A red shield with a silver double cross on a blue mount",
+    "Motto": "Nad Tatrou sa blýska",
+    "Anthem": {
+      "Title": "Nad Tatrou sa blýska",
+      "Translation": "Lightning over the Tatras",
+      "Duration": "1 minute and 44 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Europe",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Bratislava",
+        "Latitude": "48°09'N",
+        "Longitude": "17°07'E"
+      }
+    },
+    "Location": "Central Europe, bordered by Poland to the north, Ukraine to the east, Hungary to the south, Austria to the southwest, and the Czech Republic to the west.",
+    "Area": {
+      "Total (sq km)": 49035,
+      "Terrain": "Mostly mountainous",
+      "Climate": "Temperate and continental"
+    },
+    "Natural Resources": ["Brown coal", "Lignite", "Small amounts of iron ore", "Copper", "Manganese", "Forests", "Arable land"],
+    "Time Zones": ["UTC+1 (CET)"],
+    "Largest City": "Bratislava"
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 5460185,
+      "Density (per sq km)": 111
+    },
+    "Ethnic Groups": {
+      "2023": {
+        "Slovaks": 83.8,
+        "Hungarians": 7.7,
+        "Romani": 1.2,
+        "Other": 1.9,
+        "Unspecified": 5.4
+      }
+    },
+    "Languages": {
+      "Official": ["Slovak"]
+    },
+    "Religion": {
+      "2023": {
+        "Christianity": 68.8,
+        "Catholicism": 59.8,
+        "Protestantism": 7.6,
+        "Other Christian": 1.4,
+        "No Religion": 23.8,
+        "Other": 0.9,
+        "Unspecified": 6.5
+      }
+    },
+    "Demonym": "Slovak"
+  },
+  "Government": {
+    "Type": "Unitary parliamentary republic",
+    "Leaders": {
+      "President": "Zuzana Čaputová",
+      "Prime Minister": "Robert Fico",
+      "Speaker of the National Council": "Peter Pellegrini"
+    },
+    "Legislature": "National Council",
+    "Constitution": "1 September 1992",
+    "Independence History": {
+      "From Czechoslovakia": "1 January 1993"
+    }
+  },
+  "History": {
+    "Historical Context": {
+      "Arrival of Slavs": "5th and 6th centuries",
+      "Samo's Empire": "7th century",
+      "Principality of Nitra": "9th century",
+      "Integration into Principality of Hungary": "10th century",
+      "Mongol Invasion": "1241-1242",
+      "Establishment of Czechoslovakia": "1918",
+      "First Slovak Republic": "1939",
+      "Communist Era": "1948-1989",
+      "Velvet Revolution": "1989",
+      "Independence": "1 January 1993"
+    }
+  },
+  "Economy": {
+    "Status": "High-income advanced economy",
+    "Dependence": "Automotive, electronics, machinery, chemical engineering, information technology",
+    "Major Industries": ["Automotive", "Electronics", "Machinery", "Chemical engineering", "Information technology"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 229.584,
+      "Per Capita (USD)": 42228
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 133.044,
+      "Per Capita (USD)": 24471
+    },
+    "Currency": "Euro (EUR)",
+    "Gini Index": {
+      "Year": 2018,
+      "Value": 21.2,
+      "Category": "Low"
+    },
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.848,
+      "Category": "Very High",
+      "Rank": "36th"
+    },
+    "Economic Status": {
+      "Growth Period": "2000-2008",
+      "Nickname": "Tatra Tiger",
+      "Privatization": "Nearly entire economy privatized",
+      "Foreign Investment": "Significant increase in FDI",
+      "Unemployment Rate": "5.72% (Q1 2018)"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": [
+      "European Union (EU)",
+      "Eurozone",
+      "Schengen Area",
+      "United Nations (UN)",
+      "North Atlantic Treaty Organization (NATO)",
+      "CERN",
+      "Organisation for Economic Co-operation and Development (OECD)",
+      "World Trade Organization (WTO)",
+      "Council of Europe",
+      "Visegrád Group",
+      "Organization for Security and Co-operation in Europe (OSCE)"
+    ]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+1 (CET)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+421",
+    "ISO 3166 Code": "SK",
+    "Internet TLD": [".sk", ".eu"],
+    "Public Holidays": [
+      "New Year's Day",
+      "Epiphany",
+      "Good Friday",
+      "Easter Monday",
+      "Labour Day",
+      "Victory over Fascism Day",
+      "St. Cyril and Methodius Day",
+      "Slovak National Uprising Anniversary",
+      "Constitution Day",
+      "Day of Our Lady of Sorrows",
+      "All Saints' Day",
+      "Struggle for Freedom and Democracy Day",
+      "Christmas Eve",
+      "Christmas Day",
+      "St. Stephen's Day"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with influences from Catholic culture, folk traditions, historical position within the Kingdom of Hungary, Austrian Monarchy, Czechoslovakia, and Soviet-ruled Eastern Bloc",
+    "Cultural Contributions": ["Music", "Dance", "Festivals", "Embroidery", "Decorated pottery"],
+    "Unique Features": ["Traditional music instruments like Fujara, Gajdy, Koncovka", "Traditional food like Bryndzové halušky, Bryndzové pirohy, Kapustnica, Slovak wine", "Wooden folk architecture", "Castles and manor houses"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.5,
+    "Exports Growth": "Driven by automotive and electronics sectors",
+    "Inflation Rate": "2.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Automotive", "Electronics"],
+      "Challenges": "Balancing economic growth with social development"
+    },
+    "Market Performance": {
+      "Equity Market": "Bratislava Stock Exchange",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban population, with Bratislava being the primary urban center",
+      "Rural Development": "Focus on improving rural infrastructure and living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Central European and global culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Status": "Moderate innovator",
+      "Strengths": ["Employment impacts", "Sales impacts"],
+      "Weaknesses": ["Finance and support", "Innovators and Intellectual assets"],
+      "Strategy": "Research and innovation strategy for smart specialization of the Slovak Republic (RIS3)",
+      "Challenges": ["Improving research and innovation governance", "Quality of science base", "Private innovation outputs and R&D investments", "Strengthening synergies between science and industry"]
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education and improving literacy rates",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air, and River transport",
+    "Key Transport Hubs": ["Bratislava Airport", "Port of Bratislava"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Low level of political unrest and instability",
+    "Economic Hardships": "Moderate poverty and unemployment rates",
+    "Natural Disasters": ["Floods", "Landslides"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "77.4 years",
+    "Infant Mortality Rate": "4.2 deaths/1,000 live births",
+    "Health Expenditure of GDP": "6.9% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "4.1% (2020)",
+    "Literacy Rate": {
+      "Total": "99.6%",
+      "Male": "99.7%",
+      "Female": "99.5%"
+    }
+  }
+}

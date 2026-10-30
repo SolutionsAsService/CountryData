@@ -1,0 +1,88 @@
+{
+  "SpanishSahara": {
+    "period": "1884–1976",
+    "names": {
+      "initial": "Spanish Possessions in the Sahara",
+      "mid": "Province of the Sahara"
+    },
+    "flags": {
+      "description": "Flag of Spain",
+      "period": "1945–1977"
+    },
+    "coatOfArms": {
+      "description": "Coat of arms of Spanish Sahara",
+      "period": "1955–1975"
+    },
+    "anthem": {
+      "title": "Marcha Real",
+      "duration": "51 seconds"
+    },
+    "capitals": {
+      "initial": "Villa Cisneros",
+      "final": "Laayoune"
+    },
+    "population": {
+      "1970": "≈ 15,600 Europeans",
+      "1974": "≈ 66,925 Sahrawis"
+    },
+    "government": {
+      "type": "Spanish colonial government",
+      "governorGeneral": {
+        "first": {
+          "name": "Emilio Bonelli",
+          "period": "1884–1902"
+        },
+        "last": {
+          "name": "F. Gómez de Salazar",
+          "period": "1974–1976"
+        }
+      }
+    },
+    "historicalEra": [
+      "New Imperialism",
+      "World War I",
+      "World War II",
+      "Cold War"
+    ],
+    "significantEvents": {
+      "berlinConference": "26 December 1884",
+      "madridAccords": "14 November 1975",
+      "SADR_established": "26 February 1976"
+    },
+    "predecessors": [
+      "Sahrawis",
+      "Berbers"
+    ],
+    "successors": [
+      "Spanish West Africa",
+      "Morocco",
+      "Ifni",
+      "Tiris al-Gharbiyya",
+      "Sahrawi Arab Democratic Republic"
+    ],
+    "modernTerritory": [
+      "Morocco",
+      "Sahrawi Arab Democratic Republic (Liberated territories)"
+    ],
+    "historicalContext": {
+      "spanishWestAfricaFormation": "Between 1946 and 1958",
+      "ifniWarAndAftermath": "During the Ifni War, Ifni and the Sahara became separate provinces.",
+      "decolonizationPressure": "Spain relinquished its Saharan possession following Moroccan demands and international pressure."
+    },
+    "spanishPeriod": {
+      "initialClaim": "At the Berlin Conference, Spain declared a protectorate from Cape Blanc to Cape Bojador.",
+      "resistance": "Spanish forces were challenged by stiff resistance from indigenous Sahrawi tribes.",
+      "treatyOfIdjil": "In 1886, Spain signed the Treaty of Idjil with the Emirate of Adrar."
+    },
+    "modernHistory": {
+      "moroccanClaims": "After gaining independence in 1956, Morocco laid claim to Spanish Sahara.",
+      "ifniWar": "The Moroccan Army of Liberation nearly occupied Ifni in 1957.",
+      "polisarioFront": "In 1973, the Polisario Front was formed, challenging Spanish rule."
+    },
+    "presentStatus": {
+      "UNStatus": "Western Sahara is listed by the United Nations as a non-decolonized territory.",
+      "population": "Moroccan settlers currently make up more than two thirds of the inhabitants.",
+      "legalStatus": "Under international law, Western Sahara is not a legal part of Morocco."
+    }
+  }
+}

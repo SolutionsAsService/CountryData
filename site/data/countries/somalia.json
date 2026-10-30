@@ -1,0 +1,201 @@
+{
+  "Name": {
+    "Common": "Somalia",
+    "Official": "Federal Republic of Somalia",
+    "Native": {
+      "Somali": "Jamhuuriyadda Federaalka Soomaaliya",
+      "Arabic": "جمهورية الصومال الفيدرالية"
+    }
+  },
+  "Status": ["Civil War", "Failed State", "Large territory Disputes", "Islamic Insurgency"],
+  "Symbols": {
+    "Flag": "Flag of Somalia",
+    "Coat of Arms": "Coat of arms of Somalia",
+    "Anthem": {
+      "Title": "Qolobaa Calankeed",
+      "Translation": "Every nation has its own flag",
+      "Duration": "1 minute and 6 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Africa",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Mogadishu",
+        "Latitude": "2°2′N",
+        "Longitude": "45°20′E"
+      }
+    },
+    "Location": "Horn of Africa, bordered by Ethiopia to the west, Djibouti to the northwest, the Gulf of Aden to the north, the Indian Ocean to the east, and Kenya to the southwest.",
+    "Area": {
+      "Total (sq km)": 637657,
+      "Coastline": "Longest in Africa's mainland",
+      "Terrain": "Plateaus, plains, and highlands",
+      "Climate": ["Hot", "Monsoon winds", "Irregular rainfall"]
+    },
+    "Natural Resources": ["Uranium", "Iron ore", "Tin", "Gypsum", "Bauxite", "Copper", "Salt", "Natural gas"],
+    "Time Zones": ["UTC+3 (EAT)"],
+    "Largest City": "Mogadishu"
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 17100000,
+      "Density (per sq km)": 26.8
+    },
+    "Ethnic Groups": {
+      "2023": {
+        "Somali": 85,
+        "Other": 15
+      }
+    },
+    "Languages": {
+      "Official": ["Somali", "Arabic"]
+    },
+    "Religion": {
+      "2023": {
+        "Sunni Islam": 99.8,
+        "Other": 0.2
+      }
+    },
+    "Demonym": "Somali"
+  },
+  "Government": {
+    "Type": "Federal parliamentary constitutional republic",
+    "Leaders": {
+      "President": "Hassan Sheikh Mohamud",
+      "Prime Minister": "Hamza Abdi Barre"
+    },
+    "Legislature": {
+      "Upper House": "Senate",
+      "Lower House": "House of the People"
+    },
+    "Constitution": "1 August 2012",
+    "Independence History": {
+      "From Italy and UK": "1 July 1960",
+      "UN Admission": "20 September 1960"
+    }
+  },
+  "History": {
+    "Historical Context": {
+      "Commercial Center in Antiquity": "Location of ancient Land of Punt",
+      "Medieval Somali Empires": "Several medieval Somali empires",
+      "Colonial History": "Colonized by Italian and British empires in the late 19th century",
+      "Civil War": "Began in 1991"
+    }
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Agriculture, livestock, remittances",
+    "Major Industries": ["Agriculture", "Livestock", "Telecommunications", "Banking"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 32.078,
+      "Per Capita (USD)": 1998
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 11.515,
+      "Per Capita (USD)": 717
+    },
+    "Currency": "Somali Shilling (SOS)",
+    "Gini Index": {
+      "Year": 2017,
+      "Value": 38.5,
+      "Category": "Medium"
+    },
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.361,
+      "Category": "Low",
+      "Rank": "Last"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in regional and international affairs",
+    "Membership": [
+      "United Nations (UN)",
+      "Arab League",
+      "African Union (AU)",
+      "Non-Aligned Movement (NAM)",
+      "East African Community (EAC)",
+      "Organisation of Islamic Cooperation (OIC)"
+    ]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+3 (EAT)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+252",
+    "ISO 3166 Code": "SO",
+    "Internet TLD": [".so"],
+    "Public Holidays": [
+      "New Year's Day",
+      "Labour Day",
+      "Independence Day",
+      "Eid al-Fitr",
+      "Eid al-Adha",
+      "Republic Day"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with influences from Arab, Persian, Indian, and Italian cultures",
+    "Cultural Contributions": ["Poetry", "Music", "Cuisine", "Architecture"],
+    "Unique Features": ["Traditional Somali poetry", "Somali cuisine with dishes like canjeero and sambusa", "Historical sites like the ancient city of Zeila"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 2.5,
+    "Exports Growth": "Driven by agriculture and livestock sectors",
+    "Inflation Rate": "4.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Agriculture", "Livestock"],
+      "Challenges": "Balancing economic growth with social development"
+    },
+    "Market Performance": {
+      "Equity Market": "Somalia Stock Exchange",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban population, with Mogadishu being the primary urban center",
+      "Rural Development": "Focus on improving rural infrastructure and living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Horn of Africa and global culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Telecommunications", "Banking"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education and improving literacy rates",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Sea, and Air transport",
+    "Key Transport Hubs": ["Aden Adde International Airport", "Port of Mogadishu"]
+  },
+  "Current Challenges": {
+    "Political Instability": "High level of political unrest and instability",
+    "Economic Hardships": "High poverty and unemployment rates",
+    "Natural Disasters": ["Droughts", "Floods"],
+    "Health Issues": ["Malaria", "Cholera", "COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "57.5 years",
+    "Infant Mortality Rate": "72.5 deaths/1,000 live births",
+    "Health Expenditure of GDP": "5.0% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "3.2% (2020)",
+    "Literacy Rate": {
+      "Total": "37.8%",
+      "Male": "45.9%",
+      "Female": "29.8%"
+    }
+  }
+}

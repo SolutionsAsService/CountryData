@@ -1,0 +1,84 @@
+{
+  "FirstAustrianRepublic": {
+    "period": "1919–1934",
+    "flags": {
+      "description": "Flag of First Austrian Republic"
+    },
+    "coatsOfArms": {
+      "description": "Coat of arms of First Austrian Republic"
+    },
+    "anthems": [
+      {
+        "title": "Deutschösterreich, du herrliches Land",
+        "duration": "2 minutes and 12 seconds",
+        "period": "1920–1929"
+      },
+      {
+        "title": "Sei gesegnet ohne Ende",
+        "translation": "Be Blessed Without End",
+        "duration": "Not specified",
+        "period": "1929–1934"
+      }
+    ],
+    "capital": "Vienna",
+    "commonLanguage": "German (Austrian German)",
+    "religion": [
+      "Catholic",
+      "Eastern Orthodox",
+      "Protestant",
+      "Judaism"
+    ],
+    "demonym": "Austrian",
+    "governmentType": "Federal parliamentary republic",
+    "leaders": {
+      "presidents": [
+        {
+          "name": "Karl Seitz",
+          "period": "1919–1920"
+        },
+        {
+          "name": "Michael Hainisch",
+          "period": "1920–1928"
+        },
+        {
+          "name": "Wilhelm Miklas",
+          "period": "1928–1934"
+        }
+      ],
+      "chancellors": [
+        {
+          "name": "Karl Renner",
+          "period": "1919–1920",
+          "position": "first"
+        },
+        {
+          "name": "Engelbert Dollfuss",
+          "period": "1932–1934",
+          "position": "last"
+        }
+      ]
+    },
+    "legislature": {
+      "upperHouse": "Federal Council",
+      "lowerHouse": "National Council"
+    },
+    "significantEvents": {
+      "treatyOfStGermain": "10 September 1919",
+      "julyRevolt": "15 July 1927",
+      "selfEliminationOfParliament": "4–15 March 1933",
+      "austrianCivilWar": "12 February 1934",
+      "mayConstitution": "1 May 1934"
+    },
+    "currency": [
+      {"name": "Austrian krone", "period": "1919–1924"},
+      {"name": "Austrian schilling", "period": "1924–1938"}
+    ],
+    "predecessor": "Republic of German-Austria",
+    "successor": "Federal State of Austria",
+    "currentTerritory": "Austria",
+    "historicalContext": "Placeholder for detailed historical background and context",
+    "governmentAndPolitics": "Placeholder for detailed description of the government and political structure, 1920–1934",
+    "economy": "Placeholder for economic conditions and developments during the period",
+    "transitionToAustrofascism": "Placeholder for events and policies leading to the establishment of the Austrofascist Federal State of Austria"
+  }
+}

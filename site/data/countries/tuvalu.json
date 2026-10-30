@@ -1,0 +1,87 @@
+{
+  "Tuvalu": {
+    "official_name": "Tuvalu",
+    "former_name": "Ellice Islands",
+    "description": "Island country in the Polynesian subregion of Oceania in the Pacific Ocean.",
+    "location": {
+      "relative_position": "Midway between Hawaii and Australia",
+      "coordinates": "8°31′S 179°12′E",
+      "neighboring_entities": ["Santa Cruz Islands", "Vanuatu", "Nauru", "Kiribati", "Tokelau", "Samoa", "Wallis and Futuna", "Fiji"]
+    },
+    "capital_and_largest_city": "Funafuti",
+    "official_languages": ["Tuvaluan", "English"],
+    "ethnic_groups_2022": {
+      "Tuvaluans": "96%",
+      "Others": "4%"
+    },
+    "religion_2022": {
+      "Christianity": "94.8%",
+      "No Religion": "3.3%",
+      "Baha'i Faith": "1.7%",
+      "Others": "0.2%"
+    },
+    "demonym": "Tuvaluan",
+    "government": {
+      "type": "Unitary parliamentary constitutional monarchy",
+      "monarch": "Charles III",
+      "governor_general": "Tofiga Vaevalu Falani",
+      "prime_minister": "Kausea Natano",
+      "legislature": "Parliament"
+    },
+    "independence": {
+      "from_United_Kingdom": "1 October 1978"
+    },
+    "territory": {
+      "total_area_km2": 26,
+      "total_area_sq_mi": 10,
+      "water_percentage": "negligible"
+    },
+    "population": {
+      "2021_estimate": 11900,
+      "2017_census": 10645,
+      "density_per_km2": 475.88,
+      "density_per_sq_mi": 1232.5
+    },
+    "GDP": {
+      "PPP_2016_estimate": {
+        "total": "$39 million",
+        "per_capita": "$3,566"
+      },
+      "nominal_2020_estimate": {
+        "total": "$45 million",
+        "per_capita": "$2,970"
+      }
+    },
+    "Gini_2010": "39.1",
+    "HDI_2021": {
+      "value": "0.641",
+      "rank": "130th"
+    },
+    "currency": ["Tuvaluan dollar", "Australian dollar (AUD)"],
+    "time_zone": "UTC+12",
+    "driving_side": "left",
+    "calling_code": "+688",
+    "ISO_3166_code": "TV",
+    "Internet_TLD": ".tv",
+    "geographical_features": {
+      "island_types":  ["Reef Islands", "Atolls"],
+    "total_islands": 9,
+    "geographical_distribution": "Scattered in a chain over 420 miles",
+    "highest_point": "Less than 15 feet above sea level",
+    "climate": "Tropical, moderate westerly winds (March to November), heavy rain (November to March)"
+    },
+    "history": {
+      "first_inhabitants": "Polynesians",
+      "European_contact": "1569 by Álvaro de Mendaña",
+      "name_origin": "Named Ellice's Island in 1819",
+      "British_control": "Late 19th century",
+      "independence_year": 1978
+    },
+    "socioeconomic_context": {
+      "economy_basis": ["Fishing", "International fishing permits", "Remittances"],
+      "challenges": ["Limited natural resources", "Vulnerability to climate change"],
+      "internet_domain_income": "Significant from '.tv' domain lease",
+      "UN_membership": "2000"
+    }
+  }
+}

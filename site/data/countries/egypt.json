@@ -1,0 +1,182 @@
+{
+  "Name": {
+    "Common": "Egypt",
+    "Official": "Arab Republic of Egypt",
+    "Native": {
+      "Arabic": "جمهورية مصر العربية",
+      "Transcription": "Jumhūrīyat Miṣr al-ʻArabīyah"
+    }
+  },
+  "Symbols": {
+    "Flag": "Three equal horizontal bands of red (top), white, and black with the national emblem (a gold Eagle of Saladin facing the hoist side with a shield superimposed on its chest above a scroll bearing the name of the country in Arabic) centered in the white band",
+    "Emblem": "The Eagle of Saladin holding a scroll with the name of the country in Arabic",
+    "Motto": {
+      "Arabic": "الله، الوطن، الرئيس",
+      "Translation": "God, Homeland, President"
+    },
+    "Anthem": {
+      "Title": "Bilady, Bilady, Bilady",
+      "Translation": "My Homeland, My Homeland, My Homeland",
+      "Duration": "1 minute and 4 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": ["Africa", "Asia"],
+    "Region": "North Africa",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Cairo",
+        "Latitude": "30°2′N",
+        "Longitude": "31°13′E"
+      }
+    },
+    "Location": "Transcontinental (Africa and Asia)",
+    "Area": {
+      "Total (km2)": 1010408,
+      "Rank": "30",
+      "Water Percentage": "0.632%"
+    },
+    "Borders": {
+      "North": "Mediterranean Sea",
+      "East": ["Gaza Strip", "Israel", "Red Sea"],
+      "South": "Sudan",
+      "West": "Libya"
+    },
+    "Red Sea Separates From": ["Jordan", "Saudi Arabia"],
+    "Time Zones": ["UTC+2 (EET)"],
+    "Largest City": "Cairo",
+    "Natural Resources": ["Petroleum", "Natural gas", "Iron ore", "Phosphates", "Manganese", "Limestone", "Gypsum", "Talc", "Asbestos", "Lead", "Rare earth elements", "Zinc"],
+    "Climate": ["Desert; hot, dry summers with moderate winters"]
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 110000000,
+      "Density per km2": 103.56,
+      "Rank": "14"
+    },
+    "Ethnic Groups": {
+      "Egyptians": "99.7%",
+      "Other": "0.3%"
+    },
+    "Languages": {
+      "Official": ["Arabic"],
+      "National": ["Egyptian Arabic"]
+    },
+    "Religion": {
+      "Islam": "90%",
+      "Christianity": "10%"
+    },
+    "Demonym": "Egyptian"
+  },
+  "Government": {
+    "Type": "Unitary semi-presidential republic",
+    "Leaders": {
+      "President": "Abdel Fattah el-Sisi",
+      "Prime Minister": "Moustafa Madbouly"
+    },
+    "Legislature": {
+      "Upper House": "Senate",
+      "Lower House": "House of Representatives"
+    },
+    "Constitution": "18 January 2014"
+  },
+  "History": {
+    "Early History": "Traces back to the 6th–4th millennia BCE",
+    "Ancient Civilization": "Cradle of civilization with early developments in writing, agriculture, and government",
+    "Modern History": {
+      "Independence": "1922 from British Empire",
+      "Post Independence": {
+        "Revolution": "1952",
+        "Republic Declaration": "1953",
+        "United Arab Republic": "1958-1961",
+        "Camp David Accords": "1978"
+      },
+      "Arab Spring": "2011"
+    },
+    "Current Government": "Semi-presidential republic since 2014"
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Dependent on commodity exports, tourism, and foreign aid",
+    "Major Industries": ["Petroleum", "Natural gas", "Tourism", "Textiles", "Agriculture"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 1809,
+      "Per Capita (USD)": 17123
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 398.397,
+      "Per Capita (USD)": 3770
+    },
+    "Currency": "Egyptian pound (EGP)",
+    "Gini Index": "31.5 (2017)",
+    "HDI": "0.731 (2021)"
+  },
+  "International Relations": {
+    "UN Member": true,
+    "Non-Aligned Movement Member": true,
+    "Arab League Member": true,
+    "African Union Member": true,
+    "Organisation of Islamic Cooperation Member": true,
+    "World Youth Forum Member": true
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+2 (EET)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+20",
+    "ISO 3166 Code": "EG",
+    "Internet TLD": [".eg", ".مصر"]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage reflecting its transcontinental location",
+    "Cultural Contributions": ["Pyramids", "Sphinx", "Ancient Egyptian art and architecture"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 4.0,
+    "Exports Growth": "Driven by petroleum, natural gas, and tourism",
+    "Inflation Rate": "8.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Energy", "Tourism"],
+      "Challenges": "Balancing economic growth with environmental sustainability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "N/A",
+        "Expectation": "Steady growth into 2024"
+      },
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Food Products": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on North African and Middle Eastern culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Energy", "Agriculture", "Telecommunications"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Status": {
+    "Regional Power": ["North Africa", "Middle East", "Muslim world"],
+    "Middle Power Worldwide": true,
+    "Developing Nation": true
+  },
+  "Economy Rank": {
+    "Africa": 3,
+    "World by Nominal GDP": 38,
+    "World by Nominal GDP per Capita": 127
+  }
+}

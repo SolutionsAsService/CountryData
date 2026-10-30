@@ -1,0 +1,61 @@
+{
+  "territory": "French Ivory Coast (Colony of Côte d'Ivoire)",
+  "time_period": "1893–1960",
+  "flag": "Flag of French Ivory Coast",
+  "anthems": {
+    "1830–1848": "La Parisienne",
+    "1848–1852": "Le Chant des Girondins",
+    "1852–1870": "Partant pour la Syrie",
+    "1870–1962": "La Marseillaise"
+  },
+  "status": "French colony",
+  "capital_cities": {
+    "1893–1896": "Grand-Bassam",
+    "1896–1934": "Bingerville",
+    "1934–1960": "Abidjan"
+  },
+  "official_language": "French",
+  "common_languages": ["Algerian Arabic", "Hassaniya Arabic", "Berber languages"],
+  "religion": ["Sunni Islam", "Judaism", "Roman Catholicism"],
+  "government_form": "French colony",
+  "presidents_of_france": {
+    "1893–1894": "Sadi Carnot",
+    "1959–1960": "Charles de Gaulle"
+  },
+  "colonial_governors": {
+    "first": {"Louis-Gustave Binger": "1893–1895"},
+    "last": {"Yves Guéna": "1960"}
+  },
+  "historical_era": ["New Imperialism", "First World War", "Interwar period", "Second World War", "Decolonisation of Africa", "Cold War"],
+  "significant_events": {
+    "French colonization begins": "1887",
+    "Officially becomes French colony": "10 March 1893",
+    "Accession to French West Africa": "1904",
+    "Ivory Coast becomes autonomous within French Community": "December 1958",
+    "Independence from France": "7 August 1960"
+  },
+  "area_km2": "322,463",
+  "currency": ["French West African franc (1903–1945)", "West African CFA franc (1945–1960)"],
+  "preceded_by": "Protectorate of Côte d'Ivoire",
+  "succeeded_by": "First Republic of Ivory Coast",
+  "colonial_policies": {
+    "forced_labor": "Adult male Ivorians worked ten days each year without compensation",
+    "head_tax": "Imposed for public works program",
+    "military_force": "Used to establish new posts and quell resistance",
+    "assimilation_and_association": "French policy to extend culture and laws, with limited rights for locals"
+  },
+  "post_colonial_relations": {
+    "Overseas Reform Act": "1956 act transferring powers from Paris to elected territorial governments",
+    "Loi-cadre Defferre": "Removed remaining voting inequalities"
+  },
+  "administration": "Governors appointed in Paris administered the colony with a centralized system",
+  "resistance_and_conflict": {
+    "resistance_from_locals": "Encountered resistance even in areas with treaties of protection",
+    "Samori Touré": "Offered significant resistance with the Wassoulou Empire"
+  },
+  "economic_and_social_impact": {
+    "labor_source_importance": "Workers recruited from Upper Volta due to insufficient local population",
+    "impact_of_forced_labor": "Most hated aspect of French colonial rule by the Africans"
+  },
+  "summary": "French Ivory Coast was established as a French colony in 1893 following a series of treaties and military campaigns. Governed initially from Paris and later as part of French West Africa, the colony experienced forced labor systems, tax burdens, and efforts at cultural assimilation. Resistance, both passive and active, was met with military force and political pressure. Post-WWII reforms began changing the administrative landscape, leading to greater autonomy and eventually independence in 1960. The legacy of this colonial period has had lasting economic, cultural, and political impacts on Ivory Coast."
+}

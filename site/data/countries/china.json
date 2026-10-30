@@ -1,0 +1,218 @@
+{
+  "Name": {
+    "Common": "China",
+    "Official": "People's Republic of China",
+    "Abbreviation": "PRC",
+    "Native": {
+      "Chinese": "中华人民共和国"
+    }
+  },
+  "Symbols": {
+    "Flag": "Red with a large gold star and four smaller gold stars in the canton",
+    "Emblem": "Tiananmen, gears, wheat, and five stars",
+    "Motto": "Serve the People",
+    "Anthem": {
+      "Title": "Yìyǒngjūn Jìnxíngqǔ ('March of the Volunteers')",
+      "Duration": "1 minute and 10 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Asia",
+    "Region": "East Asia",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Beijing",
+        "Latitude": "39.9042° N",
+        "Longitude": "116.4074° E"
+      }
+    },
+    "Borders": {
+      "North Korea": {
+        "Length (km)": 1416,
+        "Length (miles)": 879
+      },
+      "Russia": {
+        "Length (km)": 3645,
+        "Length (miles)": 2264
+      },
+      "Mongolia": {
+        "Length (km)": 4677,
+        "Length (miles)": 2906
+      },
+      "Kazakhstan": {
+        "Length (km)": 1533,
+        "Length (miles)": 952
+      },
+      "Kyrgyzstan": {
+        "Length (km)": 858,
+        "Length (miles)": 533
+      },
+      "Tajikistan": {
+        "Length (km)": 414,
+        "Length (miles)": 257
+      },
+      "Afghanistan": {
+        "Length (km)": 76,
+        "Length (miles)": 47
+      },
+      "Pakistan": {
+        "Length (km)": 596,
+        "Length (miles)": 370,
+        "Notes": "Disputed; depends on the resolution of territorial conflicts between India and China, and between India and Pakistan"
+      },
+      "India": {
+        "Length (km)": 3488,
+        "Length (miles)": 2167,
+        "Notes": "Disputed; in three sections, separated by Nepal and Bhutan; depends on the resolution of territorial conflicts between India and China, and between India and Pakistan"
+      },
+      "Nepal": {
+        "Length (km)": 1440,
+        "Length (miles)": 895
+      },
+      "Bhutan": {
+        "Length (km)": 470,
+        "Length (miles)": 292,
+        "Notes": "Disputed; depends on the resolution of various territorial conflicts between Bhutan and China"
+      },
+      "Myanmar": {
+        "Length (km)": 2185,
+        "Length (miles)": 1357
+      },
+      "Laos": {
+        "Length (km)": 423,
+        "Length (miles)": 262
+      },
+      "Vietnam": {
+        "Length (km)": 1283,
+        "Length (miles)": 795
+      }
+    },
+    "Area": {
+      "Total (km2)": 9596961,
+      "Rank": "3",
+      "Water Percentage": "2.8%"
+    },
+    "Time Zones": ["UTC+8"],
+    "Largest City": "Shanghai",
+    "Natural Resources": ["Coal", "Iron ore", "Petroleum", "Natural gas", "Mercury", "Tin", "Tungsten", "Antimony", "Manganese", "Vanadium", "Magnetite", "Aluminum", "Lead", "Zinc", "Rare earth elements", "Uranium", "Hydropower potential"],
+    "Climate": ["Extremely diverse; tropical in south to subarctic in north"]
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 1411750000,
+      "Density per km2": 146.5
+    },
+    "Ethnic Groups": {
+      "Han Chinese": 91.1,
+      "Others": 8.9
+    },
+    "Languages": {
+      "Official": ["Standard Chinese (Mandarin)"],
+      "Recognised": ["Minority languages in autonomous regions"]
+    },
+    "Religion": {
+      "No Religion/Folk": 74.5,
+      "Buddhism": 18.3,
+      "Christianity": 5.2,
+      "Islam": 1.6
+    }
+  },
+  "Government": {
+    "Type": "Unitary Marxist–Leninist one-party socialist republic",
+    "Leaders": {
+      "CCP General Secretary": "Xi Jinping",
+      "President": "Xi Jinping",
+      "Vice President": "Han Zheng",
+      "Premier": "Li Qiang"
+    },
+    "Legislature": "National People's Congress",
+    "Constitution": "4 December 1982"
+  },
+  "History": {
+    "Earliest Dynasties": ["Shang", "Zhou"],
+    "Unification": "221 BCE",
+    "Imperial Dynasties": ["Han", "Tang", "Yuan", "Ming", "Qing"],
+    "Republic Establishment": "1 January 1912",
+    "Communist Takeover": "1 October 1949"
+  },
+  "Economy": {
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 32898,
+      "Per Capita (USD)": 23309
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 17701,
+      "Per Capita (USD)": 12541
+    },
+    "Currency": "Renminbi (CNY)",
+    "Gini Index": "37.1 (2019)",
+    "HDI": "0.768 (2021)"
+  },
+  "International Relations": {
+    "UN Security Council Member": true,
+    "BRICS Member": true,
+    "G20 Member": true,
+    "APEC Member": true,
+    "SCO Member": true,
+    "East Asia Summit Member": true
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+8"],
+    "Date Format": ["yyyy/mm/dd"],
+    "Driving Side": "Right (mainland)",
+    "Calling Code": "+86",
+    "ISO 3166 Code": "CN",
+    "Internet TLD": [".cn", ".中国", ".中國"],
+    "Public Holidays": [
+      "New Year's Day",
+      "Chinese New Year",
+      "Qingming Festival",
+      "Labor Day",
+      "Dragon Boat Festival",
+      "Mid-Autumn Festival",
+      "National Day"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Ancient civilization with significant influence on East Asia",
+    "Cultural Contributions": ["Languages", "Traditions", "Architecture", "Philosophy"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 4.3,
+    "Exports Growth": "Driven by semiconductors and electronics",
+    "Deflationary Pressures": "Persistent due to weak domestic demand",
+    "Policy Response": {
+      "Focus": "More policy support measures to spur demand",
+      "Areas": ["Consumer spending", "Household spending"],
+      "Challenges": "Balancing overseas and domestic economic factors"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "CSI 300 Index": "Muted response",
+        "Expectation": "Earnings recovery into 2024"
+      },
+      "Commodity Imports": {
+        "Coal and Crude Oil": "Record levels in 2023",
+        "Soybean Imports": "Increased, mainly from Brazil"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Continued urban growth",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on East Asia",
+      "Key Aspects": ["Languages", "Traditions", "Architecture", "Philosophy"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Manufacturing", "Export industries"],
+      "Digital Transformation": "Rapid progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on technological and scientific skills",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  }
+}

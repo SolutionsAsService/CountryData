@@ -1,0 +1,33 @@
+{
+  "region": "French West Africa",
+  "french_name": "Afrique-Occidentale française (AOF)",
+  "time_period": "1895–1958",
+  "flag": "Flag of French West Africa",
+  "status": "Federation of French colonies",
+  "capitals": {
+    "1895–1902": "Saint Louis",
+    "1902–1960": "Dakar"
+  },
+  "common_languages": ["French (official)", "Arabic", "Fula", "Songhay", "Hausa", "Mossi", "Mandinka", "Wolof", "Bambara", "Berber languages", "Mande languages"],
+  "religion": ["Roman Catholicism", "Islam", "Animism"],
+  "historical_era": "New Imperialism",
+  "significant_events": {
+    "Established": "27 October 1895",
+    "Transition to Fifth Republic": "5 October 1958"
+  },
+  "area_km2": "4,689,000",
+  "currency": "French West African franc",
+  "colonial_territories": {
+    "Mauritania": {"part_of_AOF": "1902–1960"},
+    "Senegal": {"part_of_AOF": "1895–1960"},
+    "French Sudan (Mali)": {"part_of_AOF": "1895–1960"},
+    "French Guinea (Guinea)": {"part_of_AOF": "1895–1958"},
+    "Ivory Coast": {"part_of_AOF": "1893–1960"},
+    "Upper Volta (Burkina Faso)": {"part_of_AOF": "1919–1960"},
+    "Dahomey (Benin)": {"part_of_AOF": "1899–1960"},
+    "Niger": {"part_of_AOF": "1922–1960"}
+  },
+  "preceded_by": ["Senegambia and Niger", "French Sudan", "French Guinea", "French Upper Volta", "French Dahomey", "French Togoland", "French Senegal"],
+  "succeeded_by": ["French Community", "Republic of Dahomey (Benin)", "Guinea", "Ivory Coast", "Mali Federation", "Mauritania", "Niger", "Republic of Upper Volta (Burkina Faso)", "Italian Libya"],
+  "summary": "French West Africa was a federation of eight French colonial territories in West Africa from 1895 until 1958. It was established during the New Imperialism era and included Mauritania, Senegal, Mali (formerly French Sudan), Guinea, Ivory Coast, Burkina Faso (formerly Upper Volta), Benin (formerly Dahomey), and Niger. The federation's capitals were Saint-Louis until 1902 and then Dakar. The region was known for its diverse languages and religions, with French serving as the official language. The territories within the federation varied in the length of their colonial period, reflecting the complex history of French colonization in the region. The federation existed until the late 1950s when the territories moved towards independence, leading to the establishment of separate nation-states and the end of the French colonial era in West Africa."
+}

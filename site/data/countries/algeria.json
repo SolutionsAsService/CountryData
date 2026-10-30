@@ -1,0 +1,92 @@
+{
+  "Name": {
+    "Common": "Algeria",
+    "Official": "People's Democratic Republic of Algeria",
+    "Arabic": "الجمهورية الجزائرية الديمقراطية الشعبية",
+    "French": "République algérienne démocratique et populaire"
+  },
+  "Geography": {
+    "Capital City": "Algiers",
+    "Largest City": "Algiers",
+    "Major Cities": ["Oran", "Constantine", "Annaba"],
+    "Area": {
+      "Total (km2)": 2381741
+    },
+    "Borders": ["Tunisia", "Libya", "Niger", "Mali", "Mauritania", "Western Sahara", "Morocco"],
+    "Region": "Maghreb",
+    "Coordinates": "28°0′N, 3°0′E",
+    "Coastline": "Mediterranean Sea",
+    "Landscape": ["Semi-arid", "Sahara in the south"],
+    "Climate": "Varied"
+  },
+  "Government": {
+    "Type": "Unitary semi-presidential republic",
+    "President": "Abdelmadjid Tebboune",
+    "Prime Minister": "Nadir Larbaoui",
+    "Legislature": {
+      "Upper House": "Council of the Nation",
+      "Lower House": "People's National Assembly"
+    },
+    "Local Administration": {
+      "Provinces": 58,
+      "Communes": 1541
+    }
+  },
+  "History": {
+    "Prehistoric": "Oldest archaeological materials in North Africa found in Ain Hanech",
+    "Ancient History": {
+      "Phoenician": "Settlements established along the North African coast",
+      "Carthaginian": "Major influence on indigenous population",
+      "Numidian Kingdom": "Berbers formed a significant part of Carthaginian army"
+    },
+    "Roman Empire": {
+      "Annexation": "After Masinissa's death in 148 BC",
+      "Colonial Activity": "Founded many colonies, major breadbasket of empire"
+    },
+    "Middle Ages": {
+      "Muslim Conquest": "8th century by Umayyad Caliphate",
+      "Local Dynasties": ["Rustamids", "Aghlabids", "Fatimids", "Zirids", "Hammadids", "Almoravids", "Almohads", "Zayyanids"],
+      "Christian Exit": "Evacuated to Sicily by Normans"
+    },
+    "Fatimid Caliphate": "Ruled much of North Africa circa 960–1100"
+  },
+  "Economy": {
+    "GDP (PPP 2023) Total (Billion USD)": 628.990,
+    "GDP per Capita (PPP USD)": 13681,
+    "GDP (Nominal 2023) Total (Billion USD)": 224.107,
+    "GDP per Capita (Nominal USD)": 4874,
+    "Main Sectors": ["Energy exports"],
+    "Natural Resources": ["Oil", "Natural gas"],
+    "Oil Reserves Ranking": 16,
+    "Natural Gas Reserves Ranking": 9,
+    "Currency": "Dinar (DZD)"
+  },
+  "Demographics": {
+    "Population": {
+      "2022 Estimate": 45400000,
+      "Density per km2": 19
+    },
+    "Languages and Ethnic Groups": {
+      "Official Languages": ["Arabic", "Tamazight"],
+      "Other Languages": ["Algerian Arabic", "French"],
+      "Ethnic Groups": ["Arab", "Berbers"]
+    },
+    "Religion": {
+      "Majority": "Sunni Islam",
+      "Minority": "Others including Christians and Jews"
+    }
+  },
+  "Miscellaneous": {
+    "Human Development Index (2021)": 0.745,
+    "Currency": "Dinar (DZD)",
+    "Calling Code": "+213",
+    "Internet TLD": [".dz"],
+    "UNESCO World Heritage Sites": 7,
+    "Public Holidays": [
+      "New Year's Day", "Labor Day", "Independence Day", "Revolution Day", "Eid al-Fitr", "Eid al-Adha", "Islamic New Year", "Prophet's Birthday"
+    ]
+  },
+  "International Relations": {
+    "Member Of": ["African Union", "Arab League", "OIC", "OPEC", "United Nations", "Arab Maghreb Union"]
+  }
+}

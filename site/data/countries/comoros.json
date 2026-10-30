@@ -1,0 +1,179 @@
+{
+  "Name": {
+    "Common": "Comoros",
+    "Official": "Union of the Comoros",
+    "Native": {
+      "Ngazidja Comorian": "Udzima wa Komori",
+      "French": "Union des Comores",
+      "Arabic": "جمهورية القمر المتحدة"
+    }
+  },
+  "Symbols": {
+    "Flag": "Four horizontal stripes of yellow, white, red, and blue with a green triangle containing a white crescent and four stars",
+    "Seal": "A green crescent with four stars and a map of Comoros in the center",
+    "Motto": {
+      "French": "Unité – Solidarité – Développement",
+      "Arabic": "وحدة، تضامن، تنمية",
+      "English Translation": "Unity – Solidarity – Development"
+    },
+    "Anthem": {
+      "Title": "Udzima wa ya Masiwa",
+      "English Translation": "The Unity of the Great Islands",
+      "Duration": "1 minute and 37 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Africa",
+    "Region": "Southeastern Africa",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Moroni",
+        "Latitude": "11.69°S",
+        "Longitude": "43.26°E"
+      }
+    },
+    "Location": "Northern end of the Mozambique Channel in the Indian Ocean",
+    "Area": {
+      "Total (km2)": 2235,
+      "Total (sq mi)": 863,
+      "Rank": "170",
+      "Water Percentage": "negligible"
+    },
+    "Time Zones": ["UTC+3 (EAT)"],
+    "Largest City": "Moroni",
+    "Natural Resources": ["Fishing", "Agriculture"],
+    "Climate": ["Tropical marine; rainy season (November to May)"]
+  },
+  "Demographics": {
+    "Population": {
+      "2019 Estimate": 850886,
+      "Rank": "160",
+      "Density per km2": 457,
+      "Density per sq mi": 1183.6
+    },
+    "Ethnic Groups": {
+      "Comorians": 97.1,
+      "Makua": 1.6,
+      "Others": 1.3
+    },
+    "Languages": {
+      "Official": ["Comorian", "French", "Arabic"]
+    },
+    "Religion": {
+      "Islam": 99.1,
+      "Christianity": 0.9
+    }
+  },
+  "Government": {
+    "Type": "Federal presidential republic",
+    "Leaders": {
+      "President": "Azali Assoumani",
+      "President of Assembly": "Moustadroine Abdou"
+    },
+    "Legislature": "Assembly of the Union",
+    "Constitution": "23 December 2001, revised February 2018"
+  },
+  "History": {
+    "Discovery by Portuguese": "1503",
+    "Colony of Mayotte": "25 April 1841",
+    "French Protectorate": "1886",
+    "Colony of Mayotte and Dependencies": "9 April 1908",
+    "Province of Colony of Madagascar and Dependencies": "31 March 1914",
+    "French Overseas Territory": "27 October 1946",
+    "Internal Autonomy": "22 December 1961",
+    "Independence from France": "6 July 1975",
+    "Federal Islamic Republic of Comoros": "1 October 1978"
+  },
+  "Economy": {
+    "GDP (PPP 2019)": {
+      "Total (Billion USD)": 2.446,
+      "Per Capita (USD)": 2799,
+      "Rank": "178"
+    },
+    "GDP (Nominal 2019)": {
+      "Total (Billion USD)": 1.179,
+      "Per Capita (USD)": 1349,
+      "Rank": "182"
+    },
+    "Currency": "Comorian franc (KMF)",
+    "Gini Index": "45.0 (2013)",
+    "HDI": "0.558 (2021)"
+  },
+  "International Relations": {
+    "UN Member": true,
+    "Arab League Member": true,
+    "African Union Member": true,
+    "OIF Member": true,
+    "OIC Member": true,
+    "Indian Ocean Commission Member": true
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+3 (EAT)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+269",
+    "ISO 3166 Code": "KM",
+    "Internet TLD": ".km",
+    "Public Holidays": [
+      "New Year's Day",
+      "Labour Day",
+      "Independence Day",
+      "Eid al-Fitr",
+      "Eid al-Adha",
+      "Maouloud",
+      "Christmas Day"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "French colonial history",
+    "Cultural Contributions": ["Traditional music and dance", "Handicrafts"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.0,
+    "Exports Growth": "Driven by agriculture and fishing",
+    "Inflation Rate": "4.5%",
+    "Policy Response": {
+      "Focus": "Economic diversification",
+      "Areas": ["Infrastructure", "Tourism"],
+      "Challenges": "Balancing economic growth with social equity"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "Positive outlook",
+        "Expectation": "Recovery into 2024"
+      },
+      "Commodity Imports": {
+        "Food": "Significant",
+        "Fuel": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban growth",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Indian Ocean region",
+      "Key Aspects": ["Languages", "Traditions", "Architecture"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Agriculture", "Telecommunications"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on technological and scientific skills",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Social Issues": {
+    "Income Inequality": "One of the worst levels",
+    "HDI Ranking": "Lowest quartile",
+    "Poverty Line Below": "Half the population below US$1.25 a day (2008)"
+  },
+  "Additional Notes": {
+    "Archipelagic Country": "Comoros is an archipelagic country",
+    "Arab World": "Only country in the Arab world entirely in the Southern Hemisphere",
+    "Membership": ["Arab League", "African Union", "Organisation internationale de la Francophonie", "Organisation of Islamic Co-operation", "Indian Ocean Commission"]
+  }
+}

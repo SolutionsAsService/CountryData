@@ -1,0 +1,143 @@
+{
+  "Name": {
+    "Common": "Sri Lanka",
+    "OfficialName": "Democratic Socialist Republic of Sri Lanka",
+    "AlsoKnownAs": ["Ceylon"]
+   },
+    "Location": {
+      "Region": "South Asia",
+      "Coordinates": "6°56′N 79°52′E",
+      "Borders": {
+        "Maritime": ["Maldives (Southwest)", "India (Northwest)"],
+        "BodyOfWater": ["Indian Ocean", "Bay of Bengal", "Gulf of Mannar", "Palk Strait"]
+      }
+    },
+    "NationalSymbols": {
+      "Flag": "URL_to_flag_image",
+      "Emblem": "URL_to_emblem_image",
+      "Anthem": {
+        "Title": "Sri Lanka Matha",
+        "Translation": "Mother Sri Lanka",
+        "Duration": "2 minutes and 54 seconds"
+      }
+    },
+    "Capital": {
+      "Legislative": "Sri Jayawardenepura Kotte",
+      "ExecutiveAndJudicial": "Colombo"
+    },
+    "LargestCity": "Colombo",
+    "OfficialLanguages": ["Sinhala", "Tamil"],
+    "RecognizedLanguage": "English",
+    "EthnicGroups": {
+      "2012Statistics": {
+        "Sinhalese": "74.9%",
+        "SriLankanTamils": "11.2%",
+        "SriLankanMoors": "9.2%",
+        "IndianTamils": "4.2%",
+        "Others": "0.5%"
+      }
+    },
+    "Religion": {
+      "2012Statistics": {
+        "Buddhism": "70.2%",
+        "Hinduism": "12.6%",
+        "Islam": "9.7%",
+        "Christianity": "7.4%",
+        "OtherNone": "0.1%"
+      }
+    },
+    "Government": {
+      "Type": "Unitary semi-presidential republic",
+      "CurrentLeaders": {
+        "President": "Ranil Wickremesinghe",
+        "PrimeMinister": "Dinesh Gunawardena",
+        "SpeakerOfTheParliament": "Mahinda Yapa Abeywardena",
+        "ChiefJustice": "Jayantha Jayasuriya"
+      },
+      "Legislature": "Parliament",
+      "FormationHistory": {
+        "KingdomEstablished": "543 BCE",
+        "RajarataEstablished": "437 BCE",
+        "VariousKingdoms": [
+          { "Name": "Kingdom of Anuradhapura", "Years": "437 BCE–1017 CE" },
+          { "Name": "Chola Empire", "Years": "1017–1070" },
+          { "Name": "Kingdom of Polonnaruwa", "Years": "1070–1236" },
+          { "Name": "Kingdom of Jaffna", "Years": "1215–1619" },
+          { "Name": "Kingdom of Dambadeniya", "Years": "1220–1341" },
+          { "Name": "Kingdom of Gampola", "Years": "1341–1412" },
+          { "Name": "Kingdom of Kotte", "Years": "1412–1597" },
+          { "Name": "Kingdom of Sitawaka", "Years": "1521–1593" },
+          { "Name": "Kingdom of Kandy", "Years": "1469–1815" }
+        ],
+        "ColonialPeriod": [
+          "Portuguese Ceylon (1597–1658)",
+          "Dutch Ceylon (1640–1796)",
+          "British Ceylon (1796–1948)"
+        ],
+        "Independence": "4 February 1948",
+        "RepublicDeclaration": "22 May 1972",
+        "CurrentConstitution": "7 September 1978"
+      }
+    },
+    "GeographicalData": {
+      "TotalArea": "65,610.2 km2",
+      "WaterPercentage": "4.4%",
+      "Population": {
+        "2022Estimate": "22,037,000",
+        "2012Census": "20,277,600",
+        "Density": "337.7/km2"
+      }
+    },
+    "Economy": {
+      "GDPPPP": {
+        "2023Estimate": {
+          "Total": "$318.6 billion",
+          "PerCapita": "$14,234"
+        }
+      },
+      "GDPNominal": {
+        "2023Estimate": {
+          "Total": "$73.7 billion",
+          "PerCapita": "$3,293"
+        }
+      },
+      "GiniIndex": "39.8 (2016)",
+      "HDI": "0.782 (2021, high)"
+    },
+    "Currency": "Sri Lankan Rupee (Rs) (LKR)",
+    "TimeZone": "UTC+5:30 (SLST)",
+    "DrivingSide": "Left",
+    "CallingCode": "+94",
+    "ISO3166Code": "LK",
+    "InternetTLD": [".lk", ".ලංකා", ".இலங்கை"],
+    "OfficialWebsite": "gov.lk",
+    "History": {
+      "DocumentedHistorySpan": "3,000 years",
+      "EvidenceOfSettlements": "125,000 years ago",
+      "BuddhistWritings": "Pāli Canon (4th Buddhist Council, 29 BCE)",
+      "Nicknames": ["Teardrop of India", "Granary of the East"],
+      "StrategicImportance": ["Ancient Silk Road", "Maritime Silk Road"],
+      "ColonialAndIndependence": {
+        "PortugueseArrival": "Period of Kotte",
+        "DutchAndBritishPeriod": "After Sinhalese-Portuguese war",
+        "IndependenceMovement": "Early 20th century",
+        "DominionStatus": "1948",
+        "RepublicStatus": "1972"
+      },
+      "CivilWar": {
+        "Duration": "1983-2009",
+        "Outcome": "Defeat of Liberation Tigers of Tamil Eelam"
+      }
+    },
+    "CurrentChallenges": {
+      "EconomicCrisis": {
+        "CurrencyCollapse": true,
+        "HighInflation": true,
+        "HumanitarianCrisis": "Shortage of essentials"
+      },
+      "PoliticalUnrest": "Street protests demanding government change"
+    },
+    "InternationalEngagements": {
+      "Organizations": ["SAARC", "G77", "Non-Aligned Movement", "United Nations", "Commonwealth of Nations"]
+    }
+}

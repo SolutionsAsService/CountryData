@@ -1,0 +1,172 @@
+{
+  "Name": {
+    "Common": "Djibouti",
+    "Official": "Republic of Djibouti",
+    "Native": {
+      "Arabic": "جمهورية جيبوتي",
+      "French": "République de Djibouti",
+      "Somali": "Jamhuuriyadda Jabuuti",
+      "Afar": "Gabuutih Ummuuno"
+    }
+  },
+  "Symbols": {
+    "Flag": "Two equal horizontal bands of light blue (top) and green with a white isosceles triangle based on the hoist side bearing a red five-pointed star in the center",
+    "Emblem": "A shield with two spears crossed behind it, surrounded by laurel branches and a red five-pointed star above",
+    "Motto": {
+      "Somali": "Midnimo, Sinnaan, Nabad",
+      "Afar": "Inkittiino, Qeedala, Wagari",
+      "French": "Unité, Égalité, Paix",
+      "Arabic": "اتحاد، مساواة، سلام",
+      "English": "Unity, Equality, Peace"
+    },
+    "Anthem": {
+      "Name": "Djibouti",
+      "Duration": "48 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Africa",
+    "Region": "Horn of Africa",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Djibouti",
+        "Latitude": "11°36′N",
+        "Longitude": "43°10′E"
+      }
+    },
+    "Location": "Horn of Africa",
+    "Borders": {
+      "Somalia": "south",
+      "Ethiopia": "southwest",
+      "Eritrea": "north",
+      "Red Sea": "east",
+      "Gulf of Aden": "east"
+    },
+    "Area": {
+      "Total (km2)": 23200,
+      "Rank": "150",
+      "Water Percentage": "N/A"
+    },
+    "Time Zones": ["UTC+3 (EAT)"],
+    "Largest City": "Djibouti",
+    "Natural Resources": ["Gold", "Granite", "Limestone", "Marble", "Petroleum exploration potential", "Geothermal energy potential"],
+    "Climate": ["Sub-tropical desert"]
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 976143,
+      "Density per km2": 42.1
+    },
+    "Ethnic Groups": {
+      "Somalis": 60,
+      "Afar": 35,
+      "Arabs": 5
+    },
+    "Languages": {
+      "Official": ["Arabic", "French"],
+      "National": ["Somali", "Afar"]
+    },
+    "Religion": {
+      "Islam": 94,
+      "Christianity": 6
+    }
+  },
+  "Government": {
+    "Type": "Unitary presidential republic under a dictatorship",
+    "Leaders": {
+      "President": "Ismaïl Omar Guelleh",
+      "Prime Minister": "Abdoulkader Kamil Mohamed"
+    },
+    "Legislature": "National Assembly",
+    "Constitution": "4 September 1992"
+  },
+  "History": {
+    "Independence from France": "27 June 1977",
+    "UN Admission": "20 September 1977",
+    "Historical Significance": ["Part of Land of Punt in antiquity", "Seat of Adal and Ifat Sultanates in medieval times"]
+  },
+  "Economy": {
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 7.193,
+      "Per Capita (USD)": 6985
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 3.873,
+      "Per Capita (USD)": 3761
+    },
+    "Currency": "Djiboutian franc (DJF)",
+    "Gini Index": "41.6 (2017)",
+    "HDI": "0.509 (2021)"
+  },
+  "International Relations": {
+    "UN Member": true,
+    "African Union Member": true,
+    "Arab League Member": true,
+    "OIC Member": true
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+3 (EAT)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+253",
+    "ISO 3166 Code": "DJ",
+    "Internet TLD": ".dj",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Labor Day (May 1)",
+      "Independence Day (June 27)",
+      "Islamic New Year (varies)",
+      "Eid al-Fitr (varies)",
+      "Eid al-Adha (varies)",
+      "Mawlid al-Nabi (varies)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage influenced by Somali and Afar traditions",
+    "Cultural Contributions": ["Traditional music and dance", "Oral literature", "Cuisine"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 5.0,
+    "Exports Growth": "Driven by port services, re-exports, and livestock",
+    "Inflation Rate": "3.5%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Transportation", "Energy"],
+      "Challenges": "Balancing economic growth with environmental sustainability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "N/A",
+        "Expectation": "Steady growth into 2024"
+      },
+      "Commodity Imports": {
+        "Petroleum": "Significant",
+        "Food Products": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Horn of Africa culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Port services", "Telecommunications"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Strategic Location": "Near busy shipping lanes, control of access to Red Sea and Indian Ocean",
+  "Port Importance": "Key refueling and transshipment center, principal maritime port for Ethiopia",
+  "Challenges": {
+    "Economic": "Dependent on foreign assistance, high unemployment, vulnerable to global price shocks",
+    "Environmental": "Water scarcity, limited arable land, desertification"
+  }
+}

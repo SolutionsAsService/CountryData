@@ -1,0 +1,179 @@
+{
+  "Name": {
+    "Common": "Dominica",
+    "Official": "Commonwealth of Dominica",
+    "Pronunciation": "/ˌdɒmɪˈniːkə/ dom-in-EE-kə"
+  },
+  "Symbols": {
+    "Flag": "A green field with a cross made up of three equal bands of yellow, black, and white with a red circle in the center containing a Sisserou Parrot encircled by ten green stars",
+    "Emblem": "A shield divided into quarters by a cross, with a lion's head in each quarter, and a Sisserou Parrot on top",
+    "Motto": "Après Bondie, C'est La Ter (After God, The Earth)",
+    "Anthem": {
+      "Title": "Isle of Beauty, Isle of Splendour",
+      "Duration": "1 minute and 15 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "North America",
+    "Region": "Caribbean",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Roseau",
+        "Latitude": "15°18′N",
+        "Longitude": "61°23′W"
+      }
+    },
+    "Location": "Caribbean",
+    "Area": {
+      "Total (km2)": 750,
+      "Rank": "184",
+      "Water Percentage": "1.6%"
+    },
+    "Highest Point": {
+      "Name": "Morne Diablotins",
+      "Elevation (m)": 1447
+    },
+    "Natural Features": {
+      "Rainforests": true,
+      "Volcanic Activity": true,
+      "Hot Spring": "Boiling Lake",
+      "Flora and Fauna": "Diverse, including Sisserou parrot"
+    },
+    "Climate": ["Tropical; heavy rainfall in interior, dryer at west coast"]
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 73500,
+      "Density per km2": 98
+    },
+    "Ethnic Groups": {
+      "African": 86.8,
+      "Multiracial": 8.9,
+      "Kalinago": 2.9,
+      "European": 0.8,
+      "Other": 0.6
+    },
+    "Languages": {
+      "Official": ["English"],
+      "National": ["French Patois"]
+    },
+    "Religion": {
+      "Christianity": 82,
+      "Other": 18
+    }
+  },
+  "Government": {
+    "Type": "Unitary parliamentary republic",
+    "Leaders": {
+      "President": "Charles Savarin",
+      "Prime Minister": "Roosevelt Skerrit"
+    },
+    "Legislature": "House of Assembly",
+    "Political Parties": ["Dominica Labour Party", "United Workers' Party", "Dominica Freedom Party"],
+    "Legal System": "Based on English common law",
+    "Constitution": "3 November 1978"
+  },
+  "History": {
+    "First Inhabitants": ["Arawak", "Kalinago"],
+    "European Discovery": "Christopher Columbus, 1493",
+    "Colonization": {
+      "French": "1690s-1763",
+      "British": "Post 1763"
+    },
+    "Independence": "3 November 1978"
+  },
+  "Economy": {
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 1.015,
+      "Per Capita (USD)": 14000
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 0.563,
+      "Per Capita (USD)": 7650
+    },
+    "Currency": "East Caribbean dollar (XCD)",
+    "Gini Index": "N/A",
+    "HDI": "N/A"
+  },
+  "International Relations": {
+    "UN Member": true,
+    "CARICOM Member": true,
+    "OECS Member": true,
+    "Commonwealth of Nations Member": true,
+    "OAS Member": true
+  },
+  "Miscellaneous": {
+    "Time Zone": ["AST (UTC-4)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Left",
+    "Calling Code": "+1-767",
+    "ISO 3166 Code": "DM",
+    "Internet TLD": ".dm",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Carnival Monday (February/March)",
+      "Carnival Tuesday (February/March)",
+      "Good Friday (April)",
+      "Easter Monday (April)",
+      "Labour Day (May 1)",
+      "Whit Monday (June)",
+      "Emancipation Day (August 1)",
+      "Independence Day (November 3)",
+      "Christmas Day (December 25)",
+      "Boxing Day (December 26)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage influenced by African, European, and Carib traditions",
+    "Cultural Contributions": ["Traditional music and dance", "Oral literature", "Cuisine"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.5,
+    "Exports Growth": "Driven by tourism, agriculture, and manufacturing",
+    "Inflation Rate": "2.5%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Tourism", "Agriculture"],
+      "Challenges": "Balancing economic growth with environmental sustainability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "N/A",
+        "Expectation": "Steady growth into 2024"
+      },
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Food Products": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Caribbean culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Tourism", "Agriculture", "Telecommunications"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Infrastructure": {
+    "Transportation": {
+      "Roadways": "780 km (2002)",
+      "Airports": "2 (2013 est.)",
+      "Ports": ["Roseau", "Portsmouth"]
+    },
+    "Telecommunications": {
+      "Internet Users": "28000 (2009)",
+      "Telephone Lines": "14600 (2012)"
+    }
+  }
+}

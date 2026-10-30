@@ -1,0 +1,82 @@
+{
+  "UnionOfSouthAfrica": {
+    "identification": {
+      "name": {
+        "dutch": "Unie van Zuid-Afrika",
+        "afrikaans": "Unie van Suid-Afrika"
+      },
+      "period": "1910–1961",
+      "motto": "Ex Unitate Vires ('From Unity, Strength')",
+      "anthems": [
+        {"title": "God Save the King/Queen", "years": "1910–1957", "duration": "1 minute and 4 seconds"},
+        {"title": "Die Stem van Suid-Afrika", "years": "1938–1961", "duration": "1 minute and 31 seconds"}
+      ],
+      "flag": "Flag (from 1928)",
+      "coatOfArms": "Coat of arms"
+    },
+    "territory": {
+      "totalArea": "2,045,329 km2",
+      "capitalCities": {
+        "legislative": "Cape Town",
+        "administrative": "Pretoria",
+        "judicial": "Bloemfontein",
+        "archival": "Pietermaritzburg"
+      },
+      "largestCity": "Johannesburg",
+      "includedTerritories": "South West Africa (now Namibia) administered as 5th province under a C-mandate from the League of Nations"
+    },
+    "demographics": {
+      "1960": {
+        "Black": "68.3%",
+        "White": "19.2%",
+        "Coloured": "9.4%",
+        "Asian": "3.0%",
+        "totalPopulation": "15,994,000"
+      }
+    },
+    "government": {
+      "type": "Unitary parliamentary constitutional monarchy",
+      "regime": "Dominant-party herrenvolk regime (1948–1961)",
+      "monarchs": [
+        {"name": "George V", "period": "1910–1936"},
+        {"name": "Edward VIII", "period": "1936"},
+        {"name": "George VI", "period": "1936–1952"},
+        {"name": "Elizabeth II", "period": "1952–1961"}
+      ],
+      "governorGenerals": {
+        "first": {"name": "Viscount Gladstone", "period": "1910–1914"},
+        "last": {"name": "C. R. Swart", "period": "1959–1961"}
+      },
+      "primeMinisters": {
+        "first": {"name": "Louis Botha", "period": "1910–1919"},
+        "last": {"name": "Hendrik Verwoerd", "period": "1958–1961"}
+      },
+      "legislature": {
+        "upperHouse": "Senate",
+        "lowerHouse": "House of Assembly"
+      }
+    },
+    "history": {
+      "formation": "31 May 1910",
+      "selfGovernance": "22 August 1934",
+      "republicTransition": "31 May 1961",
+      "internationalRole": "Signatory of the Treaty of Versailles, founding member of the League of Nations",
+      "sovereigntyConfirmation": ["Balfour Declaration 1926", "Statute of Westminster 1931"]
+    },
+    "military": {
+      "description": "Placeholder for military history and structure during the Union period."
+    },
+    "constitution": {
+      "initialUnification": "Combined the Cape, Natal, Transvaal, and Orange River colonies",
+      "previousUnificationAttempts": "Placeholder for details on attempts prior to 1910."
+    },
+    "flagsCoatsOfArms": {
+      "flags": "Placeholder for historical flags used from 1910 to 1961.",
+      "coatsOfArms": "Details on the coat of arms adopted and used throughout the Union period."
+    },
+    "legacy": {
+      "transition": "The Union of South Africa's constitution ended with the establishment of the Republic of South Africa in 1961.",
+      "commonwealthStatus": "Left the Commonwealth in 1961; South Africa rejoined in 1994."
+    }
+  }
+}

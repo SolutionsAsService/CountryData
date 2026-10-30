@@ -1,0 +1,48 @@
+{
+  "territory": "French Protectorate in Morocco",
+  "french_name": "Protectorat français au Maroc",
+  "arabic_name": "الحماية الفرنسية في المغرب",
+  "time_period": "1912–1956",
+  "flag": "Merchant Ensign of the French Protectorate in Morocco",
+  "coat_of_arms": "Coat of arms of the French Protectorate in Morocco",
+  "anthems": {
+    "La Marseillaise": "French national anthem (de facto)",
+    "Cherifian Anthem": "Traditional Moroccan anthem (instrumental only)"
+  },
+  "status": "Protectorate of France",
+  "capital": "Rabat",
+  "common_languages": ["Arabic", "French", "Berber"],
+  "religion": ["Sunni Islam", "Judaism", "Roman Catholicism"],
+  "government": "Absolute monarchy under colonial administration",
+  "sultans": {
+    "1912–1927": "Yusef",
+    "1927–1953": "Mohammed V",
+    "1953–1955": "Mohammed VI",
+    "1955–1956": "Mohammed V"
+  },
+  "resident_generals": {
+    "first": {"Hubert Lyautey": "1912–1925"},
+    "last": {"André Louis Dubois": "1955–1956"}
+  },
+  "historical_events": {
+    "French military occupation begins": "1907",
+    "Treaty of Fes": "30 March 1912",
+    "Dissolution of the Treaty of Fez": "2 March 1956",
+    "Independence": "7 April 1956"
+  },
+  "area": "Territory between the Corridor of Taza and the Draa River",
+  "currency": {
+    "1912–1921": "Moroccan rial",
+    "1921–1956": "Moroccan franc",
+    "de facto official": "French franc"
+  },
+  "preceded_by": "Sultanate of Morocco",
+  "succeeded_by": "Kingdom of Morocco",
+  "post_independence": {
+    "Franco-Moroccan Joint Declaration": "2 March 1956",
+    "Continued French influence": "Rights to station troops and influence foreign policy",
+    "French settlers": "Maintained rights and property"
+  },
+  "shared_territory": "With the Spanish protectorate, established and dissolved in the same years",
+  "summary": "The French Protectorate in Morocco, established by the Treaty of Fes in 1912, was a period of French colonial rule marked by an absolute monarchy under colonial administration. While Sultan Mohammed V and his successors nominally ruled, real power was held by French Resident-Generals like Hubert Lyautey. Morocco's independence movement led to the restoration of Mohammed V and the end of the protectorate in 1956, though France continued to exert influence in the country. The protectorate was characterized by a complex relationship between French settlers, the indigenous population, and the ruling monarchy, and it played a significant role in shaping modern Morocco."
+}

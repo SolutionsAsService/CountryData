@@ -1,0 +1,105 @@
+{
+  "SpanishEastIndies": {
+    "period": "1565-1899",
+    "status": "Territory of New Spain (1565-1821)",
+    "capitals": {
+      "Cebu": "1565–1571",
+      "Manila": "1571–1898",
+      "Iloilo": "1898"
+    },
+    "languages": {
+      "official": "Spanish",
+      "common": [
+        "Philippine languages",
+        "Micronesian languages",
+        "Kavalanic East Formosan languages",
+        "Hokkien"
+      ]
+    },
+    "religion": [
+      "Catholicism (state religion)",
+      "Islam",
+      "Philippine traditional religion",
+      "Micronesian traditional religion",
+      "Taiwanese aboriginal traditional religion",
+      "Overseas Chinese folk religion"
+    ],
+    "monarch": {
+      "first": {
+        "name": "Philip II",
+        "period": "1565–1598"
+      },
+      "last": {
+        "name": "Alfonso XIII",
+        "period": "1886–1899"
+      }
+    },
+    "governorGeneral": {
+      "first": {
+        "name": "Miguel López de Legazpi",
+        "period": "1565–1572"
+      },
+      "last": {
+        "name": "Diego de los Ríos",
+        "period": "1898-1899"
+      }
+    },
+    "legislature": "Cortes Generales",
+    "historicalEra": "Spanish Empire",
+    "significantEvents": {
+      "Legazpi Colonizes Cebu": "27 April 1565",
+      "Loss of Spanish Formosa": "26 August 1642",
+      "Established after Fall of New Spain": "28 September 1821",
+      "Philippine declaration of independence": "12 June 1898",
+      "US annexation of the Philippines and Guam": "10 December 1898",
+      "Micronesia ceded to German Empire": "12 February 1899",
+      "Annexation of the Philippine Islands": "23 March 1901"
+    },
+    "area": {
+      "1877": "345,155 km2 (133,265 sq mi)"
+    },
+    "population": {
+      "1877": "5,567,685"
+    },
+    "currency": [
+      "Spanish dollar",
+      "Spanish peseta"
+    ],
+    "predecessors": [
+      "New Spain",
+      "Ancient Barangays",
+      "Tondo",
+      "Rajahnate of Maynila",
+      "Madja-as",
+      "Namayan",
+      "Caboloan",
+      "Cainta",
+      "Ma-i",
+      "Kedatuan of Dapitan",
+      "Kingdom of Butuan",
+      "Rajahnate of Cebu",
+      "Confederate States of Lanao",
+      "Sultanate of Maguindanao",
+      "Sultanate of Sulu",
+      "Sanmalan"
+    ],
+    "successors": [
+      "Military Government of the Philippine Islands",
+      "Guam",
+      "First Philippine Republic",
+      "Republic of Zamboanga",
+      "German New Guinea",
+      "Dutch Formosa",
+      "Republic of Negros"
+    ],
+    "currentTerritory": [
+      "Philippines",
+      "Guam",
+      "Taiwan",
+      "Palau",
+      "Northern Marianas Islands",
+      "North Sulawesi",
+      "Federated States of Micronesia"
+    ]
+  }
+}

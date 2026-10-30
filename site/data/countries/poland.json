@@ -1,0 +1,215 @@
+{
+  "Name": {
+    "Common": "Poland",
+    "Official": "Republic of Poland",
+    "Native": {
+      "Polish": "Rzeczpospolita Polska"
+    }
+  },
+  "Symbols": {
+    "Flag": "Red and white horizontal bicolour",
+    "Coat of Arms": "A white eagle with a golden beak and talons, wearing a golden crown, in a red shield",
+    "Motto": "N/A",
+    "Anthem": {
+      "Title": "Mazurek Dąbrowskiego",
+      "Translation": "Poland Is Not Yet Lost",
+      "Duration": "1 minute and 50 seconds"
+    },
+    "National Seal": "Great Seal of Poland"
+  },
+  "Geography": {
+    "Continent": "Europe",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Warsaw",
+        "Latitude": "52°13′N",
+        "Longitude": "21°02′E"
+      }
+    },
+    "Location": "Central Europe, bordered by Germany to the west, Czech Republic and Slovakia to the south, Ukraine and Belarus to the east, and the Baltic Sea, Lithuania and Russia (Kaliningrad Oblast) to the north",
+    "Area": {
+      "Total (sq km)": 312696,
+      "Rank": "69th",
+      "Water Percentage": "2.0%"
+    },
+    "Topography": ["Plains", "Mountains (Sudetes, Carpathian)", "Rivers (Vistula, Oder)"],
+    "Climate": ["Temperate transitional"],
+    "Natural Resources": ["Coal", "Copper", "Sulfur", "Natural gas", "Silver", "Lead", "Salt", "Amber"],
+    "Time Zones": ["UTC+01:00 (CET)", "UTC+02:00 (CEST in Summer)"],
+    "Largest City": "Warsaw"
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 38000000,
+      "Density (per sq km)": 122.0
+    },
+    "Ethnic Groups": {
+      "2023": {
+        "Poles": 98.0,
+        "Others": 2.0
+      }
+    },
+    "Languages": {
+      "Official": ["Polish"],
+      "Recognized Regional": ["Kashubian"]
+    },
+    "Religion": {
+      "2022": {
+        "Christianity": 72.2,
+        "Catholicism": 71.3,
+        "Other Christian": 0.9,
+        "No Religion": 6.9,
+        "Other": 0.4,
+        "Unanswered": 20.5
+      }
+    },
+    "Demonym": "Polish"
+  },
+  "Government": {
+    "Type": "Unitary parliamentary republic",
+    "Leaders": {
+      "President": "Andrzej Duda",
+      "Prime Minister": "Donald Tusk"
+    },
+    "Legislature": {
+      "Upper House": "Senate",
+      "Lower House": "Sejm"
+    },
+    "Constitution": "2 April 1997",
+    "Independence History": {
+      "First Republic": "966",
+      "Kingdom of Poland": "1025",
+      "Polish-Lithuanian Commonwealth": "1569",
+      "Second Republic": "1918",
+      "People's Republic": "1944",
+      "Third Republic": "1989"
+    }
+  },
+  "History": {
+    "Historical Context": {
+      "Establishment of Statehood": "966",
+      "Kingdom of Poland": "1025",
+      "Polish-Lithuanian Commonwealth": "1569",
+      "Partitions of Poland": "1795",
+      "Second Republic": "1918",
+      "People's Republic": "1944",
+      "Third Republic": "1989"
+    }
+  },
+  "Economy": {
+    "Status": "Developed country",
+    "Dependence": "Machinery, electronic equipment, vehicles, furniture, plastics",
+    "Major Industries": ["Machinery", "Electronic equipment", "Vehicles", "Furniture", "Plastics"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 1712,
+      "Per Capita (USD)": 45538
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 842.172,
+      "Per Capita (USD)": 22393
+    },
+    "Currency": "Polish złoty (PLN)",
+    "Gini Index": {
+      "Year": 2022,
+      "Value": 27.2,
+      "Category": "Low"
+    },
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.876,
+      "Category": "Very High",
+      "Rank": "32nd"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": [
+      "United Nations (UN)",
+      "European Union (EU)",
+      "North Atlantic Treaty Organization (NATO)",
+      "World Trade Organization (WTO)"
+    ]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+01:00 (CET)", "UTC+02:00 (CEST in Summer)"],
+    "Date Format": ["dd.mm.yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+48",
+    "ISO 3166 Code": "PL",
+    "Internet TLD": ".pl",
+    "Public Holidays": [
+      "New Year's Day",
+      "Easter Monday",
+      "Labor Day",
+      "Constitution Day",
+      "Assumption of Mary",
+      "All Saints' Day",
+      "Independence Day",
+      "Christmas Day",
+      "Second Day of Christmas"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Influenced by Germanic, Baltic, Jewish, Latinate, Byzantine, Ottoman cultures",
+    "Cultural Contributions": ["Art", "Cuisine", "Literature", "Music"],
+    "Unique Features": ["Historicist painting", "Realism", "Young Poland movement"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 4.0,
+    "Exports Growth": "Driven by machinery and electronic equipment",
+    "Inflation Rate": "2.3%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Machinery", "Electronic equipment"],
+      "Challenges": "Balancing economic growth with social development"
+    },
+    "Market Performance": {
+      "Equity Market": "Warsaw Stock Exchange",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Central European and global culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Digital economy", "Cloud technology"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air, and Sea transport",
+    "Key Transport Hubs": ["Warsaw", "Kraków", "Gdańsk"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Low level of political unrest and instability",
+    "Economic Hardships": "Moderate poverty and unemployment rates",
+    "Natural Disasters": ["Floods"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "78.5 years",
+    "Infant Mortality Rate": "4.0 deaths/1,000 live births",
+    "Health Expenditure of GDP": "6.5% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "5.2% (2020)",
+    "Literacy Rate": {
+      "Total": "99.8%",
+      "Male": "99.8%",
+      "Female": "99.8%"
+    }
+  }
+}

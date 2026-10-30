@@ -1,0 +1,58 @@
+{
+  "LanXang": {
+    "officialName": "Kingdom of Lan Xang",
+    "localName": "ອານາຈັກລ້ານຊ້າງ",
+    "period": "1353–1707",
+    "geography": {
+      "location": "Present-day Laos",
+      "areaCovered": "Southeast Asia"
+    },
+    "capitals": {
+      "initial": "Luang Prabang (1353–1560)",
+      "later": "Vientiane (1560–1707)"
+    },
+    "commonLanguage": "Lao",
+    "religion": {
+      "main": "Theravada Buddhism",
+      "stateReligionFrom": 1527
+    },
+    "government": "Absolute monarchy",
+    "kings": [
+      {"name": "Fa Ngum", "period": "1353–1385"},
+      {"name": "Samsenethai", "period": "1373–1416"},
+      {"name": "Setthathirath", "period": "1548–1571"},
+      {"name": "Sourigna Vongsa", "period": "1637–1694"},
+      {"name": "Setthathirath II", "period": "1700–1707"}
+    ],
+    "historicalEra": "Middle Ages and Early Modern Period",
+    "populationEstimates": {
+      "1500": 400000,
+      "1600": 319000,
+      "1700": 371000
+    },
+    "currency": ["Lat", "Hoi"],
+    "predecessors": ["Mueang", "Khmer Empire"],
+    "successors": [
+      "Kingdom of Luang Phrabang",
+      "Kingdom of Vientiane",
+      "Kingdom of Champasak",
+      "Principality of Phuan"
+    ],
+    "tradeAndEconomy": {
+      "notableProducts": ["Gold", "Silk", "Timber"],
+      "tradeRoutes": {
+        "north": "Overland routes to Lanna and Burma",
+        "east": "Commerce with Vietnam via Xam Neua and Muang Phuan"
+      }
+    },
+    "declineAndPartition": {
+      "year": 1690,
+      "reason": "Rivalries for the throne",
+      "outcome": "Division into Vientiane, Champasak, Luang Prabang, and semi-independent Muang Phuan"
+    },
+    "culturalSignificance": {
+      "basisForNationalIdentity": true,
+      "influence": "Extensive influence on culture and trade in the region"
+    }
+  }
+}

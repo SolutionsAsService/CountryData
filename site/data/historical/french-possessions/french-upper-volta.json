@@ -1,0 +1,42 @@
+{
+  "territory": "Upper Volta",
+  "French name": "Haute-Volta",
+  "time_period": "1919–1932, 1947–1958",
+  "flag": "Flag of Upper Volta",
+  "anthem": "La Marseillaise",
+  "capital": "Ouagadougou",
+  "demonym": "Upper Voltese",
+  "government_form": "Governorship within French West Africa",
+  "governors": {
+    "1948–1953": "Albert Mouragues",
+    "1957–1958": "Yvon Bourges",
+    "1958": "Max Berthet (acting)"
+  },
+  "premiers": {
+    "1957–1958": "Daniel Ouezzin Coulibaly",
+    "1958": "Maurice Yaméogo"
+  },
+  "historical_era": ["Interwar", "Cold War"],
+  "significant_events": {
+    "Established": "1 March 1919",
+    "First Abolishment": "5 September 1932",
+    "Reestablished": "4 September 1947",
+    "Autonomy within French Community": "11 December 1958",
+    "Independence as Republic of Upper Volta": "5 August 1960",
+    "Renamed to Burkina Faso": "4 August 1984"
+  },
+  "preceded_by": ["Upper Senegal and Niger", "Côte d'Ivoire", "French Sudan", "Colony of Niger"],
+  "succeeded_by": "Republic of Upper Volta",
+  "current_territory": "Burkina Faso",
+  "geographical_note": "Named for containing the upper part of the Volta River, divided into the Black Volta, White Volta, and Red Volta.",
+  "colonial_context": {
+    "formation": "Formed from territories part of Upper Senegal and Niger and the Côte d'Ivoire.",
+    "dissolution": "Dissolved with parts administered by Côte d'Ivoire, French Sudan, and the Colony of Niger.",
+    "post_WWII": "Revived as part of the French Union with previous boundaries after World War II.",
+    "path_to_independence": "Became a self-governing republic within the French Community before gaining full independence."
+  },
+  "economic_activities": {
+    "agriculture": "Threshing African rice in Banfora Department, 1931 (illustrative image)"
+  },
+  "summary": "French Upper Volta was a territory in French West Africa established in 1919 from parts of existing colonies. It underwent a period of dissolution and reestablishment before finally gaining autonomy and then independence, after which it was renamed Burkina Faso. Throughout its colonial period, Upper Volta was governed by various French officials and experienced significant changes in governance and status, reflecting the broader context of French colonial policy and the push for independence throughout Africa."
+}

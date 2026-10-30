@@ -1,0 +1,147 @@
+{
+  "TrinidadAndTobago": {
+    "officialName": "Republic of Trinidad and Tobago",
+    "location": {
+      "region": "Caribbean",
+      "proximity": {
+        "Venezuela": "11 km northeast",
+        "Grenada": "130 km south"
+      },
+      "maritimeBoundaries": ["Barbados", "Grenada", "Venezuela"]
+    },
+    "symbols": {
+      "flag": "Flag of Trinidad and Tobago",
+      "coatOfArms": "Coat of arms of Trinidad and Tobago",
+      "motto": "Together we aspire, Together we achieve",
+      "anthem": {
+        "title": "Forged from the Love of Liberty",
+        "duration": "1:15"
+      }
+    },
+    "capital": "Port of Spain",
+    "largestCity": "Chaguanas",
+    "officialLanguage": "English",
+    "otherLanguages": ["Languages in Trinidad and Tobago"],
+    "ethnicGroups2011": {
+      "Indian": "35.43%",
+      "African": "34.22%",
+      "Mixed": "22.82%",
+      "Dougla": "7.66%"
+    },
+    "religion2011": {
+      "Christianity": "63.2%",
+      "Hinduism": "20.4%",
+      "Islam": "5.6%",
+      "NoReligion": "2.5%",
+      "Other": "8.3%"
+    },
+    "demonym": ["Trinidadian and Tobagonian", "Trini", "Trinbagonian"],
+    "government": {
+      "type": "Unitary parliamentary republic",
+      "president": "Christine Kangaloo",
+      "primeMinister": "Keith Rowley",
+      "houseSpeaker": "Bridgid Annisette-George",
+      "senatePresident": "Nigel de Freitas",
+      "chiefJustice": "Ivor Archie",
+      "oppositionLeader": "Kamla Persad-Bissessar"
+    },
+    "legislature": {
+      "upperHouse": "Senate",
+      "lowerHouse": "House of Representatives"
+    },
+    "independence": {
+      "fromUK": "31 August 1962",
+      "westIndiesFederation": "3 January 1958 – 14 January 1962",
+      "republicDay": "1 August 1976",
+      "caribbeanCommunityJoinDate": "1 August 1973"
+    },
+    "area": {
+      "total": "5,131 km2",
+      "waterPercentage": "negligible"
+    },
+    "population2022": {
+      "estimate": "1,405,646",
+      "density": "264/km2"
+    },
+    "economy2023": {
+      "GDP_PPP": {
+        "total": "$43.658 billion",
+        "perCapita": "$30,718"
+      },
+      "GDP_Nominal": {
+        "total": "$27.887 billion",
+        "perCapita": "$19,621"
+      },
+      "GiniIndex2012": "39.0",
+      "HDI_2021": "0.810"
+    },
+    "currency": "Trinidad and Tobago dollar (TTD)",
+    "timeZone": "UTC-4 (AST)",
+    "dateAndDriving": {
+      "dateFormat": "dd/mm/yyyy",
+      "drivingSide": "left"
+    },
+    "communication": {
+      "callingCode": "+1 (868)",
+      "ISO3166Code": "TT",
+      "internetTLD": ".tt"
+    },
+    "history": {
+      "earlyInhabitants": "Indigenous peoples",
+      "colonialHistory": {
+        "SpanishEmpire": "1498",
+        "BritishFleetCapture": "1797",
+        "cededToBritain": "1802",
+        "unificationYear": "1889"
+      },
+      "independence": "1962",
+      "republicStatus": "1976"
+    },
+    "geography": {
+      "mainIslands": ["Trinidad", "Tobago"],
+      "numerousSmallerIslands": true,
+      "climate": "Tropical",
+      "topography": "Varied landscape"
+    },
+    "governmentAndPolitics": {
+      "parliamentarySystem": true,
+      "politicalParties": true,
+      "judicialSystem": "Based on British common law"
+    },
+    "economy": {
+      "industryFocus": {
+        "petroleum": true,
+        "petrochemicals": true
+      },
+      "naturalResources": ["Oil", "Natural gas"],
+      "tourism": "Less reliance compared to other Caribbean nations"
+    },
+    "culture": {
+      "diverseCulturalInfluences": ["African", "Indian"],
+      "festivals": ["Carnival", "Diwali", "Hosay"],
+      "musicAndDance": {
+        "birthplaceOf": ["steelpan", "limbo"],
+        "musicStyles": ["calypso", "soca", "rapso", "parang", "chutney", "chutney soca"]
+      }
+    },
+    "toponymy": {},
+    "demographics": {
+      "populationTrends": {
+        "2022Estimate": "1.4 million",
+        "ethnicComposition": {
+          "indian": "35.43%",
+          "african": "34.22%",
+          "mixed": "22.82%",
+          "other": "7.55%"
+        },
+        "religiousComposition": {
+          "christianityMajority": "63.2%",
+          "hinduism": "20.4%",
+          "islam": "5.6%",
+          "noReligion": "2.5%",
+          "otherReligions": "8.3%"
+        }
+      }
+    }
+  }
+}

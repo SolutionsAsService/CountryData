@@ -1,0 +1,21 @@
+{
+  "region": "French North Africa",
+  "french_name": "Afrique du Nord française",
+  "description": "Term applied to three territories controlled by France in the North African Maghreb during the colonial era.",
+  "countries": {
+    "Algeria": {
+      "period_of_control": "1830–1962",
+      "description": "Algeria was a central part of French North Africa with a substantial settler population and saw a long struggle for independence."
+    },
+    "Morocco": {
+      "period_of_control": "Protectorate established in 1912",
+      "description": "Morocco was a French protectorate, with France exerting significant influence over its governance and modernization."
+    },
+    "Tunisia": {
+      "period_of_control": "Protectorate established in 1881",
+      "description": "Tunisia came under French control as a protectorate and experienced significant cultural and administrative influence from France."
+    }
+  },
+  "contrast_with_other_territories": "Unlike French West Africa and French Equatorial Africa which existed as federations of French colonies and administrative entities, French North Africa was never a unified administrative entity but a term of convenience for the three separately governed territories.",
+  "summary": "French North Africa refers to the territories of Algeria, Morocco, and Tunisia under French control during the colonial era. Each region had distinct colonial experiences, with Algeria integrated directly into France, while Morocco and Tunisia were protectorates. The term 'French North Africa' is a convenience for these territories, which were never administratively unified but shared the experience of French colonial rule, including significant cultural, political, and social influence. The legacy of this era continues to influence the region's cultural and political landscape."
+}

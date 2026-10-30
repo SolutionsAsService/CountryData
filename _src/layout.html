@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{title}}</title>
+<meta name="description" content="{{description}}">
+<meta name="theme-color" content="#f4f1ea" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#14161a" media="(prefers-color-scheme: dark)">
+<link rel="icon" href="{{up}}favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,600&amp;family=IBM+Plex+Sans:wght@400;500;600&amp;family=IBM+Plex+Mono:wght@400&amp;display=swap">
+<link rel="stylesheet" href="{{up}}css/site.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="mast">
+  <div class="wrap mast-in">
+    <a class="brand" href="{{up}}index.html"><svg viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="13" class="m-globe"/><path d="M3 16h26M16 3c-5 4-5 22 0 26M16 3c5 4 5 22 0 26" class="m-lines"/><rect x="18" y="18" width="11" height="11" rx="2" class="m-gap"/></svg><span>CountryData</span></a>
+    <nav aria-label="Main"><ul>
+      <li><a href="{{up}}index.html"{{cur:browse}}>Countries</a></li>
+      <li><a href="{{up}}historical/index.html"{{cur:historical}}>Historical</a></li>
+      <li><a href="{{up}}about.html"{{cur:about}}>About the data</a></li>
+    </ul></nav>
+  </div>
+</header>
+<main id="main">
+{{body}}
+</main>
+<footer class="foot">
+  <div class="wrap foot-in">
+    <p>CountryData: open JSON, one file per country, territory and historical state. MIT licensed.</p>
+    <p><a href="https://github.com/SolutionsAsService/CountryData" rel="noopener">Source on GitHub</a> · <a href="{{up}}data/index.json">data/index.json</a> · <a href="https://demo.ultimatebusinessmachines.com/portfolio">Part of the Ultimate Business Machines portfolio</a></p>
+  </div>
+</footer>
+<script src="{{up}}js/site.js" defer></script>
+</body>
+</html>

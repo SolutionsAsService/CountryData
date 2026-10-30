@@ -1,0 +1,145 @@
+{
+  "Name": {
+    "Common": "Bulgaria",
+    "Official": "Republic of Bulgaria",
+    "Native": "Република България"
+  },
+  "Symbols": {
+    "Flag": "Flag with white, green, and red horizontal stripes",
+    "Coat of Arms": "Lion rampant in a shield",
+    "Motto": "Съединението прави силата (Unity makes strength)",
+    "Anthem": {
+      "Title": "Мила Родино (Dear Motherland)",
+      "Duration": "1 minute and 27 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Europe",
+    "Region": "Southeast Europe",
+    "Coordinates": "42°41′N, 23°19′E",
+    "Borders": ["Greece", "Turkey", "Serbia", "North Macedonia", "Romania"],
+    "Seas": ["Black Sea"],
+    "Area": {
+      "Total (km2)": 110879,
+      "Rank": "105",
+      "Water Percentage": "0.3%"
+    },
+    "Time Zones": "1",
+    "Driving Side": "Right",
+    "Natural Resources": ["Bauxite", "Copper", "Lead", "Zinc", "Coal"],
+    "Climate": ["Continental", "Mediterranean"]
+  },
+  "Demographics": {
+    "Population": {
+      "2022 Estimate": 6447710,
+      "Density per km2": 58
+    },
+    "Ethnic Groups": {
+      "Bulgarians": 84.6,
+      "Turks": 8.4,
+      "Roma": 4.4,
+      "Others": 2.6
+    },
+    "Languages": {
+      "Official": ["Bulgarian"]
+    },
+    "Religion": {
+      "Christianity": 71.5,
+      "Islam": 10.8,
+      "No Religion": 5.2,
+      "Other": 0.1,
+      "Unanswered": 12.4
+    }
+  },
+  "Government": {
+    "Type": "Unitary parliamentary republic",
+    "President": "Rumen Radev",
+    "Vice President": "Iliana Iotova",
+    "Prime Minister": "Nikolai Denkov",
+    "Chairperson of the National Assembly": "Rosen Zhelyazkov",
+    "Legislature": "National Assembly"
+  },
+  "History": {
+    "First Bulgarian Empire": "681–1018",
+    "Second Bulgarian Empire": "1185–1396",
+    "Ottoman Rule": "1396-1878",
+    "Third Bulgarian State": "Since 1878"
+  },
+  "Economy": {
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 216.499,
+      "Per Capita (USD)": 33780
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 103.099,
+      "Per Capita (USD)": 16086
+    },
+    "Currency": "Lev (BGN)",
+    "Gini Index": "38.4 (2022)",
+    "HDI": "0.796 (2021)"
+  },
+  "International Relations": {
+    "Joined NATO": "2004",
+    "Joined EU": "2007"
+  },
+  "Miscellaneous": {
+    "Time Zone": "UTC+2 (EET)",
+    "Date Format": "dd.mm.yyyy",
+    "Driving Side": "Right",
+    "Calling Code": "+359",
+    "ISO 3166 Code": "BG",
+    "Internet TLD": ".bg",
+    "Public Holidays": [
+      "New Year's Day",
+      "Liberation Day",
+      "Labour Day",
+      "Orthodox Easter",
+      "Armed Forces Day and Saint George's Day",
+      "Bulgarian Education and Culture, and Slavic Script Day",
+      "Unification Day",
+      "Independence Day",
+      "Day of the Bulgarian Enlighteners",
+      "Christmas Eve",
+      "Christmas Day"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Early Societies": "Neolithic Karanovo culture",
+    "Ancient History": ["Thracians", "Romans", "Persians", "Celts", "Macedonians"],
+    "Development of Cyrillic Script": true,
+    "Cultural Contributions": ["Slavic cultures", "Byzantine influence"]
+  },
+  "Economic Outlook 2024": {
+    "GDP Growth": "2.8%",
+    "Factors Affecting Growth": ["Household credit", "EU fund investments", "Inflation rates"],
+    "Inflation Rate 2023": "9.5%",
+    "Inflation Rate 2024": "4.5%"
+  },
+  "Health": {
+    "Life Expectancy": 71.5,
+    "Infant Mortality Rate": 6.5,
+    "Maternal Mortality Ratio": 161,
+    "Physicians Density": 1.03,
+    "Hospital Bed Density": 1.3
+  },
+  "Education": {
+    "Expenditures (% of GDP)": 4,
+    "Literacy": {
+      "Total": 98.4,
+      "Male": 98.7,
+      "Female": 98.2
+    },
+    "School Life Expectancy": {
+      "Total": 14,
+      "Male": 13,
+      "Female": 14
+    }
+  },
+  "Environmental Issues": {
+    "Air Pollution": true,
+    "Water Pollution": true,
+    "Deforestation": true,
+    "Acid Rain": true,
+    "Soil Contamination": true
+  }
+}

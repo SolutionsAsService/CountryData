@@ -1,0 +1,206 @@
+{
+  "Name": {
+    "Common": "Lebanon",
+    "Official": "Republic of Lebanon",
+    "Native": "الجمهورية اللبنانية",
+    "Transliteration": "al-Jumhūrīyah al-Lubnānīyah"
+  },
+  "Symbols": {
+    "Flag URL": "URL_to_flag_image",
+    "Emblem URL": "URL_to_emblem_image",
+    "Anthem": {
+      "Title": "كلّنا للوطن (Kullunā li-l-waṭan)",
+      "Translation": "All of us, for our country!",
+      "Duration": "51 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Asia",
+    "Region": "West Asia",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Beirut",
+        "Latitude": "33°54′N",
+        "Longitude": "35°32′E"
+      }
+    },
+    "Location": "Located on the eastern shore of the Mediterranean Sea, bordered by Syria to the north and east, and Israel to the south",
+    "Area": {
+      "Total (km2)": 10452,
+      "Rank": "161st",
+      "Water Percentage": "N/A"
+    },
+    "Borders": {
+      "Syria": "north and east",
+      "Israel": "south"
+    },
+    "Coastline": "Mediterranean Sea",
+    "Proximity": "Close to Cyprus",
+    "Terrain": ["Coastal plain, mountain ranges, fertile valleys"],
+    "Climate": ["Mediterranean; mild, wet winters and hot, dry summers"],
+    "Natural Resources": ["Limestone, iron ore, salt, water-surplus state in a water-deficit region"],
+    "Time Zones": ["UTC+2 (EET)", "UTC+3 (EEST) during DST"],
+    "Largest City": "Beirut"
+  },
+  "Demographics": {
+    "Population": {
+      "2022 Estimate": 5296814,
+      "Density (per km2)": 560
+    },
+    "Ethnic Groups": {
+      "2022": {
+        "Arab": 95,
+        "Armenian": 4,
+        "Others": 1
+      }
+    },
+    "Languages": {
+      "Official": ["Arabic"],
+      "Vernacular": ["Lebanese Arabic"],
+      "Foreign": ["French"]
+    },
+    "Religion": {
+      "2022": {
+        "Islam": 54,
+        "Christianity": 40.5,
+        "Druze": 5.5
+      }
+    },
+    "Demonym": ["Lebanese", "Chapín"]
+  },
+  "Government": {
+    "Type": "Unitary parliamentary republic with confessionalism",
+    "Leaders": {
+      "President": "Vacant",
+      "Prime Minister": "Najib Mikati",
+      "Speaker of Parliament": "Nabih Berri"
+    },
+    "Legislature": "Parliament",
+    "Constitution": "23 May 1926"
+  },
+  "History": {
+    "Early Civilization": "Phoenicia (3200 to 539 BC)",
+    "Roman Empire Conquest": "64 BC",
+    "Muslim Conquest": "7th century",
+    "Crusader States": "11th century",
+    "Ottoman Rule": "1516–1918",
+    "French Mandate": "1920-1943",
+    "Lebanese Civil War": "1975–1990",
+    "Recent Developments": ["Post-war reconstruction", "2020 Beirut explosion"]
+  },
+  "Establishment": {
+    "Mount Lebanon Emirate": "1516",
+    "Mount Lebanon Mutasarrifate": "9 June 1861",
+    "Greater Lebanon": "1 September 1920",
+    "Constitution": "23 May 1926",
+    "Independence Declared": "22 November 1943",
+    "French Mandate Ended": "24 October 1945",
+    "French Forces Withdrawal": "17 April 1946",
+    "Israeli Troops Withdrawn": "24 May 2000",
+    "Syrian Troops Withdrawn": "30 April 2005"
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Services, banking, tourism",
+    "Major Industries": ["Banking", "Tourism", "Agriculture", "Real estate"],
+    "GDP (PPP 2022)": {
+      "Total (Billion USD)": 78.233,
+      "Per Capita (USD)": 11793
+    },
+    "GDP (Nominal 2022)": {
+      "Total (Billion USD)": 21.780,
+      "Per Capita (USD)": 3283
+    },
+    "Currency": "Lebanese pound (LBP)",
+    "Gini Index": 31.8,
+    "HDI": {
+      "Score": 0.706,
+      "Rank": "92nd"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": ["United Nations (UN)", "Arab League", "Non-Aligned Movement (NAM)", "Organisation of Islamic Cooperation (OIC)", "La Francophonie", "Group of 77 (G77)"]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+2 (EET)", "UTC+3 (EEST) during DST"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+961",
+    "ISO 3166 Code": "LB",
+    "Internet TLD": [".lb", ".لبنان"],
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Labor Day (May 1)",
+      "Independence Day (November 22)",
+      "Christmas Day (December 25)",
+      "Eid al-Fitr (Varies)",
+      "Eid al-Adha (Varies)",
+      "Good Friday (Varies)",
+      "Easter Monday (Varies)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with a blend of Arab, Phoenician, Ottoman, and French influences",
+    "Cultural Contributions": ["Music", "Dance", "Cuisine", "Art"],
+    "Unique Features": ["Renowned in the Arab world and globally", "Strong diaspora influence"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 1.5,
+    "Exports Growth": "Driven by services and tourism",
+    "Inflation Rate": "20.0%",
+    "Policy Response": {
+      "Focus": "Economic stabilization and infrastructure development",
+      "Areas": ["Banking", "Tourism"],
+      "Challenges": "Balancing economic growth with political stability"
+    },
+    "Market Performance": {
+      "Equity Market": "N/A",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Arab and Mediterranean culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Banking", "Tourism", "Services"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air, and Sea transport",
+    "Key Transport Hubs": ["Beirut", "Tripoli", "Sidon"]
+  },
+  "Current Challenges": {
+    "Political Instability": "High level of political unrest and instability",
+    "Economic Hardships": "Severe economic crisis with high unemployment and poverty rates",
+    "Natural Disasters": ["Earthquakes"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "78.9 years",
+    "Infant Mortality Rate": "7.4 deaths/1,000 live births",
+    "Health Expenditure of GDP": "7.6% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "3.2% (2020)",
+    "Literacy Rate": {
+      "Total": "95.1%",
+      "Male": "96.6%",
+      "Female": "93.6%"
+    }
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "Name": {
+    "Full": "Democratic People's Republic of Korea (DPRK)",
+    "Common": "North Korea",
+    "Korean": "조선민주주의인민공화국",
+    "Romanized": "Chosŏn Minjujuŭi Inmin Konghwaguk"
+  },
+  "Symbols": {
+    "Flag": "Red field with a wide blue band at the top and bottom, with a white circle and red star in the center",
+    "Emblem": "A red star above a hydroelectric plant, flanked by sheaves of rice, with a red ribbon below",
+    "Motto": "강성대국 (Strong and Prosperous Nation)",
+    "Anthem": {
+      "Title": "Aegukka",
+      "English Translation": "The Patriotic Song",
+      "Duration": "2 minutes and 10 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Asia",
+    "Region": "East Asia",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Pyongyang",
+        "Latitude": "39°2′N",
+        "Longitude": "125°45′E"
+      }
+    },
+    "Korean Peninsula": {
+      "Position": "Northern half",
+      "Borders": {
+        "North": ["China", "Russia"],
+        "South": "South Korea",
+        "West": "Yellow Sea",
+        "East": "Sea of Japan"
+      }
+    },
+    "Area": {
+      "Total (km2)": 120538,
+      "Rank": "97",
+      "Water Percentage": "4.9%"
+    },
+    "Time Zones": ["UTC+9 (Pyongyang Time)"],
+    "Largest City": "Pyongyang",
+    "Natural Resources": ["Coal", "Iron ore", "Limestone", "Magnesite", "Graphite", "Copper", "Zinc", "Lead", "Precious metals"],
+    "Climate": ["Temperate with rainfall concentrated in summer; long, cold winters"]
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 26072217,
+      "2008 Census": 24052231,
+      "Density per km2": 212
+    },
+    "Ethnic Groups": {
+      "Korean": 99.8,
+      "Other": 0.2
+    },
+    "Languages": {
+      "Official": ["Korean (Munhwaŏ)"]
+    },
+    "Religion": {
+      "No Religion": 73,
+      "Chondoism": 13,
+      "Shamanism": 12,
+      "Buddhism": 1.5,
+      "Other": 0.5
+    }
+  },
+  "Government": {
+    "Type": "Unitary one-party socialist republic",
+    "Leaders": {
+      "WPK General Secretary": "Kim Jong Un",
+      "Premier": "Kim Tok Hun",
+      "SPA Standing Committee Chairman": "Choe Ryong-hae",
+      "SPA Chairman": "Pak In-chol"
+    },
+    "Legislature": "Supreme People's Assembly",
+    "Constitution": "27 December 1972"
+  },
+  "History": {
+    "Gojoseon": "2333 BC (Mythological)",
+    "Three Kingdoms": "57 BC",
+    "Balhae Silla Kingdoms": "668",
+    "Goryeo Dynasty": "918",
+    "Joseon Dynasty": "17 July 1392",
+    "Korean Empire": "12 October 1897",
+    "Japanese Annexation": "22 August 1910",
+    "Independence Declared": "1 March 1919",
+    "Japanese Surrender": "2 September 1945",
+    "People's Republic of Korea": "6 September 1945",
+    "Soviet Administration": "3 October 1945",
+    "Provisional Governments": [
+      "1st (8 February 1946)",
+      "2nd (22 February 1947)"
+    ],
+    "DPRK Establishment": "9 September 1948"
+  },
+  "Economy": {
+    "GDP (PPP 2015)": {
+      "Total (Billion USD)": 40,
+      "Per Capita (USD)": 1800
+    },
+    "GDP (Nominal 2019)": {
+      "Total (Billion USD)": 16,
+      "Per Capita (USD)": 640
+    },
+    "Currency": "Korean People's won (₩)",
+    "Gini Index": "N/A",
+    "HDI": "N/A"
+  },
+  "International Relations": {
+    "UN Member": true,
+    "Other Memberships": ["Non-Aligned Movement", "G77", "ASEAN Regional Forum"]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+9 (Pyongyang Time)"],
+    "Date Format": ["yy, yyyy년 mm월 dd일", "yy, yyyy/mm/dd"],
+    "Driving Side": "Right",
+    "Calling Code": "+850",
+    "ISO 3166 Code": "KP",
+    "Internet TLD": ".kp",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Kim Jong Il's Birthday (February 16)",
+      "Day of the Sun (April 15)",
+      "Military Foundation Day (April 25)",
+      "Victory Day (July 27)",
+      "National Liberation Day (August 15)",
+      "National Day (September 9)",
+      "Party Foundation Day (October 10)",
+      "Constitution Day (December 27)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich historical heritage influenced by Confucianism and socialism",
+    "Cultural Contributions": ["Traditional music and dance", "Literature", "Cuisine"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 1.5,
+    "Exports Growth": "Driven by minerals, textiles, and seafood",
+    "Inflation Rate": "5.0%",
+    "Policy Response": {
+      "Focus": "Economic stability and growth",
+      "Areas": ["Agriculture", "Industry"],
+      "Challenges": "Sanctions and international isolation"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "N/A",
+        "Expectation": "Limited growth due to economic sanctions"
+      },
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Food Products": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Limited due to focus on industrialization"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Korean Peninsula culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Military technology", "Heavy industry"],
+      "Digital Transformation": "Limited due to government control"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on ideological education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Military": {
+    "Policy": "Songun (Military first)",
+    "Nuclear Weapons": true,
+    "Army Size": "1.28 million active soldiers",
+    "Rank": "4th largest in the world"
+  }
+}

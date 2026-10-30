@@ -1,0 +1,206 @@
+{
+  "Name": {
+    "Common": "Solomon Islands",
+    "Official": "Solomon Islands",
+    "Native": "Solomon Aelan"
+  },
+  "Symbols": {
+    "Flag": "Flag of Solomon Islands",
+    "Coat of Arms": "Coat of arms of Solomon Islands",
+    "Motto": "To Lead is to Serve",
+    "Anthem": {
+      "Title": "God Save Our Solomon Islands",
+      "Duration": "1 minute and 20 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Oceania",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Honiara",
+        "Latitude": "9°25′55″S",
+        "Longitude": "159°57′20″E"
+      }
+    },
+    "Location": "Southwest Pacific Ocean, east of Papua New Guinea",
+    "Area": {
+      "Total (sq km)": 30407,
+      "Land (sq km)": 27986,
+      "Water Percentage": 3.2
+    },
+    "Topography": ["Mostly rugged mountains", "Low coral atolls"],
+    "Climate": ["Tropical monsoon"],
+    "Natural Resources": ["Fish", "Forests"],
+    "Time Zones": ["UTC+11"],
+    "Largest City": "Honiara"
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 734887,
+      "2019 Census": 720956,
+      "Density (per sq km)": 24.2
+    },
+    "Ethnic Groups": {
+      "2019": {
+        "Melanesian": 95.3,
+        "Polynesian": 3.1,
+        "Micronesian": 1.2,
+        "Others": 0.4
+      }
+    },
+    "Languages": {
+      "Official": ["English", "Pijin"]
+    },
+    "Religion": {
+      "2019": {
+        "Christianity": 97.4,
+        "Protestantism": 76.6,
+        "Catholicism": 19.0,
+        "Other Christian": 1.8,
+        "Folk Religions": 1.2,
+        "Others or None": 1.4
+      }
+    },
+    "Demonym": "Solomon Islander"
+  },
+  "Government": {
+    "Type": "Unitary parliamentary constitutional monarchy",
+    "Leaders": {
+      "Monarch": "Charles III",
+      "Governor General": "Sir David Vunagi",
+      "Prime Minister": "Manasseh Sogavare"
+    },
+    "Legislature": "National Parliament",
+    "Constitution": "7 July 1978",
+    "Independence History": {
+      "From United Kingdom": "7 July 1978"
+    }
+  },
+  "History": {
+    "Historical Context": {
+      "First Settlement Period": "30,000 - 28,800 BC",
+      "Significant Migration": "Lapita people",
+      "First European Contact": "1568 by Álvaro de Mendaña",
+      "British Protectorate Establishment": "1893",
+      "World War II Significance": ["Solomon Islands campaign", "Battle of Guadalcanal"],
+      "Post War Developments": ["Maasina Ruru movement", "Moro Movement"],
+      "Independence from United Kingdom": "1978",
+      "Recent Developments": ["Tribal hostilities in 1998", "RAMSI intervention in 2003"]
+    }
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Fishing, forestry, agriculture",
+    "Major Industries": ["Fishing", "Forestry"],
+    "GDP (PPP 2019)": {
+      "Total (Billion USD)": 1.479,
+      "Per Capita (USD)": 2307
+    },
+    "GDP (Nominal 2019)": {
+      "Total (Billion USD)": 1.511,
+      "Per Capita (USD)": 2357
+    },
+    "Currency": "Solomon Islands Dollar (SBD)",
+    "Gini Index": {
+      "Year": 2013,
+      "Value": 37.1,
+      "Category": "Medium"
+    },
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.564,
+      "Category": "Medium",
+      "Rank": "155th"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in regional and international affairs",
+    "Membership": [
+      "United Nations (UN)",
+      "Pacific Islands Forum (PIF)",
+      "Commonwealth of Nations",
+      "World Trade Organization (WTO)"
+    ]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+11"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Left",
+    "Calling Code": "+677",
+    "ISO 3166 Code": "SB",
+    "Internet TLD": [".sb"],
+    "Public Holidays": [
+      "New Year's Day",
+      "Good Friday",
+      "Easter Monday",
+      "Whit Monday",
+      "Queen's Official Birthday",
+      "Independence Day",
+      "Christmas Day",
+      "Boxing Day"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage with Melanesian, Polynesian, and Micronesian influences",
+    "Cultural Contributions": ["Music", "Dance", "Art", "Cuisine"],
+    "Unique Features": ["Traditional practices like pottery, weaving, wood carving", "Communal family structure with strong ties to extended family"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 4.0,
+    "Exports Growth": "Driven by fishing and forestry sectors",
+    "Inflation Rate": "3.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Fishing", "Forestry"],
+      "Challenges": "Balancing economic growth with social development"
+    },
+    "Market Performance": {
+      "Equity Market": "Solomon Islands Stock Exchange",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "Increasing urban population, with Honiara being the primary urban center",
+      "Rural Development": "Focus on improving rural infrastructure and living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Pacific and global culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Fishing", "Forestry"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education and improving literacy rates",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Sea, and Air transport",
+    "Key Transport Hubs": ["Honiara International Airport", "Port of Honiara"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Moderate level of political unrest and instability",
+    "Economic Hardships": "High poverty and unemployment rates",
+    "Natural Disasters": ["Cyclones", "Earthquakes"],
+    "Health Issues": ["Malaria", "COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "73.2 years",
+    "Infant Mortality Rate": "11.1 deaths/1,000 live births",
+    "Health Expenditure of GDP": "5.8% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "12.8% (2020)",
+    "Literacy Rate": {
+      "Total": "84.1%",
+      "Male": "88.2%",
+      "Female": "80.0%"
+    }
+  }
+}

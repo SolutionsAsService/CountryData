@@ -1,0 +1,50 @@
+{
+  "name": "Byzantine Empire",
+  "alternative_names": ["Eastern Roman Empire"],
+  "time_period": "330/395–1453 AD",
+  "peak_territory": "555 under Justinian the Great",
+  "status": "Empire",
+  "capital": "Constantinople (modern-day Istanbul)",
+  "official_languages": ["Greek"],
+  "common_languages": ["Latin"],
+  "regional_languages": [],
+  "religion": "Christianity (state)",
+  "demonym": "Byzantine",
+  "notable_emperors": [
+    {"Constantine I": "306–337"},
+    {"Theodosius II": "408–450"},
+    {"Zeno": "474–475, 476–491"},
+    {"Justinian I": "527–565"},
+    {"Maurice": "582–602"},
+    {"Heraclius": "610–641"},
+    {"Leo III": "717–741"},
+    {"Irene": "797–802"},
+    {"Basil I": "867–886"},
+    {"Basil II": "976–1025"},
+    {"Alexios I": "1081–1118"},
+    {"Manuel I": "1143–1180"},
+    {"Michael VIII": "1261–1282"},
+    {"Constantine XI": "1449–1453"}
+  ],
+  "historical_era": "Late Antiquity to Late Middle Ages",
+  "significant_events": [
+    {"First East–West division of the Roman Empire": "1 April 286"},
+    {"Inauguration of Constantinople": "11 May 330"},
+    {"Final East–West division after the death of Theodosius I": "17 January 395"},
+    {"Fall of the West; deposition of Romulus": "4 September 476"},
+    {"Sack of Constantinople by Catholic crusaders": "12 April 1204"},
+    {"Reconquest of Constantinople": "25 July 1261"},
+    {"Fall of Constantinople": "29 May 1453"},
+    {"Fall of Morea": "29 May 1460"},
+    {"Fall of Trebizond": "15 August 1461"}
+  ],
+  "population_estimates": [
+    {"457": "16,000,000"},
+    {"565": "26,000,000"},
+    {"775": "7,000,000"},
+    {"1025": "12,000,000"},
+    {"1320": "2,000,000"}
+  ],
+  "currency": ["Solidus", "denarius", "hyperpyron"],
+  "territorial_evolution": "Detailed map sequences from inception to fall"
+}

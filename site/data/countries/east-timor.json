@@ -1,0 +1,179 @@
+{
+  "Name": {
+    "Common": "East Timor",
+    "Official": "Democratic Republic of Timor-Leste",
+    "Native": {
+      "Portuguese": "República Democrática de Timor-Leste",
+      "Tetum": "Repúblika Demokrátika de Timór-Leste"
+    }
+  },
+  "Symbols": {
+    "Flag": "Red field with a black isosceles triangle based on the hoist side, with a yellow arrowhead and a white star within the black triangle",
+    "Emblem": "A circular emblem with rice stalks surrounding a traditional house, with a star above and a scroll with the national motto below",
+    "Motto": {
+      "Portuguese": "Unidade, Acção, Progresso",
+      "English": "Unity, Action, Progress"
+    },
+    "Anthem": {
+      "Title": "Pátria",
+      "English Translation": "Fatherland",
+      "Duration": "2 minutes and 10 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Asia",
+    "Region": "Southeast Asia",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Dili",
+        "Latitude": "8.55°S",
+        "Longitude": "125.56°E"
+      }
+    },
+    "Location": "Southeast Asia",
+    "Area": {
+      "Total (km2)": 14874,
+      "Rank": "154",
+      "Water Percentage": "N/A"
+    },
+    "Coastline": ["Surrounded by the Timor Sea and the Ombai Strait"],
+    "Major Islands": ["Timor", "Oecusse", "Atauro", "Jaco"],
+    "Climate": ["Tropical; hot and humid; distinct rainy and dry seasons"]
+  },
+  "Demographics": {
+    "Population": {
+      "2021 Estimate": 1340513,
+      "Density per km2": 90
+    },
+    "Ethnic Groups": {
+      "Austronesian": "Majority",
+      "Papuan": "Significant Minority",
+      "Other": "Minority"
+    },
+    "Languages": {
+      "Official": ["Portuguese", "Tetum"],
+      "National": [
+        "Atauru", "Baikeno", "Bekais", "Bunak", "Fataluku", "Galoli", "Habun", 
+        "Idalaka", "Kawaimina", "Kemak", "Makalero", "Makasae", "Makuva", 
+        "Mambai", "Tokodede"
+      ],
+      "Working": ["English", "Indonesian"]
+    },
+    "Religion": {
+      "Christianity": 99.53,
+      "Catholicism": 97.57,
+      "Protestantism": 1.96,
+      "Islam": 0.24,
+      "Other": 0.23
+    }
+  },
+  "Government": {
+    "Type": "Unitary semi-presidential republic",
+    "Leaders": {
+      "President": "José Ramos-Horta",
+      "Prime Minister": "Xanana Gusmão"
+    },
+    "Legislature": "National Parliament",
+    "Constitution": "20 May 2002"
+  },
+  "History": {
+    "Independence": {
+      "From Portugal": "28 November 1975",
+      "Annexation by Indonesia": "17 July 1976",
+      "Administered by UNTAET": "25 October 1999",
+      "Independence Restored": "20 May 2002"
+    }
+  },
+  "Economy": {
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 5,
+      "Per Capita (USD)": 3747
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 2,
+      "Per Capita (USD)": 1497
+    },
+    "Currency": "United States Dollar (USD) and East Timor Centavo",
+    "Main Exports": ["Oil", "Coffee"],
+    "Gini Index": "N/A",
+    "HDI": "N/A"
+  },
+  "International Relations": {
+    "UN Member": true,
+    "Community of Portuguese Language Countries Member": true,
+    "Pacific Islands Forum Observer": true,
+    "ASEAN Applicant": true
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+9 (Timor-Leste Time)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Left",
+    "Calling Code": "+670",
+    "ISO 3166 Code": "TL",
+    "Internet TLD": ".tl",
+    "Public Holidays": [
+      "New Year's Day (January 1)",
+      "Restoration of Independence Day (May 20)",
+      "Corpus Christi (June)",
+      "Assumption of Mary (August 15)",
+      "All Saints' Day (November 1)",
+      "Proclamation of Independence Day (November 28)",
+      "National Heroes Day (December 7)",
+      "Christmas Day (December 25)"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage influenced by Austronesian and Papuan traditions",
+    "Cultural Contributions": ["Traditional music and dance", "Oral literature", "Cuisine"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.0,
+    "Exports Growth": "Driven by oil, coffee, and tourism",
+    "Inflation Rate": "2.8%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Energy", "Agriculture"],
+      "Challenges": "Balancing economic growth with environmental sustainability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "N/A",
+        "Expectation": "Steady growth into 2024"
+      },
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Food Products": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on Southeast Asian culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Energy", "Agriculture", "Telecommunications"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Additional Information": {
+    "Time Zone": ["UTC+9 (Timor-Leste Time)"],
+    "Driving Side": "Left",
+    "Calling Code": "+670",
+    "ISO Code": "TL",
+    "Internet TLD": ".tl",
+    "International Relations": [
+      "Community of Portuguese Language Countries", 
+      "Pacific Islands Forum (observer)", 
+      "ASEAN (applicant)"
+    ]
+  }
+}

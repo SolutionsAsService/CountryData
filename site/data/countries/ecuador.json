@@ -1,0 +1,189 @@
+{
+  "Name": {
+    "Common": "Ecuador",
+    "Official": "Republic of Ecuador",
+    "Native": {
+      "Spanish": "República del Ecuador",
+      "Quechua": "Ikwayur Ripuwlika",
+      "Shuar": "Ekuatur Nunka"
+    }
+  },
+  "Symbols": {
+    "Flag": "A horizontal tricolor of yellow (double width), blue and red with the National Coat of Arms superimposed at the center",
+    "Emblem": "A shield with the sun and the zodiac, flanked by four national flags, and supported by a bundle of wheat and palm leaves, atop a condor with outstretched wings",
+    "Motto": {
+      "Spanish": "Dios, patria y libertad",
+      "Latin": "Pro Deo, Patria et Libertate",
+      "Translation": "God, homeland and freedom"
+    },
+    "Anthem": {
+      "Title": "Salve, Oh Patria",
+      "Translation": "Hail, Oh Fatherland",
+      "Duration": "1 minute and 25 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "South America",
+    "Region": "Northwestern South America",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Quito",
+        "Latitude": "00°13′12″S",
+        "Longitude": "78°30′43″W"
+      }
+    },
+    "Location": {
+      "General": "northwestern South America",
+      "Borders": {
+        "North": "Colombia",
+        "East and South": "Peru",
+        "West": "Pacific Ocean"
+      },
+      "Includes": {
+        "Galápagos Islands": {
+          "Distance": "1,000 kilometers (621 mi)",
+          "Direction": "west"
+        }
+      }
+    },
+    "Area": {
+      "Total (km2)": 283561,
+      "Rank": "73",
+      "Water Percentage": "5%"
+    },
+    "Time Zones": ["UTC−5", "UTC−6 (Galápagos Islands)"],
+    "Largest City": "Guayaquil",
+    "Natural Resources": ["Petroleum", "Fish", "Timber"],
+    "Climate": ["Varies by region; tropical along coast, cooler inland, tropical in Amazonian jungle"],
+    "Major Features": {
+      "Highest Point": "Pico Duarte",
+      "Largest Lake": "Lake Enriquillo",
+      "Lowest Point": "Lake Enriquillo, 40m below sea level",
+      "Major River": "Yaque del Norte"
+    }
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 17483326,
+      "Census 2022": 16938986,
+      "Density per km2": 69
+    },
+    "Ethnic Groups": {
+      "Mestizo": 77.5,
+      "Montubio": 7.8,
+      "Indigenous": 7.6,
+      "Black": 4.8,
+      "White": 2.2,
+      "Other": 0.1
+    },
+    "Languages": {
+      "Official": ["Spanish"],
+      "Recognized Regional": ["Kichwa (Quechua)", "Shuar and others"]
+    },
+    "Religion": {
+      "Christianity": 86.7,
+      "Catholicism": 68.8,
+      "Protestantism": 16.8,
+      "Other Christian": 1.1,
+      "No Religion": 12.9,
+      "Other": 0.4
+    },
+    "Demonym": "Ecuadorian"
+  },
+  "Government": {
+    "Type": "Unitary presidential republic",
+    "Leaders": {
+      "President": "Daniel Noboa",
+      "Vice President": "Verónica Abad Rojas"
+    },
+    "Legislature": "National Assembly",
+    "Constitution": "28 September 2008"
+  },
+  "History": {
+    "Pre-Columbian": "Home to various indigenous peoples",
+    "Inca Empire": "Incorporated into the Inca Empire in the 15th century",
+    "Spanish Colonization": "Colonized by the Spanish Empire in the 16th century",
+    "Independence": {
+      "Declared": "10 August 1809",
+      "From Spain": "24 May 1822",
+      "From Gran Colombia": "13 May 1830",
+      "Recognized by Spain": "16 February 1840",
+      "Liberal Revolution": "5 June 1895"
+    }
+  },
+  "Economy": {
+    "Status": "Developing country",
+    "Dependence": "Highly dependent on commodity exports",
+    "Major Industries": ["Petroleum", "Agricultural products"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 242.579,
+      "Per Capita (USD)": 13285
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 118.686,
+      "Per Capita (USD)": 6500
+    },
+    "Currency": "United States dollar (USD)",
+    "Gini Index": "45.5 (2022)",
+    "HDI": "0.740 (2021)",
+    "HDI Rank": "95th"
+  },
+  "International Relations": {
+    "UN Member": true,
+    "OAS Member": true,
+    "Mercosur Member": true,
+    "PROSUR Member": true,
+    "Non-Aligned Movement Member": true
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC−5", "UTC−6 (Galápagos Islands)"],
+    "Date Format": ["dd/mm/yyyy"],
+    "Driving Side": "Right",
+    "Calling Code": "+593",
+    "ISO 3166 Code": "EC",
+    "Internet TLD": ".ec",
+    "Territories": ["Galápagos Islands"]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Rich cultural heritage influenced by indigenous, Spanish, and African traditions",
+    "Cultural Contributions": ["Traditional music and dance", "Cuisine", "Art"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.2,
+    "Exports Growth": "Driven by petroleum, agriculture, and tourism",
+    "Inflation Rate": "2.5%",
+    "Policy Response": {
+      "Focus": "Economic diversification and infrastructure development",
+      "Areas": ["Energy", "Agriculture"],
+      "Challenges": "Balancing economic growth with environmental sustainability"
+    },
+    "Market Performance": {
+      "Equity Market": {
+        "Index": "N/A",
+        "Expectation": "Steady growth into 2024"
+      },
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Food Products": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on South American culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Energy", "Agriculture", "Telecommunications"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  }
+}

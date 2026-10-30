@@ -1,0 +1,53 @@
+{
+  "territory": "British Cyprus",
+  "time_period": "1878–1960",
+  "flag": "Flag of British Cyprus (1922–1960)",
+  "badge": "Badge of British Cyprus (1905–1960)",
+  "status": {
+    "1878–1914": "British protectorate",
+    "1914–1925": "British military administration",
+    "1925–1960": "British Crown colony"
+  },
+  "capital": "Nicosia",
+  "common_languages": ["English (official)", "Greek", "Turkish"],
+  "religion": [
+    "Greek Orthodox Church of Cyprus",
+    "Anglican Church of Cyprus",
+    "Sunni and Shia Islam (Alevism, Naqshbandiyya)"
+  ],
+  "government": "Crown colony",
+  "monarchs": {
+    "first": {"Victoria": "1878–1901"},
+    "last": {"Elizabeth II": "1952–1960"}
+  },
+  "governors": {
+    "first": {"Garnet Wolseley": "1878–1879"},
+    "last": {"Hugh Foot": "1957–1960"}
+  },
+  "legislature": "Legislative Council",
+  "significant_events": {
+    "Cyprus Convention": "4 June 1878",
+    "Protectorate established": "12 July 1878",
+    "British annexation": "5 November 1914",
+    "Treaty of Lausanne": "24 July 1923",
+    "Crown colony of Cyprus": "1 May 1925",
+    "Enosis referendum": "15 January 1950",
+    "Cyprus Emergency": "1 April 1955",
+    "London & Zürich Agreements": "19 February 1959",
+    "Independence": "16 August 1960"
+  },
+  "area_1924_km2": "9,272",
+  "population": {
+    "1924": "310,709",
+    "1955": "529,972",
+    "1960": "572,930"
+  },
+  "currency": {
+    "1878–79": "Ottoman lira",
+    "from 1879": "Cypriot pound"
+  },
+  "preceded_by": "Ottoman Cyprus",
+  "succeeded_by": ["Republic of Cyprus", "Akrotiri and Dhekelia"],
+  "today_part_of": ["Cyprus", "Northern Cyprus", "Akrotiri and Dhekelia"],
+  "summary": "British Cyprus was under the dominion of the British Empire from 1878 to 1960, transitioning from a protectorate to a military administration, and finally to a Crown colony. It experienced significant political and cultural changes, including the Cyprus Convention and Treaty of Lausanne. The territory's status shifted following World War I and it played a role in regional and international politics until its independence in 1960 following the London and Zürich Agreements."
+}

@@ -1,0 +1,60 @@
+{
+  "FederalStateOfAustria": {
+    "period": "1934–1938",
+    "flag": "State flag of Federal State of Austria",
+    "coatOfArms": "Coat of arms of Federal State of Austria",
+    "anthem": {
+      "title": "Sei gesegnet ohne Ende",
+      "duration": "1 minute and 11 seconds",
+      "translation": "Be Blessed Without End"
+    },
+    "capital": "Vienna",
+    "commonLanguage": "German (Austrian German)",
+    "religion": [
+      "Catholic",
+      "Eastern Orthodox",
+      "Protestant",
+      "Judaism"
+    ],
+    "demonym": "Austrian",
+    "governmentType": "Federal one-party austrofascist parliamentary republic under an authoritarian dictatorship",
+    "leaders": {
+      "president": {
+        "name": "Wilhelm Miklas",
+        "period": "1934–1938"
+      },
+      "chancellors": [
+        {
+          "name": "Engelbert Dollfuss",
+          "period": "1934"
+        },
+        {
+          "name": "Kurt Schuschnigg",
+          "period": "1934–1938"
+        },
+        {
+          "name": "Arthur Seyss-Inquart",
+          "period": "1938"
+        }
+      ]
+    },
+    "legislature": "Nationalrat",
+    "significantEvents": {
+      "mayConstitution": "1 May 1934",
+      "assassinationOfDollfuss": "25 July 1934",
+      "berchtesgadenAgreement": "12 February 1938",
+      "anschluss": "13 March 1938"
+    },
+    "currency": "Austrian schilling",
+    "predecessors": ["First Austrian Republic"],
+    "successors": ["Nazi Germany"],
+    "endOfIndependence": {
+      "anschluss": "13 March 1938",
+      "independenceRegained": "1955",
+      "condition": "Austrian State Treaty ended the Allied occupation"
+    },
+    "ideology": "Placeholder for detailed information on austrofascist ideology",
+    "civilRights": "Placeholder for information on civil rights under the regime",
+    "anschluss": "Placeholder for detailed information on the Anschluss process and its implications"
+  }
+}

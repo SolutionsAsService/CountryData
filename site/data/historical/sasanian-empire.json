@@ -1,0 +1,56 @@
+{
+  "name": "Sasanian Empire",
+  "alternative_names": ["Sassanid Empire", "Eranshahr", "Second Persian Empire", "Neo-Persian Empire"],
+  "time_period": "224–651 AD",
+  "geographical_extent_at_peak": "c. 620 under Khosrow II",
+  "preceding_states": [
+    "Parthian Empire",
+    "Kingdom of Iberia",
+    "Kushan Empire",
+    "Kingdom of Armenia",
+    "Kings of Persis"
+  ],
+  "succeeding_states": [
+    "Rashidun Caliphate",
+    "Dabuyid dynasty",
+    "Bavand dynasty",
+    "Zarmihrids",
+    "Masmughans of Damavand",
+    "Qarinvand dynasty",
+    "Tokhara Yabghus"
+  ],
+  "capitals": [
+    {"Istakhr": "224–226"},
+    {"Ctesiphon": "226–637"}
+  ],
+  "languages": [
+    "Middle Persian (official)",
+    "Other languages"
+  ],
+  "religion": [
+    "Zoroastrianism (official)",
+    "Christianity",
+    "Judaism",
+    "Manichaeism",
+    "Mazdakism",
+    "Hinduism",
+    "Buddhism"
+  ],
+  "government_type": "Feudal monarchy",
+  "rulers": [
+    {"Ardashir I": "224–241 (first)"},
+    {"Yazdegerd III": "632–651 (last)"}
+  ],
+  "historical_era": "Late Antiquity",
+  "significant_events": [
+    {"Battle of Hormozdgan": "28 April 224"},
+    {"The Iberian War": "526–532"},
+    {"Climactic Roman–Persian War of 602–628": "602–628"},
+    {"Civil war": "628–632"},
+    {"Muslim conquest": "633–651"}
+  ],
+  "collapse": "Empire collapses in 651",
+  "area": "3,500,000 km2 (1,400,000 sq mi)",
+  "flag": "Derafsh Kaviani",
+  "imperial_emblem": "Simurgh"
+}

@@ -1,0 +1,41 @@
+{
+  "region": "French Equatorial Africa",
+  "abbreviation": "AEF",
+  "french_name": "Afrique-Équatoriale française",
+  "time_period": "1910–1958",
+  "flag": "Flag of French Equatorial Africa",
+  "coat_of_arms": "Coat of arms of French Equatorial Africa",
+  "status": {
+    "1910–1934": "Federation of French colonies",
+    "1934–1958": "French colony"
+  },
+  "capital": "Brazzaville",
+  "official_language": "French",
+  "religion": "Catholicism and others",
+  "leaders": {
+    "Governor-Generals": {
+      "first": {"Martial Henri Merlin": "1908–1917"},
+      "last": {"Paul Louis Gabriel Chauvet": "1951–1957"}
+    },
+    "High-Commissioners": {
+      "1957–58": "Paul Louis Gabriel Chauvet",
+      "1958": "Pierre Messmer"
+    }
+  },
+  "historical_events": {
+    "Established": "15 January 1910",
+    "Disestablished": "September 1958"
+  },
+  "area_km2": "2,500,000",
+  "currency": ["French Equatorial African franc", "CFA franc"],
+  "colonial_territories": {
+    "Gabon": {"part_of_AEF": "1910–1958"},
+    "French Congo": {"part_of_AEF": "1910–1958"},
+    "Ubangi-Shari": {"part_of_AEF": "1910–1958"},
+    "Chad": {"part_of_AEF": "1910–1958"}
+  },
+  "preceded_by": ["Ubangi-Shari", "French Chad", "French Congo"],
+  "succeeded_by": ["Central African Republic", "Chad", "Gabon", "Republic of the Congo"],
+  "today_part_of": ["Central African Republic", "Chad", "Republic of the Congo", "Gabon"],
+  "summary": "French Equatorial Africa (AEF) was a federation and later a colony encompassing four territories: Gabon, French Congo, Ubangi-Shari, and Chad. It existed from 1910 to 1958 with Brazzaville as its capital. AEF was established to streamline the administration and promote development within these territories under French colonial rule. The region was characterized by its vast area, diverse cultures, and the French influence on its administration, education, and economy. AEF's disestablishment in 1958 marked the beginning of the transition towards independence for these territories, which are now the sovereign nations of the Central African Republic, Chad, Republic of the Congo, and Gabon."
+}

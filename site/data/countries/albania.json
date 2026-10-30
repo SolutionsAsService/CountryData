@@ -1,0 +1,72 @@
+{
+  "Name": {
+    "Common": "Albania",
+    "Official": "Republic of Albania"
+  },
+  "Geography": {
+    "Capital City": "Tirana",
+    "Largest City": "Tirana",
+    "Major Cities": ["Durrës", "Vlorë", "Shkodër"],
+    "Area": {
+      "Total (km2)": 28748
+    },
+    "Borders": ["Montenegro", "Kosovo", "North Macedonia", "Greece"],
+    "Region": "Southeast Europe",
+    "Coordinates": "41°19′N, 19°49′E",
+    "Landscape": ["Albanian Alps", "Korab Mountains", "Skanderbeg Mountains", "Pindus Mountains", "Ceraunian Mountains", "Adriatic Sea coast", "Ionian Sea coast"],
+    "Climate": "Varied"
+  },
+  "Government": {
+    "Type": "Unitary parliamentary republic",
+    "President": "Bajram Begaj",
+    "Prime Minister": "Edi Rama",
+    "Legislature": {
+      "Upper House": "N/A",
+      "Lower House": "Kuvendi"
+    }
+  },
+  "History": {
+    "Ancient": ["Illyrians", "Epirotes", "Greek colonies"],
+    "Medieval": ["Arbanon", "Kingdom of Albania", "Princedom of Albania", "Albania Veneta"],
+    "Modern": ["Ottoman rule", "Independence in 1912", "Italian and German occupation in WWII", "People's Socialist Republic", "Current Republic"]
+  },
+  "Economy": {
+    "GDP (PPP 2024) Total (Billion USD)": 59.099,
+    "GDP (Nominal 2024) Total (Billion USD)": 25.297,
+    "GDP per Capita (PPP USD)": 20739,
+    "GDP per Capita (Nominal USD)": 8877,
+    "Main Sectors": ["Service", "Manufacturing"],
+    "Currency": "Lek (ALL)"
+  },
+  "Demographics": {
+    "Population": {
+      "2022 Estimate": 2793592,
+      "Density per km2": 97.1
+    },
+    "Languages and Ethnic Groups": {
+      "Official Language": "Albanian",
+      "Minority Languages": ["Greek", "Aromanian", "Macedonian"],
+      "Ethnic Groups": ["Albanians"]
+    },
+    "Religion": {
+      "Islam": "59%",
+      "Christianity": "17%",
+      "No Religion": "9%",
+      "Undeclared": "15%"
+    }
+  },
+  "Miscellaneous": {
+    "Human Development Index (2021)": 0.791,
+    "Currency": "Lek (ALL)",
+    "Calling Code": "+355",
+    "Internet TLD": [".al"],
+    "UNESCO World Heritage Sites": "4",
+    "Public Holidays": [
+      "New Year holidays", "Day of Summer", "Nowruz Day", "Catholic Easter Sunday", "Eid al-Fitr", "Labour Day", "Orthodox Easter", "The Day of Kurban Bayram", "Saint Teresa's Consecration Day", "Flag and Independence Day", "Liberation Day", "National Youth Day", "Christmas Day"
+    ]
+  },
+  "International Relations": {
+    "EU Candidate": true,
+    "Membership": ["UN", "World Bank", "UNESCO", "NATO", "WTO", "COE", "OSCE", "OIC"]
+  }
+}

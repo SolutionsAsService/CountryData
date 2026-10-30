@@ -1,0 +1,226 @@
+{
+  "Name": {
+    "Common": "Korea",
+    "Official": "Republic of Korea",
+    "Native": {
+      "Korean": "대한민국 (Daehanminguk)"
+    }
+  },
+  "Symbols": {
+    "Flag": "Centered taegeuk on a white rectangle with four black trigrams",
+    "Coat of Arms": "Centered taegeuk on a hibiscus syriacus surrounded by five stylized petals and a ribbon",
+    "Anthem": {
+      "Title": "Aegukga",
+      "Translation": "The Patriotic Song",
+      "Duration": "2 minutes and 30 seconds"
+    }
+  },
+  "Geography": {
+    "Continent": "Asia",
+    "Coordinates": {
+      "Capital": {
+        "Name": "Seoul",
+        "Latitude": "37°33′N",
+        "Longitude": "126°58′E"
+      }
+    },
+    "Location": "East Asia, on the southern half of the Korean Peninsula, bordered by North Korea to the north, the Yellow Sea to the west, and the Sea of Japan (East Sea) to the east",
+    "Area": {
+      "Total (sq km)": 100410,
+      "Rank": "107th",
+      "Water Percentage": "0.3%"
+    },
+    "Topography": ["Mountains", "Plains", "Rivers"],
+    "Climate": ["Temperate with four distinct seasons"],
+    "Natural Resources": ["Coal", "Tungsten", "Graphite", "Molybdenum", "Lead"],
+    "Time Zones": ["UTC+09:00 (Korea Standard Time)"],
+    "Largest City": "Seoul"
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 51966948,
+      "Density (per sq km)": 507.0
+    },
+    "Ethnic Groups": {
+      "2023": {
+        "Korean": 95.1,
+        "Other": 4.9
+      }
+    },
+    "Languages": {
+      "Official": ["Korean (Pyojuneo)"],
+      "Official Script": ["Hangul"],
+      "Sign Language": ["Korean Sign Language"]
+    },
+    "Religion": {
+      "2023": {
+        "No Religion": 56.1,
+        "Christianity": 27.6,
+        "Buddhism": 15.5,
+        "Other": 0.8
+      }
+    },
+    "Demonym": "Korean"
+  },
+  "Government": {
+    "Type": "Unitary presidential constitutional republic",
+    "Leaders": {
+      "President": "Yoon Suk Yeol",
+      "Prime Minister": "Han Duck-soo",
+      "Speaker of the National Assembly": "Kim Jin-pyo",
+      "Chief Justice of the Supreme Court": "Cho Hee-dae",
+      "President of the Constitutional Court": "Lee Jongseok"
+    },
+    "Legislature": "National Assembly",
+    "Constitution": "25 February 1988",
+    "Independence History": {
+      "Gojoseon": "2333 BCE",
+      "Three Kingdoms": "57 BCE",
+      "Balhae and Silla Kingdoms": "668",
+      "Goryeo Dynasty": "918",
+      "Joseon Dynasty": "17 July 1392",
+      "Korean Empire": "12 October 1897",
+      "Japanese Annexation": "22 August 1910",
+      "Independence Declared": "1 March 1919",
+      "Provisional Government": "11 April 1919",
+      "Surrender of Japan": "2 September 1945",
+      "US Administration": "8 September 1945",
+      "ROK Established": "15 August 1948"
+    }
+  },
+  "History": {
+    "Historical Context": {
+      "Gojoseon": "2333 BCE",
+      "Three Kingdoms": "57 BCE",
+      "Balhae and Silla Kingdoms": "668",
+      "Goryeo Dynasty": "918",
+      "Joseon Dynasty": "17 July 1392",
+      "Korean Empire": "12 October 1897",
+      "Japanese Annexation": "22 August 1910",
+      "Independence Declared": "1 March 1919",
+      "Provisional Government": "11 April 1919",
+      "Surrender of Japan": "2 September 1945",
+      "US Administration": "8 September 1945",
+      "ROK Established": "15 August 1948"
+    }
+  },
+  "Economy": {
+    "Status": "Developed country",
+    "Dependence": "Technology, manufacturing, services",
+    "Major Industries": ["Electronics", "Automobiles", "Shipbuilding", "Chemicals", "Steel"],
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 2924,
+      "Per Capita (USD)": 56708
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 1709,
+      "Per Capita (USD)": 33147
+    },
+    "Currency": "Korean Republic won (₩) (KRW)",
+    "Gini Index": {
+      "Year": 2022,
+      "Value": 33.3,
+      "Category": "Medium"
+    },
+    "HDI": {
+      "Year": 2021,
+      "Value": 0.925,
+      "Category": "Very High",
+      "Rank": "23rd"
+    }
+  },
+  "International Relations": {
+    "Global Role": "Active in international affairs",
+    "Membership": [
+      "United Nations (UN)",
+      "Organisation for Economic Co-operation and Development (OECD)",
+      "Group of Twenty (G20)",
+      "Indo-Pacific Economic Framework (IPEF)",
+      "Paris Club"
+    ]
+  },
+  "Miscellaneous": {
+    "Time Zone": ["UTC+09:00 (Korea Standard Time)"],
+    "Date Format": ["yyyy년 m월 d일"],
+    "Driving Side": "Right",
+    "Calling Code": "+82",
+    "ISO 3166 Code": "KR",
+    "Internet TLD": [".kr", ".한국"],
+    "Public Holidays": [
+      "New Year's Day",
+      "Seollal (Lunar New Year)",
+      "Independence Movement Day",
+      "Children's Day",
+      "Buddha's Birthday",
+      "Memorial Day",
+      "Liberation Day",
+      "Chuseok (Harvest Festival)",
+      "National Foundation Day",
+      "Hangeul Day",
+      "Christmas Day"
+    ]
+  },
+  "Significant Cultural Aspects": {
+    "Legacy": "Influential pop culture globally known as Korean Wave (Hallyu)",
+    "Cultural Contributions": ["Art", "Cuisine", "Literature", "Music"],
+    "Unique Features": ["K-pop", "K-drama", "Traditional festivals"]
+  },
+  "Economic Outlook 2024": {
+    "Real GDP Growth Forecast": 3.0,
+    "Exports Growth": "Driven by technology and manufacturing sectors",
+    "Inflation Rate": "2.0%",
+    "Policy Response": {
+      "Focus": "Economic diversification and sustainability",
+      "Areas": ["Technology", "Manufacturing"],
+      "Challenges": "Balancing economic growth with social development"
+    },
+    "Market Performance": {
+      "Equity Market": "Korea Exchange",
+      "Commodity Imports": {
+        "Energy": "Significant",
+        "Raw Materials": "Increased demand"
+      }
+    }
+  },
+  "Social and Cultural Aspects": {
+    "Population Dynamics": {
+      "Urbanization Trends": "High urban population",
+      "Rural Development": "Focus on improving rural living standards"
+    },
+    "Cultural Heritage": {
+      "Influence": "Significant on East Asian and global culture",
+      "Key Aspects": ["Languages", "Traditions", "Music", "Cuisine"]
+    },
+    "Technology and Innovation": {
+      "Growth Sectors": ["Electronics", "Automobiles"],
+      "Digital Transformation": "Progress in government services, banking, and consumer sectors"
+    },
+    "Education and Healthcare": {
+      "Education System": "State-driven with emphasis on multilingual education",
+      "Healthcare Services": "Expansion and modernization, particularly in urban areas"
+    }
+  },
+  "Transport": {
+    "Major Modes": "Road, Rail, Air, and Sea transport",
+    "Key Transport Hubs": ["Seoul", "Busan", "Incheon"]
+  },
+  "Current Challenges": {
+    "Political Instability": "Moderate level of political unrest and instability",
+    "Economic Hardships": "Moderate poverty and unemployment rates",
+    "Natural Disasters": ["Earthquakes", "Typhoons"],
+    "Health Issues": ["COVID-19 pandemic"]
+  },
+  "Healthcare": {
+    "Life Expectancy": "83.5 years",
+    "Infant Mortality Rate": "2.7 deaths/1,000 live births",
+    "Health Expenditure of GDP": "8.1% (2020)"
+  },
+  "Education": {
+    "Expenditures of GDP": "5.1% (2020)",
+    "Literacy Rate": {
+      "Total": "99.2%",
+      "Male": "99.2%",
+      "Female": "99.2%"
+    }
+  }
+}

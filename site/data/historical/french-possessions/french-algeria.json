@@ -1,0 +1,49 @@
+{
+  "territory": "French Algeria",
+  "french_name": "Algérie française",
+  "arabic_name": "الجزائر المستعمرة",
+  "time_period": "1830–1962",
+  "flag": "Flag of Algeria",
+  "anthems": {
+    "1830–1848": "La Parisienne",
+    "1848–1852": "Le Chant des Girondins",
+    "1852–1870": "Partant pour la Syrie",
+    "1870–1962": "La Marseillaise"
+  },
+  "status": {
+    "1830–1848": "French colony",
+    "1848–1962": "Part of France"
+  },
+  "capital_and_largest_city": "Algiers",
+  "official_language": "French",
+  "common_languages": ["Algerian Arabic", "Hassaniya Arabic", "Berber languages"],
+  "government": "French Department",
+  "governor_generals": {
+    "first": {"Louis-Auguste-Victor Bourmont": "1830"},
+    "last": {"Christian Fouchet": "1962"}
+  },
+  "legislature": "Algerian Assembly (1948–1956)",
+  "historical_events": {
+    "Surrender of Algiers": "5 July 1830",
+    "Algerian Independence": "5 July 1962"
+  },
+  "area_km2": "2,381,741",
+  "currency": {
+    "1830–1848": "Budju",
+    "1848–1962": "(Algerian) Franc"
+  },
+  "preceded_by": ["Regency of Algiers", "Emirate of Abdelkader", "Kingdom of Beni Abbas", "Kel Ahaggar"],
+  "succeeded_by": "Algeria",
+  "demographics": {
+    "European_immigrants": "Known as colons or pieds-noirs",
+    "indigenous_population": "Muslim majority; significant decrease due to warfare, disease, and starvation (1830–1875)"
+  },
+  "independence_movement": {
+    "causes": "Lack of political and economic freedom for Muslim population",
+    "start_of_war": "1954",
+    "nature_of_war": "Guerrilla warfare and crimes against humanity",
+    "end_of_war": "Evian agreements in March 1962 and the self-determination referendum in July 1962"
+  },
+  "note": "Founding member of the European Coal and Steel Community and the European Economic Community in its last years as part of France",
+  "summary": "French Algeria, known officially as Algérie française, was a territory under French control from 1830 to 1962, transitioning from a colony to an integral part of France. The region was characterized by a mix of French and Arab-Berber culture, with a significant European immigrant population known as pieds-noirs alongside the indigenous Muslim majority. Throughout its history, Algeria experienced significant demographic changes, political unrest, and a prolonged struggle for independence, which culminated in the Algerian War. The conflict ended with Algeria gaining independence in 1962, marking the end of French rule and the beginning of a new era for the Algerian nation."
+}

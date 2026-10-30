@@ -1,0 +1,118 @@
+{
+  "German New Guinea": {
+    "Period": "1884–1920",
+    "Status": "German colony",
+    "Capitals": {
+      "Finschhafen": "1884–1891",
+      "Madang": "1891–1899",
+      "Herbertshöhe": "1899–1910",
+      "Simpsonhafen": "1910–1914"
+    },
+    "Languages": [
+      "German (official)",
+      "Austronesian languages",
+      "Papuan languages",
+      "German creoles"
+    ],
+    "Emperors": [
+      {
+        "Name": "Wilhelm I",
+        "Term": "1884–1888"
+      },
+      {
+        "Name": "Friedrich III",
+        "Term": "1888"
+      },
+      {
+        "Name": "Wilhelm II",
+        "Term": "1888–1918"
+      }
+    ],
+    "Governors": [
+      {
+        "Name": "Gustav von Oertzen",
+        "Term": "1884–1887"
+      },
+      {
+        "Name": "Albert Hahl",
+        "Term": "1901–1914"
+      }
+    ],
+    "Historical Era": "German colonisation in the Pacific Ocean",
+    "Significant Events": {
+      "Establishment": "3 November 1884",
+      "Direct Control Established": "12 February 1899",
+      "Australian Occupation": "17 September 1914",
+      "Treaty of Versailles": "28 June 1919",
+      "Australian Mandate Commences": "17 December 1920"
+    },
+    "Area": "1912 estimate 249,500 km2 (96,300 sq mi)",
+    "Population": {
+      "1912 Estimate": "600,000"
+    },
+    "Currency": "New Guinean mark",
+    "Preceded by": "Spanish East Indies",
+    "Succeeded by": [
+      "South Seas Mandate",
+      "British Solomon Islands",
+      "Mandate of Nauru",
+      "Territory of New Guinea"
+    ],
+    "Territories": [
+      {
+        "Name": "Kaiser-Wilhelmsland",
+        "Period": "1884–1919",
+        "Area": "181,650 km²",
+        "Current Country": "Papua New Guinea"
+      },
+      {
+        "Name": "Bismarck Archipelago",
+        "Period": "1899–1919",
+        "Area": "49,700 km²",
+        "Current Country": "Papua New Guinea"
+      },
+      {
+        "Name": "Buka Island",
+        "Period": "1899–1919",
+        "Area": "492 km²",
+        "Current Country": "Papua New Guinea"
+      },
+      {
+        "Name": "Bougainville Island",
+        "Period": "1899–1919",
+        "Area": "9,318 km²",
+        "Current Country": "Papua New Guinea"
+      },
+      {
+        "Name": "Palau",
+        "Period": "1899–1919",
+        "Area": "466 km²",
+        "Current Country": "Palau"
+      },
+      {
+        "Name": "Caroline Islands",
+        "Period": "1899–1919",
+        "Area": "2,150 km²",
+        "Current Countries": ["Federated States of Micronesia", "Palau"]
+      },
+      {
+        "Name": "Nauru",
+        "Period": "1906–1919",
+        "Area": "21 km²",
+        "Current Country": "Nauru"
+      },
+      {
+        "Name": "Mariana Islands",
+        "Period": "1899–1919",
+        "Area": "461 km²",
+        "Current Country": "Northern Mariana Islands"
+      },
+      {
+        "Name": "Marshall Islands",
+        "Period": "1906–1919",
+        "Area": "181 km²",
+        "Current Country": "Marshall Islands"
+      }
+    ]
+  }
+}

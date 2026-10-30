@@ -1,0 +1,34 @@
+{
+  "colonization_attempts": {
+    "Equinoctial France": {
+      "location": "Bay of São Luis",
+      "period": "17th century",
+      "description": "French colonization effort around the line of Equator",
+      "duration": "3 years"
+    },
+    "France Antarctique": {
+      "location": "Rio de Janeiro to Cabo Frio",
+      "period": "1555–1567",
+      "description": "French colony in modern-day Brazil, became a haven for Huguenots",
+      "end": "Destroyed by the Portuguese in 1567"
+    },
+    "Fort Coligny": {
+      "location": "Rio de Janeiro, Brazil",
+      "founded": "1555",
+      "founder": "Nicolas Durand de Villegaignon",
+      "description": "Fortress built as part of France Antarctique to protect against Indians and the Portuguese",
+      "fall": "Destroyed in 1560 by the Portuguese"
+    },
+    "Fernando de Noronha": {
+      "location": "Archipelago in the Atlantic Ocean, part of the State of Pernambuco, Brazil",
+      "period": "1736–1737",
+      "description": "French occupation of the archipelago as part of their broader colonization attempts"
+    },
+    "Island of Saint Alexis": {
+      "location": "Unspecified location in Brazil",
+      "period": "1531",
+      "description": "An early French attempt to establish a presence in Brazil"
+    }
+  },
+  "summary": "The French colonization attempts in what is now Brazil were marked by several ambitious but ultimately unsuccessful endeavors to establish a permanent French presence in the region. From Equinoctial France in the 17th century to various efforts in the 16th century including France Antarctique, Fort Coligny, and the island of Saint Alexis, these attempts were characterized by conflicts with indigenous populations and competing European powers, most notably Portugal. The ventures often became havens for persecuted groups like the Huguenots but were eventually overcome by the Portuguese, leading to French withdrawal from the region."
+}

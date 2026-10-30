@@ -1,0 +1,78 @@
+{
+  "empire": "Ottoman Empire",
+  "also_known_as": ["Turkish Empire"],
+  "official_name": "Sublime Ottoman State",
+  "native_name": "دولت عليه عثمانیه (Devlet-i ʿAlīye-i ʿOsmānīye)",
+  "time_period": "c. 1299–1922",
+  "flag": "Flag of the Ottoman Empire (1844–1922)",
+  "coat_of_arms": "Coat of arms of the Ottoman Empire (1882–1922)",
+  "motto": "دولت ابد مدت (Devlet-i Ebed-müddet - The Eternal State)",
+  "status": "Empire",
+  "capitals": {
+    "Söğüt": "c. 1299–1331",
+    "Nicaea (İznik)": "1331–1335",
+    "Bursa": "1335–1363",
+    "Adrianople (Edirne)": "1363–1453",
+    "Constantinople (Istanbul)": "1453–1922"
+  },
+  "official_languages": "Ottoman Turkish",
+  "common_languages": ["Arabic", "Persian", "Greek", "Chagatai", "French", "many others"],
+  "religion": {
+    "state": "Sunni Islam",
+    "school": "Hanafi"
+  },
+  "demonym": "Ottoman",
+  "government": {
+    "Absolute monarchy": "c. 1299–1876; 1878–1908; 1920–1922",
+    "Unitary parliamentary constitutional monarchy": "1876–1878; 1908–1920",
+    "Triumvirate dictatorship": "1913–1918"
+  },
+  "rulers": {
+    "first_sultan": "Osman I (c. 1299–1323/4)",
+    "last_sultan": "Mehmed VI (1918–1922)",
+    "first_caliph": "Selim I (1517–1520)",
+    "last_caliph": "Abdulmejid II (1922–1924)"
+  },
+  "grand_viziers": {
+    "first": "Alaeddin Pasha (1320–1331)",
+    "last": "Ahmet Tevfik Pasha (1920–1922)"
+  },
+  "legislature": {
+    "General Assembly": "(1876–1878; 1908–1920)",
+    "None, rule by decree": "(1299–1876; 1878–1908; 1920–1922)",
+    "Chamber of Notables": "(1876–1878; 1908–1920)",
+    "Chamber of Deputies": "(1876–1878; 1908–1920)"
+  },
+  "significant_events": {
+    "Founded": "c. 1299",
+    "Interregnum": "1402–1413",
+    "Conquest of Constantinople": "29 May 1453",
+    "1st Constitutional Era": "1876–1878",
+    "2nd Constitutional Era": "1908–1920",
+    "Raid on the Sublime Porte": "23 January 1913",
+    "Sultanate abolished": "1 November 1922",
+    "Republic of Turkey established": "29 October 1923",
+    "Caliphate abolished": "3 March 1924"
+  },
+  "area_peak_years": {
+    "1481": "1,220,000 km2",
+    "1521": "3,400,000 km2",
+    "1683": "5,200,000 km2",
+    "1913": "2,550,000 km2"
+  },
+  "population_1912": "24,000,000",
+  "currency": ["akçe", "para", "sultani", "kuruş (piastre)", "lira"],
+  "predecessors": [
+    "Sultanate of Rum", "Anatolian beyliks", "Byzantine Empire", "Despotate of the Morea", "Empire of Trebizond",
+    "Principality of Theodoro", "Second Bulgarian Empire", "Tsardom of Vidin", "Despotate of Dobruja", "Despotate of Lovech",
+    "Serbian Despotate", "Kingdom of Bosnia", "Zeta", "Kingdom of Hungary", "Kingdom of Croatia", "League of Lezhë",
+    "Mamluk Sultanate", "Hafsid Kingdom", "Aq Qoyunlu", "Hospitaller Tripoli", "Kingdom of Tlemcen"
+  ],
+  "successors": [
+    "Turkey", "Hellenic Republic", "Caucasus Viceroyalty", "Principality of Bulgaria", "Eastern Rumelia", "Albania",
+    "Kingdom of Romania", "Revolutionary Serbia", "Bosnia and Herzegovina", "Principality of Montenegro", "Emirate of Asir",
+    "Kingdom of Hejaz", "OETA", "Mandatory Iraq", "French Algeria", "British Cyprus", "French Tunisia", "Italian Tripolitania",
+    "Italian Cyrenaica", "Sheikhdom of Kuwait", "Kingdom of Yemen", "Sultanate of Egypt"
+  ],
+  "summary": "The Ottoman Empire was a vast and enduring empire that controlled regions of Southeast Europe, West Asia, North Africa, and parts of Central Europe between the 14th and early 20th centuries. Known for its military prowess, cultural richness, and architectural achievements, the empire was founded by Osman I and lasted until the early 20th century. It was a center for trade, arts, and learning, influencing regions far beyond its borders. The empire underwent significant changes, including constitutional reforms and periods of dictatorship, before its dissolution and transformation into the Republic of Turkey and other modern states."
+}

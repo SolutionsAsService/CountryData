@@ -1,0 +1,39 @@
+{
+  "Duchy of Prussia": {
+    "Official Names": ["Herzogtum Preußen (German)", "Prusy Książęce (Polish)", "Prūsijos kunigaikštystė (Lithuanian)"],
+    "Period": "1525–1701",
+    "Flag": "Flag of Prussia (1525–1657)",
+    "Coat of Arms": "Displayed",
+    "Status": ["Fief of Poland (until 1657)", "Part of Brandenburg-Prussia (from 1618)"],
+    "Capital": "Königsberg",
+    "Coordinates": "54°50′N 21°20′E",
+    "Common Languages": ["Low German", "German", "Polish", "Lithuanian", "Old Prussian"],
+    "Religion": "Lutheranism",
+    "Demonym": "Prussian",
+    "Government Type": "Feudal monarchy",
+    "Dukes": {
+      "First": "Albert (1525–1568)",
+      "Last": "Frederick (1688–1701)"
+    },
+    "Legislature": "Estates",
+    "Historical Era": "Early modern period",
+    "Significant Events": {
+      "Prussian Homage": "10 April 1525",
+      "Treaty of Wehlau": "1657",
+      "Coronation": "1701"
+    },
+    "Area": "30,000 km2 (12,000 sq mi)",
+    "Preceded By": ["State of the Teutonic Order"],
+    "Succeeded By": ["Kingdom of Prussia", "Brandenburg-Prussia"],
+    "Today Part of": ["Lithuania", "Poland", "Russia"],
+    "Overview": {
+      "Background": "Secularization of Monastic Prussia, leading to the Protestant Reformation and the establishment of the Duchy of Prussia under Duke Albert.",
+      "Establishment": "Granted the title 'Duke of Prussia' by King Sigismund I of Poland in the Prussian Homage after Albert's resignation and conversion to Protestantism.",
+      "Religious Reform": "Lutheranism established as the state religion, with significant religious and administrative reforms.",
+      "Lack of Heirs": "Ducal Prussia passed on to the senior Brandenburg Hohenzollern line, ruling in personal union.",
+      "Personal Union with Brandenburg": "Brandenburg and Ducal Prussia ruled as one, referred to as Brandenburg-Prussia.",
+      "Emancipation": "Treaty of Wehlau and Treaty of Bromberg confirmed Frederick William's full sovereignty over the Duchy of Prussia.",
+      "Expansion and Consolidation": "Annexation of Royal Prussia, reorganization into the Province of East Prussia, and formation of the Kingdom of Prussia."
+    }
+  }
+}

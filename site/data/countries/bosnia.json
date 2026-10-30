@@ -1,0 +1,106 @@
+{
+  "Name": {
+    "Common": "Bosnia",
+    "Official": "Bosnia and Herzegovina",
+    "Latin": "Bosna i Hercegovina",
+    "Cyrillic": "Босна и Херцеговина"
+  },
+  "Geography": {
+    "Region": "Southeast Europe",
+    "Balkan Peninsula": true,
+    "Borders": {
+      "East": "Serbia",
+      "Southeast": "Montenegro",
+      "North": "Croatia",
+      "Southwest": "Croatia",
+      "Adriatic Coast Length": "20 kilometres"
+    },
+    "Area": {
+      "Total (km2)": 51219,
+      "Rank": "125",
+      "Water Percentage": "0.5%"
+    },
+    "Capital": {
+      "Name": "Sarajevo",
+      "Coordinates": "43°52′N 18°25′E"
+    },
+    "Climate": {
+      "Central East": "Continental",
+      "Northwest": "Moderately Hilly",
+      "Northeast": "Predominantly Flat",
+      "South": "Mediterranean, Mountainous"
+    },
+    "Terrain": ["Mountains", "Valleys", "Plains"],
+    "Natural Resources": ["Coal", "Iron", "Bauxite", "Lignite", "Forests"]
+  },
+  "Demographics": {
+    "Population": {
+      "2023 Estimate": 3428000,
+      "Density per km2": 67
+    },
+    "Ethnic Groups (2013)": {
+      "Bosniaks": "50.1%",
+      "Serbs": "30.8%",
+      "Croats": "15.4%",
+      "Others": "3.7%"
+    },
+    "Languages": {
+      "Official": ["Bosnian", "Croatian", "Serbian"]
+    },
+    "Religion (2013)": {
+      "Islam": "51%",
+      "Christianity": "46%",
+      "Serbian Orthodox": "31%",
+      "Catholicism": "15%",
+      "Other": "3%",
+      "No Religion": "3%"
+    }
+  },
+  "Government": {
+    "Type": "Federal parliamentary directorial republic",
+    "High Representative": "Christian Schmidt",
+    "Chairman of the Presidency": "Željko Komšić",
+    "Members of the Presidency": ["Denis Bećirović", "Željka Cvijanović"],
+    "Chairwoman of the Council of Ministers": "Borjana Krišto",
+    "Legislature": {
+      "Upper House": "House of Peoples",
+      "Lower House": "House of Representatives"
+    }
+  },
+  "Economy": {
+    "GDP (PPP 2023)": {
+      "Total (Billion USD)": 68.012,
+      "Per Capita (USD)": 19634
+    },
+    "GDP (Nominal 2023)": {
+      "Total (Billion USD)": 26.945,
+      "Per Capita (USD)": 7778
+    },
+    "Currency": "Convertible mark (BAM)",
+    "Gini Coefficient": "32.7 (2015)",
+    "HDI": "0.780 (2021)"
+  },
+  "Miscellaneous": {
+    "Time Zone": "UTC+1 (CET)",
+    "Driving Side": "Right",
+    "Calling Code": "+387",
+    "ISO 3166 Code": "BA",
+    "Internet TLD": ".ba",
+    "Public Holidays (2024)": [
+      "New Year's Day (January 1)",
+      "Orthodox Christmas Day (January 7)",
+      "Independence Day (March 1)",
+      "Labor Day (May 1)",
+      "Victory Day (May 9)",
+      "Kurban Bajram (June 16)",
+      "All Saints' Day (November 1)",
+      "Dayton Agreement Day (November 21)",
+      "Statehood Day (November 25)",
+      "Catholic Christmas Day (December 25)",
+      "Saint Stephen's Day (December 26)"
+    ]
+  },
+  "Participation in International Events": {
+    "Summer Olympics 2024": "Participating in Paris, France"
+  }
+}

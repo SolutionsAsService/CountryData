@@ -1,0 +1,83 @@
+{
+  "EmpireOfJapan": {
+    "terminology": {
+      "officialTerm": "Japanese Empire",
+      "literalTranslation": "Imperial State of Greater Japan",
+      "JapaneseName": {
+        "kanji": "大日本帝國",
+        "hiragana": "だいにっぽんていこく",
+        "katakana": "ダイニッポンテイコク",
+        "kyujitai": "大日本帝國",
+        "shinjitai": "大日本帝国",
+        "romanization": "Dai Nippon Teikoku"
+      }
+    },
+    "history": {
+      "meijiRestoration": "3 January 1868",
+      "constitutionEnactment": "11 February 1889",
+      "majorWars": [
+        "First Sino-Japanese War",
+        "Russo-Japanese War",
+        "World War I",
+        "Second Sino-Japanese War",
+        "Pacific War"
+      ],
+      "ideologicalShifts": [
+        "Rise of militarism",
+        "Nationalism",
+        "Statism",
+        "Totalitarianism"
+      ],
+      "surrenderDate": "2 September 1945",
+      "constitutionReform": "3 May 1947"
+    },
+    "demographics": {
+      "1920Population": "77,700,000",
+      "1940Population": "105,200,000"
+    },
+    "economy": {
+      "industrialization": "Late 19th to early 20th century",
+      "economicChallenges": "Great Depression",
+      "currency": ["Japanese yen", "Korean yen", "Taiwanese yen"]
+    },
+    "education": {
+      "modernizationEfforts": "Following Meiji Restoration",
+      "notableScholarsScientists": "Placeholder for contributions of scholars and scientists"
+    },
+    "government": {
+      "capital": {
+        "initial": "Kyoto (1868–1869)",
+        "final": "Tokyo (1943–1947)"
+      },
+      "governmentStructure": [
+        "Unitary absolute monarchy (1868–1889)",
+        "Unitary parliamentary semi-constitutional monarchy (1889–1947)"
+      ],
+      "emperors": [
+        {"Meiji": "1868–1912"},
+        {"Taishō": "1912–1926"},
+        {"Shōwa": "1926–1947"}
+      ],
+      "legislature": {
+        "none": "1868–1871",
+        "houseOfPeers": "1889–1947",
+        "houseOfRepresentatives": "from 1890"
+      }
+    },
+    "military": {
+      "initialSuccesses": "Early 20th century",
+      "defensiveStance": "From 1942",
+      "surrenderFactors": ["Atomic bombings", "Soviet invasion"],
+      "postWar": "Dissolution of Imperial Japanese Armed Forces, establishment of Japan Self-Defense Forces"
+    },
+    "emblems": {
+      "flag": "Flag of Japan",
+      "imperialSeal": "Imperial Seal"
+    },
+    "territorialExtent": {
+      "naichi": "Japanese archipelago and Karafuto",
+      "gaichi": ["Korea", "Taiwan", "Kwantung Leased Territory"],
+      "peakTerritory": "1942"
+    }
+  }
+}
